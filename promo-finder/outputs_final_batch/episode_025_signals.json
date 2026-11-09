@@ -1,0 +1,653 @@
+{
+  "episode_number": 25,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Atmospheric wide tracking shot of a woman hurrying through a misty forest, but lacks immediate visceral conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single spoken name ('Juliana') offers no standalone stakes or narrative hook for a cold scroller.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle pan up as a man emerges to block the trail creates mild tension, but lacks explosive visual punch.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'Why are you walking like that?' hints at suspicion, but Juliana's dismissive reply lowers the immediate urgency.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of Juliana clutching her cloak collar with visibly trembling fingers creates clear visual friction and curiosity.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'You're hurt' combined with a sharp wince of pain establishes immediate bodily danger and confrontation.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Physical confrontation where a man grabs her shoulder and she recoils in visible agony creates high scroll-stop drama.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "'It is nothing' is a generic evasive remark with minimal auditory hook strength.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of Juliana visibly gritting her teeth in physical pain provides clear emotional and physical friction on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Visceral reveal of a raw, bloody riding-crop welt slashed across her bare shoulder is an unmistakable, maximum scroll-stopping visual shock.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "The demand 'Who did this?' delivers an urgent, confrontational question directly following evidence of violence.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of Alexander's scarred face visibly darkening with volatile fury conveys high-stakes menace without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "'It does not matter' is passive deflection that fails to seize attention on dialogue alone.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Bowing her head and averting her eyes shows resignation, but functions as low-key dramatic blocking.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight shot focusing on his burning, furious eyes establishes palpable simmering aggression.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A one-word interrogation ('Who?') carries intensity, though lacks standalone contextual narrative information.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Stepping aggressively into her personal space and seizing her hand creates assertive physical contact.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Whispering the perpetrator's identity ('Lady Catherine') provides an immediate reveal of antagonist-driven abuse.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Intimate close-up eye contact communicates emotional vulnerability, but remains standard two-person framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'Where did you meet her?' is an interrogative follow-up that relies heavily on the prior beat for stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Piercing close-up conveys stern intensity, but lacks dynamic physical motion or shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'I was punished as a maid' exposes humiliating class abuse and corporal punishment in a stark confession.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard close-up talking head of Juliana recounting past events.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'What were you doing there?' is standard investigative dialogue with low standalone hook value.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a stern questioning expression without active physical friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'Juliana... why were you inside Ashburg Manor?' introduces a forbidden, high-stakes location with intimate tension.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intense medium two-shot with Alexander leaning down close over her in the dark forest creates visual pressure.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'I went there to help someone' is noble but vague exposition.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Resolute close-up maintains eye contact, offering subtle character fortitude rather than scroll-stopping action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Naming 'The Dowager Duchess' introduces high-society intrigue and dangerous nobility involvement.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Static profile two-shot locked in place provides quiet dramatic stillness.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'The Dowager?' is an echo question indicating surprise without detailing the threat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up of Alexander's face freezing in genuine shock with visibly widening eyes reads clearly on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'Prudence told me she was dying' delivers an urgent, life-or-death revelation of impending tragedy.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Medium tracking shot of two figures casually walking side-by-side down a path.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Describing a gasping, dying woman dismissed by doctors creates a gripping medical conspiracy hook.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up turning to speak in a conversational posture.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'But it wasn't age' sharply subverts medical assumptions, immediately setting up foul play.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Two-shot of the pair stopping on the trail with somber expressions.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'What did you find?' is an expectant question acting merely as a cue for the upcoming revelation.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard shot of Alexander waiting quietly for an answer.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "The single word 'Poison' lands as an explosive shock revelation establishing an active murder plot.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up focusing directly on trembling lips as she confesses danger creates strong visual tension.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'Arsenic' specifies a lethal, deliberate murder weapon, instantly escalating the criminal conspiracy.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on eyes actively welling with distress telegraphs authentic terror without audio.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up insert of a scarred hand clenching into a white-knuckled fist of suppressed rage provides strong physical dramatic punch.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Revealing slow, calculated poisoning ('giving it to her again and again... without killing her quickly') is an extraordinary narrative hook.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of Juliana speaking with dread, lacking dynamic physical staging.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Alexander deep in thought processing information.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Explaining clandestine medical intervention on an unconscious victim highlights illicit heroics and high stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Two-shot with an earnest facial expression in the forest.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Incredulous questioning ('You treated her? ... Alone?') underscores the peril and illegality of her secret actions.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard close-up profile exchange between the two characters.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'Will you be going there again?' signals future risk, but lacks immediate visceral punch.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Furrowed brow close-up communicating protective concern.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'I have to' shows determination, though offers little standalone context as an isolated opening hook.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Resolute gaze in close-up without heightened visual conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'I cannot leave her there' articulates moral defiance in the face of mortal danger.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intimate physical contact: placing her hand on his chest followed by him tightly gripping both of her hands.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'Alexander... why are you so angry?' expresses interpersonal confusion, but acts as a setup line.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Juliana looking up questioningly at a darkened face.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "'Because you were standing inside a house where someone is poisoning a woman... and you never told me' is an explosive, high-stakes confrontation.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of Alexander speaking through visibly clenched teeth with suppressed fury reads clearly on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "'I knew you would worry' is a mild, defensive romantic trope.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Looking down sheepishly before making eye contact; minimal visual tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'Worry? They struck you. They could have killed you' aggressively surfaces lethal peril and physical assault.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up filled with terrified emotional passion confronting a steadfast heroine.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'Then tell me everything' marks a definitive dramatic pivot from opposition to conspiratorial alliance.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on clasped hands panning up to an agonizing, devoted gaze that conveys deep emotional weight on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B038",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "'Everything you saw' is a concluding request for details, functioning poorly as an opening hook.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Wide resolving shot of silhouettes walking away into the misty woods signifies scene closure rather than an opening scroll-stopper.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 1,
+      "specific_question": "Where is Juliana walking in such a hurry?",
+      "stakes_importance": "Low \u2014 establishes movement and atmospheric mood, but no clear conflict or threat is introduced yet.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why is Alexander ambushing Juliana on a secluded forest trail?",
+      "stakes_importance": "Medium \u2014 unexpected appearance blocking her path creates mild confrontation and curiosity about their relationship.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why is Juliana trembling and concealing her physical distress from Alexander?",
+      "stakes_importance": "Medium \u2014 obvious evasion hints at hidden trauma or injury.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "What kind of injury caused Juliana to gasp in agony when Alexander touched her?",
+      "stakes_importance": "Medium \u2014 shifts the scene from verbal deflection to confirmed physical trauma.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why is Juliana stubbornly minimizing an obvious injury?",
+      "stakes_importance": "Low \u2014 brief continuation of her denial before the physical reveal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who violently whipped Juliana across her bare shoulder with a riding crop?",
+      "stakes_importance": "High \u2014 visceral physical evidence of cruelty and abuse inflicted on the protagonist demands immediate retribution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana name the perpetrator before Alexander's explosive rage boils over?",
+      "stakes_importance": "High \u2014 high emotional tension as Alexander demands a target for his fury.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why does Juliana resign herself to accepting such brutal mistreatment without seeking justice?",
+      "stakes_importance": "Medium \u2014 shows her helplessness, but temporarily stalls the narrative momentum.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Alexander react to Juliana's silence?",
+      "stakes_importance": "Medium \u2014 silent reaction shot building impending pressure.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander's intimate physical insistence force Juliana to break her silence?",
+      "stakes_importance": "Medium \u2014 romantic intensity blended with relentless interrogation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why did noblewoman Lady Catherine brutally beat Juliana?",
+      "stakes_importance": "High \u2014 names an aristocratic antagonist, escalating the conflict from generic assault to high-stakes class conflict.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 2,
+      "specific_question": "Under what circumstances did Juliana cross paths with Lady Catherine?",
+      "stakes_importance": "Low \u2014 transitional investigative question setting up backstory.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why was Juliana trespassing in a private chamber dressed or treated as a servant?",
+      "stakes_importance": "Medium \u2014 hints at clandestine infiltration and unjust punishment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 2,
+      "specific_question": "What mission drove Juliana into such extreme danger?",
+      "stakes_importance": "Medium \u2014 transitional interrogation prompt.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "What secret purpose took Juliana inside the powerful seat of Ashburg Manor?",
+      "stakes_importance": "Medium \u2014 sharpens the geographical and social peril of her secret infiltration.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who at Ashburg Manor was desperate enough to require Juliana's illicit aid?",
+      "stakes_importance": "Medium \u2014 vague tease directly before the specific identity reveal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "What perilous entanglement connects Juliana to the highest-ranking noblewoman, the Dowager Duchess?",
+      "stakes_importance": "High \u2014 seismic status revelation tying a seemingly humble heroine directly to the grand matriarch of the manor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why does Juliana's mention of the Dowager Duchess strike absolute shock into Alexander?",
+      "stakes_importance": "High \u2014 freezes on Alexander's stunned realization, implying deep personal or political consequence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 3,
+      "specific_question": "Is the Dowager Duchess truly on the verge of death, or is something more sinister underway?",
+      "stakes_importance": "Medium \u2014 life-or-death stakes introduced into the noble household.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 2,
+      "specific_question": "Did the doctor miss something critical, or was his diagnosis deliberately false?",
+      "stakes_importance": "Medium \u2014 builds suspicion regarding medical negligence or deception.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "If the Dowager's collapse wasn't old age, what fatal affliction did Juliana uncover?",
+      "stakes_importance": "High \u2014 suspended pivot into active foul play and conspiracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "What horror did Juliana uncover in the Dowager's chamber?",
+      "stakes_importance": "Medium \u2014 prompt question hanging before the bombshell reveal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who in Ashburg Manor is methodically murdering the Dowager Duchess with poison?",
+      "stakes_importance": "High \u2014 drop-dead bombshell exposing an attempted murder plot at the center of the story.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Alexander and Juliana expose an untraceable arsenic conspiracy inside the high nobility?",
+      "stakes_importance": "High \u2014 clinical, lethal poison confirmed; immediately turns the drama into a deadly murder mystery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 4,
+      "specific_question": "What vengeance will Alexander unleash after learning of this cold-blooded murder plot?",
+      "stakes_importance": "High \u2014 pure kinetic tension focused on a scarred warrior barely restraining lethal violence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 4,
+      "specific_question": "Which insider is systematically dosing the Duchess with micro-doses to orchestrate an undetectable death?",
+      "stakes_importance": "High \u2014 chilling description of premeditated, insidious patricide/murder within the manor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 3,
+      "specific_question": "What is Alexander's strategic counter-move against this ruthless calculation?",
+      "stakes_importance": "Medium \u2014 processing reaction beat maintaining the investigative tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's illicit herbal remedy save the Duchess or mark Juliana as the prime suspect if discovered?",
+      "stakes_importance": "Medium \u2014 establishes Juliana's illegal interference with a noble's medical treatment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Prudence be trusted, or did Juliana expose herself to an accomplice in the poisoning?",
+      "stakes_importance": "Medium \u2014 introduces a second witness who could betray Juliana's covert actions.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana walk right back into the viper's nest where she was already assaulted?",
+      "stakes_importance": "Medium \u2014 direct setup of imminent mortal risk.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Alexander stop Juliana from walking directly into what could be a fatal trap at Ashburg Manor?",
+      "stakes_importance": "High \u2014 uncompromising resolution to face physical danger and aristocratic wrath head-on.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander's desperate protective grip hold Juliana back, or will their unspoken love compel him to join her fight?",
+      "stakes_importance": "High \u2014 intense emotional intimacy, hand-holding, and clash of wills under impending mortal peril.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 3,
+      "specific_question": "Is Alexander furious because she disobeyed protocol, or because his feelings for her make her danger intolerable to him?",
+      "stakes_importance": "Medium \u2014 forces a romantic confrontation over the true source of his explosive anger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Juliana answer for keeping Alexander in the dark while risking her life in an assassin's house?",
+      "stakes_importance": "High \u2014 fierce confrontation laying bare the massive breach of trust and life-and-death stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Alexander accept Juliana's sheepish defense for keeping dangerous secrets?",
+      "stakes_importance": "Low \u2014 brief pause in the emotional storm.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana's brave defiance push Alexander to physically forbid her from returning, or join forces with her?",
+      "stakes_importance": "High \u2014 raw terror over her near-death experience clashing against her iron will.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 4,
+      "specific_question": "Now that Alexander is aligned with Juliana, how will they together counter the poisoner and Lady Catherine?",
+      "stakes_importance": "High \u2014 emotional alliance sealed; transition from lovers in conflict to partners in a lethal conspiracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B038",
+      "curiosity_gap_score": 0,
+      "specific_question": "What details will Juliana share as they walk into the twilight?",
+      "stakes_importance": "Low \u2014 tension fully resolves as strings hit a concluding chord and both characters exit harmoniously together.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    }
+  ]
+}

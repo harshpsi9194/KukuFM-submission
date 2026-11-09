@@ -1,0 +1,514 @@
+{
+  "episode_number": 26,
+  "total_candidates": 9,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP026_01",
+      "episode": "Episode 26",
+      "episode_number": 26,
+      "start_beat_id": "B011",
+      "end_beat_id": "B019",
+      "start_time": 43.2,
+      "end_time": 95.0,
+      "duration": 51.8,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Immediate lethal threat delivered in a tense whisper ('If the guards hear us, we are both dead.').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of maid looking furtively around shadowy room conveys palpable danger and paranoia.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 5,
+        "specific_question": "Whose crest is on the signet ring that caused the Duchess to gasp in absolute shock?",
+        "stakes_importance": "High \u2014 maximum visual reveal triggering a seismic shift in Juliana's true identity.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 26,
+          "start_beat_id": "B011",
+          "end_beat_id": "B019",
+          "start_time": 43.2,
+          "end_time": 95.0,
+          "duration": 51.8,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP026_02",
+      "episode": "Episode 26",
+      "episode_number": 26,
+      "start_beat_id": "B014",
+      "end_beat_id": "B019",
+      "start_time": 55.8,
+      "end_time": 95.0,
+      "duration": 39.2,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive accusation of familial murder and treason ('Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Medium close-up showing acute distress, dread, and trembling realization on the dying matriarch's face.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 5,
+        "specific_question": "Whose crest is on the signet ring that caused the Duchess to gasp in absolute shock?",
+        "stakes_importance": "High \u2014 maximum visual reveal triggering a seismic shift in Juliana's true identity.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 26,
+          "start_beat_id": "B014",
+          "end_beat_id": "B019",
+          "start_time": 55.8,
+          "end_time": 95.0,
+          "duration": 39.2,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP026_03",
+      "episode": "Episode 26",
+      "episode_number": 26,
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 55.8,
+      "end_time": 100.0,
+      "duration": 44.2,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive accusation of familial murder and treason ('Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Medium close-up showing acute distress, dread, and trembling realization on the dying matriarch's face.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 4,
+        "specific_question": "What undeniable proof does the Duchess expect to confirm upon inspecting Juliana's hand?",
+        "stakes_importance": "High \u2014 escalating frenzy of recognition regarding Juliana's heirloom.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 26,
+          "start_beat_id": "B014",
+          "end_beat_id": "B020",
+          "start_time": 55.8,
+          "end_time": 100.0,
+          "duration": 44.2,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP026_04",
+      "episode": "Episode 26",
+      "episode_number": 26,
+      "start_beat_id": "B018",
+      "end_beat_id": "B023",
+      "start_time": 79.6,
+      "end_time": 115.8,
+      "duration": 36.2,
+      "hook_signal": {
+        "beat_id": "B018",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp emotional revelation of family betrayal and ruin ('Because my family cast me out to rot. I have nothing left in this world but my honor.').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up on lifted chin and defiant, sorrowful facial expression.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana explain possessing a signet ring that only a high-born noble or lost heir could own?",
+        "stakes_importance": "High \u2014 critical ultimatum and direct inquiry confronting the core secret of the entire series.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 26,
+          "start_beat_id": "B018",
+          "end_beat_id": "B023",
+          "start_time": 79.6,
+          "end_time": 115.8,
+          "duration": 36.2,
+          "beat_ids": [
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP026_05",
+      "episode": "Episode 26",
+      "episode_number": 26,
+      "start_beat_id": "B019",
+      "end_beat_id": "B022",
+      "start_time": 86.5,
+      "end_time": 110.8,
+      "duration": 24.3,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum visual scroll-stopper: tracking shot reveals an elite signet ring on a maid's hand, cutting immediately to an extreme close-up of the Duchess gasping in jaw-dropping shock.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why is the dying Duchess seizing Juliana with desperate physical force?",
+        "stakes_importance": "High \u2014 physical restraint and urgent demand heighten the stakes of discovery.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 26,
+          "start_beat_id": "B019",
+          "end_beat_id": "B022",
+          "start_time": 86.5,
+          "end_time": 110.8,
+          "duration": 24.3,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP026_06",
+      "episode": "Episode 26",
+      "episode_number": 26,
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "start_time": 86.5,
+      "end_time": 115.8,
+      "duration": 29.3,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum visual scroll-stopper: tracking shot reveals an elite signet ring on a maid's hand, cutting immediately to an extreme close-up of the Duchess gasping in jaw-dropping shock.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana explain possessing a signet ring that only a high-born noble or lost heir could own?",
+        "stakes_importance": "High \u2014 critical ultimatum and direct inquiry confronting the core secret of the entire series.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 26,
+          "start_beat_id": "B019",
+          "end_beat_id": "B023",
+          "start_time": 86.5,
+          "end_time": 115.8,
+          "duration": 29.3,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP026_07",
+      "episode": "Episode 26",
+      "episode_number": 26,
+      "start_beat_id": "B019",
+      "end_beat_id": "B024",
+      "start_time": 86.5,
+      "end_time": 119.5,
+      "duration": 33.0,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum visual scroll-stopper: tracking shot reveals an elite signet ring on a maid's hand, cutting immediately to an extreme close-up of the Duchess gasping in jaw-dropping shock.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B024",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana confess the truth of her noble blood or deny the ring's significance?",
+        "stakes_importance": "High \u2014 frozen reaction shot holding the confrontation at maximum tension.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 26,
+          "start_beat_id": "B019",
+          "end_beat_id": "B024",
+          "start_time": 86.5,
+          "end_time": 119.5,
+          "duration": 33.0,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP026_08",
+      "episode": "Episode 26",
+      "episode_number": 26,
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 86.5,
+      "end_time": 120.88,
+      "duration": 34.38,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum visual scroll-stopper: tracking shot reveals an elite signet ring on a maid's hand, cutting immediately to an extreme close-up of the Duchess gasping in jaw-dropping shock.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "Is Juliana the long-lost daughter or heir of the noble house, and what will the Duchess do now that she knows?",
+        "stakes_importance": "High \u2014 definitive climax and cliffhanger of the episode, locking the secret identity discovery right at the hard cut to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 26,
+          "start_beat_id": "B019",
+          "end_beat_id": "B025",
+          "start_time": 86.5,
+          "end_time": 120.88,
+          "duration": 34.38,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP026_09",
+      "episode": "Episode 26",
+      "episode_number": 26,
+      "start_beat_id": "B020",
+      "end_beat_id": "B025",
+      "start_time": 95.0,
+      "end_time": 120.88,
+      "duration": 25.88,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Urgent imperative demand fueled by visible panic ('Your hand... Let me see your hand.').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Frail Duchess violently bolts upright in bed, trembling and lunging toward the maid, instantly communicating an emergency on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "Is Juliana the long-lost daughter or heir of the noble house, and what will the Duchess do now that she knows?",
+        "stakes_importance": "High \u2014 definitive climax and cliffhanger of the episode, locking the secret identity discovery right at the hard cut to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 26,
+          "start_beat_id": "B020",
+          "end_beat_id": "B025",
+          "start_time": 95.0,
+          "end_time": 120.88,
+          "duration": 25.88,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

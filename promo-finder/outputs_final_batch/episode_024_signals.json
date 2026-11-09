@@ -1,0 +1,398 @@
+{
+  "episode_number": 24,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up of a turning door handle provides basic atmospheric suspense but lacks high-stakes visual conflict or instant scroll-stopping shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "'Who are you?' is a standard conversational challenge without immediate narrative context or high stakes.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Strong visual status contrast: a noblewoman in lavender holding and tapping a riding crop confronting rigid maids in a vaulted chamber.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "Pure deferential logistical exposition stating her name and hiring purpose.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard deferential medium close-up of a maid looking down beside a bedpost.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Mild confrontational inquiry asserting authority, but functions primarily as scene setup.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tilted chin and icy condescension show clear character dynamic, but framing is standard dialogue coverage.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a pale, gasping unconscious duchess creates immediate medical urgency and visual stakes legible on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Insert shot of soot-dusted fingers secretly stashing a hidden remedy vial establishes illicit suspense instantly on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Defensive logistical justification explaining why she entered the room.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium shot of a maid maintaining composure before a superior.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp, direct class-based challenge mocking a servant's presumption over physicians.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Two-shot framing the noblewoman looking down and laughing mockingly at the maid.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A concise, resolute defiance ('She is suffering') that directly challenges noble indifference.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on Juliana's determined, flashing eyes captures emotional friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A callous, jaw-dropping verbal shocker ('Then let her suffer') that brazenly reveals villainous cruelty.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up of the noblewoman's face contorting into a malicious sneer conveys pure villainy on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct moral refusal ('I cannot do that') followed by humiliating status reduction ('You are a maid').",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Violent physical strike with a riding crop across the torso leaving the maid doubled over in pain is an undeniable mute scroll-stopper.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Stinging, rhythmic status insults stripping away professional and social identity ('Not a physician. Not a lady.').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle perspective framing the trembling, reaching hand of a dying duchess creates palpable vulnerability.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp verbal cruelty crushing her worth ('And certainly not a woman whose opinion matters').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Striking low-angle wide shot of the noblewoman standing imperiously over the doubled-over, beaten maid.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "Submissive acquiescence ('Yes, my lady') carrying zero standalone verbal hook.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Juliana looking down and enduring humiliation in silence.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Condescending disciplinary threat ('Perhaps we can teach you your place') lacking explosive shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of gloved hands turning the riding crop with smug satisfaction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Low corridor tracking shot of dress hems and walking boots is standard transitional motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A curt, abrupt command ('Clean it') establishing an immediate chore without broader drama.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Wide reveal of the cavernous, soot-blackened hearth contrasted with the noblewoman pointing her crop.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A mild logistical question ('All of it, my lady?') carrying no conflict or intrigue.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up looking up at a dark chimney opening.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Spiteful psychological degradation ('when your hands are black enough, you will finally remember what you are').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Extreme close-up two-shot leaning into the maid's face with sadistic relish makes the intimidation clear without audio.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct aggressive threat ('Do you want the same punishment?') as an escalation of violence.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High-tension visual action: riding crop thrust directly into the trembling face of a second maid while the heroine sinks to her knees.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Contrasts smug verbal cruelty ('where clever little servants belong') with Juliana's secret inner resolve ('Let her think I am only a maid').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Visually evocative punishment: soot-covered hands furiously scrubbing ash across stone beneath a casually leaning noblewoman.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Intriguing inner monologue ('Let her believe I am ignorant') signaling concealed competence.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tense secret reveal: soot-stained hand touching the hidden remedy book and concealed dropper vial inside her apron pocket.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Powerful dramatic proclamation revealing hidden identity and intent ('I will return. You cannot stop the healer.').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Striking close-up portrait: soot-streaked face with fierce blue eyes burning in defiance as music swells, perfectly telegraphing the underdog-reversal trope.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 1,
+      "specific_question": "Who is opening the chamber door?",
+      "stakes_importance": "Low \u2014 ambient entrance transition without established stakes or immediate conflict.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the unauthorized maid justify her presence to the armed, hostile noblewoman?",
+      "stakes_importance": "Medium \u2014 sets up an immediate power imbalance and confrontation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will the noblewoman accept Juliana's cleaning explanation?",
+      "stakes_importance": "Low \u2014 deferential answer with minimal standalone suspense.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Juliana explain entering the private bedchamber without permission?",
+      "stakes_importance": "Medium \u2014 escalating interrogation, though still early in the altercation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the dying Dowager Duchess survive without medical intervention?",
+      "stakes_importance": "Medium \u2014 establishes medical urgency, but lacks an immediate dramatic confrontation cut.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the noblewoman notice the clandestine remedy vial Juliana just hid in her pocket?",
+      "stakes_importance": "High \u2014 reveals Juliana is carrying a covert, unauthorized cure that could get her executed or punished if discovered.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will the noblewoman react to a lowly maid asserting the Duchess needs help?",
+      "stakes_importance": "Medium \u2014 standard defense that triggers class friction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana back down in the face of the noblewoman's mocking scorn?",
+      "stakes_importance": "Medium \u2014 classist verbal belittlement building toward a rupture.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana's moral defiance persuade the noblewoman to allow aid?",
+      "stakes_importance": "Medium \u2014 direct insubordination standing up for the dying Duchess.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 4,
+      "specific_question": "Is the noblewoman actively trying to let the Duchess die, and will Juliana dare challenge her?",
+      "stakes_importance": "High \u2014 shocking display of callous villainy exposing murderous neglect or conspiracy against the Duchess.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana submit to the brutal beating or retaliate after being whipped across the torso?",
+      "stakes_importance": "High \u2014 visceral physical violence and severe public abuse of an undercover protagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the unconscious Duchess witness or intervene in Juliana's mistreatment?",
+      "stakes_importance": "Medium \u2014 dramatic irony emphasizing Juliana's hidden identity versus her mistreatment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Juliana endure this cruel assertion of absolute servant subjugation?",
+      "stakes_importance": "Medium \u2014 culmination of verbal and physical hierarchy enforcement.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 1,
+      "specific_question": "Does Juliana truly submit?",
+      "stakes_importance": "Low \u2014 Juliana concedes verbally, lowering the immediate confrontation tension.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "What sadistic punishment does the noblewoman plan to teach Juliana her place?",
+      "stakes_importance": "Medium \u2014 suspense over an impending retribution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 2,
+      "specific_question": "Where is the noblewoman marching Juliana and Prudence?",
+      "stakes_importance": "Low \u2014 transit hallway beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana be forced to clean the entire blackened hearth?",
+      "stakes_importance": "Low \u2014 menial labor punishment assigned.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Juliana confirm the cleaning task?",
+      "stakes_importance": "Low \u2014 minor logistical clarification.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana swallow this psychological humiliation without exposing her true noble identity?",
+      "stakes_importance": "Medium \u2014 deliberate dehumanization and threat to break Juliana's spirit.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the noblewoman strike Prudence in the face with her riding crop?",
+      "stakes_importance": "High \u2014 violent threat poised against an innocent bystander servant with weapon drawn.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 3,
+      "specific_question": "What secret plan is Juliana calculating while pretending to be a broken maid?",
+      "stakes_importance": "Medium \u2014 shows the internal monologue of the protagonist masking her true intent.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "When and how will Juliana use the hidden antidote bottle and medical journal to save the Duchess?",
+      "stakes_importance": "High \u2014 reveals the protagonist is an undercover master healer possessing contraband medicine.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Juliana enact her vengeance and return to administer the life-saving cure under the noblewoman's nose?",
+      "stakes_importance": "High \u2014 definitive protagonist vow of defiance, vengeance, and clandestine rescue at the episode/promo climax.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

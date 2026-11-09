@@ -1,0 +1,1280 @@
+{
+  "episode_number": 25,
+  "total_candidates": 20,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP025_01",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B004",
+      "end_beat_id": "B011",
+      "start_time": 13.2,
+      "end_time": 38.5,
+      "duration": 25.3,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "'You're hurt' combined with a sharp wince of pain establishes immediate bodily danger and confrontation.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Physical confrontation where a man grabs her shoulder and she recoils in visible agony creates high scroll-stop drama.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why did noblewoman Lady Catherine brutally beat Juliana?",
+        "stakes_importance": "High \u2014 names an aristocratic antagonist, escalating the conflict from generic assault to high-stakes class conflict.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B004",
+          "end_beat_id": "B011",
+          "start_time": 13.2,
+          "end_time": 38.5,
+          "duration": 25.3,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_02",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B004",
+      "end_beat_id": "B017",
+      "start_time": 13.2,
+      "end_time": 57.5,
+      "duration": 44.3,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "'You're hurt' combined with a sharp wince of pain establishes immediate bodily danger and confrontation.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Physical confrontation where a man grabs her shoulder and she recoils in visible agony creates high scroll-stop drama.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "What perilous entanglement connects Juliana to the highest-ranking noblewoman, the Dowager Duchess?",
+        "stakes_importance": "High \u2014 seismic status revelation tying a seemingly humble heroine directly to the grand matriarch of the manor.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B004",
+          "end_beat_id": "B017",
+          "start_time": 13.2,
+          "end_time": 57.5,
+          "duration": 44.3,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_03",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B006",
+      "end_beat_id": "B017",
+      "start_time": 18.8,
+      "end_time": 57.5,
+      "duration": 38.7,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Visceral reveal of a raw, bloody riding-crop welt slashed across her bare shoulder is an unmistakable, maximum scroll-stopping visual shock.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "What perilous entanglement connects Juliana to the highest-ranking noblewoman, the Dowager Duchess?",
+        "stakes_importance": "High \u2014 seismic status revelation tying a seemingly humble heroine directly to the grand matriarch of the manor.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B006",
+          "end_beat_id": "B017",
+          "start_time": 18.8,
+          "end_time": 57.5,
+          "duration": 38.7,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_04",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B006",
+      "end_beat_id": "B018",
+      "start_time": 18.8,
+      "end_time": 63.5,
+      "duration": 44.7,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Visceral reveal of a raw, bloody riding-crop welt slashed across her bare shoulder is an unmistakable, maximum scroll-stopping visual shock.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why does Juliana's mention of the Dowager Duchess strike absolute shock into Alexander?",
+        "stakes_importance": "High \u2014 freezes on Alexander's stunned realization, implying deep personal or political consequence.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B006",
+          "end_beat_id": "B018",
+          "start_time": 18.8,
+          "end_time": 63.5,
+          "duration": 44.7,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_05",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B006",
+      "end_beat_id": "B021",
+      "start_time": 18.8,
+      "end_time": 76.8,
+      "duration": 58.0,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Visceral reveal of a raw, bloody riding-crop welt slashed across her bare shoulder is an unmistakable, maximum scroll-stopping visual shock.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 4,
+        "specific_question": "If the Dowager's collapse wasn't old age, what fatal affliction did Juliana uncover?",
+        "stakes_importance": "High \u2014 suspended pivot into active foul play and conspiracy.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B006",
+          "end_beat_id": "B021",
+          "start_time": 18.8,
+          "end_time": 76.8,
+          "duration": 58.0,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_06",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B007",
+      "end_beat_id": "B023",
+      "start_time": 22.8,
+      "end_time": 82.5,
+      "duration": 59.7,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "The demand 'Who did this?' delivers an urgent, confrontational question directly following evidence of violence.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up of Alexander's scarred face visibly darkening with volatile fury conveys high-stakes menace without sound.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who in Ashburg Manor is methodically murdering the Dowager Duchess with poison?",
+        "stakes_importance": "High \u2014 drop-dead bombshell exposing an attempted murder plot at the center of the story.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B007",
+          "end_beat_id": "B023",
+          "start_time": 22.8,
+          "end_time": 82.5,
+          "duration": 59.7,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_07",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B013",
+      "end_beat_id": "B023",
+      "start_time": 41.2,
+      "end_time": 82.5,
+      "duration": 41.3,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'I was punished as a maid' exposes humiliating class abuse and corporal punishment in a stark confession.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Standard close-up talking head of Juliana recounting past events.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who in Ashburg Manor is methodically murdering the Dowager Duchess with poison?",
+        "stakes_importance": "High \u2014 drop-dead bombshell exposing an attempted murder plot at the center of the story.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B013",
+          "end_beat_id": "B023",
+          "start_time": 41.2,
+          "end_time": 82.5,
+          "duration": 41.3,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_08",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B013",
+      "end_beat_id": "B024",
+      "start_time": 41.2,
+      "end_time": 86.2,
+      "duration": 45.0,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'I was punished as a maid' exposes humiliating class abuse and corporal punishment in a stark confession.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Standard close-up talking head of Juliana recounting past events.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B024",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Alexander and Juliana expose an untraceable arsenic conspiracy inside the high nobility?",
+        "stakes_importance": "High \u2014 clinical, lethal poison confirmed; immediately turns the drama into a deadly murder mystery.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B013",
+          "end_beat_id": "B024",
+          "start_time": 41.2,
+          "end_time": 86.2,
+          "duration": 45.0,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_09",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B019",
+      "end_beat_id": "B024",
+      "start_time": 63.5,
+      "end_time": 86.2,
+      "duration": 22.7,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'Prudence told me she was dying' delivers an urgent, life-or-death revelation of impending tragedy.",
+        "visual_hook_score": 1,
+        "visual_hook_rationale": "Medium tracking shot of two figures casually walking side-by-side down a path.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B024",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Alexander and Juliana expose an untraceable arsenic conspiracy inside the high nobility?",
+        "stakes_importance": "High \u2014 clinical, lethal poison confirmed; immediately turns the drama into a deadly murder mystery.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B019",
+          "end_beat_id": "B024",
+          "start_time": 63.5,
+          "end_time": 86.2,
+          "duration": 22.7,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_10",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 63.5,
+      "end_time": 90.2,
+      "duration": 26.7,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'Prudence told me she was dying' delivers an urgent, life-or-death revelation of impending tragedy.",
+        "visual_hook_score": 1,
+        "visual_hook_rationale": "Medium tracking shot of two figures casually walking side-by-side down a path.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 4,
+        "specific_question": "What vengeance will Alexander unleash after learning of this cold-blooded murder plot?",
+        "stakes_importance": "High \u2014 pure kinetic tension focused on a scarred warrior barely restraining lethal violence.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B019",
+          "end_beat_id": "B025",
+          "start_time": 63.5,
+          "end_time": 90.2,
+          "duration": 26.7,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_11",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B019",
+      "end_beat_id": "B026",
+      "start_time": 63.5,
+      "end_time": 97.8,
+      "duration": 34.3,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'Prudence told me she was dying' delivers an urgent, life-or-death revelation of impending tragedy.",
+        "visual_hook_score": 1,
+        "visual_hook_rationale": "Medium tracking shot of two figures casually walking side-by-side down a path.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 4,
+        "specific_question": "Which insider is systematically dosing the Duchess with micro-doses to orchestrate an undetectable death?",
+        "stakes_importance": "High \u2014 chilling description of premeditated, insidious patricide/murder within the manor.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B019",
+          "end_beat_id": "B026",
+          "start_time": 63.5,
+          "end_time": 97.8,
+          "duration": 34.3,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_12",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B020",
+      "end_beat_id": "B026",
+      "start_time": 68.5,
+      "end_time": 97.8,
+      "duration": 29.3,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Describing a gasping, dying woman dismissed by doctors creates a gripping medical conspiracy hook.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium close-up turning to speak in a conversational posture.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 4,
+        "specific_question": "Which insider is systematically dosing the Duchess with micro-doses to orchestrate an undetectable death?",
+        "stakes_importance": "High \u2014 chilling description of premeditated, insidious patricide/murder within the manor.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B020",
+          "end_beat_id": "B026",
+          "start_time": 68.5,
+          "end_time": 97.8,
+          "duration": 29.3,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_13",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B021",
+      "end_beat_id": "B031",
+      "start_time": 73.8,
+      "end_time": 117.5,
+      "duration": 43.7,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'But it wasn't age' sharply subverts medical assumptions, immediately setting up foul play.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Two-shot of the pair stopping on the trail with somber expressions.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can Alexander stop Juliana from walking directly into what could be a fatal trap at Ashburg Manor?",
+        "stakes_importance": "High \u2014 uncompromising resolution to face physical danger and aristocratic wrath head-on.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B021",
+          "end_beat_id": "B031",
+          "start_time": 73.8,
+          "end_time": 117.5,
+          "duration": 43.7,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_14",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "start_time": 79.5,
+      "end_time": 117.5,
+      "duration": 38.0,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "The single word 'Poison' lands as an explosive shock revelation establishing an active murder plot.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Tight close-up focusing directly on trembling lips as she confesses danger creates strong visual tension.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can Alexander stop Juliana from walking directly into what could be a fatal trap at Ashburg Manor?",
+        "stakes_importance": "High \u2014 uncompromising resolution to face physical danger and aristocratic wrath head-on.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B023",
+          "end_beat_id": "B031",
+          "start_time": 79.5,
+          "end_time": 117.5,
+          "duration": 38.0,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_15",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B024",
+      "end_beat_id": "B031",
+      "start_time": 82.5,
+      "end_time": 117.5,
+      "duration": 35.0,
+      "hook_signal": {
+        "beat_id": "B024",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'Arsenic' specifies a lethal, deliberate murder weapon, instantly escalating the criminal conspiracy.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up on eyes actively welling with distress telegraphs authentic terror without audio.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can Alexander stop Juliana from walking directly into what could be a fatal trap at Ashburg Manor?",
+        "stakes_importance": "High \u2014 uncompromising resolution to face physical danger and aristocratic wrath head-on.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B024",
+          "end_beat_id": "B031",
+          "start_time": 82.5,
+          "end_time": 117.5,
+          "duration": 35.0,
+          "beat_ids": [
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_16",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B025",
+      "end_beat_id": "B031",
+      "start_time": 86.2,
+      "end_time": 117.5,
+      "duration": 31.3,
+      "hook_signal": {
+        "beat_id": "B025",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up insert of a scarred hand clenching into a white-knuckled fist of suppressed rage provides strong physical dramatic punch.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can Alexander stop Juliana from walking directly into what could be a fatal trap at Ashburg Manor?",
+        "stakes_importance": "High \u2014 uncompromising resolution to face physical danger and aristocratic wrath head-on.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B025",
+          "end_beat_id": "B031",
+          "start_time": 86.2,
+          "end_time": 117.5,
+          "duration": 31.3,
+          "beat_ids": [
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_17",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B026",
+      "end_beat_id": "B032",
+      "start_time": 90.2,
+      "end_time": 125.5,
+      "duration": 35.3,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Revealing slow, calculated poisoning ('giving it to her again and again... without killing her quickly') is an extraordinary narrative hook.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium close-up of Juliana speaking with dread, lacking dynamic physical staging.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Alexander's desperate protective grip hold Juliana back, or will their unspoken love compel him to join her fight?",
+        "stakes_importance": "High \u2014 intense emotional intimacy, hand-holding, and clash of wills under impending mortal peril.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B026",
+          "end_beat_id": "B032",
+          "start_time": 90.2,
+          "end_time": 125.5,
+          "duration": 35.3,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_18",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B026",
+      "end_beat_id": "B034",
+      "start_time": 90.2,
+      "end_time": 134.5,
+      "duration": 44.3,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Revealing slow, calculated poisoning ('giving it to her again and again... without killing her quickly') is an extraordinary narrative hook.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium close-up of Juliana speaking with dread, lacking dynamic physical staging.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Juliana answer for keeping Alexander in the dark while risking her life in an assassin's house?",
+        "stakes_importance": "High \u2014 fierce confrontation laying bare the massive breach of trust and life-and-death stakes.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B026",
+          "end_beat_id": "B034",
+          "start_time": 90.2,
+          "end_time": 134.5,
+          "duration": 44.3,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_19",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B026",
+      "end_beat_id": "B036",
+      "start_time": 90.2,
+      "end_time": 145.0,
+      "duration": 54.8,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Revealing slow, calculated poisoning ('giving it to her again and again... without killing her quickly') is an extraordinary narrative hook.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium close-up of Juliana speaking with dread, lacking dynamic physical staging.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B036",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's brave defiance push Alexander to physically forbid her from returning, or join forces with her?",
+        "stakes_importance": "High \u2014 raw terror over her near-death experience clashing against her iron will.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B026",
+          "end_beat_id": "B036",
+          "start_time": 90.2,
+          "end_time": 145.0,
+          "duration": 54.8,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP025_20",
+      "episode": "Episode 25",
+      "episode_number": 25,
+      "start_beat_id": "B034",
+      "end_beat_id": "B037",
+      "start_time": 128.0,
+      "end_time": 156.5,
+      "duration": 28.5,
+      "hook_signal": {
+        "beat_id": "B034",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "'Because you were standing inside a house where someone is poisoning a woman... and you never told me' is an explosive, high-stakes confrontation.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of Alexander speaking through visibly clenched teeth with suppressed fury reads clearly on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 4,
+        "specific_question": "Now that Alexander is aligned with Juliana, how will they together counter the poisoner and Lady Catherine?",
+        "stakes_importance": "High \u2014 emotional alliance sealed; transition from lovers in conflict to partners in a lethal conspiracy.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 25,
+          "start_beat_id": "B034",
+          "end_beat_id": "B037",
+          "start_time": 128.0,
+          "end_time": 156.5,
+          "duration": 28.5,
+          "beat_ids": [
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

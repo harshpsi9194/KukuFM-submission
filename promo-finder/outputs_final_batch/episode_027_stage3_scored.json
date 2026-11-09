@@ -1,0 +1,831 @@
+{
+  "episode_number": 27,
+  "total_scored": 33,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP027_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 21.6,
+      "duration": 21.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with a tight close-up of an aged woman's trembling hands gripping a worn metal band on another woman's finger, paired with an urgent demand ('Who gave this to you?'). The visual anchor of the ring and bedside confrontation immediately establishes the physical setting and dynamic without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes the core dynamic between the bedridden noblewoman and the maid, building to the reveal that the maid's supposed commoner husband gave her a ring bearing a noble crest.",
+        "passes_gate": true,
+        "situational_summary": "A bedridden Dowager Duchess urgently interrogates a young maid upon recognizing the ring on her finger as an aristocratic family crest."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Tense interrogation and suppressed curiosity over a forbidden heirloom"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Introduces the core inciting incident/mystery premise that the maid's humble husband is tied to the noble house."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 31.8,
+      "duration": 31.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with a tight close-up of an aged woman's trembling hands gripping a worn metal band on another woman's finger, paired with an urgent demand ('Who gave this to you?'). The visual anchor of the ring and bedside confrontation immediately establishes the physical setting and dynamic without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is completely self-contained, progressing from the ring identification to the Duchess breaking down in tears as she reveals the ring belonged to her lost son.",
+        "passes_gate": true,
+        "situational_summary": "An ailing Dowager Duchess examines a maid's wedding ring and tearfully reveals that it belonged to her lost son who went to war."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Maternal grief colliding with a shocking identity revelation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key plot mechanic that the ring belonged specifically to the Duchess's missing noble son."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_03",
+      "start_beat_id": "B001",
+      "end_beat_id": "B009",
+      "start_time": 0.0,
+      "end_time": 40.4,
+      "duration": 40.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with a tight close-up of an aged woman's trembling hands gripping a worn metal band on another woman's finger, paired with an urgent demand ('Who gave this to you?'). The visual anchor of the ring and bedside confrontation immediately establishes the physical setting and dynamic without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The interaction is fully understandable in isolation: the Duchess connects the ring to her lost son, Juliana is shocked, and the Duchess presses whether the husband served alongside him.",
+        "passes_gate": true,
+        "situational_summary": "Upon discovering her missing son's ring on a maid's finger, an ailing noblewoman desperately questions if the maid's husband was a comrade of her son."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate maternal hope and mounting identity confusion"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the Duchess's son is missing from war and establishes the central mystery of how the sergeant husband obtained his ring."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_04",
+      "start_beat_id": "B001",
+      "end_beat_id": "B011",
+      "start_time": 0.0,
+      "end_time": 46.4,
+      "duration": 46.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with a tight close-up of an aged woman's trembling hands gripping a worn metal band on another woman's finger, paired with an urgent demand ('Who gave this to you?'). The visual anchor of the ring and bedside confrontation immediately establishes the physical setting and dynamic without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict and stakes are completely transparent across the clip, escalating naturally from the ring inspection to the ultimate climactic cliffhanger question demanding the husband's identity.",
+        "passes_gate": true,
+        "situational_summary": "After recognizing her lost son's ring on a maid's hand, a bedridden Duchess demands to know the true name of the maid's husband."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic tension and breath-holding anticipation of a concealed identity reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly sets up the core identity reveal linking the impoverished sergeant husband to the lost noble heir."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_05",
+      "start_beat_id": "B007",
+      "end_beat_id": "B011",
+      "start_time": 26.1,
+      "end_time": 46.4,
+      "duration": 20.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 opens on a low-angle shot of the weeping Duchess referencing 'that exact ring', but neither the ring itself, Juliana, nor the physical environment/relationship are established visually in Beat 0. Retrospective context from subsequent beats is required to understand who she is speaking to and what she is looking at.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue makes the core mystery immediately clear: an ailing noblewoman realizes a servant girl's husband might be her lost noble son based on a wartime ring.",
+        "passes_gate": false,
+        "situational_summary": "An emotional Duchess recognizes a ring worn by a maid's soldier husband, suspecting he may be her long-lost son and heir."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate maternal hope clashing with wartime secrecy and class disparity"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses a critical mid-arc identity connection linking Juliana's husband directly to the ducal bloodline."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_06",
+      "start_beat_id": "B007",
+      "end_beat_id": "B012",
+      "start_time": 26.1,
+      "end_time": 48.8,
+      "duration": 22.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 fails opening legibility because it opens mid-revelation referring to an unseen ring without establishing the physical space, Juliana's presence, or the scene's spatial geography in Beat 0.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear progression from intimate identity discovery to an abrupt external threat, though the cliffhanger cuts on the sound of pounding doors before intruders appear.",
+        "passes_gate": false,
+        "situational_summary": "While a Duchess interrogates a maid about whether her soldier husband is her missing son, violent pounding interrupts the revelation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Maternal desperation shattered by sudden impending peril"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key identity mystery that Juliana's husband possesses the lost ducal heir's ring."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_07",
+      "start_beat_id": "B007",
+      "end_beat_id": "B013",
+      "start_time": 26.1,
+      "end_time": 51.5,
+      "duration": 25.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 relies on dialogue referencing an object not established in frame and lacks a visual establishing shot grounding who the Duchess is addressing within the opening 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The emotional dialogue establishes the heir identity stakes, punctuated cleanly by hostile aristocrats bursting in on the private meeting.",
+        "passes_gate": false,
+        "situational_summary": "A Duchess questions a maid upon recognizing her lost son's ring, only for hostile aristocrats and guards to burst through the doors."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Tender identity revelation violently colliding with an aristocratic ambush"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the central identity twist (husband tied to the Duchess's son) right before a hostile confrontation."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_08",
+      "start_beat_id": "B012",
+      "end_beat_id": "B026",
+      "start_time": 46.4,
+      "end_time": 88.0,
+      "duration": 41.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 begins on an ungrounded loud pounding sound and an isolated reaction shot of Juliana snapping her head toward a door. With zero establishing context of the room, who Juliana is, or where she is, a cold viewer is disoriented.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is exceptionally clear and self-contained: haughty nobles corner a maid in a private bedroom and accuse her of illicitly poisoning/drugging the Duchess, while she defends her life-saving actions.",
+        "passes_gate": false,
+        "situational_summary": "Arrogant aristocrats burst into a sickroom and interrogate a newly arrived maid after catching her administering unauthorized medicine to the dying Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cruel aristocratic interrogation and moral outrage over life-saving mercy"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts an episodic confrontation/inciting accusation regarding illicit medicine without giving away the larger heir-identity conspiracy."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_09",
+      "start_beat_id": "B013",
+      "end_beat_id": "B019",
+      "start_time": 48.8,
+      "end_time": 70.5,
+      "duration": 21.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 opens on high-impact visual action: heavy double doors bursting open to reveal high-status aristocrats flanked by an armed royal guard entering a private hallway/chamber. Instantly establishes physical environment, class disparity, and sudden hostile intrusion.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained power clash: aristocrats corner a maid caught concealing something beside a sickbed, escalating quickly to an intimidating demand under threat of force.",
+        "passes_gate": true,
+        "situational_summary": "Aristocrats and an armed guard burst into a private chamber and corner a maid, demanding she reveal what she is concealing in her hands."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Tense interrogation and class intimidation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Inciting confrontation establishing the suspicious circumstances surrounding the Duchess's chamber."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_10",
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 48.8,
+      "end_time": 73.8,
+      "duration": 25.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 immediately grounds the setting and dynamic as doors burst open with a nobleman, an aristocratic lady, and an armed royal guard storming in.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely legible mini-arc: hostile intrusion turns into interrogation, culminating in the physical reveal of a mysterious amber medicine dropper bottle that raises immediate suspicion.",
+        "passes_gate": true,
+        "situational_summary": "After aristocrats storm a private chamber, they force an elusive maid to open her hand, exposing an unauthorized amber dropper bottle."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Mounting suspicion culminating in incriminating physical discovery"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the illicit administration/possession of the mysterious medicine vial."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_11",
+      "start_beat_id": "B013",
+      "end_beat_id": "B026",
+      "start_time": 48.8,
+      "end_time": 88.0,
+      "duration": 39.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 clearly establishes the scene and stakes via a wide shot of double doors bursting open with armed authority figures invading the space.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear moral and social conflict: maid is cornered with medicine, accused of unauthorized treatment by the malicious rival lady, and defiantly shouts her life-saving justification.",
+        "passes_gate": true,
+        "situational_summary": "Accused of illegally drugging a dying Duchess, an unauthorized maid faces hostile aristocrats and fiercely defends her actions because the patient was dying."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous defiance in the face of malicious aristocratic persecution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the maid secretly treated the Duchess with unauthorized medicine to save her life."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_12",
+      "start_beat_id": "B013",
+      "end_beat_id": "B028",
+      "start_time": 48.8,
+      "end_time": 95.0,
+      "duration": 46.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 provides an unambiguous visual entry point: doors kicked open by armed aristocrats, instantly establishing the setting, authority dynamics, and acute danger.",
+        "arc_legibility": true,
+        "arc_rationale": "Exceptional standalone clarity: grounds who is being persecuted (maid), the accusers (scheming noblewoman and calculating nobleman), the illicit act (unauthorized medicine), and the maid's blistering counter-indictment of the estate's physicians.",
+        "passes_gate": true,
+        "situational_summary": "Cornered for giving secret medicine to a dying Duchess, a defiant maid openly challenges the estate's noblemen and condemns their useless physicians."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "High-stakes defiance transforming criminal accusation into righteous moral condemnation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's unauthorized medical intervention on the Duchess and her direct confrontation with the noble household's hierarchy."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_13",
+      "start_beat_id": "B013",
+      "end_beat_id": "B031",
+      "start_time": 48.8,
+      "end_time": 107.8,
+      "duration": 59.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 opens on heavy double doors bursting open to reveal a nobleman flanked by an aristocrat and an armed royal guard. The physical breach, lavish setting, power imbalance, and confrontation are instantly established within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: nobles corner a lowly maid caught alone with an unauthorized medicine bottle beside a dying Duchess, accusing her of overstepping or foul play.",
+        "passes_gate": true,
+        "situational_summary": "Aristocrats burst into the chamber of a dying Duchess to interrogate a lone maid caught holding an unauthorized dropper bottle."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe aristocratic interrogation and cornering of an isolated underdog"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the initial discovery and confrontation over the unauthorized treatment, serving as an inciting conflict for cold prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_14",
+      "start_beat_id": "B018",
+      "end_beat_id": "B035",
+      "start_time": 64.0,
+      "end_time": 117.2,
+      "duration": 53.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B018 starts abruptly mid-confrontation on a medium close-up of a woman demanding 'Show me your hand.' It lacks setting orientation, does not establish the room, the dying Duchess, or who Juliana is in relation to the speaker.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue quickly clarifies the interrogation over the Duchess's medicine, culminating in the dramatic revelation that the bottle is an antidote to poison.",
+        "passes_gate": false,
+        "situational_summary": "A noblewoman and nobleman force a defensive maid to reveal a secret vial, which she declares is an antidote to poison."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "High-stakes interrogation culminating in an explosive accusation of poison"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the Duchess is actively being poisoned rather than naturally ill, uncovering the central conspiracy mechanism."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_15",
+      "start_beat_id": "B020",
+      "end_beat_id": "B032",
+      "start_time": 70.5,
+      "end_time": 110.2,
+      "duration": 39.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 starts mid-scene with a character extending her hand to reveal a dropper bottle while a man asks 'What is this?'. Without establishing the setting, the sick Duchess, or the social dynamic first, it is disorienting for a cold scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue clarifies that a maid is being grilled by superiors for treating a bedridden royal without authorization, ending on her claim that it is an antidote.",
+        "passes_gate": false,
+        "situational_summary": "Cornered by aristocrats for treating a dying Duchess without permission, a maid reveals that the vial in her hand is an antidote."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant underdog standing up to predatory aristocrats under intense cross-examination"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the maid possesses an unauthorized antidote, setting up the suspicion without fully dropping the poison mic-drop."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_16",
+      "start_beat_id": "B020",
+      "end_beat_id": "B035",
+      "start_time": 70.5,
+      "end_time": 117.2,
+      "duration": 46.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 opens abruptly mid-exchange on an ungrounded two-shot with the question 'What is this?' as a bottle is extended. Lacks establishing physical context or character identities for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The progression from unauthorized medicine to an accusation of poisoning provides a clear, self-contained dramatic arc despite the cold open.",
+        "passes_gate": false,
+        "situational_summary": "A maid questioned about administering unauthorized medicine to a sick Duchess reveals to her interrogators that she is countering poison."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Relentless interrogation building to an explosive, defiant one-word reveal ('Poison')"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Explicitly discloses that the Duchess's illness is foul play (poison), uncovering the hidden murder attempt."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_17",
+      "start_beat_id": "B026",
+      "end_beat_id": "B034",
+      "start_time": 86.5,
+      "end_time": 115.0,
+      "duration": 28.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 opens directly in media res on a close-up of Juliana shouting 'Because she was dying!' in response to an unseen preceding question. Without sound or preceding context, a cold mobile viewer has no visual anchor, no sense of physical location, and no understanding of who 'she' refers to.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the confrontation clearly establishes Juliana as an outsider/maid caught giving unprescribed medicine to a bedridden Duchess, opposed by an interrogation from hostile aristocrats.",
+        "passes_gate": false,
+        "situational_summary": "An unknown maid caught administering an unauthorized substance to a bedridden Duchess defends herself against hostile aristocrats, insisting it is an antidote."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate underdog defiance against intimidating aristocratic interrogation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the Duchess is being administered an illicit antidote, cutting off right before naming poison."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_18",
+      "start_beat_id": "B026",
+      "end_beat_id": "B035",
+      "start_time": 86.5,
+      "end_time": 117.2,
+      "duration": 30.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 begins mid-retort with 'Because she was dying!' on an isolated close-up. There is zero visual establishing shot, no environmental grounding, and the dialogue is an ungrounded reaction to an off-screen prompt.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly develops the core conflict: the maid accused of tampering with the Duchess's medicine escalates the confrontation by revealing the substance counters poison.",
+        "passes_gate": false,
+        "situational_summary": "Cornered by a menacing nobleman for tampering with the dying Duchess's medicine, a maid reveals the unauthorized substance in her hand is an antidote to poison."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cornered defiance erupting into a shocking declaration of poison"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the central household mystery: the Duchess's chronic illness is actually deliberate poisoning."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_19",
+      "start_beat_id": "B026",
+      "end_beat_id": "B036",
+      "start_time": 86.5,
+      "end_time": 120.0,
+      "duration": 33.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Opens on Beat B026 with a tight close-up and an in-progress conversational retort ('Because she was dying!'). Fails opening legibility due to lack of physical orientation, setting establishment, or baseline relationship setup.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and dramatic: the nobleman tries to frame the maid for administering illicit medicine, only for her to expose poison, catching him in stunned silence.",
+        "passes_gate": false,
+        "situational_summary": "Accused of unauthorized tampering beside the ailing Duchess's bed, a maid stuns her aristocratic accusers by declaring she is administering an antidote to poison."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Accusation turned inside out through a perilous exposure of foul play"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the Duchess is being poisoned and highlights the nobleman's suspicious reaction."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_20",
+      "start_beat_id": "B026",
+      "end_beat_id": "B037",
+      "start_time": 86.5,
+      "end_time": 122.8,
+      "duration": 36.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 is an ungrounded mid-sentence reaction ('Because she was dying!') on a tight close-up. A cold scroller without audio or lore cannot tell where this is taking place or who is being discussed.",
+        "arc_legibility": true,
+        "arc_rationale": "Complete narrative escalation: from being cornered over a rogue dropper bottle to blowing open an active murder conspiracy against Her Grace right to the face of potential conspirators.",
+        "passes_gate": false,
+        "situational_summary": "Confronted by hostile noble relatives over an unauthorized potion, a maid turns the tables by openly announcing that someone is poisoning the Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "High-stakes confrontation culminating in an open accusation of murder"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Explicitly discloses the core conspiracy plot: the Duchess's illness is an active murder attempt via poison."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_21",
+      "start_beat_id": "B026",
+      "end_beat_id": "B038",
+      "start_time": 86.5,
+      "end_time": 124.6,
+      "duration": 38.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 opens mid-argument with a passionate close-up of Juliana shouting 'Because she was dying!' without establishing who 'she' is, where this is taking place, or who Juliana is speaking to. Lacks physical and interpersonal grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "The overall scene clearly establishes a maid confronting hostile nobles over treating a poisoned Duchess with an unauthorized antidote, culminating in an accusation of poisoning.",
+        "passes_gate": false,
+        "situational_summary": "A maid accused of improperly administering medicine reveals to hostile nobles that the bedridden Duchess is actually being poisoned."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant truth-telling in the face of hostile aristocratic intimidation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the Duchess's chronic illness is actually foul play via deliberate poisoning."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_22",
+      "start_beat_id": "B028",
+      "end_beat_id": "B039",
+      "start_time": 92.8,
+      "end_time": 128.5,
+      "duration": 35.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 opens on a tight close-up of Juliana retorting 'The physicians were not saving her!'\u2014a reactive, mid-dispute line with no visual anchor of the room, bed, or opposing characters.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict where a maid presenting an antidote to save a poisoned Duchess is maliciously framed by a noblewoman for administering the poison herself.",
+        "passes_gate": false,
+        "situational_summary": "After a maid reveals the Duchess is being poisoned and presents an antidote, a noblewoman maliciously twists her words into a confession of attempted murder."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Vicious trap and public framing turning an act of mercy into a capital crime"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses both the Duchess's ongoing poisoning and Lady Catherine's immediate conspiracy frame job."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_23",
+      "start_beat_id": "B028",
+      "end_beat_id": "B040",
+      "start_time": 92.8,
+      "end_time": 131.0,
+      "duration": 38.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 opens abruptly on a defensive retort ('The physicians were not saving her!') in a tight close-up, requiring prior context to know what situation or diagnosis is being disputed.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict between the accused maid and the malicious noble framing her before the guards is clear and emotionally coherent.",
+        "passes_gate": false,
+        "situational_summary": "A maid warning nobles that the Duchess is being poisoned finds her antidote brandished as fake evidence of murder by a scheming noblewoman."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Shock and desperation as an innocent savior is framed for murder"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the poisoning plotline and the active attempt to frame the protagonist for treason/murder."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_24",
+      "start_beat_id": "B031",
+      "end_beat_id": "B040",
+      "start_time": 103.6,
+      "end_time": 131.0,
+      "duration": 27.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B031 begins mid-sentence with an ellipsis ('...holding a substance no one authorized her to give') and an extreme visual focus on a finger tapping a vial, lacking subject establishment or environmental grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "The immediate progression from unauthorized medicine to antidote disclosure to a deliberate malicious frame-up is clear within the clip.",
+        "passes_gate": false,
+        "situational_summary": "Cornered with an unauthorized vial, a maid declares it is an antidote for the Duchess's poisoning, only for a noblewoman to frame her confession as an admission of guilt."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Perilous trap sprung as a noble maliciously twists an antidote into a murder confession"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the Duchess's poisoning and the false accusation setup."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_25",
+      "start_beat_id": "B031",
+      "end_beat_id": "B041",
+      "start_time": 103.6,
+      "end_time": 134.0,
+      "duration": 30.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B031 opens mid-sentence with an ellipsis ('...holding a substance no one authorized her to give') and a tight close-up of a gloved hand tapping a bottle, leaving physical environment, interpersonal standing, and speaker ungrounded for a cold scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-evident once established: a woman trying to provide an antidote is framed for poisoning a Duchess by a scheming rival, while an authority figure intervenes.",
+        "passes_gate": false,
+        "situational_summary": "When a woman reveals her medicine is an antidote to save a poisoned Duchess, a rival twists her words into a confession of guilt before an authoritative nobleman."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe public framing and gaslighting under threat of criminal condemnation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the core conspiracy premise that the Duchess is being poisoned and Juliana is being framed for it."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_26",
+      "start_beat_id": "B032",
+      "end_beat_id": "B043",
+      "start_time": 107.8,
+      "end_time": 149.2,
+      "duration": 41.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 opens cleanly on a medium close-up of Juliana raising a small bottle high for an assembly to see while boldly announcing 'It is an antidote.' The visual posture and clear statement immediately ground her defensive position without missing dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: Juliana announces an antidote, a rival twists the word 'poison' into an admission of guilt, and the nobleman orders guards to drag Juliana away while a helpless Duchess lies in bed.",
+        "passes_gate": true,
+        "situational_summary": "A woman claiming to hold an antidote for a poisoned Duchess is maliciously framed for the murder attempt and forcibly arrested on the nobleman's orders."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Outrageous framing escalating into high-stakes wrongful arrest"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses the inciting conflict of the palace arc: uncovering Duchess's secret poisoning and Juliana's wrongful arrest."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_27",
+      "start_beat_id": "B035",
+      "end_beat_id": "B042",
+      "start_time": 115.0,
+      "end_time": 139.4,
+      "duration": 24.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B035 opens on a tight close-up of a woman uttering the single isolated word 'Poison.' Without any establishing visual anchor or conversational setup, a cold viewer cannot tell who she is, where she is, or what the accusation pertains to.",
+        "arc_legibility": false,
+        "arc_rationale": "Ends abruptly at B042 mid-accusation ('An unknown servant enters a restricted chamber...') as the nobleman inspects the bottle, cutting off before the action resolves or the threat materializes.",
+        "passes_gate": false,
+        "situational_summary": "A woman announces that the Duchess is being poisoned, prompting a malicious rival to twist her words into a confession before a nobleman intervenes."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Heated verbal dispute and opportunistic framing cut short before escalation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the hidden plot point that the Duchess is being poisoned in secret."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_28",
+      "start_beat_id": "B035",
+      "end_beat_id": "B043",
+      "start_time": 115.0,
+      "end_time": 149.2,
+      "duration": 34.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B035 starts on an isolated single-word close-up ('Poison') with no visual grounding of the room, characters, or situation for a cold scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full duration, the dynamic becomes clear: Juliana's warning is inverted into a false confession, leading directly to her arrest by guards.",
+        "passes_gate": false,
+        "situational_summary": "After warning that the Duchess is being poisoned, a woman is framed for the crime by an opportunist and dragged away by armed guards."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Unjust accusation and physical subjugation of an innocent protector"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses the secret poisoning plot and the protagonist's wrongful arrest."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_29",
+      "start_beat_id": "B035",
+      "end_beat_id": "B044",
+      "start_time": 115.0,
+      "end_time": 150.5,
+      "duration": 35.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B035 opens on a tight close-up of Juliana uttering a single ungrounded word ('Poison.') with zero visual context, setting establishment, or indication of who is present or who is being addressed.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the dynamic is clear: Juliana attempts to report a poisoning, but a rival noblewoman and nobleman twist her discovery to frame her as an assassin, culminating in her violent arrest.",
+        "passes_gate": false,
+        "situational_summary": "After warning of a poisoning, an innocent servant is immediately framed by hostile nobles who seize her medicine vial and order her arrested as the Duchess's would-be killer."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Malicious framing and entrapment of an innocent whistleblower"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot conspiracy turn where the protagonist is entrapped and arrested for the Duchess's poisoning."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_30",
+      "start_beat_id": "B037",
+      "end_beat_id": "B044",
+      "start_time": 120.0,
+      "end_time": 150.5,
+      "duration": 30.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B037 opens with Juliana explicitly declaring 'Someone has been poisoning Her Grace,' immediately grounding the high-stakes situation, victim, and murder plot within the first 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is entirely self-contained: Juliana's report of a crime against the Duchess is instantly weaponized by Lady Catherine and the Blond Nobleman to frame and arrest Juliana on the spot.",
+        "passes_gate": true,
+        "situational_summary": "When a servant reveals that the Duchess is being poisoned, corrupt nobles twist her words into a confession and order the royal guard to drag her away."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Stunning reversal from reporting a crime to facing immediate execution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key mid-arc plot twist where the nobles frame Juliana for poisoning the Duchess."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_31",
+      "start_beat_id": "B038",
+      "end_beat_id": "B044",
+      "start_time": 122.8,
+      "end_time": 150.5,
+      "duration": 27.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B038 begins mid-reaction with Lady Catherine shouting 'You hear that?!' to a guard, referencing an off-screen statement that a cold scroller did not hear.",
+        "arc_legibility": true,
+        "arc_rationale": "Subsequent beats clearly explain the accusation and show the nobleman planting guilt on Juliana with the vial, but the setup remains somewhat obscured by the missing opening line.",
+        "passes_gate": false,
+        "situational_summary": "A noblewoman calls for a guard to seize an innocent woman, whom a nobleman accuses and arrests for administering secret poison to the Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Aggressive weaponization of authority and sudden arrest"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the conspiracy scheme to pin the Duchess's poisoning on Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_32",
+      "start_beat_id": "B039",
+      "end_beat_id": "B044",
+      "start_time": 124.6,
+      "end_time": 150.5,
+      "duration": 25.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B039 opens with Lady Catherine directly delivering the core conflict in dialogue ('She admits she has been giving the Duchess poison in secret!'), establishing the high-stakes accusation instantly without needing prior setup.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative is completely legible: Juliana denies the accusation, but the Blond Nobleman uses the vial in her hand to frame her as an assassin and has her dragged away.",
+        "passes_gate": true,
+        "situational_summary": "A malicious noblewoman accuses an innocent woman of secretly poisoning the Duchess, leading a nobleman to confiscate her vial and command guards to drag her to the dungeon."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cold-blooded framing and violent arrest under false pretenses"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Depicts the climactic framing and apprehension of Juliana for the poisoning of the Duchess."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP027_33",
+      "start_beat_id": "B040",
+      "end_beat_id": "B044",
+      "start_time": 128.5,
+      "end_time": 150.5,
+      "duration": 22.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B040 opens in media res with a close-up of Juliana crying 'That is not what I said!'. Without prior context or an establishing visual, a cold mobile viewer cannot tell who she is, where she is, or what lie she is protesting. Evaluating Beat 0 strictly in isolation, it is an ungrounded defensive reaction that requires subsequent beats to clarify.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the situation becomes self-contained and clear: a nobleman frames/accuses an unknown female servant of poisoning a helpless bedridden woman with an unidentified vial, ordering guards to drag her away.",
+        "passes_gate": false,
+        "situational_summary": "A young woman is framed and arrested when an arrogant nobleman catches her with a medicine vial in a sick woman's bedchamber and accuses her of poisoning."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate horror of a helpless woman caught in an inescapable aristocratic frame-up"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the turning point where the protagonist is framed for poisoning the Duchess and seized by guards."
+      }
+    }
+  ]
+}

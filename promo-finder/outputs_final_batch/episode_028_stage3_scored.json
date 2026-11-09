@@ -1,0 +1,806 @@
+{
+  "episode_number": 28,
+  "total_scored": 32,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP028_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 22.8,
+      "duration": 22.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens on immediate physical struggle: an armed guard dragging a struggling woman in an apron, followed by a villainous lady stepping on her fallen herbarium book. Instantly establishes the physical setting, captive dynamic, and cruelty within 3 seconds without requiring lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Catherine and Rupert frame an innocent herbalist/maid for poisoning, Juliana protests that she cured the fever, and Rupert threatens interrogation/torture.",
+        "passes_gate": true,
+        "situational_summary": "An innocent herbalist being dragged away by guards is framed for poisoning an ailing noblewoman while a ruthless nobleman threatens to torture the truth out of her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe public framing, vicious humiliation, and imminent threat of physical torture"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the false accusation and immediate peril of the protagonist without revealing the conspiracy or the patient's awakening."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 32.8,
+      "duration": 32.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 immediately establishes the scene visually with an armed guard dragging Juliana backward while Catherine steps directly onto her dropped herbarium book.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear dynamic and complete narrative beat: Juliana is framed for poisoning, but before she can be dragged away to torture, the bedridden Duchess wakes up and points directly at her, declaring her innocence and savior status.",
+        "passes_gate": true,
+        "situational_summary": "Just as an innocent herbalist is about to be dragged away and tortured for poisoning, the bedridden Duchess awakes and declares her a savior."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate defense vindicated by sudden dramatic intervention"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the Duchess recovers and directly exonerates Juliana against the plotters' frame job."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_03",
+      "start_beat_id": "B001",
+      "end_beat_id": "B011",
+      "start_time": 0.0,
+      "end_time": 43.0,
+      "duration": 43.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 immediately grounds the scroller with the physical struggle of a guard wrestling Juliana and Catherine crushing her fallen book beneath her shoe.",
+        "arc_legibility": true,
+        "arc_rationale": "Highly legible emotional trajectory: Juliana is framed for poisoning, but the awakening Duchess exonerates her and directly turns the accusation back onto Rupert, exposing his complicity.",
+        "passes_gate": true,
+        "situational_summary": "After being framed for poisoning, a captive herbalist is saved when the poisoned Duchess awakens and publicly points an accusing finger at her own son."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating maternal betrayal and shocking public counter-accusation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the Duchess survived and explicitly accuses Rupert of being complicit in her poisoning."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_04",
+      "start_beat_id": "B001",
+      "end_beat_id": "B012",
+      "start_time": 0.0,
+      "end_time": 52.2,
+      "duration": 52.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 provides an unmistakable visual grounding of captivity and conflict: guard dragging Juliana across the stone floor while Catherine stamps on her herbarium.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic arc: framed herbalist is vindicated by the poisoned Duchess, who begins unmasking Catherine and Rupert's conspiracy before violently collapsing mid-sentence, leaving the herbalist helpless to save her.",
+        "passes_gate": true,
+        "situational_summary": "A Duchess awakens to expose her son and Catherine for poisoning her, but violently collapses before naming the full conspiracy while the only herbalist who can save her is restrained by guards."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak visceral rupture, life-or-death confrontation, and frantic helplessness"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes Catherine and Rupert as the conspirators behind the Duchess's poisoning and depicts the Duchess's sudden physical relapse."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_05",
+      "start_beat_id": "B001",
+      "end_beat_id": "B013",
+      "start_time": 0.0,
+      "end_time": 56.8,
+      "duration": 56.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with strong visual grounding: an armed guard wrestling a struggling woman in an apron, dropping an herbarium onto the stone floor, which another woman in silk slippers deliberately steps on. The physical setting, captive dynamic, and vindictive antagonism are instantly clear without dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes Juliana being framed for poisoning, the revived Duchess declaring her innocence and accusing her own son (Rupert) and Catherine of complicity, and Rupert chillingly dismissing his mother's accusations as poison-induced madness.",
+        "passes_gate": true,
+        "situational_summary": "As a healer is framed and arrested for poisoning a noblewoman, the victim suddenly awakens to name her true attackers\u2014only for her traitorous son to claim she has lost her mind."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Desperate vindication shattered by ruthless matricidal betrayal and gaslighting"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the conspiracy mechanics and direct complicity of Rupert and Catherine in poisoning the Duchess."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_06",
+      "start_beat_id": "B003",
+      "end_beat_id": "B011",
+      "start_time": 12.6,
+      "end_time": 43.0,
+      "duration": 30.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B003 starts in tight close-up on a smiling woman saying 'She looks exactly like a poisoner.' Because it starts mid-confrontation without establishing shot, who 'she' is or what room/setting they occupy is visually detached until subsequent beats, violating Beat 0 isolation.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue rapidly establishes the accusation, Juliana's defense, and the shocking counter-accusation by the Duchess against Rupert.",
+        "passes_gate": false,
+        "situational_summary": "A noblewoman accuses a servant of poisoning, but the dying victim awakens to accuse her own son instead."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging false accusation overturned by a shocking family betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the Duchess was poisoned with Rupert's knowledge and involvement."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_07",
+      "start_beat_id": "B004",
+      "end_beat_id": "B011",
+      "start_time": 15.2,
+      "end_time": 43.0,
+      "duration": 27.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B004 begins in medias res on a defensive reaction shout ('I did not poison her! Look at her eyes...'). A cold scroller has no visual grounding of the setting, who she is defending herself against, or who 'her' refers to in the first 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The dynamic between captive healer, cold nobleman, and the recovering Duchess who points the finger back at her son is understandable within the full clip.",
+        "passes_gate": false,
+        "situational_summary": "A woman resisting arrest for poisoning is unexpectedly defended by the victim, who turns the murder accusation onto her own son."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate defense escalating into a direct confrontation of filial treason"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the son's foreknowledge/complicity in his mother's poisoning."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_08",
+      "start_beat_id": "B008",
+      "end_beat_id": "B014",
+      "start_time": 28.4,
+      "end_time": 61.3,
+      "duration": 32.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B008 opens with a wide shot of the bedchamber framed through bed curtains as an ill Duchess props herself up and points an accusing finger shouting 'She is innocent. She saved me!'. The physical environment, physical state of the victim, and dramatic intervention are immediately legible.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic reversal: the poisoned victim clears her savior and points out the true culprits, only to collapse while the villainous nobleman turns her collapse into proof of madness to silence her.",
+        "passes_gate": true,
+        "situational_summary": "A bedridden Duchess awakens to clear her savior and accuse her son of poisoning her, but collapses as her son sinisterly brands her delusional."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Shocking public exposure met with sinister predatory gaslighting"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Catherine and Rupert orchestrated the poisoning of the Duchess and are actively conspiring to cover it up."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_09",
+      "start_beat_id": "B011",
+      "end_beat_id": "B014",
+      "start_time": 37.7,
+      "end_time": 61.3,
+      "duration": 23.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 opens with a clear low-angle shot past a bedridden Duchess pointing directly at an icy, unmoving nobleman while delivering the stark accusation 'I was poisoned! And you... you knew!'. The victim, primary suspect, and lethal stakes are instantly grounded in under 3 seconds without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained across 23 seconds: the poisoned Duchess accuses her son/nobleman Rupert, who sinisterly deflects by gaslighting that her mind is destroyed while an innocent girl desperately tries to aid her. Antagonist and victim dynamics are immediately legible.",
+        "passes_gate": true,
+        "situational_summary": "A bedridden Duchess accuses a chilling nobleman of poisoning her, while he deflects the charge by menacingly claiming she is delusional."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Lethal familial betrayal and cold-blooded gaslighting of a dying matriarch"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Directly exposes the core poisoning accusation and Rupert's treasonous deflection; high-impact inciting drama ideal for cold prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_10",
+      "start_beat_id": "B011",
+      "end_beat_id": "B016",
+      "start_time": 37.7,
+      "end_time": 70.5,
+      "duration": 32.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 immediately establishes a poisoned noblewoman pointing at an expressionless Rupert with the visceral confrontation 'I was poisoned! And you... you knew!'. Visually and verbally anchors the core murder accusation instantly.",
+        "arc_legibility": true,
+        "arc_rationale": "Cohesive dramatic arc from the Duchess's accusation to Rupert gaslighting her, Catherine deflecting suspicion onto Juliana, and Rupert ordering Juliana dragged away as the scapegoat. The betrayal and framing of an innocent protector are clearly understood without outside backstory.",
+        "passes_gate": true,
+        "situational_summary": "After a poisoned Duchess accuses her corrupt heirs of attempted murder, they ruthlessly twist the blame onto a helpless maid and order her seized."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Public conspiracy, medical gaslighting, and vicious scapegoating of an innocent protector"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the conspirators' tactical coordination in pinning the assassination attempt onto Juliana to eliminate the sole witness."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_11",
+      "start_beat_id": "B012",
+      "end_beat_id": "B025",
+      "start_time": 43.0,
+      "end_time": 101.2,
+      "duration": 58.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 opens mid-chaos with an already-shouting Duchess lunging from pillows crying 'Catherine knew! They have been\u2014' before coughing violently, as a maid is abruptly grabbed by an armed guard. Without Beat B011's initial accusation, a cold viewer cannot tell who 'Catherine' or 'they' are, what was done, or why Juliana is being restrained.",
+        "arc_legibility": true,
+        "arc_rationale": "The broader sequence builds clear stakes: a maid is stripped of her heirloom, threatened with the gallows, and ultimately unmasked as a secret noblewoman.",
+        "passes_gate": false,
+        "situational_summary": "In the chaos of an ongoing bedside accusation, a maid is seized by guards, stripped of her mother's locket, and unmasked as a hidden noblewoman."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate physical degradation ending in a triumphant identity unmasking"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's secret noble lineage as Lady Juliana Ashcroft and exposes her disguised status to her rival."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_12",
+      "start_beat_id": "B016",
+      "end_beat_id": "B025",
+      "start_time": 66.8,
+      "end_time": 101.2,
+      "duration": 34.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B016 opens mid-action on an abrupt authoritative command ('Take her away before she poisons the rest of this house') without establishing who 'she' is, what poison occurred, or the physical room layout before Catherine immediately tears a locket off a maid's neck in B017. Requires retrospective framing to understand the scapegoating premise.",
+        "arc_legibility": true,
+        "arc_rationale": "The immediate confrontation between Catherine and Juliana is clear as Catherine torments her, discards her locket, and uncovers her secret identity from the herbarium inscription.",
+        "passes_gate": false,
+        "situational_summary": "A ruthless noblewoman strips a captive maid of her family heirloom and discovers an inscription revealing her secret noble identity."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cruel physical humiliation overturned by a dramatic secret identity unmasking"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's hidden noble identity ('Lady Juliana Ashcroft') directly to her antagonist."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_13",
+      "start_beat_id": "B017",
+      "end_beat_id": "B023",
+      "start_time": 70.5,
+      "end_time": 95.0,
+      "duration": 24.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 opens on a tight, immediate visceral action: gloved hands aggressively yanking a silver locket from a woman's neck accompanied by a desperate cry of 'No!'. The interpersonal dynamic of physical victimizer and victim is instantly legible without prior backstory.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: a captive girl is tormented by a noble/antagonist who discards her mother's heirloom, only for the antagonist to discover the captive's true identity ('Juliana Ashcroft') written inside a fallen book.",
+        "passes_gate": true,
+        "situational_summary": "While a captive woman is held by guards and stripped of her mother's locket, her cruel captor discovers a hidden inscription revealing her noble name."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Humiliating physical abuse compounded by the sudden exposure of a hidden identity"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the secret noble identity/lineage ('Juliana Ashcroft') of the supposed maid/gutter rat."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_14",
+      "start_beat_id": "B017",
+      "end_beat_id": "B024",
+      "start_time": 70.5,
+      "end_time": 97.4,
+      "duration": 26.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 provides an immediate, clear physical conflict: Catherine violently snatching a silver chain off Juliana's neck while Juliana screams 'No!', establishing the power dynamic instantly.",
+        "arc_legibility": true,
+        "arc_rationale": "The dynamic between captor and prisoner is immediately understandable, building clearly to the discovery of the inscription and Juliana's visible horror at having her secret uncovered.",
+        "passes_gate": true,
+        "situational_summary": "A cruel captor tears a precious heirloom from a restrained maid, then uncovers a secret book confirming the maid's concealed identity as the maid watches in horror."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Helpless torment turning into sheer panic at a catastrophic secret reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the protagonist's true noble identity and secret past to the primary antagonist."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_15",
+      "start_beat_id": "B017",
+      "end_beat_id": "B025",
+      "start_time": 70.5,
+      "end_time": 101.2,
+      "duration": 30.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 opens with high visual urgency: gloved hands ripping a necklace off a woman's neck, visually and aurally establishing victim and oppressor within two seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Complete, self-contained dramatic escalation: starts with theft and dehumanization ('gutter rat', 'gallows') and crescendos to the antagonist verbalizing the secret title ('Lady Juliana Ashcroft') with predatory triumph.",
+        "passes_gate": true,
+        "situational_summary": "An abusive aristocrat confiscates a captive maid's locket and condemns her, only to discover through an inscribed book that her prisoner is actually Lady Juliana Ashcroft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal physical degradation punctuated by a relationship-shattering noble identity unmasking"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Explicitly discloses the core mid-arc secret: the captive maid is actually noble Lady Juliana Ashcroft."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_16",
+      "start_beat_id": "B017",
+      "end_beat_id": "B026",
+      "start_time": 70.5,
+      "end_time": 107.8,
+      "duration": 37.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 establishes the physical situation immediately via a violent necklace snatch and Juliana's cry of 'No!', anchoring the scene in tangible conflict right away.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely coherent: a restrained girl has her heirloom stolen and thrown aside, her identity is discovered via a book, and the antagonist circles her, spelling out her backstory as a disgraced daughter cast out of her home.",
+        "passes_gate": true,
+        "situational_summary": "A noblewoman torments a captive maid by flinging away her mother's locket, then identifies her as a disgraced runaway lady who was banished from her family home."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Vicious public humiliation transforming into predatory emotional torment and weaponized exposure"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals both the protagonist's noble identity and the secret backstory of her familial disgrace and exile."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_17",
+      "start_beat_id": "B017",
+      "end_beat_id": "B027",
+      "start_time": 70.5,
+      "end_time": 113.0,
+      "duration": 42.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 opens on a tight visual establishing shot of gloved hands violently yanking a silver chain off Juliana's neck accompanied by an immediate defensive cry of 'No!'. The physical confrontation and perpetrator-victim dynamic are instantly legible within 1.5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: Catherine physically strips Juliana of her heirloom, discovers her true identity ('Lady Juliana Ashcroft') in the inscribed herbarium, and publicly exposes her past disgrace and marriage to a penniless veteran.",
+        "passes_gate": true,
+        "situational_summary": "A cruel noblewoman strips a captive maid of her family heirloom, discovers an inscribed book that exposes her secret identity as a disgraced noblewoman, and mocks her marriage to a penniless veteran."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Brutal public exposure and humiliating mockery of fallen status"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the central plot twist/secret: the captive maid is actually the disgraced noblewoman Lady Juliana Ashcroft who married a veteran."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_18",
+      "start_beat_id": "B017",
+      "end_beat_id": "B028",
+      "start_time": 70.5,
+      "end_time": 116.4,
+      "duration": 45.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 opens on a tight visual establishing shot of gloved hands violently yanking a silver chain off Juliana's neck accompanied by an immediate defensive cry of 'No!'. The physical confrontation and perpetrator-victim dynamic are instantly legible within 1.5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows Catherine stealing Juliana's locket, uncovering her secret identity as Lady Juliana Ashcroft, and taunting her fallen state, ending on a sharp, defiant boundary where Juliana fiercely protects her husband's honor.",
+        "passes_gate": true,
+        "situational_summary": "After having her family locket ripped away and her noble identity exposed by a mocking aristocrat, a captive woman fiercely defends her war veteran husband."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Humiliation transformed into explosive defensive defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's hidden noble identity as Lady Juliana Ashcroft and her marriage to a veteran."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_19",
+      "start_beat_id": "B017",
+      "end_beat_id": "B029",
+      "start_time": 70.5,
+      "end_time": 122.0,
+      "duration": 51.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 opens on a tight visual establishing shot of gloved hands violently yanking a silver chain off Juliana's neck accompanied by an immediate defensive cry of 'No!'. The physical confrontation and perpetrator-victim dynamic are instantly legible within 1.5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict between the haughty aristocrat and the captive maid is transparent: Catherine exposes Juliana's identity via the inscribed book, mocks her fall to a fireplace scrubber, and Juliana's defiance is met with crushing derision.",
+        "passes_gate": true,
+        "situational_summary": "A noblewoman exposes a captive servant as a disgraced noble lady married to a veteran, laughing derisively at her fall to fireplace scrubber."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe aristocratic humiliation and gloating triumph over fallen nobility"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses Juliana's secret identity as Lady Juliana Ashcroft and the contrast between her noble origin and current servant status."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_20",
+      "start_beat_id": "B017",
+      "end_beat_id": "B030",
+      "start_time": 70.5,
+      "end_time": 124.9,
+      "duration": 54.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 opens on a tight visual establishing shot of gloved hands violently yanking a silver chain off Juliana's neck accompanied by an immediate defensive cry of 'No!'. The physical confrontation and perpetrator-victim dynamic are instantly legible within 1.5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is clear and self-contained from the theft of the heirloom, the revelation of Juliana's true identity, the mockery of her marriage, to an immediate severe physical threat ordering her into wet dungeon cells.",
+        "passes_gate": true,
+        "situational_summary": "After discovering that a captive maid is secretly a disgraced noble lady, her captors mock her fallen status and order her dragged to the wet dungeon cells."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Humiliation compounded by imminent physical peril and dungeon imprisonment"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's secret noble identity and culminates in the mid-arc directive condemning her to the south tower wet cells."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_21",
+      "start_beat_id": "B017",
+      "end_beat_id": "B031",
+      "start_time": 70.5,
+      "end_time": 128.8,
+      "duration": 58.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 opens on a tight, visceral visual anchor: gloved hands aggressively tearing a silver chain from a woman's neck as she screams 'No!'. The physical violation and oppressor-victim dynamic are instantly established without prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "Complete self-contained narrative arc: Catherine strips Juliana of her heirloom, uncovers her hidden noble lineage ('Lady Juliana Ashcroft') in a discarded book, humiliates her fallen status, and orders her executed as a witch using the botanical book as pretext.",
+        "passes_gate": true,
+        "situational_summary": "A cruel noblewoman strips an heirloom from an imprisoned woman, uncovers her hidden identity as a disgraced lady, and sentences her to the dungeon to be hanged for witchcraft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal class degradation, heirloom violation, and triumphantly malicious identity exposure"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes Juliana's true noble identity (Lady Juliana Ashcroft), her scandalous marriage, and Catherine's plot to frame her botanical work as capital witchcraft."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_22",
+      "start_beat_id": "B018",
+      "end_beat_id": "B025",
+      "start_time": 72.0,
+      "end_time": 101.2,
+      "duration": 29.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 opens with a clear visual anchor: a haughty woman inspecting a stolen silver and amethyst pendant while delivering an unambiguous class-based insult ('Where did a gutter rat like you find a silver locket?'). Dynamic is immediately grounded.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained conflict: the antagonist mocks the victim's possession, discards it to execute her, but accidentally discovers a book revealing that the supposed 'gutter rat' is actually a highborn lady.",
+        "passes_gate": true,
+        "situational_summary": "While mocking a captive woman over an heirloom locket, an arrogant noblewoman discovers a hidden inscription revealing her captive is secretly highborn nobility."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging class humiliation pivoting into a shocking secret-identity reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly reveals the central mystery of Juliana's secret noble identity as Lady Juliana Ashcroft."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_23",
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 75.3,
+      "end_time": 101.2,
+      "duration": 25.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 opens on a mid-struggle scream ('Give it back! It belonged to my mother!') while writhing in a guard's grip. Without seeing the locket taken (B017) or held (B018), a cold scroller lacks visual grounding for what 'it' is or why she is restrained.",
+        "arc_legibility": true,
+        "arc_rationale": "The broader arc explains the struggle over the heirloom and leads smoothly to Catherine discovering Juliana's true noble identity in the book.",
+        "passes_gate": false,
+        "situational_summary": "A restrained captive begs for her mother's heirloom back before her tormentor finds an inscription exposing her noble identity."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate maternal grief followed by chilling identity discovery"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the captive's hidden identity as Lady Juliana Ashcroft."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_24",
+      "start_beat_id": "B020",
+      "end_beat_id": "B025",
+      "start_time": 78.9,
+      "end_time": 101.2,
+      "duration": 22.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 opens mid-action with an object already flying across a stone corridor floor. The cold viewer does not know what was thrown, who threw it, or why the victim is screaming 'My mother's locket!' from a doorway.",
+        "arc_legibility": true,
+        "arc_rationale": "Once Catherine walks over to the book, the sequence cleanly tracks the discovery of the inscription and the identity reveal.",
+        "passes_gate": false,
+        "situational_summary": "An aristocratic captor discards a prisoner's heirloom locket and inspects a fallen book, discovering the prisoner is a secret noble lady."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Cold contempt and sudden revelation of a hidden pedigree"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the captive's hidden identity as Lady Juliana Ashcroft."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_25",
+      "start_beat_id": "B023",
+      "end_beat_id": "B033",
+      "start_time": 93.8,
+      "end_time": 136.8,
+      "duration": 43.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B023 is an extreme close-up on a handwritten inscription ('Juliana Ashcroft') with no characters, physical setting, or interpersonal dynamic established in the opening 1.2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full clip, the dynamic is immediately clear: Catherine unmasks Juliana as a disgraced noblewoman working as a servant, seizes her mother's herbarium book, and orders her sent to the cells to be hanged by the magistrate.",
+        "passes_gate": false,
+        "situational_summary": "A disgraced noblewoman hiding as a servant is unmasked by a cruel mistress and sentenced to the gallows over an illicit botanical book."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal unmasking and public humiliation escalating into a life-or-death execution threat"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's hidden noble identity, her past disgrace, and the confiscation of her mother's herbarium book as evidence of a capital crime."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_26",
+      "start_beat_id": "B024",
+      "end_beat_id": "B033",
+      "start_time": 95.0,
+      "end_time": 136.8,
+      "duration": 41.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B024 opens with a clear medium shot of Juliana freezing in the doorway in horror as she watches another woman opening a personal book, immediately establishing the physical environment, characters, and high-stakes confrontation without sound.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc clearly presents Catherine confronting Juliana with her disgraced lineage, mocking her marriage, having her seized by guards, and threatening her with the gallows over the confiscated herbarium.",
+        "passes_gate": true,
+        "situational_summary": "After catching her mistress opening a private book, an undercover servant is exposed as a fallen noblewoman and condemned to the gallows for possessing her mother's forbidden work."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Shock of discovery escalating into vicious predatory humiliation and lethal peril"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's secret identity as Lady Juliana Ashcroft and the framing of her mother's herbarium as a hanging offense."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_27",
+      "start_beat_id": "B025",
+      "end_beat_id": "B033",
+      "start_time": 97.4,
+      "end_time": 136.8,
+      "duration": 39.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B025 opens on a close-up of Catherine looking up from a book with a wicked, triumphant grin and delivering a direct, grounded unmasking line ('Lady Juliana Ashcroft'), instantly anchoring status, conflict, and malice.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression clearly exposes Juliana's fall from grace, her defensive loyalty to her veteran husband, and Catherine ordering her to the wet cells to face hanging before the magistrate.",
+        "passes_gate": true,
+        "situational_summary": "A vindictive noblewoman publicly exposes a servant's true identity as a disgraced lady and condemns her to the gallows."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant predatory unmasking followed by fierce loyalty and a terrifying death sentence"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes Juliana's true noble title, her hidden past, and the lethal threat of execution via the magistrate."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_28",
+      "start_beat_id": "B026",
+      "end_beat_id": "B033",
+      "start_time": 101.2,
+      "end_time": 136.8,
+      "duration": 35.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B026 opens on a medium two-shot of Catherine circling Juliana like a predator while declaring her the 'disgraced daughter' thrown out of her family home, instantly establishing the interpersonal hierarchy, physical setting, and antagonism.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is entirely self-contained: Catherine mocks Juliana's marriage and servant status, Juliana defiantly defends her husband, and Catherine's faction orders Juliana dragged to the cells to hang.",
+        "passes_gate": true,
+        "situational_summary": "A ruthless noblewoman torments and mocks a disgraced lady working as her servant before having guards drag her away to face execution."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Scathing public humiliation meeting fierce defiance before ending on a chilling mortal threat"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Details Juliana's exile, her marriage to a penniless veteran, and her arrest for possessing the botanical book."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_29",
+      "start_beat_id": "B027",
+      "end_beat_id": "B034",
+      "start_time": 107.8,
+      "end_time": 138.5,
+      "duration": 30.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B027 opens with a clear close-up two-shot of Catherine leaning inches from Juliana's face, establishing an intense, predatory confrontation and establishing the backstory dynamic immediately ('The bride who married a penniless war veteran...').",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Catherine humiliates the fallen Lady Juliana, seizes her mother's herbarium to frame her for witchcraft/hanging, and orders her dragged to the dungeons.",
+        "passes_gate": true,
+        "situational_summary": "A cruel noblewoman taunts a disgraced former lady turned servant about her marriage and confiscates her mother's herbarium to send her to the gallows."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vicious aristocratic humiliation paired with the threat of execution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the inciting escalation where Juliana is framed with her mother's book and condemned to the dungeon/gallows."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_30",
+      "start_beat_id": "B028",
+      "end_beat_id": "B034",
+      "start_time": 113.0,
+      "end_time": 138.5,
+      "duration": 25.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 opens on a tight reaction shot of Juliana shouting 'Do not speak about my husband!' with no visual grounding of the setting, who she is speaking to, or what was said prior to trigger the outburst.",
+        "arc_legibility": true,
+        "arc_rationale": "Once Catherine replies and orders her arrest using the botanical book, the core conflict of aristocratic malice and framing is clear.",
+        "passes_gate": false,
+        "situational_summary": "A defiant woman defends her husband against a mocking noblewoman who orders her imprisoned and threatens to have her hanged."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Furious defensive pride crushed under institutional cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals Juliana's arrest and framing via the herbarium."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_31",
+      "start_beat_id": "B029",
+      "end_beat_id": "B033",
+      "start_time": 116.4,
+      "end_time": 136.8,
+      "duration": 20.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B029 opens with a medium two-shot showing Catherine derisively laughing while holding a book and explicitly laying out the status disparity ('And look at you now. Scrubbing fireplaces in my house. What a magnificent fall, Lady Juliana.').",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc clearly demonstrates the oppressor-victim dynamic, the confiscation of the mother's legacy, and the direct threat of the gallows.",
+        "passes_gate": true,
+        "situational_summary": "A noblewoman mocks a fallen lady forced into servitude and vows to use her mother's botanical book to send her to the gallows."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Gloating aristocratic cruelty and imminent mortal threat"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the villain's plot to frame Juliana using the herbarium."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP028_32",
+      "start_beat_id": "B029",
+      "end_beat_id": "B034",
+      "start_time": 116.4,
+      "end_time": 138.5,
+      "duration": 22.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B029 clearly establishes both characters in a medium two-shot, immediately defining their dynamic and Juliana's fallen status as a fireplace scrubber in Catherine's house.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc contains the complete sequence from public taunting to the order of imprisonment, confiscation of her mother's work, and being dragged into darkness.",
+        "passes_gate": true,
+        "situational_summary": "A gloating aristocrat taunts a fallen noblewoman before seizing her mother's botanical journal to ensure her execution at the gallows."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging humiliation and despair as an innocent victim is dragged to the cells"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses Juliana's capture, the confiscation of the herbarium, and her condemnation to the wet cells."
+      }
+    }
+  ]
+}

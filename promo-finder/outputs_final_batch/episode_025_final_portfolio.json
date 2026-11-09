@@ -1,0 +1,272 @@
+{
+  "episode_number": 25,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP025_04",
+      "absolute_rubric_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B006",
+        "end_beat_id": "B018",
+        "start_time": 18.8,
+        "end_time": 63.5,
+        "duration": 44.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "The Dowager?",
+        "final_character": "ALEXANDER",
+        "specific_question": "Why does Juliana's mention of the Dowager Duchess strike absolute shock into Alexander?"
+      },
+      "situational_summary": "A nobleman inspects a woman's brutal whip wounds and presses her for answers, only to freeze in shock when she reveals she endured the beating to help the Dowager Duchess.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP025_20",
+      "absolute_rubric_score": 8.5,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.2,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0886,
+      "max_similarity_to_selected": 0.7809,
+      "boundary": {
+        "start_beat_id": "B034",
+        "end_beat_id": "B037",
+        "start_time": 128.0,
+        "end_time": 156.5,
+        "duration": 28.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Because you were standing inside a house where someone is poisoning a woman... and you never told me.",
+        "opening_character": "ALEXANDER",
+        "rationale": "'Because you were standing inside a house where someone is poisoning a woman... and you never told me' is an explosive, high-stakes confrontation."
+      },
+      "cliffhanger": {
+        "final_quote": "Then tell me everything.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Now that Alexander is aligned with Juliana, how will they together counter the poisoner and Lady Catherine?"
+      },
+      "situational_summary": "A furious man confronts a woman for concealing that she was assaulted inside a house harboring a poisoner, before reluctantly yielding to her moral resolve.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP025_02",
+      "absolute_rubric_score": 8.5,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.1
+      },
+      "mmr_score": 0.0077,
+      "max_similarity_to_selected": 0.8384,
+      "boundary": {
+        "start_beat_id": "B004",
+        "end_beat_id": "B017",
+        "start_time": 13.2,
+        "end_time": 57.5,
+        "duration": 44.3,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You're hurt.",
+        "opening_character": "ALEXANDER",
+        "rationale": "'You're hurt' combined with a sharp wince of pain establishes immediate bodily danger and confrontation."
+      },
+      "cliffhanger": {
+        "final_quote": "The Dowager Duchess.",
+        "final_character": "JULIANA",
+        "specific_question": "What perilous entanglement connects Juliana to the highest-ranking noblewoman, the Dowager Duchess?"
+      },
+      "situational_summary": "After discovering raw whip marks on her shoulder, a man interrogates a woman until she confesses she was whipped as a maid while secretly helping the Dowager Duchess.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP025_14",
+      "absolute_rubric_score": 8.4,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.0461,
+      "max_similarity_to_selected": 0.8358,
+      "boundary": {
+        "start_beat_id": "B023",
+        "end_beat_id": "B031",
+        "start_time": 79.5,
+        "end_time": 117.5,
+        "duration": 38.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Poison.",
+        "opening_character": "JULIANA",
+        "rationale": "The single word 'Poison' lands as an explosive shock revelation establishing an active murder plot."
+      },
+      "cliffhanger": {
+        "final_quote": "I have to.",
+        "final_character": "JULIANA",
+        "specific_question": "Can Alexander stop Juliana from walking directly into what could be a fatal trap at Ashburg Manor?"
+      },
+      "situational_summary": "A woman reveals to a grim man that someone is deliberately poisoning an elder with arsenic, but insists she must return to keep administering the cure.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP025_09",
+      "absolute_rubric_score": 8.1,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.2096,
+      "max_similarity_to_selected": 0.8324,
+      "boundary": {
+        "start_beat_id": "B019",
+        "end_beat_id": "B024",
+        "start_time": 63.5,
+        "end_time": 86.2,
+        "duration": 22.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Prudence told me she was dying.",
+        "opening_character": "JULIANA",
+        "rationale": "'Prudence told me she was dying' delivers an urgent, life-or-death revelation of impending tragedy."
+      },
+      "cliffhanger": {
+        "final_quote": "Arsenic.",
+        "final_character": "JULIANA",
+        "specific_question": "How will Alexander and Juliana expose an untraceable arsenic conspiracy inside the high nobility?"
+      },
+      "situational_summary": "While walking together outdoors, a woman reveals to her companion that a sick friend did not fall ill from old age, but was intentionally poisoned with arsenic.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP025_03",
+      "rank": 2,
+      "recommended_boundary": "B006 -> B017",
+      "similarity": 0.9168,
+      "duplicate_of": "CAND_EP025_04",
+      "reason": "Exceeded near-duplicate threshold (0.9168 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP025_05",
+      "rank": 6,
+      "recommended_boundary": "B006 -> B021",
+      "similarity": 0.9053,
+      "duplicate_of": "CAND_EP025_04",
+      "reason": "Exceeded near-duplicate threshold (0.9053 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP025_03",
+      "rank": 2,
+      "recommended_boundary": "B006 -> B017",
+      "similarity": 0.9168,
+      "duplicate_of": "CAND_EP025_04",
+      "reason": "Exceeded near-duplicate threshold (0.9168 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP025_05",
+      "rank": 6,
+      "recommended_boundary": "B006 -> B021",
+      "similarity": 0.9053,
+      "duplicate_of": "CAND_EP025_04",
+      "reason": "Exceeded near-duplicate threshold (0.9053 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP025_03",
+      "rank": 2,
+      "recommended_boundary": "B006 -> B017",
+      "similarity": 0.9168,
+      "duplicate_of": "CAND_EP025_04",
+      "reason": "Exceeded near-duplicate threshold (0.9168 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP025_05",
+      "rank": 6,
+      "recommended_boundary": "B006 -> B021",
+      "similarity": 0.9053,
+      "duplicate_of": "CAND_EP025_04",
+      "reason": "Exceeded near-duplicate threshold (0.9053 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP025_01",
+      "rank": 7,
+      "recommended_boundary": "B004 -> B011",
+      "similarity": 0.9398,
+      "duplicate_of": "CAND_EP025_02",
+      "reason": "Exceeded near-duplicate threshold (0.9398 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP025_03",
+      "rank": 2,
+      "recommended_boundary": "B006 -> B017",
+      "similarity": 0.9168,
+      "duplicate_of": "CAND_EP025_04",
+      "reason": "Exceeded near-duplicate threshold (0.9168 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP025_05",
+      "rank": 6,
+      "recommended_boundary": "B006 -> B021",
+      "similarity": 0.9053,
+      "duplicate_of": "CAND_EP025_04",
+      "reason": "Exceeded near-duplicate threshold (0.9053 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP025_01",
+      "rank": 7,
+      "recommended_boundary": "B004 -> B011",
+      "similarity": 0.9398,
+      "duplicate_of": "CAND_EP025_02",
+      "reason": "Exceeded near-duplicate threshold (0.9398 >= 0.90)"
+    }
+  ]
+}

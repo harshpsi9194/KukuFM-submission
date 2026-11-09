@@ -1,0 +1,118 @@
+{
+  "episode_number": 26,
+  "total_ranked": 7,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP026_06",
+      "absolute_score": 9.7,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.5,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Opens with an instant visual rupture as the Duchess gasps in disbelief at the signet ring on her maid's hand, escalating into a frantic physical grab. Cuts at absolute peak tension on the Duchess's tearful, desperate interrogation without resolving Juliana's true lineage.",
+      "duration": 29.3,
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "emotional_salience_score": 5,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP026_08",
+      "absolute_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Arrests attention immediately through pure visual shock at the signet ring, building through intense physical confrontation and urgency. The final image of the Duchess's weathered hands clamping onto Juliana's provides a gripping, high-emotion cliffhanger.",
+      "duration": 34.38,
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "emotional_salience_score": 5,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP026_07",
+      "absolute_score": 9.1,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "Leverages the powerful visual shock of the discovered ring and mounts rapid physical tension as the Duchess seizes Juliana. Concludes on Juliana frozen in shock, creating strong suspense though slightly less punchy than the direct verbal demand.",
+      "duration": 33.0,
+      "start_beat_id": "B019",
+      "end_beat_id": "B024",
+      "emotional_salience_score": 5,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP026_09",
+      "absolute_score": 9.0,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "Kicks off with immediate verbal panic and physical urgency from the bedridden Duchess demanding Juliana's hand. Escalates sharply across the interrogation beats to close on the tight, desperate clasp of hands with high curiosity.",
+      "duration": 25.88,
+      "start_beat_id": "B020",
+      "end_beat_id": "B025",
+      "emotional_salience_score": 4,
+      "rank": 4
+    },
+    {
+      "candidate_id": "CAND_EP026_05",
+      "absolute_score": 8.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.9
+      },
+      "rank_justification": "Captures the arresting visual discovery of the ring and rapidly builds physical stakes, ending on the sudden clamp of the Duchess's hand and 'Do not move!'. The cliffhanger is sharp and action-oriented, though cuts just before the core mystery of the ring is spoken aloud.",
+      "duration": 24.3,
+      "start_beat_id": "B019",
+      "end_beat_id": "B022",
+      "emotional_salience_score": 4,
+      "rank": 5
+    },
+    {
+      "candidate_id": "CAND_EP026_02",
+      "absolute_score": 8.1,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.0
+      },
+      "rank_justification": "Opens on an explosive murder accusation that hooks the ear, followed by dialogue-heavy exposition about poison and honor. Finishes on a high-performing visual cliffhanger as the Duchess gasps in shock upon seeing the ring.",
+      "duration": 39.2,
+      "start_beat_id": "B014",
+      "end_beat_id": "B019",
+      "emotional_salience_score": 4,
+      "rank": 6
+    },
+    {
+      "candidate_id": "CAND_EP026_03",
+      "absolute_score": 7.5,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 1.9
+      },
+      "rank_justification": "Features a strong dramatic opening confrontation regarding the poisoning plot, but the middle pace plateaus into backstory exposition. Ends on an urgent verbal demand to see the hand, which works well but carries less visceral rupture than the actual ring discovery cut.",
+      "duration": 44.2,
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "emotional_salience_score": 4,
+      "rank": 7
+    }
+  ]
+}

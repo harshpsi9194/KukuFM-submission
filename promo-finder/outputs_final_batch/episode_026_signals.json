@@ -1,0 +1,432 @@
+{
+  "episode_number": 26,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Atmospheric framing of a clandestine bedside vigil with a maid nervously checking the door establishes immediate secret tension on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of hands unscrewing a dark amber dropper bottle conveys medicine or poison preparation, but lacks high kinetic drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard close-up of a frail, ailing character opening her eyes in bed with low visual velocity.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Mild disorientation and identity inquiry ('Who are you? Speak to me.') establishes setup but lacks immediate urgency or conflict.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Low-angle medium two-shot past a silhouette down to a sickbed is a conventional conversational angle.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct, urgent plea revealing life-or-death stakes ('Please, Your Grace. Drink the last of this antidote.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of administering medicine to an invalid communicates concern but remains standard bedside staging.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Extreme close-up of liquid droplets entering the lips of an ailing woman provides mild visual intimacy without abrupt shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "Neutral transitional two-shot withdrawing the bottle with no tension or motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Reveals high-stakes physical violence and hidden identity ('You are no common servant. You took Catherine's whip for me').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static close-up of the weakened Duchess speaking from her pillows.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Stoic personal declaration ('I did what I had to. It does not change my duty.') offers noble sentiment without immediate narrative disruption.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard close-up of a character with quiet emotional resolve.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Comforting logistical reassurances ('Rest now, Your Grace. You are safe tonight.') lower immediate tension.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Routine physical action of tucking blankets over a bedridden patient.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Immediate lethal threat delivered in a tense whisper ('If the guards hear us, we are both dead.').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of maid looking furtively around shadowy room conveys palpable danger and paranoia.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Static shot of an ajar heavy door with glowing light hints at impending intrusion, though lacking immediate human action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of mounting horror and quickened breathing as the Duchess clutches the blanket to her chest conveys stark dread.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive accusation of familial murder and treason ('Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up showing acute distress, dread, and trembling realization on the dying matriarch's face.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly confirms active murder plot while asserting medical survival ('Yes. But the charcoal is fighting the poison.').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium shot of a maid leaning over the mattress nodding.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "Static insert shot of an amber bottle resting on a wooden nightstand.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Direct inquiry into secret identity ('why is a girl of such noble spirit working as a common maid?'), though phrased as contemplative dialogue.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium shot of a bedridden character studying another.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sharp emotional revelation of family betrayal and ruin ('Because my family cast me out to rot. I have nothing left in this world but my honor.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on lifted chin and defiant, sorrowful facial expression.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum visual scroll-stopper: tracking shot reveals an elite signet ring on a maid's hand, cutting immediately to an extreme close-up of the Duchess gasping in jaw-dropping shock.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Urgent imperative demand fueled by visible panic ('Your hand... Let me see your hand.').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Frail Duchess violently bolts upright in bed, trembling and lunging toward the maid, instantly communicating an emergency on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Expositional question acknowledging the other person's shock ('What is wrong? You look as though you've seen a ghost.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up reaction shot showing confusion and concern.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sudden sharp authoritarian command ('Do not move!').",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "High-impact physical scroll-stopper: withered hand lunges across the bed and fiercely clamps down onto the maid's sleeve with unexpected violent force.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes confrontation demanding the truth of Juliana's lineage ('Where... where... Where did you get this ring? Speak to me!').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Intense close-up of wide, tear-brimming eyes filled with manic urgency and shock.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up of Juliana frozen in stunned paralysis under scrutiny.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of trembling weathered hands clasping the maid's signet ring cleanly exposes the central identity mystery without words.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who is Juliana and why must she sneak around guards to attend to the Duchess?",
+      "stakes_importance": "Medium \u2014 sets up a clandestine rescue mission, but lacks an immediate active threat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "What liquid is in the amber bottle, and is it intended to heal or harm?",
+      "stakes_importance": "Medium \u2014 establishes brewing tension around medicine administration, but provides no answers yet.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will the ailing Duchess recognize the person standing over her?",
+      "stakes_importance": "Low \u2014 slow waking transition shot with low immediate conflict.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Juliana explain her presence to the suspicious Duchess?",
+      "stakes_importance": "Low \u2014 direct identity inquiry before any imminent danger erupts.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the Duchess drink the antidote before someone discovers them?",
+      "stakes_importance": "High \u2014 establishes that the Duchess has been poisoned and Juliana is delivering a lifesaving remedy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the antidote take effect in time to save the Duchess?",
+      "stakes_importance": "Medium \u2014 action of ingesting the medicine completes, lessening immediate urgency.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 1,
+      "specific_question": "What will Juliana do next now that the medicine is administered?",
+      "stakes_importance": "Low \u2014 neutral physical reset and transition beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why did Juliana risk enduring a whip lashing on behalf of the Duchess?",
+      "stakes_importance": "Medium \u2014 hints at a deep moral loyalty and Catherine's abusive cruelty in the estate.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "What hidden duty compels Juliana to suffer abuse for the Duchess?",
+      "stakes_importance": "Medium \u2014 shows nobility of spirit, but resolves the immediate question raised in B008.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 1,
+      "specific_question": "Is the Duchess truly safe for the night?",
+      "stakes_importance": "Low \u2014 reassuring conclusion to the bedside care, dissipating tension.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the guards hear their whispers and execute both Juliana and the Duchess?",
+      "stakes_importance": "High \u2014 establishes direct, lethal consequences for being discovered in the room.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "Is an enemy or guard lurking just beyond the cracked bedchamber door?",
+      "stakes_importance": "High \u2014 atmospheric visual dread creating immediate suspense of imminent discovery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the Duchess cope with the realization that her own family wants her dead?",
+      "stakes_importance": "Medium \u2014 internal psychological processing of imminent betrayal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 4,
+      "specific_question": "Are Rupert and Catherine actively murdering the Dowager Duchess in her own estate?",
+      "stakes_importance": "High \u2014 direct shock accusation of patricide/regicide by close family members.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can the charcoal antidote fully counter Rupert and Catherine's poison?",
+      "stakes_importance": "Medium \u2014 Juliana confirms the accusation, defusing the core question of whether they are poisoning her.",
+      "defuses_tension": true,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will the bottle remain unnoticed on the table?",
+      "stakes_importance": "Low \u2014 static prop shot with resolved immediate action.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 3,
+      "specific_question": "What is Juliana's true lineage and why is she disguised as a common maid?",
+      "stakes_importance": "High \u2014 probes Juliana's concealed identity and noble background.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 3,
+      "specific_question": "Which prominent noble family cast Juliana out to rot, and why?",
+      "stakes_importance": "Medium \u2014 reveals her tragic backstory and motivation, though defuses the immediate mystery from B017.",
+      "defuses_tension": true,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 5,
+      "specific_question": "Whose crest is on the signet ring that caused the Duchess to gasp in absolute shock?",
+      "stakes_importance": "High \u2014 maximum visual reveal triggering a seismic shift in Juliana's true identity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "What undeniable proof does the Duchess expect to confirm upon inspecting Juliana's hand?",
+      "stakes_importance": "High \u2014 escalating frenzy of recognition regarding Juliana's heirloom.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 3,
+      "specific_question": "What 'ghost' from the past has Juliana's appearance or ring resurrected for the Duchess?",
+      "stakes_importance": "Medium \u2014 highlights the elder woman's panic, but Juliana's question delays the central reveal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why is the dying Duchess seizing Juliana with desperate physical force?",
+      "stakes_importance": "High \u2014 physical restraint and urgent demand heighten the stakes of discovery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Juliana explain possessing a signet ring that only a high-born noble or lost heir could own?",
+      "stakes_importance": "High \u2014 critical ultimatum and direct inquiry confronting the core secret of the entire series.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana confess the truth of her noble blood or deny the ring's significance?",
+      "stakes_importance": "High \u2014 frozen reaction shot holding the confrontation at maximum tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 5,
+      "specific_question": "Is Juliana the long-lost daughter or heir of the noble house, and what will the Duchess do now that she knows?",
+      "stakes_importance": "High \u2014 definitive climax and cliffhanger of the episode, locking the secret identity discovery right at the hard cut to black.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

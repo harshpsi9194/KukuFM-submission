@@ -1,0 +1,1996 @@
+{
+  "episode_number": 28,
+  "total_candidates": 32,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP028_01",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 22.8,
+      "duration": 22.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "High-impact visual action opens immediately with a struggling captive and a cruel low-angle shot of a silk slipper grinding into a fallen journal on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B005",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana be tortured by the guards before she can prove her innocence?",
+        "stakes_importance": "High \u2014 imminent threat of brutal interrogation and physical torture.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B001",
+          "end_beat_id": "B005",
+          "start_time": 0.0,
+          "end_time": 22.8,
+          "duration": 22.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_02",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 32.8,
+      "duration": 32.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "High-impact visual action opens immediately with a struggling captive and a cruel low-angle shot of a silk slipper grinding into a fallen journal on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Rupert and Catherine react now that the Duchess has explicitly exonerated Juliana as her savior?",
+        "stakes_importance": "High \u2014 public reversal and total vindication of the protagonist.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B001",
+          "end_beat_id": "B008",
+          "start_time": 0.0,
+          "end_time": 32.8,
+          "duration": 32.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_03",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B001",
+      "end_beat_id": "B011",
+      "start_time": 0.0,
+      "end_time": 43.0,
+      "duration": 43.0,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "High-impact visual action opens immediately with a struggling captive and a cruel low-angle shot of a silk slipper grinding into a fallen journal on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Rupert silence or murder his own mother after she directly accuses him of poisoning her?",
+        "stakes_importance": "High \u2014 patricidal/matricidal conspiracy exposed directly to the conspirator's face.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B001",
+          "end_beat_id": "B011",
+          "start_time": 0.0,
+          "end_time": 43.0,
+          "duration": 43.0,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_04",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B001",
+      "end_beat_id": "B012",
+      "start_time": 0.0,
+      "end_time": 52.2,
+      "duration": 52.2,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "High-impact visual action opens immediately with a struggling captive and a cruel low-angle shot of a silk slipper grinding into a fallen journal on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B012",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the Duchess survive this sudden physical collapse before naming the full conspiracy?",
+        "stakes_importance": "High \u2014 life-or-death emergency as the sole protective witness succumbs to poison.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B001",
+          "end_beat_id": "B012",
+          "start_time": 0.0,
+          "end_time": 52.2,
+          "duration": 52.2,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_05",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B001",
+      "end_beat_id": "B013",
+      "start_time": 0.0,
+      "end_time": 56.8,
+      "duration": 56.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "High-impact visual action opens immediately with a struggling captive and a cruel low-angle shot of a silk slipper grinding into a fallen journal on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B013",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Rupert succeed in using the 'madness' defense to lock away his mother and execute Juliana?",
+        "stakes_importance": "High \u2014 ruthless gaslighting by the villain to cover up attempted matricide.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B001",
+          "end_beat_id": "B013",
+          "start_time": 0.0,
+          "end_time": 56.8,
+          "duration": 56.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_06",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B003",
+      "end_beat_id": "B011",
+      "start_time": 12.6,
+      "end_time": 43.0,
+      "duration": 30.4,
+      "hook_signal": {
+        "beat_id": "B003",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "A sharp, explicit criminal accusation ('She looks exactly like a poisoner') that instantly establishes high stakes.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "A tight close-up on Catherine's malicious, gleaming smile provides immediate emotional friction on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Rupert silence or murder his own mother after she directly accuses him of poisoning her?",
+        "stakes_importance": "High \u2014 patricidal/matricidal conspiracy exposed directly to the conspirator's face.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B003",
+          "end_beat_id": "B011",
+          "start_time": 12.6,
+          "end_time": 43.0,
+          "duration": 30.4,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_07",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B004",
+      "end_beat_id": "B011",
+      "start_time": 15.2,
+      "end_time": 43.0,
+      "duration": 27.8,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Urgent, desperate defensive protestation countering murder allegations with an immediate medical defense.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of a struggling captive glaring in fierce indignation while pinned by a guard delivers solid visual tension.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Rupert silence or murder his own mother after she directly accuses him of poisoning her?",
+        "stakes_importance": "High \u2014 patricidal/matricidal conspiracy exposed directly to the conspirator's face.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B004",
+          "end_beat_id": "B011",
+          "start_time": 15.2,
+          "end_time": 43.0,
+          "duration": 27.8,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_08",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B008",
+      "end_beat_id": "B014",
+      "start_time": 28.4,
+      "end_time": 61.3,
+      "duration": 32.9,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Dramatic reversal from the victim clearing the protagonist ('She is innocent. She saved me!').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Bedridden Duchess propping herself up to point an accusing finger creates unmistakable dramatic staging.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B014",
+        "curiosity_gap_score": 4,
+        "specific_question": "What will Rupert do to his helpless mother while looming over her bed under the guise of her being 'confused'?",
+        "stakes_importance": "High \u2014 sinister menace directly threatening the incapacitated victim.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B008",
+          "end_beat_id": "B014",
+          "start_time": 28.4,
+          "end_time": 61.3,
+          "duration": 32.9,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_09",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B011",
+      "end_beat_id": "B014",
+      "start_time": 37.7,
+      "end_time": 61.3,
+      "duration": 23.6,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive shocker accusation pointing direct complicity in attempted murder ('I was poisoned! And you... you knew!').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle shot past the Duchess pointing an accusatory finger directly at a rigid nobleman is completely legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B014",
+        "curiosity_gap_score": 4,
+        "specific_question": "What will Rupert do to his helpless mother while looming over her bed under the guise of her being 'confused'?",
+        "stakes_importance": "High \u2014 sinister menace directly threatening the incapacitated victim.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B011",
+          "end_beat_id": "B014",
+          "start_time": 37.7,
+          "end_time": 61.3,
+          "duration": 23.6,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_10",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B011",
+      "end_beat_id": "B016",
+      "start_time": 37.7,
+      "end_time": 70.5,
+      "duration": 32.8,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive shocker accusation pointing direct complicity in attempted murder ('I was poisoned! And you... you knew!').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle shot past the Duchess pointing an accusatory finger directly at a rigid nobleman is completely legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B016",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana be dragged to the dungeons before she can provide the antidote or prove Rupert's treason?",
+        "stakes_importance": "High \u2014 definitive command for imprisonment under false capital charges.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B011",
+          "end_beat_id": "B016",
+          "start_time": 37.7,
+          "end_time": 70.5,
+          "duration": 32.8,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_11",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B012",
+      "end_beat_id": "B025",
+      "start_time": 43.0,
+      "end_time": 101.2,
+      "duration": 58.2,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp conspiratorial accusation ('Catherine knew!') combined with desperate pleading shouts under duress.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Physical collapse clutching chest paired with a violent restraining struggle by an armed guard creates massive chaotic urgency on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Catherine weaponize Juliana's true noble title and disgraceful downfall against her?",
+        "stakes_importance": "High \u2014 triumphant public unmasking of the hidden noblewoman by her arch-rival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B012",
+          "end_beat_id": "B025",
+          "start_time": 43.0,
+          "end_time": 101.2,
+          "duration": 58.2,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_12",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B016",
+      "end_beat_id": "B025",
+      "start_time": 66.8,
+      "end_time": 101.2,
+      "duration": 34.4,
+      "hook_signal": {
+        "beat_id": "B016",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Ruthless disciplinary order framing the heroine as a deadly household contagion ('Take her away before she poisons the rest of this house').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Low-angle turning shot delivering an order shows cold authority but standard visual action.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Catherine weaponize Juliana's true noble title and disgraceful downfall against her?",
+        "stakes_importance": "High \u2014 triumphant public unmasking of the hidden noblewoman by her arch-rival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B016",
+          "end_beat_id": "B025",
+          "start_time": 66.8,
+          "end_time": 101.2,
+          "duration": 34.4,
+          "beat_ids": [
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_13",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B017",
+      "end_beat_id": "B023",
+      "start_time": 70.5,
+      "end_time": 95.0,
+      "duration": 24.5,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A visceral defensive cry of 'No!' that is emotionally sharp but contextually simple.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: tight close-up of gloved hands violently ripping a silver chain off a captive's neck.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Catherine exploit the discovery that the humble maid is actually the noble Juliana Ashcroft?",
+        "stakes_importance": "High \u2014 visual confirmation that Juliana is highborn nobility hiding as a servant.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B017",
+          "end_beat_id": "B023",
+          "start_time": 70.5,
+          "end_time": 95.0,
+          "duration": 24.5,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_14",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B017",
+      "end_beat_id": "B024",
+      "start_time": 70.5,
+      "end_time": 97.4,
+      "duration": 26.9,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A visceral defensive cry of 'No!' that is emotionally sharp but contextually simple.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: tight close-up of gloved hands violently ripping a silver chain off a captive's neck.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B024",
+        "curiosity_gap_score": 4,
+        "specific_question": "What will Catherine do now that she knows Juliana's true identity?",
+        "stakes_importance": "High \u2014 moment of terror as the protagonist realizes her deepest vulnerability is exposed.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B017",
+          "end_beat_id": "B024",
+          "start_time": 70.5,
+          "end_time": 97.4,
+          "duration": 26.9,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_15",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B017",
+      "end_beat_id": "B025",
+      "start_time": 70.5,
+      "end_time": 101.2,
+      "duration": 30.7,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A visceral defensive cry of 'No!' that is emotionally sharp but contextually simple.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: tight close-up of gloved hands violently ripping a silver chain off a captive's neck.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Catherine weaponize Juliana's true noble title and disgraceful downfall against her?",
+        "stakes_importance": "High \u2014 triumphant public unmasking of the hidden noblewoman by her arch-rival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B017",
+          "end_beat_id": "B025",
+          "start_time": 70.5,
+          "end_time": 101.2,
+          "duration": 30.7,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_16",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B017",
+      "end_beat_id": "B026",
+      "start_time": 70.5,
+      "end_time": 107.8,
+      "duration": 37.3,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A visceral defensive cry of 'No!' that is emotionally sharp but contextually simple.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: tight close-up of gloved hands violently ripping a silver chain off a captive's neck.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why was Juliana cast out of her noble family home?",
+        "stakes_importance": "High \u2014 brings the protagonist's tragic backstory and social shame into acute focus.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B017",
+          "end_beat_id": "B026",
+          "start_time": 70.5,
+          "end_time": 107.8,
+          "duration": 37.3,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_17",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B017",
+      "end_beat_id": "B027",
+      "start_time": 70.5,
+      "end_time": 113.0,
+      "duration": 42.5,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A visceral defensive cry of 'No!' that is emotionally sharp but contextually simple.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: tight close-up of gloved hands violently ripping a silver chain off a captive's neck.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who is Juliana's mysterious war veteran husband, and why did she marry him?",
+        "stakes_importance": "High \u2014 core microdrama mystery hook establishing the romantic/marital secret.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B017",
+          "end_beat_id": "B027",
+          "start_time": 70.5,
+          "end_time": 113.0,
+          "duration": 42.5,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_18",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B017",
+      "end_beat_id": "B028",
+      "start_time": 70.5,
+      "end_time": 116.4,
+      "duration": 45.9,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A visceral defensive cry of 'No!' that is emotionally sharp but contextually simple.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: tight close-up of gloved hands violently ripping a silver chain off a captive's neck.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B028",
+        "curiosity_gap_score": 4,
+        "specific_question": "Is Juliana's veteran husband far more powerful or dangerous than Catherine imagines?",
+        "stakes_importance": "High \u2014 fierce, protective defiance hinting at her husband's hidden true stature.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B017",
+          "end_beat_id": "B028",
+          "start_time": 70.5,
+          "end_time": 116.4,
+          "duration": 45.9,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_19",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B017",
+      "end_beat_id": "B029",
+      "start_time": 70.5,
+      "end_time": 122.0,
+      "duration": 51.5,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A visceral defensive cry of 'No!' that is emotionally sharp but contextually simple.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: tight close-up of gloved hands violently ripping a silver chain off a captive's neck.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B029",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana endure this public humiliation or unleash vengeance upon Catherine?",
+        "stakes_importance": "High \u2014 peak social and class humiliation of the fallen noble heroine.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B017",
+          "end_beat_id": "B029",
+          "start_time": 70.5,
+          "end_time": 122.0,
+          "duration": 51.5,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_20",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B017",
+      "end_beat_id": "B030",
+      "start_time": 70.5,
+      "end_time": 124.9,
+      "duration": 54.4,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A visceral defensive cry of 'No!' that is emotionally sharp but contextually simple.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: tight close-up of gloved hands violently ripping a silver chain off a captive's neck.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B030",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana be rescued or survive the horrific conditions of the wet cells beneath the south tower?",
+        "stakes_importance": "High \u2014 condemned to lethal, subterranean dungeon conditions.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B017",
+          "end_beat_id": "B030",
+          "start_time": 70.5,
+          "end_time": 124.9,
+          "duration": 54.4,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_21",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B017",
+      "end_beat_id": "B031",
+      "start_time": 70.5,
+      "end_time": 128.8,
+      "duration": 58.3,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A visceral defensive cry of 'No!' that is emotionally sharp but contextually simple.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: tight close-up of gloved hands violently ripping a silver chain off a captive's neck.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can Catherine successfully frame Juliana's botanical medicinal research as witchcraft and murder?",
+        "stakes_importance": "High \u2014 lethal legal framing carrying the death penalty.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B017",
+          "end_beat_id": "B031",
+          "start_time": 70.5,
+          "end_time": 128.8,
+          "duration": 58.3,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_22",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B018",
+      "end_beat_id": "B025",
+      "start_time": 72.0,
+      "end_time": 101.2,
+      "duration": 29.2,
+      "hook_signal": {
+        "beat_id": "B018",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Stinging, contemptuous class insult ('Where did a gutter rat like you find a silver locket?').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Inspecting a stolen pendant with sneering disdain provides clear visual antagonism.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Catherine weaponize Juliana's true noble title and disgraceful downfall against her?",
+        "stakes_importance": "High \u2014 triumphant public unmasking of the hidden noblewoman by her arch-rival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B018",
+          "end_beat_id": "B025",
+          "start_time": 72.0,
+          "end_time": 101.2,
+          "duration": 29.2,
+          "beat_ids": [
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_23",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 75.3,
+      "end_time": 101.2,
+      "duration": 25.9,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "High-stakes emotional plea demanding the return of an irreplaceable maternal heirloom.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up of a writhing captive in agony fighting an iron grip conveys powerful physical vulnerability.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Catherine weaponize Juliana's true noble title and disgraceful downfall against her?",
+        "stakes_importance": "High \u2014 triumphant public unmasking of the hidden noblewoman by her arch-rival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B019",
+          "end_beat_id": "B025",
+          "start_time": 75.3,
+          "end_time": 101.2,
+          "duration": 25.9,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_24",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B020",
+      "end_beat_id": "B025",
+      "start_time": 78.9,
+      "end_time": 101.2,
+      "duration": 22.3,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Cruel death-sentence taunt dismissing the heirloom before impending execution ('A witch has no need for family heirlooms in the gallows').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tracking a discarded locket flying across the stone floor while the captive is dragged backward creates compelling kinetic drama.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Catherine weaponize Juliana's true noble title and disgraceful downfall against her?",
+        "stakes_importance": "High \u2014 triumphant public unmasking of the hidden noblewoman by her arch-rival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B020",
+          "end_beat_id": "B025",
+          "start_time": 78.9,
+          "end_time": 101.2,
+          "duration": 22.3,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_25",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B023",
+      "end_beat_id": "B033",
+      "start_time": 93.8,
+      "end_time": 136.8,
+      "duration": 43.0,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up revealing the full aristocratic name 'Juliana Ashcroft' instantly exposes a hidden identity without sound.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana be hanged at the gallows, or will her husband arrive in time to save her from the magistrate?",
+        "stakes_importance": "High \u2014 definitive death penalty ultimatum leaving Juliana's survival completely unresolved.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B023",
+          "end_beat_id": "B033",
+          "start_time": 93.8,
+          "end_time": 136.8,
+          "duration": 43.0,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_26",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B024",
+      "end_beat_id": "B033",
+      "start_time": 95.0,
+      "end_time": 136.8,
+      "duration": 41.8,
+      "hook_signal": {
+        "beat_id": "B024",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Audible gasp and frozen posture in terror as the heroine realizes her secret is exposed delivers high visual tension.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana be hanged at the gallows, or will her husband arrive in time to save her from the magistrate?",
+        "stakes_importance": "High \u2014 definitive death penalty ultimatum leaving Juliana's survival completely unresolved.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B024",
+          "end_beat_id": "B033",
+          "start_time": 95.0,
+          "end_time": 136.8,
+          "duration": 41.8,
+          "beat_ids": [
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_27",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B025",
+      "end_beat_id": "B033",
+      "start_time": 97.4,
+      "end_time": 136.8,
+      "duration": 39.4,
+      "hook_signal": {
+        "beat_id": "B025",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Public unmasking of the protagonist's true noble title ('Lady Juliana Ashcroft').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Antagonist slowly looking up with a wicked, triumphant grin conveys malicious victory on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana be hanged at the gallows, or will her husband arrive in time to save her from the magistrate?",
+        "stakes_importance": "High \u2014 definitive death penalty ultimatum leaving Juliana's survival completely unresolved.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B025",
+          "end_beat_id": "B033",
+          "start_time": 97.4,
+          "end_time": 136.8,
+          "duration": 39.4,
+          "beat_ids": [
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_28",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B026",
+      "end_beat_id": "B033",
+      "start_time": 101.2,
+      "end_time": 136.8,
+      "duration": 35.6,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Scathing public humiliation outlining her disgrace and exile from her family home.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Circling a helpless captive like a predatory animal clearly signals dominance and impending torment.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana be hanged at the gallows, or will her husband arrive in time to save her from the magistrate?",
+        "stakes_importance": "High \u2014 definitive death penalty ultimatum leaving Juliana's survival completely unresolved.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B026",
+          "end_beat_id": "B033",
+          "start_time": 101.2,
+          "end_time": 136.8,
+          "duration": 35.6,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_29",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B027",
+      "end_beat_id": "B034",
+      "start_time": 107.8,
+      "end_time": 138.5,
+      "duration": 30.7,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Cruel revelation of humiliating backstory involving marriage to an unwanted, penniless veteran.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Intimate, invading two-shot whispering inches from the protagonist's face creates strong psychological tension.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana ever escape the dungeon and avenge her mother, or will Catherine execute her in secret?",
+        "stakes_importance": "High \u2014 final black cut on the terrified protagonist dragged into darkness to face the gallows.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B027",
+          "end_beat_id": "B034",
+          "start_time": 107.8,
+          "end_time": 138.5,
+          "duration": 30.7,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_30",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B028",
+      "end_beat_id": "B034",
+      "start_time": 113.0,
+      "end_time": 138.5,
+      "duration": 25.5,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Explosive, protective retaliation defending her spouse against insult ('Do not speak about my husband!').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight close-up of eyes blazing with explosive fury and defiance immediately hooks visual attention.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana ever escape the dungeon and avenge her mother, or will Catherine execute her in secret?",
+        "stakes_importance": "High \u2014 final black cut on the terrified protagonist dragged into darkness to face the gallows.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B028",
+          "end_beat_id": "B034",
+          "start_time": 113.0,
+          "end_time": 138.5,
+          "duration": 25.5,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_31",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B029",
+      "end_beat_id": "B033",
+      "start_time": 116.4,
+      "end_time": 136.8,
+      "duration": 20.4,
+      "hook_signal": {
+        "beat_id": "B029",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Devastating status contrast and mockery celebrating the noblewoman's downfall to fireplace scrubber ('What a magnificent fall, Lady Juliana').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Derisive open laughter while waving the seized book provides recognizable villain gloating.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana be hanged at the gallows, or will her husband arrive in time to save her from the magistrate?",
+        "stakes_importance": "High \u2014 definitive death penalty ultimatum leaving Juliana's survival completely unresolved.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B029",
+          "end_beat_id": "B033",
+          "start_time": 116.4,
+          "end_time": 136.8,
+          "duration": 20.4,
+          "beat_ids": [
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP028_32",
+      "episode": "Episode 28",
+      "episode_number": 28,
+      "start_beat_id": "B029",
+      "end_beat_id": "B034",
+      "start_time": 116.4,
+      "end_time": 138.5,
+      "duration": 22.1,
+      "hook_signal": {
+        "beat_id": "B029",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Devastating status contrast and mockery celebrating the noblewoman's downfall to fireplace scrubber ('What a magnificent fall, Lady Juliana').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Derisive open laughter while waving the seized book provides recognizable villain gloating.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana ever escape the dungeon and avenge her mother, or will Catherine execute her in secret?",
+        "stakes_importance": "High \u2014 final black cut on the terrified protagonist dragged into darkness to face the gallows.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 28,
+          "start_beat_id": "B029",
+          "end_beat_id": "B034",
+          "start_time": 116.4,
+          "end_time": 138.5,
+          "duration": 22.1,
+          "beat_ids": [
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

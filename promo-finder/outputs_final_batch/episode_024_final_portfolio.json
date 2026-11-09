@@ -1,0 +1,209 @@
+{
+  "episode_number": 24,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP024_13",
+      "absolute_rubric_score": 9.1,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B019",
+        "end_beat_id": "B023",
+        "start_time": 57.8,
+        "end_time": 92.0,
+        "duration": 34.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Every stone. Perhaps when your hands are black enough, you will finally remember what you are.",
+        "opening_character": "NOBLEWOMAN",
+        "rationale": "Spiteful psychological degradation ('when your hands are black enough, you will finally remember what you are')."
+      },
+      "cliffhanger": {
+        "final_quote": "I will return. You cannot stop the healer.",
+        "final_character": "LADY JULIANA",
+        "specific_question": "How will Juliana enact her vengeance and return to administer the life-saving cure under the noblewoman's nose?"
+      },
+      "situational_summary": "A cruel noblewoman forces a maid to scrub soot from the hearth in humiliation, unaware that the maid is secretly a defiant healer concealing medicine and plotting her return.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP024_08",
+      "absolute_rubric_score": 8.8,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.1149,
+      "max_similarity_to_selected": 0.814,
+      "boundary": {
+        "start_beat_id": "B008",
+        "end_beat_id": "B015",
+        "start_time": 22.5,
+        "end_time": 48.5,
+        "duration": 26.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You thought? A new maid thinks she knows better than the physicians?",
+        "opening_character": "NOBLEWOMAN",
+        "rationale": "Sharp, direct class-based challenge mocking a servant's presumption over physicians."
+      },
+      "cliffhanger": {
+        "final_quote": "Good. Perhaps we can teach you your place.",
+        "final_character": "NOBLEWOMAN",
+        "specific_question": "What sadistic punishment does the noblewoman plan to teach Juliana her place?"
+      },
+      "situational_summary": "A cruel noblewoman mocks and violently whips a maid with a riding crop for daring to care about a dying patient's suffering.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP024_14",
+      "absolute_rubric_score": 8.6,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0373,
+      "max_similarity_to_selected": 0.8338,
+      "boundary": {
+        "start_beat_id": "B020",
+        "end_beat_id": "B023",
+        "start_time": 63.8,
+        "end_time": 92.0,
+        "duration": 28.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "My lady\u2014",
+        "opening_character": "PRUDENCE",
+        "rationale": "Direct aggressive threat ('Do you want the same punishment?') as an escalation of violence."
+      },
+      "cliffhanger": {
+        "final_quote": "I will return. You cannot stop the healer.",
+        "final_character": "LADY JULIANA",
+        "specific_question": "How will Juliana enact her vengeance and return to administer the life-saving cure under the noblewoman's nose?"
+      },
+      "situational_summary": "After an oppressive noblewoman threatens a servant with a riding crop, a kneeling maid scrubbing soot secretly prepares an antidote vial to defy her captor.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP024_03",
+      "absolute_rubric_score": 7.7,
+      "subscores": {
+        "hook_score": 0.7,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": -0.0174,
+      "max_similarity_to_selected": 0.8026,
+      "boundary": {
+        "start_beat_id": "B002",
+        "end_beat_id": "B011",
+        "start_time": 3.5,
+        "end_time": 36.8,
+        "duration": 33.3,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Who are you?",
+        "opening_character": "NOBLEWOMAN",
+        "rationale": "'Who are you?' is a standard conversational challenge without immediate narrative context or high stakes."
+      },
+      "cliffhanger": {
+        "final_quote": "You are a maid.",
+        "final_character": "NOBLEWOMAN",
+        "specific_question": "Will Juliana submit to the brutal beating or retaliate after being whipped across the torso?"
+      },
+      "situational_summary": "After refusing to let a dying duchess suffer, a defiant maid is violently whipped across the torso by an abusive noblewoman asserting class dominance.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP024_10",
+      "absolute_rubric_score": 7.4,
+      "subscores": {
+        "hook_score": 1.1,
+        "tension_score": 1.7,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": -0.1232,
+      "max_similarity_to_selected": 0.885,
+      "boundary": {
+        "start_beat_id": "B017",
+        "end_beat_id": "B023",
+        "start_time": 51.5,
+        "end_time": 92.0,
+        "duration": 40.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Clean it.",
+        "opening_character": "NOBLEWOMAN",
+        "rationale": "A curt, abrupt command ('Clean it') establishing an immediate chore without broader drama."
+      },
+      "cliffhanger": {
+        "final_quote": "I will return. You cannot stop the healer.",
+        "final_character": "LADY JULIANA",
+        "specific_question": "How will Juliana enact her vengeance and return to administer the life-saving cure under the noblewoman's nose?"
+      },
+      "situational_summary": "Forced onto her knees to scrub a soot-blackened hearth by a sadistic noblewoman, an undercover healer bides her time while clutching a hidden antidote and vowing to save her patient.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP024_04",
+      "rank": 6,
+      "recommended_boundary": "B002 -> B012",
+      "similarity": 0.9775,
+      "duplicate_of": "CAND_EP024_03",
+      "reason": "Exceeded near-duplicate threshold (0.9775 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP024_02",
+      "rank": 7,
+      "recommended_boundary": "B002 -> B010",
+      "similarity": 0.9717,
+      "duplicate_of": "CAND_EP024_03",
+      "reason": "Exceeded near-duplicate threshold (0.9717 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP024_01",
+      "rank": 8,
+      "recommended_boundary": "B002 -> B009",
+      "similarity": 0.9714,
+      "duplicate_of": "CAND_EP024_03",
+      "reason": "Exceeded near-duplicate threshold (0.9714 >= 0.90)"
+    }
+  ]
+}

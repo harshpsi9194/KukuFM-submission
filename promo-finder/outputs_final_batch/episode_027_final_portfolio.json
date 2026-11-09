@@ -1,0 +1,265 @@
+{
+  "episode_number": 27,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP027_26",
+      "absolute_rubric_score": 9.4,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B032",
+        "end_beat_id": "B043",
+        "start_time": 107.8,
+        "end_time": 149.2,
+        "duration": 41.4,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "It is an antidote.",
+        "opening_character": "JULIANA",
+        "rationale": "'It is an antidote' radically flips the scene's stakes from unauthorized treatment to hidden poisoning."
+      },
+      "cliffhanger": {
+        "final_quote": "Take her.",
+        "final_character": "BLOND NOBLEMAN",
+        "specific_question": "What fate awaits Juliana as she is dragged away, and who will protect the defenseless Duchess?"
+      },
+      "situational_summary": "A woman claiming to hold an antidote for a poisoned Duchess is maliciously framed for the murder attempt and forcibly arrested on the nobleman's orders.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP027_30",
+      "absolute_rubric_score": 9.2,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.1529,
+      "max_similarity_to_selected": 0.7807,
+      "boundary": {
+        "start_beat_id": "B037",
+        "end_beat_id": "B044",
+        "start_time": 120.0,
+        "end_time": 150.5,
+        "duration": 30.5,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "Someone has been poisoning Her Grace.",
+        "opening_character": "JULIANA",
+        "rationale": "'Someone has been poisoning Her Grace' is a direct, public accusation of murder inside the noble household."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "How will Juliana escape execution or dungeon imprisonment now that the trap has snapped shut?"
+      },
+      "situational_summary": "When a servant reveals that the Duchess is being poisoned, corrupt nobles twist her words into a confession and order the royal guard to drag her away.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP027_04",
+      "absolute_rubric_score": 8.7,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0639,
+      "max_similarity_to_selected": 0.7746,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B011",
+        "start_time": 0.0,
+        "end_time": 46.4,
+        "duration": 46.4,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "This ring...",
+        "opening_character": "DOWAGER DUCHESS",
+        "rationale": "The Duchess's urgent demand 'Look at me, girl. Who gave this to you?' injects immediate dramatic tension and mystery."
+      },
+      "cliffhanger": {
+        "final_quote": "What is your husband's name?",
+        "final_character": "DOWAGER DUCHESS",
+        "specific_question": "Will Juliana speak her husband's name and confirm that he is the lost heir to the estate?"
+      },
+      "situational_summary": "After recognizing her lost son's ring on a maid's hand, a bedridden Duchess demands to know the true name of the maid's husband.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP027_12",
+      "absolute_rubric_score": 7.0,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 1.9,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 1.9
+      },
+      "mmr_score": -0.0647,
+      "max_similarity_to_selected": 0.7548,
+      "boundary": {
+        "start_beat_id": "B013",
+        "end_beat_id": "B028",
+        "start_time": 48.8,
+        "end_time": 95.0,
+        "duration": 46.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue is delivered during the physical breach."
+      },
+      "cliffhanger": {
+        "final_quote": "The physicians were not saving her!",
+        "final_character": "JULIANA",
+        "specific_question": "Will Juliana's accusation of physician incompetence provoke the nobleman to punish her for insolence?"
+      },
+      "situational_summary": "Cornered for giving secret medicine to a dying Duchess, a defiant maid openly challenges the estate's noblemen and condemns their useless physicians.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP027_32",
+      "rank": 3,
+      "recommended_boundary": "B039 -> B044",
+      "similarity": 0.9038,
+      "duplicate_of": "CAND_EP027_30",
+      "reason": "Exceeded near-duplicate threshold (0.9038 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP027_32",
+      "rank": 3,
+      "recommended_boundary": "B039 -> B044",
+      "similarity": 0.9038,
+      "duplicate_of": "CAND_EP027_30",
+      "reason": "Exceeded near-duplicate threshold (0.9038 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP027_02",
+      "rank": 5,
+      "recommended_boundary": "B001 -> B007",
+      "similarity": 0.9833,
+      "duplicate_of": "CAND_EP027_04",
+      "reason": "Exceeded near-duplicate threshold (0.9833 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP027_03",
+      "rank": 6,
+      "recommended_boundary": "B001 -> B009",
+      "similarity": 0.9842,
+      "duplicate_of": "CAND_EP027_04",
+      "reason": "Exceeded near-duplicate threshold (0.9842 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP027_01",
+      "rank": 9,
+      "recommended_boundary": "B001 -> B005",
+      "similarity": 0.9493,
+      "duplicate_of": "CAND_EP027_04",
+      "reason": "Exceeded near-duplicate threshold (0.9493 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP027_32",
+      "rank": 3,
+      "recommended_boundary": "B039 -> B044",
+      "similarity": 0.9038,
+      "duplicate_of": "CAND_EP027_30",
+      "reason": "Exceeded near-duplicate threshold (0.9038 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP027_02",
+      "rank": 5,
+      "recommended_boundary": "B001 -> B007",
+      "similarity": 0.9833,
+      "duplicate_of": "CAND_EP027_04",
+      "reason": "Exceeded near-duplicate threshold (0.9833 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP027_03",
+      "rank": 6,
+      "recommended_boundary": "B001 -> B009",
+      "similarity": 0.9842,
+      "duplicate_of": "CAND_EP027_04",
+      "reason": "Exceeded near-duplicate threshold (0.9842 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP027_11",
+      "rank": 8,
+      "recommended_boundary": "B013 -> B026",
+      "similarity": 0.9729,
+      "duplicate_of": "CAND_EP027_12",
+      "reason": "Exceeded near-duplicate threshold (0.9729 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP027_01",
+      "rank": 9,
+      "recommended_boundary": "B001 -> B005",
+      "similarity": 0.9493,
+      "duplicate_of": "CAND_EP027_04",
+      "reason": "Exceeded near-duplicate threshold (0.9493 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP027_13",
+      "rank": 10,
+      "recommended_boundary": "B013 -> B031",
+      "similarity": 0.962,
+      "duplicate_of": "CAND_EP027_12",
+      "reason": "Exceeded near-duplicate threshold (0.9620 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP027_10",
+      "rank": 11,
+      "recommended_boundary": "B013 -> B020",
+      "similarity": 0.9185,
+      "duplicate_of": "CAND_EP027_12",
+      "reason": "Exceeded near-duplicate threshold (0.9185 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP027_09",
+      "rank": 12,
+      "recommended_boundary": "B013 -> B019",
+      "similarity": 0.9554,
+      "duplicate_of": "CAND_EP027_12",
+      "reason": "Exceeded near-duplicate threshold (0.9554 >= 0.90)"
+    }
+  ]
+}

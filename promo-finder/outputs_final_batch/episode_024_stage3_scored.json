@@ -1,0 +1,381 @@
+{
+  "episode_number": 24,
+  "total_scored": 15,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP024_01",
+      "start_beat_id": "B002",
+      "end_beat_id": "B009",
+      "start_time": 3.5,
+      "end_time": 28.8,
+      "duration": 25.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 immediately establishes the setting and dynamic: a wide shot shows maids standing beside a four-poster bed as a haughty blonde noblewoman enters tapping a riding crop, demanding 'Who are you?'. Clear physical and status hierarchy within the first 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: a maid trying to attend to an ailing, unconscious duchess is caught and interrogated by a cruel noblewoman who mocks the maid for overstepping her station.",
+        "passes_gate": true,
+        "situational_summary": "A maid caught near an ailing duchess's sickbed is interrogated and mocked by an arrogant noblewoman for trying to help."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Class confrontation and righteous defiance against callous privilege"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the initial confrontation and class conflict surrounding the ailing Duchess; safe inciting incident for prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_02",
+      "start_beat_id": "B002",
+      "end_beat_id": "B010",
+      "start_time": 3.5,
+      "end_time": 30.8,
+      "duration": 27.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 opens with a clear establishing wide shot in a vaulted bedchamber, showing maids beside a four-poster bed and an aristocratic woman entering with a riding crop demanding their identity.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc clearly delineates the compassionate maid, the dying duchess, and the villainous noblewoman who maliciously decrees 'Then let her suffer.' Fully self-contained without outside lore.",
+        "passes_gate": true,
+        "situational_summary": "When a maid protests that the unconscious duchess is suffering, a cruel noblewoman sneers and commands that she be left to suffer."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold malice and moral outrage over deliberate medical neglect"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the noblewoman's overt malice and intent to let the Duchess suffer; strong dramatic teaser without giving away deep conspiratorial plots."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_03",
+      "start_beat_id": "B002",
+      "end_beat_id": "B011",
+      "start_time": 3.5,
+      "end_time": 36.8,
+      "duration": 33.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 visually grounds the vaulted bedchamber, the maids by the four-poster bed, and the arrival of the haughty noblewoman tapping a riding crop.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear protagonist/antagonist dynamic escalating directly into physical violence: the maid refuses to abandon the sick duchess and is brutally struck with a riding crop by the noblewoman.",
+        "passes_gate": true,
+        "situational_summary": "After refusing to let a dying duchess suffer, a defiant maid is violently whipped across the torso by an abusive noblewoman asserting class dominance."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal class humiliation and violent physical punishment for righteous defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts an escalating abusive encounter and physical violence in the sickroom; high-impact early hook material."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_04",
+      "start_beat_id": "B002",
+      "end_beat_id": "B012",
+      "start_time": 3.5,
+      "end_time": 38.8,
+      "duration": 35.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 establishes the vaulted bedchamber, maids rigid by the four-poster bed, and an entering noblewoman wielding a riding crop and demanding answers.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-explanatory: the maid tries to aid the dying duchess, is mocked, beaten with a riding crop, and verbally humiliated with 'You are a maid. Not a physician. Not a lady.'",
+        "passes_gate": true,
+        "situational_summary": "An arrogant noblewoman violently whips a maid for attempting to aid an ailing duchess, asserting that she is merely a servant and not a lady."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Stinging physical assault coupled with cutting verbal degradation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Presents the abuse and status denial at the core of the premise; great scroll-stopping inciting action."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_05",
+      "start_beat_id": "B005",
+      "end_beat_id": "B015",
+      "start_time": 16.8,
+      "end_time": 48.5,
+      "duration": 31.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B005 opens on an isolated close-up of an unconscious, gasping woman in bed with no indication of where we are, who is watching, or who the active characters in the scene are.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc clearly shows a maid attempting to help an ill duchess, opposed and violently beaten by a cruel noblewoman who demands the patient be left to suffer.",
+        "passes_gate": false,
+        "situational_summary": "When a maid tries to offer aid to a gasping, bedridden duchess, a cruel noblewoman whips her across the stomach and demands the patient be left to suffer."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous servant defiance crushed by brutal physical whipping and class cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the noblewoman's malicious intent to let the duchess suffer and the physical abuse of Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_06",
+      "start_beat_id": "B006",
+      "end_beat_id": "B013",
+      "start_time": 18.8,
+      "end_time": 43.0,
+      "duration": 24.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B006 opens on a tight insert of hands pocketing a vial behind a skirt; without prior context, a cold viewer cannot establish the physical room, interpersonal tension, or presence of an antagonist.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the dialogue starts, the confrontation between the compassionate maid and the tyrannical noblewoman over the dying duchess is completely transparent.",
+        "passes_gate": false,
+        "situational_summary": "A maid caught trying to treat an ailing duchess is brutally whipped and put in her place by an imperious noblewoman."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold physical subjugation and sadistic enforcement of servant hierarchy"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes the secret medicine stash and the noblewoman's violent obstruction of aid."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_07",
+      "start_beat_id": "B006",
+      "end_beat_id": "B015",
+      "start_time": 18.8,
+      "end_time": 48.5,
+      "duration": 29.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B006 begins on a close-up of hands concealing a medicine vial into an apron, lacking an establishing visual anchor or interpersonal dynamic for a cold scroller in the first 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The complete sequence makes the conflict instantly understandable: a maid acts out of compassion for a suffering patient and is met with sadistic corporal punishment.",
+        "passes_gate": false,
+        "situational_summary": "A maid attempts to intervene for a suffering noble patient, only to be struck down with a riding crop by a callous aristocrat."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Brutal class humiliation and sadistic corporal punishment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Displays the noblewoman's overt malice toward the duchess and physical strike against Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_08",
+      "start_beat_id": "B008",
+      "end_beat_id": "B015",
+      "start_time": 22.5,
+      "end_time": 48.5,
+      "duration": 26.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B008 opens on a clear two-shot of a noblewoman towering over and mocking a maid, instantly establishing the physical setting, characters, and class dynamic within the opening seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative conflict is self-contained: the maid argues that the duchess is suffering, the noblewoman orders her to suffer, and enforces servitude through a brutal strike with a riding crop.",
+        "passes_gate": true,
+        "situational_summary": "A cruel noblewoman mocks and violently whips a maid with a riding crop for daring to care about a dying patient's suffering."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe public humiliation and shocking physical violence against a defenseless servant"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the noblewoman's intent to withhold medical care from the duchess and her violent assault on Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_09",
+      "start_beat_id": "B009",
+      "end_beat_id": "B015",
+      "start_time": 26.8,
+      "end_time": 48.5,
+      "duration": 21.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 opens on an ungrounded close-up of Juliana declaring 'She is suffering' mid-dispute. For a cold viewer, the physical setting is unidentified, the third party ('She') is completely unestablished, and the dynamic lacks a visible anchor.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict quickly becomes explicit as the noblewoman strikes Juliana with a riding crop and puts her down as a mere maid while a bedridden duchess is glimpsed in the background.",
+        "passes_gate": false,
+        "situational_summary": "A compassionate servant advocating for a suffering patient is violently whipped and demeaned by a cruel noblewoman."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Brutal physical strike and sharp class-based humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the antagonist's overt cruelty and refusal to allow medical aid, setting up the central conflict without resolving it."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_10",
+      "start_beat_id": "B017",
+      "end_beat_id": "B023",
+      "start_time": 51.5,
+      "end_time": 92.0,
+      "duration": 40.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 opens with a clear visual establishing shot: boots stepping down into a dark chamber dominated by an enormous soot-stained hearth, with the noblewoman holding a riding crop commanding 'Clean it.' Setting, power hierarchy, and chore are instantly grounded.",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip presents a complete dramatic progression: an arrogant noblewoman sadistically humbles a maid with harsh physical labor and threats, only for the maid to reveal a concealed cure and vow defiant retribution.",
+        "passes_gate": true,
+        "situational_summary": "Forced onto her knees to scrub a soot-blackened hearth by a sadistic noblewoman, an undercover healer bides her time while clutching a hidden antidote and vowing to save her patient."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Sadistic public degradation transforming into icy, triumphant defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's secret identity as a concealed healer possessing an antidote vial and her active intent to defy the noblewoman."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_11",
+      "start_beat_id": "B019",
+      "end_beat_id": "B021",
+      "start_time": 57.8,
+      "end_time": 81.2,
+      "duration": 23.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 opens mid-sentence on an extreme close-up dialogue continuation ('Every stone. Perhaps when your hands are black enough...'). Without seeing the hearth or what 'every stone' refers to, a cold scroller lacks spatial grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent beats ground Juliana scrubbing the hearth on her knees while enduring insults and a peer is threatened with a crop.",
+        "passes_gate": false,
+        "situational_summary": "A cruel mistress forces a servant to scrub a soot-filled hearth while another servant cowers under threat of violence."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Class degradation and threat of physical violence"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts workplace punishment and domestic tyranny without revealing the hidden cure or wider plot mechanics."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_12",
+      "start_beat_id": "B019",
+      "end_beat_id": "B022",
+      "start_time": 57.8,
+      "end_time": 85.2,
+      "duration": 27.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 opens mid-dialogue on an extreme close-up ('Every stone...'). A cold viewer cannot immediately discern where the characters are or what task is being mandated without retrospective justification from later beats.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows the servant being forced to scrub ash before secretly touching a concealed remedy book and antidote vial in her apron pocket.",
+        "passes_gate": false,
+        "situational_summary": "While subjected to humiliating labor by a haughty noblewoman, a kneeling servant secretly checks a hidden remedy book and medicine vial."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Enduring humiliation while harboring a dangerous secret"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the servant possesses a concealed antidote bottle and medical knowledge."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_13",
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "start_time": 57.8,
+      "end_time": 92.0,
+      "duration": 34.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 opens on an extreme close-up two-shot with the Noblewoman whispering sadistically in Juliana's face about blackening her hands to remember what she is. The cruel interpersonal power dynamic, physical proximity, and class degradation are instantly legible within 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict: an abusive noblewoman forces a secretly defiant servant to scrub the hearth while threatening a bystander, but the servant secretly conceals a medicine journal and antidote vial, vowing revenge. No outside lore is needed to follow the stakes.",
+        "passes_gate": true,
+        "situational_summary": "A cruel noblewoman forces a maid to scrub soot from the hearth in humiliation, unaware that the maid is secretly a defiant healer concealing medicine and plotting her return."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sadistic class humiliation met with cold, concealed defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the protagonist's subjugation and secret healer identity; strong inciting hook for cold prospecting without spoiling climactic payoffs."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_14",
+      "start_beat_id": "B020",
+      "end_beat_id": "B023",
+      "start_time": 63.8,
+      "end_time": 92.0,
+      "duration": 28.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B020 clearly establishes Juliana dropping to her knees before a soot-filled fireplace while the Noblewoman whips around and threatens a trembling servant with a riding crop ('Do you want the same punishment?'). High visual clarity of physical punishment and servitude within the first 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear tyrant-versus-underdog dynamic: physical violence and forced labor are immediately established, culminating in Juliana's hidden antidote vial and defiant vow.",
+        "passes_gate": true,
+        "situational_summary": "After an oppressive noblewoman threatens a servant with a riding crop, a kneeling maid scrubbing soot secretly prepares an antidote vial to defy her captor."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Violent intimidation contrasted against silent, patient resolve"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts an act of punishment and reveals her hidden healer tools; functions as an inciting incident clip."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP024_15",
+      "start_beat_id": "B021",
+      "end_beat_id": "B023",
+      "start_time": 70.5,
+      "end_time": 92.0,
+      "duration": 21.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B021 opens mid-reaction on Prudence flinching in terror and saying 'No, my lady' in response to an unseen prior threat. A cold viewer lacks the visual context of why she is apologizing or what punishment just occurred without looking backward.",
+        "arc_legibility": true,
+        "arc_rationale": "Once Juliana begins scrubbing and conceals the journal/vial, the underlying revenge conflict and secret identity are understandable across the broader clip.",
+        "passes_gate": false,
+        "situational_summary": "A chastised servant submits as a maid scrubs the fireplace, hiding a medicine vial in her apron while resolving to return and defy her mistress."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Subjugation and quiet inner determination"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the protagonist's hidden medicinal journal and defiance under oppression."
+      }
+    }
+  ]
+}

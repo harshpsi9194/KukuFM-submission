@@ -1,0 +1,166 @@
+{
+  "episode_number": 25,
+  "total_ranked": 10,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP025_04",
+      "absolute_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Opens on an arresting visual rupture of physical brutality before driving uninterrupted emotional and narrative escalation. Cuts at the exact millisecond of Alexander's stunned realization, leaving peak unresolved tension.",
+      "duration": 44.7,
+      "start_beat_id": "B006",
+      "end_beat_id": "B018",
+      "emotional_salience_score": 5,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP025_03",
+      "absolute_score": 9.3,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Delivers an instantaneous visceral visual shock with the tight close-up of a fresh riding-crop laceration under torn fabric. Escalates relentlessly into high-treason class intrigue, cutting precisely on the breathless identity reveal.",
+      "duration": 38.7,
+      "start_beat_id": "B006",
+      "end_beat_id": "B017",
+      "emotional_salience_score": 4,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP025_20",
+      "absolute_score": 8.5,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.2,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "Delivers an explosive, high-stakes verbal confrontation in the first second packed with protective anger and imminent danger. Emotional resonance is exceptionally strong, though the final beat slightly defuses the immediate urgency into an alliance pact.",
+      "duration": 28.5,
+      "start_beat_id": "B034",
+      "end_beat_id": "B037",
+      "emotional_salience_score": 4,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP025_02",
+      "absolute_score": 8.5,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "Starts on a compelling physical injury discovery and builds relentless stakes from domestic abuse into high-stakes nobility intrigue. Concludes on a locked-in visual and identity reveal that creates a massive curiosity gap.",
+      "duration": 44.3,
+      "start_beat_id": "B004",
+      "end_beat_id": "B017",
+      "emotional_salience_score": 4,
+      "rank": 4
+    },
+    {
+      "candidate_id": "CAND_EP025_14",
+      "absolute_score": 8.4,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "Arrests swiping viewers immediately with an explosive one-word opening hook on trembling lips. Maintains consistent narrative friction around saving a dying elder, ending on a determined moral dilemma.",
+      "duration": 38.0,
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "emotional_salience_score": 4,
+      "rank": 5
+    },
+    {
+      "candidate_id": "CAND_EP025_05",
+      "absolute_score": 8.4,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.0
+      },
+      "rank_justification": "Features a phenomenal visceral opening hook revealing the laceration, but the 58-second runtime suffers from slight mid-arc dialogue plateauing. Leaves an intriguing conspiracy cliffhanger regarding the Duchess's unnatural illness.",
+      "duration": 58.0,
+      "start_beat_id": "B006",
+      "end_beat_id": "B021",
+      "emotional_salience_score": 4,
+      "rank": 6
+    },
+    {
+      "candidate_id": "CAND_EP025_01",
+      "absolute_score": 8.2,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.0
+      },
+      "rank_justification": "Opens strongly on an immediate physical confrontation and wince of bodily pain within seconds. The interrogation escalates with rapid-fire defiance to a sharp cliffhanger name-drop that instantly hooks cold viewers.",
+      "duration": 25.3,
+      "start_beat_id": "B004",
+      "end_beat_id": "B011",
+      "emotional_salience_score": 4,
+      "rank": 7
+    },
+    {
+      "candidate_id": "CAND_EP025_09",
+      "absolute_score": 8.1,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "Opens on a slower walking dialogue start that requires several seconds to grasp the stakes. However, it escalates smoothly into a razor-sharp, single-word cliffhanger cut on 'Arsenic' that triggers high cold-audience curiosity.",
+      "duration": 22.7,
+      "start_beat_id": "B019",
+      "end_beat_id": "B024",
+      "emotional_salience_score": 4,
+      "rank": 8
+    },
+    {
+      "candidate_id": "CAND_EP025_10",
+      "absolute_score": 8.0,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "Begins with conversational exposition while walking before rapidly building toward a sinister poisoning disclosure. Cuts cleanly on Alexander's white-knuckled fist, promising violent retribution even if the opening lacks an immediate visual punch.",
+      "duration": 26.7,
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "emotional_salience_score": 4,
+      "rank": 9
+    },
+    {
+      "candidate_id": "CAND_EP025_11",
+      "absolute_score": 7.3,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 2.0,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 2.0
+      },
+      "rank_justification": "Suffers from a soft dialogue opening and over-explains the systematic dosing mechanics toward the end. While the emotional dread is palpable, the final beat defuses urgent punch by lingering on explanatory exposition.",
+      "duration": 34.3,
+      "start_beat_id": "B019",
+      "end_beat_id": "B026",
+      "emotional_salience_score": 4,
+      "rank": 10
+    }
+  ]
+}

@@ -1,0 +1,956 @@
+{
+  "episode": "Episode 29",
+  "episode_number": 29,
+  "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.",
+  "continuity_notes": "Follows directly from Episode 28 where Rupert ordered the guards to drag Juliana down to the wet cells while Catherine seized her mother's herbarium.",
+  "duration": 116.69,
+  "total_beats": 37,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 5.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "High angle tracking shot descending a spiral stone staircase illuminated by flickering wall torches and damp, glistening masonry.",
+          "start": 0.0,
+          "end": 2.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Dripping water echoes hollowly against stone steps alongside the shuffling scuffle of boots.",
+          "start": 0.0,
+          "end": 3.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Tracking shot facing two stern uniform guards hauling a struggling Juliana down the dark corridor by her arms.",
+          "start": 2.8,
+          "end": 5.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana resists furiously, her feet stumbling on the wet flagstones as the guards forcibly propel her forward.",
+          "start": 2.9,
+          "end": 5.1,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE DUNGEON STAIRWELL \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B002",
+      "start": 5.1,
+      "end": 7.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium low-angle shot of Catherine standing regally under an arched stone doorway, clutching the leather-bound herbarium.",
+          "start": 5.1,
+          "end": 7.4,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE DUNGEON STAIRWELL \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B003",
+      "start": 7.4,
+      "end": 11.7,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Juliana's tearful face as she reaches an arm out toward Catherine in anguish.",
+          "start": 7.4,
+          "end": 11.7,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Catherine! Please! That book is my mother's only legacy!",
+          "start": 7.4,
+          "end": 11.7,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Desperate, Weeping"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE DUNGEON STAIRWELL \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B004",
+      "start": 11.7,
+      "end": 13.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot from behind Catherine as she stands motionless, watching Juliana being dragged away.",
+          "start": 11.7,
+          "end": 13.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE DUNGEON STAIRWELL \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B005",
+      "start": 13.2,
+      "end": 17.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana turning her head back toward Catherine, screaming through tears.",
+          "start": 13.2,
+          "end": 17.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "It contains years of her work! Her knowledge! Everything she left me!",
+          "start": 13.2,
+          "end": 17.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Pleading, Agonized"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE DUNGEON STAIRWELL \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B006",
+      "start": 17.3,
+      "end": 20.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Full shot of Catherine turning gracefully on the dungeon steps, holding the book loosely at her side.",
+          "start": 17.3,
+          "end": 20.1,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE DUNGEON STAIRWELL \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B007",
+      "start": 20.1,
+      "end": 26.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up pushing in on Catherine as she presents the worn botanical book with both gloved hands.",
+          "start": 20.1,
+          "end": 26.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Your mother's little book of weeds?",
+          "start": 21.0,
+          "end": 24.0,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Mocking, Condescending"
+        },
+        {
+          "type": "dialogue",
+          "description": "You still call this a legacy?",
+          "start": 24.8,
+          "end": 26.7,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Cruel, Smug"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B008",
+      "start": 26.8,
+      "end": 28.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana held firmly between the guards, glaring back with fierce defiance.",
+          "start": 26.8,
+          "end": 28.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "It is medicine!",
+          "start": 27.1,
+          "end": 28.7,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Defiant, Furious"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B009",
+      "start": 28.9,
+      "end": 31.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Catherine smiling condescendingly.",
+          "start": 28.9,
+          "end": 31.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Of course.",
+          "start": 30.4,
+          "end": 31.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Smooth, Patronizing"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B010",
+      "start": 31.9,
+      "end": 37.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand.",
+          "start": 31.9,
+          "end": 37.3,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Disdainful, Calculating"
+        },
+        {
+          "type": "camera",
+          "description": "Overhead close-up of Catherine's gloved fingers flipping through the herbarium's delicate, hand-drawn floral remedies and annotations.",
+          "start": 31.9,
+          "end": 37.4,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B011",
+      "start": 37.4,
+      "end": 40.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Catherine tucking the book under her arm, her eyes glinting with malicious intent.",
+          "start": 37.4,
+          "end": 40.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The magistrate will call it witchcraft.",
+          "start": 37.7,
+          "end": 40.0,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Icy, Threatening"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B012",
+      "start": 40.0,
+      "end": 41.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana lunging against the guard's grip, her teeth bared in indignation.",
+          "start": 40.0,
+          "end": 41.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You know that is a lie!",
+          "start": 40.1,
+          "end": 41.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Furious, Shouted"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B013",
+      "start": 41.9,
+      "end": 44.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Catherine lifting her chin arrogantly against the stone backdrop.",
+          "start": 41.9,
+          "end": 44.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I know exactly what I need him to believe.",
+          "start": 42.0,
+          "end": 44.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Calm, Sinister"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B014",
+      "start": 44.3,
+      "end": 46.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana thrashing frantically against the two guards.",
+          "start": 44.3,
+          "end": 46.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You cannot just destroy it!",
+          "start": 44.4,
+          "end": 46.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Screaming, Desperate"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B015",
+      "start": 46.9,
+      "end": 49.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Catherine's eyes narrowing into an icy, venomous gaze.",
+          "start": 46.9,
+          "end": 49.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I can burn it.",
+          "start": 47.3,
+          "end": 49.1,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Whispered, Malicious"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B016",
+      "start": 49.8,
+      "end": 53.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana's stricken expression, her eyes widening in horror.",
+          "start": 49.8,
+          "end": 53.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And when they find your corpse at the end of the rope...",
+          "start": 50.1,
+          "end": 53.6,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Chilling, Relentless"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B017",
+      "start": 53.6,
+      "end": 56.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Side close-up of Catherine leaning slightly forward, her voice low and merciless.",
+          "start": 53.6,
+          "end": 56.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "...no one will remember what was written inside.",
+          "start": 53.8,
+          "end": 56.5,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Cruel, Resolute"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B018",
+      "start": 56.6,
+      "end": 59.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana screaming back in raw outrage.",
+          "start": 56.6,
+          "end": 59.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You are doing this because I saved the Duchess!",
+          "start": 56.7,
+          "end": 59.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Enraged, Defiant"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B019",
+      "start": 59.2,
+      "end": 63.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium low-angle shot of Catherine standing rigid in her silk gown, contempt etched across her features.",
+          "start": 59.2,
+          "end": 63.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I am doing this because women like you forget their place.",
+          "start": 59.3,
+          "end": 63.4,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Scornful, Arrogant"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B020",
+      "start": 63.8,
+      "end": 67.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Quick pan from Juliana's apron up to Catherine's face.",
+          "start": 63.8,
+          "end": 67.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You were cast out once.",
+          "start": 64.5,
+          "end": 66.5,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Cold, Venomous"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B021",
+      "start": 67.0,
+      "end": 69.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up on Catherine's smiling lips and cold blue eyes.",
+          "start": 67.0,
+          "end": 69.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You should have stayed forgotten.",
+          "start": 67.2,
+          "end": 69.1,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Menacing"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B022",
+      "start": 69.5,
+      "end": 71.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana raising her chin, unwavering pride breaking through her tears.",
+          "start": 69.5,
+          "end": 71.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "My husband will find me.",
+          "start": 69.8,
+          "end": 71.4,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Steely, Resolute"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B023",
+      "start": 71.8,
+      "end": 74.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Catherine letting out a scornful laugh, tilting her head.",
+          "start": 71.8,
+          "end": 74.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Your scarred soldier?",
+          "start": 72.1,
+          "end": 74.3,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Scoffing, Amused"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B024",
+      "start": 74.3,
+      "end": 78.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine's face hardening into sharp mockery.",
+          "start": 74.3,
+          "end": 78.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What exactly do you think a penniless veteran can do against Ashbrook?",
+          "start": 74.7,
+          "end": 78.1,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Derisive, Biting"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B025",
+      "start": 78.5,
+      "end": 80.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as the guard clamps a heavy hand on Juliana's shoulder, shoving her forward.",
+          "start": 78.5,
+          "end": 80.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Move along, girl.",
+          "start": 78.7,
+          "end": 80.6,
+          "timestamp_source": "given",
+          "character": "GUARD",
+          "emotion": "Gruff, Dismissive"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B026",
+      "start": 80.9,
+      "end": 83.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot tracking behind the guards as they march Juliana down the vaulted, puddle-strewn corridor toward the heavy iron cell door.",
+          "start": 80.9,
+          "end": 83.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUNGEON CORRIDOR \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B027",
+      "start": 83.0,
+      "end": 86.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot inside the pitch-dark cell as the heavy iron door swings open.",
+          "start": 83.0,
+          "end": 86.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor.",
+          "start": 84.0,
+          "end": 86.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Please!",
+          "start": 85.7,
+          "end": 86.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Crying Out, Broken"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. CASTLE DUNGEON CELL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B028",
+      "start": 86.5,
+      "end": 88.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "sfx",
+          "description": "The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked.",
+          "start": 86.5,
+          "end": 88.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Static shot of the locked iron door, deadlocked in total isolation.",
+          "start": 86.5,
+          "end": 88.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. CASTLE DUNGEON CELL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B029",
+      "start": 88.8,
+      "end": 93.7,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana kneeling on the floor, clutching her chest as hyperventilation overtakes her.",
+          "start": 88.8,
+          "end": 93.7,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her.",
+          "start": 89.5,
+          "end": 93.7,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. CASTLE DUNGEON CELL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B030",
+      "start": 93.7,
+      "end": 96.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Juliana's tear-drenched face crumpling in overwhelming grief.",
+          "start": 93.7,
+          "end": 96.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Mother...",
+          "start": 94.2,
+          "end": 95.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Sobbing, Heartbroken"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. CASTLE DUNGEON CELL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B031",
+      "start": 96.1,
+      "end": 99.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as Juliana pushes herself off the wet stone floor and dashes toward the barred wicket of the heavy door.",
+          "start": 96.1,
+          "end": 99.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I have done nothing!",
+          "start": 97.3,
+          "end": 99.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Desperate, Shouting"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. CASTLE DUNGEON CELL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B032",
+      "start": 99.6,
+      "end": 102.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight profile close-up of Juliana gripping the rusted iron bars, screaming out into the empty stone corridor.",
+          "start": 99.6,
+          "end": 102.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I saved her! I healed her!",
+          "start": 99.7,
+          "end": 102.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Screaming, Hysterical"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. CASTLE DUNGEON CELL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B033",
+      "start": 102.5,
+      "end": 105.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "sfx",
+          "description": "Muffled, dull metallic clanging reverberates as Juliana hammers against the iron door.",
+          "start": 102.5,
+          "end": 105.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot from inside the cell as Juliana pounds her fists rhythmically against the reinforced iron door.",
+          "start": 102.5,
+          "end": 105.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I saved the Duchess!",
+          "start": 102.6,
+          "end": 105.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Shouting in Anguish"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. CASTLE DUNGEON CELL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B034",
+      "start": 105.9,
+      "end": 109.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana slumping down against the rough stone wall, pulling her knees to her chest while weeping softly.",
+          "start": 105.9,
+          "end": 109.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "They took my mother's ledger...",
+          "start": 106.5,
+          "end": 108.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Sorrowful, Wounded"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. CASTLE DUNGEON CELL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B035",
+      "start": 109.0,
+      "end": 112.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "They took her locket. But they will not take Alexander from me.",
+          "start": 109.0,
+          "end": 112.6,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Quiet Resolve, Unbreakable"
+        },
+        {
+          "type": "camera",
+          "description": "Front medium shot of Juliana slowly rising to her feet, crossing her arms firmly across her chest as her tears stop and her expression hardens into steely resolve.",
+          "start": 109.0,
+          "end": 112.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. CASTLE DUNGEON CELL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B036",
+      "start": 112.8,
+      "end": 115.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "sfx",
+          "description": "A heavy iron portcullis crashes down with a massive echoing bang.",
+          "start": 112.8,
+          "end": 114.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of the dungeon's massive iron portcullis bars dropping down with finality.",
+          "start": 112.8,
+          "end": 115.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. CASTLE DUNGEON CELL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B037",
+      "start": 115.5,
+      "end": 116.69,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot looking up at Juliana standing dignified in the center of the damp dungeon cell, gazing upward toward the overhead grate where faint beams of moonlight filter down, cutting sharply to black.",
+          "start": 115.5,
+          "end": 116.69,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. CASTLE DUNGEON CELL \u2013 CONTINUOUS"
+    }
+  ]
+}

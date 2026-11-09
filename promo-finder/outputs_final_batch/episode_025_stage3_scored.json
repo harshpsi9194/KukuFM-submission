@@ -1,0 +1,506 @@
+{
+  "episode_number": 25,
+  "total_scored": 20,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP025_01",
+      "start_beat_id": "B004",
+      "end_beat_id": "B011",
+      "start_time": 13.2,
+      "end_time": 38.5,
+      "duration": 25.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 opens with a clear physical two-shot where a man firmly grasps a woman's shoulder, causing her to wince sharply and recoil as he states 'You're hurt'. The physical setting, characters, and immediate physical injury/concern dynamic are legible in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes that Juliana was physically harmed, Alexander is protective and outraged, and Juliana names her abuser ('Lady Catherine'). The core interpersonal conflict and victim/perpetrator dynamic are entirely self-contained without needing prior lore.",
+        "passes_gate": true,
+        "situational_summary": "A scarred nobleman discovers the woman he cares for has been severely injured and forces her to name her noble abuser."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective fury surfacing as a woman confesses physical abuse by a high-ranking lady"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the immediate injury and names the abuser (Lady Catherine), establishing an inciting conflict without spoiling wider multi-episode conspiracies."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_02",
+      "start_beat_id": "B004",
+      "end_beat_id": "B017",
+      "start_time": 13.2,
+      "end_time": 57.5,
+      "duration": 44.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 provides an immediate visual establishing action: a man grabs a woman's shoulder, she gasps in pain, and he states 'You're hurt', grounding their interaction and the bodily stakes immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue traces the discovery of her flogging to the revelation of where she was ('punished as a maid' inside Ashburg Manor) and who she was helping ('The Dowager Duchess'). The stakes, social contrast, and dramatic friction are completely intelligible.",
+        "passes_gate": true,
+        "situational_summary": "After discovering raw whip marks on her shoulder, a man interrogates a woman until she confesses she was whipped as a maid while secretly helping the Dowager Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Intense protective confrontation escalating to high-stakes political intrigue and class danger"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Juliana was trespassing inside Ashburg Manor and secretly acting on behalf of the Dowager Duchess, revealing key plot mechanics."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_03",
+      "start_beat_id": "B006",
+      "end_beat_id": "B017",
+      "start_time": 18.8,
+      "end_time": 57.5,
+      "duration": 38.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens on a tight, visually arresting close-up of gloved fingers pulling back torn fabric to reveal a fresh, bloody riding-crop laceration on bare skin. It is an undeniable, visceral visual hook that grounds the situation instantly even without dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "The progression moves from the physical reveal of the wound to Alexander demanding answers, culminating in Juliana revealing her infiltration of Ashburg Manor for the Dowager Duchess. The stakes and relationships are cleanly understandable.",
+        "passes_gate": true,
+        "situational_summary": "A man uncovers a brutal riding-crop wound on a woman's shoulder and demands the truth, discovering she was beaten while on a secret mission for the Dowager Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral shock of bodily violence shifting into high-stakes secret allegiance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the source of the abuse and Juliana's clandestine connection to the Dowager Duchess."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_04",
+      "start_beat_id": "B006",
+      "end_beat_id": "B018",
+      "start_time": 18.8,
+      "end_time": 63.5,
+      "duration": 44.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens on a striking visual close-up: torn fabric pulled back to expose a raw, bleeding riding-crop welt across a woman's shoulder, immediately communicating severe physical abuse and bodily stakes.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue and action clearly unpack the incident: she was whipped by Lady Catherine after being mistaken for a maid, but Alexander's final stunned reaction to 'The Dowager?' highlights the immense political danger of her actions in a self-contained narrative arc.",
+        "passes_gate": true,
+        "situational_summary": "A nobleman inspects a woman's brutal whip wounds and presses her for answers, only to freeze in shock when she reveals she endured the beating to help the Dowager Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral physical cruelty giving way to explosive, dangerous aristocratic revelation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes Juliana's secret mission at Ashburg Manor and the high-ranking involvement of the Dowager Duchess, driving Alexander's climactic realization."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_05",
+      "start_beat_id": "B006",
+      "end_beat_id": "B021",
+      "start_time": 18.8,
+      "end_time": 76.8,
+      "duration": 58.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens on a visceral, highly legible visual anchor: a man's gloved hand pulls back torn fabric to reveal a fresh, bloody riding-crop welt across a woman's bare shoulder. Instantly communicates violence, trauma, and intimate concern without requiring prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: Alexander questions who injured Juliana, she names Lady Catherine, explains she was caught infiltrating Ashburg Manor while trying to aid the dying Dowager Duchess, and delivers the revelation that the Duchess's illness was foul play.",
+        "passes_gate": true,
+        "situational_summary": "After discovering severe whip lacerations on a woman's shoulder, an enraged nobleman interrogates her, uncovering that she was punished while secretly investigating the suspicious illness of the Dowager Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective fury and shocking discovery of courtly violence and conspiracy"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Juliana was inside Ashburg Manor and discovered the Dowager Duchess was not dying of natural old age."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_06",
+      "start_beat_id": "B007",
+      "end_beat_id": "B023",
+      "start_time": 22.8,
+      "end_time": 82.5,
+      "duration": 59.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 opens on a tight close-up of a scarred man furiously asking 'Who did this?' without establishing the physical wound or context in Beat 0. To a cold viewer without Beat B006, the object of his anger and the injury are completely ungrounded (forbidden retrospective justification).",
+        "arc_legibility": true,
+        "arc_rationale": "Once the dialogue unfolds, the interaction clearly reveals the corporal punishment, Lady Catherine's involvement, and the chilling revelation of the Dowager's poisoning.",
+        "passes_gate": false,
+        "situational_summary": "A scarred man demands to know who harmed a woman, leading to her revelation that she was attacked while uncovering the deliberate poisoning of the Dowager Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Intense protective confrontation culminating in a chilling murder revelation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key mid-arc mystery mechanics: the Dowager Duchess is being systematically murdered with poison."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_07",
+      "start_beat_id": "B013",
+      "end_beat_id": "B023",
+      "start_time": 41.2,
+      "end_time": 82.5,
+      "duration": 41.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 opens mid-conversation with Juliana stating 'I was in the wrong chamber. I was punished as a maid.' A cold scroller sees a disembodied close-up confession with zero visual setting, no view of her injuries, and no visible dynamic with Alexander established in Beat 0.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue clearly maps out why she was in the manor, who she went to save, and ends on the discovery of poison.",
+        "passes_gate": false,
+        "situational_summary": "A woman explains why she was punished at a noble estate, revealing to her companion that she discovered the Dowager Duchess was poisoned."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Humiliating punishment leading to the uncovering of a lethal aristocratic conspiracy"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the Dowager Duchess was poisoned rather than succumbing to old age."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_08",
+      "start_beat_id": "B013",
+      "end_beat_id": "B024",
+      "start_time": 41.2,
+      "end_time": 86.2,
+      "duration": 45.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 begins on an ungrounded mid-dialogue line ('I was in the wrong chamber. I was punished as a maid.') without visual establishing context, setting, or physical grounding for a cold scroller in the first 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent dialogue and questions clearly lay out her mission to help the Dowager and the revelation of targeted arsenic poisoning.",
+        "passes_gate": false,
+        "situational_summary": "A woman confesses the circumstances of her punishment at Ashburg Manor, unveiling that the dying Dowager Duchess is being methodically murdered with arsenic."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vulnerable confession escalating into the confirmation of a deadly poison plot"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the precise murder weapon (arsenic) and conspiracy mechanics surrounding the Dowager's illness."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_09",
+      "start_beat_id": "B019",
+      "end_beat_id": "B024",
+      "start_time": 63.5,
+      "end_time": 86.2,
+      "duration": 22.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 visually establishes the physical setting and characters immediately with a medium profile tracking shot of Juliana walking along a trail with Alexander following, accompanied by the clear opening revelation: 'Prudence told me she was dying.'",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is clear and self-contained: Juliana recounts finding Prudence dying, rejects the doctor's diagnosis of old age, and reveals to Alexander that Prudence was poisoned with arsenic.",
+        "passes_gate": true,
+        "situational_summary": "While walking together outdoors, a woman reveals to her companion that a sick friend did not fall ill from old age, but was intentionally poisoned with arsenic."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Mounting dread and shocking revelation of covert murder"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Uncovers the covert plot mechanics and cause of illness (deliberate arsenic poisoning disguised as natural decline)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_10",
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 63.5,
+      "end_time": 90.2,
+      "duration": 26.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 provides an immediate visual anchor with a medium tracking shot of Juliana and Alexander walking outdoors along a trail as she delivers an urgent opening statement ('Prudence told me she was dying.').",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and unambiguous arc: Juliana explains the false medical diagnosis of old age, reveals the true cause is arsenic, and provokes Alexander's furious physical reaction (clenched scarred fist).",
+        "passes_gate": true,
+        "situational_summary": "A woman confides in her companion that an elderly woman's decline was actually murder by arsenic, inciting suppressed fury in him."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Grim murder reveal triggering restrained masculine fury"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the hidden foul play and poison method (arsenic) behind a supposed natural illness."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_11",
+      "start_beat_id": "B019",
+      "end_beat_id": "B026",
+      "start_time": 63.5,
+      "end_time": 97.8,
+      "duration": 34.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 sets a clear physical scene with a profile tracking shot of two companions walking outdoors along a path and directly establishes the stakes with 'Prudence told me she was dying.'",
+        "arc_legibility": true,
+        "arc_rationale": "Complete, cohesive narrative arc establishing the victim, the fake diagnosis, the revelation of arsenic poison, and the chilling realization of repeated micro-dosing.",
+        "passes_gate": true,
+        "situational_summary": "A woman reveals to her companion that someone has been systematically administering small doses of arsenic to slowly kill an ailing woman."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Chilling realization of a calculated, slow-drip assassination"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the murder method, the specific substance (arsenic), and the calculated micro-dosing conspiracy."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_12",
+      "start_beat_id": "B020",
+      "end_beat_id": "B026",
+      "start_time": 68.5,
+      "end_time": 97.8,
+      "duration": 29.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 opens on a tight medium close-up mid-recount ('She was barely breathing when I found her. The doctor said she was simply growing old.') without identifying who 'she' is, where they are, or who she is speaking to. Without prior context, the cold viewer is disoriented.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue eventually makes the conspiracy clear\u2014rebutting the doctor's diagnosis, revealing arsenic poisoning, and showing repeated dosing.",
+        "passes_gate": false,
+        "situational_summary": "A woman recounts finding someone dying and explains to her companion that the victim is being systematically poisoned with small amounts of arsenic."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Creeping horror at an insidious slow poisoning"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Details the secret assassination plot, the poison used, and the repeat micro-dosing mechanism."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_13",
+      "start_beat_id": "B021",
+      "end_beat_id": "B031",
+      "start_time": 73.8,
+      "end_time": 117.5,
+      "duration": 43.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B021 opens mid-conversation with 'But it wasn't age' in a two-shot. Without prior context, a cold scroller does not know who or what 'it' refers to, making the opening ungrounded.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue immediately clarifies that a woman was being systematically poisoned with arsenic, the protagonist treated her, and she plans to return despite the danger.",
+        "passes_gate": false,
+        "situational_summary": "A woman reveals to a grim man that an ailing matriarch is being systematically poisoned with arsenic and insists on returning to treat her despite the danger."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Chilling discovery of slow deliberate poisoning and protective alarm"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot secret: an elder's illness is not natural deterioration but an ongoing deliberate arsenic poisoning scheme."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_14",
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "start_time": 79.5,
+      "end_time": 117.5,
+      "duration": 38.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B023 opens on a tight close-up of trembling lips whispering the single explosive word 'Poison.' It immediately establishes clear stakes, dramatic tension, and genre expectations within the first two seconds without requiring prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue clearly details the slow-dosing arsenic conspiracy, her clandestine medical intervention, and her resolute decision to walk back into peril.",
+        "passes_gate": true,
+        "situational_summary": "A woman reveals to a grim man that someone is deliberately poisoning an elder with arsenic, but insists she must return to keep administering the cure."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Shock murder conspiracy reveal met with protective urgency and fierce duty"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Uncovers the hidden assassination conspiracy by revealing the sickness is intentional arsenic poisoning."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_15",
+      "start_beat_id": "B024",
+      "end_beat_id": "B031",
+      "start_time": 82.5,
+      "end_time": 117.5,
+      "duration": 35.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B024 opens with the single word 'Arsenic' on distressed eyes. While evocative, it functions as a mid-dialogue clarification rather than an established dramatic setup, lacking physical grounding or relationship orientation.",
+        "arc_legibility": true,
+        "arc_rationale": "The ensuing discussion of slow-dosing poison, treatment, and returning to danger forms a clear, cohesive dramatic situation.",
+        "passes_gate": false,
+        "situational_summary": "A woman informs her grim male confidant that an ongoing poisoning has occurred, vowing to return to the dangerous household to continue treatment."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Dark criminal revelation and quiet defiance against looming danger"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the central medical mystery as deliberate arsenic poisoning."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_16",
+      "start_beat_id": "B025",
+      "end_beat_id": "B031",
+      "start_time": 86.2,
+      "end_time": 117.5,
+      "duration": 31.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B025 opens on an extreme insert of an unnamed man's scarred fist clenching in silence. A cold mobile viewer has no interpersonal anchor, no spoken context, and no clear understanding of who is present or what triggered the anger.",
+        "arc_legibility": true,
+        "arc_rationale": "The woman explains the ongoing murder plot and her need to return, creating a comprehensible self-contained conflict across the duration.",
+        "passes_gate": false,
+        "situational_summary": "After a man reacts with silent rage, a woman explains that an elder is being poisoned with arsenic and insists on returning to treat her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Restrained fury turning into protective dread over an ongoing poison plot"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the insidious arsenic poisoning plot that explains the victim's deteriorating condition."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_17",
+      "start_beat_id": "B026",
+      "end_beat_id": "B032",
+      "start_time": 90.2,
+      "end_time": 125.5,
+      "duration": 35.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 opens on a medium close-up of Juliana speaking mid-thought about an unidentified 'her' being poisoned in small amounts. Without physical grounding or establishing who she is speaking to, a cold mobile viewer lacks setting and interpersonal context in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The overall scene establishes Juliana treating a poisoned woman against Alexander's protective instincts, but the opening lacks immediate cold grounding.",
+        "passes_gate": false,
+        "situational_summary": "A woman reveals to a protective man that someone is systematically poisoning an innocent victim and insists on returning to treat her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Protective anxiety meeting obstinate moral duty"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the victim is being subjected to slow, calculated poisoning and that Juliana secretly administered treatment."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_18",
+      "start_beat_id": "B026",
+      "end_beat_id": "B034",
+      "start_time": 90.2,
+      "end_time": 134.5,
+      "duration": 44.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 begins mid-dialogue on Juliana referencing an ambiguous third party ('giving it to her again and again') on a medium close-up without prior establishing context or immediate visual anchor.",
+        "arc_legibility": true,
+        "arc_rationale": "The escalating tension between Juliana risking her life and Alexander's protective fury makes the interpersonal stakes clear across the full duration.",
+        "passes_gate": false,
+        "situational_summary": "A man angrily confronts the woman he loves for secretly treating a slowly poisoned victim in a dangerous house without informing him."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Simmering protective fury over secret danger"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals both the slow poisoning plot and Juliana's secret intervention behind Alexander's back."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_19",
+      "start_beat_id": "B026",
+      "end_beat_id": "B036",
+      "start_time": 90.2,
+      "end_time": 145.0,
+      "duration": 54.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 opens abruptly on Juliana's dialogue concerning an unidentified victim without establishing the physical setting or interpersonal dynamic within the opening seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full dialogue and escalation clearly reveal that Juliana was physically assaulted while secretly treating a poisoned victim, sparking intense fear and protective anger from Alexander.",
+        "passes_gate": false,
+        "situational_summary": "An enraged man confronts a woman for endangering her life and concealing that she was assaulted while aiding a poisoned victim."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Terrified protective rage clashing with stubborn heroism"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the poisoning scheme and that Juliana was assaulted during a secret visit to the poisoner's house."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP025_20",
+      "start_beat_id": "B034",
+      "end_beat_id": "B037",
+      "start_time": 128.0,
+      "end_time": 156.5,
+      "duration": 28.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B034 opens immediately on an intense close-up of Alexander stating the exact conflict in one punchy line: Juliana entered a house where a woman is being poisoned without telling him. The conflict and stakes are grounded instantly.",
+        "arc_legibility": true,
+        "arc_rationale": "The dynamic is entirely self-contained: Alexander is furious and terrified because Juliana was attacked, but her steadfast refusal to abandon the victim forces him to yield and demand the full truth.",
+        "passes_gate": true,
+        "situational_summary": "A furious man confronts a woman for concealing that she was assaulted inside a house harboring a poisoner, before reluctantly yielding to her moral resolve."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Terrified protective anger yielding to devoted alliance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that someone is being actively poisoned, Juliana was struck while visiting, and Alexander now demands full disclosure."
+      }
+    }
+  ]
+}

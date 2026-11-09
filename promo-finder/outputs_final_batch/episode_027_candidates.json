@@ -1,0 +1,2142 @@
+{
+  "episode_number": 27,
+  "total_candidates": 33,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP027_01",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 21.6,
+      "duration": 21.6,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "The Duchess's urgent demand 'Look at me, girl. Who gave this to you?' injects immediate dramatic tension and mystery.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight close-up of aged, trembling hands clutching Juliana's hand to inspect a worn band establishes urgent physical intimacy and high visual curiosity on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B005",
+        "curiosity_gap_score": 4,
+        "specific_question": "How did Juliana's supposed commoner husband come into possession of the sacred Ashbourne crest ring?",
+        "stakes_importance": "High \u2014 directly links the maid's spouse to the ducal family's highest heritage.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B001",
+          "end_beat_id": "B005",
+          "start_time": 0.0,
+          "end_time": 21.6,
+          "duration": 21.6,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_02",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 31.8,
+      "duration": 31.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "The Duchess's urgent demand 'Look at me, girl. Who gave this to you?' injects immediate dramatic tension and mystery.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight close-up of aged, trembling hands clutching Juliana's hand to inspect a worn band establishes urgent physical intimacy and high visual curiosity on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 4,
+        "specific_question": "Is Juliana's husband actually the Duchess's long-lost noble son thought lost to war?",
+        "stakes_importance": "High \u2014 huge potential identity revelation that would upend Juliana's social standing.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B001",
+          "end_beat_id": "B007",
+          "start_time": 0.0,
+          "end_time": 31.8,
+          "duration": 31.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_03",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B001",
+      "end_beat_id": "B009",
+      "start_time": 0.0,
+      "end_time": 40.4,
+      "duration": 40.4,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "The Duchess's urgent demand 'Look at me, girl. Who gave this to you?' injects immediate dramatic tension and mystery.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight close-up of aged, trembling hands clutching Juliana's hand to inspect a worn band establishes urgent physical intimacy and high visual curiosity on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B009",
+        "curiosity_gap_score": 4,
+        "specific_question": "Did Juliana's husband serve with the Duchess's son, or is he the lost son himself?",
+        "stakes_importance": "High \u2014 directly challenges Juliana to reveal whether her husband stole the ring or inherited it.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B001",
+          "end_beat_id": "B009",
+          "start_time": 0.0,
+          "end_time": 40.4,
+          "duration": 40.4,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_04",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B001",
+      "end_beat_id": "B011",
+      "start_time": 0.0,
+      "end_time": 46.4,
+      "duration": 46.4,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "The Duchess's urgent demand 'Look at me, girl. Who gave this to you?' injects immediate dramatic tension and mystery.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight close-up of aged, trembling hands clutching Juliana's hand to inspect a worn band establishes urgent physical intimacy and high visual curiosity on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana speak her husband's name and confirm that he is the lost heir to the estate?",
+        "stakes_importance": "High \u2014 the ultimate identity question hanging on a single pending name.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B001",
+          "end_beat_id": "B011",
+          "start_time": 0.0,
+          "end_time": 46.4,
+          "duration": 46.4,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_05",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B007",
+      "end_beat_id": "B011",
+      "start_time": 26.1,
+      "end_time": 46.4,
+      "duration": 20.3,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'My lost son wore that exact ring' drops a massive emotional revelation and identity twist in one line.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle shot capturing tears welling in the Duchess's eyes conveys legible grief and shock on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana speak her husband's name and confirm that he is the lost heir to the estate?",
+        "stakes_importance": "High \u2014 the ultimate identity question hanging on a single pending name.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B007",
+          "end_beat_id": "B011",
+          "start_time": 26.1,
+          "end_time": 46.4,
+          "duration": 20.3,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_06",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B007",
+      "end_beat_id": "B012",
+      "start_time": 26.1,
+      "end_time": 48.8,
+      "duration": 22.7,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'My lost son wore that exact ring' drops a massive emotional revelation and identity twist in one line.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle shot capturing tears welling in the Duchess's eyes conveys legible grief and shock on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B012",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who is violently pounding on the Duchess's door to interrupt this private revelation?",
+        "stakes_importance": "High \u2014 abrupt external disruption threatening the discovery of the truth.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B007",
+          "end_beat_id": "B012",
+          "start_time": 26.1,
+          "end_time": 48.8,
+          "duration": 22.7,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_07",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B007",
+      "end_beat_id": "B013",
+      "start_time": 26.1,
+      "end_time": 51.5,
+      "duration": 25.4,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'My lost son wore that exact ring' drops a massive emotional revelation and identity twist in one line.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle shot capturing tears welling in the Duchess's eyes conveys legible grief and shock on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B013",
+        "curiosity_gap_score": 4,
+        "specific_question": "What will Lady Catherine and the Blond Nobleman do to Juliana upon catching her in the Duchess's bedroom?",
+        "stakes_importance": "High \u2014 hostile authority figures enter with armed guards, placing the protagonist in immediate peril.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B007",
+          "end_beat_id": "B013",
+          "start_time": 26.1,
+          "end_time": 51.5,
+          "duration": 25.4,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_08",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B012",
+      "end_beat_id": "B026",
+      "start_time": 46.4,
+      "end_time": 88.0,
+      "duration": 41.6,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No spoken dialogue occurs in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Loud violent door pounding combined with Juliana sharply snapping her head in alarm creates an instantaneous visual and auditory jump-start.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's passionate defense that the Duchess was dying be taken as treasonous impudence?",
+        "stakes_importance": "High \u2014 explosive emotional defiance challenging the household's care for the Duchess.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B012",
+          "end_beat_id": "B026",
+          "start_time": 46.4,
+          "end_time": 88.0,
+          "duration": 41.6,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_09",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B013",
+      "end_beat_id": "B019",
+      "start_time": 48.8,
+      "end_time": 70.5,
+      "duration": 21.7,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue is delivered during the physical breach.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Heavy mahogany double doors violently bursting open to reveal aristocrats flanked by an armed royal guard provides maximum scroll-stopping visual spectacle.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana comply with the menacing nobleman's order or face immediate physical arrest?",
+        "stakes_importance": "High \u2014 direct intimidation by a powerful male antagonist cornering the maid.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B013",
+          "end_beat_id": "B019",
+          "start_time": 48.8,
+          "end_time": 70.5,
+          "duration": 21.7,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_10",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 48.8,
+      "end_time": 73.8,
+      "duration": 25.0,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue is delivered during the physical breach.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Heavy mahogany double doors violently bursting open to reveal aristocrats flanked by an armed royal guard provides maximum scroll-stopping visual spectacle.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will the nobleman react to finding an unlabelled glass dropper bottle in the maid's hand?",
+        "stakes_importance": "High \u2014 visual evidence of unauthorized medical tampering exposed to hostile captors.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B013",
+          "end_beat_id": "B020",
+          "start_time": 48.8,
+          "end_time": 73.8,
+          "duration": 25.0,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_11",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B013",
+      "end_beat_id": "B026",
+      "start_time": 48.8,
+      "end_time": 88.0,
+      "duration": 39.2,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue is delivered during the physical breach.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Heavy mahogany double doors violently bursting open to reveal aristocrats flanked by an armed royal guard provides maximum scroll-stopping visual spectacle.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's passionate defense that the Duchess was dying be taken as treasonous impudence?",
+        "stakes_importance": "High \u2014 explosive emotional defiance challenging the household's care for the Duchess.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B013",
+          "end_beat_id": "B026",
+          "start_time": 48.8,
+          "end_time": 88.0,
+          "duration": 39.2,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_12",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B013",
+      "end_beat_id": "B028",
+      "start_time": 48.8,
+      "end_time": 95.0,
+      "duration": 46.2,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue is delivered during the physical breach.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Heavy mahogany double doors violently bursting open to reveal aristocrats flanked by an armed royal guard provides maximum scroll-stopping visual spectacle.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B028",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's accusation of physician incompetence provoke the nobleman to punish her for insolence?",
+        "stakes_importance": "High \u2014 fearless rebuke delivered straight to an aristocratic master.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B013",
+          "end_beat_id": "B028",
+          "start_time": 48.8,
+          "end_time": 95.0,
+          "duration": 46.2,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_13",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B013",
+      "end_beat_id": "B031",
+      "start_time": 48.8,
+      "end_time": 107.8,
+      "duration": 59.0,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue is delivered during the physical breach.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Heavy mahogany double doors violently bursting open to reveal aristocrats flanked by an armed royal guard provides maximum scroll-stopping visual spectacle.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana be executed or imprisoned on the spot for holding unauthorized substances beside the Duchess?",
+        "stakes_importance": "High \u2014 the nobleman physically points out the physical evidence of her alleged crime.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B013",
+          "end_beat_id": "B031",
+          "start_time": 48.8,
+          "end_time": 107.8,
+          "duration": 59.0,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_14",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B018",
+      "end_beat_id": "B035",
+      "start_time": 64.0,
+      "end_time": 117.2,
+      "duration": 53.2,
+      "hook_signal": {
+        "beat_id": "B018",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "'Show me your hand' delivers an authoritative, high-pressure command.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "A gloved finger pointed directly at the protagonist provides an aggressive, unmistakable accusatory gesture legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who among the aristocratic household has been secretly poisoning the Dowager Duchess?",
+        "stakes_importance": "High \u2014 drop of a catastrophic murder conspiracy accusation inside the ducal bedroom.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B018",
+          "end_beat_id": "B035",
+          "start_time": 64.0,
+          "end_time": 117.2,
+          "duration": 53.2,
+          "beat_ids": [
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_15",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B020",
+      "end_beat_id": "B032",
+      "start_time": 70.5,
+      "end_time": 110.2,
+      "duration": 39.7,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "'What is this?' is a generic question prompting the physical reveal.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extending an open palm to reveal a mysterious amber glass dropper bottle creates instant mute intrigue and visual tension.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 4,
+        "specific_question": "What lethal poison was Juliana forced to counteract with this secret antidote?",
+        "stakes_importance": "High \u2014 shocking counter-revelation that flips the framing from trespass to saving a life from murder.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B020",
+          "end_beat_id": "B032",
+          "start_time": 70.5,
+          "end_time": 110.2,
+          "duration": 39.7,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_16",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B020",
+      "end_beat_id": "B035",
+      "start_time": 70.5,
+      "end_time": 117.2,
+      "duration": 46.7,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "'What is this?' is a generic question prompting the physical reveal.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extending an open palm to reveal a mysterious amber glass dropper bottle creates instant mute intrigue and visual tension.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who among the aristocratic household has been secretly poisoning the Dowager Duchess?",
+        "stakes_importance": "High \u2014 drop of a catastrophic murder conspiracy accusation inside the ducal bedroom.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B020",
+          "end_beat_id": "B035",
+          "start_time": 70.5,
+          "end_time": 117.2,
+          "duration": 46.7,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_17",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B026",
+      "end_beat_id": "B034",
+      "start_time": 86.5,
+      "end_time": 115.0,
+      "duration": 28.5,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'Because she was dying!' is a desperate, explosive verbal outburst that raises life-or-death stakes instantly.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up of Juliana passionately crying out shows acute distress.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana withstand the nobleman's aggressive intimidate and name the deadly substance?",
+        "stakes_importance": "High \u2014 acute physical proximity and looming coercion right before the reveal.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B026",
+          "end_beat_id": "B034",
+          "start_time": 86.5,
+          "end_time": 115.0,
+          "duration": 28.5,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_18",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B026",
+      "end_beat_id": "B035",
+      "start_time": 86.5,
+      "end_time": 117.2,
+      "duration": 30.7,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'Because she was dying!' is a desperate, explosive verbal outburst that raises life-or-death stakes instantly.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up of Juliana passionately crying out shows acute distress.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who among the aristocratic household has been secretly poisoning the Dowager Duchess?",
+        "stakes_importance": "High \u2014 drop of a catastrophic murder conspiracy accusation inside the ducal bedroom.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B026",
+          "end_beat_id": "B035",
+          "start_time": 86.5,
+          "end_time": 117.2,
+          "duration": 30.7,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_19",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B026",
+      "end_beat_id": "B036",
+      "start_time": 86.5,
+      "end_time": 120.0,
+      "duration": 33.5,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'Because she was dying!' is a desperate, explosive verbal outburst that raises life-or-death stakes instantly.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up of Juliana passionately crying out shows acute distress.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B036",
+        "curiosity_gap_score": 4,
+        "specific_question": "Does the Blond Nobleman's dark, frozen scowl betray guilt as the perpetrator of the poisoning?",
+        "stakes_importance": "High \u2014 psychological confrontation hinting that Juliana has struck a nerve with the true culprit.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B026",
+          "end_beat_id": "B036",
+          "start_time": 86.5,
+          "end_time": 120.0,
+          "duration": 33.5,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_20",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B026",
+      "end_beat_id": "B037",
+      "start_time": 86.5,
+      "end_time": 122.8,
+      "duration": 36.3,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'Because she was dying!' is a desperate, explosive verbal outburst that raises life-or-death stakes instantly.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up of Juliana passionately crying out shows acute distress.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana survive now that she has openly declared an active murder plot against the Duchess to the conspirators?",
+        "stakes_importance": "High \u2014 seismic accusation that turns Juliana into an immediate target for elimination.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B026",
+          "end_beat_id": "B037",
+          "start_time": 86.5,
+          "end_time": 122.8,
+          "duration": 36.3,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_21",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B026",
+      "end_beat_id": "B038",
+      "start_time": 86.5,
+      "end_time": 124.6,
+      "duration": 38.1,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'Because she was dying!' is a desperate, explosive verbal outburst that raises life-or-death stakes instantly.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up of Juliana passionately crying out shows acute distress.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B038",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the royal guard seize Juliana on Lady Catherine's command?",
+        "stakes_importance": "High \u2014 mobilization of physical force against the defenseless protagonist.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B026",
+          "end_beat_id": "B038",
+          "start_time": 86.5,
+          "end_time": 124.6,
+          "duration": 38.1,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_22",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B028",
+      "end_beat_id": "B039",
+      "start_time": 92.8,
+      "end_time": 128.5,
+      "duration": 35.7,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'The physicians were not saving her!' is an audacious, defiant accusation thrown back at the nobility.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up retorting without hesitation illustrates emotional resolve.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B039",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana escape execution after Lady Catherine frames her own antidote confession as an admission of murder?",
+        "stakes_importance": "High \u2014 monstrous frame-up putting the protagonist in immediate, lethal jeopardy.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B028",
+          "end_beat_id": "B039",
+          "start_time": 92.8,
+          "end_time": 128.5,
+          "duration": 35.7,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_23",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B028",
+      "end_beat_id": "B040",
+      "start_time": 92.8,
+      "end_time": 131.0,
+      "duration": 38.2,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'The physicians were not saving her!' is an audacious, defiant accusation thrown back at the nobility.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up retorting without hesitation illustrates emotional resolve.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B040",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Juliana prove she was saving the Duchess before the armed guards execute or imprison her on a fabricated confession?",
+        "stakes_importance": "High \u2014 peak life-or-death crisis with the protagonist framed, powerless, and facing imminent arrest.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B028",
+          "end_beat_id": "B040",
+          "start_time": 92.8,
+          "end_time": 131.0,
+          "duration": 38.2,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_24",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B031",
+      "end_beat_id": "B040",
+      "start_time": 103.6,
+      "end_time": 131.0,
+      "duration": 27.4,
+      "hook_signal": {
+        "beat_id": "B031",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "'...holding a substance no one authorized her to give' completes the criminal indictment.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight close-up of a black-leather-gloved finger tapping against the vial in her palm is a potent, menacing visual insert.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B040",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Juliana prove she was saving the Duchess before the armed guards execute or imprison her on a fabricated confession?",
+        "stakes_importance": "High \u2014 peak life-or-death crisis with the protagonist framed, powerless, and facing imminent arrest.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B031",
+          "end_beat_id": "B040",
+          "start_time": 103.6,
+          "end_time": 131.0,
+          "duration": 27.4,
+          "beat_ids": [
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_25",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B031",
+      "end_beat_id": "B041",
+      "start_time": 103.6,
+      "end_time": 134.0,
+      "duration": 30.4,
+      "hook_signal": {
+        "beat_id": "B031",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "'...holding a substance no one authorized her to give' completes the criminal indictment.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight close-up of a black-leather-gloved finger tapping against the vial in her palm is a potent, menacing visual insert.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 4,
+        "specific_question": "Whose side will the authoritative Blond Nobleman take \u2014 will he believe Catherine or investigate?",
+        "stakes_importance": "High \u2014 suspense rests on the judgment of the highest-ranking authority figure present.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B031",
+          "end_beat_id": "B041",
+          "start_time": 103.6,
+          "end_time": 134.0,
+          "duration": 30.4,
+          "beat_ids": [
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_26",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B032",
+      "end_beat_id": "B043",
+      "start_time": 107.8,
+      "end_time": 149.2,
+      "duration": 41.4,
+      "hook_signal": {
+        "beat_id": "B032",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'It is an antidote' radically flips the scene's stakes from unauthorized treatment to hidden poisoning.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Raising the amber bottle high for everyone to see is an assertive, high-urgency physical action legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B043",
+        "curiosity_gap_score": 5,
+        "specific_question": "What fate awaits Juliana as she is dragged away, and who will protect the defenseless Duchess?",
+        "stakes_importance": "High \u2014 catastrophic arrest, active physical capture, and total abandonment of the bedridden victim.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B032",
+          "end_beat_id": "B043",
+          "start_time": 107.8,
+          "end_time": 149.2,
+          "duration": 41.4,
+          "beat_ids": [
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_27",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B035",
+      "end_beat_id": "B042",
+      "start_time": 115.0,
+      "end_time": 139.4,
+      "duration": 24.4,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "The single word 'Poison' detonates the entire scene with an explosive, lethal revelation.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "A tense close-up delivering an uncompromising truth holds strong dramatic focus.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B042",
+        "curiosity_gap_score": 4,
+        "specific_question": "What verdict is the Blond Nobleman preparing to deliver as he confiscates the evidence vial?",
+        "stakes_importance": "High \u2014 physical invasion of space and confiscation of key evidence directly threatening Juliana's safety.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B035",
+          "end_beat_id": "B042",
+          "start_time": 115.0,
+          "end_time": 139.4,
+          "duration": 24.4,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_28",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B035",
+      "end_beat_id": "B043",
+      "start_time": 115.0,
+      "end_time": 149.2,
+      "duration": 34.2,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "The single word 'Poison' detonates the entire scene with an explosive, lethal revelation.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "A tense close-up delivering an uncompromising truth holds strong dramatic focus.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B043",
+        "curiosity_gap_score": 5,
+        "specific_question": "What fate awaits Juliana as she is dragged away, and who will protect the defenseless Duchess?",
+        "stakes_importance": "High \u2014 catastrophic arrest, active physical capture, and total abandonment of the bedridden victim.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B035",
+          "end_beat_id": "B043",
+          "start_time": 115.0,
+          "end_time": 149.2,
+          "duration": 34.2,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_29",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B035",
+      "end_beat_id": "B044",
+      "start_time": 115.0,
+      "end_time": 150.5,
+      "duration": 35.5,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "The single word 'Poison' detonates the entire scene with an explosive, lethal revelation.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "A tense close-up delivering an uncompromising truth holds strong dramatic focus.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B044",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana escape execution or dungeon imprisonment now that the trap has snapped shut?",
+        "stakes_importance": "High \u2014 maximum visceral suspense; extreme close-up on terror right before an abrupt cut to black at peak peril.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B035",
+          "end_beat_id": "B044",
+          "start_time": 115.0,
+          "end_time": 150.5,
+          "duration": 35.5,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_30",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B037",
+      "end_beat_id": "B044",
+      "start_time": 120.0,
+      "end_time": 150.5,
+      "duration": 30.5,
+      "hook_signal": {
+        "beat_id": "B037",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "'Someone has been poisoning Her Grace' is a direct, public accusation of murder inside the noble household.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up of Juliana declaring the truth provides steady dramatic reaction.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B044",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana escape execution or dungeon imprisonment now that the trap has snapped shut?",
+        "stakes_importance": "High \u2014 maximum visceral suspense; extreme close-up on terror right before an abrupt cut to black at peak peril.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B037",
+          "end_beat_id": "B044",
+          "start_time": 120.0,
+          "end_time": 150.5,
+          "duration": 30.5,
+          "beat_ids": [
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_31",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B038",
+      "end_beat_id": "B044",
+      "start_time": 122.8,
+      "end_time": 150.5,
+      "duration": 27.7,
+      "hook_signal": {
+        "beat_id": "B038",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "'You hear that?!' is a high-volume summons to the royal guard initiating an arrest.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Abruptly spinning and pointing toward the armed guard at the door is a dynamic physical action that reads instantly on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B044",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana escape execution or dungeon imprisonment now that the trap has snapped shut?",
+        "stakes_importance": "High \u2014 maximum visceral suspense; extreme close-up on terror right before an abrupt cut to black at peak peril.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B038",
+          "end_beat_id": "B044",
+          "start_time": 122.8,
+          "end_time": 150.5,
+          "duration": 27.7,
+          "beat_ids": [
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_32",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B039",
+      "end_beat_id": "B044",
+      "start_time": 124.6,
+      "end_time": 150.5,
+      "duration": 25.9,
+      "hook_signal": {
+        "beat_id": "B039",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "'She admits she has been giving the Duchess poison in secret!' is a devastating, malicious framing for murder.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of Lady Catherine twisting words with malicious glee provides sharp villainous legibility.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B044",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana escape execution or dungeon imprisonment now that the trap has snapped shut?",
+        "stakes_importance": "High \u2014 maximum visceral suspense; extreme close-up on terror right before an abrupt cut to black at peak peril.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B039",
+          "end_beat_id": "B044",
+          "start_time": 124.6,
+          "end_time": 150.5,
+          "duration": 25.9,
+          "beat_ids": [
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP027_33",
+      "episode": "Episode 27",
+      "episode_number": 27,
+      "start_beat_id": "B040",
+      "end_beat_id": "B044",
+      "start_time": 128.5,
+      "end_time": 150.5,
+      "duration": 22.0,
+      "hook_signal": {
+        "beat_id": "B040",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'That is not what I said!' is a desperate, high-stakes cry against a blatant frame job.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Juliana recoiling in horrified shock clearly telegraphs the trap closing on her without sound.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B044",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana escape execution or dungeon imprisonment now that the trap has snapped shut?",
+        "stakes_importance": "High \u2014 maximum visceral suspense; extreme close-up on terror right before an abrupt cut to black at peak peril.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 27,
+          "start_beat_id": "B040",
+          "end_beat_id": "B044",
+          "start_time": 128.5,
+          "end_time": 150.5,
+          "duration": 22.0,
+          "beat_ids": [
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

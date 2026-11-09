@@ -1,0 +1,204 @@
+{
+  "episode_number": 26,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP026_06",
+      "absolute_rubric_score": 9.7,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.5,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B019",
+        "end_beat_id": "B023",
+        "start_time": 86.5,
+        "end_time": 115.8,
+        "duration": 29.3,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Where... where... Where did you get this ring? Speak to me!",
+        "final_character": "DOWAGER DUCHESS",
+        "specific_question": "How will Juliana explain possessing a signet ring that only a high-born noble or lost heir could own?"
+      },
+      "situational_summary": "A bedridden Duchess gasps upon seeing an engraved signet ring on her maid's hand, physically grabbing her and tearfully demanding to know where she got it.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP026_09",
+      "absolute_rubric_score": 9.0,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.0476,
+      "max_similarity_to_selected": 0.8041,
+      "boundary": {
+        "start_beat_id": "B020",
+        "end_beat_id": "B025",
+        "start_time": 95.0,
+        "end_time": 120.88,
+        "duration": 25.88,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "Your hand... Let me see your hand.",
+        "opening_character": "DOWAGER DUCHESS",
+        "rationale": "Urgent imperative demand fueled by visible panic ('Your hand... Let me see your hand.')."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Is Juliana the long-lost daughter or heir of the noble house, and what will the Duchess do now that she knows?"
+      },
+      "situational_summary": "A bedridden Duchess frantically seizes a young woman's hand upon recognizing a mysterious ring she is wearing and desperately demands to know where she got it.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP026_02",
+      "absolute_rubric_score": 8.1,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.0
+      },
+      "mmr_score": -0.2092,
+      "max_similarity_to_selected": 0.8142,
+      "boundary": {
+        "start_beat_id": "B014",
+        "end_beat_id": "B019",
+        "start_time": 55.8,
+        "end_time": 95.0,
+        "duration": 39.2,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?",
+        "opening_character": "DOWAGER DUCHESS",
+        "rationale": "Explosive accusation of familial murder and treason ('Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?')."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Whose crest is on the signet ring that caused the Duchess to gasp in absolute shock?"
+      },
+      "situational_summary": "A poisoned Duchess realizes her relatives are trying to murder her in her sickbed, only to discover a shocking signet ring on the hand of the maid who saved her.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP026_08",
+      "rank": 2,
+      "recommended_boundary": "B019 -> B025",
+      "similarity": 0.9691,
+      "duplicate_of": "CAND_EP026_06",
+      "reason": "Exceeded near-duplicate threshold (0.9691 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP026_07",
+      "rank": 3,
+      "recommended_boundary": "B019 -> B024",
+      "similarity": 0.9831,
+      "duplicate_of": "CAND_EP026_06",
+      "reason": "Exceeded near-duplicate threshold (0.9831 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP026_05",
+      "rank": 5,
+      "recommended_boundary": "B019 -> B022",
+      "similarity": 0.9634,
+      "duplicate_of": "CAND_EP026_06",
+      "reason": "Exceeded near-duplicate threshold (0.9634 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP026_08",
+      "rank": 2,
+      "recommended_boundary": "B019 -> B025",
+      "similarity": 0.9691,
+      "duplicate_of": "CAND_EP026_06",
+      "reason": "Exceeded near-duplicate threshold (0.9691 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP026_07",
+      "rank": 3,
+      "recommended_boundary": "B019 -> B024",
+      "similarity": 0.9831,
+      "duplicate_of": "CAND_EP026_06",
+      "reason": "Exceeded near-duplicate threshold (0.9831 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP026_05",
+      "rank": 5,
+      "recommended_boundary": "B019 -> B022",
+      "similarity": 0.9634,
+      "duplicate_of": "CAND_EP026_06",
+      "reason": "Exceeded near-duplicate threshold (0.9634 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP026_08",
+      "rank": 2,
+      "recommended_boundary": "B019 -> B025",
+      "similarity": 0.9691,
+      "duplicate_of": "CAND_EP026_06",
+      "reason": "Exceeded near-duplicate threshold (0.9691 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP026_07",
+      "rank": 3,
+      "recommended_boundary": "B019 -> B024",
+      "similarity": 0.9831,
+      "duplicate_of": "CAND_EP026_06",
+      "reason": "Exceeded near-duplicate threshold (0.9831 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP026_05",
+      "rank": 5,
+      "recommended_boundary": "B019 -> B022",
+      "similarity": 0.9634,
+      "duplicate_of": "CAND_EP026_06",
+      "reason": "Exceeded near-duplicate threshold (0.9634 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP026_03",
+      "rank": 7,
+      "recommended_boundary": "B014 -> B020",
+      "similarity": 0.9392,
+      "duplicate_of": "CAND_EP026_02",
+      "reason": "Exceeded near-duplicate threshold (0.9392 >= 0.90)"
+    }
+  ]
+}

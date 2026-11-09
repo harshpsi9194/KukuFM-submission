@@ -1,0 +1,134 @@
+{
+  "episode_number": 24,
+  "total_ranked": 8,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP024_13",
+      "absolute_score": 9.1,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "rank_justification": "Explodes with an extreme close-up and visceral psychological humiliation that immediately arrests cold scrollers. The tension transitions seamlessly into silent defiance and an electrifying revenge turn, punctuating on a soot-streaked vow that guarantees high conversion.",
+      "duration": 34.2,
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "emotional_salience_score": 4,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP024_08",
+      "absolute_score": 8.8,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Instantly hooks viewers with mocking laughter and sharp class confrontation before accelerating through brutal refusal and physical assault. Concluding with the noblewoman smugly turning her riding crop to promise further punishment leaves an urgent threat hanging over a deeply sympathetic protagonist.",
+      "duration": 26.0,
+      "start_beat_id": "B008",
+      "end_beat_id": "B015",
+      "emotional_salience_score": 4,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP024_14",
+      "absolute_score": 8.6,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "Arrests swiping thumbs instantly with an aggressive direct threat as the protagonist drops to her knees before the fireplace. The pacing accelerates cleanly through clandestine defiance, culminating in an assertive vow of payback and undercover identity that demands an immediate episode click.",
+      "duration": 28.2,
+      "start_beat_id": "B020",
+      "end_beat_id": "B023",
+      "emotional_salience_score": 4,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP024_03",
+      "absolute_score": 7.7,
+      "subscores": {
+        "hook_score": 0.7,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Suffers from a slow conversational opening, but escalates relentlessly into shocking physical violence across its mid-arc. Slashing the riding crop across Juliana's torso right before the cut creates peak visceral irresolution and profound cold-viewer empathy.",
+      "duration": 33.3,
+      "start_beat_id": "B002",
+      "end_beat_id": "B011",
+      "emotional_salience_score": 5,
+      "rank": 4
+    },
+    {
+      "candidate_id": "CAND_EP024_10",
+      "absolute_score": 7.4,
+      "subscores": {
+        "hook_score": 1.1,
+        "tension_score": 1.7,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "A blunt chore command makes for a relatively muted opening hook before settling into steady domestic degradation. However, the dramatic transformation into cold defiance and the climactic secret identity vow ('You cannot stop the healer') delivers a gripping high-converting cliffhanger.",
+      "duration": 40.5,
+      "start_beat_id": "B017",
+      "end_beat_id": "B023",
+      "emotional_salience_score": 5,
+      "rank": 5
+    },
+    {
+      "candidate_id": "CAND_EP024_04",
+      "absolute_score": 7.3,
+      "subscores": {
+        "hook_score": 0.7,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "The initial dialogue is too slow for cold social feeds, though the subsequent physical strike provides intense dramatic escalation. Ending on the cutting verbal denial 'Not a lady' alongside the Duchess's reaching hand sustains strong emotional stakes, though slightly softer than cutting on the immediate physical impact.",
+      "duration": 35.3,
+      "start_beat_id": "B002",
+      "end_beat_id": "B012",
+      "emotional_salience_score": 5,
+      "rank": 6
+    },
+    {
+      "candidate_id": "CAND_EP024_02",
+      "absolute_score": 6.3,
+      "subscores": {
+        "hook_score": 0.7,
+        "tension_score": 1.9,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 1.8
+      },
+      "rank_justification": "While the standard 'Who are you?' start creates a soft hook, the mid-arc builds effectively into overt medical cruelty. Ending on the noblewoman's malicious sneer and 'Then let her suffer' delivers a sharp, provocative cliffhanger with clear emotional friction.",
+      "duration": 27.3,
+      "start_beat_id": "B002",
+      "end_beat_id": "B010",
+      "emotional_salience_score": 4,
+      "rank": 7
+    },
+    {
+      "candidate_id": "CAND_EP024_01",
+      "absolute_score": 6.0,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 1.5,
+        "cliffhanger_score": 1.5,
+        "resonance_score": 1.5
+      },
+      "rank_justification": "Default baseline score",
+      "duration": 25.3,
+      "start_beat_id": "B002",
+      "end_beat_id": "B009",
+      "emotional_salience_score": 3,
+      "rank": 8
+    }
+  ]
+}

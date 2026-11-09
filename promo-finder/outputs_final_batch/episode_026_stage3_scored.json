@@ -1,0 +1,231 @@
+{
+  "episode_number": 26,
+  "total_scored": 9,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP026_01",
+      "start_beat_id": "B011",
+      "end_beat_id": "B019",
+      "start_time": 43.2,
+      "end_time": 95.0,
+      "duration": 51.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B011 opens on a tight close-up of a character looking around a shadowy room whispering 'If the guards hear us, we are both dead.' Without showing who she is talking to, the setting, or the threat, it functions as an ungrounded whisper/mid-action reaction.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the situation is completely clear: a noblewoman is being poisoned in her bed by relatives, a disguised maid saves her with charcoal, and an engraved signet ring triggers a shocking recognition.",
+        "passes_gate": false,
+        "situational_summary": "While tending to a bedridden Duchess being poisoned by her relatives, a humble maid inadvertently reveals an engraved signet ring that leaves the Duchess in utter shock."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Conspiratorial life-or-death tension shifting into a stunned identity revelation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the core murder conspiracy mechanics (Rupert and Catherine poisoning the Duchess) and the secret noble lineage token (the signet ring)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP026_02",
+      "start_beat_id": "B014",
+      "end_beat_id": "B019",
+      "start_time": 55.8,
+      "end_time": 95.0,
+      "duration": 39.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 establishes the physical scene immediately: an elderly Duchess in bed looking up at Juliana with trembling certainty and delivering a direct, concrete accusation of betrayal and attempted murder ('Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?'). The spatial and interpersonal dynamic is fully grounded.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: the poisoned Duchess learns her maid saved her, questions her noble demeanor, and is then paralyzed with shock upon spotting a distinctive signet ring on the maid's hand.",
+        "passes_gate": true,
+        "situational_summary": "A poisoned Duchess realizes her relatives are trying to murder her in her sickbed, only to discover a shocking signet ring on the hand of the maid who saved her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Betrayal and murder accusation eclipsed by a staggering discovery of hidden nobility"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the poisoning plot against the Duchess and exposes Juliana's hidden heritage via the engraved signet ring."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP026_03",
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 55.8,
+      "end_time": 100.0,
+      "duration": 44.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 clearly establishes the scene with a bedridden Duchess confronting Juliana about being poisoned in her own bed, immediately framing the physical setting, characters, and stakes.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is clear and self-contained from the poisoning revelation to Juliana explaining her exile, culminating in the Duchess demanding to inspect the revealed ring.",
+        "passes_gate": true,
+        "situational_summary": "After confirming she is being poisoned by her own family, a bedridden Duchess spots an unexpected signet ring on her maid's hand and urgently demands to see it."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Familial betrayal and mounting urgency around an unexpected identity clue"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the murder plot against the Duchess and Juliana's noble signet ring."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP026_04",
+      "start_beat_id": "B018",
+      "end_beat_id": "B023",
+      "start_time": 79.6,
+      "end_time": 115.8,
+      "duration": 36.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B018 opens on a tight close-up of Juliana declaring 'Because my family cast me out to rot. I have nothing left in this world but my honor.' It starts mid-conversation answering an unseen question, with no visual grounding of the room, who she is speaking to, or where she is.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent beats clearly communicate an elder Duchess recognizing a ring on the maid's finger and violently grabbing her to demand where it came from.",
+        "passes_gate": false,
+        "situational_summary": "A disgraced maid recounting her family's betrayal is suddenly seized by a bedridden Duchess demanding to know how she obtained a noble signet ring."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Dignified sorrow interrupted by frantic, physical cross-examination"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's cast-out noble background and the existence of the critical signet ring connecting her to the Duchess's lineage."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP026_05",
+      "start_beat_id": "B019",
+      "end_beat_id": "B022",
+      "start_time": 86.5,
+      "end_time": 110.8,
+      "duration": 24.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 opens on a clear visual tracking shot from an apron to a hand displaying an engraved signet ring, followed immediately by an extreme close-up of a bedridden noblewoman gasping in shock. Instantly establishes the physical setting (sickbed), characters (servant and elder noblewoman), and the catalyst without dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained tension where an ailing Duchess spots an unexpected noble ring on a servant girl and seizes her arm with fierce desperation; conflict and power dynamic are completely legible from the visual and dialogue cues alone.",
+        "passes_gate": true,
+        "situational_summary": "While tending to a bedridden Duchess, a servant girl unwittingly reveals an engraved signet ring, causing the dying noblewoman to seize her in desperate shock."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Frail desperation exploding into physical urgency and shock"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the initial discovery of the signet ring inciting incident; introduces the core mystery without revealing Juliana's backstory."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP026_06",
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "start_time": 86.5,
+      "end_time": 115.8,
+      "duration": 29.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 opens on a clear visual tracking shot from an apron to a hand displaying an engraved signet ring, followed immediately by an extreme close-up of a bedridden noblewoman gasping in shock. Instantly establishes the physical setting (sickbed), characters (servant and elder noblewoman), and the catalyst without dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "Extends the encounter to the Duchess's frantic demand: 'Where did you get this ring? Speak to me!'. The stakes, emotional friction, and core mystery are completely transparent to a cold viewer.",
+        "passes_gate": true,
+        "situational_summary": "A bedridden Duchess gasps upon seeing an engraved signet ring on her maid's hand, physically grabbing her and tearfully demanding to know where she got it."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating shock transformed into tearful, desperate interrogation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes the catalyst of the identity mystery (the ring's discovery), serving as a premier cold-audience inciting incident hook."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP026_07",
+      "start_beat_id": "B019",
+      "end_beat_id": "B024",
+      "start_time": 86.5,
+      "end_time": 119.5,
+      "duration": 33.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 opens on a clear visual tracking shot from an apron to a hand displaying an engraved signet ring, followed immediately by an extreme close-up of a bedridden noblewoman gasping in shock. Instantly establishes the physical setting (sickbed), characters (servant and elder noblewoman), and the catalyst without dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc builds cleanly from the visual discovery of the ring to physical restraint, the urgent question, and Juliana's frozen stunned silence. Fully comprehensible with no outside lore needed.",
+        "passes_gate": true,
+        "situational_summary": "An ailing Duchess spots an engraved signet ring on a servant's hand, seizes her arm, and desperately demands its origin, leaving the servant paralyzed with shock."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "High-stakes shock and emotional confrontation freezing both women in suspended tension"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Frames the central premise/inciting incident of hidden heritage without resolving whether the maid knows its true origin."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP026_08",
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 86.5,
+      "end_time": 120.88,
+      "duration": 34.38,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 opens on a clear visual tracking shot from an apron to a hand displaying an engraved signet ring, followed immediately by an extreme close-up of a bedridden noblewoman gasping in shock. Instantly establishes the physical setting (sickbed), characters (servant and elder noblewoman), and the catalyst without dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "Complete dramatic mini-arc terminating on a tight insert of both weathered hands clasping the ring between them against swelling music. Perfectly legible confrontation and emotional stakes for a first-time viewer.",
+        "passes_gate": true,
+        "situational_summary": "Upon recognizing an engraved signet ring on her maid's hand, a dying Duchess desperately grips her hands and demands the truth of where it came from before cutting to black."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic revelation and visceral physical cling of a dying noblewoman confronting hidden truth"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Highlights the inciting discovery of the lost ring/heirloom without spoiling the character's lineage answers or broader conspiracy."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP026_09",
+      "start_beat_id": "B020",
+      "end_beat_id": "B025",
+      "start_time": 95.0,
+      "end_time": 120.88,
+      "duration": 25.88,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B020 clearly establishes physical setting and dynamics immediately: a bedridden Duchess pushes herself up against a headboard with trembling hands and issues an urgent, grounded demand ('Your hand... Let me see your hand.').",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: an ailing noblewoman frantically grabs the younger woman, spots a ring on her finger, and desperately demands its origin, ending on a high-stakes identity reveal cliffhanger without needing prior lore.",
+        "passes_gate": true,
+        "situational_summary": "A bedridden Duchess frantically seizes a young woman's hand upon recognizing a mysterious ring she is wearing and desperately demands to know where she got it."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate shock and tearful urgency triggered by a sudden identity reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot discovery/secret (the Duchess discovering the signet ring on Juliana), which acts as a key narrative pivot."
+      }
+    }
+  ]
+}

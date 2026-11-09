@@ -1,0 +1,54 @@
+{
+  "episode_number": 9,
+  "total_ranked": 3,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP009_02",
+      "absolute_score": 8.1,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.0
+      },
+      "rank_justification": "Opens with an urgent plea for a dying boy that sets clear life-or-death stakes, though the quiet herbalist visual softens the opening impact slightly. The mid-arc maintains escalating medical desperation, culminating in a sharp, unresolved panic cut on the mother's cry of 'Why isn't it working?'.",
+      "duration": 54.0,
+      "start_beat_id": "B001",
+      "end_beat_id": "B015",
+      "emotional_salience_score": 4,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP009_01",
+      "absolute_score": 6.8,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.5,
+        "resonance_score": 1.8
+      },
+      "rank_justification": "Shares the same emotionally resonant, high-stakes medical emergency hook as candidate 02. However, cutting right as the remedy is calmly administered lacks a sharp cliffhanger rupture, feeling more like a process plateau than an urgent question.",
+      "duration": 50.5,
+      "start_beat_id": "B001",
+      "end_beat_id": "B013",
+      "emotional_salience_score": 4,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP009_05",
+      "absolute_score": 5.8,
+      "subscores": {
+        "hook_score": 0.5,
+        "tension_score": 1.7,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.5
+      },
+      "rank_justification": "The atmospheric opening with a seated nobleman and a silent soaked servant is far too slow and passive to stop cold scrollers in the first 2 seconds. While the dialogue builds decent paranoid tension toward an arresting extreme close-up eye cliffhanger, it remains detached exposition for viewers without prior context.",
+      "duration": 31.7,
+      "start_beat_id": "B026",
+      "end_beat_id": "B034",
+      "emotional_salience_score": 4,
+      "rank": 3
+    }
+  ]
+}

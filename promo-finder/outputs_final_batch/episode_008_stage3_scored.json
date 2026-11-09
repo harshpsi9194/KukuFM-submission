@@ -1,0 +1,231 @@
+{
+  "episode_number": 8,
+  "total_scored": 9,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP008_01",
+      "start_beat_id": "B006",
+      "end_beat_id": "B012",
+      "start_time": 11.9,
+      "end_time": 33.2,
+      "duration": 21.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B006 opens mid-conversation with a close-up of Alexander commenting on herbs ('Good for wounds. Fever, too.') looking down at an unidentified person off-camera. There is no visual establishing shot of the space, relationship, or situation.",
+        "arc_legibility": true,
+        "arc_rationale": "The interaction quickly settles into an intimate domestic exchange between a woman offering to groom a scarred soldier and him stopping her hand, making the personal dynamic clear.",
+        "passes_gate": false,
+        "situational_summary": "In front of a warm hearth, a woman arranging medicinal herbs offers to trim a scarred soldier's beard, but he firmly stops her hand in midair."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Gentle domestic intimacy meeting guarded physical restraint"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Atmospheric character interaction establishing chemistry and a scarred veteran's guarded nature; zero major plot reveals."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP008_02",
+      "start_beat_id": "B006",
+      "end_beat_id": "B013",
+      "start_time": 11.9,
+      "end_time": 35.5,
+      "duration": 23.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B006 begins mid-dialogue on an ungrounded close-up of a man referencing medicinal remedies without establishing the setting or participants for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The dynamic between Juliana and the guarded soldier Alexander is clear as she attempts to touch his face and he arrests her wrist with 'Not yet.'",
+        "passes_gate": false,
+        "situational_summary": "While bonding over medicinal herbs by the hearth, a woman reaches to touch a scarred man's beard, but he grabs her wrist and warns 'Not yet.'"
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Romantic curiosity interrupted by firm, enigmatic boundaries"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Atmospheric relationship-building beat with minimal plot disclosure."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP008_03",
+      "start_beat_id": "B006",
+      "end_beat_id": "B014",
+      "start_time": 11.9,
+      "end_time": 37.3,
+      "duration": 25.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B006 opens in medias res with an unanchored close-up and line about medicinal plants, lacking an establishing anchor or cold-audience orientation.",
+        "arc_legibility": true,
+        "arc_rationale": "The self-contained emotional push-and-pull over his unkempt appearance and her gentle curiosity is straightforward and legible.",
+        "passes_gate": false,
+        "situational_summary": "A woman offering to trim a rugged veteran's beard is halted by him catching her wrist with 'Not yet,' prompting her curious confusion."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Playful romantic tension met by quiet, mysterious resistance"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Low-stakes romantic banter with zero story spoilers."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP008_04",
+      "start_beat_id": "B006",
+      "end_beat_id": "B017",
+      "start_time": 11.9,
+      "end_time": 44.9,
+      "duration": 33.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B006 starts on an unestablished close-up of a man remarking on herbal treatments mid-chatter; a cold viewer has no context for the space or premise in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full scene clearly conveys playful affection and Alexander's covert need to conceal his identity behind his hermit appearance.",
+        "passes_gate": false,
+        "situational_summary": "A woman teasingly asks a scarred man why he prefers looking like an unkempt hermit after he stops her from trimming his beard, to which he cryptically notes it has advantages."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Flirtatious hearthside banter concealing an undercover survival instinct"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Hints that Alexander is intentionally staying disguised/unkempt for protection or concealment rather than mere neglect."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP008_05",
+      "start_beat_id": "B011",
+      "end_beat_id": "B025",
+      "start_time": 28.1,
+      "end_time": 64.3,
+      "duration": 36.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 opens with a clear medium two-shot showing Juliana rising from her stool and reaching an affectionate hand toward Alexander's temple with dialogue 'I could trim them for you.' The physical setting, characters present, and tender domestic dynamic are grounded immediately in the opening seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The scene is a self-contained intimate domestic interaction that naturally segues from playful banter about grooming into a quiet, serious inquiry about Alexander's battle scars. The emotional interplay and stakes are completely clear without outside lore.",
+        "passes_gate": true,
+        "situational_summary": "While sharing an intimate moment by the hearth, a woman gently playfully questions a stoic man about trimming his beard before asking about the dark origin of his facial scars."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Tender domestic banter masking underlying trauma and unspoken wartime wounds"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Atmospheric relationship-building scene establishing character chemistry and Alexander's scarred past; reveals no major plot mechanics or turning points."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP008_06",
+      "start_beat_id": "B012",
+      "end_beat_id": "B024",
+      "start_time": 31.9,
+      "end_time": 63.0,
+      "duration": 31.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 opens abruptly on a tight close-up of a hand catching another wrist in midair with zero establishing context, dialogue, or visual explanation of whose hands they are or what physical action was interrupted.",
+        "arc_legibility": true,
+        "arc_rationale": "The overall scene establishes the comfortable rapport and concludes on Juliana's unresolved question regarding Alexander's scars, but the clip cuts off before any answer or closure is provided.",
+        "passes_gate": false,
+        "situational_summary": "A woman playfully teases a scarred man about his beard before asking whether his scars came from the war."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Quiet romantic rapport shifting to curious probing of past trauma"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Introductory character building and atmospheric dialogue with no core plot twists revealed."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP008_07",
+      "start_beat_id": "B012",
+      "end_beat_id": "B025",
+      "start_time": 31.9,
+      "end_time": 64.3,
+      "duration": 32.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 is a disembodied close-up of a hand catching a wrist in midair without prior spatial grounding, establishing shot, or dialogue, making it disorienting for a cold mobile viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the dialogue begins, the arc is coherent: an intimate, playful exchange by a fireside table that shifts to a poignant revelation when Alexander admits only some scars were from war.",
+        "passes_gate": false,
+        "situational_summary": "An intimate fireside discussion between two companions transitions from lighthearted teasing to a solemn admission that only some of the man's scars were from war."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Warm domestic intimacy punctured by a hint of dark, unresolved violence"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Safe character-deepening exchange establishing his mysterious background without giving away plot mechanics."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP008_08",
+      "start_beat_id": "B013",
+      "end_beat_id": "B025",
+      "start_time": 33.2,
+      "end_time": 64.3,
+      "duration": 31.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 begins in media res with an ungrounded, mid-action wrist hold and the abrupt line 'Not yet.' A cold viewer has no visual or narrative anchor for what Juliana was attempting to do or why she is being restrained.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue eventually makes the context clear through the banter about trimming his beard and the shift to reading the herb book and discussing his war scars.",
+        "passes_gate": false,
+        "situational_summary": "A man halts a woman's touch with a cryptic 'Not yet' before they engage in gentle fireside banter that culminates in a revelation about his non-combat scars."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Restrained romantic tension revealing private emotional scars"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Low-disclosure character beat suitable for universal prospecting, revealing only personal history teasers."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP008_09",
+      "start_beat_id": "B015",
+      "end_beat_id": "B025",
+      "start_time": 37.3,
+      "end_time": 64.3,
+      "duration": 27.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B015 opens abruptly in media res ('still maintaining his gentle hold on her arm') with Alexander saying 'Let them grow.' Without prior context or visual establishing, a cold mobile viewer cannot ground who these characters are, what 'them' refers to, or the nature of their relationship within the first 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full duration, the dynamic transitions from playful domestic banter about Alexander's beard to quiet intimacy over an herbalist book, concluding on an inquiry into his mysterious, painful past/scars.",
+        "passes_gate": false,
+        "situational_summary": "During a quiet, affectionate moment studying an herbal book, a woman playfully teases a reclusive man about his appearance before asking about the origin of his physical scars."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Tender romantic banter transitioning into subdued, melancholic vulnerability"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Low-stakes character-building interaction that hints at a mysterious backstory without revealing major plot secrets or inciting incidents."
+      }
+    }
+  ]
+}

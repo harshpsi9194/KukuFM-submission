@@ -1,0 +1,415 @@
+{
+  "episode_number": 21,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Shows a woman with bandaged wrists tending a straw pallet in a dim barn, establishing mild curiosity but lacking urgent physical action or conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Prudence's frantic cry ('Lady Juliana! Please! You have to help me, Toby is dying!') instantly introduces life-or-death stakes.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Doors violently bursting open to reveal a weeping village girl framed against overcast light creates immediate visual motion and disruption.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Presents an active medical emergency ('his chest is burning! He cannot breathe!'), sustaining high emotional urgency.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of Prudence weeping and clutching her chest in agony demonstrates clear emotional distress without sound.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Highlights cruel social conflict and exclusion ('He shut the door in my face because we have no silver!').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "A close-up with a face twisted in bitter anguish and an outward gesture, but relatively standard conversational framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Exposes callous elite disregard and Juliana's utter destitution ('Our cottage is ashes. I have nothing left but this coltsfoot.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Somber profile shot focusing on bandaged hands and dusty barn interior communicates quiet melancholy rather than an arresting visual jolt.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Delivers an urgent life-or-death ultimatum ('He is only seven! If you do not come, he will die! You are his only hope').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High-angle shot of a frantic girl dropping to her knees onto the floor in tearful supplication is completely legible and emotionally arresting on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Action-oriented directive ('Stand up. Sinking to your knees will not save him... We go now.') shifts tone from pleading to practical response.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Juliana firmly hauling Prudence up from her knees and snatching a heavy leather ledger introduces decisive, brisk physical momentum.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tracking shot of two women actively sprinting along a muddy, puddled village road conveys kinetic urgency and immediate purpose on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle medium shot of a sick seven-year-old boy lying helpless on a straw pallet by the fire clearly signals a child in jeopardy without audio.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "States an alarming medical symptom ('His skin is burning hot.'), but functions primarily as clinical observation.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Hurrying into the room and rapidly flipping open an ancient botanical ledger creates focused visual investigative tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Standard emergency procedural command ('Prudence, fetch hot water immediately!').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Bandaged hand pressed to a sweating, wheezing child's forehead with an anxious onlooker in the background makes the peril immediately legible.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Juliana's internal resolve ('This boy needs my mother's knowledge') provides lore and backstory rather than an immediate verbal shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Lifting a steaming kettle and tracing botanical illustrations depict procedural medical prep without sharp visual confrontation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of crushing dried herbs and pouring steaming water into a wooden bowl shows tactile craftsmanship rather than high-stakes drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Purely logistical bedside instructions ('Lift his shoulders, Prudence. Hold the steam close. Let him inhale.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Three figures huddling together over a steaming bowl creates a tender treatment scene, but lacks explosive scroll-stopping tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Tender comforting words to an invalid ('Toby, breathe it in, sweet boy.') without external conflict.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a sister cradling a sick child's head shows emotional intimacy but minimal scroll-stopping punch.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Gentle, repetitive procedural encouragement ('Keep breathing, Toby. Let the vapor clear your chest.').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Hand waving vapor toward a patient's face is calm and restorative rather than visually arresting.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Exclamation of relief and medicinal dosage instructions mark resolution rather than a compelling forward narrative hook.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Weeping in relief with hand over mouth while tucking in a blanket visually resolves the tension instead of creating an unresolved hook.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "An earnest vow of gratitude and indebtedness ('I will do anything to repay you'), expressing emotional warmth rather than conflict.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium close-up of a grateful girl with clasped hands looking respectfully at her benefactor.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Benevolent, polite dismissal of reward ('Your brother's breath is payment enough for me').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Gentle close-up of holding hands and offering a warm, reassuring smile.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Delivers a sharp, thematic accusation against the nobility ('At the grand manor, they ignore us... But their gold cannot buy them health.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle shot past the sleeping child showing Prudence's face darkening with anger introduces noticeable mood friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp, abrupt realization that introduces elite stakes ('What do you mean? Is someone ill? The Dowager Duchess?').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Sharp physical turn with eyes widening in sudden startled recognition creates an immediate visual reaction hook.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Delivers a stark, blunt reveal of impending mortality ('She is dying, Lady Juliana.').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Low-angle cutaway of a peaceful sleeping child and crackling fire offers no visual conflict or shock.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Chilling revelation of an untreatable, lethal condition afflicting nobility ('A strange, mysterious illness is eating her away... she is fading to nothing, and no one can stop it.').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of Prudence leaning in close to whisper with intense, grave secrecy visually signals a forbidden conspiracy or dark secret.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Slow push-in on bandaged hands over an ancient heirloom ledger accompanied by an expression of shock and resolve provides a strong dramatic cliffhanger pose.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 0,
+      "specific_question": "Why is Lady Juliana staying in a rustic barn with bandaged wrists?",
+      "stakes_importance": "Low \u2014 establishes baseline setting and character status, but lacks immediate urgency or conflict.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Lady Juliana help save Toby from dying before it is too late?",
+      "stakes_importance": "High \u2014 a life-or-death emergency bursts into the scene with intense panic and urgency.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why didn't the apothecary provide medicine for Toby's burning chest?",
+      "stakes_importance": "Medium \u2014 raises narrative question about what prevented Toby from receiving basic medical treatment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Toby survive when the apothecary callously turned him away due to lack of silver?",
+      "stakes_importance": "Medium \u2014 deepens the cruelty and financial barriers facing the dying child.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 4,
+      "specific_question": "How can Lady Juliana save Toby when her cottage is burned to ashes and she has nothing left but coltsfoot?",
+      "stakes_importance": "High \u2014 establishes catastrophic odds where the protagonist has virtually no resources to treat a dying boy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Lady Juliana take on the desperate plea to save Toby or refuse due to her ruined circumstances?",
+      "stakes_importance": "High \u2014 life-or-death supplication resting entirely on Lady Juliana's decision.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Lady Juliana reach Toby in time with her ledger before his condition proves fatal?",
+      "stakes_importance": "Medium \u2014 transition into active emergency rescue mission with ticking-clock stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will they reach Toby's cottage before his failing lungs give out?",
+      "stakes_importance": "Medium \u2014 physical sprint under pressure, but largely a traversal shot.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Toby hold on as his raspy coughs worsen, or is he on the brink of suffocating?",
+      "stakes_importance": "High \u2014 visceral depiction of a young child in acute respiratory distress.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana locate an effective remedy in the herbal ledger before Toby succumbs to the fever?",
+      "stakes_importance": "Medium \u2014 race against time to diagnose and prepare an emergency treatment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Prudence bring the hot water in time as Toby wheezes painfully under severe fever?",
+      "stakes_importance": "High \u2014 critical point of medical intervention during acute respiratory crisis.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will her mother's herbal remedy be sufficient to counter Toby's deadly lung affliction?",
+      "stakes_importance": "Medium \u2014 emotional investment in her mother's lineage and botanical knowledge.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the infused herbal vapor be ready before Toby stops breathing?",
+      "stakes_importance": "Medium \u2014 procedural preparation step in the midst of medical treatment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Toby inhale the herbal steam and begin to clear his blocked airway?",
+      "stakes_importance": "High \u2014 immediate climactic action of the medical rescue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the weak boy be able to breathe in the medicine, or will his lungs reject it?",
+      "stakes_importance": "High \u2014 suspended moment right before the treatment takes effect.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the medicinal vapor succeed in breaking Toby's life-threatening chest congestion?",
+      "stakes_importance": "High \u2014 the exact final inhalation effort before knowing if the boy lives or dies.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will Toby stay healthy with the coltsfoot tea?",
+      "stakes_importance": "Low \u2014 tension is completely resolved as Toby breathes normally and falls asleep peacefully.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will Prudence eventually repay Lady Juliana?",
+      "stakes_importance": "Low \u2014 emotional aftermath and warm gratitude with no imminent crisis or mystery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will their bond of friendship remain strong?",
+      "stakes_importance": "Low \u2014 gentle emotional closure of the rescue sequence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 3,
+      "specific_question": "What secret health crisis is afflicting the grand manor that their gold cannot fix?",
+      "stakes_importance": "Medium \u2014 seeds a provocative secret and thematic reversal regarding the untouchable aristocracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "Has something catastrophic happened to the Dowager Duchess?",
+      "stakes_importance": "High \u2014 raises the identity of a key high-status noble whose fate carries massive political and narrative weight.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "What is killing the Dowager Duchess, and can anyone intervene?",
+      "stakes_importance": "High \u2014 confirms a shocking, high-stakes mortality crisis at the highest level of society.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 5,
+      "specific_question": "What is the strange illness destroying the Dowager Duchess, and why are all manor doctors powerless against it?",
+      "stakes_importance": "High \u2014 unveils a fatal aristocratic mystery juxtaposed against Juliana's proven forbidden/forgotten remedies.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Lady Juliana risk stepping into the hostile grand manor using her mother's secret remedies to cure the dying Duchess?",
+      "stakes_importance": "High \u2014 the ultimate narrative threshold: protagonist connects the dots and resolves to challenge the corrupt manor world with her forbidden herbal ledger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

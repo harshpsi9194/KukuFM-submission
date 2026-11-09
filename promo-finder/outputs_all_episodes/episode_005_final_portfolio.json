@@ -1,0 +1,308 @@
+{
+  "episode_number": 5,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "target_portfolio_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP005_59",
+      "tournament_rank": 1,
+      "tournament_wins": 9,
+      "tournament_losses": 0,
+      "latent_strength_theta": 4.1016,
+      "mmr_score": 0.55,
+      "max_sim_to_selected": 0.0,
+      "recommended_variant_id": "CAND_EP005_59_base",
+      "boundary": {
+        "start_beat_id": "B013",
+        "end_beat_id": "B020",
+        "start_time": 54.0,
+        "end_time": 101.5,
+        "duration": 47.5,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "Barbara, don't!",
+        "opening_character": "JULIANA",
+        "visual_action": "Close-up on the ledger as Lady Ashcroft violently wrenches it out of Juliana's grip.",
+        "dialogue_score": 4,
+        "visual_score": 5,
+        "rationale": "Mocking jeers ('Even your mother's precious legacy has been cast into the dirt!') and cruel validation ('Perhaps that is where it belongs.') accompany an intense scene of public humiliation."
+      },
+      "cliffhanger": {
+        "final_quote": "Choose your next words carefully.",
+        "final_character": "MYSTERIOUS BEARDED MAN",
+        "final_action": "Over-the-shoulder shot behind the Mysterious Bearded Man looking up toward Gerald on the stairs. Gerald's arrogant grin slowly wavers.",
+        "curiosity_gap_score": 5,
+        "cliffhanger_type": "threat",
+        "specific_question": "Will Gerald dare to speak again, or will the dangerous husband strike him down on the cathedral stairs?"
+      },
+      "situational_summary": "After a bride's precious family ledger is violently thrown into the mud by cruel family members on the cathedral steps, a mysterious rugged man comforts her and retrieves it, before issuing a menacing warning to the mocking ex-groom.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "Mid-funnel retargeting / high-intent viral shock & rescue hook"
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP005_22",
+      "tournament_rank": 3,
+      "tournament_wins": 6,
+      "tournament_losses": 3,
+      "latent_strength_theta": 0.9073,
+      "mmr_score": 0.1343,
+      "max_sim_to_selected": 0.7709,
+      "recommended_variant_id": "CAND_EP005_22_base",
+      "boundary": {
+        "start_beat_id": "B004",
+        "end_beat_id": "B013",
+        "start_time": 10.5,
+        "end_time": 69.0,
+        "duration": 58.5,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "The vows are spoken, Father. I am his wife now.",
+        "opening_character": "JULIANA",
+        "visual_action": "Medium close-up of Juliana looking up at her father. Her hand rises to touch the amethyst heirloom pendant resting at her throat.",
+        "dialogue_score": 3,
+        "visual_score": 2,
+        "rationale": "Juliana's defiant declaration of completed marriage ('The vows are spoken, Father. I am his wife now.') establishes immediate high-stakes family confrontation."
+      },
+      "cliffhanger": {
+        "final_quote": "Perhaps that is where it belongs.",
+        "final_character": "GERALD",
+        "final_action": "Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle.",
+        "curiosity_gap_score": 5,
+        "cliffhanger_type": "betrayal",
+        "specific_question": "As Juliana crawls in the dirt under Clarissa and Gerald's cruel laughter, will her new husband retaliate?"
+      },
+      "situational_summary": "A newlywed bride defies her father outside the chapel archway, only for him to disown her and revoke her inheritance, culminating in her stepmother wrenching her late mother's heirloom ledger away and flinging it into a rain puddle while family members mock her.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral shock reel"
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP005_29",
+      "tournament_rank": 4,
+      "tournament_wins": 6,
+      "tournament_losses": 3,
+      "latent_strength_theta": 0.9073,
+      "mmr_score": 0.0705,
+      "max_sim_to_selected": 0.8363,
+      "recommended_variant_id": "CAND_EP005_29_trim_start",
+      "boundary": {
+        "start_beat_id": "B006",
+        "end_beat_id": "B014",
+        "start_time": 20.8,
+        "end_time": 74.5,
+        "duration": 53.7,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "Your dowry is revoked.",
+        "opening_character": "LORD ASHCROFT",
+        "visual_action": "Low-angle shot tracking Lord Ashcroft's polished black boots as he slowly descends the stone steps toward them.",
+        "dialogue_score": 4,
+        "visual_score": 2,
+        "rationale": "The brutal disownment lines ('Then leave as his wife. You leave as no daughter of mine.') deliver a sharp emotional rupture."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "final_action": "The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.",
+        "curiosity_gap_score": 3,
+        "cliffhanger_type": "romantic_uncertainty",
+        "specific_question": "Will the mysterious husband rescue Juliana's honor or confront her mocking family?"
+      },
+      "situational_summary": "A rigid father disowns his newlywed daughter outside a chapel, after which her cruel family strips her of her inheritance, hurls her late mother's ledger into the wet dirt, and leaves her weeping on her knees until a mysterious man steps in to support her.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "Mid-funnel retargeting / high-intent hook / viral drama shock reel"
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP005_11",
+      "tournament_rank": 6,
+      "tournament_wins": 4,
+      "tournament_losses": 5,
+      "latent_strength_theta": 0.3828,
+      "mmr_score": 0.013,
+      "max_sim_to_selected": 0.8115,
+      "recommended_variant_id": "CAND_EP005_11_base",
+      "boundary": {
+        "start_beat_id": "B003",
+        "end_beat_id": "B008",
+        "start_time": 6.6,
+        "end_time": 41.5,
+        "duration": 34.9,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "You will not leave this church carrying the Ashcroft name.",
+        "opening_character": "LORD ASHCROFT",
+        "visual_action": "Close-up of Lord Ashcroft, his weathered face rigid with aristocratic pride and disgust.",
+        "dialogue_score": 4,
+        "visual_score": 3,
+        "rationale": "Lord Ashcroft's declaration, 'You will not leave this church carrying the Ashcroft name,' delivers an immediate high-stakes familial disownment hook."
+      },
+      "cliffhanger": {
+        "final_quote": "No, Father. You chose that long before today.",
+        "final_character": "JULIANA",
+        "final_action": "Profile medium two-shot of Juliana and Lord Ashcroft standing face-to-face against the backdrop of the towering gothic facade.",
+        "curiosity_gap_score": 4,
+        "cliffhanger_type": "threat",
+        "specific_question": "How will Lord Ashcroft react to Juliana's cutting counter-accusation while her dangerous husband glares on?"
+      },
+      "situational_summary": "An aristocratic father disowns and strips his daughter of her name and inheritance outside a church after she marries against his will, but she stands her ground and defies him.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "Mid-funnel retargeting / high-intent prospecting / viral emotional drama reel"
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP005_43",
+      "tournament_rank": 7,
+      "tournament_wins": 3,
+      "tournament_losses": 6,
+      "latent_strength_theta": 0.2413,
+      "mmr_score": -0.0243,
+      "max_sim_to_selected": 0.8178,
+      "recommended_variant_id": "CAND_EP005_43_base",
+      "boundary": {
+        "start_beat_id": "B008",
+        "end_beat_id": "B014",
+        "start_time": 33.5,
+        "end_time": 74.5,
+        "duration": 41.0,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "And you have chosen to become a stranger.",
+        "opening_character": "LORD ASHCROFT",
+        "visual_action": "Close-up of the Mysterious Bearded Man, observing Lord Ashcroft with an unblinking, quietly threatening stare.",
+        "dialogue_score": 3,
+        "visual_score": 3,
+        "rationale": "A sharp verbal counter-accusation ('And you have chosen to become a stranger.' / 'No, Father. You chose that long before today.') establishes direct confrontation."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "final_action": "The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.",
+        "curiosity_gap_score": 3,
+        "cliffhanger_type": "romantic_uncertainty",
+        "specific_question": "Will the mysterious husband rescue Juliana's honor or confront her mocking family?"
+      },
+      "situational_summary": "An estranged daughter confronts her rejecting father before her cruel stepfamily publicly humiliates her by throwing her deceased mother's precious ledger into the mud, ending as a mysterious ally steps forward to help her.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1,
+      "ideal_ad_placement": "Cold prospecting / high-curiosity hook / top-of-funnel TikTok & Meta ads"
+    }
+  ],
+  "disqualification_audit_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP005_60",
+      "rank": 2,
+      "recommended_boundary": "B013 -> B021",
+      "similarity": 0.9676,
+      "duplicate_of": "CAND_EP005_59",
+      "reason": "Exceeded near-duplicate threshold (0.9676 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP005_60",
+      "rank": 2,
+      "recommended_boundary": "B013 -> B021",
+      "similarity": 0.9676,
+      "duplicate_of": "CAND_EP005_59",
+      "reason": "Exceeded near-duplicate threshold (0.9676 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP005_60",
+      "rank": 2,
+      "recommended_boundary": "B013 -> B021",
+      "similarity": 0.9676,
+      "duplicate_of": "CAND_EP005_59",
+      "reason": "Exceeded near-duplicate threshold (0.9676 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP005_28",
+      "rank": 5,
+      "recommended_boundary": "B006 -> B013",
+      "similarity": 0.9827,
+      "duplicate_of": "CAND_EP005_29",
+      "reason": "Exceeded near-duplicate threshold (0.9827 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP005_24",
+      "rank": 10,
+      "recommended_boundary": "B004 -> B009",
+      "similarity": 0.9513,
+      "duplicate_of": "CAND_EP005_29",
+      "reason": "Exceeded near-duplicate threshold (0.9513 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP005_60",
+      "rank": 2,
+      "recommended_boundary": "B013 -> B021",
+      "similarity": 0.9676,
+      "duplicate_of": "CAND_EP005_59",
+      "reason": "Exceeded near-duplicate threshold (0.9676 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP005_28",
+      "rank": 5,
+      "recommended_boundary": "B006 -> B013",
+      "similarity": 0.9827,
+      "duplicate_of": "CAND_EP005_29",
+      "reason": "Exceeded near-duplicate threshold (0.9827 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP005_13",
+      "rank": 8,
+      "recommended_boundary": "B003 -> B010",
+      "similarity": 0.9895,
+      "duplicate_of": "CAND_EP005_11",
+      "reason": "Exceeded near-duplicate threshold (0.9895 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP005_12",
+      "rank": 9,
+      "recommended_boundary": "B003 -> B009",
+      "similarity": 0.9765,
+      "duplicate_of": "CAND_EP005_11",
+      "reason": "Exceeded near-duplicate threshold (0.9765 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP005_24",
+      "rank": 10,
+      "recommended_boundary": "B004 -> B009",
+      "similarity": 0.9513,
+      "duplicate_of": "CAND_EP005_29",
+      "reason": "Exceeded near-duplicate threshold (0.9513 >= 0.90)"
+    }
+  ]
+}

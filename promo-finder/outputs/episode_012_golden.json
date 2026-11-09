@@ -1,0 +1,653 @@
+{
+  "episode": "Episode 12",
+  "episode_number": 12,
+  "logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang.",
+  "continuity_notes": "Picks up directly from Episode 11's cliffhanger where the Constable pulls Gerald's planted gold pocket watch from Alexander's trench coat.",
+  "duration": 87.21,
+  "total_beats": 21,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 4.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the Constable raising a set of heavy iron handcuffs, addressing Alexander sternly in front of the stone hearth.",
+          "start": 0.0,
+          "end": 4.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Put out your hands, veteran. You are under arrest for theft.",
+          "start": 0.5,
+          "end": 4.5,
+          "timestamp_source": "given",
+          "character": "CONSTABLE",
+          "emotion": "Authoritative, Stern"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B002",
+      "start": 4.6,
+      "end": 9.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana swiftly moving in front of Alexander, placing herself defiantly between him and the Constable's outstretched handcuffs.",
+          "start": 4.6,
+          "end": 9.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana steps firmly forward, shielding Alexander with her body.",
+          "start": 4.8,
+          "end": 6.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No! That watch was not in his coat!",
+          "start": 5.7,
+          "end": 8.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Furious, Defiant"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B003",
+      "start": 9.1,
+      "end": 11.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the Constable narrowing his eyes coldly at Juliana.",
+          "start": 9.1,
+          "end": 11.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I found it there myself.",
+          "start": 10.0,
+          "end": 11.7,
+          "timestamp_source": "given",
+          "character": "CONSTABLE",
+          "emotion": "Blunt, Unyielding"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B004",
+      "start": 11.8,
+      "end": 13.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana glaring back with unwavering conviction.",
+          "start": 11.8,
+          "end": 13.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then someone put it there!",
+          "start": 12.3,
+          "end": 13.9,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Passionate, Accusatory"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B005",
+      "start": 13.9,
+      "end": 20.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium full shot of Gerald framed in the open cottage doorway holding his riding crop, stepping inside with a patronizing, gloating grin.",
+          "start": 13.9,
+          "end": 20.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The proof is in his coat, Juliana. A valuable pocket watch doesn't just walk into a beggar's pocket.",
+          "start": 14.3,
+          "end": 20.6,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Smug, Condescending"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B006",
+      "start": 20.8,
+      "end": 23.7,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander, his scarred brow furrowed in dark, quiet defiance.",
+          "start": 20.8,
+          "end": 23.7,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I have never touched your property.",
+          "start": 21.6,
+          "end": 23.6,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Low, Steady, Dangerous"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B007",
+      "start": 23.7,
+      "end": 28.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Then perhaps your wife should explain why it was found in your coat.",
+          "start": 23.7,
+          "end": 26.8,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Mocking, Malicious"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Gerald pointing his riding crop toward them, with Clarissa hovering behind him in her violet silk gown.",
+          "start": 23.7,
+          "end": 26.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You planted it!",
+          "start": 26.8,
+          "end": 27.9,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Enraged, Shouting"
+        },
+        {
+          "type": "action",
+          "description": "Juliana lunges a step forward, jabbing an accusing finger toward Gerald.",
+          "start": 26.8,
+          "end": 28.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B008",
+      "start": 28.0,
+      "end": 32.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Clarissa gliding past Gerald, a venomous, amused smile playing upon her lips.",
+          "start": 28.0,
+          "end": 29.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Oh, dear sister...",
+          "start": 28.1,
+          "end": 30.0,
+          "timestamp_source": "given",
+          "character": "CLARISSA",
+          "emotion": "Purring, Taunting"
+        },
+        {
+          "type": "camera",
+          "description": "Tight shot of Alexander's hand clenching into a tight, trembling fist against the glow of the roaring fireplace.",
+          "start": 29.8,
+          "end": 31.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "...still defending your broken scrap of a man?",
+          "start": 30.0,
+          "end": 32.4,
+          "timestamp_source": "given",
+          "character": "CLARISSA",
+          "emotion": "Continuing taunt"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander glaring daggers at Clarissa.",
+          "start": 31.0,
+          "end": 32.4,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B009",
+      "start": 32.4,
+      "end": 35.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Name your price, Clarissa. I know you.",
+          "start": 32.4,
+          "end": 35.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Steely, Resolute"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana, her eyes narrowing with sharp perception.",
+          "start": 32.4,
+          "end": 35.3,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B010",
+      "start": 35.3,
+      "end": 40.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Clarissa smiling with vicious delight.",
+          "start": 35.3,
+          "end": 40.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You always were clever, Juliana. Always searching for some way to escape.",
+          "start": 35.4,
+          "end": 40.0,
+          "timestamp_source": "given",
+          "character": "CLARISSA",
+          "emotion": "Smooth, Derisive"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B011",
+      "start": 40.0,
+      "end": 41.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight shot of Clarissa smoothing her long purple evening glove along her wrist.",
+          "start": 40.0,
+          "end": 41.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Perhaps I can give you one.",
+          "start": 40.1,
+          "end": 41.5,
+          "timestamp_source": "given",
+          "character": "CLARISSA",
+          "emotion": "Scheming"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B012",
+      "start": 41.8,
+      "end": 43.7,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana watching her with cautious skepticism.",
+          "start": 41.8,
+          "end": 43.7,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What do you want?",
+          "start": 42.2,
+          "end": 43.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Guarded, Cold"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B013",
+      "start": 43.7,
+      "end": 46.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana.",
+          "start": 43.7,
+          "end": 46.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I want to see you crawl, sister.",
+          "start": 44.0,
+          "end": 46.4,
+          "timestamp_source": "given",
+          "character": "CLARISSA",
+          "emotion": "Cruel, Savoring"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B014",
+      "start": 46.6,
+      "end": 52.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up profile tracking shot of Clarissa pacing slowly as she spins her sadistic tale.",
+          "start": 46.6,
+          "end": 52.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it...",
+          "start": 46.7,
+          "end": 52.3,
+          "timestamp_source": "given",
+          "character": "CLARISSA",
+          "emotion": "Theatrical, Vindictive"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B015",
+      "start": 52.4,
+      "end": 56.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "...sharp as steel. The ground is frozen, like pure ice.",
+          "start": 52.4,
+          "end": 56.7,
+          "timestamp_source": "given",
+          "character": "CLARISSA",
+          "emotion": "Chilling, Sarcastic"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Clarissa flexing her gloved fingers theatrically in front of her face.",
+          "start": 52.4,
+          "end": 56.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B016",
+      "start": 56.8,
+      "end": 60.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Gerald bursts into a loud, mocking laugh beside the stony Constable.",
+          "start": 56.8,
+          "end": 58.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium two-shot of Clarissa stepping closer to Juliana, peering down into her eyes with a predatory smile.",
+          "start": 56.8,
+          "end": 60.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You will retrieve it with your bare hands before the magistrate arrives.",
+          "start": 57.3,
+          "end": 60.6,
+          "timestamp_source": "given",
+          "character": "CLARISSA",
+          "emotion": "Demanding, Brutal"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B017",
+      "start": 60.8,
+      "end": 63.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "A lady's hands will be shredded to ribbons!",
+          "start": 60.8,
+          "end": 63.1,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Gleeful, Derisive"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Gerald tapping his whip against his palm and laughing heartily beside the Constable.",
+          "start": 60.8,
+          "end": 63.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B018",
+      "start": 63.2,
+      "end": 65.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium three-shot of Clarissa stepping behind Juliana, as Alexander watches helplessly with dark fury.",
+          "start": 63.2,
+          "end": 65.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Do it, and we withdraw the charges.",
+          "start": 63.3,
+          "end": 65.1,
+          "timestamp_source": "given",
+          "character": "CLARISSA",
+          "emotion": "Cold, Transactional"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B019",
+      "start": 65.2,
+      "end": 69.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Clarissa's mouth leaning directly into Juliana's ear, whispering venomously.",
+          "start": 65.2,
+          "end": 69.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Fail, or refuse, and your husband hangs from the gallows.",
+          "start": 65.4,
+          "end": 69.2,
+          "timestamp_source": "given",
+          "character": "CLARISSA",
+          "emotion": "Whispering, Menacing"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B020",
+      "start": 69.5,
+      "end": 74.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Alexander stepping up beside Juliana, tenderly placing his large hand on her shoulder.",
+          "start": 69.5,
+          "end": 74.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander rests his scarred hand reassuringly on Juliana's shoulder, leaning in toward her.",
+          "start": 69.6,
+          "end": 71.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Juliana, no. Do not let them hurt you. I can handle the law.",
+          "start": 69.8,
+          "end": 73.8,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Desperate, Protective, Urgent"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B021",
+      "start": 74.0,
+      "end": 87.21,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana, her eyes glistening with unshed tears, her hand gripping the fabric over her heart in agony and resolve.",
+          "start": 74.0,
+          "end": 81.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana clutches the front of her rustic grey dress, her breathing trembling.",
+          "start": 74.2,
+          "end": 76.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I am not letting them take you.",
+          "start": 75.3,
+          "end": 78.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Fierce, Emotional, Sacrificial"
+        },
+        {
+          "type": "action",
+          "description": "Juliana turns her head sharply back toward Clarissa, her expression hardening with fierce resolution.",
+          "start": 81.5,
+          "end": 83.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Over-the-shoulder shot past Clarissa onto Juliana's determined face, holding on her fierce, defiant stare as the tension peaks.",
+          "start": 81.8,
+          "end": 87.21,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Tell me where the garden is.",
+          "start": 82.8,
+          "end": 84.7,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Steely, Resolute"
+        },
+        {
+          "type": "action",
+          "description": "Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance.",
+          "start": 84.7,
+          "end": 87.21,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE \u2013 CONTINUOUS"
+    }
+  ]
+}

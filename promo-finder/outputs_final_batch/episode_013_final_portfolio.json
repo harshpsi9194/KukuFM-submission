@@ -1,0 +1,265 @@
+{
+  "episode_number": 13,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP013_08",
+      "absolute_rubric_score": 9.6,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B015",
+        "end_beat_id": "B021",
+        "start_time": 53.5,
+        "end_time": 83.0,
+        "duration": 29.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "No...",
+        "opening_character": "JULIANA",
+        "rationale": "Cruel public mockery over physical torture: 'Look at her hands... The lady has finally found something worthy of her.'"
+      },
+      "cliffhanger": {
+        "final_quote": "Stop!",
+        "final_character": "ALEXANDER",
+        "specific_question": "Will Alexander manage to break past the guards and throw himself into the briars to rescue Juliana?"
+      },
+      "situational_summary": "To win her chained husband's freedom, a desperate woman crawls through vicious thorns while spectators laugh, pushing her husband to break his restraint.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP013_11",
+      "absolute_rubric_score": 8.2,
+      "subscores": {
+        "hook_score": 1.8,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.0684,
+      "max_similarity_to_selected": 0.7631,
+      "boundary": {
+        "start_beat_id": "B016",
+        "end_beat_id": "B027",
+        "start_time": 62.0,
+        "end_time": 107.0,
+        "duration": 45.0,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "Keep searching, Juliana. Your husband's freedom is somewhere in that garden.",
+        "opening_character": "GERALD",
+        "rationale": "Explicitly exposes the life-or-death quest and blackmail: 'Your husband's freedom is somewhere in that garden.'"
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Will Juliana manage to seize the emerald signet ring before anyone notices or forces her out?"
+      },
+      "situational_summary": "Taunted by a sneering aristocrat that her husband's freedom is hidden in the garden, a desperate woman claws through frozen briars until her bloody fingers uncover an antique emerald signet ring.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP013_06",
+      "absolute_rubric_score": 7.8,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 2.0,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.1701,
+      "max_similarity_to_selected": 0.8363,
+      "boundary": {
+        "start_beat_id": "B014",
+        "end_beat_id": "B021",
+        "start_time": 50.0,
+        "end_time": 83.0,
+        "duration": 33.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Please...",
+        "opening_character": "ALEXANDER",
+        "rationale": "A single pleading word ('Please...') offering low standalone narrative context."
+      },
+      "cliffhanger": {
+        "final_quote": "Stop!",
+        "final_character": "ALEXANDER",
+        "specific_question": "Will Alexander manage to break past the guards and throw himself into the briars to rescue Juliana?"
+      },
+      "situational_summary": "A woman crawls through a bed of jagged thorns to win her captive husband's freedom while their tormentors mock them from a terrace.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP013_02",
+      "absolute_rubric_score": 7.4,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 2.0
+      },
+      "mmr_score": -0.2355,
+      "max_similarity_to_selected": 0.829,
+      "boundary": {
+        "start_beat_id": "B002",
+        "end_beat_id": "B009",
+        "start_time": 4.2,
+        "end_time": 39.8,
+        "duration": 35.6,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Juliana, look at those thorns. You cannot do this.",
+        "opening_character": "ALEXANDER",
+        "rationale": "Direct, urgent warning about immediate physical peril: 'Juliana, look at those thorns. You cannot do this.'"
+      },
+      "cliffhanger": {
+        "final_quote": "Careful, sister.",
+        "final_character": "CLARISSA",
+        "specific_question": "Can Juliana survive the frozen blackthorn thicket, or will Clarissa's ominous warning prove fatal?"
+      },
+      "situational_summary": "A captive man begs his partner not to sacrifice herself, but she bravely enters a frozen briar garden to save him from the gallows as their tormentors mock them.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP013_10",
+      "rank": 2,
+      "recommended_boundary": "B015 -> B023",
+      "similarity": 0.9315,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9315 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP013_09",
+      "rank": 3,
+      "recommended_boundary": "B015 -> B022",
+      "similarity": 0.9455,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9455 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP013_07",
+      "rank": 4,
+      "recommended_boundary": "B015 -> B020",
+      "similarity": 0.9458,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9458 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP013_10",
+      "rank": 2,
+      "recommended_boundary": "B015 -> B023",
+      "similarity": 0.9315,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9315 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP013_09",
+      "rank": 3,
+      "recommended_boundary": "B015 -> B022",
+      "similarity": 0.9455,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9455 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP013_07",
+      "rank": 4,
+      "recommended_boundary": "B015 -> B020",
+      "similarity": 0.9458,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9458 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP013_10",
+      "rank": 2,
+      "recommended_boundary": "B015 -> B023",
+      "similarity": 0.9315,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9315 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP013_09",
+      "rank": 3,
+      "recommended_boundary": "B015 -> B022",
+      "similarity": 0.9455,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9455 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP013_07",
+      "rank": 4,
+      "recommended_boundary": "B015 -> B020",
+      "similarity": 0.9458,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9458 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP013_10",
+      "rank": 2,
+      "recommended_boundary": "B015 -> B023",
+      "similarity": 0.9315,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9315 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP013_09",
+      "rank": 3,
+      "recommended_boundary": "B015 -> B022",
+      "similarity": 0.9455,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9455 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP013_07",
+      "rank": 4,
+      "recommended_boundary": "B015 -> B020",
+      "similarity": 0.9458,
+      "duplicate_of": "CAND_EP013_08",
+      "reason": "Exceeded near-duplicate threshold (0.9458 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP013_01",
+      "rank": 8,
+      "recommended_boundary": "B002 -> B007",
+      "similarity": 0.9004,
+      "duplicate_of": "CAND_EP013_02",
+      "reason": "Exceeded near-duplicate threshold (0.9004 >= 0.90)"
+    }
+  ]
+}

@@ -1,0 +1,889 @@
+{
+  "episode": "Episode 23",
+  "episode_number": 23,
+  "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic\u2014only for someone to arrive at the bedroom door just as she begins concocting the antidote.",
+  "continuity_notes": "Picks up immediately from the Episode 22 cliffhanger inside the forbidden West Wing of Ashbury Manor, where Lady Juliana crouches beside the bedridden Dowager Duchess, racing against time to determine the source of her fatal illness.",
+  "duration": 131.5,
+  "total_beats": 37,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 1.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot through dark draped bed curtains into the shadowy bedchamber, showing Prudence keeping watch with a single candle while Lady Juliana sits beside the grand four-poster bed.",
+          "start": 0.0,
+          "end": 1.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B002",
+      "start": 1.8,
+      "end": 6.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Juliana, we cannot stay for long. Someone will come.",
+          "start": 1.8,
+          "end": 6.0,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Anxious, Whispering"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of Prudence holding a brass candlestick with trembling hands, glancing nervously toward the doorway.",
+          "start": 1.8,
+          "end": 6.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B003",
+      "start": 6.5,
+      "end": 11.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Lady Juliana gently lifting the frail, trembling hands of the Dowager Duchess resting atop the linen covers.",
+          "start": 6.5,
+          "end": 11.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana cradles the Duchess's frail hands in hers, inspecting her fingers with furrowed brows.",
+          "start": 7.5,
+          "end": 11.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B004",
+      "start": 11.8,
+      "end": 16.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the Duchess's fingertips, revealing pronounced dark, purplish-black discoloration beneath the nails.",
+          "start": 11.8,
+          "end": 16.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "How long has she been like this?",
+          "start": 13.5,
+          "end": 16.0,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Hushed, Grave"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B005",
+      "start": 16.8,
+      "end": 20.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Weeks.",
+          "start": 16.8,
+          "end": 19.5,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Tearful, Trembling"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Prudence leaning against the bedpost, tears glistening in her eyes.",
+          "start": 16.8,
+          "end": 20.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B006",
+      "start": 20.0,
+      "end": 24.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "High-angle two-shot as Lady Juliana leans closer over the gasping Duchess, gently touching her parched lips.",
+          "start": 20.0,
+          "end": 24.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B007",
+      "start": 24.0,
+      "end": 27.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Lady Juliana's concerned face as she withdraws her finger from the Duchess's mouth.",
+          "start": 24.0,
+          "end": 27.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Her mouth is terribly dry.",
+          "start": 24.0,
+          "end": 27.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Solemn"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B008",
+      "start": 27.5,
+      "end": 31.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as Lady Juliana presses her fingertips gently against the Duchess's wrist, feeling for a pulse.",
+          "start": 27.5,
+          "end": 31.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Her pulse is weak.",
+          "start": 29.0,
+          "end": 31.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Quiet, Grim"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B009",
+      "start": 31.5,
+      "end": 36.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence holding the flickering candle, crying openly in distress.",
+          "start": 31.5,
+          "end": 36.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The physician said her heart is failing.",
+          "start": 32.0,
+          "end": 36.0,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Despairing, Weeping"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B010",
+      "start": 36.0,
+      "end": 38.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the Dowager Duchess gasping hoarsely for air, her throat straining as she weakly fights to breathe.",
+          "start": 36.0,
+          "end": 38.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Duchess's raspy, labored inhalation.",
+          "start": 36.0,
+          "end": 38.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B011",
+      "start": 38.5,
+      "end": 43.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Lady Juliana standing upright, her expression hardening with fierce skepticism.",
+          "start": 38.5,
+          "end": 43.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No.",
+          "start": 40.8,
+          "end": 43.0,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Firm, Resolute"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B012",
+      "start": 43.0,
+      "end": 46.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot panning down as Juliana reaches into her deep apron pocket and pulls out a worn, leather-bound notebook.",
+          "start": 43.0,
+          "end": 46.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "This is not simply old age.",
+          "start": 43.8,
+          "end": 46.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Certain, Focused"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B013",
+      "start": 46.5,
+      "end": 48.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Quick reaction shot of Prudence staring with wide, bewildered eyes.",
+          "start": 46.5,
+          "end": 48.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B014",
+      "start": 48.0,
+      "end": 53.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana sitting at the foot of the bed, carefully opening the leather journal across her lap and flipping through hand-annotated botanical pages.",
+          "start": 48.0,
+          "end": 53.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B015",
+      "start": 53.5,
+      "end": 57.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up overhead of the yellowed parchment, showing botanical sketches of toxic herbs and handwritten diagnostic notes as Juliana's finger traces along the script.",
+          "start": 53.5,
+          "end": 57.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B016",
+      "start": 57.5,
+      "end": 58.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana draws in a sharp, startled breath, her eyes widening in horror.",
+          "start": 57.5,
+          "end": 58.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B017",
+      "start": 58.5,
+      "end": 60.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Mother.",
+          "start": 58.5,
+          "end": 60.0,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Breathless, Reverent"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana looking up from the page, stunned by her mother's written words.",
+          "start": 58.5,
+          "end": 60.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B018",
+      "start": 60.8,
+      "end": 62.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Prudence leaning in, candle trembling.",
+          "start": 60.8,
+          "end": 62.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What is it?",
+          "start": 60.8,
+          "end": 62.0,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Urgent, Baffled"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B019",
+      "start": 62.0,
+      "end": 69.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting.",
+          "start": 62.0,
+          "end": 68.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Shocked, Deliberate"
+        },
+        {
+          "type": "camera",
+          "description": "Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background.",
+          "start": 62.0,
+          "end": 69.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B020",
+      "start": 69.5,
+      "end": 70.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence staring back in stunned disbelief.",
+          "start": 69.5,
+          "end": 70.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B021",
+      "start": 70.5,
+      "end": 73.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "I have seen these symptoms before.",
+          "start": 70.5,
+          "end": 73.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Serious, Chilled"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana speaking with absolute certainty.",
+          "start": 70.5,
+          "end": 73.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B022",
+      "start": 73.8,
+      "end": 76.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "What are you saying?",
+          "start": 73.8,
+          "end": 75.8,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Panicked, Shaken"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence's terrified face.",
+          "start": 73.8,
+          "end": 76.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B023",
+      "start": 76.0,
+      "end": 78.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp.",
+          "start": 76.0,
+          "end": 78.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B024",
+      "start": 78.5,
+      "end": 81.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence.",
+          "start": 78.5,
+          "end": 81.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Someone is poisoning her.",
+          "start": 79.0,
+          "end": 81.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Cold, Deadly Serious"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B025",
+      "start": 81.5,
+      "end": 84.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "sfx",
+          "description": "Sharp intake of breath from Prudence.",
+          "start": 81.5,
+          "end": 82.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror.",
+          "start": 81.5,
+          "end": 84.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Poison?",
+          "start": 82.0,
+          "end": 84.0,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Muffled, Horrified"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B026",
+      "start": 84.5,
+      "end": 88.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust.",
+          "start": 84.5,
+          "end": 88.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Arsenic.",
+          "start": 86.0,
+          "end": 88.0,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Venomous, Resolute"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B027",
+      "start": 88.0,
+      "end": 91.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "sfx",
+          "description": "Sudden violent coughing and sputtering from the Duchess.",
+          "start": 88.0,
+          "end": 90.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately.",
+          "start": 88.0,
+          "end": 91.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B028",
+      "start": 91.0,
+      "end": 94.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles.",
+          "start": 91.0,
+          "end": 94.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B029",
+      "start": 94.5,
+      "end": 97.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Can you save her?",
+          "start": 94.5,
+          "end": 97.0,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Desperate, Begging"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence pleading desperately, tears flowing down her cheeks.",
+          "start": 94.5,
+          "end": 97.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B030",
+      "start": 97.5,
+      "end": 100.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "I can try.",
+          "start": 97.5,
+          "end": 100.0,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Focused, Resolute"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her.",
+          "start": 97.5,
+          "end": 100.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B031",
+      "start": 100.5,
+      "end": 104.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves.",
+          "start": 100.5,
+          "end": 104.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B032",
+      "start": 104.5,
+      "end": 115.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar.",
+          "start": 104.5,
+          "end": 107.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs.",
+          "start": 104.5,
+          "end": 112.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority.",
+          "start": 107.0,
+          "end": 112.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The charcoal may help remove what is still inside her. We must act quickly.",
+          "start": 107.5,
+          "end": 112.0,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Urgent, Focused"
+        },
+        {
+          "type": "sfx",
+          "description": "Sudden muffled thump and heavy footsteps echoing from the hallway outside the door!",
+          "start": 112.2,
+          "end": 114.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Wide shot of the bedroom door framed through the bed curtains as the Duchess gasps in the bed.",
+          "start": 112.5,
+          "end": 115.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B033",
+      "start": 115.0,
+      "end": 116.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana freezing mid-motion, turning her head sharply toward the chamber door.",
+          "start": 115.0,
+          "end": 116.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B034",
+      "start": 116.5,
+      "end": 118.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the ornate brass door handle on the dark carved wooden door.",
+          "start": 116.5,
+          "end": 118.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B035",
+      "start": 118.5,
+      "end": 124.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence staring at the door in utter terror, her face drained of all color.",
+          "start": 118.5,
+          "end": 124.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Juliana... someone is coming.",
+          "start": 118.8,
+          "end": 124.0,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Terrified, Hoarse Whisper"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B036",
+      "start": 124.5,
+      "end": 127.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Quick cut to Juliana looking back toward the bed and then toward the door, trapped with an unfinished cure.",
+          "start": 124.5,
+          "end": 127.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B037",
+      "start": 127.5,
+      "end": 131.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Juliana's charcoal-blackened hand clutching the glass medicine vial firmly.",
+          "start": 127.5,
+          "end": 129.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Loud, metallic clack of the door latch turning, followed by the slow creak of wood hinges.",
+          "start": 129.2,
+          "end": 131.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks open inward into the room\u2014cutting to an intense, heart-stopping cliffhanger.",
+          "start": 129.5,
+          "end": 131.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER \u2013 NIGHT"
+    }
+  ]
+}

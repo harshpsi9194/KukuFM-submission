@@ -1,0 +1,1134 @@
+{
+  "episode_number": 15,
+  "total_candidates": 17,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP015_01",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B002",
+      "end_beat_id": "B019",
+      "start_time": 3.5,
+      "end_time": 62.0,
+      "duration": 58.5,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle medium shot of a heavy wooden club raised and brutally smashing into a planter box delivers immediate destructive action legible without sound.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will the raised club crush the final heirloom plants and strike the defenseless Juliana?",
+        "stakes_importance": "High \u2014 peak physical peril with a deadly wooden club hoisted in mid-air about to strike.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B002",
+          "end_beat_id": "B019",
+          "start_time": 3.5,
+          "end_time": 62.0,
+          "duration": 58.5,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_02",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B004",
+      "end_beat_id": "B014",
+      "start_time": 7.5,
+      "end_time": 46.5,
+      "duration": 39.0,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Juliana's sudden shout ('Stop! What are you doing?!') immediately signals an active crisis and active dispute.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dramatic reveal of protagonist bursting through a doorway with visibly bandaged hands, freezing in horror against warm interior light.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B014",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana yield to intimidation or will the thug strike her down where she stands?",
+        "stakes_importance": "High \u2014 physical intimidation right in the protagonist's face, making imminent violence inevitable.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B004",
+          "end_beat_id": "B014",
+          "start_time": 7.5,
+          "end_time": 46.5,
+          "duration": 39.0,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_03",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B004",
+      "end_beat_id": "B019",
+      "start_time": 7.5,
+      "end_time": 62.0,
+      "duration": 54.5,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Juliana's sudden shout ('Stop! What are you doing?!') immediately signals an active crisis and active dispute.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dramatic reveal of protagonist bursting through a doorway with visibly bandaged hands, freezing in horror against warm interior light.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will the raised club crush the final heirloom plants and strike the defenseless Juliana?",
+        "stakes_importance": "High \u2014 peak physical peril with a deadly wooden club hoisted in mid-air about to strike.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B004",
+          "end_beat_id": "B019",
+          "start_time": 7.5,
+          "end_time": 62.0,
+          "duration": 54.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_04",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B007",
+      "end_beat_id": "B015",
+      "start_time": 18.8,
+      "end_time": 49.5,
+      "duration": 30.7,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Callous provocation ('They look like weeds to me') sets up conflict without an explosive shock.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle tracking shot down to a heavy boot stomping and grinding delicate flowers directly into the mud delivers visceral, cruel disrespect on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 4,
+        "specific_question": "How severely is Juliana injured after being violently shoved onto the wet stone path?",
+        "stakes_importance": "High \u2014 escalation to direct physical violence against the vulnerable female protagonist.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B007",
+          "end_beat_id": "B015",
+          "start_time": 18.8,
+          "end_time": 49.5,
+          "duration": 30.7,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_05",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B007",
+      "end_beat_id": "B016",
+      "start_time": 18.8,
+      "end_time": 53.5,
+      "duration": 34.7,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Callous provocation ('They look like weeds to me') sets up conflict without an explosive shock.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle tracking shot down to a heavy boot stomping and grinding delicate flowers directly into the mud delivers visceral, cruel disrespect on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B016",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana survive further abuse while bleeding onto the ground with no one to defend her?",
+        "stakes_importance": "High \u2014 visceral bodily harm with fresh blood soaking her bandages, raising stakes to acute danger.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B007",
+          "end_beat_id": "B016",
+          "start_time": 18.8,
+          "end_time": 53.5,
+          "duration": 34.7,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_06",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B007",
+      "end_beat_id": "B019",
+      "start_time": 18.8,
+      "end_time": 62.0,
+      "duration": 43.2,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Callous provocation ('They look like weeds to me') sets up conflict without an explosive shock.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle tracking shot down to a heavy boot stomping and grinding delicate flowers directly into the mud delivers visceral, cruel disrespect on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will the raised club crush the final heirloom plants and strike the defenseless Juliana?",
+        "stakes_importance": "High \u2014 peak physical peril with a deadly wooden club hoisted in mid-air about to strike.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B007",
+          "end_beat_id": "B019",
+          "start_time": 18.8,
+          "end_time": 62.0,
+          "duration": 43.2,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_07",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B008",
+      "end_beat_id": "B019",
+      "start_time": 22.5,
+      "end_time": 62.0,
+      "duration": 39.5,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "A desperate plea on knees ('Please! Those plants took months to grow!') conveys urgent, vulnerable distress.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-angle two-shot of a woman dropping onto her knees in cold mud, frantically clawing crushed soil with bandaged hands.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will the raised club crush the final heirloom plants and strike the defenseless Juliana?",
+        "stakes_importance": "High \u2014 peak physical peril with a deadly wooden club hoisted in mid-air about to strike.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B008",
+          "end_beat_id": "B019",
+          "start_time": 22.5,
+          "end_time": 62.0,
+          "duration": 39.5,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_08",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B008",
+      "end_beat_id": "B020",
+      "start_time": 22.5,
+      "end_time": 63.2,
+      "duration": 40.7,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "A desperate plea on knees ('Please! Those plants took months to grow!') conveys urgent, vulnerable distress.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-angle two-shot of a woman dropping onto her knees in cold mud, frantically clawing crushed soil with bandaged hands.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who is racing through the darkness, and will they arrive in time to save Juliana?",
+        "stakes_importance": "High \u2014 sudden disruption of violence by an unknown force, shifting control away from the thugs.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B008",
+          "end_beat_id": "B020",
+          "start_time": 22.5,
+          "end_time": 63.2,
+          "duration": 40.7,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_09",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B014",
+      "end_beat_id": "B026",
+      "start_time": 44.2,
+      "end_time": 86.0,
+      "duration": 41.8,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "A sharp, aggressive verbal threat ('Get out of the way!') escalates imminent violence.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight close-up of an armed thug stepping aggressively directly into the lead's personal space, snarling with venom.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander slaughter or repel all three armed thugs before Juliana suffers further injury?",
+        "stakes_importance": "High \u2014 ultimate peak of suspended violence with sound swell cutting right as the clash erupts.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B014",
+          "end_beat_id": "B026",
+          "start_time": 44.2,
+          "end_time": 86.0,
+          "duration": 41.8,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_10",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B015",
+      "end_beat_id": "B021",
+      "start_time": 46.5,
+      "end_time": 67.5,
+      "duration": 21.0,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A single defiant 'No' followed by a pain cry ('Ah!') is brief vocal reaction rather than an elaborate verbal hook.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: extreme close-up on defiant eyes instantly broken by a violent two-handed shove sending Juliana crashing hard onto wet stone path.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Alexander's furious charge overturn the thugs' assault on Juliana?",
+        "stakes_importance": "High \u2014 protector arrives in an untamed fury, instantly promising high-octane retaliation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B015",
+          "end_beat_id": "B021",
+          "start_time": 46.5,
+          "end_time": 67.5,
+          "duration": 21.0,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_11",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B015",
+      "end_beat_id": "B024",
+      "start_time": 46.5,
+      "end_time": 78.5,
+      "duration": 32.0,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A single defiant 'No' followed by a pain cry ('Ah!') is brief vocal reaction rather than an elaborate verbal hook.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: extreme close-up on defiant eyes instantly broken by a violent two-handed shove sending Juliana crashing hard onto wet stone path.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B024",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Alexander tear the intruders apart with his bare hands for harming Juliana?",
+        "stakes_importance": "High \u2014 intense physical standoff with the protector standing between the victim and armed thugs with lethal intent.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B015",
+          "end_beat_id": "B024",
+          "start_time": 46.5,
+          "end_time": 78.5,
+          "duration": 32.0,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_12",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B015",
+      "end_beat_id": "B025",
+      "start_time": 46.5,
+      "end_time": 82.8,
+      "duration": 36.3,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A single defiant 'No' followed by a pain cry ('Ah!') is brief vocal reaction rather than an elaborate verbal hook.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: extreme close-up on defiant eyes instantly broken by a violent two-handed shove sending Juliana crashing hard onto wet stone path.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Alexander unleash his combat training against the armed thugs despite being outnumbered?",
+        "stakes_importance": "High \u2014 direct taunt challenging a dangerous veteran, establishing imminent bloodshed.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B015",
+          "end_beat_id": "B025",
+          "start_time": 46.5,
+          "end_time": 82.8,
+          "duration": 36.3,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_13",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B015",
+      "end_beat_id": "B026",
+      "start_time": 46.5,
+      "end_time": 86.0,
+      "duration": 39.5,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A single defiant 'No' followed by a pain cry ('Ah!') is brief vocal reaction rather than an elaborate verbal hook.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: extreme close-up on defiant eyes instantly broken by a violent two-handed shove sending Juliana crashing hard onto wet stone path.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander slaughter or repel all three armed thugs before Juliana suffers further injury?",
+        "stakes_importance": "High \u2014 ultimate peak of suspended violence with sound swell cutting right as the clash erupts.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B015",
+          "end_beat_id": "B026",
+          "start_time": 46.5,
+          "end_time": 86.0,
+          "duration": 39.5,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_14",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B016",
+      "end_beat_id": "B026",
+      "start_time": 49.5,
+      "end_time": 86.0,
+      "duration": 36.5,
+      "hook_signal": {
+        "beat_id": "B016",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Extreme visual drama: close-up tracking down as fresh crimson blood profuses through white gauze bandages while she crawls through mud.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander slaughter or repel all three armed thugs before Juliana suffers further injury?",
+        "stakes_importance": "High \u2014 ultimate peak of suspended violence with sound swell cutting right as the clash erupts.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B016",
+          "end_beat_id": "B026",
+          "start_time": 49.5,
+          "end_time": 86.0,
+          "duration": 36.5,
+          "beat_ids": [
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_15",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B017",
+      "end_beat_id": "B026",
+      "start_time": 53.5,
+      "end_time": 86.0,
+      "duration": 32.5,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "A heartbreaking whisper ('My mother's plants...') instantly communicates sentimental loss and stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight close-up on a mud-streaked, tear-stained face trembling in acute agony.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander slaughter or repel all three armed thugs before Juliana suffers further injury?",
+        "stakes_importance": "High \u2014 ultimate peak of suspended violence with sound swell cutting right as the clash erupts.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B017",
+          "end_beat_id": "B026",
+          "start_time": 53.5,
+          "end_time": 86.0,
+          "duration": 32.5,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_16",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B019",
+      "end_beat_id": "B026",
+      "start_time": 60.0,
+      "end_time": 86.0,
+      "duration": 26.0,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A standard panicked plea ('Stop!') offers minimal verbal context.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Immediate physical jeopardy: tall thug hoists a heavy wooden club overhead poised to strike directly in front of her.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander slaughter or repel all three armed thugs before Juliana suffers further injury?",
+        "stakes_importance": "High \u2014 ultimate peak of suspended violence with sound swell cutting right as the clash erupts.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B019",
+          "end_beat_id": "B026",
+          "start_time": 60.0,
+          "end_time": 86.0,
+          "duration": 26.0,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP015_17",
+      "episode": "Episode 15",
+      "episode_number": 15,
+      "start_beat_id": "B021",
+      "end_beat_id": "B026",
+      "start_time": 63.2,
+      "end_time": 86.0,
+      "duration": 22.8,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: dynamic medium tracking shot of a towering hero charging through misty moonlight with billowing coat and untamed rage.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander slaughter or repel all three armed thugs before Juliana suffers further injury?",
+        "stakes_importance": "High \u2014 ultimate peak of suspended violence with sound swell cutting right as the clash erupts.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 15,
+          "start_beat_id": "B021",
+          "end_beat_id": "B026",
+          "start_time": 63.2,
+          "end_time": 86.0,
+          "duration": 22.8,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

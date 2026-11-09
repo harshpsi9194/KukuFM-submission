@@ -1,0 +1,308 @@
+{
+  "episode_number": 4,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP004_17",
+      "absolute_rubric_score": 9.8,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.5,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B039",
+        "end_beat_id": "B045",
+        "start_time": 110.0,
+        "end_time": 134.8,
+        "duration": 24.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "By the authority entrusted to me, I now pronounce you...",
+        "opening_character": "THE PRIEST",
+        "rationale": "Explosive climactic rupture: altar pronouncement instantly shattered by Gerald lunging and screaming 'You have thrown yourself away!'"
+      },
+      "cliffhanger": {
+        "final_quote": "You are disowned!",
+        "final_character": "LADY ASHCROFT",
+        "specific_question": "Where can Juliana go and how will she survive now that her mother has stripped her of name, home, and inheritance?"
+      },
+      "situational_summary": "At the conclusion of a wedding ceremony, a furious suitor attacks a bride for marrying a penniless man, prompting her proud defiance and her mother's immediate declaration of disownment.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP004_15",
+      "absolute_rubric_score": 9.3,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.1584,
+      "max_similarity_to_selected": 0.7684,
+      "boundary": {
+        "start_beat_id": "B035",
+        "end_beat_id": "B045",
+        "start_time": 100.2,
+        "end_time": 134.8,
+        "duration": 34.6,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "You are disowned!",
+        "final_character": "LADY ASHCROFT",
+        "specific_question": "Where can Juliana go and how will she survive now that her mother has stripped her of name, home, and inheritance?"
+      },
+      "situational_summary": "After marrying an enigmatic protector and defying her arrogant ex, a young woman is viciously disowned by her family matriarch.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP004_14",
+      "absolute_rubric_score": 8.6,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.2
+      },
+      "mmr_score": -0.0275,
+      "max_similarity_to_selected": 0.8759,
+      "boundary": {
+        "start_beat_id": "B035",
+        "end_beat_id": "B043",
+        "start_time": 100.2,
+        "end_time": 127.4,
+        "duration": 27.2,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Will Gerald lash out violently or break down after having his pride completely shattered in front of the guests?"
+      },
+      "situational_summary": "During her wedding to a mysterious man, a bride shuts down her furious ex's insults with proud defiance, leaving him stunned and humiliated.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP004_08",
+      "absolute_rubric_score": 8.3,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.0,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.0828,
+      "max_similarity_to_selected": 0.7952,
+      "boundary": {
+        "start_beat_id": "B006",
+        "end_beat_id": "B024",
+        "start_time": 10.5,
+        "end_time": 65.8,
+        "duration": 55.3,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You have finally found a man as worthless as everyone thinks you are.",
+        "opening_character": "CLARISSA",
+        "rationale": "Public humiliation and vicious verbal assault: 'You have finally found a man as worthless as everyone thinks you are.'"
+      },
+      "cliffhanger": {
+        "final_quote": "It is a vow.",
+        "final_character": "MYSTERIOUS BEARDED MAN",
+        "specific_question": "Will Juliana accept this solemn vow and marry the dangerous stranger on the spot?"
+      },
+      "situational_summary": "Publicly humiliated by her family in a chapel, a cast-off woman questions a kneeling stranger offering a ring, who solemnly swears his proposal is a vow rather than pity.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP004_10",
+      "absolute_rubric_score": 7.2,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 1.8
+      },
+      "mmr_score": -0.3194,
+      "max_similarity_to_selected": 0.8117,
+      "boundary": {
+        "start_beat_id": "B025",
+        "end_beat_id": "B040",
+        "start_time": 65.8,
+        "end_time": 119.0,
+        "duration": 53.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "I don't know this man.",
+        "opening_character": "JULIANA",
+        "rationale": "High-stakes marital pivot: Juliana narrates her family's betrayal before publicly declaring 'Then I accept.'"
+      },
+      "cliffhanger": {
+        "final_quote": "For a penniless nobody!",
+        "final_character": "GERALD",
+        "specific_question": "Will the mysterious husband reveal his true royal identity or status to crush Gerald's venomous outburst?"
+      },
+      "situational_summary": "Abandoned by her cold family in church, a young noblewoman decides to marry a total stranger at the altar, defying expectations and provoking an enraged man in the pews to charge forward.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP004_16",
+      "rank": 3,
+      "recommended_boundary": "B039 -> B044",
+      "similarity": 0.9715,
+      "duplicate_of": "CAND_EP004_17",
+      "reason": "Exceeded near-duplicate threshold (0.9715 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP004_18",
+      "rank": 4,
+      "recommended_boundary": "B039 -> B047",
+      "similarity": 0.9918,
+      "duplicate_of": "CAND_EP004_17",
+      "reason": "Exceeded near-duplicate threshold (0.9918 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP004_16",
+      "rank": 3,
+      "recommended_boundary": "B039 -> B044",
+      "similarity": 0.9715,
+      "duplicate_of": "CAND_EP004_17",
+      "reason": "Exceeded near-duplicate threshold (0.9715 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP004_18",
+      "rank": 4,
+      "recommended_boundary": "B039 -> B047",
+      "similarity": 0.9918,
+      "duplicate_of": "CAND_EP004_17",
+      "reason": "Exceeded near-duplicate threshold (0.9918 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP004_16",
+      "rank": 3,
+      "recommended_boundary": "B039 -> B044",
+      "similarity": 0.9715,
+      "duplicate_of": "CAND_EP004_17",
+      "reason": "Exceeded near-duplicate threshold (0.9715 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP004_18",
+      "rank": 4,
+      "recommended_boundary": "B039 -> B047",
+      "similarity": 0.9918,
+      "duplicate_of": "CAND_EP004_17",
+      "reason": "Exceeded near-duplicate threshold (0.9918 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP004_13",
+      "rank": 6,
+      "recommended_boundary": "B035 -> B042",
+      "similarity": 0.912,
+      "duplicate_of": "CAND_EP004_14",
+      "reason": "Exceeded near-duplicate threshold (0.9120 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP004_16",
+      "rank": 3,
+      "recommended_boundary": "B039 -> B044",
+      "similarity": 0.9715,
+      "duplicate_of": "CAND_EP004_17",
+      "reason": "Exceeded near-duplicate threshold (0.9715 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP004_18",
+      "rank": 4,
+      "recommended_boundary": "B039 -> B047",
+      "similarity": 0.9918,
+      "duplicate_of": "CAND_EP004_17",
+      "reason": "Exceeded near-duplicate threshold (0.9918 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP004_13",
+      "rank": 6,
+      "recommended_boundary": "B035 -> B042",
+      "similarity": 0.912,
+      "duplicate_of": "CAND_EP004_14",
+      "reason": "Exceeded near-duplicate threshold (0.9120 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP004_05",
+      "rank": 8,
+      "recommended_boundary": "B006 -> B020",
+      "similarity": 0.9634,
+      "duplicate_of": "CAND_EP004_08",
+      "reason": "Exceeded near-duplicate threshold (0.9634 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP004_07",
+      "rank": 9,
+      "recommended_boundary": "B006 -> B022",
+      "similarity": 0.9331,
+      "duplicate_of": "CAND_EP004_08",
+      "reason": "Exceeded near-duplicate threshold (0.9331 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP004_06",
+      "rank": 10,
+      "recommended_boundary": "B006 -> B021",
+      "similarity": 0.9415,
+      "duplicate_of": "CAND_EP004_08",
+      "reason": "Exceeded near-duplicate threshold (0.9415 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP004_04",
+      "rank": 11,
+      "recommended_boundary": "B006 -> B016",
+      "similarity": 0.9469,
+      "duplicate_of": "CAND_EP004_08",
+      "reason": "Exceeded near-duplicate threshold (0.9469 >= 0.90)"
+    }
+  ]
+}

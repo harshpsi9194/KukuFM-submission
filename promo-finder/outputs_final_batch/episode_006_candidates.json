@@ -1,0 +1,554 @@
+{
+  "episode_number": 6,
+  "total_candidates": 9,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP006_01",
+      "episode": "Episode 6",
+      "episode_number": 6,
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "start_time": 0.0,
+      "end_time": 33.7,
+      "duration": 33.7,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama: a bride clutching a muddy white satin gown while trudging through a dark, rain-soaked forest creates immediate high-contrast narrative intrigue on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "Who subjected Juliana to such terrible humiliation back at the wedding, and can she truly escape them here?",
+        "stakes_importance": "High \u2014 directly invokes the deep emotional trauma of her betrayal and her determination to endure.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 6,
+          "start_beat_id": "B001",
+          "end_beat_id": "B010",
+          "start_time": 0.0,
+          "end_time": 33.7,
+          "duration": 33.7,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP006_02",
+      "episode": "Episode 6",
+      "episode_number": 6,
+      "start_beat_id": "B002",
+      "end_beat_id": "B010",
+      "start_time": 7.1,
+      "end_time": 33.7,
+      "duration": 26.6,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "The line 'I know this is not the life you came from' sets up class disparity but lacks explosive conflict or urgency.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of a soaked, rain-streaked scarred face introduces strong character mystery and visual friction.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "Who subjected Juliana to such terrible humiliation back at the wedding, and can she truly escape them here?",
+        "stakes_importance": "High \u2014 directly invokes the deep emotional trauma of her betrayal and her determination to endure.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 6,
+          "start_beat_id": "B002",
+          "end_beat_id": "B010",
+          "start_time": 7.1,
+          "end_time": 33.7,
+          "duration": 26.6,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP006_03",
+      "episode": "Episode 6",
+      "episode_number": 6,
+      "start_beat_id": "B011",
+      "end_beat_id": "B019",
+      "start_time": 33.7,
+      "end_time": 61.3,
+      "duration": 27.6,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Threshold crossing into a pitch-black, barren room carries atmospheric Gothic tension and visual discovery.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "What profound disappointment is Juliana harboring, and who is the true target of her sorrow?",
+        "stakes_importance": "High \u2014 creates a sharp, suspended emotional pause when she admits 'I am' disappointed, leaving the true cause hanging.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 6,
+          "start_beat_id": "B011",
+          "end_beat_id": "B019",
+          "start_time": 33.7,
+          "end_time": 61.3,
+          "duration": 27.6,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP006_04",
+      "episode": "Episode 6",
+      "episode_number": 6,
+      "start_beat_id": "B011",
+      "end_beat_id": "B022",
+      "start_time": 33.7,
+      "end_time": 74.3,
+      "duration": 40.6,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Threshold crossing into a pitch-black, barren room carries atmospheric Gothic tension and visual discovery.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 4,
+        "specific_question": "What unbearable betrayals and losses will consume Juliana if she dares to stop scrubbing?",
+        "stakes_importance": "High \u2014 exposes the raw, agonizing grief of the protagonist under her composed exterior.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 6,
+          "start_beat_id": "B011",
+          "end_beat_id": "B022",
+          "start_time": 33.7,
+          "end_time": 74.3,
+          "duration": 40.6,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP006_05",
+      "episode": "Episode 6",
+      "episode_number": 6,
+      "start_beat_id": "B015",
+      "end_beat_id": "B022",
+      "start_time": 43.3,
+      "end_time": 74.3,
+      "duration": 31.0,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "The lines 'You came from comfort. This is all I can give you now' explain circumstances clearly but without explosive shock.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Juliana dropping her dark cloak to expose her damp bridal gown inside a bleak, decaying shack creates an arrestingly legible visual contrast on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 4,
+        "specific_question": "What unbearable betrayals and losses will consume Juliana if she dares to stop scrubbing?",
+        "stakes_importance": "High \u2014 exposes the raw, agonizing grief of the protagonist under her composed exterior.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 6,
+          "start_beat_id": "B015",
+          "end_beat_id": "B022",
+          "start_time": 43.3,
+          "end_time": 74.3,
+          "duration": 31.0,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP006_06",
+      "episode": "Episode 6",
+      "episode_number": 6,
+      "start_beat_id": "B021",
+      "end_beat_id": "B030",
+      "start_time": 64.1,
+      "end_time": 106.0,
+      "duration": 41.9,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Pragmatic domestic exchange ('If this is our home, I want it clean') lacks dramatic shock.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "A bride in wedding silks furiously scrubbing grime off a damp table while a man attempts to physically intervene provides striking visual incongruity.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B030",
+        "curiosity_gap_score": 4,
+        "specific_question": "What unexpected truth or shocking realization did Juliana discover about this stranger in the ashes of her ruined life?",
+        "stakes_importance": "High \u2014 creates a powerful ellipsis ('And yet...') contrasting total ruin with an unspoken revelation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 6,
+          "start_beat_id": "B021",
+          "end_beat_id": "B030",
+          "start_time": 64.1,
+          "end_time": 106.0,
+          "duration": 41.9,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP006_07",
+      "episode": "Episode 6",
+      "episode_number": 6,
+      "start_beat_id": "B022",
+      "end_beat_id": "B030",
+      "start_time": 69.5,
+      "end_time": 106.0,
+      "duration": 36.5,
+      "hook_signal": {
+        "beat_id": "B022",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "The raw admission 'If I stop now, I will think about everything I lost' delivers an immediate, poignant emotional rupture.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of a bride breaking down in suppressed grief while furiously cleaning conveys legible emotional friction.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B030",
+        "curiosity_gap_score": 4,
+        "specific_question": "What unexpected truth or shocking realization did Juliana discover about this stranger in the ashes of her ruined life?",
+        "stakes_importance": "High \u2014 creates a powerful ellipsis ('And yet...') contrasting total ruin with an unspoken revelation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 6,
+          "start_beat_id": "B022",
+          "end_beat_id": "B030",
+          "start_time": 69.5,
+          "end_time": 106.0,
+          "duration": 36.5,
+          "beat_ids": [
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP006_08",
+      "episode": "Episode 6",
+      "episode_number": 6,
+      "start_beat_id": "B026",
+      "end_beat_id": "B030",
+      "start_time": 81.0,
+      "end_time": 106.0,
+      "duration": 25.0,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Extreme close-up of flint and steel throwing bright showers of sparks into kindling offers an energetic visual burst.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B030",
+        "curiosity_gap_score": 4,
+        "specific_question": "What unexpected truth or shocking realization did Juliana discover about this stranger in the ashes of her ruined life?",
+        "stakes_importance": "High \u2014 creates a powerful ellipsis ('And yet...') contrasting total ruin with an unspoken revelation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 6,
+          "start_beat_id": "B026",
+          "end_beat_id": "B030",
+          "start_time": 81.0,
+          "end_time": 106.0,
+          "duration": 25.0,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP006_09",
+      "episode": "Episode 6",
+      "episode_number": 6,
+      "start_beat_id": "B027",
+      "end_beat_id": "B030",
+      "start_time": 83.8,
+      "end_time": 106.0,
+      "duration": 22.2,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 1,
+        "dialogue_hook_rationale": "A single practical confirmation ('There.') possesses zero hook strength.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "A blazing burst of firelight illuminating the rustic cottage and characters creates a vibrant, high-contrast visual shift.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B030",
+        "curiosity_gap_score": 4,
+        "specific_question": "What unexpected truth or shocking realization did Juliana discover about this stranger in the ashes of her ruined life?",
+        "stakes_importance": "High \u2014 creates a powerful ellipsis ('And yet...') contrasting total ruin with an unspoken revelation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 6,
+          "start_beat_id": "B027",
+          "end_beat_id": "B030",
+          "start_time": 83.8,
+          "end_time": 106.0,
+          "duration": 22.2,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "episode_number": 6,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 3
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP006_05",
+      "absolute_rubric_score": 7.3,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 1.7,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.0
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B015",
+        "end_beat_id": "B022",
+        "start_time": 43.3,
+        "end_time": 74.3,
+        "duration": 31.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You came from comfort.",
+        "opening_character": "MYSTERIOUS BEARDED MAN",
+        "rationale": "The lines 'You came from comfort. This is all I can give you now' explain circumstances clearly but without explosive shock."
+      },
+      "cliffhanger": {
+        "final_quote": "If I stop now, I will think about everything I lost.",
+        "final_character": "JULIANA",
+        "specific_question": "What unbearable betrayals and losses will consume Juliana if she dares to stop scrubbing?"
+      },
+      "situational_summary": "After a sudden marriage or escape, a bride in a damp wedding dress confronts her stark new reality in a humble cabin, frantically scrubbing furniture so she won't break down over everything she has lost.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP006_01",
+      "absolute_rubric_score": 6.4,
+      "subscores": {
+        "hook_score": 1.6,
+        "tension_score": 1.4,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 1.6
+      },
+      "mmr_score": -0.0034,
+      "max_similarity_to_selected": 0.8223,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B010",
+        "start_time": 0.0,
+        "end_time": 33.7,
+        "duration": 33.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "At least no one there will be waiting to humiliate me.",
+        "final_character": "JULIANA",
+        "specific_question": "Who subjected Juliana to such terrible humiliation back at the wedding, and can she truly escape them here?"
+      },
+      "situational_summary": "A runaway bride in a mud-soaked wedding dress walks through the rainy woods with a scarred man to seek refuge in a rustic cottage away from past humiliation.",
+      "emotional_salience_score": 3,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP006_09",
+      "absolute_rubric_score": 5.0,
+      "subscores": {
+        "hook_score": 0.5,
+        "tension_score": 1.1,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 1.5
+      },
+      "mmr_score": -0.1486,
+      "max_similarity_to_selected": 0.7376,
+      "boundary": {
+        "start_beat_id": "B027",
+        "end_beat_id": "B030",
+        "start_time": 83.8,
+        "end_time": 106.0,
+        "duration": 22.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "There.",
+        "opening_character": "MYSTERIOUS BEARDED MAN",
+        "rationale": "A single practical confirmation ('There.') possesses zero hook strength."
+      },
+      "cliffhanger": {
+        "final_quote": "And yet...",
+        "final_character": "JULIANA",
+        "specific_question": "What unexpected truth or shocking realization did Juliana discover about this stranger in the ashes of her ruined life?"
+      },
+      "situational_summary": "Having lost her home and family, a ruined woman finds temporary sanctuary in a modest room by a warm fire with a scarred, mysterious stranger.",
+      "emotional_salience_score": 3,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": []
+}

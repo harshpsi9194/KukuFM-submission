@@ -1,0 +1,306 @@
+{
+  "episode_number": 17,
+  "total_candidates": 5,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP017_01",
+      "episode": "Episode 17",
+      "episode_number": 17,
+      "start_beat_id": "B003",
+      "end_beat_id": "B010",
+      "start_time": 7.0,
+      "end_time": 31.5,
+      "duration": 24.5,
+      "hook_signal": {
+        "beat_id": "B003",
+        "dialogue_hook_score": 1,
+        "dialogue_hook_rationale": "\"Some of them survived\" provides mild reflective exposition with minimal standalone tension.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Medium close-up tilting up to a bruised, tear-streaked female face delivers high visual drama and emotional vulnerability instantly legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can this mysterious, scarred man truly protect Juliana against the powerful forces targeting her, or will this pledge lead to tragedy?",
+        "stakes_importance": "High \u2014 a solemn, knightly vow sealing their alliance in the face of violent opposition.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 17,
+          "start_beat_id": "B003",
+          "end_beat_id": "B010",
+          "start_time": 7.0,
+          "end_time": 31.5,
+          "duration": 24.5,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP017_02",
+      "episode": "Episode 17",
+      "episode_number": 17,
+      "start_beat_id": "B003",
+      "end_beat_id": "B012",
+      "start_time": 7.0,
+      "end_time": 36.5,
+      "duration": 29.5,
+      "hook_signal": {
+        "beat_id": "B003",
+        "dialogue_hook_score": 1,
+        "dialogue_hook_rationale": "\"Some of them survived\" provides mild reflective exposition with minimal standalone tension.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Medium close-up tilting up to a bruised, tear-streaked female face delivers high visual drama and emotional vulnerability instantly legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B012",
+        "curiosity_gap_score": 4,
+        "specific_question": "With Alexander unyieldingly binding his fate to Juliana's defense, what dark dangers will they face next?",
+        "stakes_importance": "High \u2014 intense microdrama romantic affirmation leaving viewers captivated by their unbreakable bond.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 17,
+          "start_beat_id": "B003",
+          "end_beat_id": "B012",
+          "start_time": 7.0,
+          "end_time": 36.5,
+          "duration": 29.5,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP017_03",
+      "episode": "Episode 17",
+      "episode_number": 17,
+      "start_beat_id": "B014",
+      "end_beat_id": "B019",
+      "start_time": 39.0,
+      "end_time": 63.5,
+      "duration": 24.5,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "\"You were bleeding last night\" immediately signals recent physical violence and danger to a cold listener.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up insert of bandaged hands dabbing a bloody, wounded knuckle with a wet cloth against firelight establishes immediate visceral drama without audio.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Alexander react to Juliana openly confessing that her greatest fear is losing him?",
+        "stakes_importance": "High \u2014 major emotional confession exposing raw romantic vulnerability between traumatized leads.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 17,
+          "start_beat_id": "B014",
+          "end_beat_id": "B019",
+          "start_time": 39.0,
+          "end_time": 63.5,
+          "duration": 24.5,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP017_04",
+      "episode": "Episode 17",
+      "episode_number": 17,
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 39.0,
+      "end_time": 66.0,
+      "duration": 27.0,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "\"You were bleeding last night\" immediately signals recent physical violence and danger to a cold listener.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up insert of bandaged hands dabbing a bloody, wounded knuckle with a wet cloth against firelight establishes immediate visceral drama without audio.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Alexander embrace Juliana and reciprocate her deep emotional confession, or keep his emotional walls up?",
+        "stakes_importance": "High \u2014 suspended reaction beat at the precipice of romantic consummation or retreat.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 17,
+          "start_beat_id": "B014",
+          "end_beat_id": "B020",
+          "start_time": 39.0,
+          "end_time": 66.0,
+          "duration": 27.0,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP017_05",
+      "episode": "Episode 17",
+      "episode_number": 17,
+      "start_beat_id": "B019",
+      "end_beat_id": "B027",
+      "start_time": 60.5,
+      "end_time": 118.88,
+      "duration": 58.38,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "\"Of losing you\" is a direct, emotional confession of deep attachment and existential romantic stakes.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Direct close-up with eyes laid bare conveys stark emotional exposure instantly legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 4,
+        "specific_question": "What seismic secrets is Alexander hiding about his real identity and past, and will discovering them destroy Juliana's faith in him?",
+        "stakes_importance": "High \u2014 directly exposes the central mystery that Juliana married an enigma whose hidden status and past threaten their future.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 17,
+          "start_beat_id": "B019",
+          "end_beat_id": "B027",
+          "start_time": 60.5,
+          "end_time": 118.88,
+          "duration": 58.38,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

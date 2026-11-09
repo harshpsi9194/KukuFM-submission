@@ -1,0 +1,794 @@
+{
+  "episode": "Episode 19",
+  "episode_number": 19,
+  "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+  "continuity_notes": "Picks up directly from Episode 18's devastating fire; Juliana and Alexander stand amidst the morning ruins of Blackwood cottage with her mother's surviving herbal book before retreating to an abandoned barn.",
+  "duration": 119.63,
+  "total_beats": 29,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 4.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Full shot of Juliana and Alexander standing side by side amidst the charred, smoldering wreckage of their destroyed cottage, thick smoke rising behind them into the overcast sky.",
+          "start": 0.0,
+          "end": 4.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana clutches her mother's scorched leather-bound herbal book against her chest, her face streaked with soot as she stares at the ruin in disbelief.",
+          "start": 0.0,
+          "end": 4.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "This was our home.",
+          "start": 1.8,
+          "end": 3.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Sorrowful, Hollow"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS \u2013 DAY"
+    },
+    {
+      "beat_id": "B002",
+      "start": 4.5,
+      "end": 9.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the blackened, heat-damaged leather ledger held in Juliana's linen-bandaged hands.",
+          "start": 4.5,
+          "end": 9.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "My mother's book almost burned with it.",
+          "start": 5.1,
+          "end": 8.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Emotional, Fragile"
+        },
+        {
+          "type": "action",
+          "description": "Juliana tenderly lifts a scorched corner of parchment, revealing the surviving botanical drawing of medicinal herbs inside.",
+          "start": 6.5,
+          "end": 9.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS \u2013 DAY"
+    },
+    {
+      "beat_id": "B003",
+      "start": 9.5,
+      "end": 11.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Alexander looking down at Juliana with quiet, stoic concern.",
+          "start": 9.5,
+          "end": 11.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS \u2013 DAY"
+    },
+    {
+      "beat_id": "B004",
+      "start": 11.8,
+      "end": 15.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread.",
+          "start": 11.8,
+          "end": 15.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "My lady. You cannot stay here.",
+          "start": 12.1,
+          "end": 15.2,
+          "timestamp_source": "given",
+          "character": "ELDER VILLAGER",
+          "emotion": "Respectful, Sincere"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS \u2013 DAY"
+    },
+    {
+      "beat_id": "B005",
+      "start": 15.5,
+      "end": 20.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana's tearful, soot-stained face as she listens.",
+          "start": 15.5,
+          "end": 18.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "There is an old barn near the village. It is empty.",
+          "start": 16.1,
+          "end": 19.0,
+          "timestamp_source": "given",
+          "character": "ELDER VILLAGER"
+        },
+        {
+          "type": "action",
+          "description": "The elder villager steps closer, resting a gentle, reassuring hand on Juliana's shoulder.",
+          "start": 18.5,
+          "end": 20.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Take it.",
+          "start": 19.4,
+          "end": 20.4,
+          "timestamp_source": "given",
+          "character": "ELDER VILLAGER",
+          "emotion": "Gentle, Earnest"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS \u2013 DAY"
+    },
+    {
+      "beat_id": "B006",
+      "start": 20.6,
+      "end": 22.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "We cannot ask the village to feed us.",
+          "start": 20.6,
+          "end": 22.6,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Hesitant, Humble"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS \u2013 DAY"
+    },
+    {
+      "beat_id": "B007",
+      "start": 23.2,
+      "end": 25.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "You saved my son's life.",
+          "start": 23.2,
+          "end": 25.2,
+          "timestamp_source": "given",
+          "character": "ELDER VILLAGER",
+          "emotion": "Warm, Grateful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS \u2013 DAY"
+    },
+    {
+      "beat_id": "B008",
+      "start": 25.8,
+      "end": 28.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the elder villager's rough, weathered hands offering a fresh loaf of artisan bread wrapped in cloth against the smoking timber ruins.",
+          "start": 25.8,
+          "end": 28.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You saved mine, too.",
+          "start": 26.4,
+          "end": 27.8,
+          "timestamp_source": "given",
+          "character": "ELDER VILLAGER"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS \u2013 DAY"
+    },
+    {
+      "beat_id": "B009",
+      "start": 28.2,
+      "end": 30.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief.",
+          "start": 28.2,
+          "end": 30.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Thank you.",
+          "start": 28.5,
+          "end": 29.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Whispering, Tearful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS \u2013 DAY"
+    },
+    {
+      "beat_id": "B010",
+      "start": 30.8,
+      "end": 34.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager.",
+          "start": 30.8,
+          "end": 34.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "We will not forget this kindness.",
+          "start": 31.2,
+          "end": 33.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Deep, Solemn"
+        },
+        {
+          "type": "dialogue",
+          "description": "Neither will the village.",
+          "start": 33.3,
+          "end": 34.8,
+          "timestamp_source": "given",
+          "character": "ELDER VILLAGER",
+          "emotion": "Nodding, Earnest"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS \u2013 DAY"
+    },
+    {
+      "beat_id": "B011",
+      "start": 34.8,
+      "end": 41.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly.",
+          "start": 34.8,
+          "end": 38.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Goodbye, Blackwood.",
+          "start": 35.5,
+          "end": 37.4,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Choked Up, Mournful"
+        },
+        {
+          "type": "action",
+          "description": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black.",
+          "start": 38.0,
+          "end": 41.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS \u2013 DAY"
+    },
+    {
+      "beat_id": "B012",
+      "start": 41.5,
+      "end": 46.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest.",
+          "start": 41.5,
+          "end": 44.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference.",
+          "start": 43.0,
+          "end": 46.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Your Grace.",
+          "start": 44.3,
+          "end": 45.8,
+          "timestamp_source": "given",
+          "character": "INFORMANT",
+          "emotion": "Subservient, Urgent"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B013",
+      "start": 46.0,
+      "end": 49.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.",
+          "start": 46.0,
+          "end": 49.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Tell me what is happening in Ashburg.",
+          "start": 47.1,
+          "end": 49.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Authoritative, Direct"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B014",
+      "start": 49.5,
+      "end": 54.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff.",
+          "start": 49.5,
+          "end": 54.8,
+          "timestamp_source": "given",
+          "character": "INFORMANT",
+          "emotion": "Grave, Cautious"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B015",
+      "start": 55.3,
+      "end": 61.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.",
+          "start": 55.3,
+          "end": 61.3,
+          "timestamp_source": "given",
+          "character": "INFORMANT"
+        },
+        {
+          "type": "camera",
+          "description": "Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens.",
+          "start": 55.3,
+          "end": 61.4,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B016",
+      "start": 61.4,
+      "end": 64.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the bald informant standing among the towering trees, reporting solemnly.",
+          "start": 61.4,
+          "end": 64.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And Lady Catherine, she behaves as though she is already the future duchess.",
+          "start": 61.6,
+          "end": 64.8,
+          "timestamp_source": "given",
+          "character": "INFORMANT",
+          "emotion": "Earnest"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B017",
+      "start": 64.8,
+      "end": 70.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the informant, his voice dropping into urgent, discreet concern.",
+          "start": 64.8,
+          "end": 70.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned.",
+          "start": 65.1,
+          "end": 70.5,
+          "timestamp_source": "given",
+          "character": "INFORMANT",
+          "emotion": "Whispering, Alarmed"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B018",
+      "start": 70.6,
+      "end": 73.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence.",
+          "start": 70.6,
+          "end": 73.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "There are almost no loyal servants left around her.",
+          "start": 70.9,
+          "end": 73.2,
+          "timestamp_source": "given",
+          "character": "INFORMANT"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B019",
+      "start": 73.3,
+      "end": 78.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot past Alexander toward the informant.",
+          "start": 73.3,
+          "end": 76.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The people who served your family for years have been dismissed, frightened away, or replaced.",
+          "start": 73.5,
+          "end": 76.4,
+          "timestamp_source": "given",
+          "character": "INFORMANT",
+          "emotion": "Grave"
+        },
+        {
+          "type": "action",
+          "description": "Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish.",
+          "start": 76.2,
+          "end": 78.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "My mother is a prisoner in her own house.",
+          "start": 76.5,
+          "end": 78.8,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Cold, Pained Fury"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B020",
+      "start": 78.8,
+      "end": 81.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the informant looking steadily at Alexander.",
+          "start": 78.8,
+          "end": 81.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And everyone believes you are dead.",
+          "start": 79.0,
+          "end": 81.0,
+          "timestamp_source": "given",
+          "character": "INFORMANT",
+          "emotion": "Quiet, Solemn"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B021",
+      "start": 81.2,
+      "end": 83.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Alexander's scarred eye and grimly set mouth.",
+          "start": 81.2,
+          "end": 83.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then let them believe it a little longer.",
+          "start": 81.5,
+          "end": 83.7,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Lethal, Calculating"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B022",
+      "start": 84.0,
+      "end": 85.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "And when we have the proof?",
+          "start": 84.0,
+          "end": 85.5,
+          "timestamp_source": "given",
+          "character": "INFORMANT",
+          "emotion": "Inquiring, Tense"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B023",
+      "start": 85.5,
+      "end": 89.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog.",
+          "start": 85.5,
+          "end": 89.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then Ashburg will remember who it belongs to.",
+          "start": 85.9,
+          "end": 88.9,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Vow of Vengeance, Resolute"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. MISTY DEEP WOODS \u2013 DAY"
+    },
+    {
+      "beat_id": "B024",
+      "start": 89.5,
+      "end": 94.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern.",
+          "start": 89.5,
+          "end": 94.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ABANDONED BARN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B025",
+      "start": 94.0,
+      "end": 96.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the charred page of her mother's herbal.",
+          "start": 94.0,
+          "end": 96.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ABANDONED BARN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B026",
+      "start": 96.8,
+      "end": 103.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers.",
+          "start": 96.8,
+          "end": 97.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm.",
+          "start": 97.2,
+          "end": 100.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "We have lost everything.",
+          "start": 97.4,
+          "end": 99.4,
+          "timestamp_source": "given",
+          "character": "JULIANA"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping.",
+          "start": 99.9,
+          "end": 103.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I don't know what we will do tomorrow.",
+          "start": 100.4,
+          "end": 102.6,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Despairing, Broken"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ABANDONED BARN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B027",
+      "start": 103.0,
+      "end": 109.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Alexander steps up behind her and gently drapes the thick woolen blanket over her trembling shoulders, resting his hands reassuringly on her.",
+          "start": 103.0,
+          "end": 106.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Tomorrow, we begin again.",
+          "start": 104.2,
+          "end": 106.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Soft, Steadfast"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana turning her tear-drenched eyes up toward Alexander, her face filled with longing and newfound hope.",
+          "start": 106.0,
+          "end": 109.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You make it sound so simple.",
+          "start": 107.3,
+          "end": 109.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Faint Smile, Emotional"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ABANDONED BARN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B028",
+      "start": 109.8,
+      "end": 112.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Alexander sits down beside her in the straw. Juliana leans gently against his shoulder, letting her weary head rest against his broad chest.",
+          "start": 109.8,
+          "end": 112.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ABANDONED BARN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B029",
+      "start": 112.5,
+      "end": 119.63,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.",
+          "start": 112.5,
+          "end": 119.63,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ABANDONED BARN \u2013 NIGHT"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "episode_number": 22,
+  "total_llm_calls": 8,
+  "total_wall_clock_seconds": 109.08,
+  "total_wall_clock_minutes": 1.82,
+  "total_input_tokens": 20775,
+  "total_output_tokens": 6475,
+  "total_estimated_cost_usd": 0.003501,
+  "stage_breakdown": {
+    "Stage 0: Parsing": {
+      "calls": 0,
+      "latency_seconds": 0.004,
+      "summary": "34 beats parsed, duration: 131.0s"
+    },
+    "Stage 1: Detection": {
+      "calls": 2,
+      "latency_seconds": 38.868,
+      "summary": "34 hook signals, 34 cliffhanger signals"
+    },
+    "Stage 2: Window Search": {
+      "calls": 0,
+      "latency_seconds": 0.002,
+      "summary": "Capped candidate count: 17"
+    },
+    "Stage 3: Merged Scoring": {
+      "calls": 5,
+      "latency_seconds": 32.485,
+      "summary": "17 candidates scored in 5 calls"
+    },
+    "Stage 4: Absolute Ranking": {
+      "calls": 1,
+      "latency_seconds": 37.424,
+      "summary": "Ranked 8 candidates in 1 call (pure absolute rubric)"
+    },
+    "Stage 5: Portfolio Selection": {
+      "calls": 0,
+      "latency_seconds": 0.296,
+      "summary": "3 promos selected via pure Python MMR"
+    }
+  }
+}

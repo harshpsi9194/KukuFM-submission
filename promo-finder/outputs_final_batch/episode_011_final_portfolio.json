@@ -1,0 +1,218 @@
+{
+  "episode_number": 11,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP011_09",
+      "absolute_rubric_score": 9.4,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B014",
+        "end_beat_id": "B020",
+        "start_time": 61.8,
+        "end_time": 99.2,
+        "duration": 37.4,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "Please! There is nothing here!",
+        "opening_character": "JULIANA",
+        "rationale": "Sharp emotional accusation exposing the malicious motive ('You planted this accusation because you cannot bear that I am happy without you!')."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "How did the stolen pocket watch end up in Alexander's coat, and will he be arrested immediately?"
+      },
+      "situational_summary": "While a constable searches a modest cottage under a vindictive aristocrat's watchful eye, a framed stolen pocket watch is discovered inside a restrained soldier's coat.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP011_10",
+      "absolute_rubric_score": 8.8,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.4,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0197,
+      "max_similarity_to_selected": 0.8728,
+      "boundary": {
+        "start_beat_id": "B014",
+        "end_beat_id": "B021",
+        "start_time": 61.8,
+        "end_time": 102.0,
+        "duration": 40.2,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "Please! There is nothing here!",
+        "opening_character": "JULIANA",
+        "rationale": "Sharp emotional accusation exposing the malicious motive ('You planted this accusation because you cannot bear that I am happy without you!')."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "How will Alexander retaliate against Gerald now that he realizes he has been framed?"
+      },
+      "situational_summary": "A woman confronts a malicious aristocrat during a constable's raid on her home, ending in silent terror when the planted watch is found in her partner's coat.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP011_03",
+      "absolute_rubric_score": 8.5,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.9
+      },
+      "mmr_score": -0.0468,
+      "max_similarity_to_selected": 0.8678,
+      "boundary": {
+        "start_beat_id": "B008",
+        "end_beat_id": "B011",
+        "start_time": 16.8,
+        "end_time": 53.6,
+        "duration": 36.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Your husband stole my gold pocket watch!",
+        "opening_character": "GERALD",
+        "rationale": "An explosive criminal allegation ('Your husband stole my gold pocket watch!') instantly establishing extreme conflict."
+      },
+      "cliffhanger": {
+        "final_quote": "Let them.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Why does Alexander willingly invite the constable to search their cottage despite Juliana's panic?"
+      },
+      "situational_summary": "Accused of harboring a thief when a rival demands a constable search their cottage for a stolen pocket watch, a woman tries to bar the entrance until her husband unexpectedly permits the search.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP011_13",
+      "absolute_rubric_score": 8.2,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 1.9
+      },
+      "mmr_score": -0.1039,
+      "max_similarity_to_selected": 0.8419,
+      "boundary": {
+        "start_beat_id": "B019",
+        "end_beat_id": "B023",
+        "start_time": 85.0,
+        "end_time": 112.75,
+        "duration": 27.75,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "One blow would end this.",
+        "opening_character": "ALEXANDER",
+        "rationale": "Deadly suppressed resolve ('One blow would end this... But one blow would destroy her life.') captures intense stakes."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Can Alexander and Juliana disprove this devastating frame-up before Alexander is condemned for theft?"
+      },
+      "situational_summary": "While restrained by a Constable, an accused man watches helplessly as an officer pulls a stolen gold pocket watch from his coat lining, confirming a devastating frame-up to the delight of his smirking rival.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP011_06",
+      "absolute_rubric_score": 8.2,
+      "subscores": {
+        "hook_score": 1.3,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": -0.1867,
+      "max_similarity_to_selected": 0.8733,
+      "boundary": {
+        "start_beat_id": "B012",
+        "end_beat_id": "B020",
+        "start_time": 54.0,
+        "end_time": 99.2,
+        "duration": 45.2,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "How did the stolen pocket watch end up in Alexander's coat, and will he be arrested immediately?"
+      },
+      "situational_summary": "During a vindictive cottage search orchestrated by a bitter ex, a constable discovers a stolen gold pocket watch hidden inside a soldier's coat.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP011_08",
+      "rank": 2,
+      "recommended_boundary": "B013 -> B020",
+      "similarity": 0.9068,
+      "duplicate_of": "CAND_EP011_09",
+      "reason": "Exceeded near-duplicate threshold (0.9068 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP011_08",
+      "rank": 2,
+      "recommended_boundary": "B013 -> B020",
+      "similarity": 0.9068,
+      "duplicate_of": "CAND_EP011_09",
+      "reason": "Exceeded near-duplicate threshold (0.9068 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP011_08",
+      "rank": 2,
+      "recommended_boundary": "B013 -> B020",
+      "similarity": 0.9068,
+      "duplicate_of": "CAND_EP011_09",
+      "reason": "Exceeded near-duplicate threshold (0.9068 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP011_08",
+      "rank": 2,
+      "recommended_boundary": "B013 -> B020",
+      "similarity": 0.9068,
+      "duplicate_of": "CAND_EP011_09",
+      "reason": "Exceeded near-duplicate threshold (0.9068 >= 0.90)"
+    }
+  ]
+}

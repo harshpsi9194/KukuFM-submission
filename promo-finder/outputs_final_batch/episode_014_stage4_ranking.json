@@ -1,0 +1,118 @@
+{
+  "episode_number": 14,
+  "total_ranked": 7,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP014_02",
+      "absolute_score": 9.3,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "rank_justification": "Pairs an immediate visceral visual hook of bleeding hands in blackthorn thorns with relentless escalation from physical retrieval to ransom release. Cuts sharply on the husband's furious, anguished demand 'What have they done to you?', creating a peak curiosity gap and immense protective emotional resonance for cold viewers.",
+      "duration": 25.5,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "emotional_salience_score": 5,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP014_03",
+      "absolute_score": 9.1,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.4
+      },
+      "rank_justification": "Capitalizes on the visceral bloody hand reveal in the opening seconds before building steady dramatic tension through the release of the shackled husband. Closes perfectly on Juliana's stoic, heartbreaking line 'Nothing they didn't promise,' establishing profound romantic sacrifice and urgent curiosity regarding the conspirators.",
+      "duration": 29.5,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "emotional_salience_score": 5,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP014_01",
+      "absolute_score": 8.2,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "Opens with an arresting, visceral macro-shot of a bloody, lacerated hand uncurling in sharp briars with a signet ring, seizing immediate visual attention. The mid-arc swiftly resolves the hostage exchange and cuts on the trembling inspection of her mutilation, delivering high emotional resonance with a slightly soft dramatic exit point.",
+      "duration": 23.0,
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "emotional_salience_score": 4,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP014_10",
+      "absolute_score": 7.6,
+      "subscores": {
+        "hook_score": 1.6,
+        "tension_score": 1.8,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.0
+      },
+      "rank_justification": "Begins with a slower, quiet domestic hearth scene whose emotional dialogue carries narrative weight but lacks an instantaneous cold-scroll shock. However, the intimate caretaking escalates smoothly into simmering protective fury, punctuated by a strong visual cliffhanger of clenched scarred knuckles beside a bloody water bucket.",
+      "duration": 44.13,
+      "start_beat_id": "B013",
+      "end_beat_id": "B022",
+      "emotional_salience_score": 4,
+      "rank": 4
+    },
+    {
+      "candidate_id": "CAND_EP014_04",
+      "absolute_score": 7.5,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 1.7,
+        "cliffhanger_score": 1.4,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "Commands early attention with the gruesome briar clawing visual, but the extended 38.5s run-time defuses urgency as the husband scoops her up and begins departure. The cliffhanger leans into a sentimental closure beat rather than an unresolved tension rupture, softening conversion power.",
+      "duration": 38.5,
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "emotional_salience_score": 4,
+      "rank": 5
+    },
+    {
+      "candidate_id": "CAND_EP014_06",
+      "absolute_score": 7.0,
+      "subscores": {
+        "hook_score": 1.8,
+        "tension_score": 1.9,
+        "cliffhanger_score": 1.4,
+        "resonance_score": 1.9
+      },
+      "rank_justification": "Trades the instantaneous visceral gore hook for a dialogue-led demand to release her husband, which requires slightly more context to process. The arc escalates well through the emotional reunion, but terminating on the bridal carry resolves the immediate physical crisis and defuses narrative suspense.",
+      "duration": 29.0,
+      "start_beat_id": "B003",
+      "end_beat_id": "B010",
+      "emotional_salience_score": 4,
+      "rank": 6
+    },
+    {
+      "candidate_id": "CAND_EP014_09",
+      "absolute_score": 6.4,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 1.6,
+        "cliffhanger_score": 1.3,
+        "resonance_score": 1.8
+      },
+      "rank_justification": "Starts in media res on the inspection of lacerated hands, lacking the initial high-stakes context and shock of the briar retrieval scene. At just 20 seconds, the brief emotional exchange moves too rapidly into a protective rescue exit, leaving an overly resolved romantic cadence rather than an urgent cliffhanger.",
+      "duration": 20.0,
+      "start_beat_id": "B006",
+      "end_beat_id": "B010",
+      "emotional_salience_score": 4,
+      "rank": 7
+    }
+  ]
+}

@@ -1,0 +1,1392 @@
+{
+  "episode_number": 2,
+  "stage": 4,
+  "total_candidates": 16,
+  "total_matchups": 120,
+  "position_bias": {
+    "position_a_wins": 64,
+    "position_b_wins": 56,
+    "position_a_win_rate": 0.5333,
+    "position_b_win_rate": 0.4667
+  },
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP002_286",
+      "rank": 1,
+      "strength": 6.4803,
+      "wins": 15,
+      "losses": 0,
+      "win_rate": 1.0,
+      "narrative_thread": "Juliana Defiant Indictment & Climax",
+      "recommended_boundary": "B027 -> B034",
+      "duration": 27.5
+    },
+    {
+      "candidate_id": "CAND_EP002_281",
+      "rank": 2,
+      "strength": 1.7819,
+      "wins": 12,
+      "losses": 3,
+      "win_rate": 0.8,
+      "narrative_thread": "Clarissa Sister Shaming & Matriarch Condescension",
+      "recommended_boundary": "B026 -> B034",
+      "duration": 30.8
+    },
+    {
+      "candidate_id": "CAND_EP002_234",
+      "rank": 3,
+      "strength": 1.7819,
+      "wins": 12,
+      "losses": 3,
+      "win_rate": 0.8,
+      "narrative_thread": "Clarissa Sister Shaming & Matriarch Condescension",
+      "recommended_boundary": "B020 -> B031",
+      "duration": 29.4
+    },
+    {
+      "candidate_id": "CAND_EP002_237",
+      "rank": 4,
+      "strength": 1.3005,
+      "wins": 11,
+      "losses": 4,
+      "win_rate": 0.733,
+      "narrative_thread": "Clarissa Sister Shaming & Matriarch Condescension",
+      "recommended_boundary": "B020 -> B033",
+      "duration": 39.8
+    },
+    {
+      "candidate_id": "CAND_EP002_215",
+      "rank": 5,
+      "strength": 0.9704,
+      "wins": 10,
+      "losses": 5,
+      "win_rate": 0.667,
+      "narrative_thread": "Clarissa Sister Shaming & Matriarch Condescension",
+      "recommended_boundary": "B018 -> B031",
+      "duration": 35.2
+    },
+    {
+      "candidate_id": "CAND_EP002_04",
+      "rank": 6,
+      "strength": 0.7332,
+      "wins": 9,
+      "losses": 6,
+      "win_rate": 0.6,
+      "narrative_thread": "Gerald Altar Rejection & Plainness Insult",
+      "recommended_boundary": "B001 -> B011",
+      "duration": 30.6
+    },
+    {
+      "candidate_id": "CAND_EP002_08",
+      "rank": 7,
+      "strength": 0.557,
+      "wins": 8,
+      "losses": 7,
+      "win_rate": 0.533,
+      "narrative_thread": "Gerald Altar Rejection & Plainness Insult",
+      "recommended_boundary": "B001 -> B016",
+      "duration": 44.8
+    },
+    {
+      "candidate_id": "CAND_EP002_115",
+      "rank": 8,
+      "strength": 0.557,
+      "wins": 8,
+      "losses": 7,
+      "win_rate": 0.533,
+      "narrative_thread": "Gerald Altar Rejection & Plainness Insult",
+      "recommended_boundary": "B009 -> B016",
+      "duration": 24.1
+    },
+    {
+      "candidate_id": "CAND_EP002_289",
+      "rank": 9,
+      "strength": 0.4227,
+      "wins": 7,
+      "losses": 8,
+      "win_rate": 0.467,
+      "narrative_thread": "Juliana Defiant Indictment & Climax",
+      "recommended_boundary": "B027 -> B037",
+      "duration": 40.7
+    },
+    {
+      "candidate_id": "CAND_EP002_07",
+      "rank": 10,
+      "strength": 0.3185,
+      "wins": 6,
+      "losses": 9,
+      "win_rate": 0.4,
+      "narrative_thread": "Gerald Altar Rejection & Plainness Insult",
+      "recommended_boundary": "B001 -> B014",
+      "duration": 37.2
+    },
+    {
+      "candidate_id": "CAND_EP002_288",
+      "rank": 11,
+      "strength": 0.3185,
+      "wins": 6,
+      "losses": 9,
+      "win_rate": 0.4,
+      "narrative_thread": "Juliana Defiant Indictment & Climax",
+      "recommended_boundary": "B027 -> B036",
+      "duration": 33.5
+    },
+    {
+      "candidate_id": "CAND_EP002_302",
+      "rank": 12,
+      "strength": 0.3185,
+      "wins": 6,
+      "losses": 9,
+      "win_rate": 0.4,
+      "narrative_thread": "Juliana Defiant Indictment & Climax",
+      "recommended_boundary": "B030 -> B037",
+      "duration": 33.5
+    },
+    {
+      "candidate_id": "CAND_EP002_156",
+      "rank": 13,
+      "strength": 0.2366,
+      "wins": 5,
+      "losses": 10,
+      "win_rate": 0.333,
+      "narrative_thread": "Juliana Defiant Indictment & Climax",
+      "recommended_boundary": "B011 -> B029",
+      "duration": 48.9
+    },
+    {
+      "candidate_id": "CAND_EP002_301",
+      "rank": 14,
+      "strength": 0.1201,
+      "wins": 3,
+      "losses": 12,
+      "win_rate": 0.2,
+      "narrative_thread": "Juliana Defiant Indictment & Climax",
+      "recommended_boundary": "B030 -> B036",
+      "duration": 26.3
+    },
+    {
+      "candidate_id": "CAND_EP002_306",
+      "rank": 15,
+      "strength": 0.0793,
+      "wins": 2,
+      "losses": 13,
+      "win_rate": 0.133,
+      "narrative_thread": "Juliana Defiant Indictment & Climax",
+      "recommended_boundary": "B033 -> B037",
+      "duration": 23.3
+    },
+    {
+      "candidate_id": "CAND_EP002_76",
+      "rank": 16,
+      "strength": 0.0234,
+      "wins": 0,
+      "losses": 15,
+      "win_rate": 0.0,
+      "narrative_thread": "Gerald Altar Rejection & Plainness Insult",
+      "recommended_boundary": "B006 -> B016",
+      "duration": 32.8
+    }
+  ],
+  "match_results": [
+    {
+      "match_id": "M000",
+      "candidate_a_id": "CAND_EP002_115",
+      "candidate_b_id": "CAND_EP002_234",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_115",
+      "rationale": "While Candidate A delivers a devastating paternal betrayal in a lean 24.1s, Candidate B represents the gold-standard dramatic arc for vertical short-form performance marketing: the victim-to-defiant-avenger transformation. Candidate B opens with an electric viral insult ('kitchen maid who wandered into the wrong wedding') and maintains escalating pressure across multiple antagonists before climaxing in Juliana's spine-chilling posture shift and public counter-strike ('Dignity? You abandoned a woman...'). Cutting on Gerald's visibly shaken reaction creates an irresistible curiosity gap that directly compels a cold audience to tap and see the immediate fallout.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on the complete emotional reversal arc and superior viral hook dialogue, not label order."
+    },
+    {
+      "match_id": "M001",
+      "candidate_a_id": "CAND_EP002_301",
+      "candidate_b_id": "CAND_EP002_156",
+      "winner_id": "CAND_EP002_301",
+      "loser_id": "CAND_EP002_156",
+      "rationale": "Candidate A delivers maximum punch in a compact 26.3s window, opening immediately on a righteous public indictment that stops the scroll and cutting on peak cliffhanger tension as Juliana commands the cathedral nave mid-sentence ('I may leave this chapel without a husband...'). While Candidate B captures the full gamut of family cruelty across 48.9s, it suffers from significant drop-off risk due to a long, repetitive sequence of three separate antagonists (father, sister, matriarch) berating the weeping bride before her turning point at beat B029. Candidate A capitalizes on pure female-empowerment catharsis with zero dead air, giving cold short-form viewers an immediate hook, uninterrupted escalation, and an urgent reason to tap 'Watch Episode 1'.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by Candidate A's superior duration efficiency (26.3s vs. 48.9s), immediate moral dominance hook, and sharper mid-sentence cliffhanger cut, not label order."
+    },
+    {
+      "match_id": "M002",
+      "candidate_a_id": "CAND_EP002_76",
+      "candidate_b_id": "CAND_EP002_302",
+      "winner_id": "CAND_EP002_302",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate B delivers an immediate verbal and visual hook within 2.5 seconds with Juliana's regal posture and biting accusation ('You abandoned a woman who trusted you...'), whereas Candidate A opens on a weak, generic plea ('Gerald... Look at me') that risks early scroll drop-off. Candidate B also commands higher viral and emotional intensity by executing a sharp power reversal from victimhood to sovereign defiance, holding the viewer spellbound through to a resounding empowerment cliffhanger ('...but I will not leave it believing I was the one who should be ashamed'). While Candidate A offers gut-wrenching familial betrayal, Candidate B's cathartic protagonist transformation is substantially more compelling and clickable for cold short-form vertical feeds.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on immediate hook strength and emotional empowerment arc, not label or presentation order."
+    },
+    {
+      "match_id": "M003",
+      "candidate_a_id": "CAND_EP002_234",
+      "candidate_b_id": "CAND_EP002_289",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_289",
+      "rationale": "Candidate A opens with significantly stronger cold-scroll thumb-stopping power ('You look like a kitchen maid who wandered into the wrong wedding') and delivers a tighter, high-velocity 29.4s arc from public humiliation to initial retaliation. It cuts on a genuine unresolved tension cliffhanger\u2014Juliana launching her counter-strike against Gerald's unfaithfulness\u2014compelling the viewer to tap 'Watch Episode 1' to see the fallout. By contrast, Candidate B runs 40.7s with a softer opening and completes Juliana's entire speech (B036-B037), resolving her moral triumph and self-vindication within the ad itself, which deflates the urgent click-through trigger.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven: evaluated on hook virality, punchier duration efficiency (29.4s vs 40.7s), and an open-loop cliffhanger cut versus Candidate B's self-contained resolution, completely independent of candidate ordering."
+    },
+    {
+      "match_id": "M004",
+      "candidate_a_id": "CAND_EP002_215",
+      "candidate_b_id": "CAND_EP002_07",
+      "winner_id": "CAND_EP002_215",
+      "loser_id": "CAND_EP002_07",
+      "rationale": "While Candidate B has an explosive first line ('I cannot marry you, Juliana'), Candidate A delivers a far superior complete dramatic arc and higher converting clip structure for cold vertical video. Candidate B leaves the protagonist in helpless victimhood begging an unyielding father with a soft question exit, whereas Candidate A delivers a visceral power shift from tearful humiliation into chilling, commanding defiance ('Dignity? You abandoned a woman...'), cutting directly on Gerald's fracturing composure at 35.2s. That victim-to-nemesis transformation creates a vastly stronger curiosity gap and emotional high that drives users to immediately tap 'Watch Episode 1'.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by the protagonist's emotional transformation and high-stakes cliffhanger cut, independent of label positioning."
+    },
+    {
+      "match_id": "M005",
+      "candidate_a_id": "CAND_EP002_286",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_08",
+      "rationale": "Candidate A operates with unmatched duration efficiency (27.5s vs 44.8s) and executes a full, emotionally cathartic protagonist power inversion that peaks at the exact right moment for short-form retention. While Candidate B delivers a brutal opening line, its middle arc stretches across 44.8 seconds of repeated victim humiliation and parental abandonment without offering the viewer an emotional turnaround or counter-punch before cutting. Candidate A immediately hooks on the arrogant expulsion order and rapidly builds into Juliana's icy, regal dismantling of Gerald's honor, ending on the devastating mic-drop cliffhanger ('You have shown them exactly what your word is worth') that compels cold viewers to swipe or tap Episode 1 to see his downfall.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on emotional inversion, punchy pacing (27.5s vs 44.8s), and cliffhanger bite, completely independent of candidate presentation order."
+    },
+    {
+      "match_id": "M006",
+      "candidate_a_id": "CAND_EP002_237",
+      "candidate_b_id": "CAND_EP002_286",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_237",
+      "rationale": "Candidate B is significantly more duration-efficient at 27.5s compared to Candidate A's 39.8s, stripping out 16 seconds of diffuse villain insults across multiple characters to hyper-focus on the direct confrontation. Crucially, Candidate B includes Beat B034 ('You have shown them exactly what your word is worth'), completing the devastating indictment and landing on a lethal, crowd-silencing cliffhanger beat where Gerald's aristocratic standing is publicly dismantled, whereas Candidate A awkwardly cuts mid-thought at B033 on an unfinished setup line ('But you have shown them something far more valuable.'). Candidate B delivers far tighter pacing, a sharper punchline-to-reaction cliffhanger, and avoids drop-off risk for a cold vertical video audience.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven: Candidate B captures the complete verbal mic-drop and superior duration efficiency rather than trailing off mid-sentence as Candidate A does."
+    },
+    {
+      "match_id": "M007",
+      "candidate_a_id": "CAND_EP002_288",
+      "candidate_b_id": "CAND_EP002_237",
+      "winner_id": "CAND_EP002_288",
+      "loser_id": "CAND_EP002_237",
+      "rationale": "Candidate A delivers a far superior narrative arc and cliffhanger exit by capturing the complete verbal evisceration of the groom and cutting on peak suspended tension ('I may leave this chapel without a husband...'). Candidate B opens with a vicious insult but dilutes its pacing across three separate antagonists (Clarissa, the Matriarch, Gerald) over 39.8s, ultimately cutting mid-setup at B033 before the punchline lands. Candidate A achieves maximum emotional payoff, tight conflict focus, and a breathless cliffhanger in 6.3 fewer seconds.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This is content-driven: Candidate A provides the actual climax of the confrontation and a high-stakes mid-sentence cliffhanger, whereas Candidate B terminates prematurely before the dramatic payoff."
+    },
+    {
+      "match_id": "M008",
+      "candidate_a_id": "CAND_EP002_301",
+      "candidate_b_id": "CAND_EP002_04",
+      "winner_id": "CAND_EP002_04",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "Candidate B opens with an undeniable 5/5 scroll-stopping line ('I cannot marry you, Juliana') backed immediately by the visual punch of Gerald sneering from the altar alongside a gloating rival in shimmering gold, grounding the entire inciting betrayal within 2.8 seconds. While Candidate A features an empowering verbal counterattack, it opens mid-argument and cuts off abruptly on an incomplete sentence ('I may leave this chapel without a husband...'), which feels more like a clumsy mid-speech truncation than an organic cliffhanger. Candidate B maintains agonizing narrative tension as Gerald systematically degrades Juliana before linking arms with Clarissa on the definitive gut-punch 'She is what I should have chosen from the beginning,' leaving cold viewers far more desperate to tap through to see Juliana's eventual revenge.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. Choice is strictly driven by B's immediate hook clarity and crisp punchline ending compared to A's mid-sentence dialogue cut, not position order."
+    },
+    {
+      "match_id": "M009",
+      "candidate_a_id": "CAND_EP002_289",
+      "candidate_b_id": "CAND_EP002_237",
+      "winner_id": "CAND_EP002_289",
+      "loser_id": "CAND_EP002_237",
+      "rationale": "While Candidate B opens on a sharp verbal insult, it suffers from an awkward, incomplete exit\u2014cutting mid-speech on beat B033 ('...shown them something far more valuable') right before the punchline lands, leaving the confrontation syntactically stranded rather than delivering an earned cliffhanger. Candidate A opens directly on Gerald's dismissive expulsion ('Go home quietly, Juliana... leave this chapel with some dignity'), immediately grounding the central conflict, and builds through Juliana's full power reclamation to land her definitive, spine-chilling mic-drop ('...what your word is worth' / 'I will not leave it believing I was the one who should be ashamed'). At virtually identical runtimes (~40s), Candidate A provides a complete, emotionally resonant protagonist transformation and dramatic climax that maximizes cold-audience conversion to Episode 2.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This choice is strictly content-driven based on ending cut integrity, arc completeness, and narrative payoff, not label or presentation order."
+    },
+    {
+      "match_id": "M010",
+      "candidate_a_id": "CAND_EP002_76",
+      "candidate_b_id": "CAND_EP002_281",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate B delivers the high-converting 'victim-to-defiant force' power shift that drives superior cold-audience retention and completion on vertical video platforms. While Candidate A captures deep vulnerability and compounded paternal rejection, its arc remains passive and despair-heavy throughout, risking viewer fatigue. Candidate B opens with an immediate high-status dialogue provocation ('You should be grateful you're at least allowed to attend...'), quickly pivots through an electrifying physical and emotional posture shift (B028\u2013B030), and culminates in a devastating, crowd-silencing indictment that leaves the antagonist publicly dismantled.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven: evaluated Candidate A's high-vulnerability plea against Candidate B's active agency and punchy moral retribution arc, regardless of candidate placement."
+    },
+    {
+      "match_id": "M011",
+      "candidate_a_id": "CAND_EP002_301",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_301",
+      "loser_id": "CAND_EP002_08",
+      "rationale": "Candidate A delivers a much tighter, high-velocity narrative arc in just 26.3 seconds, capitalizing on a visceral power reversal where the betrayed protagonist seizes total moral authority before the congregation. While Candidate B features an explosive opening rejection, its 44.8-second duration drags through repetitive pleading and victimhood before ending on a bleak parental dismissal that lacks an active protagonist pushback. In contrast, Candidate A cuts at peak unresolved tension mid-sentence ('I may leave this chapel without a husband...'), maximizing the curiosity gap and completion rate for a cold-audience scroll-stop promo with zero wasted duration.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on duration efficiency, the dramatic power reversal from victim to defiant authority, and the superior cliffhanger cut, not label order."
+    },
+    {
+      "match_id": "M012",
+      "candidate_a_id": "CAND_EP002_115",
+      "candidate_b_id": "CAND_EP002_237",
+      "winner_id": "CAND_EP002_237",
+      "loser_id": "CAND_EP002_115",
+      "rationale": "While Candidate A is compact (24.1s) and delivers a gut-wrenching paternal betrayal, it leaves the protagonist in total defeat and passive victimization, which frequently causes viewer friction or despondency rather than click-through intent. Candidate B opens on a brutal, high-auditory scroll-stopping insult ('You look like a kitchen maid...'), stacks escalating pressure across multiple antagonists (Clarissa, Matriarch, Gerald), and executes the quintessential microdrama power reversal where Juliana transforms from weeping victim into a regal, commanding force. Cutting on B033's intoxicating teaser ('You have shown them something far more valuable') delivers an irresistible curiosity gap that directly compels the cold viewer to tap 'Watch Episode 1' to hear her devastating revelation.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven by protagonist transformation and superior teaser cliffhanger dynamics, not position order."
+    },
+    {
+      "match_id": "M013",
+      "candidate_a_id": "CAND_EP002_04",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_08",
+      "loser_id": "CAND_EP002_04",
+      "rationale": "While Candidate A is 14.2s shorter, it cuts at B011 on Gerald's verbal assertion ('She is what I should have chosen from the beginning') before the full structural betrayal hits its narrative climax. Candidate B uses the additional runtime to deliver a catastrophic double betrayal: Juliana turns to the one institution that should protect her\u2014her father\u2014only to have him coldly order her to accept the humiliation ('Gerald has made his choice... Do not disgrace us further'). Cutting on the father's hardening eyes leaves the protagonist completely isolated and creates an exponentially stronger emotional gut-punch and click-through curiosity gap that fully justifies the 44.8s duration.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on the dramatic payoff of the second betrayal layer and superior cliffhanger cutoff, not candidate order."
+    },
+    {
+      "match_id": "M014",
+      "candidate_a_id": "CAND_EP002_07",
+      "candidate_b_id": "CAND_EP002_234",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_07",
+      "rationale": "While Candidate A opens with a classic altar betrayal, it leaves Juliana trapped in a passive victim state pleading with an unyielding father at 37.2s, resulting in a low-energy, downbeat cliffhanger. Candidate B is significantly tighter and more dynamic at 29.4s, opening with an immediate, vicious verbal slap ('kitchen maid who wandered into the wrong wedding') and delivering a complete emotional transformation from humiliated victim to defiant, regal force commanding the chapel. Cutting on Juliana's direct public indictment of Gerald's greed and Gerald's uneasy reaction creates peak curiosity and viewer satisfaction, making it far superior for driving high-intent cold-audience conversions.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on protagonist agency, narrative escalation, and superior duration efficiency (29.4s vs 37.2s), not label order."
+    },
+    {
+      "match_id": "M015",
+      "candidate_a_id": "CAND_EP002_281",
+      "candidate_b_id": "CAND_EP002_301",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "Candidate A delivers the superior dramatic arc by opening on the active provocation and condescension from the matriarch and groom ('leave this chapel with some dignity'), making Juliana's sudden shift into steely defiance ('Dignity?') and final verbal kill shot in B034 ('...exactly what your word is worth') feel earned and devastatingly impactful. Candidate B starts directly on Juliana's counter-indictment without establishing the immediate sting of humiliation she is reacting to, and its final beat cuts mid-sentence on an incomplete thought ('I may leave this chapel without a husband...'), creating an irritating grammatical truncation rather than a true narrative cliffhanger.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This preference is strictly driven by narrative completeness, setup-to-payoff emotional trajectory, and a clean punchline cut versus Candidate B's awkward mid-sentence cut, completely independent of candidate ordering."
+    },
+    {
+      "match_id": "M016",
+      "candidate_a_id": "CAND_EP002_156",
+      "candidate_b_id": "CAND_EP002_288",
+      "winner_id": "CAND_EP002_156",
+      "loser_id": "CAND_EP002_288",
+      "rationale": "Candidate A delivers vastly superior scroll-stop impact and narrative tension by opening on a visually grounded, visceral betrayal at the altar ('She is what I should have chosen') and staging a rapid sequence of escalating humiliations from her father, sister, and matriarch before pivoting into cold defiance. In contrast, Candidate B opens with Gerald's dismissal and quickly transitions into Juliana delivering an extended monologue, which relieves dramatic tension early and concludes on a mid-sentence cutoff ('I may leave this chapel without a husband...') that feels artificially severed rather than punchy. Candidate A's exit on the eerie single-word turn 'Dignity?' backed by a steely smile creates a far stronger curiosity gap and higher compulsion to tap 'Watch Episode 1'.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven: evaluated on hook visual clarity, compounding relational stakes across multiple antagonists, and a clean cliffhanger snap versus Candidate B's speech-heavy monologue and dangling sentence exit."
+    },
+    {
+      "match_id": "M017",
+      "candidate_a_id": "CAND_EP002_115",
+      "candidate_b_id": "CAND_EP002_301",
+      "winner_id": "CAND_EP002_115",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "Candidate A delivers a vastly superior scroll-stop hook in the first 3 seconds with Gerald's brutal, cynical line ('Promises change when a better choice appears') paired immediately with the two-shot visual betrayal at the altar, whereas Candidate B opens mid-speech on a narrative recap ('You abandoned a woman who trusted you...'). Candidate A then escalates continuously into a devastating double betrayal when her own father publicly sides with the abusers, ending on a high-tension cliffhanger that leaves Juliana entirely trapped and isolated. While Candidate B features strong moral agency and empowerment, its mid-sentence cut ('I may leave this chapel without a husband...') functions more as an interrupted monologue payoff than a high-stakes cliffhanger, whereas Candidate A generates intense curiosity about how the protagonist can possibly survive or retaliate.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly driven by the immediate cold scroll-stop shock of Beat B009 and the acute stakes escalation of paternal abandonment versus Candidate B's monologue recap format."
+    },
+    {
+      "match_id": "M018",
+      "candidate_a_id": "CAND_EP002_234",
+      "candidate_b_id": "CAND_EP002_04",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_04",
+      "rationale": "While Candidate B provides a clean and brutal opening rejection, it traps the viewer in an unbroken 30-second victim state where Juliana only weeps and takes abuse without emotional progression. In contrast, Candidate A delivers the golden narrative arc for vertical microdrama ads: public humiliation immediately giving way to a defiant power shift ('Dignity?'), ending on Juliana commanding the chapel and rattling Gerald's composure. This transformation arc creates far higher cathartic investment and conversion pull for cold viewers than a pure defeat beat.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on emotional trajectory, protagonist agency, and cliffhanger tension, not label order."
+    },
+    {
+      "match_id": "M019",
+      "candidate_a_id": "CAND_EP002_115",
+      "candidate_b_id": "CAND_EP002_306",
+      "winner_id": "CAND_EP002_115",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate A delivers vastly superior scroll-stop power for cold traffic by opening directly on the visual and auditory shock of the altar betrayal ('Promises change when a better choice appears' with Gerald and Clarissa standing before the priest), whereas Candidate B begins mid-monologue and relies on prior context to feel earned. Furthermore, Candidate A ends on an agonizing, unresolved double-betrayal as Juliana's own father commands her to accept the disgrace, creating an urgent open curiosity gap that forces a cold scroller to tap 'Watch Episode 1'. In contrast, Candidate B provides a cathartic resolution where Juliana reclaims her dignity, which partially satisfies the viewer's emotional craving rather than driving a high-conversion cliffhanger exit.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on immediate visual legibility in the first 3 seconds and an unresolved cliffhanger ending versus Candidate B's resolving monologue, independent of candidate ordering."
+    },
+    {
+      "match_id": "M020",
+      "candidate_a_id": "CAND_EP002_156",
+      "candidate_b_id": "CAND_EP002_286",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_156",
+      "rationale": "Candidate B delivers a significantly tighter, high-velocity narrative arc at 27.5s compared to Candidate A's 48.9s, which suffers from repetitive middle-arc humiliation that risks severe audience drop-off. Candidate B opens sharply with Gerald dismissively ordering Juliana to leave with 'dignity,' immediately pivots into her regal transformation, and escalates continuously to a devastating mic-drop punchline ('what your word is worth') that leaves the entire chapel spellbound. Candidate A cuts on 'Dignity?' right before the satisfying verbal retaliation begins, leaving the viewer with unfulfilled frustration rather than a compelling cliffhanger, whereas B captures the full cathartic power shift in nearly half the runtime.",
+      "confidence": 0.89,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven by dramatic arc efficiency, pacing, and punchline resolution versus label positioning."
+    },
+    {
+      "match_id": "M021",
+      "candidate_a_id": "CAND_EP002_76",
+      "candidate_b_id": "CAND_EP002_288",
+      "winner_id": "CAND_EP002_288",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate B delivers the definitive high-performing vertical drama arc: an immediate, high-stakes dialogue hook ('Go home quietly, Juliana...') that pivots instantly from public humiliation into a commanding revenge/empowerment monologue. While Candidate A captures deep double-betrayal and family abandonment, its opening relies heavily on a slower, vulnerable visual approach and ends on demoralizing subjugation rather than an active narrative drive. Candidate B holds viewers through an escalating power shift that freezes the antagonist in his tracks and cuts mid-declaration on a magnetic cliffhanger line ('I may leave this chapel without a husband...'), creating far stronger viral intent to tap 'Watch Episode 1'.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven by the protagonist empowerment pivot, sharp dialogue hook, and cliffhanger cut, completely independent of candidate ordering."
+    },
+    {
+      "match_id": "M022",
+      "candidate_a_id": "CAND_EP002_76",
+      "candidate_b_id": "CAND_EP002_237",
+      "winner_id": "CAND_EP002_237",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate B opens with an electric, immediate scroll-stopping insult ('You look like a kitchen maid who wandered into the wrong wedding') that requires zero narrative ramp-up to hook a cold swiping viewer. Furthermore, while Candidate A remains in a downward spiral of pure victimhood and paternal abandonment, Candidate B delivers a complete emotional transformation from tearful humiliation to commanding defiance, cutting on a tantalizing curiosity gap line right before the verbal strike. Despite being 7 seconds longer, B's dynamic power shift and high-voltage opening make it significantly more compelling for driving cold-traffic conversions.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly driven by B's 5/5 opening hook line and dynamic victim-to-defiance narrative arc over A's purely helpless trajectory, not label position."
+    },
+    {
+      "match_id": "M023",
+      "candidate_a_id": "CAND_EP002_289",
+      "candidate_b_id": "CAND_EP002_07",
+      "winner_id": "CAND_EP002_07",
+      "loser_id": "CAND_EP002_289",
+      "rationale": "Candidate B opens with an undeniable 5/5 scroll-stopping punch in under 3 seconds ('I cannot marry you, Juliana' paired with the low-angle altar betrayal), immediately establishing high-stakes conflict for a cold viewer far faster than Candidate A's slower burn dismissal. While Candidate A features an empowering verbal triumph, it functions like a mid-speech monologue that plateaus emotionally and leaves the viewer satisfied rather than desperate to tap. In contrast, Candidate B drives escalating visceral cruelty (groom's biting insults, Clarissa on his arm) right into a high-stakes familial cliffhanger as Juliana begs her stone-faced father for protection, generating an urgent unresolved curiosity gap in a tighter 37.2s package.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on immediate 0-3s hook arrest, escalating cruelty, and a higher-urgency cliffhanger, completely independent of candidate positioning."
+    },
+    {
+      "match_id": "M024",
+      "candidate_a_id": "CAND_EP002_237",
+      "candidate_b_id": "CAND_EP002_301",
+      "winner_id": "CAND_EP002_237",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "Candidate A opens with immediate, high-friction humiliation ('kitchen maid who wandered into the wrong wedding') that instantly arrests a swiping thumb with clear visual and verbal antagonism before the viewer even understands the full lore. While Candidate B is tighter in duration (26.3s vs. 39.8s), it starts already in the rebuttal phase, omitting the public degradation from Clarissa, the Matriarch, and Gerald that makes Juliana's metamorphosis into defiance pay off with maximum emotional intensity. Furthermore, Candidate A ends on an electric curiosity gap tease at B033 ('...shown them something far more valuable'), whereas Candidate B reveals that payoff ('what your word is worth') and ends on an incomplete sentence fragment ('I may leave this chapel without a husband...'), which risks feeling like an accidental technical cutoff rather than a compelling dramatic cliffhanger.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the hook's visceral opening friction, the complete victim-to-force emotional transformation arc, and B's awkward mid-sentence exit cutoff, independent of label positioning."
+    },
+    {
+      "match_id": "M025",
+      "candidate_a_id": "CAND_EP002_234",
+      "candidate_b_id": "CAND_EP002_215",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_215",
+      "rationale": "Candidate A opens with immediate, high-octane verbal assault ('You look like a kitchen maid who wandered into the wrong wedding') that arrests a cold scroller's thumb instantly, bypassing the slower dress-pinching setup in B018\u2013B019. Candidate B's opening line ('Why are you surprised, sister? Look at you') relies on visual inspection and conversational runway before landing its real punch, adding 5.8s of lower-stakes preamble. Because both clips share the identical high-voltage middle escalation and razor-sharp ending confrontation at B031, Candidate A captures the exact same emotional transformation and cliffhanger payoff with superior duration efficiency (29.4s vs. 35.2s) and lower drop-off risk.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven: Candidate A opens on a significantly stronger shock-value insult (Dialogue Hook 5/5) and trims 5.8 seconds of unnecessary preamble, not chosen because of its label order."
+    },
+    {
+      "match_id": "M026",
+      "candidate_a_id": "CAND_EP002_306",
+      "candidate_b_id": "CAND_EP002_76",
+      "winner_id": "CAND_EP002_306",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate A delivers an immediate, high-potency scroll-stop hook with Juliana's opening line of moral defiance, shifting instantly from victimization into an empowering reclamation of dignity that commands total viewer attention. In contrast, Candidate B opens with a passive, pleading whimper ('Gerald... Look at me') that risks drop-off in the first 3 seconds and takes 32.8 seconds to walk through multiple beats of compounded cruelty without a clear protagonist triumph. At 23.3 seconds, Candidate A is almost 10 seconds leaner, holds higher emotional salience (5/5 vs 4/5), and cuts cleanly on a triumphant, high-curiosity cliffhanger exit that primes cold viewers to tap 'Watch Episode 1' to witness her payback.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. Selection is strictly content-driven based on hook punchiness, duration efficiency (23.3s vs 32.8s), and protagonist empowerment dynamics, completely independent of label position."
+    },
+    {
+      "match_id": "M027",
+      "candidate_a_id": "CAND_EP002_289",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_08",
+      "loser_id": "CAND_EP002_289",
+      "rationale": "Candidate B delivers an instant, devastating hook in the first 2.8 seconds ('I cannot marry you, Juliana' with the gloating mistress visually established at the altar), whereas Candidate A opens mid-argument on an expulsion command requiring viewers to orient themselves. In the middle arc, B doubles down on visceral conflict by stacking romantic betrayal with active parental abandonment, cutting at peak despair on her father's brutal dismissal ('Do not disgrace us further'). While A features a potent cathartic comeback speech, B creates a much more acute curiosity gap and emotional gut-punch for a cold-scroll ad, compelling viewers to click through to see how the completely isolated protagonist can possibly survive.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on the higher opening shock value, zero-context clarity, and double-betrayal cliffhanger rather than presentation order."
+    },
+    {
+      "match_id": "M028",
+      "candidate_a_id": "CAND_EP002_76",
+      "candidate_b_id": "CAND_EP002_115",
+      "winner_id": "CAND_EP002_115",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate B opens immediately in medias res with an explosive, high-converting dialogue hook ('Promises change when a better choice appears') paired with an unmistakable visual of the groom standing with the rival woman before a priest. In contrast, Candidate A burns its opening 8.7 seconds on slow exposition and a pleading line ('Gerald... Look at me') that risks high thumb-drop on short-form platforms. Candidate B preserves the exact same devastating father-abandonment escalation and cliffhanger exit while achieving full emotional impact in 24.1s\u2014nearly 9 seconds leaner and substantially more scroll-stopping.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on immediate opening-second hook velocity and superior duration efficiency, not label position."
+    },
+    {
+      "match_id": "M029",
+      "candidate_a_id": "CAND_EP002_301",
+      "candidate_b_id": "CAND_EP002_76",
+      "winner_id": "CAND_EP002_301",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate A delivers an instant, highly arresting hook where Juliana immediately counterattacks with moral authority ('You abandoned a woman who trusted you...'), whereas Candidate B opens on a slower, vulnerable plea ('Gerald... Look at me') that risks viewer swipe-away in the opening 3 seconds. Candidate A also sustains a tight, electrifying reversal arc that builds directly to an elite cliffhanger cutoff ('I may leave this chapel without a husband...'), delivering maximum emotional punch and viral empowerment in a lean 26.3s compared to Candidate B's 32.8s sequence of compounded victimhood.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on immediate verbal/visual hook speed, transformative protagonist empowerment, duration efficiency, and a sharper mid-sentence cliffhanger cut, independent of label positioning."
+    },
+    {
+      "match_id": "M030",
+      "candidate_a_id": "CAND_EP002_07",
+      "candidate_b_id": "CAND_EP002_288",
+      "winner_id": "CAND_EP002_07",
+      "loser_id": "CAND_EP002_288",
+      "rationale": "Candidate A opens with an undeniable scroll-stopping hook ('I cannot marry you, Juliana' paired with the visual of the groom looking down dismissively and another woman in gold gloating beside him), grounding the entire betrayal within the critical first 3 seconds of a cold user's feed. While Candidate B offers a strong emotional turnaround, its opening line ('Go home quietly...') relies on inferred prior context, and its final beat cuts off mid-sentence on an incomplete thought rather than a punchy narrative cliffhanger. Candidate A sustains escalating cruelty and familial abandonment throughout, exiting on a razor-sharp cliffhanger as Juliana begs her silent father for intervention, creating a far more urgent open loop for episode 1 conversion.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven: Candidate A possesses superior immediate cold-audience hook clarity and a much cleaner dramatic question cliffhanger, whereas Candidate B suffers from an incomplete mid-sentence exit beat."
+    },
+    {
+      "match_id": "M031",
+      "candidate_a_id": "CAND_EP002_306",
+      "candidate_b_id": "CAND_EP002_234",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate B possesses significantly stronger scroll-stop power, opening on a visceral, high-status insult ('You look like a kitchen maid who wandered into the wrong wedding') that immediately hooks a cold viewer before escalating the humiliation across multiple antagonists. Crucially, Candidate B cuts on the exact turning point of the conflict\u2014Juliana snapping into defiance and launching her public counter-strike ('...because another woman promised you greater beauty and wealth') with Gerald visibly sweating\u2014creating an unbearable urge to tap into Episode 1 to see the fallout. By contrast, Candidate A functions as an epilogue monologue that resolves her emotional arc ('I will not leave it believing I was the one who should be ashamed'), deflating tension and giving the viewer psychological closure rather than a compulsive cliffhanger.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on hook brutality, mid-arc tension escalation across three antagonists, and an unresolved cliffhanger cut versus Candidate A's resolving exit speech."
+    },
+    {
+      "match_id": "M032",
+      "candidate_a_id": "CAND_EP002_301",
+      "candidate_b_id": "CAND_EP002_234",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "Candidate B features a vastly superior cold-audience hook ('You look like a kitchen maid who wandered into the wrong wedding'), providing instant visceral antagonism within the first 3 seconds compared to Candidate A's more formal rhetorical opening. B takes the viewer on a complete dynamic emotional arc\u2014from multi-tiered public degradation across bride, matriarch, and groom to the electric turning point at 'Dignity?' (B029)\u2014culminating in Juliana's devastating first counter-salvo where Gerald visibly freezes. In contrast, while Candidate A sustains eloquent moral authority, it operates on a single emotional register of prolonged speechifying, and its mid-sentence cutoff ('I may leave this chapel without a husband...') feels like an abrupt editorial interruption rather than B's high-tension drop right as the counter-offensive begins.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven: evaluated on hook virality, multi-character oppression escalation, and the high-tension pivot to retribution, not label placement."
+    },
+    {
+      "match_id": "M033",
+      "candidate_a_id": "CAND_EP002_306",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_08",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate B opens in 0.0-2.8s with a devastating, instant relationship-rupture line ('I cannot marry you, Juliana') backed by visual establishment of the betrayal, delivering maximum scroll-stop shock to a zero-context viewer. It sustains tension through escalating compounding stakes\u2014from the groom's cruel rejection to the sister's gloating, culminating in the father's brutal abandonment\u2014and cuts on peak vulnerability and cliffhanger isolation rather than emotional resolution. Candidate A has high moral elevation and duration efficiency, but its monologue-heavy arc resolves the tension into a self-contained speech rather than leaving a cold viewer desperate to see how the protagonist escapes total ruin.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven by Candidate B's instantaneous visceral hook ('I cannot marry you') and multi-layered escalation compared to Candidate A's monologue-driven resolution, independent of presentation order."
+    },
+    {
+      "match_id": "M034",
+      "candidate_a_id": "CAND_EP002_04",
+      "candidate_b_id": "CAND_EP002_156",
+      "winner_id": "CAND_EP002_04",
+      "loser_id": "CAND_EP002_156",
+      "rationale": "Candidate A opens with an immediate, unambiguous shock hook ('I cannot marry you, Juliana' at the altar steps) that stops a cold viewer mid-scroll in under 3 seconds without requiring prior setup. It delivers a lean, relentless 30.6s escalation of public betrayal that cuts on peak outrage when Gerald officially links arms with Clarissa. Candidate B has a compelling transformation arc ending on Juliana's defiant smile, but its 48.9s runtime suffers pacing lulls across multiple secondary accusers (father, Clarissa, matriarch) and opens mid-revelation rather than on the explosive primary rupture.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on opening scroll-stop immediacy, tighter duration efficiency, and instant cold-audience comprehension, not position order."
+    },
+    {
+      "match_id": "M035",
+      "candidate_a_id": "CAND_EP002_76",
+      "candidate_b_id": "CAND_EP002_156",
+      "winner_id": "CAND_EP002_156",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate B opens with superior scroll-stopping immediacy ('She is what I should have chosen from the beginning' over a wide shot of the rival already linked at the altar) compared to Candidate A's slower, generic pleading. Crucially, B completes a compelling emotional arc\u2014moving from brutal familial dogpiling to an electrifying victim-to-defiant-powerhouse pivot that cuts cleanly on her mocking 'Dignity?' smile. In contrast, Candidate A ends on a disempowering, purely victimized beat of paternal abandonment, leaving the viewer depressed rather than hooked into an urgent revenge cycle.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This judgment is strictly content-driven based on hook urgency, the transformative emotional shift, and the superior cliffhanger cut, completely independent of candidate position."
+    },
+    {
+      "match_id": "M036",
+      "candidate_a_id": "CAND_EP002_301",
+      "candidate_b_id": "CAND_EP002_215",
+      "winner_id": "CAND_EP002_215",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "Candidate B establishes far more visceral, relatable drama in the opening seconds through personal, cruel shaming ('sister clinging to the groom's arm while calling her a kitchen maid'), making the protagonist's subsequent pivot from tears to cold defiance profoundly earned and satisfying. Candidate A starts directly at Juliana's formal monologue, which lacks the initial visual gut-punch of the betrayal and feels like walking in mid-speech. Candidate B delivers the complete emotional arc\u2014victimization, public ganging-up by the matriarch and groom, and the electric counterstrike\u2014cutting right on Gerald's visibly cracked composure.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This is content-driven: the superior rage-bait opening hook, multi-layered emotional escalation, and sharp turning-point cliffhanger outweigh Candidate A's shorter duration."
+    },
+    {
+      "match_id": "M037",
+      "candidate_a_id": "CAND_EP002_234",
+      "candidate_b_id": "CAND_EP002_302",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_302",
+      "rationale": "Candidate A opens with immediate, high-voltage verbal savagery ('You look like a kitchen maid who wandered into the wrong wedding') that halts swiping thumbs instantly and sets up an escalating multi-character gauntlet before snapping into Juliana's thrilling defiance cut right on Gerald's shifting expression. Candidate B opens on a mid-sentence counter-indictment that lacks the initial visceral gut-punch of the humiliation, and its back half decelerates into a monologued moral triumph that resolves Juliana's emotional arc instead of leaving an urgent curiosity gap. At 29.4s, Candidate A provides superior duration efficiency and cuts at the precise inflection point where the audience is desperate to see the retaliation unfold.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the hook's instantaneous scroll-stop hostility and the cliffhanger exit at the onset of conflict escalation, rather than label order."
+    },
+    {
+      "match_id": "M038",
+      "candidate_a_id": "CAND_EP002_07",
+      "candidate_b_id": "CAND_EP002_286",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_07",
+      "rationale": "While Candidate A possesses a slightly sharper opening hook with its direct altar rejection line, Candidate B delivers a far superior performance-marketing narrative arc by transforming Juliana from a dismissed victim into a commanding, defiant force within just 27.5 seconds. Candidate B is nearly 10 seconds leaner\u2014dramatically reducing short-form scroll drop-off risk\u2014while escalating tension through a rapid, viral-ready power inversion that lands on a devastating crowd-silencing punchline ('You have shown them exactly what your word is worth') rather than an unresolved plea to a silent father. The cathartic microdrama pacing and higher emotional salience make Candidate B the significantly stronger converter for cold short-form audiences.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven by the protagonist power reversal, tighter 27.5s runtime efficiency, and mic-drop cliffhanger, actively overcoming Candidate A's initial position advantage."
+    },
+    {
+      "match_id": "M039",
+      "candidate_a_id": "CAND_EP002_286",
+      "candidate_b_id": "CAND_EP002_281",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_281",
+      "rationale": "Candidate A provides a tighter, high-velocity confrontation by opening directly on Gerald telling Juliana to leave with 'some dignity' (B027), which immediately tees up her cutting rhetorical rebound ('Dignity?') just 3.5 seconds later. Candidate B introduces a brief opening beat with an unnamed matriarch (B026) that fractures the initial character focus before immediately pivoting to Gerald's command, diluting the early hook. By eliminating that extraneous party, Candidate A delivers the exact same devastating power-inversion climax with superior duration efficiency (27.5s vs 30.8s) and zero narrative friction for a cold viewer.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the cleaner two-hander setup, immediate dialogue-rebound pacing (B027 to B029), and 3.3-second duration efficiency advantage, rather than presentation order."
+    },
+    {
+      "match_id": "M040",
+      "candidate_a_id": "CAND_EP002_306",
+      "candidate_b_id": "CAND_EP002_289",
+      "winner_id": "CAND_EP002_289",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate B is decisively superior because its opening beat ('Go home quietly, Juliana. At least leave this chapel with some dignity' with Gerald physically gesturing her toward the exit) provides immediate villainous conflict and visual-action context that hooks cold scrollers in under 3 seconds. Candidate A begins midway through Juliana's monologue ('You wanted this entire chapel to believe...'), which lacks an active antagonistic catalyst and forces a zero-context viewer to catch up on what prompted the speech. Furthermore, Candidate B establishes the complete emotional arc\u2014watching Juliana pivot from tears to a steely smile and thoroughly dismantle Gerald's hypocrisy\u2014making the identical B037 cliffhanger resolution exponentially more earned, cathartic, and viral.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the stark difference in opening conflict/hook dynamics and arc payoff, not label positioning."
+    },
+    {
+      "match_id": "M041",
+      "candidate_a_id": "CAND_EP002_237",
+      "candidate_b_id": "CAND_EP002_04",
+      "winner_id": "CAND_EP002_237",
+      "loser_id": "CAND_EP002_04",
+      "rationale": "While Candidate B establishes the baseline premise faster in 30.6s, it keeps the female lead locked in an agonizing, passive victim state that deflates urgency into generic misery. Candidate A delivers a far more compelling microdrama arc: it opens with an immediately abrasive verbal hook ('kitchen maid at the wrong wedding'), escalates through layered family pile-on, and pivots dynamically into protagonist empowerment where Juliana seizes control of the room. The cliffhanger cut on B033 ('you have shown them something far more valuable...') creates an irresistible high-stakes curiosity gap that practically forces the viewer to tap Episode 1 to hear the retaliation.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the dramatic turning point and superior curiosity gap cliffhanger rather than candidate order."
+    },
+    {
+      "match_id": "M042",
+      "candidate_a_id": "CAND_EP002_04",
+      "candidate_b_id": "CAND_EP002_302",
+      "winner_id": "CAND_EP002_04",
+      "loser_id": "CAND_EP002_302",
+      "rationale": "Candidate A opens on an explosive, sub-3-second scroll-stopping gut punch ('I cannot marry you, Juliana' with the gloating rival in gold at the altar) that immediately establishes high stakes and clear situational conflict for a zero-context viewer. In contrast, while Candidate B offers an inspiring female-empowerment monologue, its opening requires parsing past betrayal through exposition ('You abandoned a woman who trusted you...'), and its concluding beat functions as a resolved moral victory rather than an urgent, cliffhanging hook into the next episode. Candidate A maintains unbearable, escalating tension throughout its 30.6s runtime and cuts on peak unresolved cruelty as the groom links arms with the sister, making it significantly more potent for driving cold-traffic click-throughs.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on immediate cold-audience hook potency and cliffhanger urgency, not label positioning."
+    },
+    {
+      "match_id": "M043",
+      "candidate_a_id": "CAND_EP002_07",
+      "candidate_b_id": "CAND_EP002_302",
+      "winner_id": "CAND_EP002_07",
+      "loser_id": "CAND_EP002_302",
+      "rationale": "Candidate A opens with an undeniable 0-3s scroll-stop shock punch ('I cannot marry you, Juliana' over Gerald sneering at the altar steps with Clarissa gloating behind him), instantly establishing the primal betrayal without requiring any narrative pre-orientation. In contrast, while Candidate B offers a triumphant empowerment arc, its opening line functions as mid-argument rhetoric rather than an immediate visual/auditory jolt for cold viewers, and its ending resolves the emotional humiliation into closure rather than sustaining an urgent, unanswered cliffhanger. Candidate A's ending cut on Juliana pleading to her stone-faced father preserves peak unresolved dramatic tension, driving cold viewers directly to tap 'Watch Episode 1' to see if her family abandons or defends her.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by the superior opening 3-second hook mechanics and unresolved curiosity gap, not candidate label or evaluation order."
+    },
+    {
+      "match_id": "M044",
+      "candidate_a_id": "CAND_EP002_115",
+      "candidate_b_id": "CAND_EP002_289",
+      "winner_id": "CAND_EP002_115",
+      "loser_id": "CAND_EP002_289",
+      "rationale": "Candidate A possesses vastly superior cold-audience scroll-stop power, opening in under 3 seconds with a visceral, legible visual betrayal at the altar paired with the ruthless hook 'Promises change when a better choice appears'. While Candidate B features a potent emotional monologue, at 40.7s it is heavily dialogue-monopolized and concludes on an empowering rhetorical resolution ('...not the one who should be ashamed') rather than a true high-stakes cliffhanger. Candidate A cuts on peak unresolved devastation at 24.1s when Juliana's own father turns against her, creating an urgent, unanswered narrative question ('How can she survive total abandonment?') with minimal drop-off risk.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the opening 3-second hook mechanics, true narrative cliffhanger tension, and 24.1s duration efficiency over Candidate B's extended monologue structure."
+    },
+    {
+      "match_id": "M045",
+      "candidate_a_id": "CAND_EP002_234",
+      "candidate_b_id": "CAND_EP002_288",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_288",
+      "rationale": "Candidate A opens with a far more potent, visceral scroll-stop line ('You look like a kitchen maid who wandered into the wrong wedding') paired with Clarissa's radiant mocking gesture, instantly igniting rage and empathy in under 3 seconds. It delivers a complete transformation arc in 29.4s\u2014stacking humiliation from Clarissa, the Matriarch, and Gerald before snapping Juliana into cold defiance\u2014and cuts cleanly right as she launches her public indictment at Gerald. In contrast, Candidate B opens on a milder conversational expulsion ('Go home quietly') and over-delivers Juliana's monologue across 33.5s, bleeding off dramatic tension and ending mid-sentence on an incomplete clause ('I may leave this chapel without a husband...') rather than a sharp cliffhanger.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the opening hook's visceral venom, tighter duration efficiency, and punchier cut on Gerald's hardening jawline."
+    },
+    {
+      "match_id": "M046",
+      "candidate_a_id": "CAND_EP002_302",
+      "candidate_b_id": "CAND_EP002_286",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_302",
+      "rationale": "Candidate B establishes the conflict far more dynamically by opening on Gerald's cruel dismissal ('Go home quietly... leave with some dignity'), providing the direct catalyst and emotional springboard for Juliana's tearful turn, steely smile, and subsequent verbal takedown. While Candidate A delivers an inspiring speech, starting mid-monologue at B030 lacks an immediate antagonist action, and its B037 finish begins to feel like a self-contained emotional resolution rather than an urgent cliffhanger. By contrast, Candidate B delivers a complete, high-velocity arc (provocation \u2192 defiance \u2192 lethal punchline 'what your word is worth') in 27.5s, stopping on Gerald's exposed hypocrisy with superior duration efficiency and viral tension.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven: opening on the antagonist's provocation (B027) sets up a much sharper punchline cut (B034) with zero dead air, rather than defaulting to label position."
+    },
+    {
+      "match_id": "M047",
+      "candidate_a_id": "CAND_EP002_288",
+      "candidate_b_id": "CAND_EP002_115",
+      "winner_id": "CAND_EP002_115",
+      "loser_id": "CAND_EP002_288",
+      "rationale": "Candidate B opens with an instantly arresting, cold-scroll dialogue shock ('Promises change when a better choice appears') paired immediately with the visual proof of Gerald and Clarissa before the priest, delivering higher instant clarity than Candidate A's slower dismissal. In just 24.1 seconds, Candidate B delivers a brutal double-betrayal arc\u2014escalating from the groom's cruel replacement to the visceral gut-punch of her own father publicly commanding her to accept the humiliation. While Candidate A features an admirable empowerment monologue, its ending cuts mid-sentence on an incomplete line ('I may leave this chapel without a husband...') which risks feeling truncated rather than cliffhanging, whereas B delivers maximum emotional devastation and duration efficiency with zero wasted frames.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven by Candidate B's tighter 24s duration, immediate hook line, and severe double-betrayal stakes compared to Candidate A's mid-sentence dialogue cut at B036."
+    },
+    {
+      "match_id": "M048",
+      "candidate_a_id": "CAND_EP002_288",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_08",
+      "loser_id": "CAND_EP002_288",
+      "rationale": "Candidate B opens with an unbeatable cold scroll-stopper: a blunt, instant line of dialogue ('I cannot marry you, Juliana') delivered in the first 2.8 seconds alongside a visually grounded image of the groom and gloating rival at the altar. While Candidate A features an empowering protagonist transformation, it cuts off mid-sentence on B036 ('I may leave this chapel without a husband...') which feels structurally truncated rather than like an organic cliffhanger. Candidate B sustains relentless, compounding stakes across its entire arc\u2014escalating from cruel public rejection by the groom to a second, gut-wrenching betrayal when her own father commands her to accept the humiliation\u2014ending on a devastating emotional cliffhanger that maximizes cold-viewer desire to tap Episode 1.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the superior immediate hook velocity and two-tier betrayal arc versus A's mid-sentence dialogue cut, not label position."
+    },
+    {
+      "match_id": "M049",
+      "candidate_a_id": "CAND_EP002_288",
+      "candidate_b_id": "CAND_EP002_306",
+      "winner_id": "CAND_EP002_288",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate A opens with Gerald's cruel dismissal ('Go home quietly, Juliana...') and visual expulsion, giving cold viewers the full, instant context of an altar abandonment and making Juliana's internal transformation from weeping victim (B028) to steely defiance hit with immense emotional payoff. In contrast, Candidate B drops the viewer into the tail end of Juliana's speech without showing the initial attack, blunting the narrative stakes and resolving into a self-contained moral closure ('...ashamed') that acts as an emotional full stop rather than a compulsive cliffhanger. Candidate A cuts on peak mid-sentence suspended tension ('I may leave this chapel without a husband...'), creating a powerful curiosity gap that demands tapping into the next episode.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This is entirely content-driven: Candidate A provides the inciting antagonist action for context, depicts the complete emotional reversal arc, and cuts on an unresolved cliffhanger rather than Candidate B's resolving line."
+    },
+    {
+      "match_id": "M050",
+      "candidate_a_id": "CAND_EP002_306",
+      "candidate_b_id": "CAND_EP002_156",
+      "winner_id": "CAND_EP002_156",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate B establishes the visceral emotional stakes of total betrayal immediately in Beat B011 with an instant visual and dialogue hook (groom standing with sister at the altar: 'She is what I should have chosen from the beginning'), followed by escalating multi-front cruelty from father, sister, and matriarch that creates massive viewer empathy and rage. It cuts precisely on Beat B029 as Juliana's tears turn into a chilling, defiant smile and the single word 'Dignity?', creating an irresistible curiosity gap and cliffhanger hook that compels viewers to see her retaliation. In contrast, while Candidate A is shorter and has strong dialogue, it opens mid-rebuke without showing the cruelty that justified it, acts as a self-contained moral resolution rather than an unresolved cliffhanger, and leaks the emotional payoff rather than baiting Episode 2.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on the hook-to-cliffhanger escalation arc and superior curiosity gap at the exit, not label position."
+    },
+    {
+      "match_id": "M051",
+      "candidate_a_id": "CAND_EP002_08",
+      "candidate_b_id": "CAND_EP002_281",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_08",
+      "rationale": "While Candidate A possesses a marginally sharper opening shock line ('I cannot marry you, Juliana'), it subjects the viewer to a prolonged 44.8s downward spiral of unrelieved victimization and paternal rejection without any agency from the lead. Candidate B delivers a far superior short-form dramatic arc in a much tighter 30.8s runtime, pivoting rapidly from patronizing dismissal into an electrifying protagonist transformation (weeping victim to regal defiance). B's cutting line 'You have shown them exactly what your word is worth' provides a crowd-silencing cliffhanger that generates intense emotional satisfaction and viewer buy-in to see Gerald get destroyed in Episode 1.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven: Candidate B's transformation arc, higher emotional salience (5/5 vs 4/5), and 14-second duration efficiency outperform Candidate A's one-note victimization, independent of candidate ordering."
+    },
+    {
+      "match_id": "M052",
+      "candidate_a_id": "CAND_EP002_04",
+      "candidate_b_id": "CAND_EP002_306",
+      "winner_id": "CAND_EP002_04",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate A opens with an immediate, lethal hook ('I cannot marry you, Juliana' paired with the visual of the groom looking down dismissively and the rival gloating in gold) that grounds the entire betrayal dynamic in under 3 seconds for a zero-context scroller. While Candidate B offers a high-salience empowerment monologue at an efficient 23.3s, its opening line relies on philosophical exposition that requires viewers to infer prior context, and its ending provides moral resolution rather than an urgent, unresolved curiosity gap. Candidate A maintains unbearable, escalating public humiliation across 30.6s and cuts on peak cliffhanger tension as Gerald brazenly links arms with Clarissa at the altar.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on opening scroll-stop immediacy and cliffhanger tension versus Candidate B's resolving monologue, not label order."
+    },
+    {
+      "match_id": "M053",
+      "candidate_a_id": "CAND_EP002_76",
+      "candidate_b_id": "CAND_EP002_215",
+      "winner_id": "CAND_EP002_215",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate B delivers a significantly stronger hook and complete micro-narrative arc tailored for short-form feed retention. While Candidate A presents pure victimhood and compounded abandonment that cuts on a disempowered beat, Candidate B hooks immediately with visceral, high-status sister mockery ('Why are you surprised, sister? Look at you') and executes a compelling emotional power shift from public humiliation to regal defiance. Ending on Juliana's commanding public unmasking that visibly fractures Gerald's composure leaves cold viewers primed with intense curiosity and anticipation for the retribution to come.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on its superior dialogue hook in the first 3 seconds and transformative protagonist arc compared to Candidate A's purely unmitigated victimhood."
+    },
+    {
+      "match_id": "M054",
+      "candidate_a_id": "CAND_EP002_115",
+      "candidate_b_id": "CAND_EP002_156",
+      "winner_id": "CAND_EP002_115",
+      "loser_id": "CAND_EP002_156",
+      "rationale": "Candidate A delivers a vastly superior scroll-stop hook in B009 ('Promises change when a better choice appears' paired with the priest/altar two-shot) that immediately establishes the full betrayal premise in under 3 seconds, whereas Candidate B opens in media res on a weaker line. While Candidate B features the full 48.9-second humiliation gauntlet and defiant smile, its middle section sags with repetitive insults across multiple antagonists, running double the duration and significantly escalating viewer drop-off risk. Candidate A concentrates the highest-stakes emotional rupture\u2014the brutal one-two punch of groom abandonment followed immediately by paternal betrayal\u2014into a razor-sharp, pacing-optimized 24.1s cut ending on cold resolve.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This is content-driven: evaluated strictly on opening 3-second scroll-stop clarity and 24.1s duration efficiency over Candidate B's bloated middle arc, not label position."
+    },
+    {
+      "match_id": "M055",
+      "candidate_a_id": "CAND_EP002_156",
+      "candidate_b_id": "CAND_EP002_07",
+      "winner_id": "CAND_EP002_156",
+      "loser_id": "CAND_EP002_07",
+      "rationale": "While Candidate B has a stronger initial cold hook line ('I cannot marry you, Juliana'), it leaves the protagonist in prolonged, passive misery and cuts on a weak, helpless plea to her father. Candidate A starts directly in media res at the moment of brutal replacement, builds sustained multi-front humiliation across the father, sister, and matriarch, and concludes on a magnetic power-shift cliffhanger as Juliana transforms from weeping victim into a defiant force whispering 'Dignity?'. That emotional reversal delivers vastly superior hook-to-conversion performance for short-form drama audiences eager to see revenge.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This choice is strictly content-driven based on the complete emotional transformation arc and high-curiosity cliffhanger versus Candidate B's helpless victim ending, independent of candidate ordering."
+    },
+    {
+      "match_id": "M056",
+      "candidate_a_id": "CAND_EP002_234",
+      "candidate_b_id": "CAND_EP002_237",
+      "winner_id": "CAND_EP002_237",
+      "loser_id": "CAND_EP002_234",
+      "rationale": "While Candidate A is 10.4s shorter, it cuts prematurely at B031 right after stating the obvious premise of the betrayal ('because another woman promised you greater beauty and wealth'), resulting in an incomplete emotional retort that lacks a true curiosity cliffhanger. Candidate B sustains the escalation into an electric power reversal with 'Do not mistake my heartbreak for your victory', culminating in the potent open loop of B033 ('But you have shown them something far more valuable') with a camera push-in on Juliana holding the room spellbound. That setup leaves cold-audience viewers desperate to hear the exact revelation that follows, far outweighing the slight drop-off risk of the 39.8s duration.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on the hook-to-cliffhanger tension curve and the superior unresolved revelation in B033 versus the flat sentence completion in B031, not position order."
+    },
+    {
+      "match_id": "M057",
+      "candidate_a_id": "CAND_EP002_234",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_08",
+      "rationale": "Candidate A delivers a far superior narrative arc and pacing efficiency, cutting 15.4 seconds off duration while charting a complete, high-converting emotional transformation from humiliated victim to defiant force. While Candidate B has an explosive opening line ('I cannot marry you'), it traps the viewer in 44.8 seconds of prolonged, compounding defeat with no cathartic turn before the cut. Candidate A opens with immediate, high-friction humiliation and accelerates into Juliana's steely counter-strike, ending on Gerald's visibly rattled expression\u2014creating a much more compelling 'must-watch-next' urge for cold feed viewers.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on emotional trajectory (victim-to-retaliation arc) and duration efficiency (29.4s vs 44.8s), not label order."
+    },
+    {
+      "match_id": "M058",
+      "candidate_a_id": "CAND_EP002_215",
+      "candidate_b_id": "CAND_EP002_04",
+      "winner_id": "CAND_EP002_04",
+      "loser_id": "CAND_EP002_215",
+      "rationale": "Candidate B opens with immediate, devastating clarity in beat 1 ('I cannot marry you, Juliana' over a low-angle altar reveal), establishing total stakes and instant narrative comprehension in under 3 seconds. While Candidate A features an impressive emotional pivot from victimhood to defiance, it opens mid-insult without clearly establishing the altar/wedding betrayal to a zero-context scroller until deeper into the clip. Candidate B sustains relentless, escalating cruelty through punchy dialogue beats ('Promises change when a better choice appears') and cuts at 30.6s on peak unresolved devastation, delivering maximum hook potency and duration efficiency for cold audiences.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on immediate <3s hook clarity, lower duration drop-off risk, and superior cold-viewer comprehension over Candidate A's mid-scene entry."
+    },
+    {
+      "match_id": "M059",
+      "candidate_a_id": "CAND_EP002_237",
+      "candidate_b_id": "CAND_EP002_302",
+      "winner_id": "CAND_EP002_237",
+      "loser_id": "CAND_EP002_302",
+      "rationale": "Candidate A opens with a vicious, immediate visceral insult ('You look like a kitchen maid who wandered into the wrong wedding') that arrests cold-feed swipers within 2 seconds, establishing a high-contrast underdog arc before Juliana's defiant pivot. Candidate B starts directly on the verbal retaliation ('You abandoned a woman...'), which robs the viewer of witnessing the cruel humiliation that justifies her transformation. Furthermore, Candidate A cuts at B033 on an unresolved curiosity teaser ('you have shown them something far more valuable...'), creating a potent cliffhanger exit, whereas Candidate B resolves her entire indictment through to B037 ('...ashamed'), deflating narrative urgency right at the cutoff.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the superior scroll-stop shock in the opening 3 seconds and the unresolved curiosity gap at the exit, not label order."
+    },
+    {
+      "match_id": "M060",
+      "candidate_a_id": "CAND_EP002_234",
+      "candidate_b_id": "CAND_EP002_156",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_156",
+      "rationale": "Candidate A opens on a razor-sharp verbal slap ('You look like a kitchen maid who wandered into the wrong wedding') that immediately hooks swiping viewers without requiring any backstory, and reaches Juliana's vocal retaliation within 29.4s. In contrast, Candidate B runs nearly 50 seconds and spends its first 20 seconds bogged down in a slow family plea with the father, significantly increasing swipe-away drop-off before the conflict escalates. Furthermore, Candidate A ends on a far stronger narrative cliffhanger\u2014cutting mid-counterstrike on Gerald's uneasy expression as Juliana exposes his greed\u2014whereas Candidate B cuts right at 'Dignity?', ending on a question mark before Juliana can even assert herself.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly based on hook velocity, duration efficiency (29.4s vs 48.9s), and a more dynamic cliffhanger cut, entirely independent of candidate ordering."
+    },
+    {
+      "match_id": "M061",
+      "candidate_a_id": "CAND_EP002_237",
+      "candidate_b_id": "CAND_EP002_306",
+      "winner_id": "CAND_EP002_237",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate A opens with immediate, vicious conflict ('You look like a kitchen maid who wandered into the wrong wedding') that arrests cold scrollers instantly and establishes high stakes before showcasing a complete dynamic arc from public humiliation to regal defiance. While Candidate B is more compact at 23.3s, starting on Beat B033 opens with an abstract philosophical statement that lacks the visceral shock of B020, and its ending at B037 functions as a resolved, closed-door mic drop rather than an urgent cliffhanger driving cold viewers to tap 'Watch Episode 1'. Candidate A sustains rising tension across multiple antagonists and cuts right at B033 on an open curiosity gap before the payoff line, creating superior conversion urgency.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on opening hook shock value and cliffhanger open tension versus closed resolution, independent of candidate ordering."
+    },
+    {
+      "match_id": "M062",
+      "candidate_a_id": "CAND_EP002_289",
+      "candidate_b_id": "CAND_EP002_76",
+      "winner_id": "CAND_EP002_289",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate A delivers a far stronger scroll-stop opening with an immediate, harsh expulsion line ('Go home quietly... leave with some dignity') and quickly flips into a viral power-reclamation arc that resonates exceptionally well on short-form platforms. While Candidate B is slightly shorter and features a visceral paternal betrayal, its opening plea ('Gerald... Look at me') is passive and slow to hook a cold thumb compared to A's punchy confrontation. Candidate A concludes on an unforgettable peak defiant proclamation that turns the victim into a commanding force, providing a vastly superior curiosity gap and motivation to tap 'Watch Episode 1'.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the hook dialogue assertiveness, the cathartic victim-to-defiance power shift, and the resonant exit beat, independent of candidate ordering."
+    },
+    {
+      "match_id": "M063",
+      "candidate_a_id": "CAND_EP002_301",
+      "candidate_b_id": "CAND_EP002_286",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "Candidate B creates a vastly superior cold-audience hook by starting with Gerald's cruel dismissal ('Go home quietly, Juliana. At least leave this chapel with some dignity'), providing the vital underdog setup that makes Juliana's mid-clip turn from tears to a steely smile ('Dignity?') feel earned, electrifying, and cathartic. Candidate A begins mid-indictment without showing Gerald's provocation, robbing the scene of its dynamic emotional arc, and cuts off mid-sentence on an awkward linguistic cliffhanger ('I may leave this chapel without a husband...'). In contrast, Candidate B concludes on an immaculate, mic-drop punchline ('You have shown them exactly what your word is worth') that freezes Gerald while leaving the viewer desperate to see his reaction and her next move.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven: Candidate B captures the full power-inversion dynamic from cruelty to devastating counterattack, whereas Candidate A lacks the inciting provocation and suffers from an incomplete trailing sentence boundary."
+    },
+    {
+      "match_id": "M064",
+      "candidate_a_id": "CAND_EP002_76",
+      "candidate_b_id": "CAND_EP002_234",
+      "winner_id": "CAND_EP002_234",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate B opens with an explosive, high-contempt verbal hook ('You look like a kitchen maid who wandered into the wrong wedding') that immediately stops a scrolling user within the critical first 3 seconds, whereas Candidate A opens on a softer, slower plea ('Gerald... Look at me'). Furthermore, Candidate B features a complete and viscerally compelling micro-arc in under 30 seconds\u2014escalating through multi-sided family bullying before pivoting into the protagonist's electrifying transformation from victim to defiant counter-striker. While Candidate A ends on passive crushing rejection and paternal abandonment, Candidate B cuts on Gerald's sudden visible panic as Juliana publicly exposes his greed to the congregation, creating a far more addictive cliffhanger for cold viewers.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on the vastly superior scroll-stop dialogue hook, active emotional reversal, and shorter duration efficiency (29.4s vs 32.8s), not candidate order."
+    },
+    {
+      "match_id": "M065",
+      "candidate_a_id": "CAND_EP002_288",
+      "candidate_b_id": "CAND_EP002_302",
+      "winner_id": "CAND_EP002_288",
+      "loser_id": "CAND_EP002_302",
+      "rationale": "Candidate A opens with immediate, high-friction antagonist conflict ('Go home quietly... leave this chapel with some dignity' with Gerald physically waving her away), establishing both the visceral cruelty and Juliana's underdog position in the critical first 3 seconds before delivering her spine-chilling transformation. Crucially, Candidate A cuts at B036 mid-sentence on peak cliffhanger tension ('I may leave this chapel without a husband...'), forcing the viewer to click through to see the conclusion and aftermath. In contrast, Candidate B opens already mid-rebuttal without showing the dismissive catalyst, and ends at B037 on a fully closed, emotionally resolved speech ('...but I will not leave it believing I was the one who should be ashamed') accompanied by swelling music that completely discharges the tension rather than leaving a conversion-driving curiosity gap.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven: Candidate A possesses a superior two-sided hook (villain action inciting hero reaction) and a genuine mid-sentence cliffhanger cut compared to Candidate B's fully resolved, self-contained monologue exit."
+    },
+    {
+      "match_id": "M066",
+      "candidate_a_id": "CAND_EP002_04",
+      "candidate_b_id": "CAND_EP002_288",
+      "winner_id": "CAND_EP002_04",
+      "loser_id": "CAND_EP002_288",
+      "rationale": "Candidate A opens on an immediate, unambiguous shock hook ('I cannot marry you, Juliana' paired with the visual of the groom looking down beside the smirking rival in gold) that grounds the stakes for a zero-context scroller in under three seconds. It sustains a clean, punchy escalation of cruelty and concludes on a high-tension betrayal cliffhanger with Gerald brazenly linking arms with Clarissa at the altar steps. While Candidate B features a strong emotional empowerment turnaround, its opening line relies on inferred prior context ('Go home quietly...'), its monologue risks pacing drop-off across a 33.5s middle arc, and its final beat cuts mid-sentence on dialogue rather than leaving a sharp, visceral narrative question.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the immediate cold-open hook clarity and peak betrayal cliffhanger cut, independent of label presentation order."
+    },
+    {
+      "match_id": "M067",
+      "candidate_a_id": "CAND_EP002_302",
+      "candidate_b_id": "CAND_EP002_301",
+      "winner_id": "CAND_EP002_302",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "While Candidate B is 7.2s shorter, it commits an unnatural sentence fracture by cutting on B036 ('I may leave this chapel without a husband...'), which feels like an accidental technical audio clip or awkward truncation rather than a genuine cliffhanger. Candidate A includes B037 to land the devastating antithesis ('...but I will not leave it believing I was the one who should be ashamed') over a swelling score, converting the sequence into an iconic viral empowerment punchline that immediately leaves the cold audience desperate to see the aftermath and vengeance in Episode 2.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on sentence completion and punchline cliffhanger delivery versus Candidate B's syntactically clipped half-clause ending."
+    },
+    {
+      "match_id": "M068",
+      "candidate_a_id": "CAND_EP002_215",
+      "candidate_b_id": "CAND_EP002_306",
+      "winner_id": "CAND_EP002_215",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate A possesses vastly superior cold-audience scroll-stop power, opening on visceral familial hostility (Clarissa pinching Juliana's dress, calling her a kitchen maid while clinging to the groom) that establishes immediate stakes and villainy in under 3 seconds. It delivers a complete, dynamic emotional arc from public humiliation and tears into steely, venomous defiance, ending on an electric cliffhanger that leaves Gerald's reaction hanging in mid-air. In contrast, Candidate B is a monologued resolution speech where Juliana has already won the moral victory and is walking away; it feels like an ending rather than an urgent, tension-filled hook that forces a viewer to tap 'Watch Episode 1'.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the stark contrast between active dramatic conflict/cliffhanger tension in A versus the monologue-driven resolution and lack of unresolved narrative pressure in B."
+    },
+    {
+      "match_id": "M069",
+      "candidate_a_id": "CAND_EP002_115",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_08",
+      "loser_id": "CAND_EP002_115",
+      "rationale": "Candidate B opens with an explicit, high-stakes declaration ('I cannot marry you, Juliana') accompanied by Gerald sneering down from the altar steps, instantly grounding the entire wedding drama in under 3 seconds. Candidate A begins mid-argument on an abstract line ('Promises change when a better choice appears'), missing the initial gut-punch and brutal personal insults ('far too plain... far too silent... completely beneath the future I deserve') that make the father's subsequent abandonment so devastating. While B is 20 seconds longer, its sustained, escalating double-betrayal arc (groom's cruel rejection followed immediately by father's cold abandonment) delivers vastly superior emotional shock and retention power for a cold short-form viewer.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the hook's direct narrative clarity and the compounded emotional momentum across both betrayals, not position order."
+    },
+    {
+      "match_id": "M070",
+      "candidate_a_id": "CAND_EP002_301",
+      "candidate_b_id": "CAND_EP002_289",
+      "winner_id": "CAND_EP002_289",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "While Candidate A is tighter at 26.3s, Candidate B is dramatically superior because it captures the active before-and-after emotional transformation (B027-B029: Gerald coldly dismissing her, her tears turning into a steely defiant smile on 'Dignity?') and completes the two-part rhetorical climax. In contrast, Candidate A cuts abruptly on beat B036 mid-sentence ('I may leave this chapel without a husband...'), which feels like a broken audio glitch rather than a compelling cliffhanger, whereas Candidate B lands the powerful payoff ('...but I will not leave it believing I was the one who should be ashamed') while leaving the urgent forward-propelling question of her next move wide open.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven: Candidate A suffers from a broken mid-sentence cut at B036 and lacks the visible emotional turning point provided by B027-B029, whereas Candidate B delivers the complete transformation and punchline."
+    },
+    {
+      "match_id": "M071",
+      "candidate_a_id": "CAND_EP002_115",
+      "candidate_b_id": "CAND_EP002_215",
+      "winner_id": "CAND_EP002_215",
+      "loser_id": "CAND_EP002_115",
+      "rationale": "While Candidate A is shorter and delivers a clean gut-punch of paternal betrayal, Candidate B provides a far more compelling full emotional arc for a cold-audience vertical drama ad. B opens on vicious, personal sisterly shaming ('You look like a kitchen maid who wandered into the wrong wedding') and builds relentlessly to a transformative protagonist counter-attack where Juliana pivots from crying victim into regal defiance, publicly shaking the groom's composure on the final beat. This active 'slap back' / revenge turn creates vastly stronger hook-to-conversion pull on TikTok/Reels than A's ending of purely passive, helpless abandonment.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the transformative emotional turnaround and audience catharsis vs. Candidate A's purely downward emotional slope, not positional preference."
+    },
+    {
+      "match_id": "M072",
+      "candidate_a_id": "CAND_EP002_302",
+      "candidate_b_id": "CAND_EP002_281",
+      "winner_id": "CAND_EP002_302",
+      "loser_id": "CAND_EP002_281",
+      "rationale": "Candidate A delivers a vastly superior, goosebump-inducing cliffhanger exit on B037 ('I may leave this chapel without a husband... but I will not leave it believing I was the one who should be ashamed') paired with a swelling score, offering a complete and irresistible emotional hero-transformation hook. While Candidate B provides slightly more opening victim-to-triumph contrast across its first three beats, its ending on B034 ('what your word is worth') cuts off mid-monologue right before Juliana's climactic punchline. Candidate A opens immediately at full power on B030 with zero narrative drag and drives all 33.5 seconds directly into an explosive, high-converting cathartic apex.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the complete emotional payoff and superior cliffhanger resolution of B037 over the premature cut at B034, independent of position."
+    },
+    {
+      "match_id": "M073",
+      "candidate_a_id": "CAND_EP002_76",
+      "candidate_b_id": "CAND_EP002_07",
+      "winner_id": "CAND_EP002_07",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate B opens with an explosive, instantaneous hook ('I cannot marry you, Juliana' over Gerald sneering with Clarissa gloating behind him) that hooks a cold scrolling viewer within the first two seconds, unlike Candidate A's slower, vague opening plea ('Gerald... Look at me'). Furthermore, Candidate B captures the full, vicious catalog of insults ('far too plain... far too silent... completely beneath the future I deserve') establishing immediate visceral villainy and stakes before escalating into the father's impending betrayal. While Candidate A cuts slightly deeper into the father's verbal rebuke, Candidate B's vastly superior opening hook and cleaner narrative trajectory make it the far more effective cold-audience ad.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven by the decisive opening 3-second hook strength and visceral dialogue contrast, independent of candidate ordering."
+    },
+    {
+      "match_id": "M074",
+      "candidate_a_id": "CAND_EP002_215",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_215",
+      "loser_id": "CAND_EP002_08",
+      "rationale": "While Candidate B opens on an explosive verbal rejection, its 44.8s arc leaves the protagonist entirely as a weeping victim abandoned by both groom and father, resulting in a passive, depressing trajectory that risks audience drop-off. Candidate A is nearly 10 seconds leaner (35.2s) and delivers a complete, electrifying micro-arc: it absorbs vicious, relatable sisterly insults before executing a visceral power shift where the protagonist transforms from tearful target to commanding defiance, cutting on a sharp confrontational cliffhanger that actively compels cold scrollers to tap 'Watch Episode 1' to see her revenge.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on duration efficiency, the complete emotional transformation arc, and a dynamic confrontational cliffhanger over Candidate B's pure victimhood."
+    },
+    {
+      "match_id": "M075",
+      "candidate_a_id": "CAND_EP002_08",
+      "candidate_b_id": "CAND_EP002_07",
+      "winner_id": "CAND_EP002_08",
+      "loser_id": "CAND_EP002_07",
+      "rationale": "Both candidates share the identical high-impact opening and middle escalation, but Candidate A is the superior performance promo because its exit delivers a crushing double-betrayal punchline. Candidate B cuts at 37.2s on Juliana's pleading question to her father, which deflates tension into a weak, unresolved question mark before the father even answers. In contrast, Candidate A extends an extra 7.6 seconds through beats B015-B016 to deliver the father's brutal verbal abandonment ('Gerald has made his choice. Accept it, Juliana. Do not disgrace us further'), leaving Juliana totally isolated and ending on a visceral, high-stakes curiosity gap that compels cold viewers to swipe or tap.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven by the decisive narrative and emotional payoff of the father's active betrayal in B015-B016 versus the anticlimactic mid-question cut in B014, not label order."
+    },
+    {
+      "match_id": "M076",
+      "candidate_a_id": "CAND_EP002_281",
+      "candidate_b_id": "CAND_EP002_156",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_156",
+      "rationale": "Candidate A delivers a vastly superior payoff-to-duration ratio, packaging Juliana's complete emotional reversal from humiliated victim to commanding defiance in a tight, high-retention 30.8s runtime that ends on a devastating punchline ('You have shown them exactly what your word is worth'). Candidate B possesses a strong initial hook and visceral familial betrayal, but at 48.9s it suffers significant drop-off risk through prolonged, repetitive insults across three different antagonists (father, sister, matriarch) before abruptly stopping right as the pushback starts ('Dignity?'). Candidate A provides the actual cathartic confrontation that short-form viewers crave, making it the significantly higher-converting hook for cold traffic.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on duration efficiency, pacing escalation, and a complete punchline cliffhanger versus an over-extended setup."
+    },
+    {
+      "match_id": "M077",
+      "candidate_a_id": "CAND_EP002_215",
+      "candidate_b_id": "CAND_EP002_237",
+      "winner_id": "CAND_EP002_237",
+      "loser_id": "CAND_EP002_215",
+      "rationale": "Candidate B opens significantly harder on pure scroll-stopping cruelty with 'You look like a kitchen maid who wandered into the wrong wedding' (Score 5/5 dialogue hook vs Candidate A's milder setup lines), immediately defining the extreme status disparity. More importantly, Candidate B carries Juliana's emotional metamorphosis through to a far superior cliffhanger exit at B033 ('...you have shown them something far more valuable'), leaving an intense unresolved curiosity gap on what that truth is, whereas Candidate A cuts mid-indictment at B031 where the accusation has already landed and Gerald's guilt is already clear. The extra 4.6 seconds in B are fully justified by delivering both a punchier hook and an exponentially stronger cut-to-black cliffhanger.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the opening insult severity (B020 vs B018) and the curiosity gap generated by the cliffhanger tease at B033 versus B031, not label or presentation order."
+    },
+    {
+      "match_id": "M078",
+      "candidate_a_id": "CAND_EP002_156",
+      "candidate_b_id": "CAND_EP002_237",
+      "winner_id": "CAND_EP002_237",
+      "loser_id": "CAND_EP002_156",
+      "rationale": "Candidate B hooks cold viewers instantly in under 3 seconds with a vicious verbal slap ('You look like a kitchen maid who wandered into the wrong wedding') and delivers a full dramatic arc in 39.8s\u20149 seconds tighter than Candidate A. While Candidate A devotes extensive runtime (B011\u2013B017) to parental pleading before reaching Juliana's pivot, Candidate B cuts straight to the bullying, showcases her complete physical and vocal metamorphosis into regal composure, and finishes on an irresistible curiosity gap ('You have shown them something far more valuable') right as she holds the entire chapel spellbound. Candidate B provides stronger viral pacing, a more satisfying transformation arc, and superior duration efficiency with zero mid-clip sag.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on immediate hook punch, duration efficiency (39.8s vs 48.9s), and an active verbal cliffhanger over candidate positioning."
+    },
+    {
+      "match_id": "M079",
+      "candidate_a_id": "CAND_EP002_115",
+      "candidate_b_id": "CAND_EP002_286",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_115",
+      "rationale": "While Candidate A possesses slightly faster visual shock at the opening altar frame, Candidate B delivers a far superior complete narrative arc that is essential for cold-audience performance marketing. Candidate B opens with direct expulsion stakes ('Go home quietly... leave this chapel with some dignity') and immediately converts victimhood into an electrifying power inversion (Emotional Salience 5/5) as Juliana systematically strips Gerald of his honor before the entire congregation. The payoff line in B034 ('You have shown them exactly what your word is worth') provides a viral, high-catharsis cliffhanger exit that compels viewers to tap Episode 1 to witness his downfall, unlike Candidate A which ends on deflating, passive isolation under the father's scolding.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the transformative power inversion arc and lethal cliffhanger punchline, rejecting position bias."
+    },
+    {
+      "match_id": "M080",
+      "candidate_a_id": "CAND_EP002_115",
+      "candidate_b_id": "CAND_EP002_302",
+      "winner_id": "CAND_EP002_302",
+      "loser_id": "CAND_EP002_115",
+      "rationale": "While Candidate A delivers a faster, highly compressed gut-punch of paternal betrayal in 24.1s, Candidate B represents the gold standard of vertical drama performance marketing: an instant cathartic power-reversal that converts passive pity into active emotional investment. Candidate B's opening hook immediately articulates the central stakes ('You abandoned a woman who trusted you...'), escalates relentlessly without dead air, and culminates in a viral empowerment soundbite ('...but I will not leave it believing I was the one who should be ashamed') that leaves cold viewers desperately wanting to see her revenge arc unfold in Episode 2.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on the cathartic transformation arc and superior cliffhanger narrative engine, unaffected by candidate order."
+    },
+    {
+      "match_id": "M081",
+      "candidate_a_id": "CAND_EP002_289",
+      "candidate_b_id": "CAND_EP002_288",
+      "winner_id": "CAND_EP002_289",
+      "loser_id": "CAND_EP002_288",
+      "rationale": "While Candidate B is 7.2 seconds shorter, cutting on Beat B036 truncates Juliana mid-sentence ('I may leave this chapel without a husband...'), which reads as an accidental edit glitch rather than a compelling cliffhanger. Candidate A extends through B037 to land the devastating rhetorical antithesis ('...but I will not leave it believing I was the one who should be ashamed'), completing her transformation from victim to untouchable force. That delivered punchline crystallizes the entire viral female-empowerment hook and leaves viewers desperate to see her promised retribution in Episode 2.",
+      "confidence": 0.94,
+      "position_bias_check": "Winner is Candidate A. This is entirely content-driven: Candidate B suffers from an unnatural mid-sentence dialogue cutoff on B036, whereas Candidate A delivers the full rhetorical payoff and cliffhanger landing."
+    },
+    {
+      "match_id": "M082",
+      "candidate_a_id": "CAND_EP002_07",
+      "candidate_b_id": "CAND_EP002_301",
+      "winner_id": "CAND_EP002_07",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "Candidate A opens on the raw inciting incident with an immediate, lethal hook ('I cannot marry you, Juliana' over low-angle dismissal and a gloating rival in gold) that grabs cold-audience attention within the critical first 3 seconds far better than Candidate B's retrospective confrontation. While Candidate B offers a strong female empowerment beat, it opens mid-argument and cuts on an incomplete sentence setup ('I may leave this chapel without a husband...') which feels mid-speech rather than a sharp cliffhanger. Candidate A maintains compounding, visceral stakes from the groom's brutal rejection down to the desperate parental plea at the father's unyielding pew, delivering maximum cold-audience curiosity and urgent need to watch Episode 1.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the instantaneous shock value of the inciting wedding betrayal and the stronger narrative hook over B's mid-speech cut, independent of presentation order."
+    },
+    {
+      "match_id": "M083",
+      "candidate_a_id": "CAND_EP002_306",
+      "candidate_b_id": "CAND_EP002_302",
+      "winner_id": "CAND_EP002_302",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate B is the superior cold-audience promo because its opening hook (B030-B032) instantly establishes the core premise and stakes in under six seconds ('You abandoned a woman who trusted you... because another woman promised you greater beauty and wealth'), accompanied by a shot establishing Gerald and the blurred rival Clarissa. In contrast, Candidate A opens at B033 with an abstract philosophical rebuttal ('You wanted this entire chapel to believe that I was not worthy of you') that lacks the immediate situational context of why he left her. The extra 10 seconds in Candidate B provide crucial narrative gasoline that transforms Juliana's final exit from a generic dignified monologue into a fully earned, cathartic public counterattack.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on immediate premise legibility and the superior hook in B030-B032 over B033, not label order."
+    },
+    {
+      "match_id": "M084",
+      "candidate_a_id": "CAND_EP002_07",
+      "candidate_b_id": "CAND_EP002_306",
+      "winner_id": "CAND_EP002_07",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate A opens with an undeniable 3-second scroll-stop hook ('I cannot marry you, Juliana' paired with Gerald looking down dismissively and Clarissa gloating in gold), immediately framing the high-stakes betrayal for a zero-context cold viewer. It sustains an escalating arc of personal cruelty and cuts on a genuine, unresolved cliffhanger as Juliana begs her silent father for intervention, leaving a compelling narrative vacuum. In contrast, while Candidate B features an empowering climax with a concise 23.3s runtime, its monologue opening lacks immediate visceral shock, and its ending provides complete emotional closure and resolution rather than a suspenseful cliffhanger to drive an episode tap.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the opening 3-second hook strength and unresolved cliffhanger versus Candidate B's resolving monologue, not label order."
+    },
+    {
+      "match_id": "M085",
+      "candidate_a_id": "CAND_EP002_215",
+      "candidate_b_id": "CAND_EP002_156",
+      "winner_id": "CAND_EP002_215",
+      "loser_id": "CAND_EP002_156",
+      "rationale": "Candidate A opens with immediate, high-friction personal venom ('Why are you surprised, sister? Look at you') paired with an unmistakable visual of the smug rival clinging to the groom, delivering instant conflict without needing narrative setup. More crucially, Candidate A completes the emotional payoff and cuts on a vastly superior cliffhanger: Juliana delivers her devastating verbal retaliation ('...because another woman promised you greater beauty and wealth'), freezing Gerald in visible unease, whereas Candidate B cuts prematurely on 'Dignity?' before the counterattack even lands. Candidate A achieves higher dramatic escalation, a true cinematic punchline cliffhanger, and a tight 35.2s duration that minimizes drop-off risk compared to B's 48.9s run.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven: Candidate A delivers a complete emotional turnaround and ends on Gerald's public unmasking rather than cutting off the rebuttal mid-breath as Candidate B does."
+    },
+    {
+      "match_id": "M086",
+      "candidate_a_id": "CAND_EP002_234",
+      "candidate_b_id": "CAND_EP002_286",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_234",
+      "rationale": "While Candidate A opens with vicious verbal shock ('kitchen maid'), it spends over 15 seconds cycling through repetitive family belittlement before Juliana finally turns, cutting off right as her counter-attack begins (an awkward mid-sentence severance). Candidate B opens immediately on the pivotal conflict with Gerald's dismissal ('At least leave this chapel with some dignity'), allowing the full dramatic power inversion to land in a tight 27.5 seconds and ending on a devastating, crowd-silencing moral mic-drop ('You have shown them exactly what your word is worth'). B delivers a complete, electrifying emotional arc with superior duration efficiency and a true cliffhanger payoff that compels cold viewers to see Gerald's reaction.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. Choice is strictly driven by narrative payoff, clip pacing, and ending strength rather than label position."
+    },
+    {
+      "match_id": "M087",
+      "candidate_a_id": "CAND_EP002_306",
+      "candidate_b_id": "CAND_EP002_301",
+      "winner_id": "CAND_EP002_306",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "Candidate A delivers a vastly superior cliffhanger exit by including Beat B037, landing the full emotional climax ('...but I will not leave it believing I was the one who should be ashamed') on Juliana's radiant face rather than cutting mid-sentence on B036 ('I may leave this chapel without a husband...'), which feels like an unnatural audio cutoff rather than a compelling cliffhanger. Candidate A also achieves complete narrative escalation in 23.3s, maximizing retention with a tight hook-to-triumph arc that leaves scrollers eager to see her revenge in Episode 2.",
+      "confidence": 0.94,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on boundary cleanliness and cliffhanger completion versus an awkward mid-sentence cut, independent of candidate ordering."
+    },
+    {
+      "match_id": "M088",
+      "candidate_a_id": "CAND_EP002_237",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_237",
+      "loser_id": "CAND_EP002_08",
+      "rationale": "While Candidate B provides a classic victim-in-distress arc ending on harsh parental betrayal, Candidate A delivers the far superior cold-audience conversion arc: a rapid protagonist metamorphosis from public humiliation into icy, sovereign defiance. Opening on an immediate verbal slap ('You look like a kitchen maid...'), A keeps the viewer hooked through escalating social mockery before pivoting at B029 into an empowering counter-strike that leaves the audience desperate to see Gerald verbally dismantled. In contrast, Candidate B suffers from prolonged victimhood without a rebound, carries a higher drop-off risk at 44.8s, and cuts on total disempowerment rather than the satisfying righteous tension that drives short-form viewers to click 'Watch Episode 1'.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the dramatic reversal arc, shorter duration efficiency (39.8s vs 44.8s), and cliffhanger intrigue, completely independent of candidate position."
+    },
+    {
+      "match_id": "M089",
+      "candidate_a_id": "CAND_EP002_281",
+      "candidate_b_id": "CAND_EP002_07",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_07",
+      "rationale": "While Candidate B has a slightly punchier opening line ('I cannot marry you, Juliana'), it leaves the protagonist stranded in prolonged, tearful victimization and ends on a softer plea to her father. Candidate A delivers a far superior complete dramatic arc in 30.8s, taking the viewer from humiliating dismissal directly into an electrifying power reversal where Juliana publicly dismantles Gerald before the entire congregation. Ending on Juliana's devastating indictment ('You have shown them exactly what your word is worth') provides a viral, high-catharsis cliffhanger that drives much stronger intent to watch Episode 1 than Candidate B's unresolved pleading.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the transformative power reversal and superior punchline cliffhanger compared to Candidate B's passive victim posture, not label positioning."
+    },
+    {
+      "match_id": "M090",
+      "candidate_a_id": "CAND_EP002_215",
+      "candidate_b_id": "CAND_EP002_289",
+      "winner_id": "CAND_EP002_215",
+      "loser_id": "CAND_EP002_289",
+      "rationale": "Candidate A delivers a far superior scroll-stopping opening beat (Clarissa smugly clinging to Gerald's arm, pinching the gown, and delivering venomous sister-on-sister attacks) that instantly establishes the emotional outrage and illicit triangle within 3 seconds, whereas Candidate B opens mid-dismissal ('Go home quietly') without that visceral visual and familial context. Furthermore, Candidate A ends on a true high-stakes cliffhanger (B031 cuts precisely as Juliana publicly exposes Gerald's mercenary betrayal, leaving his reaction and retribution unresolved), while Candidate B plays out Juliana's full triumphant monologue to a resolved emotional cadence ('...I will not leave it believing I was the one who should be ashamed') that releases the tension rather than forcing a click to Episode 1.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the opening visceral outrage hook and the superior unresolved cliffhanger cut versus Candidate B's emotionally resolved exit and slower opening context."
+    },
+    {
+      "match_id": "M091",
+      "candidate_a_id": "CAND_EP002_289",
+      "candidate_b_id": "CAND_EP002_156",
+      "winner_id": "CAND_EP002_289",
+      "loser_id": "CAND_EP002_156",
+      "rationale": "Candidate A delivers a vastly superior performance marketing structure by opening on high-stakes dismissal ('Go home quietly... leave with some dignity') and immediately pivoting into an electrifying, uninterrupted 40-second counterattack where the abandoned bride publicly dismantles the groom before the entire congregation. In contrast, Candidate B suffers from severe pacing drag across 48.9 seconds\u2014it gets bogged down in repetitive, multi-character bullying (father, sister, matriarch) before cutting abruptly on a single-word cliffhanger ('Dignity?') that withholds the heroine's actual verbal retaliation. Candidate A captures the complete emotional transformation from victim to commanding protagonist, finishing on a chilling, memorable mic-drop proclamation that drives viewers straight into Episode 2 to see the fallout.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on pacing economy, proactive protagonist agency, and a conclusive dramatic turning point rather than candidate order."
+    },
+    {
+      "match_id": "M092",
+      "candidate_a_id": "CAND_EP002_237",
+      "candidate_b_id": "CAND_EP002_281",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_237",
+      "rationale": "While Candidate A opens on a vicious sister insult, Candidate B delivers a vastly superior promotional arc by cutting 9 seconds of front-loaded family jeering to open directly on the Matriarch's crushing line and Gerald's dismissive command, then driving unbroken momentum straight into Juliana's transformation. Crucially, Candidate B includes Beat B034 ('You have shown them exactly what your word is worth'), landing the devastating punchline that Candidate A cuts mid-thought on B033. At 30.8s, B achieves peak dramatic retribution and crowd-silencing payoff with 23% less duration risk.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on complete dramatic resolution of the retort (B034 punchline vs B033 incomplete set-up) and superior duration efficiency, not label ordering."
+    },
+    {
+      "match_id": "M093",
+      "candidate_a_id": "CAND_EP002_281",
+      "candidate_b_id": "CAND_EP002_289",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_289",
+      "rationale": "Candidate A delivers a vastly superior cold-audience exit by cutting precisely on Juliana's devastating punchline ('You have shown them exactly what your word is worth'), leaving Gerald's reaction and the immediate aftermath in peak unresolved tension. Candidate B drags on for an additional 10 seconds through B035\u2013B037, allowing the tension to deflate into a self-comforting rhetorical resolution ('...not leave it believing I was the one who should be ashamed') that satisfies the emotional beat rather than driving an urgent click. At 30.8s, Candidate A achieves maximum emotional transformation and confrontation bite with zero dead air and far less drop-off risk.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven by Candidate A's higher cliffhanger tension and duration efficiency versus Candidate B's over-extended resolution."
+    },
+    {
+      "match_id": "M094",
+      "candidate_a_id": "CAND_EP002_07",
+      "candidate_b_id": "CAND_EP002_115",
+      "winner_id": "CAND_EP002_115",
+      "loser_id": "CAND_EP002_07",
+      "rationale": "Candidate B delivers a much more visceral, two-punch betrayal arc in just 24.1s compared to Candidate A's slower 37.2s build. While Candidate A cuts prematurely on Juliana's unresolved plea to her father, Candidate B delivers the brutal paternal abandonment blow ('Gerald has made his choice. Accept it, Juliana. Do not disgrace us further.'), ending on peak isolation and high tension. With equal hook potency ('Promises change when a better choice appears' paired with the visual of the rival at the altar) and substantially superior duration efficiency and cliffhanger completion, Candidate B is the clear winner for cold-audience scroll-stop conversion.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on duration efficiency, the completed double-betrayal arc, and a significantly harder exit cliffhanger rather than label position."
+    },
+    {
+      "match_id": "M095",
+      "candidate_a_id": "CAND_EP002_215",
+      "candidate_b_id": "CAND_EP002_286",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_215",
+      "rationale": "Candidate B opens at high tension with Gerald's dismissive command to 'leave with some dignity' and converts immediately into a breathtaking, uninterrupted power inversion culminating in a devastating punchline cliffhanger ('You have shown them exactly what your word is worth'). Candidate A suffers from front-loaded pacing drag across beats B018-B026 with repetitive insults from both the sister and matriarch, delaying Juliana's comeback until 25 seconds into the 35s clip and cutting off mid-speech. At 27.5 seconds, Candidate B delivers maximum emotional catharsis, tighter duration efficiency, and a vastly superior mic-drop exit for cold short-form audiences.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven: Candidate B possesses superior narrative velocity, a complete protagonist retaliation arc, and an explosive final punchline cut compared to Candidate A's front-heavy bullying setup and premature cutoff."
+    },
+    {
+      "match_id": "M096",
+      "candidate_a_id": "CAND_EP002_04",
+      "candidate_b_id": "CAND_EP002_286",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_04",
+      "rationale": "While Candidate A possesses a sharp, immediate altar rejection hook, it leaves Juliana trapped entirely in prolonged, passive victimhood across 30.6s without delivering a satisfying narrative reversal. Candidate B opens with immediate hostile tension ('Go home quietly... leave this chapel with some dignity') and rapidly converts that humiliation into an explosive protagonist power inversion, which drives significantly higher watch-through and conversion on vertical short-form platforms. Furthermore, B achieves a tighter duration (27.5s) and cuts on an electrifying, crowd-silencing moral mic-drop ('You have shown them exactly what your word is worth') that generates immense curiosity for Gerald's retaliation in Episode 1.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on the cathartic protagonist transformation and punchy cliffhanger exit over passive victimhood, completely independent of candidate ordering."
+    },
+    {
+      "match_id": "M097",
+      "candidate_a_id": "CAND_EP002_289",
+      "candidate_b_id": "CAND_EP002_302",
+      "winner_id": "CAND_EP002_289",
+      "loser_id": "CAND_EP002_302",
+      "rationale": "Candidate A opens with Gerald's cruel dismissal ('Go home quietly, Juliana. At least leave this chapel with some dignity') and Juliana's transitional spark ('Dignity?'), creating an immediate high-stakes provocation that establishes the antagonist's arrogance before Juliana's counterattack. Candidate B cuts straight into Juliana's accusation mid-retaliation at B030 without showing Gerald's inciting command, robbing the subsequent moral reversal of its visceral bite and leaving cold viewers briefly disoriented about why she is speaking. While Candidate B is 7.2s leaner, Candidate A's complete setup-to-triumph trajectory maximizes emotional contrast and delivers significantly higher scroll-stopping tension.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the dramatic necessity of Gerald's opening provocation (B027\u2013B029) to anchor the emotional reversal, independent of position."
+    },
+    {
+      "match_id": "M098",
+      "candidate_a_id": "CAND_EP002_281",
+      "candidate_b_id": "CAND_EP002_288",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_288",
+      "rationale": "Candidate A delivers a far superior narrative arc and cliffhanger exit by concluding on Juliana's devastating punchline ('You have shown them exactly what your word is worth') at B034, delivering peak verbal impact and maximum closure tension without leaking momentum. In contrast, Candidate B drags on for two extra beats to cut abruptly on an incomplete dependent clause ('I may leave this chapel without a husband...') at B036, which feels like an awkward audio cutoff rather than an intentional dramatic drop. Furthermore, Candidate A's opening with the matriarch's vicious insult ('You should be grateful you're at least allowed to attend...') establishes higher multi-character conflict and stakes than Gerald's standard dismissal alone, making A the tighter, punchier conversion asset.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on ending cut cleanliness (B034's punchline drop vs B036's mid-sentence cutoff) and stronger opening multi-character antagonism, independent of candidate ordering."
+    },
+    {
+      "match_id": "M099",
+      "candidate_a_id": "CAND_EP002_286",
+      "candidate_b_id": "CAND_EP002_289",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_289",
+      "rationale": "Both candidates share the exact same opening hook (B027) and core escalation, but Candidate A cuts right at the apex of tension and rhetorical impact on B034 ('You have shown them exactly what your word is worth') at 27.5s. In contrast, Candidate B extends 13.2 seconds longer through B035-B037, allowing Gerald's speechless reaction and Juliana's extended declaration to provide dramatic closure and emotional resolution, softening the urgency of the cliffhanger. Candidate A achieves superior duration efficiency and leaves cold viewers on a sharper, punchier cliffhanger that urgently demands to see the fallout.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on duration efficiency and avoiding over-resolution at the cut point, not candidate ordering."
+    },
+    {
+      "match_id": "M100",
+      "candidate_a_id": "CAND_EP002_04",
+      "candidate_b_id": "CAND_EP002_289",
+      "winner_id": "CAND_EP002_04",
+      "loser_id": "CAND_EP002_289",
+      "rationale": "Candidate A delivers an instant, devastating hook in the first 2.8 seconds ('I cannot marry you, Juliana') backed by immediate visual clarity of the altar betrayal and rival mistress, providing unmatched scroll-stop arrest for a cold feed. While Candidate B offers a deeply satisfying empowerment monologue, at 40.7s it is a speech-heavy mid-climax that assumes the viewer is already invested in the bride's vindication, whereas Candidate A creates an agonizing unresolved injustice in a lean 30.6s that compels an immediate click to see retribution begin.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is driven purely by opening scroll-stop hook velocity and duration efficiency for cold audiences, not label ordering."
+    },
+    {
+      "match_id": "M101",
+      "candidate_a_id": "CAND_EP002_302",
+      "candidate_b_id": "CAND_EP002_215",
+      "winner_id": "CAND_EP002_215",
+      "loser_id": "CAND_EP002_302",
+      "rationale": "Candidate B constructs a complete, explosive emotional rollercoaster\u2014opening with immediate visceral sisterly cruelty ('kitchen maid who wandered into the wrong wedding') and compounded humiliation from both the matriarch and groom, which makes Juliana's mid-clip pivot ('Dignity?') and counterattack land with massive cathartic resonance. Candidate A enters in media res on Juliana's monologue without the preceding on-screen bullying, functioning as an extended noble lecture that bleeds dramatic tension and resolves her dignity before the cut rather than trapping the viewer in unresolved narrative conflict. Candidate B's cut on Gerald's visibly cracked composure creates a far more urgent, cliffhanger-driven curiosity gap for cold scrollers to tap Episode 1.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This choice is content-driven based on the starker victim-to-avenger transformation arc and superior unresolved cliffhanger tension, completely independent of candidate position."
+    },
+    {
+      "match_id": "M102",
+      "candidate_a_id": "CAND_EP002_286",
+      "candidate_b_id": "CAND_EP002_76",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate A opens with immediate conflict and motion as the groom orders Juliana to leave the chapel with some dignity, arresting a cold viewer within seconds rather than relying on Candidate B's slower, imploring walk down the aisle. Across its concise 27.5-second runtime, A executes a complete power inversion from discarded victim to steely defiance, ending on a razor-sharp verbal execution ('You have shown them exactly what your word is worth') that drives high-intent curiosity. While Candidate B delivers strong paternal cruelty, its 32.8s arc remains in a state of unresolved victimhood and weeping desperation, making Candidate A the punchier, higher-converting empowerment hook for vertical feeds.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on immediate opening stakes, pacing efficiency, and the power-inversion punchline, independent of candidate ordering."
+    },
+    {
+      "match_id": "M103",
+      "candidate_a_id": "CAND_EP002_04",
+      "candidate_b_id": "CAND_EP002_281",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_04",
+      "rationale": "While Candidate A possesses a punchier opening line ('I cannot marry you, Juliana'), Juliana remains a passive, tearful victim throughout its 30.6 seconds, giving cold viewers an agonizing downbeat rather than a reason to root for the show. Candidate B delivers a far superior emotional arc for short-form ad conversion: it pivots swiftly from patronizing humiliation into an empowering protagonist transformation ('Dignity?'), commanding the room and ending on a crowd-silencing indictment ('You have shown them exactly what your word is worth') that generates massive viewer satisfaction and viral comment engagement. The shift from grief to defiant retribution creates a far more compelling curiosity gap and appetite to see the antagonist get destroyed in Episode 1.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the complete protagonist transformation arc versus the sustained passive victim state of Candidate A, independent of candidate ordering."
+    },
+    {
+      "match_id": "M104",
+      "candidate_a_id": "CAND_EP002_156",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_156",
+      "loser_id": "CAND_EP002_08",
+      "rationale": "While Candidate B opens on a clean initial rejection ('I cannot marry you'), it traps the protagonist in passive victimhood and ends abruptly on parental scolding without an emotional turn. Candidate A delivers a far more compelling full emotional arc\u2014escalating from compounded humiliation by groom, father, sister, and matriarch into a powerful victim-to-defiance transformation, cutting perfectly on her chilling smile and single-word challenge ('Dignity?'). That defiant hook generates vastly superior curiosity and urgency to tap 'Watch Episode 1' to see the revenge unfold.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the complete emotional pivot from helplessness to retaliatory defiance and its superior cliffhanger exit, not label position."
+    },
+    {
+      "match_id": "M105",
+      "candidate_a_id": "CAND_EP002_302",
+      "candidate_b_id": "CAND_EP002_08",
+      "winner_id": "CAND_EP002_08",
+      "loser_id": "CAND_EP002_302",
+      "rationale": "Candidate B opens with immediate, visceral shock ('I cannot marry you, Juliana' while the groom sneers down with the other woman gloating behind him), instantly capturing a cold-swiping viewer in under 3 seconds without needing prior setup. It delivers an escalating double-twist arc\u2014transitioning from brutal romantic rejection to catastrophic parental betrayal\u2014cutting precisely when her father commands her to accept the disgrace. In contrast, while Candidate A has an empowering monologue, it plays out as an extended single-tempo speech that feels like an emotional conclusion rather than an urgent cliffhanger demanding the viewer tap to find out what happens next.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on immediate scroll-stopping power, compounding stakes, and a superior unresolved cliffhanger cut rather than label order."
+    },
+    {
+      "match_id": "M106",
+      "candidate_a_id": "CAND_EP002_306",
+      "candidate_b_id": "CAND_EP002_286",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate B establishes the full dramatic stakes and power inversion in under 28 seconds: it opens on an active conflict beat where Gerald dismissively orders Juliana to leave with 'dignity', allowing a cold scroller to instantly grasp the betrayal before watching Juliana transform from crying victim into commanding prosecutor. Candidate A starts mid-monologue at B033 with abstract rhetoric ('You wanted this entire chapel to believe...'), lacking the immediate visceral gut-punch of Gerald's cruel dismissal in B027. Candidate B's exit on B034 ('You have shown them exactly what your word is worth') lands as a lethal cliffhanger cutting directly on Gerald's public ruin.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven: Candidate B captures the full villain-to-defiance dynamic and superior 3-second hook action rather than starting mid-speech."
+    },
+    {
+      "match_id": "M107",
+      "candidate_a_id": "CAND_EP002_288",
+      "candidate_b_id": "CAND_EP002_301",
+      "winner_id": "CAND_EP002_288",
+      "loser_id": "CAND_EP002_301",
+      "rationale": "Candidate A opens with Gerald's cruel dismissal ('Go home quietly, Juliana. At least leave this chapel with some dignity'), providing the essential catalyst and dramatic foil that makes Juliana's transformation from weeping victim to regal force hit with maximum catharsis. Starting at B030 (Candidate B) robs the viewer of the immediate antagonist offense, making Juliana's opening line feel like an unprovoked or isolated monologue rather than a searing counterpunch. In 33.5s, Candidate A provides superior narrative clarity and emotional contrast with minimal drop-off risk.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is driven purely by dramatic arc mechanics (action/reaction setup vs. in-medias-res monologue) and emotional contrast, not label order."
+    },
+    {
+      "match_id": "M108",
+      "candidate_a_id": "CAND_EP002_115",
+      "candidate_b_id": "CAND_EP002_281",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_115",
+      "rationale": "While Candidate A possesses a faster, punchier hook and tight 24.1s duration, it leaves the protagonist wholly passive and crushed by familial rejection. Candidate B delivers the critical emotional engine of vertical short-form drama: the visceral victim-to-defiant-force power reversal, transforming tears into regal composure and landing a devastating moral indictment ('You have shown them exactly what your word is worth') that commands viewers to tap Episode 1 to see Gerald's downfall.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven by the high-converting emotional transformation arc and crowd-silencing payoff versus Candidate A's unrelieved victimization."
+    },
+    {
+      "match_id": "M109",
+      "candidate_a_id": "CAND_EP002_76",
+      "candidate_b_id": "CAND_EP002_04",
+      "winner_id": "CAND_EP002_04",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate B opens with an explosive, high-arrest hook in the first 2.8 seconds ('I cannot marry you, Juliana' paired with a low-angle shot of the groom and gloating rival) that instantly establishes the conflict without requiring any ramp-up time. In contrast, Candidate A's opening ('Gerald... Look at me') is an in-media-res plea that assumes prior context and lacks immediate narrative shock for a cold-scrolling viewer. While Candidate A introduces a compelling secondary betrayal by the father, Candidate B delivers a more concentrated, relentless barrage of public humiliation and cruel insults in 30.6 seconds, culminating in a sharp cliffhanger where the sister steals the groom at the altar.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on opening scroll-stop power and pacing density, rejecting Candidate A despite it being presented first."
+    },
+    {
+      "match_id": "M110",
+      "candidate_a_id": "CAND_EP002_04",
+      "candidate_b_id": "CAND_EP002_115",
+      "winner_id": "CAND_EP002_115",
+      "loser_id": "CAND_EP002_04",
+      "rationale": "Candidate B delivers a double-layered betrayal arc in a tighter 24.1s runtime: opening on the cynical gut-punch 'Promises change when a better choice appears' with Gerald and Clarissa at the altar, and escalating directly into devastating paternal abandonment ('Gerald has made his choice. Accept it, Juliana. Do not disgrace us further'). In contrast, Candidate A (30.6s) spends extended screen time across B002\u2013B008 on Gerald's drawn-out verbal insults ('plain... silent... beneath the future I deserve') while Juliana remains passively weeping in an agonizing victim state without structural escalation. By compounding romantic humiliation with explicit family betrayal and cutting on peak isolation, Candidate B achieves higher emotional intensity, greater duration efficiency, and a far more compelling cliffhanger for a cold viewer.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven by Candidate B's compounded two-tier betrayal arc and superior duration efficiency, rather than candidate ordering."
+    },
+    {
+      "match_id": "M111",
+      "candidate_a_id": "CAND_EP002_302",
+      "candidate_b_id": "CAND_EP002_156",
+      "winner_id": "CAND_EP002_302",
+      "loser_id": "CAND_EP002_156",
+      "rationale": "Candidate A delivers a vastly more potent, compact (33.5s vs 48.9s) cold-audience narrative arc by moving straight to Juliana's sovereign counterattack and capping it with a monumental, quotable cliffhanger declaration ('...I will not leave it believing I was the one who should be ashamed'). Candidate B spends nearly 50 seconds enduring repetitive pile-on humiliation across three separate antagonists (father, sister, matriarch) before barely reaching the turning point on a single ambiguous question ('Dignity?'), risking heavy mid-scroll drop-off. Candidate A operates as a high-converting empowerment reel that hooks immediately on moral confrontation, maintains relentless forward momentum, and cuts on peak cathartic defiance.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on duration efficiency, pacing momentum, and the decisive punch of its closing cliffhanger over Candidate B's prolonged victimization sequence."
+    },
+    {
+      "match_id": "M112",
+      "candidate_a_id": "CAND_EP002_08",
+      "candidate_b_id": "CAND_EP002_76",
+      "winner_id": "CAND_EP002_08",
+      "loser_id": "CAND_EP002_76",
+      "rationale": "Candidate A opens with an immediate, unmissable shock statement ('I cannot marry you, Juliana') paired with an instant visual setup of the groom sneering down with the other woman in gold gloating behind him, arresting a swiping thumb within the first two seconds. Candidate B cuts into Beat B006 where Juliana is already mid-plea ('Gerald... Look at me'), which deprives the viewer of the initial visceral gut-punch and forces them to piece together what just happened through catch-up dialogue. Although Candidate B is 12 seconds shorter, Candidate A's brutal opening arc ('far too plain... far too silent... completely beneath the future I deserve') provides the necessary cruelty and clear character motivation that makes the subsequent father abandonment hit with devastating maximum impact.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven: Candidate A possesses a vastly superior 0-3s scroll-stop hook and complete narrative setup, whereas Candidate B opens mid-scene on a weak conversational plea."
+    },
+    {
+      "match_id": "M113",
+      "candidate_a_id": "CAND_EP002_281",
+      "candidate_b_id": "CAND_EP002_234",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_234",
+      "rationale": "While Candidate B opens with a vicious verbal slap ('kitchen maid'), it spends over 20 seconds absorbing multi-person bullying before cutting mid-sentence on Juliana's opening accusation, leaving the cliffhanger feeling prematurely truncated rather than narratively electric. Candidate A immediately grounds the conflict with the Matriarch and Gerald's dismissive 'leave with dignity', enabling Juliana's full, devastating counter-attack to play out. Cutting on her crowd-silencing punchline 'You have shown them exactly what your word is worth' delivers a massive emotional power shift that leaves the viewer desperately needing to see Gerald and the congregation's reaction.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven: Candidate A delivers a complete emotional arc and a far superior, punchline-driven cliffhanger compared to Candidate B's mid-thought cutoff."
+    },
+    {
+      "match_id": "M114",
+      "candidate_a_id": "CAND_EP002_07",
+      "candidate_b_id": "CAND_EP002_04",
+      "winner_id": "CAND_EP002_04",
+      "loser_id": "CAND_EP002_07",
+      "rationale": "Candidate B cuts at the absolute peak of emotional shock and romantic betrayal on Beat B011 ('She is what I should have chosen from the beginning' with Clarissa linked to his arm), delivering a razor-sharp, gut-punch exit that leaves the central relationship conflict completely unresolved. Candidate A tacks on nearly seven seconds of Juliana pivoting to appeal to her seated father, which breaks the momentum of the altar confrontation and softens the cliffhanger from an active verbal devastation into a slower, quieter familial plea. By stopping at 30.6s, Candidate B achieves superior duration efficiency and a significantly stronger cliffhanger without risking drop-off in a secondary conversation.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the sharper punchline cut on B011 and superior pacing efficiency, not label position."
+    },
+    {
+      "match_id": "M115",
+      "candidate_a_id": "CAND_EP002_215",
+      "candidate_b_id": "CAND_EP002_281",
+      "winner_id": "CAND_EP002_215",
+      "loser_id": "CAND_EP002_281",
+      "rationale": "Candidate A opens with immediate, high-converting visual and emotional contrast: the smug sister clinging to the groom's arm while publicly degrading the protagonist's gown, which establishes the core betrayal dynamics in under three seconds for a cold audience. While Candidate B is slightly shorter and ends on a poetic indictment, its opening ('You should be grateful...') drops the viewer into an elder's generic scolding without grounding who the sister or groom are, and its extended three-beat monologue at the altar dilutes urgency. Candidate A delivers a much sharper emotional arc\u2014from brutal personal humiliation to an explosive, spine-chilling counterattack that cuts precisely as the groom's composure breaks.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the superior immediate visual hook in B018-B020 and the sharper cut on peak tension in B031, rather than candidate ordering."
+    },
+    {
+      "match_id": "M116",
+      "candidate_a_id": "CAND_EP002_288",
+      "candidate_b_id": "CAND_EP002_286",
+      "winner_id": "CAND_EP002_286",
+      "loser_id": "CAND_EP002_288",
+      "rationale": "Both candidates share the exact same opening and escalating indictment, but Candidate B cuts at the peak rhetorical blow ('You have shown them exactly what your word is worth') at 27.5 seconds, leaving the audience stunned by a complete mic-drop punchline. Candidate A extends 6 seconds longer into B035\u2013B036 and cuts mid-sentence on 'I may leave this chapel without a husband...', which feels artificially clipped and slightly deflates the sharp emotional climax achieved in B034. Candidate B delivers superior duration efficiency, higher completion likelihood on short-form feeds, and a more impactful, natural cliffhanger exit.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the natural punchline ending versus a mid-sentence cutoff, not label order."
+    },
+    {
+      "match_id": "M117",
+      "candidate_a_id": "CAND_EP002_215",
+      "candidate_b_id": "CAND_EP002_288",
+      "winner_id": "CAND_EP002_288",
+      "loser_id": "CAND_EP002_215",
+      "rationale": "Candidate B opens immediately with high-stakes dramatic action\u2014the groom coldly ordering the abandoned bride to leave with some 'dignity'\u2014and delivers a sustained, uninterrupted crescendo of female empowerment and verbal retaliation. Unlike Candidate A, which spends over 18 seconds on repetitive villain sneering from the sister and matriarch before Juliana finally turns the tables at beat B029, Candidate B hits the turning point almost immediately (beat B028/B029) and builds to a stunning mid-sentence cliffhanger ('I may leave this chapel without a husband...') that leaves cold scrollers desperate to hear her exit blow. Candidate B provides tighter pacing, higher per-second emotional payoff, and an infinitely stronger curiosity gap cliffhanger at 33.5s.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on immediate conflict pacing, sustained protagonist agency, and a superior cliffhanger exit over Candidate A's front-loaded villain exposition."
+    },
+    {
+      "match_id": "M118",
+      "candidate_a_id": "CAND_EP002_237",
+      "candidate_b_id": "CAND_EP002_07",
+      "winner_id": "CAND_EP002_237",
+      "loser_id": "CAND_EP002_07",
+      "rationale": "While Candidate B has a clean opening rejection line, Candidate A delivers a markedly superior emotional transformation and cliffhanger exit. Candidate B leaves the female protagonist in prolonged passive victimhood, begging an unresponsive father across an inconclusive cliffhanger. In contrast, Candidate A moves rapidly from vicious public bullying into an electrifying power reversal where Juliana commands the room and drops a high-stakes teaser punchline ('You have shown them something far more valuable'), maximizing viral cold-traffic engagement and tap-through intent.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the protagonist's active emotional reversal and compelling unresolved curiosity gap, not label position."
+    },
+    {
+      "match_id": "M119",
+      "candidate_a_id": "CAND_EP002_306",
+      "candidate_b_id": "CAND_EP002_281",
+      "winner_id": "CAND_EP002_281",
+      "loser_id": "CAND_EP002_306",
+      "rationale": "Candidate B creates a complete, emotionally visceral micro-drama arc in 30.8 seconds by starting with the acute social humiliation of the matriarch and groom ordering Juliana to leave, capturing her visible shift from tearful victim to steely defiance ('Dignity?'), and peaking with an explosive public indictment of Gerald's greed. Candidate A starts mid-rebuttal without showing the direct provocation that makes her speech feel earned, giving cold viewers less emotional contrast and less visceral satisfaction. Cutting on B034 in Candidate B leaves Gerald publicly unmasked and humiliated before the congregation, delivering higher narrative stakes and a sharper curiosity gap to see his immediate reaction.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on the stark contrast of victim-to-avenger transformation and superior scroll-stopping conflict in the opening beats, not label order."
+    }
+  ]
+}

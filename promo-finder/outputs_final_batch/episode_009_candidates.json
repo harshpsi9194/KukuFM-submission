@@ -1,0 +1,446 @@
+{
+  "episode_number": 9,
+  "total_candidates": 7,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP009_01",
+      "episode": "Episode 9",
+      "episode_number": 9,
+      "start_beat_id": "B001",
+      "end_beat_id": "B013",
+      "start_time": 0.0,
+      "end_time": 50.5,
+      "duration": 50.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "The frantic mother's desperate cry that her boy is burning with fever instantly establishes urgent life-or-death stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High scroll-stop visual: sudden pounding transitions to a soaked mother clutching a sick swaddled child in the pouring rain.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B013",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will the boy survive the herbal brew or choke on the administered draught?",
+        "stakes_importance": "Medium \u2014 critical moment of administration with the child coughing weakly.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 9,
+          "start_beat_id": "B001",
+          "end_beat_id": "B013",
+          "start_time": 0.0,
+          "end_time": 50.5,
+          "duration": 50.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP009_02",
+      "episode": "Episode 9",
+      "episode_number": 9,
+      "start_beat_id": "B001",
+      "end_beat_id": "B015",
+      "start_time": 0.0,
+      "end_time": 54.0,
+      "duration": 54.0,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "The frantic mother's desperate cry that her boy is burning with fever instantly establishes urgent life-or-death stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High scroll-stop visual: sudden pounding transitions to a soaked mother clutching a sick swaddled child in the pouring rain.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 3,
+        "specific_question": "Has the herbal remedy failed to work, leaving the boy to die?",
+        "stakes_importance": "Medium \u2014 panic peaks as the medicine seemingly produces no immediate result.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 9,
+          "start_beat_id": "B001",
+          "end_beat_id": "B015",
+          "start_time": 0.0,
+          "end_time": 54.0,
+          "duration": 54.0,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP009_03",
+      "episode": "Episode 9",
+      "episode_number": 9,
+      "start_beat_id": "B002",
+      "end_beat_id": "B013",
+      "start_time": 11.2,
+      "end_time": 50.5,
+      "duration": 39.3,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Urgent procedural command ('Bring him here. Quickly.') but lacks standalone narrative shock.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Clear physical urgency as Juliana reaches out and a trembling mother lays a limp child on the table.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B013",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will the boy survive the herbal brew or choke on the administered draught?",
+        "stakes_importance": "Medium \u2014 critical moment of administration with the child coughing weakly.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 9,
+          "start_beat_id": "B002",
+          "end_beat_id": "B013",
+          "start_time": 11.2,
+          "end_time": 50.5,
+          "duration": 39.3,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP009_04",
+      "episode": "Episode 9",
+      "episode_number": 9,
+      "start_beat_id": "B026",
+      "end_beat_id": "B031",
+      "start_time": 83.8,
+      "end_time": 106.0,
+      "duration": 22.2,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Abrupt visual tonal shift: opulent gothic manor contrasted with a soaked, nervous groom entering.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 3,
+        "specific_question": "Can the Blond Nobleman suppress the rumor before his position is compromised?",
+        "stakes_importance": "High \u2014 villain attempting to suppress the truth while barely concealing panic.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 9,
+          "start_beat_id": "B026",
+          "end_beat_id": "B031",
+          "start_time": 83.8,
+          "end_time": 106.0,
+          "duration": 22.2,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP009_05",
+      "episode": "Episode 9",
+      "episode_number": 9,
+      "start_beat_id": "B026",
+      "end_beat_id": "B034",
+      "start_time": 83.8,
+      "end_time": 115.5,
+      "duration": 31.7,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Abrupt visual tonal shift: opulent gothic manor contrasted with a soaked, nervous groom entering.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 5,
+        "specific_question": "What dark conspiracy did the Blond Nobleman commit against the Duke that now fills him with paralyzing dread?",
+        "stakes_importance": "High \u2014 climactic cliffhanger cutting to black on sheer villainous panic, confirming the Duke's survival threatens his entire existence.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 9,
+          "start_beat_id": "B026",
+          "end_beat_id": "B034",
+          "start_time": 83.8,
+          "end_time": 115.5,
+          "duration": 31.7,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP009_06",
+      "episode": "Episode 9",
+      "episode_number": 9,
+      "start_beat_id": "B029",
+      "end_beat_id": "B033",
+      "start_time": 92.0,
+      "end_time": 112.0,
+      "duration": 20.0,
+      "hook_signal": {
+        "beat_id": "B029",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive identity reveal: deceased Duke's identical war scar reported, triggering the nobleman's alarmed demand 'Where?'.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Rapid escalation: extreme close-up of dread-filled eyes to sudden head-snap as smug noble freezes in sheer alarm.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 4,
+        "specific_question": "What secret crime or certainty makes the return of the late Duke supposedly 'impossible'?",
+        "stakes_importance": "High \u2014 implies a dark conspiracy or presumed murder behind the late Duke's disappearance.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 9,
+          "start_beat_id": "B029",
+          "end_beat_id": "B033",
+          "start_time": 92.0,
+          "end_time": 112.0,
+          "duration": 20.0,
+          "beat_ids": [
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP009_07",
+      "episode": "Episode 9",
+      "episode_number": 9,
+      "start_beat_id": "B029",
+      "end_beat_id": "B034",
+      "start_time": 92.0,
+      "end_time": 115.5,
+      "duration": 23.5,
+      "hook_signal": {
+        "beat_id": "B029",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive identity reveal: deceased Duke's identical war scar reported, triggering the nobleman's alarmed demand 'Where?'.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Rapid escalation: extreme close-up of dread-filled eyes to sudden head-snap as smug noble freezes in sheer alarm.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 5,
+        "specific_question": "What dark conspiracy did the Blond Nobleman commit against the Duke that now fills him with paralyzing dread?",
+        "stakes_importance": "High \u2014 climactic cliffhanger cutting to black on sheer villainous panic, confirming the Duke's survival threatens his entire existence.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 9,
+          "start_beat_id": "B029",
+          "end_beat_id": "B034",
+          "start_time": 92.0,
+          "end_time": 115.5,
+          "duration": 23.5,
+          "beat_ids": [
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "episode_number": 1,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP001_09",
+      "absolute_rubric_score": 9.3,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B014",
+        "end_beat_id": "B022",
+        "start_time": 35.4,
+        "end_time": 63.0,
+        "duration": 27.6,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Why are you holding her hand?",
+        "opening_character": "LADY JULIANA",
+        "rationale": "Heartbroken confrontation exposing public infidelity at the altar: 'Why are you holding her hand?'"
+      },
+      "cliffhanger": {
+        "final_quote": "I changed my mind.",
+        "final_character": "THE FORMER GROOM",
+        "specific_question": "How can Gerald justify breaking his betrothal vows at the altar with zero remorse?"
+      },
+      "situational_summary": "At the altar, a bride discovers her groom holding another woman's hand and is callously told by him that he changed his mind about marrying her.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP001_32",
+      "absolute_rubric_score": 8.5,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.0
+      },
+      "mmr_score": 0.1004,
+      "max_similarity_to_selected": 0.6776,
+      "boundary": {
+        "start_beat_id": "B037",
+        "end_beat_id": "B044",
+        "start_time": 107.4,
+        "end_time": 133.8,
+        "duration": 26.4,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "You are the daughter people tolerate because they have to.",
+        "opening_character": "LADY IN GOLD GOWN",
+        "rationale": "Soul-crushing familial insult: 'You are the daughter people tolerate because they have to. I am the daughter they choose.'"
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "What violent or desperate action will Juliana take as her suppressed fury boils over?"
+      },
+      "situational_summary": "After enduring ruthless humiliation from her sister and groom at the altar, a discarded bride clenches her fist in boiling fury.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP001_20",
+      "absolute_rubric_score": 8.4,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0184,
+      "max_similarity_to_selected": 0.7953,
+      "boundary": {
+        "start_beat_id": "B021",
+        "end_beat_id": "B027",
+        "start_time": 54.6,
+        "end_time": 79.0,
+        "duration": 24.4,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You let me dress in my mother's gown...",
+        "opening_character": "LADY JULIANA",
+        "rationale": "Devastating escalation of betrayal: 'You let me dress in my mother's gown... You let me believe I was walking toward my husband!'"
+      },
+      "cliffhanger": {
+        "final_quote": "Long enough to know he was never going to marry you.",
+        "final_character": "LADY IN GOLD GOWN",
+        "specific_question": "Where does Juliana turn when both her lover and sister reveal her entire life was a lie?"
+      },
+      "situational_summary": "Dressed in her wedding gown, a weeping bride confronts her groom and sister after discovering their premeditated plot to replace her at the altar.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP001_28",
+      "absolute_rubric_score": 8.2,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.0
+      },
+      "mmr_score": -0.0204,
+      "max_similarity_to_selected": 0.8173,
+      "boundary": {
+        "start_beat_id": "B033",
+        "end_beat_id": "B040",
+        "start_time": 90.8,
+        "end_time": 122.5,
+        "duration": 31.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Enough!",
+        "opening_character": "MATRIARCH",
+        "rationale": "Public shaming and cruel familial rejection: 'Enough! You have embarrassed this family long enough.'"
+      },
+      "cliffhanger": {
+        "final_quote": "You have nothing to offer me anymore.",
+        "final_character": "THE FORMER GROOM",
+        "specific_question": "How will Juliana retaliate against Gerald after he tells her she has nothing left to offer?"
+      },
+      "situational_summary": "A domineering matriarch publicly shames her daughter in favor of a golden sibling, capped by the daughter's groom ruthlessly declaring she has no value to him.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP001_25",
+      "absolute_rubric_score": 7.8,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.0,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.0
+      },
+      "mmr_score": -0.096,
+      "max_similarity_to_selected": 0.7922,
+      "boundary": {
+        "start_beat_id": "B029",
+        "end_beat_id": "B037",
+        "start_time": 81.4,
+        "end_time": 113.0,
+        "duration": 31.6,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Tell them this is a mistake.",
+        "opening_character": "LADY JULIANA",
+        "rationale": "Desperate plea to overturn the catastrophe: 'Tell them this is a mistake.'"
+      },
+      "cliffhanger": {
+        "final_quote": "I am the daughter they choose.",
+        "final_character": "LADY IN GOLD GOWN",
+        "specific_question": "How will Juliana avenge herself after being publicly branded the 'tolerated' daughter?"
+      },
+      "situational_summary": "A desperate daughter pleads on her knees for her father to intervene, only for the family matriarch and favored sister to publicly humiliate and disown her worth.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP001_10",
+      "rank": 2,
+      "recommended_boundary": "B014 -> B023",
+      "similarity": 0.9679,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9679 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP001_08",
+      "rank": 3,
+      "recommended_boundary": "B014 -> B021",
+      "similarity": 0.9451,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9451 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP001_11",
+      "rank": 4,
+      "recommended_boundary": "B014 -> B024",
+      "similarity": 0.924,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9240 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP001_12",
+      "rank": 5,
+      "recommended_boundary": "B014 -> B027",
+      "similarity": 0.9085,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9085 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP001_10",
+      "rank": 2,
+      "recommended_boundary": "B014 -> B023",
+      "similarity": 0.9679,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9679 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP001_08",
+      "rank": 3,
+      "recommended_boundary": "B014 -> B021",
+      "similarity": 0.9451,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9451 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP001_11",
+      "rank": 4,
+      "recommended_boundary": "B014 -> B024",
+      "similarity": 0.924,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9240 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP001_12",
+      "rank": 5,
+      "recommended_boundary": "B014 -> B027",
+      "similarity": 0.9085,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9085 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP001_33",
+      "rank": 9,
+      "recommended_boundary": "B037 -> B045",
+      "similarity": 0.9579,
+      "duplicate_of": "CAND_EP001_32",
+      "reason": "Exceeded near-duplicate threshold (0.9579 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP001_31",
+      "rank": 10,
+      "recommended_boundary": "B037 -> B043",
+      "similarity": 0.9232,
+      "duplicate_of": "CAND_EP001_32",
+      "reason": "Exceeded near-duplicate threshold (0.9232 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP001_10",
+      "rank": 2,
+      "recommended_boundary": "B014 -> B023",
+      "similarity": 0.9679,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9679 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP001_08",
+      "rank": 3,
+      "recommended_boundary": "B014 -> B021",
+      "similarity": 0.9451,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9451 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP001_11",
+      "rank": 4,
+      "recommended_boundary": "B014 -> B024",
+      "similarity": 0.924,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9240 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP001_12",
+      "rank": 5,
+      "recommended_boundary": "B014 -> B027",
+      "similarity": 0.9085,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9085 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP001_33",
+      "rank": 9,
+      "recommended_boundary": "B037 -> B045",
+      "similarity": 0.9579,
+      "duplicate_of": "CAND_EP001_32",
+      "reason": "Exceeded near-duplicate threshold (0.9579 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP001_31",
+      "rank": 10,
+      "recommended_boundary": "B037 -> B043",
+      "similarity": 0.9232,
+      "duplicate_of": "CAND_EP001_32",
+      "reason": "Exceeded near-duplicate threshold (0.9232 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP001_10",
+      "rank": 2,
+      "recommended_boundary": "B014 -> B023",
+      "similarity": 0.9679,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9679 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP001_08",
+      "rank": 3,
+      "recommended_boundary": "B014 -> B021",
+      "similarity": 0.9451,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9451 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP001_11",
+      "rank": 4,
+      "recommended_boundary": "B014 -> B024",
+      "similarity": 0.924,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9240 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP001_12",
+      "rank": 5,
+      "recommended_boundary": "B014 -> B027",
+      "similarity": 0.9085,
+      "duplicate_of": "CAND_EP001_09",
+      "reason": "Exceeded near-duplicate threshold (0.9085 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP001_33",
+      "rank": 9,
+      "recommended_boundary": "B037 -> B045",
+      "similarity": 0.9579,
+      "duplicate_of": "CAND_EP001_32",
+      "reason": "Exceeded near-duplicate threshold (0.9579 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP001_31",
+      "rank": 10,
+      "recommended_boundary": "B037 -> B043",
+      "similarity": 0.9232,
+      "duplicate_of": "CAND_EP001_32",
+      "reason": "Exceeded near-duplicate threshold (0.9232 >= 0.90)"
+    }
+  ]
+}

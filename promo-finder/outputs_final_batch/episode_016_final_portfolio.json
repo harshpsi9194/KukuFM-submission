@@ -1,0 +1,141 @@
+{
+  "episode_number": 16,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 4
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP016_03",
+      "absolute_rubric_score": 8.3,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B008",
+        "end_beat_id": "B020",
+        "start_time": 14.3,
+        "end_time": 55.2,
+        "duration": 40.9,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Aaargh!",
+        "opening_character": "THUG WITH CAP",
+        "rationale": "A generic battle cry ('Aaargh!') with minimal narrative value."
+      },
+      "cliffhanger": {
+        "final_quote": "Gerald...",
+        "final_character": "JULIANA",
+        "specific_question": "How will Juliana react to learning that her ex-fianc\u00e9 Gerald paid thugs to ruin her sanctuary and harm her?"
+      },
+      "situational_summary": "A man saves a wounded woman by taking down three armed thugs, then chokes the leader against a wall until he reveals that Gerald Harrington paid for the attack.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP016_08",
+      "absolute_rubric_score": 7.1,
+      "subscores": {
+        "hook_score": 1.2,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.9
+      },
+      "mmr_score": -0.0514,
+      "max_similarity_to_selected": 0.7253,
+      "boundary": {
+        "start_beat_id": "B013",
+        "end_beat_id": "B020",
+        "start_time": 28.5,
+        "end_time": 55.2,
+        "duration": 26.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Gerald...",
+        "final_character": "JULIANA",
+        "specific_question": "How will Juliana react to learning that her ex-fianc\u00e9 Gerald paid thugs to ruin her sanctuary and harm her?"
+      },
+      "situational_summary": "Standing over defeated thugs in the mud under the moonlight, a man checks on an injured woman before violently forcing one of the attackers to confess who hired them.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP016_10",
+      "absolute_rubric_score": 6.6,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 1.6,
+        "cliffhanger_score": 1.0,
+        "resonance_score": 1.7
+      },
+      "mmr_score": -0.2351,
+      "max_similarity_to_selected": 0.8279,
+      "boundary": {
+        "start_beat_id": "B017",
+        "end_beat_id": "B026",
+        "start_time": 40.8,
+        "end_time": 83.19,
+        "duration": 42.39,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Who sent you?",
+        "opening_character": "ALEXANDER",
+        "rationale": "Sharp, aggressive interrogation opener ('Who sent you?') establishes instant narrative stakes."
+      },
+      "cliffhanger": {
+        "final_quote": "No.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Will the undeniable romantic and protective spark between Juliana and Alexander overcome their painful pasts?"
+      },
+      "situational_summary": "A lethal protector pins an attacker to a cottage wall to force a confession, discovering that a trusted figure named Gerald hired the thugs to destroy the woman's garden.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP016_02",
+      "rank": 2,
+      "recommended_boundary": "B008 -> B017",
+      "similarity": 0.9588,
+      "duplicate_of": "CAND_EP016_03",
+      "reason": "Exceeded near-duplicate threshold (0.9588 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP016_02",
+      "rank": 2,
+      "recommended_boundary": "B008 -> B017",
+      "similarity": 0.9588,
+      "duplicate_of": "CAND_EP016_03",
+      "reason": "Exceeded near-duplicate threshold (0.9588 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP016_02",
+      "rank": 2,
+      "recommended_boundary": "B008 -> B017",
+      "similarity": 0.9588,
+      "duplicate_of": "CAND_EP016_03",
+      "reason": "Exceeded near-duplicate threshold (0.9588 >= 0.90)"
+    }
+  ]
+}

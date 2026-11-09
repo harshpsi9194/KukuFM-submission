@@ -1,0 +1,181 @@
+{
+  "episode_number": 19,
+  "total_scored": 7,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP019_01",
+      "start_beat_id": "B015",
+      "end_beat_id": "B019",
+      "start_time": 55.3,
+      "end_time": 78.8,
+      "duration": 23.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 establishes the usurpation immediately through clear dialogue ('Rupert has become the face of Ashburg. He sits in your father's room...') paired with a slow push-in on Alexander's scarred, furious face, instantly anchoring the protagonist-traitor dynamic without requiring outside lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression from usurper stealing the estate to the mother being kept hostage and isolated is completely self-contained and crystal clear for a cold scroller.",
+        "passes_gate": true,
+        "situational_summary": "A scarred noble in hiding learns from his informant that a usurper has taken his estate and turned his mother into a prisoner in her own house."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Simmering familial anguish and righteous fury over a mother's captivity"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the core inciting incident and emotional stakes of Alexander's return, safe for cold-audience prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP019_02",
+      "start_beat_id": "B015",
+      "end_beat_id": "B020",
+      "start_time": 55.3,
+      "end_time": 81.2,
+      "duration": 25.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 clearly establishes the usurpation and identity of the betrayed heir via direct exposition paired with a visual close-up of Alexander's scarred, raging expression.",
+        "arc_legibility": true,
+        "arc_rationale": "The escalation across the mother's captivity to the revelation that Alexander is presumed dead forms an airtight, immediately understandable microdrama hook.",
+        "passes_gate": true,
+        "situational_summary": "A nobleman secretly alive in the woods learns his family estate has been usurped and his mother imprisoned while enemies believe him dead."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Suppressed wrath shifting into cold strategic advantage"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the premise/inciting condition that Alexander is presumed dead while seeking revenge."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP019_03",
+      "start_beat_id": "B015",
+      "end_beat_id": "B021",
+      "start_time": 55.3,
+      "end_time": 83.8,
+      "duration": 28.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 immediately grounds the premise within 2 seconds: an informant detailing the usurper occupying the protagonist's rightful home alongside a visual push-in on Alexander's scarred face.",
+        "arc_legibility": true,
+        "arc_rationale": "Flawlessly self-contained arc from discovering the mother's hostage status to the dramatic decision to stay in the shadows until strike time.",
+        "passes_gate": true,
+        "situational_summary": "In hiding after being presumed dead, a scarred heir discovers usurpers have imprisoned his mother and resolves to let them believe he is dead until he strikes."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cold vengeance and tactical patience born from profound anguish"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Inciting incident setup revealing Alexander's survival and resolve to enact retribution from the shadows."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP019_04",
+      "start_beat_id": "B015",
+      "end_beat_id": "B022",
+      "start_time": 55.3,
+      "end_time": 85.5,
+      "duration": 30.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 immediately grounds the setting and stakes through explicit dialogue and visual close-up of Alexander's scarred face reacting to his stolen birthright.",
+        "arc_legibility": true,
+        "arc_rationale": "The full context of the stolen estate, captive mother, secret survival, and quest for proof is clearly communicated through direct dialogue and visuals.",
+        "passes_gate": true,
+        "situational_summary": "An exiled nobleman learning of his mother's imprisonment resolves to stay dead in the eyes of his usurpers while plotting to unearth decisive proof."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Calculating vengeance and brewing conspiracy confrontation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Touches on the investigative plot mechanics regarding hunting for specific proof to topple Rupert."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP019_05",
+      "start_beat_id": "B015",
+      "end_beat_id": "B023",
+      "start_time": 55.3,
+      "end_time": 89.5,
+      "duration": 34.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 opens with explicit verbal exposition ('Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers...') paired with a slow push-in on Alexander's scarred, enraged face. A cold viewer immediately understands that a usurper has taken the listener's rightful inheritance and family estate.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative trajectory is fully self-contained: the protagonist learns his mother is an isolated captive and the world thinks he is dead, concluding on his fierce resolution to gather proof and reclaim his family seat.",
+        "passes_gate": true,
+        "situational_summary": "In a secluded forest, an informant reveals to a scarred heir presumed dead that a usurper has seized his family estate and imprisoned his mother, prompting him to vow vengeance."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Controlled fury and filial vengeance against estate usurpers"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the inciting stakes of the reclamation arc: the mother is held captive and the rightful heir is alive in hiding plotting his return."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP019_06",
+      "start_beat_id": "B017",
+      "end_beat_id": "B023",
+      "start_time": 64.8,
+      "end_time": 89.5,
+      "duration": 24.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 opens in media res with an ungrounded mid-conversation sentence ('But they have separated her from the household. She is watched constantly.') with no prior establishing visual or referent. A cold scroller has no idea who 'her' or 'they' are without retrospective explanation from later beats.",
+        "arc_legibility": true,
+        "arc_rationale": "While the remainder of the clip clarifies that Alexander's mother is imprisoned and he plans to take back Ashburg, opening legibility fails on the mid-dialogue start.",
+        "passes_gate": false,
+        "situational_summary": "An informant warns a scarred man that his mother is guarded and isolated, leading him to declare that Ashburg will soon remember its true master."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Simmering anger and tactical patience for vengeance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses that the mother is an isolated prisoner and Alexander is staying hidden until proof is secured."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP019_07",
+      "start_beat_id": "B026",
+      "end_beat_id": "B029",
+      "start_time": 96.8,
+      "end_time": 119.63,
+      "duration": 22.83,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B026 opens with a strong visual and situational anchor: a weeping, soot-smudged woman weeping over a book, wooden barn doors creaking open, and a man entering with firewood and a blanket while she cries 'We have lost everything.' The physical setting and dire emotional crisis are instantly legible.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear two-person arc of grief, tender domestic comfort, and quiet romantic reassurance amidst total ruin.",
+        "passes_gate": true,
+        "situational_summary": "In a barn after losing everything, a weeping woman receives comfort and a promise of a new beginning from her stoic companion."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Despairing grief met with tender protective solace"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Atmospheric premise setup highlighting the couple's rock-bottom circumstances without disclosing broader political or ducal plot secrets."
+      }
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "episode_number": 5,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up insert of hands tightly clutching an ancient brass-bound ledger against a white wedding gown creates immediate visual intrigue.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single formal address ('Miss Ashcroft.') serves only as an attention check without standalone narrative stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Wide shot of a couple descending steps followed by an older man on a cane establishes the setting but lacks urgent physical friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Lord Ashcroft's declaration, 'You will not leave this church carrying the Ashcroft name,' delivers an immediate high-stakes familial disownment hook.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a stern, weathered patriarch rigid with disgust provides legible aristocratic conflict.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Juliana's defiant declaration of completed marriage ('The vows are spoken, Father. I am his wife now.') establishes immediate high-stakes family confrontation.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up touching an heirloom pendant conveys defensive posture but standard visual staging.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "The brutal disownment lines ('Then leave as his wife. You leave as no daughter of mine.') deliver a sharp emotional rupture.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of an unforgiving father standing outside a chapel archway conveys cold tension without dynamic action.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "An explosive triad of disinheritance and severance culminating in 'From this moment, you are dead to the Ashcroft family' delivers maximum auditory shock.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Low-angle shot tracking descending black boots paired with a close-up of a bride wide-eyed with heartbreak clutching an heirloom creates high visual drama.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Juliana's desperate challenge ('You truly mean it? You are my father!') conveys acute personal betrayal and high emotional stakes.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual, camera, or action events are described for this beat.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A sharp verbal counter-accusation ('And you have chosen to become a stranger.' / 'No, Father. You chose that long before today.') establishes direct confrontation.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a quietly threatening bearded stranger followed by a face-to-face profile showdown against gothic architecture conveys visible tension.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Lady Ashcroft's interruption ('Enough sentiment. And the ledger...') acts as an expositional setup rather than an immediate shocker.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "A smug, malicious stepmother stepping forward draped in velvet and jewels introduces clear antagonistic presence.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A mid-sentence continuation ('...that belongs to this family.') provides mild proprietary conflict without self-contained punch.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of an approaching antagonist establishes menacing intent but moderate physical motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "An emotional defense of a deceased mother's legacy ('It belonged to my mother! It is all I have left of her.') carries clear emotional stakes.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or action events attached to this beat.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Lady Ashcroft's cold, callous retort ('Then you should have guarded it better.') serves as a stinging verbal challenge.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "A close-up insert of a jeweled predatory hand clamping down on the contested book visually communicates the physical power struggle.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Mocking jeers ('Even your mother's precious legacy has been cast into the dirt!') and cruel validation ('Perhaps that is where it belongs.') accompany an intense scene of public humiliation.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: book violently wrenched and flung into the mud, bride falling to her knees in the rain-soaked courtyard with gown soaking in dirt.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Wide shot of a distressed bride kneeling in the mud while a tall scarred man strides in and kneels beside her creates strong romantic rescue framing.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of weathered hands lifting the book from a puddle is descriptive and gentle, but lacks immediate visceral conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A polite, understated line ('Here you go.') with zero conflict or inherent stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Two-shot placing the retrieved book into trembling hands conveys comfort rather than an urgent hook.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Reflective dialogue ('They destroyed it.' / 'They dirtied it. That is not the same thing.') provides reassurance rather than opening hook shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a rugged, sincere face looking down warmly offers standard emotional drama framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "The protective declaration ('Then keep it. Let them keep everything else.') provides a resolute romantic stand against the family.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Two-shot of a weeping bride clutching a soiled book while strong hands clasp over hers creates a clear visual image of solidarity.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Gerald's biting class-based insult ('Look at you. A noblewoman reduced to a beggar's wife!') delivers a sharp, contemptuous public humiliation hook.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle shot of an arrogant rival pointing an accusatory finger down from cathedral steps visually broadcasts smug contempt.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A chilling, direct ultimatum ('Choose your next words carefully.') delivers immediate lethal tension.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Over-the-shoulder shot showing the arrogant antagonist's smirk wavering under an unseen physical threat creates clear visual power shift.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single imperative word ('Come.') lacking standalone narrative context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Extreme close-up of a scarred hand protectively covering a bride's trembling hands over a relic establishes strong tactile visual intimacy.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "High wide shot of characters walking away into mist is visually atmospheric for an ending/fade-out, but lacks immediate scroll-stopping urgency.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 1,
+      "specific_question": "What is inside the mysterious heirloom ledger Lady Juliana is clutching?",
+      "stakes_importance": "Low \u2014 opening visual setup establishing an object, but no active conflict has erupted yet.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why is Lord Ashcroft stopping Juliana and the mysterious bearded man as they descend the cathedral steps?",
+      "stakes_importance": "Medium \u2014 signals an impending confrontation between the father and the newly married bride.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana defy her father's demand to surrender the Ashcroft name after her wedding?",
+      "stakes_importance": "High \u2014 establishes the high-stakes threat of being stripped of nobility and familial lineage.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Lord Ashcroft punish Juliana for brazenly defying him and declaring herself another man's wife?",
+      "stakes_importance": "Medium \u2014 direct clash of authority where the daughter refuses to submit.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Juliana survive being cast out and disowned by her father right outside the cathedral?",
+      "stakes_importance": "High \u2014 severe emotional and social rupture as a father formally disowns his daughter.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 5,
+      "specific_question": "Stripped of her dowry, inheritance, and pronounced dead to her family, what will Juliana do now?",
+      "stakes_importance": "High \u2014 complete social ruin, absolute disownment, and total destruction of her noble standing.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Lord Ashcroft show any shred of mercy toward his pleading daughter?",
+      "stakes_importance": "Medium \u2014 high emotional vulnerability in an immediate plea for paternal affection.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Lord Ashcroft react to Juliana's cutting counter-accusation while her dangerous husband glares on?",
+      "stakes_importance": "High \u2014 a sharp emotional turning point where Juliana defies her father's moral authority.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "What does Lady Ashcroft intend to do with the heirloom ledger Juliana is protecting?",
+      "stakes_importance": "Medium \u2014 introduces the malicious stepmother seizing a critical sentimental and financial asset.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Lady Ashcroft forcibly pry Juliana's only remaining connection to her family from her hands?",
+      "stakes_importance": "Medium \u2014 impending physical and emotional violation by the antagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's desperate plea protect her deceased mother's legacy from Lady Ashcroft?",
+      "stakes_importance": "Medium \u2014 establishes deep sentimental vulnerability around the mother's legacy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "Is Lady Ashcroft about to physically assault Juliana and tear the heirloom book away?",
+      "stakes_importance": "High \u2014 physical confrontation suspended right before the strike/theft lands.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 5,
+      "specific_question": "As Juliana crawls in the dirt under Clarissa and Gerald's cruel laughter, will her new husband retaliate?",
+      "stakes_importance": "High \u2014 absolute peak of public degradation, heartbreak, and villain gloating with a suspended reaction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the mysterious husband rescue Juliana's honor or confront her mocking family?",
+      "stakes_importance": "Medium \u2014 romantic and protective intervention in progress.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will the husband handle the soiled ledger as he retrieves it?",
+      "stakes_importance": "Low \u2014 mid-action beat with minimal unresolved narrative tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 2,
+      "specific_question": "What will Juliana say to the mysterious man after he hands back her mother's book?",
+      "stakes_importance": "Low \u2014 emotional resolution of a micro-action (retrieving the book).",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana accept the mysterious husband's comfort amidst her ruin?",
+      "stakes_importance": "Low \u2014 warm dialogue that re-assures the protagonist rather than ratcheting up tension.",
+      "defuses_tension": true,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana truly abandon all her claims to the Ashcroft estate?",
+      "stakes_importance": "Low \u2014 tender, resolving romantic beat that defuses immediate immediate panic.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the mysterious husband respond to Gerald's loud public slander branding Juliana a beggar's wife?",
+      "stakes_importance": "High \u2014 direct public insult demanding immediate retaliation or physical comeuppance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Gerald dare to speak again, or will the dangerous husband strike him down on the cathedral stairs?",
+      "stakes_importance": "High \u2014 lethal ultimatum and direct psychological dominance, leaving physical violence suspended.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 3,
+      "specific_question": "Where is the mysterious man taking Juliana as he leads her away from her family?",
+      "stakes_importance": "Medium \u2014 protective departure cutting off the immediate confrontation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 0,
+      "specific_question": "Where will their new life lead them?",
+      "stakes_importance": "Low \u2014 definitive scene wrap-up with characters walking out through gates and fading to black.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    }
+  ]
+}

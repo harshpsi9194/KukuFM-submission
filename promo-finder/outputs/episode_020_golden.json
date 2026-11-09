@@ -1,0 +1,738 @@
+{
+  "episode": "Episode 20",
+  "episode_number": 20,
+  "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+  "continuity_notes": "Follows Episode 19's night in the barn; as Alexander begins his clandestine fight to reclaim his birthright, Juliana tends to the suffering village while Rupert and Catherine celebrate their anticipated ascension to the ducal throne.",
+  "duration": 114.75,
+  "total_beats": 17,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 2.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle establishing shot tilting up toward the imposing, grand stone facade of Ashbury Manor against a cold, overcast morning sky, frost dusting the pristine lawn.",
+          "start": 0.0,
+          "end": 2.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. ASHBURY MANOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B002",
+      "start": 2.8,
+      "end": 15.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium wide shot of the lavish drawing room. CATHERINE, dressed in an ornate lilac regency gown and white satin gloves, gracefully pours hot tea from an ornate silver teapot, while RUPERT stands elegantly by the tall window.",
+          "start": 2.8,
+          "end": 6.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Two lumps of sugar, Rupert?",
+          "start": 2.9,
+          "end": 4.4,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Smug, Prim"
+        },
+        {
+          "type": "dialogue",
+          "description": "Or has your sudden climb to power sweetened your taste already?",
+          "start": 4.6,
+          "end": 7.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Taunting, Silkily"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine stirring her tea with a silver spoon, lifting her gaze with a haughty smirk.",
+          "start": 6.9,
+          "end": 9.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Only if it sweetens your disposition, Catherine.",
+          "start": 8.2,
+          "end": 10.8,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Flirtatious, Sly"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph.",
+          "start": 9.6,
+          "end": 15.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The estate is practically ours.",
+          "start": 10.9,
+          "end": 12.7,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Boastful, Confident"
+        },
+        {
+          "type": "dialogue",
+          "description": "The succession papers are being finalized as we speak.",
+          "start": 12.8,
+          "end": 15.1,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Smug"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B003",
+      "start": 15.2,
+      "end": 25.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive.",
+          "start": 15.2,
+          "end": 20.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "'Practically' is a word for beggars. I do not marry a practical Duke.",
+          "start": 15.4,
+          "end": 18.7,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Cold, Haughty"
+        },
+        {
+          "type": "dialogue",
+          "description": "I marry the Lord of Ashbury.",
+          "start": 18.8,
+          "end": 20.1,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Stern, Ambitious"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction.",
+          "start": 20.0,
+          "end": 25.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And so you shall.",
+          "start": 20.1,
+          "end": 21.2,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Reassuring, Firm"
+        },
+        {
+          "type": "dialogue",
+          "description": "Once my cousin Alexander's death is formally sealed by the Crown...",
+          "start": 21.3,
+          "end": 24.2,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Dark, Conspiratorial"
+        },
+        {
+          "type": "dialogue",
+          "description": "...the title is mine.",
+          "start": 24.3,
+          "end": 25.4,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Decisive"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B004",
+      "start": 25.5,
+      "end": 30.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "And what of the Dowager? The old woman still breathes.",
+          "start": 25.5,
+          "end": 28.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Wary, Inquiring"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern.",
+          "start": 25.5,
+          "end": 30.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Her shadow still hangs over this house.",
+          "start": 28.3,
+          "end": 30.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Disdainful"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B005",
+      "start": 30.2,
+      "end": 39.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Her health fails more each day. The physicians are baffled.",
+          "start": 30.2,
+          "end": 32.8,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Quiet, Sinister"
+        },
+        {
+          "type": "camera",
+          "description": "Tight close-up of Rupert's face as a sinister grin spreads across his features.",
+          "start": 30.2,
+          "end": 34.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "They call it a wasting of the lungs.",
+          "start": 32.9,
+          "end": 34.4,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Gloating"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment.",
+          "start": 34.1,
+          "end": 39.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "How tragic. The slow, quiet decline.",
+          "start": 34.2,
+          "end": 36.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Mock-Sympathetic, Cruel"
+        },
+        {
+          "type": "dialogue",
+          "description": "How much longer can the frail thing survive?",
+          "start": 36.9,
+          "end": 39.1,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Scheming"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B006",
+      "start": 39.3,
+      "end": 42.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium profile of Rupert looking out the window, hands clasped behind him.",
+          "start": 39.3,
+          "end": 42.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Not through the winter. I've ensured her quiet comfort.",
+          "start": 39.4,
+          "end": 42.4,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Cold, Callous"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B007",
+      "start": 42.5,
+      "end": 50.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust.",
+          "start": 42.5,
+          "end": 50.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Good. The village is already whispering about her.",
+          "start": 42.6,
+          "end": 44.9,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Vindictive"
+        },
+        {
+          "type": "dialogue",
+          "description": "The local peasants are like dogs, barking at every carriage that passes.",
+          "start": 45.0,
+          "end": 48.4,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Contemptuous"
+        },
+        {
+          "type": "dialogue",
+          "description": "They disgust me.",
+          "start": 48.5,
+          "end": 49.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Disgusted"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B008",
+      "start": 50.0,
+      "end": 56.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder.",
+          "start": 50.0,
+          "end": 56.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "They are nothing. Dirt beneath our boots.",
+          "start": 50.2,
+          "end": 52.5,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Dismissive, Arrogant"
+        },
+        {
+          "type": "dialogue",
+          "description": "They will learn their place when you wear the ducal crown.",
+          "start": 52.8,
+          "end": 56.0,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Authoritative, Promising"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B009",
+      "start": 56.5,
+      "end": 70.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her hands are bound in linen bandages from the recent fire.",
+          "start": 56.5,
+          "end": 60.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern.",
+          "start": 60.0,
+          "end": 64.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Let me take that basket, Lady Juliana.",
+          "start": 60.5,
+          "end": 62.5,
+          "timestamp_source": "given",
+          "character": "SEAMUS",
+          "emotion": "Gentle, Concerned"
+        },
+        {
+          "type": "dialogue",
+          "description": "Your palms are still raw from the fire. You shouldn't be working in this freezing draft.",
+          "start": 62.6,
+          "end": 66.6,
+          "timestamp_source": "given",
+          "character": "SEAMUS",
+          "emotion": "Empathetic"
+        },
+        {
+          "type": "action",
+          "description": "Seamus reaches down to take the handle of the basket from her.",
+          "start": 64.8,
+          "end": 66.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "If I stop, Seamus, the lung fever in the valley wins.",
+          "start": 66.7,
+          "end": 69.1,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Fierce, Resolute"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket.",
+          "start": 66.8,
+          "end": 70.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I do not yield to a cold draft.",
+          "start": 69.2,
+          "end": 70.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Defiant"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ABANDONED BARN \u2013 DAY"
+    },
+    {
+      "beat_id": "B010",
+      "start": 70.5,
+      "end": 76.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Seamus, his face agonizingly strained with grief for her lost status.",
+          "start": 70.5,
+          "end": 76.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You are a viscount's daughter!",
+          "start": 70.6,
+          "end": 72.3,
+          "timestamp_source": "given",
+          "character": "SEAMUS",
+          "emotion": "Desperate, Grieving"
+        },
+        {
+          "type": "dialogue",
+          "description": "Sleeping on straw, sorting weeds!",
+          "start": 72.4,
+          "end": 74.2,
+          "timestamp_source": "given",
+          "character": "SEAMUS",
+          "emotion": "Pleading"
+        },
+        {
+          "type": "dialogue",
+          "description": "Let the village tend to itself for once!",
+          "start": 74.3,
+          "end": 76.2,
+          "timestamp_source": "given",
+          "character": "SEAMUS",
+          "emotion": "Frustrated"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ABANDONED BARN \u2013 DAY"
+    },
+    {
+      "beat_id": "B011",
+      "start": 76.2,
+      "end": 81.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana, her jaw set with unwavering moral strength.",
+          "start": 76.2,
+          "end": 81.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The chapel is gone, Seamus. I am the only healer these people have left.",
+          "start": 76.3,
+          "end": 79.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Passionate, Unflinching"
+        },
+        {
+          "type": "dialogue",
+          "description": "I keep the basket.",
+          "start": 79.9,
+          "end": 81.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Unyielding"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ABANDONED BARN \u2013 DAY"
+    },
+    {
+      "beat_id": "B012",
+      "start": 81.0,
+      "end": 88.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them.",
+          "start": 81.0,
+          "end": 88.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "They have reduced you to a peasant.",
+          "start": 82.0,
+          "end": 84.4,
+          "timestamp_source": "given",
+          "character": "SEAMUS",
+          "emotion": "Saddened, Heartbroken"
+        },
+        {
+          "type": "dialogue",
+          "description": "They have reduced me to myself.",
+          "start": 84.8,
+          "end": 86.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Proud, Indomitable"
+        },
+        {
+          "type": "dialogue",
+          "description": "And I am not finished.",
+          "start": 86.6,
+          "end": 88.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Steely"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ABANDONED BARN \u2013 DAY"
+    },
+    {
+      "beat_id": "B013",
+      "start": 88.2,
+      "end": 94.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter.",
+          "start": 88.2,
+          "end": 90.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Sharp porcelain chime of teacup meeting saucer.",
+          "start": 88.4,
+          "end": 89.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine looking up, her face twisting into venomous arrogance.",
+          "start": 89.8,
+          "end": 94.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Let the peasants rot in their barns.",
+          "start": 89.9,
+          "end": 92.4,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Cruel, Callous"
+        },
+        {
+          "type": "dialogue",
+          "description": "Let them pray to their weeds.",
+          "start": 92.6,
+          "end": 94.5,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Mocking, Spiteful"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B014",
+      "start": 94.8,
+      "end": 99.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively.",
+          "start": 94.8,
+          "end": 99.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You have no rival here, Catherine.",
+          "start": 94.9,
+          "end": 97.3,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Intimate, Reassuring"
+        },
+        {
+          "type": "dialogue",
+          "description": "No one to stand in your way.",
+          "start": 97.4,
+          "end": 99.1,
+          "timestamp_source": "given",
+          "character": "RUPERT",
+          "emotion": "Fawning"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B015",
+      "start": 99.2,
+      "end": 103.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold.",
+          "start": 99.2,
+          "end": 103.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Once the old Duchess is gone...",
+          "start": 99.3,
+          "end": 101.4,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Triumphant, Greedy"
+        },
+        {
+          "type": "dialogue",
+          "description": "...Ashbury will finally belong to us.",
+          "start": 101.5,
+          "end": 103.7,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Possessive"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B016",
+      "start": 103.8,
+      "end": 109.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds.",
+          "start": 103.8,
+          "end": 109.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette.",
+          "start": 104.0,
+          "end": 109.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "This house will only bow to me.",
+          "start": 106.8,
+          "end": 109.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Cold, Ruthless"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B017",
+      "start": 109.5,
+      "end": 114.75,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.",
+          "start": 109.5,
+          "end": 114.75,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBURY MANOR - DRAWING ROOM \u2013 CONTINUOUS"
+    }
+  ]
+}

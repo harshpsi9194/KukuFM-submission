@@ -1,0 +1,568 @@
+{
+  "episode_number": 6,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual intrigue: bride in a muddy satin wedding gown trudging through a dark, rainy forest with a mysterious hooded figure instantly hooks scrollers on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Suggests a fallen station and displacement ('I know this is not the life you came from'), establishing high stakes setup.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Dramatic close-up of a scarred, rain-soaked man in the dark woods carries clear visual intensity.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Simple confirmation of resignation ('No. It isn't') lacking standalone context or high tension.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Resigned upward glance in the rain shows soft emotion but lacks strong scroll-stopping momentum.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Expresses protective regret ('You should not have had to walk through this rain tonight') without sharp conflict.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on her pendant and cloak provides minor character texture but standard visual pacing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Mild wistful remark ('I suppose the day was already ruined') hints at prior ruin but lacks immediate punch.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard close-up with a wistful smile.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Extreme close-up on piercing eyes conveys subtle emotion but lacks physical action or narrative shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard wide establishing shot of a cottage in the woods.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A brief logistical question ('That is it?') without standalone tension.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of realization, but relatively standard framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A one-word reply ('Yes') serving as minimal filler dialogue.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium close-up of the man.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sharp, arresting revelation of public disgrace ('At least no one there will be waiting to humiliate me').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Bride hiking her muddy skirt to march toward a dilapidated cabin creates active visual momentum.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Door creaking open into a dark, barren room provides basic atmosphere.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Insert shot of a leaking roof bucket is mundane environmental detail.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A polite, low-context apology ('I am sorry').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard framing of a man standing in dim light.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Generic medium shot of character observing an empty room.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Highlights stark destitution and reality check ('You came from comfort. This is all I can give you now.').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Stripping off the dark cloak to reveal a bridal gown inside an impoverished shack is visually striking on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Mundane observation about the environment ('It is quiet. Very quiet.').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Quiet contemplative side profile at a window.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard over-the-shoulder reaction shot.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Mild conversational acceptance ('I think I like that').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Conventional medium close-up with a soft smile.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct emotional confrontation on expectations ('You are not disappointed?' / 'I am.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Intense eye contact across cuts, but standard dialogue framing.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Subverts tension constructively ('But not because of you') rather than escalating conflict.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard over-the-shoulder dialogue framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Domestic determination line ('If this is our home, I want it clean') with low stakes.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "High contrast action of a bride in wedding attire aggressively scrubbing down a grimy table.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Raw, emotionally charged breakdown line ('If I stop now, I will think about everything I lost').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on strained, tear-filled face combined with manic physical scrubbing.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Grounded cooperative action as he kneels to adjust a wobbly table leg.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Sweeping the floor in bridal attire, mildly unusual visually but low kinetic tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Routine tracking shot carrying firewood to the hearth.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Extreme close-up of flint striking sparks shower onto kindling provides strong kinetic visual interest.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "Utilitarian single word ('There') with zero narrative stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Warm amber firelight spreading across the room; atmospheric but peaceful.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Understated self-deprecation ('It is not much').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium close-up with a mild gesture.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Gentle acceptance ('It is enough for tonight').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Cozy two-shot framed by a roaring fire on the stone floor.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes declaration of complete devastation ('I lost my home today. My family. Everything I thought my life would be.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Warm firelit close-ups and scarred hands, intimate but low visual conflict.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Intriguing shift in stakes and romantic tension ('Sitting here with him, I don't feel afraid').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Extreme close-up on scarred cheek illuminated by amber firelight.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Gentle close-up expressing hope; static emotional beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard closing shot of embers fading to black.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why is a bride in a mud-soaked wedding dress trekking through the dark stormy woods with an armed, scarred stranger?",
+      "stakes_importance": "Medium \u2014 sets up a jarring visual contrast between high-status bridal elegance and desperate survival, inviting questions about her escape or abduction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "What luxurious aristocratic life did Juliana flee from, and what harsh reality does this mysterious scarred man represent?",
+      "stakes_importance": "Medium \u2014 highlights the social disparity and unvoiced trauma behind her sudden fall from grace.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Juliana genuinely accept leaving her former high-born life behind?",
+      "stakes_importance": "Low \u2014 quiet acknowledgment of sorrow with little forward narrative urgency.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "What debt or guilt does the mysterious stranger feel toward Juliana for her present suffering?",
+      "stakes_importance": "Low \u2014 sympathetic apology establishing his protective conscience, but slow-paced.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 3,
+      "specific_question": "What catastrophe ruined Juliana's wedding day before she ended up in the woods?",
+      "stakes_importance": "Medium \u2014 explicitly points back to an unseen trauma or scandal at the altar.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "What is the mysterious man thinking as he studies Juliana's unexpected resilience?",
+      "stakes_importance": "Low \u2014 purely internal emotional reaction shot without imminent consequence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 2,
+      "specific_question": "What awaits them inside the isolated stone cottage hidden deep in the forest?",
+      "stakes_importance": "Low \u2014 arrival transition shot establishing geography.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Juliana react to the reality that this dilapidated shack is her new sanctuary?",
+      "stakes_importance": "Low \u2014 minor moment of realization preceding dialogue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will they go inside the cottage?",
+      "stakes_importance": "Low \u2014 monosyllabic confirmation to a routine location question.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who subjected Juliana to such unbearable humiliation back in town that she prefers isolation with an enigmatic stranger?",
+      "stakes_importance": "High \u2014 directly exposes the severity of the betrayal and public cruelty she suffered on her wedding day.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 2,
+      "specific_question": "What kind of squalor or secrets will Juliana find inside the cottage?",
+      "stakes_importance": "Low \u2014 transitional threshold action.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 1,
+      "specific_question": "How bad is the state of the cottage?",
+      "stakes_importance": "Low \u2014 ambient environmental visual showing a leaking roof.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana forgive the man for offering her only this dilapidated refuge?",
+      "stakes_importance": "Low \u2014 generic expression of regret before her reaction is seen.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 1,
+      "specific_question": "What does Juliana think of the room?",
+      "stakes_importance": "Low \u2014 silent observational transition beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can an aristocratic noblewoman truly survive in a barren cottage stripped of her noble status and wealth?",
+      "stakes_importance": "Medium \u2014 stark visual stripping of her cloak and formal identity down to raw survival.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 2,
+      "specific_question": "Is Juliana feeling trapped or relieved by the suffocating silence of the forest?",
+      "stakes_importance": "Low \u2014 atmospheric observation without clear conflict.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will the mysterious stranger interpret Juliana's prolonged gaze into the woods?",
+      "stakes_importance": "Low \u2014 silent reaction setup.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will this unexpected solitude bring Juliana and the mysterious stranger together?",
+      "stakes_importance": "Low \u2014 warm emotional de-escalation rather than high-stakes hook.",
+      "defuses_tension": true,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "Juliana admits she is bitterly disappointed \u2014 will she take her anger out on the man who took her in?",
+      "stakes_importance": "High \u2014 creates sudden relational friction and suspended tension on a blunt admission of disappointment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who exactly is responsible for Juliana's profound heartbreak and disappointment?",
+      "stakes_importance": "Medium \u2014 immediately defuses the confrontation with the bearded man, redirecting grief toward her past.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why is Juliana desperately scrubbing tables instead of letting herself process the trauma of her wedding day?",
+      "stakes_importance": "Medium \u2014 captures frantic avoidance behavior driven by deep emotional shock.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "What total devastation did Juliana endure today that threatens to crush her the instant she stops moving?",
+      "stakes_importance": "High \u2014 visceral vulnerability and emotional rupture revealing how close she is to completely breaking down.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the stranger's quiet support help Juliana survive her grief?",
+      "stakes_importance": "Low \u2014 cooperative domestic healing action that softens narrative conflict.",
+      "defuses_tension": true,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Juliana finish sweeping the hearth?",
+      "stakes_importance": "Low \u2014 mundane domestic chore with no narrative tension.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will the hearth fire get built?",
+      "stakes_importance": "Low \u2014 purely utilitarian domestic staging.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will the sparks catch the kindling?",
+      "stakes_importance": "Low \u2014 mechanical task resolved within the beat.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will their dynamic evolve now that the fire is lit?",
+      "stakes_importance": "Low \u2014 warm emotional resolution and comforting atmosphere.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 1,
+      "specific_question": "Does Juliana expect more from him?",
+      "stakes_importance": "Low \u2014 minor self-deprecating comment with already established answers.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will two complete strangers manage their first night together in one small room?",
+      "stakes_importance": "Medium \u2014 subtle romantic and physical proximity, but resolved into quiet contentment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 5,
+      "specific_question": "Juliana lost her home, family, and entire future today \u2014 what shocking paradox makes her feel safer with this scarred stranger than her own kin?",
+      "stakes_importance": "High \u2014 cuts at the precipice of an unfinished sentence ('And yet...') following a devastating confession of total betrayal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why does a dangerous, scarred outcast inspire trust in Juliana when her own family betrayed her?",
+      "stakes_importance": "Medium \u2014 emotionally answers the 'And yet...' from B030, reducing the raw curiosity gap but setting up their bond.",
+      "defuses_tension": true,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 2,
+      "specific_question": "What will tomorrow bring for Juliana in this strange exile?",
+      "stakes_importance": "Low \u2014 peaceful, introspective closing beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 0,
+      "specific_question": "What happens in the next chapter?",
+      "stakes_importance": "Low \u2014 conventional scene-ending fade-to-black with all immediate emotional tension resolved.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    }
+  ]
+}

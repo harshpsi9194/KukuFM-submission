@@ -1,0 +1,171 @@
+{
+  "episode_number": 6,
+  "total_gate_survivors": 2,
+  "total_unique_boundaries": 2,
+  "boundary_pass_comparisons": [
+    {
+      "candidate_id": "CAND_EP006_04",
+      "base_beat_range": "B015 -> B021",
+      "base_duration": 26.2,
+      "recommended_variant_id": "CAND_EP006_04_base",
+      "recommended_start_beat_id": "B015",
+      "recommended_end_beat_id": "B021",
+      "selection_rationale": "Base boundaries (B015 -> B021, 26.2s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP006_04_base",
+          "label": "base",
+          "start_beat_id": "B015",
+          "end_beat_id": "B021",
+          "start_time": 43.3,
+          "end_time": 69.5,
+          "duration": 26.2,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP006_04_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B015",
+          "end_beat_id": "B020",
+          "start_time": 43.3,
+          "end_time": 64.1,
+          "duration": 20.8,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP006_04_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B015",
+          "end_beat_id": "B022",
+          "start_time": 43.3,
+          "end_time": 74.3,
+          "duration": 31.0,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP006_05",
+      "base_beat_range": "B015 -> B022",
+      "base_duration": 31.0,
+      "recommended_variant_id": "CAND_EP006_05_base",
+      "recommended_start_beat_id": "B015",
+      "recommended_end_beat_id": "B022",
+      "selection_rationale": "Base boundaries (B015 -> B022, 31.0s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP006_05_base",
+          "label": "base",
+          "start_beat_id": "B015",
+          "end_beat_id": "B022",
+          "start_time": 43.3,
+          "end_time": 74.3,
+          "duration": 31.0,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP006_05_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B015",
+          "end_beat_id": "B021",
+          "start_time": 43.3,
+          "end_time": 69.5,
+          "duration": 26.2,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP006_05_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B015",
+          "end_beat_id": "B023",
+          "start_time": 43.3,
+          "end_time": 76.8,
+          "duration": 33.5,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    }
+  ],
+  "deduplication_audit_log": []
+}

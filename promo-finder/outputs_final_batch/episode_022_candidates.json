@@ -1,0 +1,968 @@
+{
+  "episode_number": 22,
+  "total_candidates": 17,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP022_01",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 21.2,
+      "duration": 21.2,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Atmospheric gothic archway and maid disguised on damp stone establishes instant period/disguise intrigue, though lacks explosive physical shock.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B005",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can Juliana reach the Duchess before she succumbs to her illness?",
+        "stakes_importance": "High \u2014 life-or-death revelation that reframes Juliana's dangerous infiltration as an urgent rescue mission.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B001",
+          "end_beat_id": "B005",
+          "start_time": 0.0,
+          "end_time": 21.2,
+          "duration": 21.2,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_02",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B002",
+      "end_beat_id": "B006",
+      "start_time": 4.0,
+      "end_time": 25.8,
+      "duration": 21.8,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes warning ('If anyone recognizes you, everything is over') immediately hooks with secret-identity peril.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Prudence physically yanks Juliana into a stone archway, showing acute secrecy on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 3,
+        "specific_question": "Does Juliana truly possess the medical ability to save the dying Duchess?",
+        "stakes_importance": "Medium \u2014 establishes her secret healing capability and stakes her mission on saving a noble life.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B002",
+          "end_beat_id": "B006",
+          "start_time": 4.0,
+          "end_time": 25.8,
+          "duration": 21.8,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_03",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B002",
+      "end_beat_id": "B007",
+      "start_time": 4.0,
+      "end_time": 28.1,
+      "duration": 24.1,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes warning ('If anyone recognizes you, everything is over') immediately hooks with secret-identity peril.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Prudence physically yanks Juliana into a stone archway, showing acute secrecy on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 3,
+        "specific_question": "What terrible fate awaits Juliana if the household uncovers her true noble identity?",
+        "stakes_importance": "Medium \u2014 leaves a direct, chilling question hanging on the imminent danger of exposure.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B002",
+          "end_beat_id": "B007",
+          "start_time": 4.0,
+          "end_time": 28.1,
+          "duration": 24.1,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_04",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B002",
+      "end_beat_id": "B009",
+      "start_time": 4.0,
+      "end_time": 36.2,
+      "duration": 32.2,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes warning ('If anyone recognizes you, everything is over') immediately hooks with secret-identity peril.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Prudence physically yanks Juliana into a stone archway, showing acute secrecy on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B009",
+        "curiosity_gap_score": 3,
+        "specific_question": "Can a highborn lady truly shed her aristocratic upbringing to survive among harsh servants?",
+        "stakes_importance": "Medium \u2014 psychological and social stakes established as she crosses the threshold into servitude.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B002",
+          "end_beat_id": "B009",
+          "start_time": 4.0,
+          "end_time": 36.2,
+          "duration": 32.2,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_05",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B002",
+      "end_beat_id": "B010",
+      "start_time": 4.0,
+      "end_time": 39.8,
+      "duration": 35.8,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes warning ('If anyone recognizes you, everything is over') immediately hooks with secret-identity peril.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Prudence physically yanks Juliana into a stone archway, showing acute secrecy on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will Juliana's masquerade hold up once she steps inside the household?",
+        "stakes_importance": "Medium \u2014 marks the protagonist's active sacrifice and commitment to the perilous disguise.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B002",
+          "end_beat_id": "B010",
+          "start_time": 4.0,
+          "end_time": 39.8,
+          "duration": 35.8,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_06",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B004",
+      "end_beat_id": "B010",
+      "start_time": 14.2,
+      "end_time": 39.8,
+      "duration": 25.6,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Active threat warning detailing who is watching ('Lady Catherine watches everyone, and Lord Rupert...').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Nervous glance toward the courtyard, indicating watchful eyes.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will Juliana's masquerade hold up once she steps inside the household?",
+        "stakes_importance": "Medium \u2014 marks the protagonist's active sacrifice and commitment to the perilous disguise.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B004",
+          "end_beat_id": "B010",
+          "start_time": 14.2,
+          "end_time": 39.8,
+          "duration": 25.6,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_07",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B005",
+      "end_beat_id": "B010",
+      "start_time": 19.0,
+      "end_time": 39.8,
+      "duration": 20.8,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp, life-or-death declaration ('The Duchess is dying') cuts right through polite banter.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up of resolute expression; standard framing.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will Juliana's masquerade hold up once she steps inside the household?",
+        "stakes_importance": "Medium \u2014 marks the protagonist's active sacrifice and commitment to the perilous disguise.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B005",
+          "end_beat_id": "B010",
+          "start_time": 19.0,
+          "end_time": 39.8,
+          "duration": 20.8,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_08",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B012",
+      "end_beat_id": "B019",
+      "start_time": 43.0,
+      "end_time": 69.8,
+      "duration": 26.8,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Abrupt, suspicious challenge ('Who is this?') catches the characters off-guard.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Formidable housekeeper blocking dim hallway with folded arms and dangling keys establishes instant confrontation on mute.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "Does the Housekeeper suspect Juliana is an intruder or spy seeking manor secrets?",
+        "stakes_importance": "High \u2014 aggressive face-to-face intimidation probing directly into Juliana's secret motives.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B012",
+          "end_beat_id": "B019",
+          "start_time": 43.0,
+          "end_time": 69.8,
+          "duration": 26.8,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_09",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B012",
+      "end_beat_id": "B020",
+      "start_time": 43.0,
+      "end_time": 73.0,
+      "duration": 30.0,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Abrupt, suspicious challenge ('Who is this?') catches the characters off-guard.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Formidable housekeeper blocking dim hallway with folded arms and dangling keys establishes instant confrontation on mute.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will Juliana's submissive facade pass the Housekeeper's intense visual inspection?",
+        "stakes_importance": "Medium \u2014 extreme tension in the face-to-face standoff before the Housekeeper's judgment.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B012",
+          "end_beat_id": "B020",
+          "start_time": 43.0,
+          "end_time": 73.0,
+          "duration": 30.0,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_10",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B013",
+      "end_beat_id": "B019",
+      "start_time": 46.0,
+      "end_time": 69.8,
+      "duration": 23.8,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Covers identity with a mundane cover story ('Julian, ma'am. New help for the winter cleaning').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low curtsy juxtaposed against the disguised noblewoman lugging a heavy bucket creates visual class tension.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "Does the Housekeeper suspect Juliana is an intruder or spy seeking manor secrets?",
+        "stakes_importance": "High \u2014 aggressive face-to-face intimidation probing directly into Juliana's secret motives.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B013",
+          "end_beat_id": "B019",
+          "start_time": 46.0,
+          "end_time": 69.8,
+          "duration": 23.8,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_11",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B014",
+      "end_beat_id": "B019",
+      "start_time": 49.2,
+      "end_time": 69.8,
+      "duration": 20.6,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Skeptical insult ('She looks soft') directly challenges Juliana's deception.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up insert of delicate hands gripping the rough iron handle of a wash bucket exposes the disguised noblewoman.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "Does the Housekeeper suspect Juliana is an intruder or spy seeking manor secrets?",
+        "stakes_importance": "High \u2014 aggressive face-to-face intimidation probing directly into Juliana's secret motives.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B014",
+          "end_beat_id": "B019",
+          "start_time": 49.2,
+          "end_time": 69.8,
+          "duration": 20.6,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_12",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B019",
+      "end_beat_id": "B022",
+      "start_time": 64.2,
+      "end_time": 84.6,
+      "duration": 20.4,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Menacing threat wrapped in an interrogation ('And can you keep your eyes and ears where they belong?').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Aggressive physical intimidation: housekeeper steps directly into Juliana's face, glaring down with zero personal space.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 3,
+        "specific_question": "Can Juliana navigate to the forbidden West Wing without getting intercepted by guards or nobles?",
+        "stakes_importance": "Medium \u2014 immediately pivots from surviving the interrogation to initiating the forbidden search.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B019",
+          "end_beat_id": "B022",
+          "start_time": 64.2,
+          "end_time": 84.6,
+          "duration": 20.4,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_13",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B028",
+      "end_beat_id": "B031",
+      "start_time": 105.5,
+      "end_time": 125.8,
+      "duration": 20.3,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up insert of trembling hands slowly twisting an ornate brass latch conveys tense intrusion on mute.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 5,
+        "specific_question": "If not an ordinary fever, what poison or foul play has been inflicted on the Duchess?",
+        "stakes_importance": "High \u2014 massive narrative turning point exposing intentional murder or poisoning within the household.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B028",
+          "end_beat_id": "B031",
+          "start_time": 105.5,
+          "end_time": 125.8,
+          "duration": 20.3,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_14",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B028",
+      "end_beat_id": "B032",
+      "start_time": 105.5,
+      "end_time": 127.0,
+      "duration": 21.5,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up insert of trembling hands slowly twisting an ornate brass latch conveys tense intrusion on mute.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the Duchess die in convulsions right in Juliana's arms, framing her for murder?",
+        "stakes_importance": "High \u2014 sudden violent medical crisis creating immediate life-or-death panic.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B028",
+          "end_beat_id": "B032",
+          "start_time": 105.5,
+          "end_time": 127.0,
+          "duration": 21.5,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_15",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B028",
+      "end_beat_id": "B034",
+      "start_time": 105.5,
+      "end_time": 131.0,
+      "duration": 25.5,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up insert of trembling hands slowly twisting an ornate brass latch conveys tense intrusion on mute.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will the Duchess name her assassin before she chokes to death, or will someone burst in and catch Juliana at her bedside?",
+        "stakes_importance": "High \u2014 peak life-or-death cliffhanger with unexpressed terror, imminent murder, and an abrupt musical cut to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B028",
+          "end_beat_id": "B034",
+          "start_time": 105.5,
+          "end_time": 131.0,
+          "duration": 25.5,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_16",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B029",
+      "end_beat_id": "B033",
+      "start_time": 108.5,
+      "end_time": 128.8,
+      "duration": 20.3,
+      "hook_signal": {
+        "beat_id": "B029",
+        "dialogue_hook_score": 1,
+        "dialogue_hook_rationale": "Mild respectful address ('Your Grace?').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-drama visual: gaunt, ashen duchess motionless in a shadowy four-poster bed creates immediate medical/mortal stakes without sound.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who inside Ashbury Manor is actively poisoning the Duchess?",
+        "stakes_importance": "High \u2014 direct interrogation aimed at uncovering the conspirator/poisoner behind the murder plot.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B029",
+          "end_beat_id": "B033",
+          "start_time": 108.5,
+          "end_time": 128.8,
+          "duration": 20.3,
+          "beat_ids": [
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP022_17",
+      "episode": "Episode 22",
+      "episode_number": 22,
+      "start_beat_id": "B029",
+      "end_beat_id": "B034",
+      "start_time": 108.5,
+      "end_time": 131.0,
+      "duration": 22.5,
+      "hook_signal": {
+        "beat_id": "B029",
+        "dialogue_hook_score": 1,
+        "dialogue_hook_rationale": "Mild respectful address ('Your Grace?').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-drama visual: gaunt, ashen duchess motionless in a shadowy four-poster bed creates immediate medical/mortal stakes without sound.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will the Duchess name her assassin before she chokes to death, or will someone burst in and catch Juliana at her bedside?",
+        "stakes_importance": "High \u2014 peak life-or-death cliffhanger with unexpressed terror, imminent murder, and an abrupt musical cut to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 22,
+          "start_beat_id": "B029",
+          "end_beat_id": "B034",
+          "start_time": 108.5,
+          "end_time": 131.0,
+          "duration": 22.5,
+          "beat_ids": [
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "episode_number": 23,
+  "total_scored": 14,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP023_01",
+      "start_beat_id": "B010",
+      "end_beat_id": "B021",
+      "start_time": 36.0,
+      "end_time": 73.8,
+      "duration": 37.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B010 visually establishes an urgent medical emergency: a close-up of an elderly matriarch gasping hoarsely and straining to breathe, immediately grounding the physical setting and life-or-death stakes without needing backstory.",
+        "arc_legibility": false,
+        "arc_rationale": "The clip cuts off at Beat B021 ('I have seen these symptoms before') before disclosing what the illness actually is or revealing that a crime is occurring. Without naming the poison or antagonist dynamic, the dramatic arc remains incomplete and opaque to a cold viewer.",
+        "passes_gate": false,
+        "situational_summary": "As an elderly matriarch gasps for breath in bed, a young woman consults a botanical journal and realizes she recognizes the fatal symptoms."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Mounting clinical suspicion and quiet investigative shock"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Identifies that the Duchess's illness is not natural, setting up a medical mystery."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_02",
+      "start_beat_id": "B010",
+      "end_beat_id": "B024",
+      "start_time": 36.0,
+      "end_time": 81.5,
+      "duration": 45.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B010 opens directly on an elderly woman gasping hoarsely for air in bed, instantly communicating a dire physical affliction and setting in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and complete revelation: Juliana investigates the dying woman's symptoms via a diagnostic journal and delivers the clear, unambiguous verdict ('Someone is poisoning her'), establishing the victim, the crime, and the domestic threat clearly.",
+        "passes_gate": true,
+        "situational_summary": "While attending to a dying matriarch struggling for breath, a woman consults an old diagnostic journal and discovers that someone in the household is poisoning her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Chilling discovery of covert domestic murder"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the Duchess's condition is intentional foul play/poisoning rather than old age."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_03",
+      "start_beat_id": "B010",
+      "end_beat_id": "B026",
+      "start_time": 36.0,
+      "end_time": 88.0,
+      "duration": 52.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B010 immediately grounds the scene with a tight close-up of the suffocating Duchess struggling to inhale, providing an unambiguous visual anchor of critical illness.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative trajectory is fully self-contained: moves from the matriarch's breathing crisis through diagnostic confirmation to an explicit accusation of intentional poisoning, capped by the specific lethal agent ('Arsenic').",
+        "passes_gate": true,
+        "situational_summary": "Faced with a gasping, bedridden matriarch, a woman matches the wasting symptoms to toxic herbs in a journal and reveals the Duchess is being poisoned with arsenic."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Righteous fury and horror confronting calculated murder"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the Duchess is being targeted for murder and specifies the lethal toxin (arsenic)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_04",
+      "start_beat_id": "B010",
+      "end_beat_id": "B027",
+      "start_time": 36.0,
+      "end_time": 91.0,
+      "duration": 55.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B010 instantly establishes the physical crisis with a close-up of the gasping Duchess fighting for breath at the bedside.",
+        "arc_legibility": true,
+        "arc_rationale": "A comprehensive self-contained arc: moves from observation to diagnosis ('Someone is poisoning her' / 'Arsenic') and immediately validates the mortal danger as the victim begins violently convulsing on the bed.",
+        "passes_gate": true,
+        "situational_summary": "After diagnosing that a dying matriarch is secretly being poisoned with arsenic, the investigator watches in horror as the victim begins violently choking and convulsing."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Lethal urgency and visceral terror as poison takes immediate effect"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the Duchess is being murdered with arsenic and depicts an acute, potentially fatal convulsion."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_05",
+      "start_beat_id": "B024",
+      "end_beat_id": "B032",
+      "start_time": 78.5,
+      "end_time": 115.0,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B024 opens cleanly on a medium close-up of Juliana looking directly at Prudence delivering an immediate, high-stakes declarative line ('Someone is poisoning her.'). The dynamic and physical confrontation are instantly grounded without ambiguity.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes a dying woman (the Duchess) being poisoned, Juliana preparing an emergency charcoal antidote, and external danger interrupting them via approaching footsteps outside the chamber.",
+        "passes_gate": true,
+        "situational_summary": "After discovering that a bedridden noblewoman is being poisoned with arsenic, a woman urgently concocts an herbal antidote just as ominous footsteps approach outside the locked door."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate medical race against time compounded by fear of discovery"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the Duchess's illness is actually deliberate arsenic poisoning and that Juliana possesses illicit medical know-how."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_06",
+      "start_beat_id": "B024",
+      "end_beat_id": "B033",
+      "start_time": 78.5,
+      "end_time": 116.5,
+      "duration": 38.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B024 grounds the viewer immediately with a focused medium close-up and direct, unambiguous dialogue establishing an ongoing poisoning attempt.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is self-contained: revelation of murder attempt, race to mix an antidote, and immediate physical suspension of action when Juliana freezes at an imminent threat.",
+        "passes_gate": true,
+        "situational_summary": "A woman preparing an emergency antidote for a poisoned Duchess abruptly freezes when she hears someone approaching outside the bedroom door."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Tense life-or-death intervention frozen by sudden threat of discovery"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the Duchess is being poisoned with arsenic and reveals an illicit antidote being prepared."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_07",
+      "start_beat_id": "B024",
+      "end_beat_id": "B034",
+      "start_time": 78.5,
+      "end_time": 118.5,
+      "duration": 40.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B024 establishes the interpersonal dynamic and central stakes in the very first second with clear framing and the line 'Someone is poisoning her.'",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict: poison victim in respiratory distress, urgent antidote preparation, and visual escalation to the door handle as an intruder arrives.",
+        "passes_gate": true,
+        "situational_summary": "While hastily mixing an antidote to counter lethal arsenic poisoning, a woman looks on in dread as the bedroom door handle begins to move."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Urgent life-or-death rescue cut short by immediate physical intrusion"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the secret murder plot (arsenic poisoning) and the illicit attempt to intervene."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_08",
+      "start_beat_id": "B024",
+      "end_beat_id": "B035",
+      "start_time": 78.5,
+      "end_time": 124.5,
+      "duration": 46.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B024 establishes clear visual orientation and high-stakes exposition ('Someone is poisoning her.') in the opening 2 seconds without requiring outside lore.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained dramatic unit: identification of poisoning, rushed antidote preparation, and panic vocalized by the companion as an intruder approaches.",
+        "passes_gate": true,
+        "situational_summary": "As a woman rushes to prepare a life-saving antidote for a poisoned noblewoman, her terrified companion warns that someone is walking through the door."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Escalating panic and life-or-death vulnerability under imminent discovery"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the Duchess's sickness is an intentional poisoning and Juliana's clandestine medical attempt to counter it."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_09",
+      "start_beat_id": "B024",
+      "end_beat_id": "B036",
+      "start_time": 78.5,
+      "end_time": 127.5,
+      "duration": 49.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B024 opens cleanly on a grounded medium close-up of Juliana with her hands on a closed journal looking directly at Prudence and declaring 'Someone is poisoning her.' Establishes the interpersonal dynamic and life-or-death stakes instantly without requiring sound or prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is completely self-contained: Juliana diagnoses arsenic poisoning, the Duchess begins actively choking, Juliana prepares an emergency charcoal remedy, and heavy footsteps approach the door, trapping her before she can administer it.",
+        "passes_gate": true,
+        "situational_summary": "After discovering the Duchess has been poisoned with arsenic, a woman urgently mixes an antidote as footsteps approach outside the locked chamber door."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate medical urgency clashing with imminent discovery and lethal conspiracy"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the core conspiracy mechanism that the Duchess's illness is deliberate arsenic poisoning."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_10",
+      "start_beat_id": "B024",
+      "end_beat_id": "B037",
+      "start_time": 78.5,
+      "end_time": 131.5,
+      "duration": 53.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B024 opens with a grounded medium close-up of Juliana looking squarely at Prudence and speaking the clear inciting declaration 'Someone is poisoning her.' The physical framing and clear dialogue immediately orient a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear, self-contained conflict from accusation to frantic antidote preparation, culminating directly in the turning brass handle as an unseen intruder breaches the room.",
+        "passes_gate": true,
+        "situational_summary": "After identifying that the bedridden Duchess is being poisoned with arsenic, a woman prepares an emergency antidote just as the chamber door handle turns."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak suspense combining race-against-death medical triage and impending capture"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the Duchess is being poisoned with arsenic and sets up an illicit caught-in-the-act confrontation."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_11",
+      "start_beat_id": "B025",
+      "end_beat_id": "B032",
+      "start_time": 81.5,
+      "end_time": 115.0,
+      "duration": 33.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B025 opens mid-scene on a reaction shot of Prudence gasping and repeating a single reactive word ('Poison?') without establishing who she is speaking to, where she is, or what prompted the reaction. Retrospective clarification by subsequent beats cannot justify this opening.",
+        "arc_legibility": true,
+        "arc_rationale": "The remaining arc clearly demonstrates an urgent attempt to save a choking woman from poisoning while an intruder approaches.",
+        "passes_gate": false,
+        "situational_summary": "A terrified companion watches as a woman prepares an emergency charcoal remedy for a poisoned duchess while footsteps approach."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Frantic emergency remedy under the threat of approaching footsteps"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the Duchess's poisoning and the clandestine preparation of an antidote."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_12",
+      "start_beat_id": "B026",
+      "end_beat_id": "B032",
+      "start_time": 84.5,
+      "end_time": 115.0,
+      "duration": 30.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 opens abruptly on an extreme close-up of Juliana's eyes uttering a single floating word ('Arsenic.') with zero spatial grounding, no established physical scene, and no visible conversational partner. Unanchored for a cold mobile viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The full sequence clearly shows the Duchess choking on poison and Juliana rushing to grind an antidote before someone outside reaches the room.",
+        "passes_gate": false,
+        "situational_summary": "Upon identifying arsenic as the cause of a noblewoman's sudden choking fit, a healer prepares an antidote as an intruder nears."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "High-stakes medical intervention racing against lethal poison and outside interruption"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the exact murder method (arsenic) used against the Duchess."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_13",
+      "start_beat_id": "B027",
+      "end_beat_id": "B036",
+      "start_time": 88.0,
+      "end_time": 127.5,
+      "duration": 39.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B027 clearly establishes the immediate medical crisis with a medium shot of the Duchess violently coughing and spasming on the bed while Juliana turns urgently toward her, immediately anchoring the setting and stakes visually in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows a desperate race to prepare an herbal antidote for a dying woman before an ominous, unidentified intruder arriving at the door catches them in the act.",
+        "passes_gate": true,
+        "situational_summary": "A woman urgently prepares an herbal antidote to treat a choking Duchess before an ominous intruder bursts into the bedchamber."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate life-or-death medical urgency colliding with paralyzing suspense of imminent discovery"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the acute poisoning crisis and clandestine emergency treatment attempt; excellent hook for cold scroller conversion."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP023_14",
+      "start_beat_id": "B032",
+      "end_beat_id": "B037",
+      "start_time": 104.5,
+      "end_time": 131.5,
+      "duration": 27.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 opens on a clear close-up of hands vigorously grinding charcoal and herbs in a mortar, followed by dialogue stating 'The charcoal may help remove what is still inside her,' immediately grounding the medical emergency and urgent remedy.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative thread is self-contained and clear: an illicit or desperate remedy is prepared over an ailing patient just as footsteps outside lead to an intruder turning the door handle.",
+        "passes_gate": true,
+        "situational_summary": "While hastily grinding charcoal to purge poison from a gasping patient, a healer freezes in panic as an intruder turns the chamber door handle."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "High-stakes suspense and mounting panic of being trapped red-handed"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals an emergency treatment intervention disrupted by an arriving threat; ideal high-tension cold-prospecting clip."
+      }
+    }
+  ]
+}

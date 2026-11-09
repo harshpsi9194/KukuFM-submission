@@ -1,0 +1,1473 @@
+{
+  "episode_number": 1,
+  "stage": "Stage 4 (Pairwise Tournament + Bradley-Terry Ranking)",
+  "tournament_stats": {
+    "candidate_count": 16,
+    "total_matchups": 120,
+    "total_time_seconds": 404.9,
+    "position_a_wins": 75,
+    "position_b_wins": 45,
+    "position_a_win_rate": 0.625,
+    "position_b_win_rate": 0.375,
+    "position_bias_deviation_from_50": 0.125
+  },
+  "tiebreak_audit": {
+    "total_pairs": 120,
+    "cleanly_separated_by_theta_alone": 114,
+    "cleanly_separated_percentage": 95.0,
+    "tiebreak_tier2_invocations": 6,
+    "tiebreak_tier3_invocations": 0,
+    "tiebreak_tier4_invocations": 0,
+    "tiebreak_events": [
+      {
+        "pair": [
+          "CAND_EP001_209",
+          "CAND_EP001_213"
+        ],
+        "tier_invoked": 2,
+        "tier_name": "Direct Head-to-Head Matchup",
+        "winner": "CAND_EP001_209",
+        "reason": "\u03b8 identical (1.5590), broken by direct match win for CAND_EP001_209"
+      },
+      {
+        "pair": [
+          "CAND_EP001_201",
+          "CAND_EP001_207"
+        ],
+        "tier_invoked": 2,
+        "tier_name": "Direct Head-to-Head Matchup",
+        "winner": "CAND_EP001_201",
+        "reason": "\u03b8 identical (0.2380), broken by direct match win for CAND_EP001_201"
+      },
+      {
+        "pair": [
+          "CAND_EP001_94",
+          "CAND_EP001_99"
+        ],
+        "tier_invoked": 2,
+        "tier_name": "Direct Head-to-Head Matchup",
+        "winner": "CAND_EP001_94",
+        "reason": "\u03b8 identical (0.0801), broken by direct match win for CAND_EP001_94"
+      },
+      {
+        "pair": [
+          "CAND_EP001_56",
+          "CAND_EP001_201"
+        ],
+        "tier_invoked": 2,
+        "tier_name": "Direct Head-to-Head Matchup",
+        "winner": "CAND_EP001_201",
+        "reason": "\u03b8 identical (0.2380), broken by direct match win for CAND_EP001_201"
+      },
+      {
+        "pair": [
+          "CAND_EP001_56",
+          "CAND_EP001_207"
+        ],
+        "tier_invoked": 2,
+        "tier_name": "Direct Head-to-Head Matchup",
+        "winner": "CAND_EP001_207",
+        "reason": "\u03b8 identical (0.2380), broken by direct match win for CAND_EP001_207"
+      },
+      {
+        "pair": [
+          "CAND_EP001_51",
+          "CAND_EP001_57"
+        ],
+        "tier_invoked": 2,
+        "tier_name": "Direct Head-to-Head Matchup",
+        "winner": "CAND_EP001_57",
+        "reason": "\u03b8 identical (0.4417), broken by direct match win for CAND_EP001_57"
+      }
+    ]
+  },
+  "low_confidence_matches_count": 0,
+  "low_confidence_matches": [],
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP001_47",
+      "rank": 1,
+      "strength": 5.8831,
+      "wins": 15,
+      "losses": 0,
+      "win_rate": 1.0,
+      "narrative_thread": "Gerald/Clarissa Altar Betrayal",
+      "recommended_boundary": "B014 -> B022",
+      "duration": 27.6
+    },
+    {
+      "candidate_id": "CAND_EP001_52",
+      "rank": 2,
+      "strength": 3.4653,
+      "wins": 14,
+      "losses": 1,
+      "win_rate": 0.933,
+      "narrative_thread": "Gerald/Clarissa Altar Betrayal",
+      "recommended_boundary": "B014 -> B027",
+      "duration": 43.6
+    },
+    {
+      "candidate_id": "CAND_EP001_209",
+      "rank": 3,
+      "strength": 1.559,
+      "wins": 12,
+      "losses": 3,
+      "win_rate": 0.8,
+      "narrative_thread": "Defiant Climax",
+      "recommended_boundary": "B037 -> B045",
+      "duration": 30.6
+    },
+    {
+      "candidate_id": "CAND_EP001_213",
+      "rank": 4,
+      "strength": 1.559,
+      "wins": 12,
+      "losses": 3,
+      "win_rate": 0.8,
+      "narrative_thread": "Defiant Climax",
+      "recommended_boundary": "B039 -> B045",
+      "duration": 21.0
+    },
+    {
+      "candidate_id": "CAND_EP001_90",
+      "rank": 5,
+      "strength": 0.8106,
+      "wins": 10,
+      "losses": 5,
+      "win_rate": 0.667,
+      "narrative_thread": "Gerald/Clarissa Altar Betrayal",
+      "recommended_boundary": "B021 -> B027",
+      "duration": 24.4
+    },
+    {
+      "candidate_id": "CAND_EP001_54",
+      "rank": 6,
+      "strength": 0.5972,
+      "wins": 9,
+      "losses": 6,
+      "win_rate": 0.6,
+      "narrative_thread": "Father Silence",
+      "recommended_boundary": "B014 -> B029",
+      "duration": 48.3
+    },
+    {
+      "candidate_id": "CAND_EP001_57",
+      "rank": 7,
+      "strength": 0.4417,
+      "wins": 8,
+      "losses": 7,
+      "win_rate": 0.533,
+      "narrative_thread": "Father Silence",
+      "recommended_boundary": "B014 -> B032",
+      "duration": 55.4
+    },
+    {
+      "candidate_id": "CAND_EP001_51",
+      "rank": 8,
+      "strength": 0.4417,
+      "wins": 8,
+      "losses": 7,
+      "win_rate": 0.533,
+      "narrative_thread": "Gerald/Clarissa Altar Betrayal",
+      "recommended_boundary": "B014 -> B025",
+      "duration": 37.0
+    },
+    {
+      "candidate_id": "CAND_EP001_208",
+      "rank": 9,
+      "strength": 0.3258,
+      "wins": 7,
+      "losses": 8,
+      "win_rate": 0.467,
+      "narrative_thread": "Gerald/Clarissa Altar Betrayal",
+      "recommended_boundary": "B037 -> B043",
+      "duration": 23.9
+    },
+    {
+      "candidate_id": "CAND_EP001_201",
+      "rank": 10,
+      "strength": 0.238,
+      "wins": 6,
+      "losses": 9,
+      "win_rate": 0.4,
+      "narrative_thread": "Defiant Climax",
+      "recommended_boundary": "B035 -> B045",
+      "duration": 39.4
+    },
+    {
+      "candidate_id": "CAND_EP001_207",
+      "rank": 11,
+      "strength": 0.238,
+      "wins": 6,
+      "losses": 9,
+      "win_rate": 0.4,
+      "narrative_thread": "Gerald/Clarissa Altar Betrayal",
+      "recommended_boundary": "B037 -> B042",
+      "duration": 21.1
+    },
+    {
+      "candidate_id": "CAND_EP001_56",
+      "rank": 12,
+      "strength": 0.238,
+      "wins": 6,
+      "losses": 9,
+      "win_rate": 0.4,
+      "narrative_thread": "Father Silence",
+      "recommended_boundary": "B014 -> B031",
+      "duration": 54.1
+    },
+    {
+      "candidate_id": "CAND_EP001_94",
+      "rank": 13,
+      "strength": 0.0801,
+      "wins": 3,
+      "losses": 12,
+      "win_rate": 0.2,
+      "narrative_thread": "Father Silence",
+      "recommended_boundary": "B021 -> B031",
+      "duration": 34.9
+    },
+    {
+      "candidate_id": "CAND_EP001_99",
+      "rank": 14,
+      "strength": 0.0801,
+      "wins": 3,
+      "losses": 12,
+      "win_rate": 0.2,
+      "narrative_thread": "Matriarch / Clarissa Shaming",
+      "recommended_boundary": "B021 -> B037",
+      "duration": 58.4
+    },
+    {
+      "candidate_id": "CAND_EP001_199",
+      "rank": 15,
+      "strength": 0.0288,
+      "wins": 1,
+      "losses": 14,
+      "win_rate": 0.067,
+      "narrative_thread": "Gerald/Clarissa Altar Betrayal",
+      "recommended_boundary": "B035 -> B042",
+      "duration": 29.9
+    },
+    {
+      "candidate_id": "CAND_EP001_147",
+      "rank": 16,
+      "strength": 0.0136,
+      "wins": 0,
+      "losses": 15,
+      "win_rate": 0.0,
+      "narrative_thread": "Matriarch / Clarissa Shaming",
+      "recommended_boundary": "B027 -> B037",
+      "duration": 38.4
+    }
+  ],
+  "match_results": [
+    {
+      "match_id": "M000",
+      "candidate_a_id": "CAND_EP001_54",
+      "candidate_b_id": "CAND_EP001_90",
+      "winner_id": "CAND_EP001_54",
+      "loser_id": "CAND_EP001_90",
+      "rationale": "Candidate A possesses an elite cold-audience opening beat (B014) featuring an immediate visual reveal\u2014groom's hand interlocked with the sister's at the altar\u2014paired with 'Why are you holding her hand?', instantly grounding the entire high-stakes conflict in under three seconds. While Candidate B is tighter at 24.4s, its opening (B021) drops the cold viewer into mid-scene weeping dialogue without establishing who the man or the woman behind him are until multiple beats in. Candidate A sustains escalating emotional tension seamlessly from altar confrontation down to Juliana dropping to her knees before her father, creating an irresistible multi-layered cliffhanger on parental complicity.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This choice is strictly content-driven: Candidate A's unbeatable opening 3-second visual/dialogue hook (B014) decisively outperforms Candidate B's in-medias-res emotional entry for cold-audience scroll-stopping."
+    },
+    {
+      "match_id": "M001",
+      "candidate_a_id": "CAND_EP001_207",
+      "candidate_b_id": "CAND_EP001_56",
+      "winner_id": "CAND_EP001_207",
+      "loser_id": "CAND_EP001_56",
+      "rationale": "Candidate A delivers an exceptionally compact, high-velocity 21.1s promo that opens with an arresting identity insult ('You are the daughter people tolerate...') and escalates relentlessly to a devastating cliffhanger cut on Gerald turning his back after declaring her of 'plainness and low value'. While Candidate B boasts the superior initial visual insert hook and higher peak emotional breadth, its 54.1s runtime suffers significant pacing drag across repetitive mid-clip confrontations before deflating into a silent, passive exit on the father's downcast gaze. Candidate A achieves vastly superior duration efficiency and a razor-sharp unresolved curiosity gap with zero drop-off risk for cold vertical feeds.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by Candidate A's superior duration efficiency (21.1s vs 54.1s), relentless pacing density, and harder unresolved cliffhanger, and is not influenced by label positioning."
+    },
+    {
+      "match_id": "M002",
+      "candidate_a_id": "CAND_EP001_213",
+      "candidate_b_id": "CAND_EP001_208",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_208",
+      "rationale": "While Candidate B opens on a brutal verbal insult, it ends on Beat B043 with Clarissa merely smiling, leaving Juliana stranded as a passive victim without a compelling narrative hook forward. Candidate A captures the complete, electrifying emotional arc in an ultra-tight 21 seconds: it takes Juliana from public debasement through heartbreak to the pivotal metamorphosis in Beats B044\u2013B045, where her white knuckles clench and tearful eyes harden into cold defiance before cutting to black on swelling strings. This shift from victim to vengeful force creates an exponentially stronger curiosity gap that compels cold viewers to tap 'Watch Episode 1' to witness her payback.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by the presence of the B044\u2013B045 defiance transformation and cliffhanger cut to black, compared to Candidate B's unresolved and deflating cut on the rival's smile."
+    },
+    {
+      "match_id": "M003",
+      "candidate_a_id": "CAND_EP001_90",
+      "candidate_b_id": "CAND_EP001_201",
+      "winner_id": "CAND_EP001_90",
+      "loser_id": "CAND_EP001_201",
+      "rationale": "Candidate A opens immediately with maximum visceral impact\u2014a tear-streaked bride in her mother's gown confronting a groom whose icy punchline 'I changed my mind' hits within 8 seconds, establishing the core betrayal instantly for a cold viewer. It escalates without a single frame of wasted pacing across 24.4s, cutting on Clarissa's devastating reveal ('Long enough to know he was never going to marry you') which leaves the curiosity gap wide open. In contrast, Candidate B takes 39.4s, opens on a slower third-party matriarch exposition speech that lacks instant visual bridal framing in the first 3 seconds, and while its revenge pivot is emotionally compelling, Candidate A achieves superior scroll-stop punch and cliffhanger tension with zero drop-off risk.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by the rapid 3-second hook, immediate altar stakes, and superior duration efficiency (24.4s vs 39.4s), not label order."
+    },
+    {
+      "match_id": "M004",
+      "candidate_a_id": "CAND_EP001_57",
+      "candidate_b_id": "CAND_EP001_51",
+      "winner_id": "CAND_EP001_57",
+      "loser_id": "CAND_EP001_51",
+      "rationale": "While Candidate B is tighter at 37.0s, its exit at B025 ('Of course I knew') cuts prematurely on an ongoing exchange, leaving the conflict feeling clipped mid-dialogue rather than concluded on a dramatic punctuation mark. Candidate A uses the extra 18.4s to escalate beyond standard romantic betrayal into total family abandonment, shifting the scene from the altar to Juliana weeping on her knees before her stony, silent father. Ending on Beat B032 with her father refusing to look or speak creates an agonizing, high-stakes emotional cliffhanger that maximizes cold-audience curiosity and compulsion to see who\u2014if anyone\u2014intervenes in Episode 1.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven: Candidate A establishes a complete, devastating two-tier betrayal arc with a superior cliffhanger cutoff on parental silence, whereas Candidate B exits abruptly mid-interrogation."
+    },
+    {
+      "match_id": "M005",
+      "candidate_a_id": "CAND_EP001_147",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate B possesses significantly higher scroll-stop power, opening on an unmistakable, instantly legible visual hook in Beat B014 (insert shot of the groom's fingers interlocked with the sister's gloved hand paired with 'Why are you holding her hand?'), grounding the stakes for a cold audience in under 3 seconds. Candidate A's opening ('Long enough to know he was never going to marry you') relies strictly on dialogue context and leads into a slower, pacing-heavy middle arc of fatherly silence and matriarchal scolding. Candidate B sustains relentless escalating conflict from the altar betrayal to Gerald's brutal 'I changed my mind' before exiting cleanly on the calculated conspiracy reveal in Beat B027, making it a substantially stronger ad for cold-traffic conversion.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate B. Selection is strictly determined by opening visual hook arrest, continuous dramatic momentum, and clearer immediate stakes for zero-context viewers, completely independent of candidate positioning."
+    },
+    {
+      "match_id": "M006",
+      "candidate_a_id": "CAND_EP001_94",
+      "candidate_b_id": "CAND_EP001_147",
+      "winner_id": "CAND_EP001_94",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate A opens with an immediate, high-octane emotional rupture ('You let me dress in my mother's gown...') that instantly gives zero-context viewers full situational stakes within the first 3 seconds, whereas Candidate B opens mid-conversation requiring viewers to infer the wedding betrayal from context alone. Candidate A maintains ruthless escalation from Gerald's cold 'I changed my mind' and the sister's calculated malice directly down to Juliana begging at her father's feet, exiting on a piercing emotional cliffhanger of parental abandonment in a leaner, drop-off-resistant 34.9s runtime. Candidate B's extended matriarch shaming sequence broadens the cast but dilutes the pacing compared to A's concentrated, devastating hook-to-plea arc.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven: Candidate A possesses superior instant situational clarity in its opening 3 seconds and a tighter emotional escalation, independent of label positioning."
+    },
+    {
+      "match_id": "M007",
+      "candidate_a_id": "CAND_EP001_199",
+      "candidate_b_id": "CAND_EP001_94",
+      "winner_id": "CAND_EP001_94",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate B opens with vastly superior hook velocity and immediate visceral drama ('You let me dress in my mother's gown...') that grounds the wedding betrayal within 2 seconds, compared to Candidate A's slower, expositional matriarch monologue. Furthermore, Candidate B escalates through brutal consecutive gut-punches\u2014from the groom's ruthless 'I changed my mind' and the sister's complicity to the protagonist dropping to her knees begging a father who refuses to look at her\u2014yielding peak emotional intensity and an agonizing cliffhanger on parental abandonment.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on immediate hook power, escalation velocity, and emotional salience, unaffected by label or presentation order."
+    },
+    {
+      "match_id": "M008",
+      "candidate_a_id": "CAND_EP001_207",
+      "candidate_b_id": "CAND_EP001_47",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_207",
+      "rationale": "Candidate B establishes an instantaneous, visually undeniable hook in under 3 seconds via the close-up insert of the interlocked hands paired with 'Why are you holding her hand?', giving zero-context viewers immediate clarity on the betrayal. Its middle arc rapidly ratchets tension from shock to righteous fury, culminating in a razor-sharp, devastating punchline cliffhanger ('I changed my mind') on Gerald's cold profile cut. While Candidate A is 6.5s tighter with venomous lines, its opening is dialogue-led without immediate visual scene-grounding, and its exit trails off on an elliptical insult ('...of such plainness and low value') rather than a hard stop on peak shock.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven by the visual insert hook and razor-sharp punchline cliffhanger, overriding any default preference for Candidate A."
+    },
+    {
+      "match_id": "M009",
+      "candidate_a_id": "CAND_EP001_201",
+      "candidate_b_id": "CAND_EP001_94",
+      "winner_id": "CAND_EP001_201",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "While Candidate B presents gut-wrenching grief and family abandonment, its ending de-escalates into helpless weeping at her silent father's feet, which risks viewer fatigue on short-form platforms. Candidate A delivers the ideal microdrama viral arc: starting with cutting public degradation ('tolerated because they have to', 'plainness and low value') and culminating in a visceral villain-to-defiant-hero transition where Juliana's tears harden into cold fury with a clenched fist and swelling musical drone. This active revenge pivot creates a far more compelling forward curiosity gap ('Watch Episode 1 to see her payback') than Candidate B's passive victimhood cut.",
+      "confidence": 0.78,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the hook-to-defiance dynamic and superior cliffhanger urgency compared to B's depressive trail-off, not label ordering."
+    },
+    {
+      "match_id": "M010",
+      "candidate_a_id": "CAND_EP001_213",
+      "candidate_b_id": "CAND_EP001_99",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Candidate A delivers an exceptionally tight, 21.0-second transformative arc that converts victimhood into vengeful defiance\u2014the highest-converting emotional archetype for short-form drama ads. It cuts out the sprawling familial confrontation in Candidate B, avoiding the 58.4s clip's inevitable mid-funnel drop-off and pacing drag across the father's silent pews and matriarch's scolding. Furthermore, Candidate A ends on a cinematic peak cliffhanger (tight push-in, eyes hardening into cold defiance, string swell, cut to black) that demands an immediate 'Watch Episode 1' tap, whereas Candidate B exits on a verbal insult that leaves the protagonist defeated rather than primed for retribution.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on duration efficiency (21.0s vs 58.4s), emotional transformation velocity, and a superior cut-to-black cliffhanger, completely independent of candidate positioning."
+    },
+    {
+      "match_id": "M011",
+      "candidate_a_id": "CAND_EP001_207",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_207",
+      "rationale": "Candidate B features an unbeatable opening hook with the visual insert of interlocked fingers at the altar accompanied by 'Why are you holding her hand?', instantly grounding the entire high-stakes conflict for a cold viewer in under 4 seconds. While Candidate A is tighter at 21.1s, it opens mid-argument ('You are the daughter people tolerate...') requiring the viewer to mentally reconstruct the familial and romantic dynamics without the immediate visual gut-punch of the wedding dress and interlocked hands. Furthermore, Candidate B sustains relentless narrative escalation\u2014moving from the discovery of infidelity to the mother's gown revelation, Gerald's cold 'I changed my mind', and concluding on the chilling conspiracy cliffhanger 'Long enough to know he was never going to marry you'\u2014delivering substantially higher conversion and completion pull.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on the instantaneous visual legibility of the B014 hand-clasp hook and the multi-layered betrayal arc, rather than candidate ordering."
+    },
+    {
+      "match_id": "M012",
+      "candidate_a_id": "CAND_EP001_54",
+      "candidate_b_id": "CAND_EP001_94",
+      "winner_id": "CAND_EP001_54",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "Candidate A opens with an undeniable, visual-first hook\u2014an insert shot of the groom interlocking fingers with the sister at the altar paired with 'Why are you holding her hand?'\u2014which instantly establishes the entire betrayal dynamic in under 3 seconds for a zero-context scroller. In contrast, Candidate B opens mid-melodrama on a talking head ('You let me dress in my mother's gown...') that requires cognitive assembly before the physical reality of the theft registers. While Candidate B is more compact at 34.9s and resolves the father's silent reaction, Candidate A's scroll-stop power and cleanly escalating narrative arc from public altar theft directly to the desperate plea on her knees make it significantly more potent as a cold-audience conversion ad.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on opening scroll-stop visual clarity (B014 insert vs. B021 talking-head cry), not position order."
+    },
+    {
+      "match_id": "M013",
+      "candidate_a_id": "CAND_EP001_47",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_52",
+      "rationale": "Both candidates share the identical top-tier visual/dialogue hook at B014, but Candidate A executes a vastly superior punchline exit at 27.6s on Gerald's cold dismissal ('I changed my mind'). Candidate B extends the argument by an additional 16 seconds into repetitive back-and-forth dialogue ('You swore you loved me!' / 'People change their minds') that plateaus the initial emotional shock rather than escalating it. Candidate A delivers the maximum dramatic wallop with zero dead weight, drastically reducing drop-off risk for cold-traffic feed distribution.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This choice is strictly content- and duration-efficiency-driven: the punchline cliffhanger cut at B022 outperforms the extended expository dialogue through B027, irrespective of candidate order."
+    },
+    {
+      "match_id": "M014",
+      "candidate_a_id": "CAND_EP001_51",
+      "candidate_b_id": "CAND_EP001_90",
+      "winner_id": "CAND_EP001_51",
+      "loser_id": "CAND_EP001_90",
+      "rationale": "Candidate A opens with an undeniably superior cold-hook (B014: close-up insert of the groom holding the sister's hand while the bride asks 'Why are you holding her hand?'), which delivers immediate visual and narrative shock in under 3 seconds to freeze a swiping thumb. Candidate B begins mid-cry on a dialogue accusation (B021) without showing the physical betrayal, forcing a cold viewer to deduce the altar premise purely from monologue. While Candidate B has a punchy 24.4s duration and a biting exit line, Candidate A's full reveal arc from the physical discovery of hand-holding through 'I changed my mind' establishes the stakes far more viscerally for zero-context viewers.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by the visual insert hook in B014 versus the dialogue-only entry in B021, completely independent of candidate presentation order."
+    },
+    {
+      "match_id": "M015",
+      "candidate_a_id": "CAND_EP001_99",
+      "candidate_b_id": "CAND_EP001_207",
+      "winner_id": "CAND_EP001_207",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Candidate B opens with an explosive, instantly relatable identity insult ('You are the daughter people tolerate... I am the daughter they choose') and delivers a hyper-dense, 21.1s barrage of rejection culminating in Gerald's brutal dismissal ('plainness and low value') as he physically turns his back. In contrast, Candidate A spans nearly a full minute (58.4s) and sags in the middle across Beats B028\u2013B032 with prolonged, silent pleading at her father's cane, introducing high drop-off risk for a cold-audience scroll environment. Candidate B achieves superior duration efficiency and unyielding narrative compression, maximizing short-form completion and click-through rates.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly driven by duration efficiency, immediate hook potency, and pacing velocity, not label position."
+    },
+    {
+      "match_id": "M016",
+      "candidate_a_id": "CAND_EP001_56",
+      "candidate_b_id": "CAND_EP001_199",
+      "winner_id": "CAND_EP001_56",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate A possesses an unbeatable cold-audience opening hook: the visual insert of the groom holding the sister's hand paired with 'Why are you holding her hand?' establishes the entire high-stakes conflict within 3 seconds without requiring prior exposition. Candidate B opens on dialogue-heavy family favoritism ('Clarissa knows how to carry herself...') that feels like an ongoing conversation rather than an instant scroll-stopper. Although Candidate B is more duration-efficient at 29.9s and features brutal dialogue punches, Candidate A's escalating double-climax\u2014progressing from Gerald's cold 'I changed my mind' to the heartbreaking silent complicity of the father\u2014delivers far greater emotional devastation and narrative clarity for a zero-context viewer.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. Decision is strictly content-driven based on immediate visual hook clarity and narrative escalation versus B's expositional dialogue opening, not label position."
+    },
+    {
+      "match_id": "M017",
+      "candidate_a_id": "CAND_EP001_54",
+      "candidate_b_id": "CAND_EP001_207",
+      "winner_id": "CAND_EP001_54",
+      "loser_id": "CAND_EP001_207",
+      "rationale": "Candidate A establishes immediate visual and narrative clarity within 3 seconds through the physical insert of Gerald and the sister holding hands at the altar coupled with the line 'Why are you holding her hand?', making the stakes and betrayal instantaneously clear to a zero-context scroller. While Candidate B is compact at 21.1s and delivers cutting insults, its opening requires the viewer to decode family dynamics from abstract dialogue without the visceral shock of the physical altar betrayal. Candidate A maintains compounding escalation through Gerald's callous confession ('I changed my mind') and culminates in an agonizing cliffhanger plea as Juliana drops to her knees before her silent father.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the opening visual clarity and dramatic escalation arc, not label order."
+    },
+    {
+      "match_id": "M018",
+      "candidate_a_id": "CAND_EP001_90",
+      "candidate_b_id": "CAND_EP001_47",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_90",
+      "rationale": "Candidate B has vastly superior opening scroll-stop power, leading with the visual close-up insert of the groom holding the sister's hand paired with 'Why are you holding her hand?' and the immediate hammer drop 'Because he is marrying me'. Candidate A begins already mid-argument ('You let me dress in my mother's gown...') which demands emotional catch-up from a cold viewer, whereas Candidate B visually and narratively builds the betrayal from discovery to outrage before slamming shut on Gerald's cold 'I changed my mind.' While A has a strong exit, B delivers the complete, irresistible micro-narrative arc with a much sharper opening hook in virtually the same runtime (27.6s vs 24.4s).",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven: Candidate B possesses a tangible visual hook (interlocked hands at the altar) and the fundamental inciting revelation ('Because he is marrying me'), whereas Candidate A starts in media res on secondary recriminations."
+    },
+    {
+      "match_id": "M019",
+      "candidate_a_id": "CAND_EP001_54",
+      "candidate_b_id": "CAND_EP001_209",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_54",
+      "rationale": "Candidate B delivers a significantly tighter, higher-converting vertical promo arc in 30.6s compared to Candidate A's 48.3s runtime. While Candidate A features an iconic altar hand-holding reveal, its middle pacing slows down through multiple rhetorical questions ('How long?', 'And you knew?') before cutting on a passive, despairing plea to the father. Candidate B opens on an instantly arresting psychological hook ('You are the daughter people tolerate...'), escalates viciously through Gerald's public degradation of her worth, and executes an optimal short-form transformation arc that cuts on white-knuckled fury, resolute defiance, and an ominous musical swell.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on duration efficiency, the shift from victim to defiant force, and an active cliffhanger cut over a submissive plea, completely independent of position."
+    },
+    {
+      "match_id": "M020",
+      "candidate_a_id": "CAND_EP001_56",
+      "candidate_b_id": "CAND_EP001_147",
+      "winner_id": "CAND_EP001_56",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate A delivers an overwhelmingly superior opening hook with an immediate, high-contrast visual reveal (the insert of the groom holding the sister's hand) paired with the accusation 'Why are you holding her hand?', instantly grounding the altar betrayal in under 3 seconds. Candidate B's opening line ('Long enough to know he was never going to marry you') requires cold viewers to piece together the situational context without that visceral visual shock. While B is shorter and reaches the family verbal shaming, A's dual-peak emotional trajectory\u2014from Gerald's chilling 'I changed my mind' to Juliana begging on her knees before her stony father\u2014creates far higher stakes and emotional devastation that will compel cold viewers to swipe up.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is driven purely by the visual legibility of Beat B014's opening hook and the raw dramatic momentum of the altar betrayal over Candidate B's colder in-media-res dialogue entry, not by label position."
+    },
+    {
+      "match_id": "M021",
+      "candidate_a_id": "CAND_EP001_213",
+      "candidate_b_id": "CAND_EP001_199",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate A delivers a vastly superior emotional and narrative arc in a lean, high-retention 21.0s runtime. It opens immediately on direct confrontation ('So that is what I was worth to you?') and drives toward an explosive revenge cliffhanger where Juliana transforms from crushed victim to cold defiance, cutting on peak cinematic tension with the swelling string drone. In contrast, Candidate B spends excessive time (almost 30s) on repetitive verbal degradation from the matriarch and sister before Gerald's line, and abruptly cuts on Gerald walking away while Juliana remains merely humiliated with no agency or hook for retribution.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on duration efficiency, the complete victim-to-defiance transformative arc, and the superior cliffhanger cut compared to Candidate B's slower, one-sided humiliation."
+    },
+    {
+      "match_id": "M022",
+      "candidate_a_id": "CAND_EP001_213",
+      "candidate_b_id": "CAND_EP001_94",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "Candidate A operates with unmatched duration efficiency at 21.0s, delivering a rapid, unyielding escalation from Gerald's callous verbal debasement to the ultimate narrative pivot where Juliana's tears harden into cold vengeance before cutting on an ominous string crescendo. While Candidate B provides deep pathos with the father's silent abandonment, at 34.9s it suffers from conversational back-and-forth ('How long?', 'Father... please look at me') that softens the pacing and cuts on helpless begging rather than a viral, empowering cliffhanger. Candidate A triggers a far stronger urge in cold short-form viewers to tap 'Watch Episode 1' to witness her payback.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on hook velocity, cliffhanger punch, and duration efficiency, completely independent of candidate presentation order."
+    },
+    {
+      "match_id": "M023",
+      "candidate_a_id": "CAND_EP001_201",
+      "candidate_b_id": "CAND_EP001_51",
+      "winner_id": "CAND_EP001_51",
+      "loser_id": "CAND_EP001_201",
+      "rationale": "Candidate B possesses an unbeatable cold-audience scroll-stop opening (B014), pairing an immediate accusatory line ('Why are you holding her hand?') with a tight insert of the groom holding the sister's hand at the altar, establishing the premise and stakes in under 3 seconds. Candidate A's opening (B035) relies on a third-party matriarch delivering dialogue with weaker immediate visual shock. While Candidate A terminates on a powerful internal protagonist shift into cold defiance, Candidate B maintains tighter, more visceral microdrama tension throughout the rupture ('Because he is marrying me', 'I changed my mind') and achieves superior duration efficiency and instant legibility for cold social feeds.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the superior sub-3s visual-dialogue hook synchronization and instant situational legibility, not candidate ordering."
+    },
+    {
+      "match_id": "M024",
+      "candidate_a_id": "CAND_EP001_94",
+      "candidate_b_id": "CAND_EP001_207",
+      "winner_id": "CAND_EP001_207",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "Candidate B delivers an immediate, top-tier verbal hook ('You are the daughter people tolerate... I am the daughter they choose') that establishes the dynamic in seconds, moving briskly into Gerald's brutal dismissal ('plainness and low value') and physical turn-away in just 21.1s. While Candidate A boasts intense emotional vulnerability with the father's silence, its middle section sags across a 34.9s multi-character transition that leaves the final cliffhanger reliant on an unresolved parental gaze rather than an active insult or rupture. Candidate B is significantly more duration-efficient, packing concentrated viral antagonism and a sharper exit punchline with minimal drop-off risk for cold vertical feeds.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is content-driven based on duration efficiency, opening hook punchiness, and cliffhanger cut sharpness, not label order."
+    },
+    {
+      "match_id": "M025",
+      "candidate_a_id": "CAND_EP001_90",
+      "candidate_b_id": "CAND_EP001_57",
+      "winner_id": "CAND_EP001_90",
+      "loser_id": "CAND_EP001_57",
+      "rationale": "Candidate A delivers a hyper-efficient 24.4s punch that opens directly at peak confrontation ('You let me dress in my mother's gown...') and cuts decisively on the chilling conspiracy punchline ('Long enough to know he was never going to marry you'). While Candidate B contains an undeniably iconic visual hook (interlocked hands at B014), stretching the narrative over 55.4s introduces significant mid-clip drop-off risk and ends on a quiet, demoralizing parental silence rather than a sharp cliffhanger. In vertical short-form performance marketing, Candidate A's rapid escalation, 5/5 curiosity gap exit, and duration efficiency make it the superior scroll-stopping conversion asset.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content- and duration-driven based on pacing and cliffhanger sharpness, not candidate order or label."
+    },
+    {
+      "match_id": "M026",
+      "candidate_a_id": "CAND_EP001_209",
+      "candidate_b_id": "CAND_EP001_213",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_213",
+      "rationale": "Candidate A opens on an explosive psychological gut-punch ('You are the daughter people tolerate because they have to. I am the daughter they choose.') paired with dynamic movement, instantly establishing the sister dynamic and deep-seated rejection in under 3 seconds. Candidate B starts 9.6 seconds later on a defensive reaction question ('So that is what I was worth to you?'), which lacks visual hook energy (Visual Hook 2/5 vs A's 4/5) and feels mid-conversation to a cold viewer. The extra 9.6 seconds in Candidate A provide the essential contrast between the golden sister's cruelty and Gerald's cold dismissal, making Juliana's white-knuckled transformation into cold defiance hit with far greater emotional payoff.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on opening scroll-stop power (B037 dialogue/visual hook vs B039 reaction line) and narrative build-up, not label position."
+    },
+    {
+      "match_id": "M027",
+      "candidate_a_id": "CAND_EP001_201",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_201",
+      "rationale": "Candidate B opens with an unbeatable cold scroll-stop hook: a visceral visual insert of the groom holding hands with the sister at the altar paired with the direct accusatory line 'Why are you holding her hand?'. It establishes the core betrayal instantly in under 3 seconds without requiring any exposition, whereas Candidate A opens mid-conversation on abstract family favoritism dialogue that takes several beats to locate the physical altar context. Furthermore, Candidate B sustains ruthless pacing across its middle arc with the brutal one-two punch of 'I changed my mind' and cuts on a devastating premeditation cliffhanger ('Long enough to know he was never going to marry you'), making it the far superior cold-audience conversion asset.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven by Candidate B's immediate visual-plus-dialogue shock hook and instant situational clarity compared to Candidate A's slower conversational opening, completely independent of candidate ordering."
+    },
+    {
+      "match_id": "M028",
+      "candidate_a_id": "CAND_EP001_213",
+      "candidate_b_id": "CAND_EP001_54",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_54",
+      "rationale": "Candidate A delivers an exceptionally tight 21.0-second arc that capitalizes on maximum duration efficiency with zero pacing drag, cutting directly from Gerald's brutal humiliation ('plainness and low value') into Juliana's thrilling transformation from grief into cold, vengeful defiance on an ominous string swell. In contrast, Candidate B opens with a tremendous visual hook at B014 but drags across 48.3 seconds through repetitive accusations ('How long?', 'And you knew?') and exits on a much softer, disempowering plea to her father that risks viewer fatigue mid-scroll. Candidate A provides the punchier, modern microdrama hook-to-revenge cliffhanger that compels cold viewers to tap 'Watch Episode 1' to witness her payback.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on duration efficiency (21.0s vs 48.3s) and the superior, high-converting revenge cliffhanger cut compared to Candidate B's pacing lull in the middle beats."
+    },
+    {
+      "match_id": "M029",
+      "candidate_a_id": "CAND_EP001_207",
+      "candidate_b_id": "CAND_EP001_213",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_207",
+      "rationale": "While Candidate A possesses a marginally sharper opening line from the sister, Candidate B operates at virtually identical duration (21.0s vs 21.1s) while delivering a vastly superior narrative arc and emotional payoff. Candidate A leaves the protagonist purely defeated as a broken victim with Gerald walking away on an unfinished sentence ('...'), whereas Candidate B completes Gerald's cruel insult and pivots into the crucial protagonist metamorphosis from grief to icy defiance, cutting to black on an ominous string drone. The shift from helpless victim to vengeful underdog creates a significantly stronger cliffhanger and conversion hook for cold viewers to tap 'Watch Episode 1'.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven: Candidate B provides a complete transformation arc and a clean cliffhanger cut to black, avoiding Candidate A's trailing dialogue and unmitigated victim exit."
+    },
+    {
+      "match_id": "M030",
+      "candidate_a_id": "CAND_EP001_51",
+      "candidate_b_id": "CAND_EP001_199",
+      "winner_id": "CAND_EP001_51",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate A delivers an overwhelmingly superior opening hook with the visceral close-up insert of the groom holding the sister's hand paired with 'Why are you holding her hand?', grounding the central betrayal within the first 2 seconds. While Candidate B has a compelling mid-arc humiliation and slightly shorter run time (29.9s vs 37.0s), its opening is exposition-heavy dialogue from a matriarch that requires context to land. Candidate A maintains relentless emotional escalation from the mother's gown revelation through Gerald's chilling 'I changed my mind' to the sister's smug confirmation, making it significantly more effective at stopping cold scrollers and driving episode-one click-through.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the immediate visual scroll-stop power and clean betrayal arc, completely independent of candidate positioning."
+    },
+    {
+      "match_id": "M031",
+      "candidate_a_id": "CAND_EP001_209",
+      "candidate_b_id": "CAND_EP001_90",
+      "winner_id": "CAND_EP001_90",
+      "loser_id": "CAND_EP001_209",
+      "rationale": "Candidate B sets up the core emotional stakes instantly in its opening beat with Juliana in tears calling out the sanctity of her mother's gown and wedding walk, immediately giving cold viewers clear situational context before landing the devastating gut-punch 'I changed my mind.' The pacing across its 24.4s runtime never lags, escalating tightly through rapid-fire dialogue into the sister's chilling premeditation reveal ('Long enough to know he was never going to marry you'). While Candidate A features an iconic transition from grief to suppressed rage, Candidate B accomplishes far higher narrative shock, cleaner pacing, and zero drop-off risk in six fewer seconds.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven: Candidate B provides faster situational clarity and a more explosive, rapid-fire betrayal escalation at a tighter 24.4s duration, completely independent of candidate ordering."
+    },
+    {
+      "match_id": "M032",
+      "candidate_a_id": "CAND_EP001_207",
+      "candidate_b_id": "CAND_EP001_90",
+      "winner_id": "CAND_EP001_90",
+      "loser_id": "CAND_EP001_207",
+      "rationale": "Candidate B delivers an immediate, universally legible emotional hook ('You let me dress in my mother's gown...') that establishes the bridal heartbreak stakes within the opening three seconds. Its dramatic arc escalates continuously with vicious, rapid-fire beats\u2014anchored by Gerald's blunt 'I changed my mind' and the sister's smug complicity\u2014before snapping cleanly on the devastating premeditated conspiracy punchline: 'Long enough to know he was never going to marry you.' While Candidate A boasts a strong verbal opening, its narrative momentum slows across beats B038\u2013B041 into repetitive verbal insults, whereas Candidate B sustains tension from tear-streaked opening to ruthless cliffhanger.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This selection is driven purely by dramatic escalation, emotional salience (5/5 vs 4/5), and a decisive conspiracy reveal cut, not by candidate label order."
+    },
+    {
+      "match_id": "M033",
+      "candidate_a_id": "CAND_EP001_209",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_209",
+      "rationale": "Candidate B opens with an instant visual-verbal gut punch ('Why are you holding her hand?' paired with the close-up insert of interlocked fingers) that instantly establishes the entire conflict without requiring prior narrative setup. While Candidate A has superior duration efficiency and a powerful protagonist transformation arc, Candidate B provides an unrelenting sequence of viral drama beats\u2014the initial reveal, the devastating 'I changed my mind', and the chilling cliffhanger line 'Long enough to know he was never going to marry you'\u2014that make it dramatically stickier and more compulsive for cold-traffic acquisition. Candidate B's raw betrayal hook and escalating dialogue twists provide significantly stronger cold-audience scroll-stop momentum across its entire runtime.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the superior immediate visual clarity of the opening beat and higher viral drama density, not label order."
+    },
+    {
+      "match_id": "M034",
+      "candidate_a_id": "CAND_EP001_47",
+      "candidate_b_id": "CAND_EP001_56",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_56",
+      "rationale": "Both candidates share the identical high-impact opening hook (B014), but Candidate A is vastly superior in duration efficiency and punchline delivery. At 27.6s, Candidate A builds a razor-sharp single dramatic escalation that cuts directly on Gerald's cold dismissal 'I changed my mind', leaving maximum emotional devastation and curiosity gap with minimal drop-off risk. In contrast, Candidate B stretches to 54.1s by dragging through a secondary confrontation cycle and ends on a slower, silent plea to the father, dissipating the explosive kinetic energy of the altar betrayal for cold-audience scroll-stopping.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on duration efficiency, narrative tightness, and cliffhanger cut sharpness, not label order."
+    },
+    {
+      "match_id": "M035",
+      "candidate_a_id": "CAND_EP001_213",
+      "candidate_b_id": "CAND_EP001_56",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_56",
+      "rationale": "Candidate A operates with unmatched duration efficiency at 21.0s, delivering a tight, uninterrupted escalation from brutal verbal debasement directly into a high-converting protagonist vengeance metamorphosis. In contrast, Candidate B runs 54.1s with significant mid-clip dialogue redundancy around the groom's change of mind before pivoting into a secondary conflict with the father, creating drop-off risk and ending on a softer, defeated plea rather than A's sharp, forward-driving revenge cliffhanger. For cold-audience short-form acquisition, A's concise hook-to-defiance arc provides far stronger thumb-stop and click-through intent.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on duration efficiency, narrative momentum, and the high-curiosity revenge cutoff compared to Candidate B's extended 54s runtime and softer pleading exit."
+    },
+    {
+      "match_id": "M036",
+      "candidate_a_id": "CAND_EP001_207",
+      "candidate_b_id": "CAND_EP001_57",
+      "winner_id": "CAND_EP001_207",
+      "loser_id": "CAND_EP001_57",
+      "rationale": "Candidate A delivers explosive, high-density drama in an optimal 21.1s duration, cutting straight to the most devastating personal insults ('daughter people tolerate' vs 'chosen', 'plainness and low value') before snapping shut as Gerald turns his back to Clarissa at the altar. Candidate B features an undeniable visual hook in beat B014, but at 55.4s it suffers from significant pacing lulls and dialogue repetition across beats B023\u2013B027 before shifting gears into the father's silent refusal, creating high drop-off risk for cold vertical traffic. Candidate A maximizes hook-to-cliffhanger tension with zero dead air, making it the far superior scroll-stop ad spend.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on duration efficiency, narrative density, and cliffhanger snap, completely independent of candidate position or label order."
+    },
+    {
+      "match_id": "M037",
+      "candidate_a_id": "CAND_EP001_90",
+      "candidate_b_id": "CAND_EP001_208",
+      "winner_id": "CAND_EP001_90",
+      "loser_id": "CAND_EP001_208",
+      "rationale": "Candidate A establishes the core dramatic premise with significantly higher emotional clarity in under 5 seconds\u2014the dead mother's gown combined with Gerald's brutal 'I changed my mind' delivers an unmissable, visceral betrayal. While Candidate B features razor-sharp insults, it is continuous verbal abuse that leaves the protagonist wholly disempowered and trailing off on an insult with no decisive turn. Candidate A builds a tighter, escalating cross-examination that lands on a devastating punchline cliffhanger ('Long enough to know he was never going to marry you') with maximum curiosity and narrative closure for a cold promo.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by the immediate visceral wedding-altar stakes and cleaner cliffhanger punchline, not by position."
+    },
+    {
+      "match_id": "M038",
+      "candidate_a_id": "CAND_EP001_51",
+      "candidate_b_id": "CAND_EP001_147",
+      "winner_id": "CAND_EP001_51",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate A opens with an immediate visceral visual hook (insert close-up of groom's hand interlocked with the sister's) paired with an arresting accusation ('Why are you holding her hand?'), grounding the entire high-stakes conflict for a cold viewer within the opening 3 seconds. Candidate B relies heavily on dialogue setup and a prolonged silent middle beat with the father (B028\u2013B032) that introduces significant drop-off risk on short-form platforms. Candidate A sustains uninterrupted confrontation and rapid escalation through the mother's gown revelation and Gerald's cold line 'I changed my mind', producing higher scroll-stop conversion and tighter dramatic momentum throughout its 37.0s duration.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on immediate visual hook clarity and superior pacing, not label or presentation order."
+    },
+    {
+      "match_id": "M039",
+      "candidate_a_id": "CAND_EP001_147",
+      "candidate_b_id": "CAND_EP001_99",
+      "winner_id": "CAND_EP001_99",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate B opens with an explosive, high-stakes emotional confrontation ('You let me dress in my mother's gown... believe I was walking toward my husband!') followed immediately by the groom's icy gut-punch 'I changed my mind', giving cold viewers instant narrative context and visceral romantic betrayal before transitioning into the familial abandonment arc. Candidate A drops the viewer mid-conversation at B027 ('Long enough to know he was never going to marry you') without establishing the groom or altar stakes firsthand, making the opening feel disorienting and dependent on inferred backstory. While Candidate B runs 58.4s, every second compounds the betrayal across fianc\u00e9, sister, father, and matriarch without pacing lag, delivering significantly higher emotional payoff and retention momentum into the final cliffhanger.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This is content-driven: the superior hook clarity, complete multi-front betrayal escalation, and immediate narrative grounding determine the choice over label position."
+    },
+    {
+      "match_id": "M040",
+      "candidate_a_id": "CAND_EP001_209",
+      "candidate_b_id": "CAND_EP001_201",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_201",
+      "rationale": "Candidate A opens on the lethal psychological blow ('You are the daughter people tolerate because they have to. I am the daughter they choose.') paired with an immediate physical push-past, arresting cold viewers in under two seconds. Candidate B includes two preceding beats (B035-B036) of expositional matriarch dialogue that feels like a conventional family drama setup, softening the initial scroll-stop urgency and extending total runtime to 39.4s. Both share the identical, devastating back half and white-knuckled cliffhanger cut (B045), but Candidate A achieves significantly higher duration efficiency (30.6s vs. 39.4s) while trimming dead narrative weight to front-load pure conflict.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven: Candidate A provides superior opening scroll-stop immediacy and duration efficiency over Candidate B's slower conversational build-up, not due to candidate ordering."
+    },
+    {
+      "match_id": "M041",
+      "candidate_a_id": "CAND_EP001_94",
+      "candidate_b_id": "CAND_EP001_47",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "Candidate B opens on an unmistakable visual and dialogue hook (an insert of the groom interlocked with the sister's hand while the bride asks 'Why are you holding her hand?'), grounding the stakes instantly in under 3 seconds. It builds relentless momentum through Clarissa's cruel reveal and Juliana's rising devastation, culminating in Gerald's brutally cold dismissal 'I changed my mind' on beat B022. Candidate A enters in media res without that visual anchor and shifts focus toward the father's silent abandonment, which creates a slower pacing drag over 34.9s and a softer ending compared to B's razor-sharp 27.6s punchline cut.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven by the superior opening visual hook, tighter duration efficiency, and sharper punchline cutoff, not label placement."
+    },
+    {
+      "match_id": "M042",
+      "candidate_a_id": "CAND_EP001_47",
+      "candidate_b_id": "CAND_EP001_208",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_208",
+      "rationale": "Candidate A establishes immediate visual and narrative shock in the first two seconds through the close-up insert of the interlocked hands and the question 'Why are you holding her hand?', giving zero-context scrollers an instant grasp of the betrayal. Its middle arc rapidly escalates Juliana's emotional stakes from heartbreak to burning outrage before snapping onto Gerald's icy punchline 'I changed my mind' on beat B022, creating a devastating cliffhanger exit. While Candidate B is slightly shorter and features intense verbal vitriol, its opening line relies heavily on dialogue processing without immediate spatial grounding, and ending on Clarissa basking in praise (B043) deflates the active cliffhanger tension compared to Gerald's brutal dismissal in A.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by the immediate visual clarity of the opening hook (B014) and the superior punchline cliffhanger cutoff (B022), independent of presentation order."
+    },
+    {
+      "match_id": "M043",
+      "candidate_a_id": "CAND_EP001_51",
+      "candidate_b_id": "CAND_EP001_208",
+      "winner_id": "CAND_EP001_51",
+      "loser_id": "CAND_EP001_208",
+      "rationale": "Candidate A opens with an undeniable visual-plus-dialogue shock hook (the close-up insert of the groom holding the sister's hand at the altar with 'Why are you holding her hand?') that instantly establishes the exact betrayal in under 4 seconds. While Candidate B has exceptional dialogue lines and a concise 23.9s run time, Candidate A builds a far more visceral, escalating narrative arc around the weaponized wedding gown and Gerald's brutal 'I changed my mind' declaration, ending on a tighter cliffhanger conspiracy reveal ('And you knew?' / 'Of course I knew'). Candidate A's immediate visual clarity provides superior cold-audience scroll-stop friction compared to Candidate B's purely dialogue-reliant opening.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on immediate visual hook clarity and narrative escalation, not presentation order."
+    },
+    {
+      "match_id": "M044",
+      "candidate_a_id": "CAND_EP001_54",
+      "candidate_b_id": "CAND_EP001_201",
+      "winner_id": "CAND_EP001_54",
+      "loser_id": "CAND_EP001_201",
+      "rationale": "Candidate A possesses vastly superior scroll-stop power in the crucial opening 3 seconds, pairing an explosive accusation with a high-shock insert shot of the groom holding hands with the sister at the altar to instantly communicate the high-stakes betrayal to a cold audience. While Candidate B offers a tighter 39.4s duration and a compelling villain-to-defiance shift ending on Beat B045, its opening (Beat B035) relies on dialogue-heavy exposition about social standing and favoritism that lacks visceral visual urgency mid-scroll. Candidate A establishes the entire emotional premise and relational sabotage within the first five seconds, keeping tension continuously escalating until the desperate plea at her father's knees.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the opening 3-second visual scroll-stop power and instant conflict clarity over Candidate B's slower, dialogue-driven start, rather than label order."
+    },
+    {
+      "match_id": "M045",
+      "candidate_a_id": "CAND_EP001_90",
+      "candidate_b_id": "CAND_EP001_199",
+      "winner_id": "CAND_EP001_90",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate A delivers vastly superior opening scroll-stop power, immediately establishing the wedding altar betrayal within the first 3 seconds through Juliana's tear-streaked confrontation about her mother's gown, followed by Gerald's devastating 'I changed my mind' punchline. The narrative arc builds with rapid, unrelenting momentum across 24.4 seconds, cutting at peak curiosity on the sister's cruel reveal of premeditation ('Long enough to know he was never going to marry you'). In contrast, Candidate B opens on expositional family favoritism dialogue that lacks immediate visceral shock and takes nearly 30 seconds to reach Gerald's rejection, resulting in a slower burn with higher drop-off risk for a cold audience.",
+      "confidence": 0.89,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on immediate bridal visual grounding, rapid escalation, and duration efficiency compared to Candidate B's slower dialogue-heavy exposition."
+    },
+    {
+      "match_id": "M046",
+      "candidate_a_id": "CAND_EP001_208",
+      "candidate_b_id": "CAND_EP001_147",
+      "winner_id": "CAND_EP001_208",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate A opens on the single most devastating identity line in the episode ('You are the daughter people tolerate... I am the daughter they choose') paired with an immediate visual tracking shot and reaction close-up, arresting swiping viewers in the first 3 seconds. It maintains rapid, escalating momentum over a lean 23.9s arc as Gerald brutally rejects Juliana to her face ('nothing to offer me anymore', 'plainness and low value') before turning his back on her while Clarissa beams, creating an intense, visceral outrage cliffhanger. In contrast, Candidate B runs 38.4s and suffers from a slow, multi-beat pacing lull around the father's silent refusal (B028\u2013B032) that risks significant cold-audience drop-off before reaching the same confrontation payoff. Candidate A delivers superior scroll-stop impact, tighter pacing, and higher duration efficiency.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on opening hook intensity, tighter narrative velocity, and short-form duration efficiency, not label position."
+    },
+    {
+      "match_id": "M047",
+      "candidate_a_id": "CAND_EP001_199",
+      "candidate_b_id": "CAND_EP001_54",
+      "winner_id": "CAND_EP001_54",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate B possesses an elite, unmistakable 3-second cold hook (an immediate close-up insert of the groom's fingers interlocked with the sister's hand paired with 'Why are you holding her hand?') that instantly establishes the betrayal without requiring any expository ramp-up. While Candidate A is 18.4 seconds shorter, its opening beat is conversational exposition from a matriarch ('Clarissa knows how to carry herself...') that lacks immediate visceral shock for a swiping thumb. Candidate B sustains relentless escalating stakes\u2014from the bride confronting the groom in her mother's dress to Gerald's brutal 'I changed my mind'\u2014and culminates in an excruciating cliffhanger as Juliana drops to her knees begging her silent father to intervene.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven by the superior visual-plus-dialogue scroll-stop hook and the devastating narrative escalation of B compared to A's slower, expositional opening."
+    },
+    {
+      "match_id": "M048",
+      "candidate_a_id": "CAND_EP001_199",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate B possesses far superior scroll-stop power, opening on an immediate high-stakes visual hook (interlocked fingers at the altar) and the explosive line 'Why are you holding her hand?', instantly grounding the entire conflict in under 4 seconds. While Candidate A is shorter (29.9s vs 43.6s), its opening is talky exposition about family favoritism rather than visceral action. Candidate B sustains relentless narrative momentum across the mother's gown revelation and Gerald's cold 'I changed my mind' line, concluding on a razor-sharp cliffhanger ('Long enough to know he was never going to marry you') that demands an immediate tap to watch.",
+      "confidence": 0.89,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on the opening visual hook strength (5/5 vs 3/5) and punchy narrative escalation, not candidate ordering."
+    },
+    {
+      "match_id": "M049",
+      "candidate_a_id": "CAND_EP001_199",
+      "candidate_b_id": "CAND_EP001_209",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate B opens on an electrifying identity attack ('You are the daughter people tolerate... I am the daughter they choose') that hooks cold viewers significantly harder than Candidate A's slower, expositional matriarch setup. More critically, Candidate B completes the emotional transformation arc: rather than cutting on Juliana's helpless, passive humiliation while Gerald walks away (as A does in B042), B escalates through the white-knuckle gown clench into cold, resolute defiance and a swelling string cliffhanger cut to black. Candidate B converts a standard victim melodrama into an irresistible revenge-hook ad with virtually identical runtime (30.6s vs 29.9s).",
+      "confidence": 0.94,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven: Candidate B possesses a far superior opening hook line and a climactic emotional turnaround cliffhanger compared to Candidate A's deflating victim exit."
+    },
+    {
+      "match_id": "M050",
+      "candidate_a_id": "CAND_EP001_209",
+      "candidate_b_id": "CAND_EP001_56",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_56",
+      "rationale": "Candidate A delivers a vastly more compact and lethal 30.6s arc that transitions the protagonist from sheer degradation to cold, vengeful defiance, cutting cleanly on swelling strings and a hardened glare that practically forces the viewer to tap 'Watch Episode 1'. Candidate B features an undeniable visual opening, but at 54.1s it suffers severe duration-efficiency drag across repetitive accusatory exchanges ('You knew', 'How long?') and concludes on a whimpering plea to her silent father rather than an urgent, forward-propelling cliffhanger. Candidate A's transformation arc packs superior scroll-stop retention and emotional punch in almost half the running time.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on duration efficiency (30.6s vs 54.1s) and the dramatic power of the transformative cliffhanger cut versus a drawn-out emotional plateau, completely independent of label order."
+    },
+    {
+      "match_id": "M051",
+      "candidate_a_id": "CAND_EP001_52",
+      "candidate_b_id": "CAND_EP001_99",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Candidate A possesses vastly superior scroll-stop mechanics, opening on an unmistakable, instantly readable visual shock hook (insert of groom holding the sister's hand at the altar) coupled with a direct accusation ('Why are you holding her hand?') that anchors the core stakes in under 3 seconds. Candidate B opens mid-argument with dialogue that requires prior narrative context to parse, and stretches across 58.4s\u2014introducing multiple distinct sub-conflicts (groom, father, matriarch, sister) that risk viewer fatigue and high mid-clip drop-off. Candidate A delivers a concentrated, laser-focused escalation of romantic betrayal that culminates in a razor-sharp conspiracy cliffhanger at 43.6s, maximizing duration efficiency and cold-audience conversion.",
+      "confidence": 0.89,
+      "position_bias_check": "Winner is Candidate A based strictly on opening visual scroll-stop power, narrative cohesion, and duration efficiency compared to Candidate B's slower, multi-beat pacing; choice is completely content-driven and not influenced by label order."
+    },
+    {
+      "match_id": "M052",
+      "candidate_a_id": "CAND_EP001_47",
+      "candidate_b_id": "CAND_EP001_209",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_209",
+      "rationale": "Candidate A establishes immediate visual and narrative clarity within 3 seconds via the insert of the groom holding the sister's hand at the altar paired with 'Why are you holding her hand?', delivering instant scroll-stopping shock without requiring the viewer to parse family dynamics first. While Candidate B provides a compelling revenge arc ending on defiance, Candidate A maintains a tighter, faster dramatic escalation that cuts directly on Gerald's devastating dismissive punchline ('I changed my mind'), maximizing the unresolved curiosity gap needed to convert cold traffic into Episode 1 viewers.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on immediate visual hook grounding and punchline cliffhanger tension rather than presentation order."
+    },
+    {
+      "match_id": "M053",
+      "candidate_a_id": "CAND_EP001_213",
+      "candidate_b_id": "CAND_EP001_57",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_57",
+      "rationale": "Candidate A delivers an exceptionally tight, 21.0-second arc that capitalizes on maximum duration efficiency with zero wasted footage, avoiding the mid-clip pacing dip seen in B's 55.4-second confrontation. While Candidate B has an outstanding initial visual hook (interlocked fingers at the altar), its ending beat on the father's silent avoidance deflates momentum into passive helplessness rather than driving a high-conversion cliffhanger. Candidate A escalates cleanly from verbal humiliation to the protagonist's active metamorphosis from devastation into cold defiance, ending on a peak unresolved curiosity gap and a literal cut to black that compels cold viewers to tap 'Watch Episode 1'.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on duration efficiency, arc escalation, and superior cliffhanger resolution, entirely independent of label order."
+    },
+    {
+      "match_id": "M054",
+      "candidate_a_id": "CAND_EP001_54",
+      "candidate_b_id": "CAND_EP001_56",
+      "winner_id": "CAND_EP001_56",
+      "loser_id": "CAND_EP001_54",
+      "rationale": "While Candidate A is 5.8s shorter, cutting on B029 ('Tell them this is a mistake') cuts Juliana off mid-motion and mid-plea before the father's reaction is established, leaving the beat feeling abruptly clipped rather than suspenseful. Candidate B extends through B030 and B031 to reveal the father's crushing refusal to meet her gaze, exiting on the heartbreaking, unresolved plea 'Father... please look at me.' This extra beat cements the full scope of familial betrayal and delivers a far more devastating, complete curiosity gap that compels the viewer to tap through to see if anyone defends her.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on ending beat resolution and dramatic cliffhanger completeness, not label position."
+    },
+    {
+      "match_id": "M055",
+      "candidate_a_id": "CAND_EP001_56",
+      "candidate_b_id": "CAND_EP001_51",
+      "winner_id": "CAND_EP001_56",
+      "loser_id": "CAND_EP001_51",
+      "rationale": "While Candidate B provides a tighter 37.0s runtime, it cuts off abruptly after Clarissa's simple admission ('Of course I knew'), which functions as an intermediate dialogue beat rather than a true narrative cliffhanger. Candidate A takes the audience through the full emotional escalation\u2014past Gerald's brutal 'I changed my mind' and Clarissa's devastating 'Long enough to know he was never going to marry you'\u2014culminating in Juliana falling to her knees to plead with her silent father. Cutting on the father staring at the floor refusing to look at his weeping daughter creates a far more agonizing, unresolved cliffhanger and complete dramatic payoff that justifies its 54.1s duration.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is driven purely by dramatic arc completion and cliffhanger intensity (the visceral transition to parental abandonment at B031 versus the mid-exchange cutoff at B025), not label order."
+    },
+    {
+      "match_id": "M056",
+      "candidate_a_id": "CAND_EP001_90",
+      "candidate_b_id": "CAND_EP001_94",
+      "winner_id": "CAND_EP001_90",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "Both candidates share the identical high-octane opening hook (B021), but Candidate A cuts on the ultimate verbal gut-punch at B027 ('Long enough to know he was never going to marry you'), which leaves the curiosity gap and viewer outrage at an absolute fever pitch. Candidate B extends 10.5 seconds further into the father's silent refusal to look, which downshifts the kinetic pacing into a slower, quieter plea that softens the ad's scroll-stop momentum before the exit. At 24.4s, Candidate A provides superior duration efficiency and a significantly punchier cliffhanger exit for cold-audience performance marketing.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on exit cliffhanger sharpness and duration efficiency, not label ordering."
+    },
+    {
+      "match_id": "M057",
+      "candidate_a_id": "CAND_EP001_90",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_90",
+      "rationale": "Candidate B opens on an unmistakable visual gut-punch within the first 3 seconds\u2014the close-up insert of the groom holding the sister's hand paired with 'Why are you holding her hand?' instantly establishes the betrayal before a single line of exposition. While Candidate A is tighter at 24.4s, its opening relies primarily on dialogue grief without the visual smoking gun that hooks cold scrollers on vertical video platforms. Candidate B justifies its 43.6s duration by taking the viewer on a complete, devastating narrative trajectory from the initial visual shock (B014-B015) through the emotional escalation of the mother's gown (B021) to the final chilling conspiracy reveal at B027.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the superior 3-second visual scroll-stop power (B014 hand-clasp insert vs. B021 weeping talking head) and complete narrative grounding, not label position."
+    },
+    {
+      "match_id": "M058",
+      "candidate_a_id": "CAND_EP001_57",
+      "candidate_b_id": "CAND_EP001_47",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_57",
+      "rationale": "Candidate B (27.6s) delivers maximum narrative punch and emotional intensity with zero fat, building directly from the explosive visual hook of interlocked hands to Gerald's brutal punchline 'I changed my mind' on a clean 5.0/5.0 boundary exit. While Candidate A adds the painful secondary thread of parental silence, extending the duration to 55.4s introduces repetitive pacing in beats B023\u2013B027 and ends on an unresolved silent stare rather than a verbal gut-punch. For cold-audience short-form traffic, Candidate B achieves equal emotional devastation in half the time with dramatically lower drop-off risk.",
+      "confidence": 0.89,
+      "position_bias_check": "Winner is Candidate B. Selection is strictly driven by duration efficiency, relentless narrative escalation, and the razor-sharp punchline exit at B022 versus the pacing drag of A."
+    },
+    {
+      "match_id": "M059",
+      "candidate_a_id": "CAND_EP001_94",
+      "candidate_b_id": "CAND_EP001_208",
+      "winner_id": "CAND_EP001_208",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "Candidate B opens with an electric, universal hook ('You are the daughter people tolerate because they have to. I am the daughter they choose.') that requires zero world-building and immediately hooks cold viewers on visceral family hierarchy and rejection. It sustains rapid, escalating verbal cruelty and status devaluation across a tight 23.9s runtime, ending on a crisp high-tension cut as Gerald physically turns his back on Juliana while Clarissa basks in malicious triumph. While Candidate A features rich emotional devastation with the father's silence, its middle section sags slightly through repetitive questioning ('How long?') and ends on a passive, weeping plea rather than a sharp cliffhanger, making Candidate B significantly punchier and safer against drop-off for vertical short-form platforms.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on opening scroll-stop potency, duration efficiency (23.9s vs 34.9s), and rapid escalation to a sharper cliffhanger cut, independent of candidate labeling."
+    },
+    {
+      "match_id": "M060",
+      "candidate_a_id": "CAND_EP001_90",
+      "candidate_b_id": "CAND_EP001_56",
+      "winner_id": "CAND_EP001_90",
+      "loser_id": "CAND_EP001_56",
+      "rationale": "Candidate A delivers a fast-paced, relentless emotional punchline arc in 24.4s, cutting cleanly at peak verbal malice on 'Long enough to know he was never going to marry you' with zero drag. In contrast, while Candidate B possesses an exceptional opening visual hook (B014), at 54.1s it suffers severe mid-funnel retention risk by dragging through multiple repetitive accusation beats before decelerating into a silent, slower-paced parental pleading exit that diffuses the clip's immediate forward momentum.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content- and duration-efficiency-driven: Candidate A sustains unbroken microdrama escalation and exits on an explosive verbal cliffhanger in under 25s, whereas Candidate B carries over 54s of runtime and loses punch at its tail."
+    },
+    {
+      "match_id": "M061",
+      "candidate_a_id": "CAND_EP001_94",
+      "candidate_b_id": "CAND_EP001_209",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "Candidate B opens with an instantly viral, high-status insult ('You are the daughter people tolerate... I am the daughter they choose') that commands immediate thumb-stopping curiosity without needing prior setup. Across its shorter 30.6s runtime, B delivers a far superior narrative trajectory\u2014escalating from cruel public humiliation ('plainness and low value') into the crucial transformation beat where Juliana's knuckles whiten and her tears harden into cold defiance, hitting a flawless cliffhanger exit on an ominous string drone and cut to black. Candidate A offers tremendous raw despair at her father's feet, but its closing beat lingers in helpless victimization rather than teasing the explosive retaliation or turnaround that drives cold-audience conversion to 'Watch Episode 1'.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the hook line's punch, shorter runtime efficiency, and the active victim-to-defiant turnaround arc versus Candidate A's passive ending."
+    },
+    {
+      "match_id": "M062",
+      "candidate_a_id": "CAND_EP001_201",
+      "candidate_b_id": "CAND_EP001_213",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_201",
+      "rationale": "Candidate B cuts straight to the core interpersonal conflict in 21.0s, opening immediately on Juliana's piercing confrontation ('So that is what I was worth to you?') and Gerald's brutal rejection without the pacing drag of the Matriarch's family politics setup. While Candidate A provides extra context regarding family favoritism in beats B035-B038, it spends nearly 19 additional seconds arriving at the exact same emotional pivot and climactic white-knuckled cut to black. Candidate B achieves superior duration efficiency and instant emotional intensity for vertical feeds, delivering maximum punch-to-time ratio with zero drop-off lull before the revenge-arc cliffhanger.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content- and efficiency-driven based on pacing and hook speed on short-form platforms, not label position."
+    },
+    {
+      "match_id": "M063",
+      "candidate_a_id": "CAND_EP001_207",
+      "candidate_b_id": "CAND_EP001_147",
+      "winner_id": "CAND_EP001_207",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate A delivers a vastly superior duration efficiency at 21.1s compared to Candidate B's 38.4s, opening immediately with explosive, viral identity-debasement dialogue ('You are the daughter people tolerate... I am the daughter they choose') that arrests cold-audience scrollers without narrative baggage. While Candidate B is rich in familial drama, its extended middle section of the father's prolonged silence (beats B028\u2013B032) creates significant dead air and pacing lulls that invite drop-off on TikTok/Reels. Candidate A sustains relentless, uninterrupted escalation straight into Gerald's brutal verbal and physical rejection ('plainness and low value' before turning his back), cutting on an active peak of humiliation and betrayal that strongly compels viewers to tap 'Watch Episode 1'.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on duration efficiency, lack of mid-clip pacing lulls, and a sharper visceral hook-to-rejection arc rather than label positioning."
+    },
+    {
+      "match_id": "M064",
+      "candidate_a_id": "CAND_EP001_213",
+      "candidate_b_id": "CAND_EP001_90",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_90",
+      "rationale": "While Candidate B presents a rapid succession of cruel dialogue exchanges ('I changed my mind', 'Long enough to know...'), Candidate A delivers a far superior complete dramatic arc and commercial cliffhanger in an ultra-tight 21.0s runtime. Candidate A transitions seamlessly from public debasement ('plainness and low value') into an active protagonist transformation, ending on the visceral physical beat of whitening knuckles and tear-filled eyes hardening into cold revenge underscored by swelling strings. In vertical short-form performance marketing, a clip that pivots from victimhood to an unresolved promise of vengeance drives significantly higher click-through intent ('Watch Episode 1') than Candidate B's static state of prolonged victim humiliation.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the revenge-transformation arc and high-converting cliffhanger cut versus Candidate B's flatter victim dynamic, independent of candidate ordering."
+    },
+    {
+      "match_id": "M065",
+      "candidate_a_id": "CAND_EP001_199",
+      "candidate_b_id": "CAND_EP001_208",
+      "winner_id": "CAND_EP001_208",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate B is significantly more scroll-stopping because it cuts the slow setup beats (B035\u2013B036) and opens immediately on the brutal punchline: 'You are the daughter people tolerate because they have to. I am the daughter they choose.' It also achieves a far cleaner, more infuriating cliffhanger by extending into B043 to finish Gerald's sentence and cut on Clarissa's radiant, conceited smile basking in Juliana's degradation. By packing a stronger hook, continuous emotional escalation, and an agonizing cliffhanger into 23.9s (versus 29.9s), Candidate B delivers superior duration efficiency with zero wasted frames.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on the hook immediacy of beat B037, completion of Gerald's sentence into beat B043, and superior duration efficiency, rather than label order."
+    },
+    {
+      "match_id": "M066",
+      "candidate_a_id": "CAND_EP001_47",
+      "candidate_b_id": "CAND_EP001_199",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate A delivers vastly superior scroll-stop impact within the opening 3 seconds through an immediate high-contrast visual (interlocked hands at the altar) paired with a direct accusation that instantly clarifies the stakes for zero-context viewers. While Candidate B features intense verbal cruelty, its opening beat is conversational and slower to establish the premise compared to A's visceral gut-punch discovery. Candidate A maintains unbroken escalation across 27.6 seconds and cuts on a razor-sharp callous punchline ('I changed my mind') that maximizes the cliffhanger exit and click-through intent.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on immediate visual hook clarity and superior pacing, not label position."
+    },
+    {
+      "match_id": "M067",
+      "candidate_a_id": "CAND_EP001_208",
+      "candidate_b_id": "CAND_EP001_207",
+      "winner_id": "CAND_EP001_208",
+      "loser_id": "CAND_EP001_207",
+      "rationale": "While Candidate B is slightly shorter, it cuts mid-sentence on an ellipsis ('I cannot marry a woman of such plainness and low value...'), creating a syntactically clipped boundary artifact rather than a clean dramatic pause. Candidate A completes the devastating sentence ('...when Clarissa is the true jewel of the county') and finishes on Clarissa's gloating close-up, providing a much sharper psychological cliffhanger that leaves cold viewers burning with outrage and demanding retribution. The 2.8s addition resolves the dialogue cleanly without sacrificing tension, making Candidate A a significantly more effective and polished scroll-stop promo.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven by the sentence completion and reaction-shot cliffhanger in B043 versus the mid-clause syntactic severance in B042, not label positioning."
+    },
+    {
+      "match_id": "M068",
+      "candidate_a_id": "CAND_EP001_57",
+      "candidate_b_id": "CAND_EP001_209",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_57",
+      "rationale": "Candidate B delivers a much more compact, viral-engineered arc at 30.6s versus Candidate A's 55.4s, which risks significant mid-roll viewer drop-off during the repetitive altar confrontation and long father-pleading beats. While Candidate A features a strong initial physical reveal, Candidate B opens with a deeply insulting, scroll-stopping dialogue hook ('I am the daughter they choose') and transitions decisively from public degradation into an active emotional transformation\u2014ending on Juliana's white-knuckled fist, hardening eyes, and an ominous musical swell cutting to black. This delivers a potent 'revenge / comeback' curiosity gap that is vastly more compelling for cold short-form ad conversion than Candidate A's passive, unresolved parental silence.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on duration efficiency (30.6s vs 55.4s), escalation momentum, and the actionable transformation cliffhanger over a deflating parental silence beat."
+    },
+    {
+      "match_id": "M069",
+      "candidate_a_id": "CAND_EP001_54",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_54",
+      "rationale": "Both candidates share the identical high-impact opening hook (B014) and strong core escalation, but Candidate B cuts 4.7s earlier on a far more devastating and complete cliffhanger line: 'Long enough to know he was never going to marry you' over a menacing two-shot. Candidate A extends into B028\u2013B029 where Juliana shifts focus to her father in the pews and drops to her knees, introducing a new secondary character and location dynamic that disperses the acute tension between the altar trio. Candidate B maintains laser focus on the central villainous betrayal and delivers peak dramatic punch with superior duration efficiency (43.6s vs 48.3s).",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the sharper punchline cut at B027, higher cliffhanger curiosity gap (5/5 vs 4/5), and tighter pacing rather than label order."
+    },
+    {
+      "match_id": "M070",
+      "candidate_a_id": "CAND_EP001_207",
+      "candidate_b_id": "CAND_EP001_201",
+      "winner_id": "CAND_EP001_201",
+      "loser_id": "CAND_EP001_207",
+      "rationale": "While Candidate A is tightly paced at 21.1s, it cuts on Gerald walking away, leaving the audience with an unresolved, defeated victim rather than a narrative engine to drive conversions. Candidate B carries that same brutal humiliation arc through to beats B044\u2013B045, delivering the critical microdrama emotional transformation where Juliana's tearful devastation hardens into white-knuckled, cold defiance right as the ominous string drone swells to black. For vertical drama performance marketing, an active vengeance/retribution hook creates far higher 'Watch Episode 1' intent than passive abandonment, fully justifying the additional 18 seconds.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven: the transformation arc from victim to defiance and the decisive revenge cliffhanger beat, evaluated independently of candidate order."
+    },
+    {
+      "match_id": "M071",
+      "candidate_a_id": "CAND_EP001_54",
+      "candidate_b_id": "CAND_EP001_57",
+      "winner_id": "CAND_EP001_57",
+      "loser_id": "CAND_EP001_54",
+      "rationale": "Both candidates share the identical high-octane opening hook (B014) and escalation through the altar betrayal, but Candidate A cuts off prematurely on Juliana's plea ('Tell them this is a mistake') before the tension of her father's reaction lands. Candidate B spends just 7.1 additional seconds (55.4s total) to capture the father's icy silence and jaw-tightening refusal to meet her gaze, transforming an open question into an agonizing, definitive moment of total familial betrayal. Cutting on the father's stony silence creates a vastly superior cliffhanger ('who will stand for her now?') that maximizes viewer drive to tap through to Episode 1.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on the superior dramatic closure of the father's silence in B030-B032 versus the mid-plea cutoff in B029, entirely independent of candidate label ordering."
+    },
+    {
+      "match_id": "M072",
+      "candidate_a_id": "CAND_EP001_208",
+      "candidate_b_id": "CAND_EP001_99",
+      "winner_id": "CAND_EP001_208",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Candidate A delivers an exceptionally high-density 23.9s promo that opens with an immediate identity shocker ('You are the daughter people tolerate...') and escalates relentlessly into Gerald's brutal rejection ('I cannot marry a woman of such plainness and low value...'), snapping off on Clarissa's smug smile at peak cruelty. Candidate B spans a powerful multi-front betrayal arc, but at 58.4s it carries substantial drop-off risk on vertical feeds, dragging through multiple silent beats with the father (B028\u2013B032) before reaching the exact same line that Candidate A uses as an explosive opener. Candidate A achieves superior scroll-stop punch and cliffhanger tension with more than double the duration efficiency.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content- and efficiency-driven based on the opening 3-second hook strength, tighter pacing, and cliffhanger cut, entirely independent of label position."
+    },
+    {
+      "match_id": "M073",
+      "candidate_a_id": "CAND_EP001_213",
+      "candidate_b_id": "CAND_EP001_51",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_51",
+      "rationale": "Candidate A operates with unmatched duration efficiency (21.0s vs 37.0s) and delivers a transformative protagonist arc that shifts directly from devastating humiliation to cold vengeance, ending on a peak 5/5 curiosity-gap cliffhanger as musical strings swell into a cut-to-black. Candidate B has a marginally superior opening visual hook (the handclasp reveal), but at 37 seconds it suffers from repetitive middle-arc accusations ('You let me come here... You let me dress in my mother's gown...') and a weaker, lower-stakes dialogue exit on 'Of course I knew' rather than an urgent narrative cliffhanger. For cold-audience short-form platforms where drop-off risk is severe, A's tight 21-second villain-to-vengeance turn is the decisively higher-converting creative.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on duration efficiency, ending cliffhanger urgency, and clean emotional transformation, not label order."
+    },
+    {
+      "match_id": "M074",
+      "candidate_a_id": "CAND_EP001_57",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_57",
+      "rationale": "Both candidates share the identical high-impact opening hook (B014-B022), but Candidate B delivers a significantly tighter, higher-urgency narrative arc that cuts cleanly on a peak verbal gut-punch at B027 ('Long enough to know he was never going to marry you'). Candidate A extends an extra 11.8s into the father's silent complicity, shifting the dynamic from intense confrontation into a slower, pacing-heavy lull of prolonged silence and weeping on knees that inflates drop-off risk without increasing conversion intent. Candidate B achieves a flawless 5.0 boundary score and equal emotional salience in nearly 12 fewer seconds, making it the far more efficient and lethal cold-traffic short-form creative.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content- and duration-driven based on exit punch and retention efficiency, completely independent of label order."
+    },
+    {
+      "match_id": "M075",
+      "candidate_a_id": "CAND_EP001_52",
+      "candidate_b_id": "CAND_EP001_51",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_51",
+      "rationale": "Both candidates share the identical high-octane opening hook (B014-B022), but Candidate A extends through B026-B027 to land on a devastating, definitive cliffhanger punchline: 'Long enough to know he was never going to marry you.' In contrast, Candidate B cuts prematurely at B025 on 'Of course I knew,' which feels like an incomplete setup beat rather than an arresting microdrama climax. The extra 6.6 seconds in Candidate A dramatically elevate the cliffhanger tension (5/5 vs 4/5) and seal the psychological brutality of the betrayal without causing pacing drag.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the resolution quality of the cliffhanger in beat B027 versus the mid-exchange cutoff at B025, not label order."
+    },
+    {
+      "match_id": "M076",
+      "candidate_a_id": "CAND_EP001_99",
+      "candidate_b_id": "CAND_EP001_56",
+      "winner_id": "CAND_EP001_56",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Candidate B possesses an elite, visceral scroll-stop opening in its first 3 seconds (insert of the groom's fingers interlocked with the sister's hand paired with 'Why are you holding her hand?'), grounding the entire wedding-betrayal premise instantly for a cold viewer. In contrast, Candidate A opens in medias res with grief-stricken dialogue that requires several seconds to infer the altar context, losing crucial top-of-funnel thumb-stopping power. While Candidate A terminates on a sharper verbal insult ('I am the daughter they choose'), Candidate B's tighter 54.1s duration, superior opening visual hook, and agonizing mid-plea cliffhanger on her father's silence make it a more lethal, high-converting cold ad.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. Selection is strictly content-driven by the decisive opening visual hook (B014 hand-clasp insert) and immediate situational clarity versus Candidate A's slower dialogue-only opening."
+    },
+    {
+      "match_id": "M077",
+      "candidate_a_id": "CAND_EP001_57",
+      "candidate_b_id": "CAND_EP001_94",
+      "winner_id": "CAND_EP001_57",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "Candidate A delivers an overwhelmingly superior opening hook with an immediate visual insert of the groom holding the sister's hand at the altar paired with the sharp accusation 'Why are you holding her hand?', instantly grounding the entire high-stakes conflict within 3 seconds. In contrast, Candidate B begins in media res on a tearful monologue (B021) without showing the physical betrayal first, forcing cold viewers to decipher context from dialogue alone. While Candidate B is 20 seconds shorter, Candidate A sustains unbroken emotional escalation from the visceral altar reveal through the sister's complicity and terminates cleanly on Beat B032's stony parental silence, justifying its runtime with vastly superior scroll-stopping clarity.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the visual clarity of the opening hook (B014 handclasp vs. B021 mid-scene crying) and dramatic setup, not label position."
+    },
+    {
+      "match_id": "M078",
+      "candidate_a_id": "CAND_EP001_56",
+      "candidate_b_id": "CAND_EP001_94",
+      "winner_id": "CAND_EP001_56",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "Candidate A possesses an elite cold-open hook in B014 with the tactile insert shot of Gerald holding the sister's hand paired with 'Why are you holding her hand?', instantly grounding the entire high-stakes conflict within 2 seconds for a swiping thumb. In contrast, Candidate B opens mid-lamentation on dialogue alone ('You let me dress in my mother's gown...') over a generic crying close-up, requiring several seconds of cognitive effort before the betrayal is visually or narratively legible. Although Candidate B offers better duration efficiency at 34.9s, Candidate A's vastly superior opening 3-second scroll-stop power and coherent dual-peak escalation far outweigh the drop-off risk of its 54.1s runtime.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by the visual hook strength of beat B014 versus the talking-head opening of beat B021, independent of candidate ordering."
+    },
+    {
+      "match_id": "M079",
+      "candidate_a_id": "CAND_EP001_54",
+      "candidate_b_id": "CAND_EP001_147",
+      "winner_id": "CAND_EP001_54",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate A possesses vastly superior scroll-stop power in the opening 3 seconds with the visual-dialogue punch of 'Why are you holding her hand?' paired with the insert of interlocking hands at the altar, immediately grounding the premise without requiring cognitive ramp-up. Candidate B starts in media res on a dialogue retort that lacks instant visual spatial context for a cold scroller, and its middle arc decelerates into prolonged parental silence. Furthermore, Candidate A ends on an active, high-stakes moral dilemma as Juliana drops to her knees begging her father to speak up, creating a much stronger unresolved cliffhanger than Candidate B's verbal put-down exit.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on immediate visual clarity at hook and superior unresolved cliffhanger tension, not presentation order."
+    },
+    {
+      "match_id": "M080",
+      "candidate_a_id": "CAND_EP001_54",
+      "candidate_b_id": "CAND_EP001_208",
+      "winner_id": "CAND_EP001_54",
+      "loser_id": "CAND_EP001_208",
+      "rationale": "Candidate A opens with an undeniable visual-plus-dialogue shock hook (the groom holding the sister's hand at the altar while the bride confronts them) that instantly communicates the core betrayal to a zero-context scroller in under 3 seconds. Candidate B delivers sharp verbal cruelty, but its opening dialogue lacks immediate visual grounding for a cold viewer, and it cuts on the groom devaluing her without reaching the active narrative pivot. Candidate A sustains escalating emotional tension through the groom's ruthless confession ('I changed my mind') and exits on a gripping, high-stakes cliffhanger as Juliana drops to her knees begging her silent father to intervene.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on immediate visual hook clarity and superior narrative cliffhanger strength, not position order."
+    },
+    {
+      "match_id": "M081",
+      "candidate_a_id": "CAND_EP001_201",
+      "candidate_b_id": "CAND_EP001_199",
+      "winner_id": "CAND_EP001_201",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "While Candidate B is 9.5 seconds shorter, its cut on B042 leaves Gerald's sentence grammatically trailing ('...when Clarissa is the true jewel...' is cut off) and leaves the viewer with only passive victimhood. Candidate A completes the dialogue sentence, delivers the conceited smirk from the rival sister, and pivots Juliana from a weeping victim into an active, defiant threat via the white-knuckle gown clutch and hardening glare into black over swelling strings. This emotional turnaround from crushing degradation to cold revenge provides a vastly stronger hook for short-form drama viewers needing to see the protagonist fight back.",
+      "confidence": 0.89,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by the sentence completion, the dramatic victim-to-avenger transformation arc, and the clean cut-to-black cliffhanger, completely independent of position order."
+    },
+    {
+      "match_id": "M082",
+      "candidate_a_id": "CAND_EP001_51",
+      "candidate_b_id": "CAND_EP001_207",
+      "winner_id": "CAND_EP001_51",
+      "loser_id": "CAND_EP001_207",
+      "rationale": "Candidate A establishes immediate narrative legibility and scroll-stop impact in its opening 3 seconds through the tight insert of the groom holding the sister's hand alongside the visceral line 'Why are you holding her hand?'. Candidate B has punchy dialogue and high duration efficiency (21.1s), but requires cold viewers to parse pre-existing family hierarchy dynamics on the fly, and cuts on Gerald turning his back in pure defeat rather than on an active narrative hook. Candidate A builds a relentless, escalating arc through the dead mother's gown reveal and Gerald's callous 'I changed my mind', terminating on an active, conspiratorial cliffhanger ('And you knew?' / 'Of course I knew') that maximizes curiosity to watch Episode 1.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A based strictly on cold-audience scroll-stop legibility, escalating dramatic stakes, and an unresolved conspiratorial exit hook, independent of label positioning."
+    },
+    {
+      "match_id": "M083",
+      "candidate_a_id": "CAND_EP001_209",
+      "candidate_b_id": "CAND_EP001_208",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_208",
+      "rationale": "While Candidate B is 6.7 seconds shorter, it cuts on Clarissa's smug reaction (B043), leaving Juliana merely as a weeping, defeated victim. Candidate A invests an extra 6.7 seconds to capture Beats B044\u2013B045, completing a crucial emotional transformation where Juliana's white-knuckled fist and hardening eyes establish a clear revenge/defiance hook as the strings swell to black. In short-form microdrama ads, a protagonist turning from pure victim into a resolute, vengeful force drives far stronger viewer investment to tap 'Watch Episode 1' than lingering on the antagonist's smirk.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This choice is strictly content-driven based on the complete emotional arc and superior cliffhanger resolution in B044\u2013B045, not position order."
+    },
+    {
+      "match_id": "M084",
+      "candidate_a_id": "CAND_EP001_51",
+      "candidate_b_id": "CAND_EP001_209",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_51",
+      "rationale": "While Candidate A possesses a classic visual reveal hook, Candidate B delivers an objectively superior performance-marketing structure for short-form video: it opens with a brutal, universally resonant dialogue hook ('You are the daughter people tolerate... I am the daughter they choose') that requires zero visual setup to stop a scroll, sustains relentless psychological escalation, and closes on an explosive emotional shift from victimhood to defiant vengeance (B044-B045 push-in, whitening knuckles, ominous string swell to cut to black). In contrast, Candidate A peters out slightly toward the end into repetitive dialogue confirmations ('And you knew?' / 'Of course I knew') rather than cutting on a sharp cliffhanger. Furthermore, B achieves this heightened dramatic arc and cleaner exit in 30.6s versus A's 37.0s, significantly minimizing drop-off risk while maximizing intent to tap 'Watch Episode 1'.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly driven by the compelling protagonist transformation arc, the superior cliffhanger tension cut at B045, and duration efficiency, completely independent of candidate ordering."
+    },
+    {
+      "match_id": "M085",
+      "candidate_a_id": "CAND_EP001_57",
+      "candidate_b_id": "CAND_EP001_56",
+      "winner_id": "CAND_EP001_57",
+      "loser_id": "CAND_EP001_56",
+      "rationale": "Both candidates share the identical high-impact opening and middle escalation (B014\u2013B031), but Candidate A includes beat B032 (an additional 1.3 seconds) which delivers the essential visual and physical resolution to Juliana's plea. In Candidate B, cutting immediately on 'Father... please look at me' leaves the moment hanging mid-breath without showing whether the father reacts, making the cut feel abrupt and unpunctuated. Candidate A cuts on the father actively tightening his jaw and staring blankly forward into stone-cold silence, transforming an open-ended plea into a definitive, agonizing beat of parental complicity that cements the cliffhanger at peak emotional desolation.",
+      "confidence": 0.78,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the exit beat cleanliness and emotional payoff of B032's nonverbal reaction versus B031's abrupt dialogue cut, not label order."
+    },
+    {
+      "match_id": "M086",
+      "candidate_a_id": "CAND_EP001_90",
+      "candidate_b_id": "CAND_EP001_147",
+      "winner_id": "CAND_EP001_90",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate A establishes immediate visual and emotional grounding in its opening 3 seconds through Juliana's tear-streaked confrontation in her mother's wedding gown, hooking a cold scroller far faster than B's disembodied opening line. It maintains relentless momentum with sharp, rapid-fire dialogue beats ('I changed my mind' to 'People change their minds, sister') and cuts precisely on the devastating conspiracy reveal in Beat B027 ('Long enough to know he was never going to marry you'). Candidate B, while emotionally heavy, requires 38.4s and drags through five beats of paternal silence before shifting focus to the matriarch, making it slower and more prone to drop-off without delivering a higher emotional ceiling than A's razor-sharp 24.4s cut.",
+      "confidence": 0.89,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on immediate bridal visual grounding, rapid escalating pacing, and duration efficiency (24.4s vs 38.4s), independent of presentation order."
+    },
+    {
+      "match_id": "M087",
+      "candidate_a_id": "CAND_EP001_209",
+      "candidate_b_id": "CAND_EP001_207",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_207",
+      "rationale": "While Candidate B is 9.5 seconds shorter, its ending on Beat B042 cuts mid-sentence ('I cannot marry a woman of such plainness and low value...') as Gerald walks away, deflating dramatic satisfaction and leaving the protagonist entirely defeated. Candidate A justifies its 30.6s runtime by completing Gerald's insult and capturing the complete emotional transformation arc from crushed victim to white-knuckled defiance, cutting out cleanly on a cinematic peak cliffhanger (hardening glare, swelling string drone, cut to black) that demands a click to see her vengeance.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven: Candidate B suffers from an incomplete sentence/dialogue cutoff at B042, whereas Candidate A delivers a complete emotional arc and a true cliffhanger exit at B045 regardless of presentation order."
+    },
+    {
+      "match_id": "M088",
+      "candidate_a_id": "CAND_EP001_94",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "Candidate B opens on an unmistakable, instant visual-and-dialogue gut punch in the first 3 seconds (a tight insert of the groom holding the sister's hand while the bride asks 'Why are you holding her hand?'), grounding the stakes immediately for a cold scroller without needing prior context. While Candidate A is shorter and introduces the tragic parental abandonment arc, its opening relies on in-medias-res grief that assumes the viewer already understands the situation, and its cliffhanger (the father refusing to look) is a slower emotional deflate rather than a viral narrative spike. Candidate B maintains a relentless, unified dramatic arc\u2014from the shocking discovery of the affair to the sister's chilling closing reveal 'he was never going to marry you'\u2014delivering superior scroll-stop arresting power, complete situational clarity, and a much sharper curiosity cliffhanger.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the superior 3-second visual grounding of B014 and the decisive narrative cliffhanger at B027, completely independent of candidate ordering."
+    },
+    {
+      "match_id": "M089",
+      "candidate_a_id": "CAND_EP001_99",
+      "candidate_b_id": "CAND_EP001_51",
+      "winner_id": "CAND_EP001_51",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Candidate B features an unbeatable 3-second cold hook (insert of groom's fingers interlocked with sister's gloved hand paired with 'Why are you holding her hand?') that instantly establishes the visceral conflict without needing any prior exposition. At 37.0 seconds, Candidate B delivers a tight, relentless escalation from the initial shock through 'I changed my mind' to the sister's chilling admission, whereas Candidate A pushes near the 60s drop-off ceiling (58.4s) and shifts midway into a slower, dialogue-heavy family confrontation that dilutes the immediate altar momentum. Under duration efficiency and scroll-stop power, Candidate B is significantly stronger for cold-audience performance marketing.",
+      "confidence": 0.89,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven based on the superior visual hook in B014, tighter pacing, and higher duration efficiency on vertical video platforms, independent of candidate ordering."
+    },
+    {
+      "match_id": "M090",
+      "candidate_a_id": "CAND_EP001_57",
+      "candidate_b_id": "CAND_EP001_201",
+      "winner_id": "CAND_EP001_57",
+      "loser_id": "CAND_EP001_201",
+      "rationale": "Candidate A possesses an undeniable 3-second scroll-stopping opening beat that pairs an immediate visceral visual hook (insert shot of groom's fingers interlocked with the sister's gloved hand) with an instantly legible dialogue accusation ('Why are you holding her hand?'), grounding the stakes with zero narrative delay. While Candidate B offers a tighter duration (39.4s) and a potent revenge-pivot cut, its opening beat relies on expository matriarchal dialogue without establishing the wedding betrayal in the initial swipe-decision window. Candidate A sustains devastating, continuous emotional escalation through Gerald's callous confession to the father's crushing silent abandonment, creating far higher initial hook conversion and deeper viewer indignation.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by the instant visual/dialogue hook clarity and raw emotional punch of the altar reveal, not position order."
+    },
+    {
+      "match_id": "M091",
+      "candidate_a_id": "CAND_EP001_201",
+      "candidate_b_id": "CAND_EP001_56",
+      "winner_id": "CAND_EP001_201",
+      "loser_id": "CAND_EP001_56",
+      "rationale": "While Candidate B possesses the single most explosive opening visual hook (interlocked hands at the altar), its 54.1s runtime stretches thin across repetitive weeping accusations before cutting on a deflating parental silence that risks audience drop-off. Candidate A delivers a far tighter, high-velocity 39.4s promo with rapid-fire verbal brutality ('tolerated because they have to', 'plainness and low value') leading into an active, electrifying character transformation. Cutting on Juliana's white-knuckled fist and tearful eyes hardening into cold vengeance over swelling strings creates a vastly superior 'must-see-what-happens-next' hook to launch a revenge drama.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven: evaluated against duration efficiency (39.4s vs 54.1s) and the dramatic momentum of an active revenge pivot versus passive victimization, completely independent of candidate ordering."
+    },
+    {
+      "match_id": "M092",
+      "candidate_a_id": "CAND_EP001_94",
+      "candidate_b_id": "CAND_EP001_99",
+      "winner_id": "CAND_EP001_94",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Both candidates share the identical high-impact opening (B021), but Candidate A cuts at 34.9s on peak emotional vulnerability as Juliana weeps at her father's knees begging him to look at her. Candidate B stretches to 58.4s\u2014nearly double the duration and right against the maximum cutoff\u2014diluting the immediate altar confrontation into extended family dialogue that risks severe drop-off on vertical short-form platforms. Candidate A delivers superior duration efficiency while ending on an active, agonizing question of parental abandonment rather than an over-explained verbal takedown.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content- and duration-driven: the tighter 34.9s duration and superior cliffhanger tension beat Candidate B's 58.4s pacing bloat, independent of presentation order."
+    },
+    {
+      "match_id": "M093",
+      "candidate_a_id": "CAND_EP001_99",
+      "candidate_b_id": "CAND_EP001_201",
+      "winner_id": "CAND_EP001_99",
+      "loser_id": "CAND_EP001_201",
+      "rationale": "Candidate A opens with an immediate, high-stakes emotional gut-punch ('You let me dress in my mother's gown...') that establishes the central betrayal within two seconds, whereas Candidate B opens mid-scene on family lecturing that takes several beats to establish stakes. Candidate A also captures the most visceral multi-front betrayal sequence\u2014bridging the fianc\u00e9's cold dismissal, the father's devastating silent refusal to look at her, and the family's brutal verbal ostracization\u2014giving it far superior scroll-stop power and narrative momentum despite its longer runtime. Candidate B has a clean revenge-pivot ending, but its opening is too slow and conversational to reliably arrest a cold scroller in the first 3 seconds.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the explosive opening line and comprehensive narrative hook, not position or label order."
+    },
+    {
+      "match_id": "M094",
+      "candidate_a_id": "CAND_EP001_51",
+      "candidate_b_id": "CAND_EP001_54",
+      "winner_id": "CAND_EP001_54",
+      "loser_id": "CAND_EP001_51",
+      "rationale": "While both candidates share an identical, high-converting opening hook (B014), Candidate A cuts off abruptly on an incomplete dialogue exchange ('And you knew? / Of course I knew.') that acts as mid-scene dialogue banter rather than an actionable cliffhanger. Candidate B sustains the escalation past the altar confrontation to a gut-wrenching second wave of conflict: the sister's devastating dagger line ('Long enough to know he was never going to marry you') cascading directly into Juliana dropping to her knees to plead with her silent father ('Father... Tell them this is a mistake'). Ending on the father's silent complicity creates a far superior, high-stakes curiosity gap that compels cold viewers to tap 'Watch Episode 1' to see if family will save her, easily justifying the extra 11 seconds.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven: Candidate B features a true cliffhanger button and two-tier dramatic escalation, whereas Candidate A terminates mid-argument without a clean narrative punctuation mark."
+    },
+    {
+      "match_id": "M095",
+      "candidate_a_id": "CAND_EP001_57",
+      "candidate_b_id": "CAND_EP001_147",
+      "winner_id": "CAND_EP001_57",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate A opens with an undeniable 5/5 scroll-stopping visual and dialogue gut-punch (an insert shot of the groom's fingers interlocked with the sister's hand at the altar paired with 'Why are you holding her hand?'), grounding the stakes instantly within 2 seconds for a zero-context viewer. In contrast, Candidate B opens mid-argument without the visual visceral betrayal hook, placing greater cognitive load on the swiping viewer to infer what is happening. While Candidate A is longer at 55.4s, its sustained narrative arc delivers a devastating dual-crescendo\u2014first the altar rupture with Gerald's brutal 'I changed my mind', followed immediately by the father's agonizing stony silence\u2014making it substantially more compelling as a cold-traffic hook ad.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven by the superior sub-3s visual hook clarity (interlocked hands at altar) and dual-layer emotional devastation, completely independent of presentation order."
+    },
+    {
+      "match_id": "M096",
+      "candidate_a_id": "CAND_EP001_47",
+      "candidate_b_id": "CAND_EP001_147",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate A establishes immediate narrative legibility in under two seconds through the visceral visual insert of the groom holding the sister's hand paired with an accusatory hook line. It sustains escalating emotional intensity without dead air before snapping shut on Gerald's callous punchline ('I changed my mind'), delivering a clean, high-curiosity cliffhanger. Candidate B features compelling parental rejection, but its middle section suffers from slower pacing across the father's silent refusal, relies heavily on dialogue without the same instant visual grounding, and takes nearly eleven additional seconds to reach a softer, insult-based exit.",
+      "confidence": 0.88,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the superior sub-3s visual-dialogue hook pairing, tighter 27.6s pacing efficiency, and razor-sharp punchline cliffhanger compared to Candidate B."
+    },
+    {
+      "match_id": "M097",
+      "candidate_a_id": "CAND_EP001_201",
+      "candidate_b_id": "CAND_EP001_208",
+      "winner_id": "CAND_EP001_201",
+      "loser_id": "CAND_EP001_208",
+      "rationale": "While Candidate B has a punchy 23.9s runtime and opens directly on the brutal contrast line, Candidate A delivers the complete emotional arc that converts cold short-form drama viewers. Candidate B cuts out at B043 on Clarissa's smug reaction, stranding the protagonist in pure passive victimhood with an incomplete emotional beat. In contrast, Candidate A carries through beats B044\u2013B045 to capture the pivotal visual transformation\u2014Juliana's white-knuckled fist clenching the silk gown and her tearful gaze hardening into cold defiance as the strings swell to black\u2014turning a generic humiliation sequence into an irresistible, high-stakes revenge hook.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven: Candidate A contains the decisive revenge-pivot cliffhanger (B044-B045) rather than ending on passive deflation at B043, independent of label ordering."
+    },
+    {
+      "match_id": "M098",
+      "candidate_a_id": "CAND_EP001_99",
+      "candidate_b_id": "CAND_EP001_199",
+      "winner_id": "CAND_EP001_99",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate A opens with immediate, high-octane emotional shock ('You let me dress in my mother's gown...') that grounds the wedding betrayal within 3 seconds, whereas Candidate B opens mid-argument on family favoritism with lower immediate arrest. While Candidate B is tighter at 29.9s, Candidate A sustains relentless, escalating multi-front cruelty across 58.4s\u2014moving seamlessly from the groom's dismissal to the father's devastating silent disownment and culminating in Clarissa's venomous status punchline ('I am the daughter they choose'). Candidate A delivers a vastly superior emotional hook and more compelling narrative arc that justifies its runtime for cold-audience acquisition.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on opening hook intensity, narrative arc progression, and emotional resonance, not candidate order."
+    },
+    {
+      "match_id": "M099",
+      "candidate_a_id": "CAND_EP001_147",
+      "candidate_b_id": "CAND_EP001_201",
+      "winner_id": "CAND_EP001_201",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "While Candidate A possesses a marginally sharper opening line, Candidate B delivers a far superior complete dramatic arc and hook-to-conversion mechanism for short-form video ads. Candidate A bogs down in the middle with a repetitive, multi-beat father pleading sequence (B028\u2013B032) and exits abruptly on a verbal jab, whereas Candidate B escalates relentlessly from familial humiliation to the fianc\u00e9's brutal public rejection ('plainness and low value') directly into the protagonist's transformative defiance. Candidate B's closing sequence (B044\u2013B045)\u2014cutting on a white-knuckled fist, eyes hardening into cold fury, swelling strings, and a cut to black\u2014is a quintessential high-intent cliffhanger that powerfully converts cold viewers into tapping 'Watch Episode 1'.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven by the revenge-arc transformation and cinematic cut-to-black cliffhanger versus Candidate A's stagnant middle pacing and weaker verbal exit, entirely independent of candidate positioning."
+    },
+    {
+      "match_id": "M100",
+      "candidate_a_id": "CAND_EP001_47",
+      "candidate_b_id": "CAND_EP001_201",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_201",
+      "rationale": "Candidate A possesses vastly superior opening 3-second scroll-stop power, pairing the visceral visual shock of the groom interlinking fingers with the sister alongside the immediate accusatory line 'Why are you holding her hand?'. It tells a complete, devastating betrayal arc in a lean 27.6s, snapping shut on Gerald's cold dismissal punchline ('I changed my mind') with zero fat. In contrast, Candidate B opens on dialogue-heavy family exposition requiring several seconds of orientation, spans nearly 40s across multiple speakers, and while its internal transformation into defiance is potent, A delivers far more instantaneous thumb-stopping drama with greater duration efficiency.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on immediate visual hook clarity and duration efficiency, not label position."
+    },
+    {
+      "match_id": "M101",
+      "candidate_a_id": "CAND_EP001_208",
+      "candidate_b_id": "CAND_EP001_57",
+      "winner_id": "CAND_EP001_208",
+      "loser_id": "CAND_EP001_57",
+      "rationale": "Candidate A delivers an exceptionally compact, high-velocity 23.9s promo that opens with an instantly arresting identity insult ('You are the daughter people tolerate...') and escalates with relentless, venomous momentum directly to Gerald's brutal dismissal ('I cannot marry a woman of such plainness and low value...'), ending on Clarissa's smug smirk. In contrast, while Candidate B possesses the iconic hand-holding hook and deep emotional resonance, at 55.4s it stretches across two disparate emotional beats (altar betrayal then father abandonment), risking significant mid-funnel scroll drop-off before reaching its quieter, passive cliffhanger of the father's silent gaze. Candidate A provides superior duration efficiency and a punchier, non-deflating arc perfectly calibrated to cold short-form audiences.",
+      "confidence": 0.78,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on duration efficiency, pacing density, and peak cliffhanger tension, not label order."
+    },
+    {
+      "match_id": "M102",
+      "candidate_a_id": "CAND_EP001_147",
+      "candidate_b_id": "CAND_EP001_213",
+      "winner_id": "CAND_EP001_213",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate B is a punchy 21.0s clip that captures the classic microdrama 'humiliation-to-revenge transformation' arc with zero wasted beats. While Candidate A features visceral family cruelty across 38.4s, its pacing drags through the father's extended silence and cuts on an insult rather than an active turning point. Candidate B opens immediately on high-stakes confrontation ('So that is what I was worth to you?'), builds through Gerald's brutal rejection, and lands on a textbook short-form cliffhanger: the protagonist's eyes hardening from tears into cold defiance as the ominous drone swells to a hard cut to black.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on duration efficiency (21s vs 38.4s), emotional arc transformation, and superior cliffhanger execution, completely independent of label order."
+    },
+    {
+      "match_id": "M103",
+      "candidate_a_id": "CAND_EP001_47",
+      "candidate_b_id": "CAND_EP001_99",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Candidate A delivers vastly superior scroll-stop impact within the opening 3 seconds via an immediate close-up insert of the groom holding the sister's hand paired with 'Why are you holding her hand?', instantly establishing the stakes and conflict for a cold viewer. Candidate B takes 58.4 seconds\u2014pushing against the maximum duration ceiling and incurring substantial drop-off risk\u2014while opening mid-argument without the visual grounding of the physical betrayal. By contrast, Candidate A packs the complete discovery, confrontation, and devastating punchline cut ('I changed my mind') into a tight, hyper-efficient 27.6s runtime with zero pacing lag.",
+      "confidence": 0.92,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the undeniable 3-second visual scroll-stop hook and duration efficiency over Candidate B's nearly 60-second runtime, completely independent of label order."
+    },
+    {
+      "match_id": "M104",
+      "candidate_a_id": "CAND_EP001_56",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_56",
+      "rationale": "Both candidates share the identical top-tier visual and dialogue hook (B014), but Candidate B terminates at 43.6s on the vicious, definitive punchline 'Long enough to know he was never going to marry you' with Gerald and the sister united on the altar. Candidate A stretches for an extra 10.5 seconds into the pews, dissipating the explosive confrontation rhythm into a slower, quieter plea to the father that softens the cliffhanger punch. By delivering the complete altar betrayal arc with tighter pacing and cutting cleanly on peak malice rather than lingering grief, Candidate B maximizes retention and click-through.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on duration efficiency, punchline cut cleanliness, and sustained momentum rather than candidate ordering."
+    },
+    {
+      "match_id": "M105",
+      "candidate_a_id": "CAND_EP001_208",
+      "candidate_b_id": "CAND_EP001_52",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_208",
+      "rationale": "Candidate B possesses an indisputably superior opening hook: the visual insert of the groom's fingers interlocked with the sister's hand paired with 'Why are you holding her hand?' establishes the exact betrayal and relationship dynamics in under 3 seconds for a zero-context viewer. Candidate A begins midway through the scene with verbal insults ('tolerated vs chosen') that require the viewer to piece together the altar scenario from dialogue after the swipe. While Candidate A is shorter at 23.9s, Candidate B sustains escalating narrative velocity across its 43.6s arc\u2014moving from initial shock through the mother's gown revelation to Gerald's chilling 'I changed my mind' and ending on the decisive conspiracy cliffhanger 'Long enough to know he was never going to marry you.'",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on the opening visual hook legibility and superior narrative escalation, overcoming Candidate A despite A's shorter duration."
+    },
+    {
+      "match_id": "M106",
+      "candidate_a_id": "CAND_EP001_209",
+      "candidate_b_id": "CAND_EP001_147",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate A opens with immediate, razor-sharp psychological warfare ('You are the daughter people tolerate...') and tight visual framing that hooks the viewer instantly without requiring prior narrative exposition. Its dramatic arc escalates continuously through brutal public rejection to a transformative climax, cutting cleanly on Juliana's white-knuckling rage and hardening glare as strings swell to an ominous peak. Candidate B spends significant time in a slower, dialogue-heavy middle section pleading with the father (38.4s), whereas Candidate A delivers a punchier, 30.6s emotional transformation that promises immediate vengeance and maximizes cold-audience conversion.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven: Candidate A offers superior duration efficiency, a stronger transformative arc, and an active cinematic cliffhanger compared to Candidate B's slower middle pacing, independent of label placement."
+    },
+    {
+      "match_id": "M107",
+      "candidate_a_id": "CAND_EP001_199",
+      "candidate_b_id": "CAND_EP001_207",
+      "winner_id": "CAND_EP001_207",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate B is significantly more efficient and potent for vertical cold-audience feeds, cutting 8.8 seconds of conversational ramp-up in B035-B036 to open directly on the explosive verbal gut-punch: 'You are the daughter people tolerate because they have to. I am the daughter they choose.' While Candidate A spends almost 9 seconds establishing family context through the Matriarch, Candidate B instantly arrests the scrolling thumb within the critical 0-3s window with pure psychological brutality and maintains unrelenting, uninterrupted downward pressure straight to Gerald's cruel rejection. At 21.1s, Candidate B packs identical narrative stakes and emotional devastation into a far tighter, zero-drop-off short-form structure.",
+      "confidence": 0.89,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven: Candidate B's immediate 5/5 dialogue hook and superior duration efficiency (21.1s vs. 29.9s) eliminate unnecessary preamble, entirely independent of label order."
+    },
+    {
+      "match_id": "M108",
+      "candidate_a_id": "CAND_EP001_54",
+      "candidate_b_id": "CAND_EP001_99",
+      "winner_id": "CAND_EP001_54",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Candidate A possesses far superior opening scroll-stop power with an instant visual and dialogue hook (insert shot of the groom interlocked with the sister's hand while the bride confronts them at the altar), establishing the high-stakes conflict within 3 seconds. Candidate B starts in medias res without establishing the visual premise of the altar betrayal, and at 58.4 seconds it pushes the outer limit of drop-off risk with an extended dialogue shaming sequence. Candidate A packs the critical reveal ('I changed my mind') and cuts on the poignant cliffhanger of parental complicity at 48.3s, delivering equal narrative punch with tighter duration efficiency.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on the immediate visual hook in B014 versus B021 and duration efficiency, completely independent of candidate ordering."
+    },
+    {
+      "match_id": "M109",
+      "candidate_a_id": "CAND_EP001_213",
+      "candidate_b_id": "CAND_EP001_47",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_213",
+      "rationale": "Candidate B possesses significantly superior cold-traffic scroll-stop power, immediately arresting the viewer with the visceral insert shot of interlocked hands at the altar paired with the sharp accusation 'Why are you holding her hand?'. It establishes the entire dramatic premise in under four seconds and escalates rapidly to Gerald's devastating, ice-cold punchline 'I changed my mind' on beat B022. While Candidate A features an exceptionally compelling revenge-transformation cliffhanger at 21.0s, its opening beat ('So that is what I was worth to you?') lacks the instant visual hook and explicit situational clarity needed to stop an unprimed swiping thumb in the first 3 seconds.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This selection is strictly content-driven based on opening 3-second scroll-stop mechanics, visual hook strength, and punchline cliffhanger execution rather than candidate label order."
+    },
+    {
+      "match_id": "M110",
+      "candidate_a_id": "CAND_EP001_47",
+      "candidate_b_id": "CAND_EP001_54",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_54",
+      "rationale": "Both candidates share the identical high-impact opening hook, but Candidate A achieves a far cleaner, punchier promo arc by cutting out at 27.6s on Gerald's brutal dismissal ('I changed my mind'). Candidate B extends the runtime to 48.3s through an extra cycle of sisterly bickering and Juliana pleading with her father, diluting the shock value and introducing drop-off risk without delivering a sharper cliffhanger than Gerald's callous punchline. At nearly half the duration, Candidate A delivers maximum emotional devastation and curiosity with superior short-form duration efficiency.",
+      "confidence": 0.86,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on duration efficiency and the superior cliffhanger cut at Beat B022 compared to the protracted middle arc in B, not label position."
+    },
+    {
+      "match_id": "M111",
+      "candidate_a_id": "CAND_EP001_208",
+      "candidate_b_id": "CAND_EP001_56",
+      "winner_id": "CAND_EP001_208",
+      "loser_id": "CAND_EP001_56",
+      "rationale": "Candidate A delivers exceptional duration efficiency at 23.9s versus Candidate B's 54.1s, drastically cutting cold-audience drop-off risk while hitting an immediate, visceral identity-wound hook ('You are the daughter people tolerate... I am the daughter they choose') in its opening three seconds. While Candidate B possesses a classic visual hook at B014, its middle arc stretches across repetitive accusations (B018\u2013B027) before shifting into a slower, quieter father subplot, ultimately ending on a pleading whimper rather than a sharp cliffhanger. In contrast, Candidate A sustains relentless, escalating cruelty directly from the rival sister to the groom's public denigration ('plainness and low value'), ending on a sharp, blood-boiling cliffhanger of Clarissa's conceited smirk that demands an instant click to see Juliana's retribution.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on duration efficiency, unrelenting escalation, and a superior punchy exit cut compared to Candidate B's extended 54-second pacing."
+    },
+    {
+      "match_id": "M112",
+      "candidate_a_id": "CAND_EP001_52",
+      "candidate_b_id": "CAND_EP001_213",
+      "winner_id": "CAND_EP001_52",
+      "loser_id": "CAND_EP001_213",
+      "rationale": "Candidate A establishes maximum scroll-stop power within the first 3 seconds via an undeniable visual-and-dialogue gut punch (an insert shot of the groom holding the sister's hand at the altar paired with 'Why are you holding her hand?'), immediately communicating the premise to a cold audience without requiring inference. In contrast, while Candidate B offers a brisk 21s duration and a strong defiance turn, its opening beat is visually generic (a standard medium shot) with rhetorical dialogue that lacks the immediate visceral clarity needed to arrest a swiping thumb mid-scroll. Candidate A maintains relentless escalating stakes across its 43.6s arc\u2014progressing from public shock to Gerald's chilling 'I changed my mind' and capping on Clarissa's devastating premeditation reveal\u2014making it the vastly superior top-of-funnel conversion asset.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on the superior 3-second visual hook and clear situational premise compared to Candidate B's slower, lower-salience opening beat, completely independent of presentation order."
+    },
+    {
+      "match_id": "M113",
+      "candidate_a_id": "CAND_EP001_99",
+      "candidate_b_id": "CAND_EP001_90",
+      "winner_id": "CAND_EP001_90",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Both candidates share the identical high-impact opening beat (B021), but Candidate B delivers a far more lethal narrative arc in just 24.4s compared to Candidate A's sprawling 58.4s runtime. Candidate B moves with relentless, unbroken momentum from the gown betrayal to Gerald's callous confession and cuts cleanly on the sister's devastating cliffhanger line ('Long enough to know he was never going to marry you'). Candidate A drags through a prolonged 12-second silent pleading sequence with the father (B028\u2013B032) that severely slows pacing and increases drop-off risk for cold vertical viewers, while ending on an insult rather than an active plot cliffhanger.",
+      "confidence": 0.89,
+      "position_bias_check": "Winner is Candidate B. Choice is strictly content- and duration-driven based on pacing momentum, exit punchiness, and retention efficiency on vertical short-form platforms, independent of label ordering."
+    },
+    {
+      "match_id": "M114",
+      "candidate_a_id": "CAND_EP001_51",
+      "candidate_b_id": "CAND_EP001_47",
+      "winner_id": "CAND_EP001_47",
+      "loser_id": "CAND_EP001_51",
+      "rationale": "Both candidates share the identical high-octane opening hook (B014), but Candidate B terminates decisively at Beat B022 on Gerald's cold dismissal 'I changed my mind', delivering a razor-sharp 5.0/5.0 boundary cut that maximizes drop-off efficiency at 27.6s. Candidate A extends for nearly ten additional seconds into secondary bickering (B023-B025), which softens the devastating gut-punch of Gerald's line into repetitive dialogue exchanges ('People change their minds, sister' / 'Of course I knew'). At 27.6s versus 37.0s, Candidate B packs equal emotional salience into a much leaner, punchier short-form ad format with far superior cliffhanger impact.",
+      "confidence": 0.89,
+      "position_bias_check": "Winner is Candidate B. This decision is strictly content-driven based on duration efficiency (27.6s vs 37.0s) and the superior mic-drop cliffhanger on beat B022 versus the deflating verbal tail of beats B023-B025, rather than candidate ordering."
+    },
+    {
+      "match_id": "M115",
+      "candidate_a_id": "CAND_EP001_57",
+      "candidate_b_id": "CAND_EP001_99",
+      "winner_id": "CAND_EP001_57",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Candidate A possesses far superior opening scroll-stop power, leading with the unmistakable visual and dialogue hook of the groom clasping the sister's hand at the altar ('Why are you holding her hand?') that instantly establishes the exact betrayal within 3 seconds for a zero-context viewer. Candidate B starts in medias res mid-grief ('You let me dress in my mother's gown...'), which carries strong dialogue emotion but lacks the immediate visual anchoring and instant clarity of the altar confrontation. Furthermore, cutting on the father's agonizing stony silence while Juliana begs on her knees (Beat B032) leaves a gut-wrenching, unresolved emotional cliffhanger that demands viewers click Episode 1 to see who defends her, avoiding the overextended, talky family dispute of beats B033-B037.",
+      "confidence": 0.84,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven by the indispensable visual hook in B014 and the tighter, more urgent cliffhanger cut on the father's silence."
+    },
+    {
+      "match_id": "M116",
+      "candidate_a_id": "CAND_EP001_199",
+      "candidate_b_id": "CAND_EP001_147",
+      "winner_id": "CAND_EP001_199",
+      "loser_id": "CAND_EP001_147",
+      "rationale": "Candidate A delivers a much sharper narrative punchline and higher duration efficiency (29.9s vs. 38.4s). While Candidate B has an arresting opening line, its middle arc spends over 11 seconds on a silent, weeping father confrontation that drags down short-form pacing before ending on a family insult. In contrast, Candidate A rapidly escalates from family comparison into direct groom confrontation, culminating in Gerald's devastating dismissal ('plainness and low value') and physical abandonment at the altar, creating an urgent, visceral cliffhanger that demands a tap into Episode 1.",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate A. This selection is entirely content-driven based on pacing economy and the superior cliffhanger punchline of the groom's altar abandonment, not label position."
+    },
+    {
+      "match_id": "M117",
+      "candidate_a_id": "CAND_EP001_57",
+      "candidate_b_id": "CAND_EP001_199",
+      "winner_id": "CAND_EP001_57",
+      "loser_id": "CAND_EP001_199",
+      "rationale": "Candidate A possesses an unbeatable cold-audience opening hook: the visual insert of the groom holding hands with the sister at the altar paired with the visceral accusation 'Why are you holding her hand?' arrests a scrolling thumb in under 2 seconds. While Candidate B is tighter in duration (29.9s vs 55.4s), its opening is talky exposition ('Clarissa knows how to carry herself...') that lacks immediate stakes, visual shock, or instant clarity for an uninitiated viewer. Candidate A sustains escalating emotional destruction\u2014from the altar betrayal ('I changed my mind') to the heartbreaking parental abandonment\u2014delivering a significantly more compelling hook-and-cliffhanger arc that justifies its runtime.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This selection is strictly content-driven based on opening visual scroll-stop power, immediate situational legibility, and peak emotional stakes compared to Candidate B's slower dialogue-heavy exposition."
+    },
+    {
+      "match_id": "M118",
+      "candidate_a_id": "CAND_EP001_94",
+      "candidate_b_id": "CAND_EP001_51",
+      "winner_id": "CAND_EP001_51",
+      "loser_id": "CAND_EP001_94",
+      "rationale": "Candidate B opens with an undeniable 5/5 scroll-stop hook\u2014an immediate visual insert of the groom holding the sister's hand paired with the visceral punchline 'Why are you holding her hand?' which instantly orientates a zero-context viewer within 3 seconds. Candidate A begins mid-meltdown ('You let me dress in my mother's gown...'), which carries high emotional intensity but lacks the sharp visual-premise grounding that B establishes right out of the gate. While Candidate A ends on a touching moment of parental abandonment, Candidate B's entire arc builds tighter narrative momentum around the central romantic conspiracy, exiting cleanly on the malicious confirmation 'Of course I knew.'",
+      "confidence": 0.82,
+      "position_bias_check": "Winner is Candidate B. This choice is strictly content-driven by Candidate B's superior visual hook clarity (B014 insert) and immediate situational orientation compared to Candidate A's in-media-res dialogue opening."
+    },
+    {
+      "match_id": "M119",
+      "candidate_a_id": "CAND_EP001_209",
+      "candidate_b_id": "CAND_EP001_99",
+      "winner_id": "CAND_EP001_209",
+      "loser_id": "CAND_EP001_99",
+      "rationale": "Candidate A opens with an immediate, razor-sharp status contrast ('You are the daughter people tolerate... I am the daughter they choose') that arrests scrollers instantly, and sustains escalating cruelty without the pacing lulls found in Candidate B's multi-character pleading sequence. Most crucially, Candidate A delivers an active, high-converting protagonist transformation: Juliana shifts from weeping victim to white-knuckled, cold defiance with an ominous string swell cut to black, making viewers desperate to see her retribution. At 30.6s versus Candidate B's 58.4s, Candidate A achieves far greater emotional urgency and cliffhanger tension in nearly half the duration, dramatically minimizing mid-roll drop-off.",
+      "confidence": 0.85,
+      "position_bias_check": "Winner is Candidate A. This decision is strictly content-driven based on duration efficiency, a superior transformation arc, and a decisive revenge cliffhanger cut rather than label order."
+    }
+  ],
+  "regularization": {
+    "type": "Laplace / Virtual Average Opponent Smoothing",
+    "phantom_wins": 1.0,
+    "phantom_losses": 1.0,
+    "virtual_opponent_strength": 1.0,
+    "description": "Added 1 phantom win and 1 phantom loss against a virtual average opponent (theta_0 = 1.0) to eliminate zero-loss divergence and stabilize theta magnitude."
+  }
+}

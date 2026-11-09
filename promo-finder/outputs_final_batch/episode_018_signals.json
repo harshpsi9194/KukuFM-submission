@@ -1,0 +1,704 @@
+{
+  "episode_number": 18,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Low-angle shot of bright orange flames crackling under a closed bedroom door with smoke billowing delivers immediate visual urgency and danger on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Overhead close-up of a sleeping protagonist waking up choking and coughing in thick smoke creates noticeable visceral distress.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Crying out a name ('Alexander!') conveys distress but lacks situational context or narrative revelation.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Bolting upright in bed and tossing off the quilt upon seeing the glowing fire under the door provides clear visual panic.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Repetition of the name 'Alexander!' without further verbal exposition remains a low-context cry.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Swinging bare legs out of bed while trembling with panic shows basic physical agitation but standard framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Low-angle close-up of an intensely glowing door with fire actively licking the floorboards delivers strong mute hazard legibility.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Alexander's entrance command 'Juliana! Get up!' injects direct urgency and commanding stakes into the scene.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Door kicked open with explosive visual impact as an imposing hero bursts through framed in blazing orange light and smoke.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Basic logistical query and one-word answer ('What happened?' / 'Fire.') offer minimal dialogue hook power.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Wide tracking shot of a hero rushing across a smoke-choked room and hoisting the heroine into an embrace conveys dynamic physical rescue.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Over-the-shoulder shot showing burning beams collapsing across the exit doorway establishes an immediate, soundless survival trap.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'Stay close to me' provides protective comfort but lacks shocking narrative bite or conflict.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Hero tightly wrapping a heavy coat around the heroine and shielding her face against flying sparks presents clear protective physical drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'We cannot get through!' directly announces an urgent mortal crisis and impassable obstacle.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Wall-high roaring flames completely sealing the doorframe while the protagonist recoils in heat creates intense visual peril.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'Then we go another way' is a pragmatic action directive without auditory shock value.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual, camera, or action events are described in this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Dynamic tracking shot of characters running through burning corridors while rafters crash behind them conveys forward kinetic tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium tracking shot focusing on wide, soot-streaked eyes amid falling embers offers compelling emotional fear legibility.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up insert of an antique ledger beginning to curl and singe on a burning table cleanly highlights an object of high narrative value in peril.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp verbal conflict and opposing commands ('The ledger!' / 'Leave it!' / 'No! No!') create an immediate clash over priorities.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Abrupt halt, pointing back into the flames, and physical restraint as Alexander pulls her back depict direct physical friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Low-angle shot looking up at ceiling beams engulfed in roaring fire and splitting down the center provides a looming structural catastrophe.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'Juliana, the ceiling is coming down!' delivers an acute, time-sensitive warning of imminent physical destruction.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Urgent gesture pointing upward while pulling her under his arm conveys standard protective body language.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Violently wresting her hand away and charging straight into the flames toward the burning desk exhibits shocking, counter-intuitive action.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Wide shot showing a massive burning crossbeam collapsing into the floorboards with a fiery explosion delivers maximum scroll-stopping spectacle.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'It's my mother's!' instantly injects emotional vulnerability and personal stakes into her reckless choice.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual, camera, or action events are attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Snatching a scorched ledger off a burning table with bandaged hands and clutching it tight shows palpable physical desperation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of a heavy ceiling rafter splitting violently overhead indicates fatal impact about to strike in fractions of a second.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Desperate yell of 'Alexander!' is a panicked distress call without contextual plot depth.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of Juliana looking up in sheer terror with firelight dancing across her tearful face creates strong mute emotional resonance.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'Down!' and 'I've got you' are classic crisis interjections that reassure rather than shock.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Hero tackles heroine to the floor right as a massive timber crashes onto their spot showering sparks, followed by an intimate ground-level soot-covered embrace.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Wide shot of walls collapsing in curtains of flame cutting off all exit routes provides powerful environmental catastrophe.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'The window!' and 'Hold on to me' represent functional escape instructions.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Carrying her bridal-style while she frantically clutches the ledger and points toward the window portrays rapid physical escape mechanics.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of grimacing hero holding her as she buries her face into his neck is an effective emotional reaction shot with modest visual novelty.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Slow-motion leap shattering through a burning window frame while carrying the heroine into the dark night delivers apex cinematic action on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Wide interior collapse of the entire parlor into an uncontrollable inferno provides high-energy spectacle.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Post-climax night exterior of heroine brushing ash off the hero as he coughs is quiet aftermath rather than an immediate scroll-stopping hook.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Wide shot of background villagers running with buckets establishes setting reaction but lacks foreground protagonist tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of a weeping heroine kneeling in the mud, soot-blackened with tears streaming while clutching a charred ledger, communicates total devastation instantly.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'Our home... Everything we had is gone' conveys crushing, total material ruin in clean emotional prose.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Wide shot of their cottage completely consumed by towering flames against a pitch-black night sky establishes overwhelming tragedy on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'Why would anyone do this?' reframes the disaster from an accident into an intentional, malicious conspiracy.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Trembling hand reaching out to touch his chest depicts vulnerable intimacy but subdued visual energy.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'Someone wanted us out' introduces sinister targeted persecution and calculated arson by unseen enemies.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Hero drawing her into his arms as she weeps uncontrollably against his shoulder portrays poignant trauma and protection.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'We have nowhere to go' underlines hopelessness and displacement, but lacks immediate forward momentum.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual, camera, or action events are attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Slow push-in on the male lead's face hardening into a mask of lethal fury delivers strong character resolve legible without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B038",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'They took our home. I will not let them take anything else now' is a fierce, vengeful declaration of war against attackers.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of piercing eyes and a combat scar illuminated by flickering orange firelight creates an intensely arresting thumbnail and opening frame.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B039",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Noticeable visual emotion and friction as she pulls back from an embrace, displaying tear-filled eyes against his hardened face.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B040",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'What are you going to do?' sets up impending retaliation, but acts primarily as an unresolved prompt rather than an auditory punch.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual, camera, or action events are attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B041",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual drama with a grim, unyielding profile silhouetted against an inferno holding before a cut to black.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who is trapped inside the bedroom while the fire spreads?",
+      "stakes_importance": "Low \u2014 establishes physical peril and an encroaching hazard, but characters have not yet been placed in direct mortal danger on screen.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana wake up and find a way out before smoke inhalation knocks her unconscious?",
+      "stakes_importance": "Medium \u2014 immediate life-or-death peril for the protagonist trapped in a burning room.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander hear Juliana's cries in time to reach her?",
+      "stakes_importance": "Medium \u2014 protagonist realizes the danger and urgently calls out for her protector.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander reach the bedroom before the flames engulf Juliana's room?",
+      "stakes_importance": "Medium \u2014 sustained rising terror as Juliana struggles to flee with no escape visible.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the door burn down or will an escape route open?",
+      "stakes_importance": "Low \u2014 visual cutaway emphasizing fire intensity without direct character interaction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Alexander physically carry Juliana out through the roaring blaze before the building collapses?",
+      "stakes_importance": "High \u2014 sudden dramatic entrance of the male lead amidst catastrophic inferno to save the female lead.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will they escape now that they are united?",
+      "stakes_importance": "Low \u2014 reunion momentarily stabilizes immediate panic with simple exposition.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Alexander and Juliana bypass the collapsing, burning threshold?",
+      "stakes_importance": "Medium \u2014 direct path of egress is physically blocked by flaming wreckage.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "Where will Alexander guide Juliana to avoid the falling sparks?",
+      "stakes_importance": "Low \u2014 protective moment offering temporary emotional safety and preparation rather than peak tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 4,
+      "specific_question": "How can they survive when wall-high flames have completely sealed their only known exit?",
+      "stakes_importance": "High \u2014 total entrapment; Juliana's declaration leaves their survival completely uncertain.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 2,
+      "specific_question": "What other escape path does Alexander know?",
+      "stakes_importance": "Low \u2014 dialogue defuses the immediate crisis of Beat B010 by offering a prompt plan of action.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will they outrun the falling rafters before the corridor collapses on top of them?",
+      "stakes_importance": "Medium \u2014 high physical velocity escape with lethal collapsing debris right behind them.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana make it through the smoke and falling embers unharmed?",
+      "stakes_importance": "Low \u2014 transitional tracking shot maintaining ongoing momentum without a new narrative spike.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the antique ledger burn, destroying its secrets forever?",
+      "stakes_importance": "Low \u2014 insert shot establishing an important object before character awareness or conflict occurs.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana risk her life to defy Alexander and retrieve the burning ledger?",
+      "stakes_importance": "High \u2014 sharp character conflict pitting immediate life-preservation against irreplaceable personal/family heritage.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the splitting overhead ceiling collapse on anyone standing below?",
+      "stakes_importance": "Medium \u2014 imminent environmental hazard signaling fatal danger if they delay.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Alexander force Juliana to abandon the ledger before the ceiling caves in?",
+      "stakes_importance": "Medium \u2014 urgent verbal and physical warning underscoring mortal danger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana grab the ledger and survive, or is she charging into a fiery death trap?",
+      "stakes_importance": "High \u2014 reckless, high-stakes defiance of the male lead's protection to rescue her mother's legacy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "Did the exploding crossbeam strike Juliana as she charged toward the desk?",
+      "stakes_importance": "High \u2014 catastrophic structural explosion squarely in the path of the protagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Juliana secure her mother's ledger before the collapsing fire crushes her?",
+      "stakes_importance": "High \u2014 reveals the deep emotional stakes of her sacrifice while she remains directly under the collapsing ceiling.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 3,
+      "specific_question": "Now that Juliana has retrieved the ledger, can she turn and escape before the room collapses?",
+      "stakes_importance": "Medium \u2014 objective achieved, but her positioning remains exposed and precarious.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the massive rafter crush Juliana before she can take a step?",
+      "stakes_importance": "High \u2014 lethal physical danger suspended fractions of a second before impact.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Alexander intervene in time, or will the falling beam strike Juliana as she cries out?",
+      "stakes_importance": "High \u2014 peak life-and-death climax; protagonist is frozen looking upward at imminent catastrophe.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will they escape the fire now that Alexander has shielded her?",
+      "stakes_importance": "Low \u2014 resolves Beat B023's lethal suspense by confirming both survived the falling beam unharmed.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 4,
+      "specific_question": "With all interior hallways totally blocked by curtains of flame, how can Alexander and Juliana get out?",
+      "stakes_importance": "High \u2014 absolute encirclement by fire cutting off all traditional escape routes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Alexander reach and breach the parlor window before the room burns through?",
+      "stakes_importance": "Medium \u2014 identification of a desperate last-chance escape vector.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander's body protect Juliana as they make a desperate leap through the window?",
+      "stakes_importance": "Medium \u2014 high emotional and physical tension right before a perilous jump.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 2,
+      "specific_question": "Are they severely injured after leaping through the burning glass?",
+      "stakes_importance": "Low \u2014 resolves the primary escape tension by explicitly showing Alexander carrying Juliana safely into the night.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 2,
+      "specific_question": "Is anything left of their home?",
+      "stakes_importance": "Low \u2014 visual punctuation confirming total destruction of the home after their escape.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Alexander recover his breath after inhaling smoke?",
+      "stakes_importance": "Low \u2014 after-action cooldown establishing both characters are physically safe outside.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 1,
+      "specific_question": "Can the villagers douse the fire in time to save anything?",
+      "stakes_importance": "Low \u2014 secondary background activity with low personal dramatic weight.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 2,
+      "specific_question": "What makes the scorched ledger so vital that Juliana weeps over it amidst the ashes?",
+      "stakes_importance": "Low \u2014 emotional grief reaction and thematic focus on the ledger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Juliana and Alexander survive now that they have lost everything they owned?",
+      "stakes_importance": "Medium \u2014 emotional devastation as Juliana confronts their total destitution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 4,
+      "specific_question": "Does Alexander know who targeted them with this devastating arson attack?",
+      "stakes_importance": "High \u2014 shifts the conflict from a natural accident to deliberate sabotage and malicious conspiracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who ordered the arson against Alexander and Juliana, and why are they targeting them?",
+      "stakes_importance": "High \u2014 explosive narrative revelation confirming targeted malice and an unseen dangerous enemy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 3,
+      "specific_question": "Where can the homeless couple turn for refuge when powerful enemies want them gone?",
+      "stakes_importance": "Medium \u2014 highlights Juliana's acute vulnerability and bleak predicament.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 4,
+      "specific_question": "What deadly vengeance is Alexander plotting against the culprits who torched their home?",
+      "stakes_importance": "High \u2014 dramatic character shift of the male lead from protective partner to ruthless retaliator.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B038",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Alexander hunt down and destroy the enemies who burned down their home?",
+      "stakes_importance": "High \u2014 powerful declaration of war and vengeance by the male lead directly targeting their unseen oppressors.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B039",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana support or fear the terrifying fury awakened in Alexander?",
+      "stakes_importance": "Medium \u2014 character reaction to Alexander's intimidating vow of vengeance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B040",
+      "curiosity_gap_score": 5,
+      "specific_question": "What lethal course of action will Alexander unleash in retaliation against their enemies?",
+      "stakes_importance": "High \u2014 the ultimate cliffhanger cut: an explicit, urgent question hanging unanswered over an escalating vendetta.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B041",
+      "curiosity_gap_score": 5,
+      "specific_question": "What ruthless vengeance will Alexander unleash now that he has committed to retaliation?",
+      "stakes_importance": "High \u2014 definitive emotional turning point where Alexander embraces unyielding retribution against their enemies as the score swells to black.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

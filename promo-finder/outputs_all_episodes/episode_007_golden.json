@@ -1,0 +1,746 @@
+{
+  "episode": "Episode 7",
+  "episode_number": 7,
+  "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+  "continuity_notes": "Follows Episode 6, where Juliana found refuge and warmth beside the hearth with her mysterious husband; morning brings unwelcome visitors from her former life to their humble doorstep.",
+  "duration": 116.0,
+  "total_beats": 29,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 4.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana kneeling on the cold, damp ground outside the stone cottage, pulling weeds from the dirt with her bare hands.",
+          "start": 0.0,
+          "end": 4.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil caked beneath her fingernails.",
+          "start": 0.0,
+          "end": 4.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B002",
+      "start": 4.8,
+      "end": 11.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle tracking shot as an ornate black-and-gold carriage with crest emblazoned on the door rolls to a stop on the muddy path outside the gate.",
+          "start": 4.8,
+          "end": 11.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Heavy carriage wheels grinding in mud, horse snorts, and rhythmic hoofbeats halting.",
+          "start": 5.0,
+          "end": 11.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B003",
+      "start": 11.8,
+      "end": 15.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as Aristocratic Woman steps out of the carriage into the misty air, shielding herself under an intricate lace parasol in an elegant lavender gown.",
+          "start": 11.8,
+          "end": 15.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B004",
+      "start": 15.0,
+      "end": 19.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Gerald steps down from the carriage behind her, looking immaculate in a high-collared navy frock coat, white waistcoat, and dark cravat.",
+          "start": 15.0,
+          "end": 19.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B005",
+      "start": 19.5,
+      "end": 21.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Aristocratic Woman smirks cruelly as she surveys the humble stone cottage.",
+          "start": 19.5,
+          "end": 21.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B006",
+      "start": 21.0,
+      "end": 24.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high.",
+          "start": 21.0,
+          "end": 24.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "This is where you live now?",
+          "start": 22.0,
+          "end": 24.5,
+          "timestamp_source": "given",
+          "character": "ARISTOCRATIC WOMAN",
+          "emotion": "Mocking, Condescending"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B007",
+      "start": 24.5,
+      "end": 29.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully.",
+          "start": 24.5,
+          "end": 29.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "A fitting home for a woman who threw away everything for a penniless soldier.",
+          "start": 25.0,
+          "end": 29.8,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Arrogant, Scornful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B008",
+      "start": 29.8,
+      "end": 32.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair.",
+          "start": 29.8,
+          "end": 32.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You came all this way just to insult my home?",
+          "start": 30.0,
+          "end": 32.6,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Sharp, Unintimidated"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B009",
+      "start": 32.8,
+      "end": 37.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol.",
+          "start": 32.8,
+          "end": 37.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Home? Look at your hands, Juliana.",
+          "start": 33.2,
+          "end": 37.8,
+          "timestamp_source": "given",
+          "character": "ARISTOCRATIC WOMAN",
+          "emotion": "Gloating, Mocking"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B010",
+      "start": 37.8,
+      "end": 39.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana's mud-stained palms held open against her apron.",
+          "start": 37.8,
+          "end": 39.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You look like a servant.",
+          "start": 38.2,
+          "end": 39.8,
+          "timestamp_source": "given",
+          "character": "ARISTOCRATIC WOMAN",
+          "emotion": "Cruel"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B011",
+      "start": 39.8,
+      "end": 41.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Gerald's smug expression watching Juliana.",
+          "start": 39.8,
+          "end": 41.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B012",
+      "start": 41.0,
+      "end": 45.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana lifting her chin with unwavering dignity.",
+          "start": 41.0,
+          "end": 45.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I work with my hands. There is no shame in that.",
+          "start": 41.2,
+          "end": 44.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Proud, Resolute"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B013",
+      "start": 45.0,
+      "end": 47.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Gerald's tightening jaw.",
+          "start": 45.0,
+          "end": 47.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You were born a lady.",
+          "start": 45.2,
+          "end": 46.8,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Biting, Condescending"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B014",
+      "start": 47.0,
+      "end": 50.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Juliana's clear blue eyes, shining with unbroken pride.",
+          "start": 47.0,
+          "end": 50.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And I remain one.",
+          "start": 48.8,
+          "end": 50.4,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Firm, Unapologetic"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B015",
+      "start": 50.8,
+      "end": 54.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard.",
+          "start": 50.8,
+          "end": 54.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You chose that scarred beggar over a life of comfort.",
+          "start": 51.5,
+          "end": 54.6,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Bitter, Sneering"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B016",
+      "start": 54.8,
+      "end": 61.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching.",
+          "start": 54.8,
+          "end": 61.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I chose a man who stood beside me when you walked away.",
+          "start": 57.8,
+          "end": 61.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Passionate, Defiant"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B017",
+      "start": 61.5,
+      "end": 65.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Intense close-up of Juliana dismissing him with utter contempt.",
+          "start": 61.5,
+          "end": 65.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You have no authority here. Leave.",
+          "start": 61.8,
+          "end": 64.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Cold, Commanding"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B018",
+      "start": 65.2,
+      "end": 69.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face.",
+          "start": 65.2,
+          "end": 69.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I have enough influence to make a beggar disappear.",
+          "start": 65.6,
+          "end": 68.5,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Furious, Threatening"
+        },
+        {
+          "type": "dialogue",
+          "description": "And your husband?",
+          "start": 68.6,
+          "end": 69.5,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Spiteful, Boastful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+    },
+    {
+      "beat_id": "B019",
+      "start": 69.5,
+      "end": 75.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Where is that beggar husband?",
+          "start": 69.5,
+          "end": 71.2,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Snarl"
+        },
+        {
+          "type": "camera",
+          "description": "Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist.",
+          "start": 69.5,
+          "end": 74.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord.",
+          "start": 70.0,
+          "end": 75.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate.",
+          "start": 74.0,
+          "end": 75.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. FOREST PATH - CONTINUOUS"
+    },
+    {
+      "beat_id": "B020",
+      "start": 75.5,
+      "end": 78.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall.",
+          "start": 75.5,
+          "end": 78.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "A dull, heavy thud of timber striking the mud.",
+          "start": 76.2,
+          "end": 77.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B021",
+      "start": 78.5,
+      "end": 81.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald.",
+          "start": 78.5,
+          "end": 81.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B022",
+      "start": 81.0,
+      "end": 88.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity.",
+          "start": 81.0,
+          "end": 83.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face.",
+          "start": 81.5,
+          "end": 84.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously.",
+          "start": 83.5,
+          "end": 88.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Gerald, don't let him frighten you.",
+          "start": 86.5,
+          "end": 88.5,
+          "timestamp_source": "given",
+          "character": "ARISTOCRATIC WOMAN",
+          "emotion": "Urgent, Annoyed"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B023",
+      "start": 88.6,
+      "end": 90.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "What are you staring at?",
+          "start": 88.6,
+          "end": 90.0,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Trembling, Trying to Save Face"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B024",
+      "start": 90.0,
+      "end": 91.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Gerald rapidly turns on his heel toward the carriage, unwilling to face another second of the silent glare.",
+          "start": 90.0,
+          "end": 91.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "We are leaving.",
+          "start": 90.1,
+          "end": 91.4,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Nervous, Hurried"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B025",
+      "start": 91.5,
+      "end": 93.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Aristocratic Woman, shocked and indignant as Gerald flees past her.",
+          "start": 91.5,
+          "end": 93.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Leaving? Gerald!",
+          "start": 92.0,
+          "end": 93.8,
+          "timestamp_source": "given",
+          "character": "ARISTOCRATIC WOMAN",
+          "emotion": "Outraged, Flustered"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B026",
+      "start": 93.8,
+      "end": 99.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut.",
+          "start": 93.8,
+          "end": 96.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Carriage door slamming shut.",
+          "start": 95.0,
+          "end": 96.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Wide shot of the carriage rapidly jolting forward and disappearing down the misty road away from the cottage.",
+          "start": 96.0,
+          "end": 99.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B027",
+      "start": 99.0,
+      "end": 103.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium profile two-shot of Juliana turning toward the Scarred Bearded Man, her eyes gleaming with genuine admiration.",
+          "start": 99.0,
+          "end": 103.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You didn't say a word.",
+          "start": 100.8,
+          "end": 103.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Impressed, Softly Amused"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B028",
+      "start": 103.5,
+      "end": 111.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on the Scarred Bearded Man looking down at her, his rugged features softening with quiet affection.",
+          "start": 103.5,
+          "end": 107.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I didn't need to.",
+          "start": 106.0,
+          "end": 107.8,
+          "timestamp_source": "given",
+          "character": "SCARRED BEARDED MAN",
+          "emotion": "Low, Gentle, Confident"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot as the Scarred Bearded Man stoops down, scoops up the heavy bundle of firewood in one arm, and walks calmly past Juliana toward their door.",
+          "start": 107.5,
+          "end": 111.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B029",
+      "start": 111.5,
+      "end": 116.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana looking after him, a radiant and grateful smile blooming across her face as the scene fades out.",
+          "start": 111.5,
+          "end": 116.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+    }
+  ]
+}

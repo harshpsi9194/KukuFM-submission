@@ -1,0 +1,449 @@
+{
+  "episode_number": 16,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Atmospheric wide standoff under the full moon establishes clear physical confrontation and protective stakes on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct aggressive challenge ('Move aside, soldier') immediately signals an active standoff.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up showing a sneering thug with an accomplice in tow, establishing basic antagonistic presence.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Extreme close-up on a scarred face and intense stare delivers focused visual tension without sound.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Escalated verbal demand ('I said, move!') punctuated by an aggressive roar.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle framing of an armed antagonist roaring into the night conveys imminent physical danger.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static medium close-up of a motionless clenched jaw with minimal visual progression.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Calling out a single character name conveys distress but lacks standalone stakes or hook context.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of a trembling woman kneeling in mud clutching bandaged hands provides urgent distress legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Protective command ('Stay behind me') establishes danger but functions primarily as setup.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual or camera events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A generic battle cry ('Aaargh!') with minimal narrative value.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper action: catching a swinging weapon mid-air with bare hands is immediately legible and jaw-dropping on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Violent physical takedown: wrenching away a club and slamming an attacker into the mud creates peak scroll-stopping action.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up reaction shot showing astonished expression without direct action or context.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Generic shouting ('Aaargh!') offering zero narrative substance.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "High-impact combat visual: seizing an opponent by the throat and hurling him across the path instantly arrests cold scrollers.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Defensive warning ('Stay back!') conveys basic combat panic.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Dynamic combat sequence showing a forearm block, swift torso counter-blow, and violent body slam.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Striking aftermath visual under the moon showing one dominant figure towering over three writhing bodies.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Murmuring a name in relief provides very low standalone auditory shock.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle close-up highlighting glistening tears and mud-splattered cheeks conveys strong emotional aftermath.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Standard solicitous inquiry ('Are you hurt?') carries low immediate tension.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard over-the-shoulder conversational setup without physical urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Vulnerable disclosure ('Only my hands') indicates injury but lacks explosive conflict.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Visually arresting close-up insert of trembling hands wrapped in blood-soaked bandages.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp, aggressive interrogation opener ('Who sent you?') establishes instant narrative stakes.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Explosive physical hook: single-handedly hoisting an enemy off the ground by his collar against a wall is instantly legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Desperate denial ('No one!') under pressure provides modest auditory tension.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Intense close-up of a choking victim gagging under an iron grip.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "High-stakes interrogation culminating in an explosive betrayal reveal: 'Harrington! Gerald Harrington paid us!'",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Extreme close-up strangulation against a stone wall with bulging eyes and lethal intensity completely commands visual attention.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Whispering a single name ('Gerald...') conveys shock but relies heavily on prior context to understand.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up capturing devastated disbelief and emotional betrayal on the protagonist's face.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Frantic parting revelation ('We were only paid to destroy the garden, that's all!') exposes motive.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tumbling into flowerbeds followed by wounded thugs scrambling away into dark woods conveys dramatic flight.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Dramatic macro close-up of blood trickling from split knuckles as fingers curl into a tight fist.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Awe-struck commentary ('You knew exactly what to do') acknowledges capability with moderate intrigue.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of character stepping forward with admiration; emotionally clear but visually subdued.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Observation hinting at hidden backstory ('You fought like you've done this a hundred times').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard close-up examining a face, lacking urgent visual movement or confrontation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Haunting, evocative line ('A soldier learns things he wishes he could forget') carrying intriguing narrative weight.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up profile turning away into shadows; moody but low scroll-stop urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Quiet intimate exchange ('Are you hurt?' / 'No.') lacking high-stakes shock value.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Moonlit romantic tableau and reaching toward a bleeding knuckle conveys genre-defining intimate friction.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Alexander back down or fight off the three armed thugs?",
+      "stakes_importance": "Medium \u2014 sets up a physical confrontation to protect Juliana.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Alexander react to the thug's intimidation?",
+      "stakes_importance": "Medium \u2014 verbal escalation before imminent physical combat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "What will Alexander do to the armed thug in front of him?",
+      "stakes_importance": "Medium \u2014 tense standoff right before violence breaks out.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "Is the thug about to strike Alexander with the iron weapon?",
+      "stakes_importance": "Medium \u2014 immediate imminent violence suspended mid-escalation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Alexander withstand or evade the impending attack without moving?",
+      "stakes_importance": "Medium \u2014 suspended tension before physical contact.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Alexander be able to keep the injured Juliana safe from the intruders?",
+      "stakes_importance": "Medium \u2014 highlights vulnerable victim in immediate peril.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Alexander neutralize three armed men at once?",
+      "stakes_importance": "Medium \u2014 protective command immediately before physical engagement.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "Now that Alexander caught the weapon bare-handed, how brutally will he retaliate?",
+      "stakes_importance": "High \u2014 shocking display of lethal martial prowess that completely flips the power dynamic.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the remaining two accomplices attack or flee?",
+      "stakes_importance": "Medium \u2014 one thug neutralized, but two armed hostiles remain.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana realize Alexander's true identity from his extraordinary combat skills?",
+      "stakes_importance": "Medium \u2014 witness reaction to sudden revelation of elite combat capability.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can the last standing thug land a hit on Alexander?",
+      "stakes_importance": "Low \u2014 outcome of combat is already clearly tilted in Alexander's favor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 1,
+      "specific_question": "Are all the attackers fully disabled?",
+      "stakes_importance": "Low \u2014 final attacker has been decisively subdued.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who ordered the thugs to attack Juliana and her garden?",
+      "stakes_importance": "Medium \u2014 aftermath of combat leading to impending interrogation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will Juliana thank Alexander for saving her life?",
+      "stakes_importance": "Low \u2014 temporary release of fear and emotional relief.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 1,
+      "specific_question": "How severe are Juliana's injuries?",
+      "stakes_importance": "Low \u2014 routine conversational inquiry.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Alexander react upon seeing Juliana's bloody hands?",
+      "stakes_importance": "Medium \u2014 visual proof of harm to the protagonist prompting protective anger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who hired these thugs to destroy Juliana's life and garden?",
+      "stakes_importance": "High \u2014 suspended interrogation of a captive assailant; the mastermind's identity is on the verge of being extracted.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander break the thug's neck or force him to confess the truth?",
+      "stakes_importance": "Medium \u2014 high physical coercion and impending violent extraction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why did Gerald Harrington hire violent thugs to destroy Juliana's garden after abandoning her?",
+      "stakes_importance": "High \u2014 shock disclosure implicating the ex-fianc\u00e9 in ongoing vindictive cruelty.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Juliana react to learning that her ex-fianc\u00e9 Gerald paid thugs to ruin her sanctuary and harm her?",
+      "stakes_importance": "High \u2014 catastrophic betrayal and emotional devastation that will reshape Juliana's pursuit of justice and revenge.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will the fleeing thugs return?",
+      "stakes_importance": "Low \u2014 attackers flee and resolve the immediate physical danger; tension defuses.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 2,
+      "specific_question": "What dark military past makes Alexander indifferent to his own physical wounds?",
+      "stakes_importance": "Medium \u2014 hints at Alexander's stoic trauma and mysterious background.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana probe deeper into Alexander's hidden past?",
+      "stakes_importance": "Medium \u2014 curiosity about Alexander's lethal combat training.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 3,
+      "specific_question": "Who really is Alexander, and what dark history produced such lethal reflexes?",
+      "stakes_importance": "Medium \u2014 direct confrontation of Alexander's true identity and secret history.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "What traumatic horrors did Alexander experience during the war that he cannot forget?",
+      "stakes_importance": "Medium \u2014 mysterious glimpse into his haunted backstory and hidden identity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the undeniable romantic and protective spark between Juliana and Alexander overcome their painful pasts?",
+      "stakes_importance": "High \u2014 emotional turning point cementing the intimate romantic connection between the leads with unresolved romantic tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

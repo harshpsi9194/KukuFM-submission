@@ -1,0 +1,211 @@
+{
+  "episode_number": 5,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP005_04",
+      "absolute_rubric_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B006",
+        "end_beat_id": "B013",
+        "start_time": 20.8,
+        "end_time": 69.0,
+        "duration": 48.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Your dowry is revoked.",
+        "opening_character": "LORD ASHCROFT",
+        "rationale": "Catastrophic sequence of family ruin: revoking dowry, disinheriting, and declaring 'From this moment, you are dead to the Ashcroft family.'"
+      },
+      "cliffhanger": {
+        "final_quote": "Perhaps that is where it belongs.",
+        "final_character": "GERALD",
+        "specific_question": "Can Juliana salvage her mother's ruined ledger from the mud, and who will intervene to stop this vicious public humiliation?"
+      },
+      "situational_summary": "A father completely disowns his daughter on the cathedral steps, after which a vindictive matriarch rips her late mother's ledger away and flings it into the wet dirt.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP005_06",
+      "absolute_rubric_score": 9.1,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.1042,
+      "max_similarity_to_selected": 0.7869,
+      "boundary": {
+        "start_beat_id": "B013",
+        "end_beat_id": "B020",
+        "start_time": 54.0,
+        "end_time": 101.5,
+        "duration": 47.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Barbara, don't!",
+        "opening_character": "JULIANA",
+        "rationale": "Cruel public mockery celebrating ruin ('Even your mother's precious legacy has been cast into the dirt!')."
+      },
+      "cliffhanger": {
+        "final_quote": "Choose your next words carefully.",
+        "final_character": "MYSTERIOUS BEARDED MAN",
+        "specific_question": "What lethal retaliation will the Mysterious Bearded Man unleash if Gerald utters another word?"
+      },
+      "situational_summary": "A disgraced noble bride weeping in the mud over her soiled family heirloom is defended by a mysterious man who issues a chilling warning to her mocking ex-groom.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP005_02",
+      "absolute_rubric_score": 8.5,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.4
+      },
+      "mmr_score": -0.0122,
+      "max_similarity_to_selected": 0.842,
+      "boundary": {
+        "start_beat_id": "B005",
+        "end_beat_id": "B013",
+        "start_time": 15.8,
+        "end_time": 69.0,
+        "duration": 53.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Then leave as his wife.",
+        "opening_character": "LORD ASHCROFT",
+        "rationale": "Brutal disownment delivered in two sharp sentences ('Then leave as his wife. You leave as no daughter of mine.')."
+      },
+      "cliffhanger": {
+        "final_quote": "Perhaps that is where it belongs.",
+        "final_character": "GERALD",
+        "specific_question": "Can Juliana salvage her mother's ruined ledger from the mud, and who will intervene to stop this vicious public humiliation?"
+      },
+      "situational_summary": "After being disowned on church steps, a newly married daughter is further humiliated when a cruel matriarch tears her late mother's ledger away and casts it into the rain-slicked mud.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP005_01",
+      "absolute_rubric_score": 7.1,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 1.7,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 1.7
+      },
+      "mmr_score": -0.2937,
+      "max_similarity_to_selected": 0.8564,
+      "boundary": {
+        "start_beat_id": "B003",
+        "end_beat_id": "B006",
+        "start_time": 6.6,
+        "end_time": 29.0,
+        "duration": 22.4,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You will not leave this church carrying the Ashcroft name.",
+        "opening_character": "LORD ASHCROFT",
+        "rationale": "A stark patriarchal ultimatum stripping the family name ('You will not leave this church carrying the Ashcroft name')."
+      },
+      "cliffhanger": {
+        "final_quote": "From this moment, you are dead to the Ashcroft family.",
+        "final_character": "LORD ASHCROFT",
+        "specific_question": "How will Juliana survive being stripped of her dowry, inheritance, and declared completely dead to her family?"
+      },
+      "situational_summary": "Outside a church after a wedding, an aristocratic father ruthlessly strips his daughter of her family name, dowry, and inheritance, declaring her dead to the family.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP005_03",
+      "rank": 5,
+      "recommended_boundary": "B006 -> B012",
+      "similarity": 0.9723,
+      "duplicate_of": "CAND_EP005_04",
+      "reason": "Exceeded near-duplicate threshold (0.9723 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP005_05",
+      "rank": 4,
+      "recommended_boundary": "B013 -> B019",
+      "similarity": 0.9502,
+      "duplicate_of": "CAND_EP005_06",
+      "reason": "Exceeded near-duplicate threshold (0.9502 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP005_03",
+      "rank": 5,
+      "recommended_boundary": "B006 -> B012",
+      "similarity": 0.9723,
+      "duplicate_of": "CAND_EP005_04",
+      "reason": "Exceeded near-duplicate threshold (0.9723 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP005_05",
+      "rank": 4,
+      "recommended_boundary": "B013 -> B019",
+      "similarity": 0.9502,
+      "duplicate_of": "CAND_EP005_06",
+      "reason": "Exceeded near-duplicate threshold (0.9502 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP005_03",
+      "rank": 5,
+      "recommended_boundary": "B006 -> B012",
+      "similarity": 0.9723,
+      "duplicate_of": "CAND_EP005_04",
+      "reason": "Exceeded near-duplicate threshold (0.9723 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP005_05",
+      "rank": 4,
+      "recommended_boundary": "B013 -> B019",
+      "similarity": 0.9502,
+      "duplicate_of": "CAND_EP005_06",
+      "reason": "Exceeded near-duplicate threshold (0.9502 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP005_03",
+      "rank": 5,
+      "recommended_boundary": "B006 -> B012",
+      "similarity": 0.9723,
+      "duplicate_of": "CAND_EP005_04",
+      "reason": "Exceeded near-duplicate threshold (0.9723 >= 0.90)"
+    }
+  ]
+}

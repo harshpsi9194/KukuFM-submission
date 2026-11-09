@@ -1,0 +1,466 @@
+{
+  "episode_number": 17,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "High-angle view of a dirt-smudged woman kneeling amidst a ruined, trampled garden with bandaged hands establishes immediate physical aftermath and mystery on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up insert of a bandaged hand cupping a fragile surviving daisy shows mild physical action and symbolic recovery without intense visual shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "\"Some of them survived\" provides mild reflective exposition with minimal standalone tension.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Medium close-up tilting up to a bruised, tear-streaked female face delivers high visual drama and emotional vulnerability instantly legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle shot of a man driving nails with an iron hammer shows purposeful physical labor, but lacks dramatic conflict or urgent scroll-stop tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "\"Thank you\" is polite conversational dialogue with zero inherent conflict or standalone stakes.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Wide shot framing two figures in a garden setting is standard coverage without immediate visual urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "\"For what?\" is a mundane conversational prompt without inherent tension or revelation.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up revealing Alexander's scarred, stoic face introduces mild character intrigue but lacks kinetic friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "\"For standing between me and those men\" reveals a recent violent confrontation and personal protection, hooking auditory curiosity.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a tearful, deeply vulnerable woman looking up conveys clear emotional distress legible without sound.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"I would do it again\" conveys quiet loyalty, functioning as a conversational rejoinder rather than an abrupt shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of intense, focused eyes conveys conviction but remains standard conversational framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"Even if there were ten of them?\" escalates the perceived danger but remains an emotional follow-up question.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of wavering lips conveys mild emotional tension without dramatic physical action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "\"As long as I draw breath... no one will hurt you again\" delivers a fierce, high-stakes protective oath.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tracking shot culminating in a rugged man dropping to one knee in the mud to take trembling, bandaged hands provides a dramatic, readable romance-trope visual hook.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"You cannot promise that\" challenges his vow with realistic fear, though it functions primarily as responsive banter.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on a tear-filled, overwhelmed face clearly broadcasts intense emotional vulnerability on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "\"I just did\" delivers a defiant, authoritative one-line punch of absolute protection.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Extreme close-up of intense, locked eyes provides sharp visual confrontation and romantic tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up insert of rugged fingers wrapping around bandaged fingers is an intimate gesture leading to fade-out, lacking explosive scroll-stop tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "\"You were bleeding last night\" immediately signals recent physical violence and danger to a cold listener.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up insert of bandaged hands dabbing a bloody, wounded knuckle with a wet cloth against firelight establishes immediate visceral drama without audio.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"So were you\" is a sharp, mutually vulnerable comeback highlighting shared trauma.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up of a scarred man gently catching a woman's wrist in warm firelight conveys compelling physical and romantic friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "\"You make it very difficult to argue with you\" is affectionate conversational banter with low standalone stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up with a faint tender smile is standard intimate conversational coverage.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"I was frightened\" admits vulnerability but lacks the shocking impact of an immediate threat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Bashful smile followed by a somber reflection in warm amber light provides gentle mood rather than high-octane visual friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "\"Of them?\" is a brief clarifying question that relies entirely on surrounding context.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a furrowed brow signals sudden concern, but remains subtle in visual framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "\"Of losing you\" is a direct, emotional confession of deep attachment and existential romantic stakes.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Direct close-up with eyes laid bare conveys stark emotional exposure instantly legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a softened, moved expression depicts an emotional reaction without dynamic action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium shot of a broad-chested man pulling a woman up into an embrace against his chest provides clear, appealing romantic visual tropes.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"Your heart is racing\" / \"So is yours\" is classic intimate banter, recognizable but mild in immediate shock value.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of faces nestled together in flickering firelight offers cozy romantic visual appeal, though with low kinetic urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"This is becoming impossible\" is mildly intriguing out of context, though delivered playfully in an embrace.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up insert of delicate fingers slowly twirling thick hair by a roaring fireplace delivers clear sensory intimacy on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "\"Soon birds will start nesting in it\" is lighthearted humorous banter with no dramatic stakes.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up of affectionate smiling is standard romantic coverage lacking conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"Not yet\" adds brief solemn mystery, but the preceding dialogue is largely playful teasing.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Man intercepting and catching a woman's wrist mid-air to press it to his chest creates noticeable physical tension on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "\"Then I will wait\" is quiet, submissive acceptance without dynamic confrontation.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up of a patient, quiet expression provides low visual contrast or scroll-stop energy.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "\"I know almost nothing about the man I married\" introduces a massive narrative hook and mystery about the male lead's true identity.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Slow cinematic pull-back of a couple locked in embrace before a roaring hearth provides evocative, high-production romance framing.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 1,
+      "specific_question": "What happened to Juliana's hands and the garden?",
+      "stakes_importance": "Low \u2014 establishes aftermath and physical distress, but functions primarily as an establishing exposition beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why is Juliana salvaging a surviving flower from the ruined planter?",
+      "stakes_importance": "Low \u2014 a quiet symbolic moment with minimal forward narrative tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 1,
+      "specific_question": "Can Juliana find hope and recovery after whatever devastation ruined her surroundings?",
+      "stakes_importance": "Low \u2014 emotional restoration beat rather than an unresolved conflict.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Alexander finish repairing the perimeter fence to secure them from danger?",
+      "stakes_importance": "Low \u2014 routine physical task establishing protection without immediate suspense.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will Alexander respond to Juliana's gratitude?",
+      "stakes_importance": "Low \u2014 conversational opening bridge between characters.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 1,
+      "specific_question": "What specific act of defense is Juliana thanking Alexander for?",
+      "stakes_importance": "Low \u2014 minor conversational curiosity that is immediately answered in standard dialogue flow.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who were the men that attacked Juliana, and why did Alexander have to risk his life to shield her?",
+      "stakes_importance": "Medium \u2014 references external threat and violence, but the tension lies in past events rather than a suspended immediate outcome.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why is Alexander willing to repeatedly put himself in mortal danger for Juliana?",
+      "stakes_importance": "Medium \u2014 deepens the protective romantic bond, though lacks an active cliffhanger hook.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "How far does Alexander's loyalty and protection truly extend when overwhelming odds threaten Juliana's life?",
+      "stakes_importance": "Medium \u2014 tests the boundaries of Alexander's devotion against lethal threats.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can this mysterious, scarred man truly protect Juliana against the powerful forces targeting her, or will this pledge lead to tragedy?",
+      "stakes_importance": "High \u2014 a solemn, knightly vow sealing their alliance in the face of violent opposition.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander stand down and acknowledge the realistic danger, or double down on his vow to defend her?",
+      "stakes_importance": "Medium \u2014 highlights Juliana's trauma and doubt over whether she can safely rely on him.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "With Alexander unyieldingly binding his fate to Juliana's defense, what dark dangers will they face next?",
+      "stakes_importance": "High \u2014 intense microdrama romantic affirmation leaving viewers captivated by their unbreakable bond.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will this budding trust protect them from the hostile enemies lurking outside their sanctuary?",
+      "stakes_importance": "Medium \u2014 scene transition ending on visual intimacy and emotional unity following a vow of defense.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 2,
+      "specific_question": "How severely was Alexander wounded in the violent clash the night before?",
+      "stakes_importance": "Medium \u2014 establishes intimate tending of wounds while hinting at the severity of recent violence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Alexander allow himself to be vulnerable and open up about his feelings and his past?",
+      "stakes_importance": "Medium \u2014 tender reciprocal care deflecting personal pain.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will their playful banter lead to an open confession of affection?",
+      "stakes_importance": "Low \u2014 playful romantic banter defusing tension rather than escalating stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 2,
+      "specific_question": "What terrifying aspect of the ambush continues to haunt Juliana?",
+      "stakes_importance": "Medium \u2014 opens a dialogue on fear, but serves primarily as a setup prompt.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 2,
+      "specific_question": "If not the violent attackers, what truly terrifies Juliana?",
+      "stakes_importance": "Medium \u2014 classic setup question, though answered immediately in natural script progression.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Alexander react to Juliana openly confessing that her greatest fear is losing him?",
+      "stakes_importance": "High \u2014 major emotional confession exposing raw romantic vulnerability between traumatized leads.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander embrace Juliana and reciprocate her deep emotional confession, or keep his emotional walls up?",
+      "stakes_importance": "High \u2014 suspended reaction beat at the precipice of romantic consummation or retreat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander and Juliana finally kiss, or will his hidden past keep them apart?",
+      "stakes_importance": "Medium \u2014 physical intimacy peak offering emotional fulfillment while leaving the romantic future open.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can their newfound mutual passion survive the inevitable consequences of Juliana's broken betrothal and enemies?",
+      "stakes_importance": "Medium \u2014 visceral mutual heartbeat revelation confirming undeniable romantic attraction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why does Juliana declare their domestic closeness to be 'becoming impossible'?",
+      "stakes_importance": "Medium \u2014 tantalizing line, but rapidly explained as light teasing about his wild hair.",
+      "defuses_tension": true,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will Juliana trim Alexander's hair?",
+      "stakes_importance": "Low \u2014 humorous domestic bantering completely defusing any dramatic tension.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why does Alexander solemnly stop Juliana and warn 'Not yet' when she touches him?",
+      "stakes_importance": "Medium \u2014 suddenly introduces physical restraint, emotional boundaries, and secret hesitation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 2,
+      "specific_question": "How long will Juliana have to wait before Alexander reveals his secrets and accepts her fully?",
+      "stakes_importance": "Medium \u2014 quiet acceptance of boundary, low immediate hook urgency.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 4,
+      "specific_question": "What seismic secrets is Alexander hiding about his real identity and past, and will discovering them destroy Juliana's faith in him?",
+      "stakes_importance": "High \u2014 directly exposes the central mystery that Juliana married an enigma whose hidden status and past threaten their future.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

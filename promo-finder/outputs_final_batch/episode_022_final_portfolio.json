@@ -1,0 +1,204 @@
+{
+  "episode_number": 22,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP022_17",
+      "absolute_rubric_score": 8.4,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B029",
+        "end_beat_id": "B034",
+        "start_time": 108.5,
+        "end_time": 131.0,
+        "duration": 22.5,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "Your Grace?",
+        "opening_character": "LADY JULIANA",
+        "rationale": "Mild respectful address ('Your Grace?')."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Will the Duchess name her assassin before she chokes to death, or will someone burst in and catch Juliana at her bedside?"
+      },
+      "situational_summary": "Rushing to the bedside of a dying noblewoman, a woman discovers the illness is not a natural fever but lethal poisoning just as the victim begins violently convulsing.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP022_05",
+      "absolute_rubric_score": 7.9,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.7
+      },
+      "mmr_score": 0.0613,
+      "max_similarity_to_selected": 0.7804,
+      "boundary": {
+        "start_beat_id": "B002",
+        "end_beat_id": "B010",
+        "start_time": 4.0,
+        "end_time": 39.8,
+        "duration": 35.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Keep your head down. If anyone recognizes you, everything is over.",
+        "opening_character": "PRUDENCE",
+        "rationale": "High-stakes warning ('If anyone recognizes you, everything is over') immediately hooks with secret-identity peril."
+      },
+      "cliffhanger": {
+        "final_quote": "Today, I am only a maid.",
+        "final_character": "LADY JULIANA",
+        "specific_question": "Will Juliana's masquerade hold up once she steps inside the household?"
+      },
+      "situational_summary": "To save a dying duchess, an aristocratic woman sneaks into a strict manor disguised as a common maid despite mortal danger of discovery.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP022_08",
+      "absolute_rubric_score": 7.8,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.5
+      },
+      "mmr_score": -0.0231,
+      "max_similarity_to_selected": 0.8152,
+      "boundary": {
+        "start_beat_id": "B012",
+        "end_beat_id": "B019",
+        "start_time": 43.0,
+        "end_time": 69.8,
+        "duration": 26.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Prudence.",
+        "opening_character": "HOUSEKEEPER",
+        "rationale": "Abrupt, suspicious challenge ('Who is this?') catches the characters off-guard."
+      },
+      "cliffhanger": {
+        "final_quote": "And can you keep your eyes and ears where they belong?",
+        "final_character": "HOUSEKEEPER",
+        "specific_question": "Does the Housekeeper suspect Juliana is an intruder or spy seeking manor secrets?"
+      },
+      "situational_summary": "A stern housekeeper intensely interrogates a disguised noblewoman posing as an inexperienced new maid to test her obedience and secrecy.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP022_16",
+      "rank": 2,
+      "recommended_boundary": "B029 -> B033",
+      "similarity": 0.9168,
+      "duplicate_of": "CAND_EP022_17",
+      "reason": "Exceeded near-duplicate threshold (0.9168 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP022_16",
+      "rank": 2,
+      "recommended_boundary": "B029 -> B033",
+      "similarity": 0.9168,
+      "duplicate_of": "CAND_EP022_17",
+      "reason": "Exceeded near-duplicate threshold (0.9168 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP022_03",
+      "rank": 5,
+      "recommended_boundary": "B002 -> B007",
+      "similarity": 0.9856,
+      "duplicate_of": "CAND_EP022_05",
+      "reason": "Exceeded near-duplicate threshold (0.9856 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP022_04",
+      "rank": 6,
+      "recommended_boundary": "B002 -> B009",
+      "similarity": 0.969,
+      "duplicate_of": "CAND_EP022_05",
+      "reason": "Exceeded near-duplicate threshold (0.9690 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP022_02",
+      "rank": 7,
+      "recommended_boundary": "B002 -> B006",
+      "similarity": 0.9606,
+      "duplicate_of": "CAND_EP022_05",
+      "reason": "Exceeded near-duplicate threshold (0.9606 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP022_16",
+      "rank": 2,
+      "recommended_boundary": "B029 -> B033",
+      "similarity": 0.9168,
+      "duplicate_of": "CAND_EP022_17",
+      "reason": "Exceeded near-duplicate threshold (0.9168 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP022_03",
+      "rank": 5,
+      "recommended_boundary": "B002 -> B007",
+      "similarity": 0.9856,
+      "duplicate_of": "CAND_EP022_05",
+      "reason": "Exceeded near-duplicate threshold (0.9856 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP022_04",
+      "rank": 6,
+      "recommended_boundary": "B002 -> B009",
+      "similarity": 0.969,
+      "duplicate_of": "CAND_EP022_05",
+      "reason": "Exceeded near-duplicate threshold (0.9690 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP022_02",
+      "rank": 7,
+      "recommended_boundary": "B002 -> B006",
+      "similarity": 0.9606,
+      "duplicate_of": "CAND_EP022_05",
+      "reason": "Exceeded near-duplicate threshold (0.9606 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP022_09",
+      "rank": 8,
+      "recommended_boundary": "B012 -> B020",
+      "similarity": 0.9626,
+      "duplicate_of": "CAND_EP022_08",
+      "reason": "Exceeded near-duplicate threshold (0.9626 >= 0.90)"
+    }
+  ]
+}

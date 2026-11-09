@@ -1,0 +1,364 @@
+{
+  "episode_number": 12,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct, authoritative arrest accusation establishing immediate high legal stakes.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual tension with the Constable raising heavy iron handcuffs directly toward the protagonist before a hearth.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Defiant denial challenging the theft accusation in defense of her husband.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Dynamic physical intervention as Juliana steps directly between the handcuffs and Alexander to shield him with her body.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Blunt factual statement confirming the evidence without an immediate rhetorical shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard close-up showing a cold facial reaction from the Constable.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly alleges a framing conspiracy with fierce emotional conviction.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Juliana's intense glare, clear emotion but standard framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Patronizing insult and direct framing confirmation labeling Alexander a beggar.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Smug villain entrance in the doorway brandishing a riding crop, legible as an arrogant aristocratic rival.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Stoic denial of guilt lacking explosive punch on its own.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Alexander's scarred, defiant brow.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Explosive confrontation with Juliana shouting 'You planted it!' and Gerald goading the couple.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High confrontation drama with Gerald pointing his riding crop and Juliana lunging forward with an accusatory finger.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Vicious verbal humiliation demeaning Alexander as a 'broken scrap of a man'.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight insert of Alexander's trembling clenched fist by the fire contrasted with Clarissa's gliding entrance.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Negotiation opening showing familiarity, lacking high auditory shock.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium close-up of Juliana narrowing her eyes.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Conversational gloating with low immediate standalone hook urgency.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard villain smile in medium close-up.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Vague bait offering an escape without specifying terms.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Insert of Clarissa smoothing her long purple glove, stylized but moderate tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Generic single-question prompt asking what the villain wants.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard reaction close-up of cautious skepticism.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Brutal, sadistic declaration of malicious intent: 'I want to see you crawl, sister.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Deliberate two-shot turn confronting the protagonist face-to-face.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Expositional setup laying out the premise of the lost ring in blackthorn briars.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Slow profile tracking shot of Clarissa pacing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Descriptive atmosphere illustrating thorns sharp as steel and frozen ice.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Clarissa theatrically flexing gloved fingers in front of her face.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Cruel, sadistic ultimatum demanding Juliana dig through steel thorns with bare hands under time pressure.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Predatory two-shot looming close into Juliana's face accompanied by Gerald's mocking laughter.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Graphic physical threat describing hands shredded to ribbons.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Gerald actively tapping his whip against his palm while laughing beside the law.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Transactional conditional offering to withdraw charges.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Three-shot positioning Clarissa behind Juliana as Alexander watches helplessly.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Lethal life-or-death ultimatum explicitly threatening the husband with hanging on the gallows.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Intense extreme close-up of Clarissa's mouth whispering directly into Juliana's ear.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Emotional plea from the husband urging his wife not to endure harm for him.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tender physical contact with Alexander's scarred hand resting on Juliana's shoulder in protective support.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Fierce sacrificial resolve refusing to let him be taken and demanding the garden location.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tearful agony shifting to fierce defiance with Juliana clutching her heart, then locking eyes with Clarissa in a freeze-frame standoff.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander be dragged away in iron handcuffs, or can he prove his innocence against the Constable's theft accusation?",
+      "stakes_importance": "Medium \u2014 establishes imminent legal danger and arrest threat against the male lead.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana stop the Constable from seizing Alexander, and how did the stolen watch end up in his coat?",
+      "stakes_importance": "Medium \u2014 shows physical intervention and marital loyalty in the face of legal peril.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Juliana refute the Constable's direct claim that he discovered the watch himself?",
+      "stakes_importance": "Low \u2014 mid-interrogation rebuttal with standard procedural pushback.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "Who framed Alexander with the stolen watch, and will the Constable investigate Juliana's claim?",
+      "stakes_importance": "Medium \u2014 raises the stakes from a simple theft charge to an active framing conspiracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why is Gerald showing up at their cottage to gloat over Alexander's arrest, and how will Juliana retaliate?",
+      "stakes_importance": "High \u2014 surprise arrival of the cruel ex-groom weaponizing the law to crush his rival.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Gerald accept Alexander's denial or press the Constable to haul him off immediately?",
+      "stakes_importance": "Low \u2014 routine denial of guilt from an accused character.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Gerald strike or arrest Juliana for lunging forward and directly accusing him of planting the watch?",
+      "stakes_importance": "High \u2014 direct, explosive confrontation accusing the powerful antagonist of an orchestrated frame-up.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander snap and physically attack Clarissa or Gerald over the degrading insult to his dignity?",
+      "stakes_importance": "High \u2014 malicious sister taunting Alexander's war trauma, pushing him to the brink of physical violence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "What ruthless extortion or demand will Clarissa demand in exchange for sparing Alexander?",
+      "stakes_importance": "Medium \u2014 shifts the conflict into negotiation, setting up Clarissa's extortion trap.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 2,
+      "specific_question": "What twisted escape route is Clarissa preparing to offer her sister?",
+      "stakes_importance": "Low \u2014 transitional dialogue teasing an upcoming proposition.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "What sadistic trap or condition will Clarissa attach to her offer of escape?",
+      "stakes_importance": "Medium \u2014 sets up a predatory bargain before revealing the terms.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 2,
+      "specific_question": "What price will Clarissa demand from Juliana?",
+      "stakes_importance": "Low \u2014 brief question beat serving as a setup for the villain's demand.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 4,
+      "specific_question": "What cruel humiliation will Clarissa force Juliana to endure to satisfy her hatred?",
+      "stakes_importance": "High \u2014 raw declaration of sadistic sibling vengeance and psychological warfare.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "What ordeal is Clarissa plotting involving the frozen blackthorn briars at Ashworth Manor?",
+      "stakes_importance": "Medium \u2014 builds foreboding atmosphere around a torturous setting.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 2,
+      "specific_question": "How does Clarissa plan to use the steel-sharp frozen briars against Juliana?",
+      "stakes_importance": "Low \u2014 descriptive continuation mid-sentence before the demand is dropped.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana subject her bare hands to the razor thorns, or let Alexander be dragged before the magistrate?",
+      "stakes_importance": "High \u2014 demands physical self-mutilation as the price for her husband's freedom.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana surrender her dignity and body to Gerald and Clarissa's sadistic amusement?",
+      "stakes_importance": "High \u2014 reinforces the severe bodily mutilation at stake while antagonists mock her.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana accept the bargain under the promise that charges against Alexander will be dropped?",
+      "stakes_importance": "Medium \u2014 formal terms of the predatory deal established.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana sacrifice her hands to the razor briars, or watch Alexander hang from the gallows?",
+      "stakes_importance": "High \u2014 life-or-death ultimatum posing an agonizing moral dilemma under whisper-close psychological terror.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana obey Alexander's plea to protect herself, or defy him to save him from execution?",
+      "stakes_importance": "High \u2014 emotional conflict between spouses: sacrificial chivalry versus protective wifely devotion.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Juliana endure the agonizing briars and recover the ring before Alexander is sent to the gallows?",
+      "stakes_importance": "High \u2014 heroic turning point where the heroine embraces torture and sacrifice to protect the man she loves.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

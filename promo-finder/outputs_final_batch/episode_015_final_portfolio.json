@@ -1,0 +1,227 @@
+{
+  "episode_number": 15,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP015_09",
+      "absolute_rubric_score": 9.0,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B014",
+        "end_beat_id": "B026",
+        "start_time": 44.2,
+        "end_time": 86.0,
+        "duration": 41.8,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "Get out of the way!",
+        "opening_character": "THUG WITH CAP",
+        "rationale": "A sharp, aggressive verbal threat ('Get out of the way!') escalates imminent violence."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Can Alexander slaughter or repel all three armed thugs before Juliana suffers further injury?"
+      },
+      "situational_summary": "Armed thugs shove an injured woman to the ground to destroy her garden until an enraged protector steps in to shield her from imminent violence.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP015_03",
+      "absolute_rubric_score": 8.9,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.1363,
+      "max_similarity_to_selected": 0.7834,
+      "boundary": {
+        "start_beat_id": "B004",
+        "end_beat_id": "B019",
+        "start_time": 7.5,
+        "end_time": 62.0,
+        "duration": 54.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Stop! What are you doing?!",
+        "opening_character": "JULIANA",
+        "rationale": "Juliana's sudden shout ('Stop! What are you doing?!') immediately signals an active crisis and active dispute."
+      },
+      "cliffhanger": {
+        "final_quote": "Stop!",
+        "final_character": "JULIANA",
+        "specific_question": "Will the raised club crush the final heirloom plants and strike the defenseless Juliana?"
+      },
+      "situational_summary": "After bursting outside to defend her medicinal garden from sneering vandals, a young woman is violently shoved to the ground and threatened with a club as her bandaged hands bleed into the mud.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP015_07",
+      "absolute_rubric_score": 8.7,
+      "subscores": {
+        "hook_score": 1.8,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.0535,
+      "max_similarity_to_selected": 0.8316,
+      "boundary": {
+        "start_beat_id": "B008",
+        "end_beat_id": "B019",
+        "start_time": 22.5,
+        "end_time": 62.0,
+        "duration": 39.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Please! Those plants took months to grow!",
+        "opening_character": "JULIANA",
+        "rationale": "A desperate plea on knees ('Please! Those plants took months to grow!') conveys urgent, vulnerable distress."
+      },
+      "cliffhanger": {
+        "final_quote": "Stop!",
+        "final_character": "JULIANA",
+        "specific_question": "Will the raised club crush the final heirloom plants and strike the defenseless Juliana?"
+      },
+      "situational_summary": "A desperate woman begs sneering thugs to spare her mother's garden, suffering a violent shove before a club is raised to finish destroying it.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP015_01",
+      "absolute_rubric_score": 8.7,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.0,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.0096,
+      "max_similarity_to_selected": 0.8361,
+      "boundary": {
+        "start_beat_id": "B002",
+        "end_beat_id": "B019",
+        "start_time": 3.5,
+        "end_time": 62.0,
+        "duration": 58.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Stop!",
+        "final_character": "JULIANA",
+        "specific_question": "Will the raised club crush the final heirloom plants and strike the defenseless Juliana?"
+      },
+      "situational_summary": "A injured young woman tries to protect her family garden from three ruthless thugs who mock her, shove her into the mud, and threaten to smash the remaining plants.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP015_13",
+      "absolute_rubric_score": 8.5,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.3
+      },
+      "mmr_score": -0.0752,
+      "max_similarity_to_selected": 0.8461,
+      "boundary": {
+        "start_beat_id": "B015",
+        "end_beat_id": "B026",
+        "start_time": 46.5,
+        "end_time": 86.0,
+        "duration": 39.5,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "No.",
+        "opening_character": "JULIANA",
+        "rationale": "A single defiant 'No' followed by a pain cry ('Ah!') is brief vocal reaction rather than an elaborate verbal hook."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Can Alexander slaughter or repel all three armed thugs before Juliana suffers further injury?"
+      },
+      "situational_summary": "After three thugs violently shove an injured young woman and threaten to destroy her mother's plants, a furious protector emerges from the mist to defend her.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP015_02",
+      "rank": 9,
+      "recommended_boundary": "B004 -> B014",
+      "similarity": 0.9618,
+      "duplicate_of": "CAND_EP015_03",
+      "reason": "Exceeded near-duplicate threshold (0.9618 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP015_08",
+      "rank": 6,
+      "recommended_boundary": "B008 -> B020",
+      "similarity": 0.9732,
+      "duplicate_of": "CAND_EP015_07",
+      "reason": "Exceeded near-duplicate threshold (0.9732 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP015_02",
+      "rank": 9,
+      "recommended_boundary": "B004 -> B014",
+      "similarity": 0.9618,
+      "duplicate_of": "CAND_EP015_03",
+      "reason": "Exceeded near-duplicate threshold (0.9618 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP015_08",
+      "rank": 6,
+      "recommended_boundary": "B008 -> B020",
+      "similarity": 0.9732,
+      "duplicate_of": "CAND_EP015_07",
+      "reason": "Exceeded near-duplicate threshold (0.9732 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP015_02",
+      "rank": 9,
+      "recommended_boundary": "B004 -> B014",
+      "similarity": 0.9618,
+      "duplicate_of": "CAND_EP015_03",
+      "reason": "Exceeded near-duplicate threshold (0.9618 >= 0.90)"
+    }
+  ]
+}

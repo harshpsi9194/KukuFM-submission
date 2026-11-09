@@ -1,0 +1,256 @@
+{
+  "episode_number": 14,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP014_02",
+      "absolute_rubric_score": 9.3,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B007",
+        "start_time": 0.0,
+        "end_time": 25.5,
+        "duration": 25.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "What have they done to you?",
+        "final_character": "ALEXANDER",
+        "specific_question": "Who forced Juliana to tear her hands apart in the briars, and how will Alexander make them pay?"
+      },
+      "situational_summary": "A woman exchanges an ornate ring she retrieved from briars to free her imprisoned husband, who turns furious upon discovering her mutilated hands.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP014_10",
+      "absolute_rubric_score": 7.6,
+      "subscores": {
+        "hook_score": 1.6,
+        "tension_score": 1.8,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.0
+      },
+      "mmr_score": -0.0228,
+      "max_similarity_to_selected": 0.7491,
+      "boundary": {
+        "start_beat_id": "B013",
+        "end_beat_id": "B022",
+        "start_time": 43.5,
+        "end_time": 87.63,
+        "duration": 44.13,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "You could have lost your hands.",
+        "opening_character": "ALEXANDER",
+        "rationale": "'You could have lost your hands' frames the sacrifice in extreme physical terms."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "What ruthless vengeance is Alexander preparing to unleash upon those who made his wife bleed?"
+      },
+      "situational_summary": "While tenderly tending to a woman's badly injured hands by a fireplace, a man vows that no one will ever hurt her for protecting him again as he clenches his fist in vengeance.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP014_06",
+      "absolute_rubric_score": 7.0,
+      "subscores": {
+        "hook_score": 1.8,
+        "tension_score": 1.9,
+        "cliffhanger_score": 1.4,
+        "resonance_score": 1.9
+      },
+      "mmr_score": -0.1539,
+      "max_similarity_to_selected": 0.6913,
+      "boundary": {
+        "start_beat_id": "B003",
+        "end_beat_id": "B010",
+        "start_time": 9.5,
+        "end_time": 38.5,
+        "duration": 29.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Now release my husband.",
+        "opening_character": "JULIANA",
+        "rationale": "High-stakes demand 'Now release my husband' directly exposes acute legal jeopardy, ransom dynamic, and marital devotion."
+      },
+      "cliffhanger": {
+        "final_quote": "You should never have had to bleed for me.",
+        "final_character": "ALEXANDER",
+        "specific_question": "What retribution will Alexander seek against those who forced Juliana to bleed for him?"
+      },
+      "situational_summary": "A bloodied wife surrenders a ring to a police officer to secure her shackled husband's release, leading to an emotional reunion where he discovers her severe wounds.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP014_09",
+      "absolute_rubric_score": 6.4,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 1.6,
+        "cliffhanger_score": 1.3,
+        "resonance_score": 1.8
+      },
+      "mmr_score": -0.2945,
+      "max_similarity_to_selected": 0.829,
+      "boundary": {
+        "start_beat_id": "B006",
+        "end_beat_id": "B010",
+        "start_time": 18.5,
+        "end_time": 38.5,
+        "duration": 20.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "You should never have had to bleed for me.",
+        "final_character": "ALEXANDER",
+        "specific_question": "What retribution will Alexander seek against those who forced Juliana to bleed for him?"
+      },
+      "situational_summary": "A devastated man inspects a woman's bloody, lacerated hands in the cold mist before gently lifting her bridal-style and swearing she should never have had to bleed for him.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP014_03",
+      "rank": 2,
+      "recommended_boundary": "B001 -> B008",
+      "similarity": 0.9305,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9305 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP014_01",
+      "rank": 3,
+      "recommended_boundary": "B001 -> B006",
+      "similarity": 0.9582,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9582 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP014_04",
+      "rank": 5,
+      "recommended_boundary": "B001 -> B010",
+      "similarity": 0.9503,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9503 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP014_03",
+      "rank": 2,
+      "recommended_boundary": "B001 -> B008",
+      "similarity": 0.9305,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9305 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP014_01",
+      "rank": 3,
+      "recommended_boundary": "B001 -> B006",
+      "similarity": 0.9582,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9582 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP014_04",
+      "rank": 5,
+      "recommended_boundary": "B001 -> B010",
+      "similarity": 0.9503,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9503 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP014_03",
+      "rank": 2,
+      "recommended_boundary": "B001 -> B008",
+      "similarity": 0.9305,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9305 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP014_01",
+      "rank": 3,
+      "recommended_boundary": "B001 -> B006",
+      "similarity": 0.9582,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9582 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP014_04",
+      "rank": 5,
+      "recommended_boundary": "B001 -> B010",
+      "similarity": 0.9503,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9503 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP014_03",
+      "rank": 2,
+      "recommended_boundary": "B001 -> B008",
+      "similarity": 0.9305,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9305 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP014_01",
+      "rank": 3,
+      "recommended_boundary": "B001 -> B006",
+      "similarity": 0.9582,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9582 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP014_04",
+      "rank": 5,
+      "recommended_boundary": "B001 -> B010",
+      "similarity": 0.9503,
+      "duplicate_of": "CAND_EP014_02",
+      "reason": "Exceeded near-duplicate threshold (0.9503 >= 0.90)"
+    }
+  ]
+}

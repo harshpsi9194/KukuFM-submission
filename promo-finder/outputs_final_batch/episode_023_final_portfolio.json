@@ -1,0 +1,364 @@
+{
+  "episode_number": 23,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP023_10",
+      "absolute_rubric_score": 9.7,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.5,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B024",
+        "end_beat_id": "B037",
+        "start_time": 78.5,
+        "end_time": 131.5,
+        "duration": 53.0,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "Someone is poisoning her.",
+        "opening_character": "LADY JULIANA",
+        "rationale": "Explosive, lethal revelation delivering instant high stakes: 'Someone is poisoning her.'"
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Who is stepping through the opening door to catch Juliana holding the poison antidote over the dying Duchess?"
+      },
+      "situational_summary": "After identifying that the bedridden Duchess is being poisoned with arsenic, a woman prepares an emergency antidote just as the chamber door handle turns.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP023_14",
+      "absolute_rubric_score": 9.2,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.1
+      },
+      "mmr_score": 0.0846,
+      "max_similarity_to_selected": 0.812,
+      "boundary": {
+        "start_beat_id": "B032",
+        "end_beat_id": "B037",
+        "start_time": 104.5,
+        "end_time": 131.5,
+        "duration": 27.0,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "The charcoal may help remove what is still inside her. We must act quickly.",
+        "opening_character": "LADY JULIANA",
+        "rationale": "Urgent life-or-death race against time: 'The charcoal may help remove what is still inside her. We must act quickly.'"
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Who is stepping through the opening door to catch Juliana holding the poison antidote over the dying Duchess?"
+      },
+      "situational_summary": "While hastily grinding charcoal to purge poison from a gasping patient, a healer freezes in panic as an intruder turns the chamber door handle.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP023_04",
+      "absolute_rubric_score": 7.7,
+      "subscores": {
+        "hook_score": 1.2,
+        "tension_score": 2.0,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.2
+      },
+      "mmr_score": -0.1533,
+      "max_similarity_to_selected": 0.7851,
+      "boundary": {
+        "start_beat_id": "B010",
+        "end_beat_id": "B027",
+        "start_time": 36.0,
+        "end_time": 91.0,
+        "duration": 55.0,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present; includes only sound effects of labored breathing."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Is the Duchess suffering her final death throes from the arsenic right now?"
+      },
+      "situational_summary": "After diagnosing that a dying matriarch is secretly being poisoned with arsenic, the investigator watches in horror as the victim begins violently choking and convulsing.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP023_13",
+      "absolute_rubric_score": 7.6,
+      "subscores": {
+        "hook_score": 1.3,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.0
+      },
+      "mmr_score": -0.2177,
+      "max_similarity_to_selected": 0.817,
+      "boundary": {
+        "start_beat_id": "B027",
+        "end_beat_id": "B036",
+        "start_time": 88.0,
+        "end_time": 127.5,
+        "duration": 39.5,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present; contains only coughing sound effects."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Will Juliana administer the unfinished antidote to save the Duchess or conceal herself before the intruder steps in?"
+      },
+      "situational_summary": "A woman urgently prepares an herbal antidote to treat a choking Duchess before an ominous intruder bursts into the bedchamber.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP023_07",
+      "rank": 2,
+      "recommended_boundary": "B024 -> B034",
+      "similarity": 0.9485,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9485 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP023_09",
+      "rank": 4,
+      "recommended_boundary": "B024 -> B036",
+      "similarity": 0.9697,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9697 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP023_08",
+      "rank": 5,
+      "recommended_boundary": "B024 -> B035",
+      "similarity": 0.9108,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9108 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP023_06",
+      "rank": 6,
+      "recommended_boundary": "B024 -> B033",
+      "similarity": 0.9503,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9503 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP023_05",
+      "rank": 7,
+      "recommended_boundary": "B024 -> B032",
+      "similarity": 0.9616,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9616 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP023_07",
+      "rank": 2,
+      "recommended_boundary": "B024 -> B034",
+      "similarity": 0.9485,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9485 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP023_09",
+      "rank": 4,
+      "recommended_boundary": "B024 -> B036",
+      "similarity": 0.9697,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9697 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP023_08",
+      "rank": 5,
+      "recommended_boundary": "B024 -> B035",
+      "similarity": 0.9108,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9108 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP023_06",
+      "rank": 6,
+      "recommended_boundary": "B024 -> B033",
+      "similarity": 0.9503,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9503 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP023_05",
+      "rank": 7,
+      "recommended_boundary": "B024 -> B032",
+      "similarity": 0.9616,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9616 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP023_07",
+      "rank": 2,
+      "recommended_boundary": "B024 -> B034",
+      "similarity": 0.9485,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9485 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP023_09",
+      "rank": 4,
+      "recommended_boundary": "B024 -> B036",
+      "similarity": 0.9697,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9697 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP023_08",
+      "rank": 5,
+      "recommended_boundary": "B024 -> B035",
+      "similarity": 0.9108,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9108 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP023_06",
+      "rank": 6,
+      "recommended_boundary": "B024 -> B033",
+      "similarity": 0.9503,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9503 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP023_05",
+      "rank": 7,
+      "recommended_boundary": "B024 -> B032",
+      "similarity": 0.9616,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9616 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP023_03",
+      "rank": 10,
+      "recommended_boundary": "B010 -> B026",
+      "similarity": 0.972,
+      "duplicate_of": "CAND_EP023_04",
+      "reason": "Exceeded near-duplicate threshold (0.9720 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP023_02",
+      "rank": 11,
+      "recommended_boundary": "B010 -> B024",
+      "similarity": 0.9158,
+      "duplicate_of": "CAND_EP023_04",
+      "reason": "Exceeded near-duplicate threshold (0.9158 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP023_07",
+      "rank": 2,
+      "recommended_boundary": "B024 -> B034",
+      "similarity": 0.9485,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9485 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP023_09",
+      "rank": 4,
+      "recommended_boundary": "B024 -> B036",
+      "similarity": 0.9697,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9697 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP023_08",
+      "rank": 5,
+      "recommended_boundary": "B024 -> B035",
+      "similarity": 0.9108,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9108 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP023_06",
+      "rank": 6,
+      "recommended_boundary": "B024 -> B033",
+      "similarity": 0.9503,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9503 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP023_05",
+      "rank": 7,
+      "recommended_boundary": "B024 -> B032",
+      "similarity": 0.9616,
+      "duplicate_of": "CAND_EP023_10",
+      "reason": "Exceeded near-duplicate threshold (0.9616 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP023_03",
+      "rank": 10,
+      "recommended_boundary": "B010 -> B026",
+      "similarity": 0.972,
+      "duplicate_of": "CAND_EP023_04",
+      "reason": "Exceeded near-duplicate threshold (0.9720 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP023_02",
+      "rank": 11,
+      "recommended_boundary": "B010 -> B024",
+      "similarity": 0.9158,
+      "duplicate_of": "CAND_EP023_04",
+      "reason": "Exceeded near-duplicate threshold (0.9158 >= 0.90)"
+    }
+  ]
+}

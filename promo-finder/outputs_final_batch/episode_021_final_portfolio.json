@@ -1,0 +1,326 @@
+{
+  "episode_number": 21,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP021_02",
+      "absolute_rubric_score": 9.1,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B002",
+        "end_beat_id": "B006",
+        "start_time": 3.5,
+        "end_time": 35.8,
+        "duration": 32.3,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Lady Juliana! Please! You have to help me, Toby is dying!",
+        "opening_character": "PRUDENCE",
+        "rationale": "Prudence's frantic cry ('Lady Juliana! Please! You have to help me, Toby is dying!') instantly introduces life-or-death stakes."
+      },
+      "cliffhanger": {
+        "final_quote": "He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!",
+        "final_character": "PRUDENCE",
+        "specific_question": "Will Lady Juliana take on the desperate plea to save Toby or refuse due to her ruined circumstances?"
+      },
+      "situational_summary": "A desperate village girl begs on her knees for a ruined healer to save her dying seven-year-old brother after cruel town doctors refuse him care.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP021_14",
+      "absolute_rubric_score": 8.0,
+      "subscores": {
+        "hook_score": 1.3,
+        "tension_score": 2.0,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0952,
+      "max_similarity_to_selected": 0.7885,
+      "boundary": {
+        "start_beat_id": "B011",
+        "end_beat_id": "B023",
+        "start_time": 48.8,
+        "end_time": 108.5,
+        "duration": 59.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Prudence, fetch hot water immediately!",
+        "opening_character": "LADY JULIANA",
+        "rationale": "Standard emergency procedural command ('Prudence, fetch hot water immediately!')."
+      },
+      "cliffhanger": {
+        "final_quote": "Inside that massive house with all their wealth, she is fading to nothing, and no one can stop it.",
+        "final_character": "PRUDENCE",
+        "specific_question": "What is the strange illness destroying the Dowager Duchess, and why are all manor doctors powerless against it?"
+      },
+      "situational_summary": "Lady Juliana saves a poor suffocating boy using folk herbal remedies, only to be told that an untreatable, mysterious illness is slowly killing the wealthy Dowager Duchess.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP021_10",
+      "absolute_rubric_score": 6.8,
+      "subscores": {
+        "hook_score": 1.2,
+        "tension_score": 1.8,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 1.6
+      },
+      "mmr_score": -0.1159,
+      "max_similarity_to_selected": 0.813,
+      "boundary": {
+        "start_beat_id": "B010",
+        "end_beat_id": "B021",
+        "start_time": 45.5,
+        "end_time": 99.2,
+        "duration": 53.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "His skin is burning hot.",
+        "opening_character": "LADY JULIANA",
+        "rationale": "States an alarming medical symptom ('His skin is burning hot.'), but functions primarily as clinical observation."
+      },
+      "cliffhanger": {
+        "final_quote": "What do you mean? Is someone ill? The Dowager Duchess?",
+        "final_character": "LADY JULIANA",
+        "specific_question": "Has something catastrophic happened to the Dowager Duchess?"
+      },
+      "situational_summary": "Lady Juliana consults a herbal ledger to administer steam treatment to a feverish young boy, saving his life before being tipped off about illness at the manor.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP021_09",
+      "absolute_rubric_score": 6.3,
+      "subscores": {
+        "hook_score": 0.8,
+        "tension_score": 1.7,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 1.6
+      },
+      "mmr_score": -0.149,
+      "max_similarity_to_selected": 0.7755,
+      "boundary": {
+        "start_beat_id": "B009",
+        "end_beat_id": "B021",
+        "start_time": 42.8,
+        "end_time": 99.2,
+        "duration": 56.4,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "What do you mean? Is someone ill? The Dowager Duchess?",
+        "final_character": "LADY JULIANA",
+        "specific_question": "Has something catastrophic happened to the Dowager Duchess?"
+      },
+      "situational_summary": "A noblewoman rushes to save a poor choking child with herbal remedies, and after reviving him, learns that a mysterious sickness may also be afflicting the grand manor.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP021_06",
+      "absolute_rubric_score": 4.6,
+      "subscores": {
+        "hook_score": 0.8,
+        "tension_score": 1.4,
+        "cliffhanger_score": 1.3,
+        "resonance_score": 1.1
+      },
+      "mmr_score": -0.3544,
+      "max_similarity_to_selected": 0.8987,
+      "boundary": {
+        "start_beat_id": "B009",
+        "end_beat_id": "B014",
+        "start_time": 42.8,
+        "end_time": 64.5,
+        "duration": 21.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Lift his shoulders, Prudence. Hold the steam close. Let him inhale.",
+        "final_character": "LADY JULIANA",
+        "specific_question": "Will Toby inhale the herbal steam and begin to clear his blocked airway?"
+      },
+      "situational_summary": "A determined herbalist rushes to the bedside of a feverish, coughing young boy to prepare and administer a steaming herbal remedy before his airway closes.",
+      "emotional_salience_score": 3,
+      "spoiler_level": 0
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP021_01",
+      "rank": 2,
+      "recommended_boundary": "B002 -> B005",
+      "similarity": 0.9857,
+      "duplicate_of": "CAND_EP021_02",
+      "reason": "Exceeded near-duplicate threshold (0.9857 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP021_03",
+      "rank": 4,
+      "recommended_boundary": "B002 -> B007",
+      "similarity": 0.9919,
+      "duplicate_of": "CAND_EP021_02",
+      "reason": "Exceeded near-duplicate threshold (0.9919 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP021_01",
+      "rank": 2,
+      "recommended_boundary": "B002 -> B005",
+      "similarity": 0.9857,
+      "duplicate_of": "CAND_EP021_02",
+      "reason": "Exceeded near-duplicate threshold (0.9857 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP021_03",
+      "rank": 4,
+      "recommended_boundary": "B002 -> B007",
+      "similarity": 0.9919,
+      "duplicate_of": "CAND_EP021_02",
+      "reason": "Exceeded near-duplicate threshold (0.9919 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP021_13",
+      "rank": 5,
+      "recommended_boundary": "B011 -> B022",
+      "similarity": 0.9792,
+      "duplicate_of": "CAND_EP021_14",
+      "reason": "Exceeded near-duplicate threshold (0.9792 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP021_12",
+      "rank": 6,
+      "recommended_boundary": "B011 -> B021",
+      "similarity": 0.9648,
+      "duplicate_of": "CAND_EP021_14",
+      "reason": "Exceeded near-duplicate threshold (0.9648 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP021_01",
+      "rank": 2,
+      "recommended_boundary": "B002 -> B005",
+      "similarity": 0.9857,
+      "duplicate_of": "CAND_EP021_02",
+      "reason": "Exceeded near-duplicate threshold (0.9857 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP021_03",
+      "rank": 4,
+      "recommended_boundary": "B002 -> B007",
+      "similarity": 0.9919,
+      "duplicate_of": "CAND_EP021_02",
+      "reason": "Exceeded near-duplicate threshold (0.9919 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP021_13",
+      "rank": 5,
+      "recommended_boundary": "B011 -> B022",
+      "similarity": 0.9792,
+      "duplicate_of": "CAND_EP021_14",
+      "reason": "Exceeded near-duplicate threshold (0.9792 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP021_12",
+      "rank": 6,
+      "recommended_boundary": "B011 -> B021",
+      "similarity": 0.9648,
+      "duplicate_of": "CAND_EP021_14",
+      "reason": "Exceeded near-duplicate threshold (0.9648 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP021_01",
+      "rank": 2,
+      "recommended_boundary": "B002 -> B005",
+      "similarity": 0.9857,
+      "duplicate_of": "CAND_EP021_02",
+      "reason": "Exceeded near-duplicate threshold (0.9857 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP021_03",
+      "rank": 4,
+      "recommended_boundary": "B002 -> B007",
+      "similarity": 0.9919,
+      "duplicate_of": "CAND_EP021_02",
+      "reason": "Exceeded near-duplicate threshold (0.9919 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP021_13",
+      "rank": 5,
+      "recommended_boundary": "B011 -> B022",
+      "similarity": 0.9792,
+      "duplicate_of": "CAND_EP021_14",
+      "reason": "Exceeded near-duplicate threshold (0.9792 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP021_12",
+      "rank": 6,
+      "recommended_boundary": "B011 -> B021",
+      "similarity": 0.9648,
+      "duplicate_of": "CAND_EP021_14",
+      "reason": "Exceeded near-duplicate threshold (0.9648 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP021_08",
+      "rank": 9,
+      "recommended_boundary": "B009 -> B016",
+      "similarity": 0.9007,
+      "duplicate_of": "CAND_EP021_09",
+      "reason": "Exceeded near-duplicate threshold (0.9007 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP021_07",
+      "rank": 10,
+      "recommended_boundary": "B009 -> B015",
+      "similarity": 0.9317,
+      "duplicate_of": "CAND_EP021_09",
+      "reason": "Exceeded near-duplicate threshold (0.9317 >= 0.90)"
+    }
+  ]
+}

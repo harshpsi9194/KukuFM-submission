@@ -1,0 +1,3846 @@
+{
+  "episode_number": 3,
+  "total_shortlist_candidates": 56,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP003_01",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 22.8,
+      "duration": 22.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Direct, spiteful confrontation mocking Juliana's worth and clinging to her mother's locket.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama establishing the premise on mute: an abandoned bride in white clutching her medallion beside a gloating rival in gold.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana retaliate or break down after her sister gloatingly claims her wedding and fianc\u00e9?",
+        "stakes_importance": "High \u2014 total public theft of Juliana's life partner and status in front of the congregation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B001",
+          "end_beat_id": "B007",
+          "start_time": 0.0,
+          "end_time": 22.8,
+          "duration": 22.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.878
+    },
+    {
+      "candidate_id": "CAND_EP003_06",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B008",
+      "end_beat_id": "B018",
+      "start_time": 22.8,
+      "end_time": 58.2,
+      "duration": 35.4,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Authoritative interjection shutting down Juliana with high family stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle entrance of an imperious matriarch in black velvet and tiara instantly establishes an imposing antagonist on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana be completely disowned and cast into the streets right now?",
+        "stakes_importance": "High \u2014 formal disownment and exclusion from the family lineage.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B008",
+          "end_beat_id": "B018",
+          "start_time": 22.8,
+          "end_time": 58.2,
+          "duration": 35.4,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.996
+    },
+    {
+      "candidate_id": "CAND_EP003_07",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B008",
+      "end_beat_id": "B019",
+      "start_time": 22.8,
+      "end_time": 60.0,
+      "duration": 37.2,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Authoritative interjection shutting down Juliana with high family stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle entrance of an imperious matriarch in black velvet and tiara instantly establishes an imposing antagonist on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana be violently dragged out into the streets, or will someone intervene?",
+        "stakes_importance": "High \u2014 imminent physical removal and ultimate public humiliation ordered.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B008",
+          "end_beat_id": "B019",
+          "start_time": 22.8,
+          "end_time": 60.0,
+          "duration": 37.2,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.978
+    },
+    {
+      "candidate_id": "CAND_EP003_08",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B008",
+      "end_beat_id": "B020",
+      "start_time": 22.8,
+      "end_time": 64.5,
+      "duration": 41.7,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Authoritative interjection shutting down Juliana with high family stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle entrance of an imperious matriarch in black velvet and tiara instantly establishes an imposing antagonist on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will anyone in the cathedral answer Juliana's desperate cry for help before she is dragged away?",
+        "stakes_importance": "High \u2014 peak physical distress as guards rip her hands from the pew.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B008",
+          "end_beat_id": "B020",
+          "start_time": 22.8,
+          "end_time": 64.5,
+          "duration": 41.7,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.933
+    },
+    {
+      "candidate_id": "CAND_EP003_12",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B009",
+      "end_beat_id": "B018",
+      "start_time": 25.8,
+      "end_time": 58.2,
+      "duration": 32.4,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Severe public accusation and familial rejection: 'You have humiliated this family enough for one day.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Conventional medium close-up of an elder scowling with cold contempt.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana be completely disowned and cast into the streets right now?",
+        "stakes_importance": "High \u2014 formal disownment and exclusion from the family lineage.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B009",
+          "end_beat_id": "B018",
+          "start_time": 25.8,
+          "end_time": 58.2,
+          "duration": 32.4,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.974
+    },
+    {
+      "candidate_id": "CAND_EP003_13",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B009",
+      "end_beat_id": "B019",
+      "start_time": 25.8,
+      "end_time": 60.0,
+      "duration": 34.2,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Severe public accusation and familial rejection: 'You have humiliated this family enough for one day.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Conventional medium close-up of an elder scowling with cold contempt.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana be violently dragged out into the streets, or will someone intervene?",
+        "stakes_importance": "High \u2014 imminent physical removal and ultimate public humiliation ordered.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B009",
+          "end_beat_id": "B019",
+          "start_time": 25.8,
+          "end_time": 60.0,
+          "duration": 34.2,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.992
+    },
+    {
+      "candidate_id": "CAND_EP003_14",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B009",
+      "end_beat_id": "B020",
+      "start_time": 25.8,
+      "end_time": 64.5,
+      "duration": 38.7,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Severe public accusation and familial rejection: 'You have humiliated this family enough for one day.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Conventional medium close-up of an elder scowling with cold contempt.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will anyone in the cathedral answer Juliana's desperate cry for help before she is dragged away?",
+        "stakes_importance": "High \u2014 peak physical distress as guards rip her hands from the pew.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B009",
+          "end_beat_id": "B020",
+          "start_time": 25.8,
+          "end_time": 64.5,
+          "duration": 38.7,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.963
+    },
+    {
+      "candidate_id": "CAND_EP003_23",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B011",
+      "end_beat_id": "B018",
+      "start_time": 30.3,
+      "end_time": 58.2,
+      "duration": 27.9,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes emotional confrontation exposing fatherly abandonment and desperate vulnerability ('And what happens to me?').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Standard shot-reverse-shot conversational coverage of Juliana and the matriarch.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana be completely disowned and cast into the streets right now?",
+        "stakes_importance": "High \u2014 formal disownment and exclusion from the family lineage.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B011",
+          "end_beat_id": "B018",
+          "start_time": 30.3,
+          "end_time": 58.2,
+          "duration": 27.9,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.929
+    },
+    {
+      "candidate_id": "CAND_EP003_24",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B011",
+      "end_beat_id": "B019",
+      "start_time": 30.3,
+      "end_time": 60.0,
+      "duration": 29.7,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes emotional confrontation exposing fatherly abandonment and desperate vulnerability ('And what happens to me?').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Standard shot-reverse-shot conversational coverage of Juliana and the matriarch.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana be violently dragged out into the streets, or will someone intervene?",
+        "stakes_importance": "High \u2014 imminent physical removal and ultimate public humiliation ordered.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B011",
+          "end_beat_id": "B019",
+          "start_time": 30.3,
+          "end_time": 60.0,
+          "duration": 29.7,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.947
+    },
+    {
+      "candidate_id": "CAND_EP003_25",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B011",
+      "end_beat_id": "B020",
+      "start_time": 30.3,
+      "end_time": 64.5,
+      "duration": 34.2,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes emotional confrontation exposing fatherly abandonment and desperate vulnerability ('And what happens to me?').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Standard shot-reverse-shot conversational coverage of Juliana and the matriarch.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will anyone in the cathedral answer Juliana's desperate cry for help before she is dragged away?",
+        "stakes_importance": "High \u2014 peak physical distress as guards rip her hands from the pew.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B011",
+          "end_beat_id": "B020",
+          "start_time": 30.3,
+          "end_time": 64.5,
+          "duration": 34.2,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.992
+    },
+    {
+      "candidate_id": "CAND_EP003_26",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B012",
+      "end_beat_id": "B020",
+      "start_time": 40.4,
+      "end_time": 64.5,
+      "duration": 24.1,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Brutal, uncompromising two-word verdict casting her out: 'You leave.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Standard close-up delivery without physical movement or unique visual staging.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will anyone in the cathedral answer Juliana's desperate cry for help before she is dragged away?",
+        "stakes_importance": "High \u2014 peak physical distress as guards rip her hands from the pew.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B012",
+          "end_beat_id": "B020",
+          "start_time": 40.4,
+          "end_time": 64.5,
+          "duration": 24.1,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.891
+    },
+    {
+      "candidate_id": "CAND_EP003_27",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 43.3,
+      "end_time": 64.5,
+      "duration": 21.2,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Vicious insult of disownment ('Wherever a discarded daughter belongs') countered by desperate claim to the church.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle close-up of desperate fingers clutching a sacred locket conveys acute physical distress.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will anyone in the cathedral answer Juliana's desperate cry for help before she is dragged away?",
+        "stakes_importance": "High \u2014 peak physical distress as guards rip her hands from the pew.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B014",
+          "end_beat_id": "B020",
+          "start_time": 43.3,
+          "end_time": 64.5,
+          "duration": 21.2,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.862
+    },
+    {
+      "candidate_id": "CAND_EP003_28",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B021",
+      "end_beat_id": "B028",
+      "start_time": 64.5,
+      "end_time": 85.5,
+      "duration": 21.0,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High wide spectacle shot: stunned congregation watching silently as an armed guard detail forcibly drags away a bride.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B028",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the noble family and remaining guards react now that the stranger easily incapacitated a royal soldier?",
+        "stakes_importance": "High \u2014 decisive display of overwhelming combat dominance shocking the elite.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B021",
+          "end_beat_id": "B028",
+          "start_time": 64.5,
+          "end_time": 85.5,
+          "duration": 21.0,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.86
+    },
+    {
+      "candidate_id": "CAND_EP003_29",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B021",
+      "end_beat_id": "B029",
+      "start_time": 64.5,
+      "end_time": 88.1,
+      "duration": 23.6,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High wide spectacle shot: stunned congregation watching silently as an armed guard detail forcibly drags away a bride.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B029",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Gerald's cowardly plea rally more guards, or will everyone flee from the stranger?",
+        "stakes_importance": "High \u2014 reveals the groom's sheer cowardice and panic in public.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B021",
+          "end_beat_id": "B029",
+          "start_time": 64.5,
+          "end_time": 88.1,
+          "duration": 23.6,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.886
+    },
+    {
+      "candidate_id": "CAND_EP003_31",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B021",
+      "end_beat_id": "B031",
+      "start_time": 64.5,
+      "end_time": 91.7,
+      "duration": 27.2,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High wide spectacle shot: stunned congregation watching silently as an armed guard detail forcibly drags away a bride.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana accept the help and protection of this dangerous stranger?",
+        "stakes_importance": "High \u2014 first direct personal interaction between the male and female leads.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B021",
+          "end_beat_id": "B031",
+          "start_time": 64.5,
+          "end_time": 91.7,
+          "duration": 27.2,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.922
+    },
+    {
+      "candidate_id": "CAND_EP003_34",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B021",
+      "end_beat_id": "B035",
+      "start_time": 64.5,
+      "end_time": 110.8,
+      "duration": 46.3,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High wide spectacle shot: stunned congregation watching silently as an armed guard detail forcibly drags away a bride.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Juliana respond to this stranger showing her the unconditional respect her family denied her?",
+        "stakes_importance": "High \u2014 deeply emotional vindication and romantic bond sparked under the chapel's rose window.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B021",
+          "end_beat_id": "B035",
+          "start_time": 64.5,
+          "end_time": 110.8,
+          "duration": 46.3,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.8870000000000005
+    },
+    {
+      "candidate_id": "CAND_EP003_39",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B022",
+      "end_beat_id": "B029",
+      "start_time": 66.0,
+      "end_time": 88.1,
+      "duration": 22.1,
+      "hook_signal": {
+        "beat_id": "B022",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dramatic hero entrance: rugged trench-coated stranger stepping decisively into the petal-strewn aisle to halt an expulsion.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B029",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Gerald's cowardly plea rally more guards, or will everyone flee from the stranger?",
+        "stakes_importance": "High \u2014 reveals the groom's sheer cowardice and panic in public.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B022",
+          "end_beat_id": "B029",
+          "start_time": 66.0,
+          "end_time": 88.1,
+          "duration": 22.1,
+          "beat_ids": [
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.871
+    },
+    {
+      "candidate_id": "CAND_EP003_41",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B022",
+      "end_beat_id": "B031",
+      "start_time": 66.0,
+      "end_time": 91.7,
+      "duration": 25.7,
+      "hook_signal": {
+        "beat_id": "B022",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dramatic hero entrance: rugged trench-coated stranger stepping decisively into the petal-strewn aisle to halt an expulsion.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana accept the help and protection of this dangerous stranger?",
+        "stakes_importance": "High \u2014 first direct personal interaction between the male and female leads.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B022",
+          "end_beat_id": "B031",
+          "start_time": 66.0,
+          "end_time": 91.7,
+          "duration": 25.7,
+          "beat_ids": [
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.907
+    },
+    {
+      "candidate_id": "CAND_EP003_44",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B022",
+      "end_beat_id": "B035",
+      "start_time": 66.0,
+      "end_time": 110.8,
+      "duration": 44.8,
+      "hook_signal": {
+        "beat_id": "B022",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dramatic hero entrance: rugged trench-coated stranger stepping decisively into the petal-strewn aisle to halt an expulsion.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Juliana respond to this stranger showing her the unconditional respect her family denied her?",
+        "stakes_importance": "High \u2014 deeply emotional vindication and romantic bond sparked under the chapel's rose window.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B022",
+          "end_beat_id": "B035",
+          "start_time": 66.0,
+          "end_time": 110.8,
+          "duration": 44.8,
+          "beat_ids": [
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.902
+    },
+    {
+      "candidate_id": "CAND_EP003_49",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B022",
+      "end_beat_id": "B041",
+      "start_time": 66.0,
+      "end_time": 125.1,
+      "duration": 59.1,
+      "hook_signal": {
+        "beat_id": "B022",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dramatic hero entrance: rugged trench-coated stranger stepping decisively into the petal-strewn aisle to halt an expulsion.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 5,
+        "specific_question": "Is this stranger genuinely offering to marry Juliana right here in front of her humiliating ex-fianc\u00e9?",
+        "stakes_importance": "High \u2014 miraculous reversal of fortune, proposing marriage before the petrified groom.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B022",
+          "end_beat_id": "B041",
+          "start_time": 66.0,
+          "end_time": 125.1,
+          "duration": 59.1,
+          "beat_ids": [
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.759
+    },
+    {
+      "candidate_id": "CAND_EP003_50",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B023",
+      "end_beat_id": "B029",
+      "start_time": 68.1,
+      "end_time": 88.1,
+      "duration": 20.0,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, authoritative intervention commanding armed guards to release the bride: 'Take your hands off her.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-impact visual combination of shocked matriarch freezing and front tracking shot of the stranger marching with resolute purpose.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B029",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Gerald's cowardly plea rally more guards, or will everyone flee from the stranger?",
+        "stakes_importance": "High \u2014 reveals the groom's sheer cowardice and panic in public.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B023",
+          "end_beat_id": "B029",
+          "start_time": 68.1,
+          "end_time": 88.1,
+          "duration": 20.0,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.85
+    },
+    {
+      "candidate_id": "CAND_EP003_52",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "start_time": 68.1,
+      "end_time": 91.7,
+      "duration": 23.6,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, authoritative intervention commanding armed guards to release the bride: 'Take your hands off her.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-impact visual combination of shocked matriarch freezing and front tracking shot of the stranger marching with resolute purpose.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana accept the help and protection of this dangerous stranger?",
+        "stakes_importance": "High \u2014 first direct personal interaction between the male and female leads.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B023",
+          "end_beat_id": "B031",
+          "start_time": 68.1,
+          "end_time": 91.7,
+          "duration": 23.6,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.886
+    },
+    {
+      "candidate_id": "CAND_EP003_55",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B023",
+      "end_beat_id": "B035",
+      "start_time": 68.1,
+      "end_time": 110.8,
+      "duration": 42.7,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, authoritative intervention commanding armed guards to release the bride: 'Take your hands off her.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-impact visual combination of shocked matriarch freezing and front tracking shot of the stranger marching with resolute purpose.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Juliana respond to this stranger showing her the unconditional respect her family denied her?",
+        "stakes_importance": "High \u2014 deeply emotional vindication and romantic bond sparked under the chapel's rose window.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B023",
+          "end_beat_id": "B035",
+          "start_time": 68.1,
+          "end_time": 110.8,
+          "duration": 42.7,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.923
+    },
+    {
+      "candidate_id": "CAND_EP003_56",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B023",
+      "end_beat_id": "B036",
+      "start_time": 68.1,
+      "end_time": 112.5,
+      "duration": 44.4,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, authoritative intervention commanding armed guards to release the bride: 'Take your hands off her.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-impact visual combination of shocked matriarch freezing and front tracking shot of the stranger marching with resolute purpose.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B036",
+        "curiosity_gap_score": 4,
+        "specific_question": "What is the stranger's true motive for putting his life on the line to save Juliana?",
+        "stakes_importance": "High \u2014 Juliana directly probes the stranger's hidden agenda and reason for risking everything.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B023",
+          "end_beat_id": "B036",
+          "start_time": 68.1,
+          "end_time": 112.5,
+          "duration": 44.4,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.906
+    },
+    {
+      "candidate_id": "CAND_EP003_58",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B023",
+      "end_beat_id": "B039",
+      "start_time": 68.1,
+      "end_time": 117.9,
+      "duration": 49.8,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, authoritative intervention commanding armed guards to release the bride: 'Take your hands off her.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-impact visual combination of shocked matriarch freezing and front tracking shot of the stranger marching with resolute purpose.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B039",
+        "curiosity_gap_score": 4,
+        "specific_question": "What is the stranger reaching into his coat to pull out in front of the congregation?",
+        "stakes_importance": "High \u2014 creates suspense over whether he is drawing a weapon, proof of status, or an object.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B023",
+          "end_beat_id": "B039",
+          "start_time": 68.1,
+          "end_time": 117.9,
+          "duration": 49.8,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.852
+    },
+    {
+      "candidate_id": "CAND_EP003_60",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B023",
+      "end_beat_id": "B041",
+      "start_time": 68.1,
+      "end_time": 125.1,
+      "duration": 57.0,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, authoritative intervention commanding armed guards to release the bride: 'Take your hands off her.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-impact visual combination of shocked matriarch freezing and front tracking shot of the stranger marching with resolute purpose.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 5,
+        "specific_question": "Is this stranger genuinely offering to marry Juliana right here in front of her humiliating ex-fianc\u00e9?",
+        "stakes_importance": "High \u2014 miraculous reversal of fortune, proposing marriage before the petrified groom.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B023",
+          "end_beat_id": "B041",
+          "start_time": 68.1,
+          "end_time": 125.1,
+          "duration": 57.0,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given",
+      "_quality": 9.78
+    },
+    {
+      "candidate_id": "CAND_EP003_61",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B023",
+      "end_beat_id": "B042",
+      "start_time": 68.1,
+      "end_time": 127.4,
+      "duration": 59.3,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, authoritative intervention commanding armed guards to release the bride: 'Take your hands off her.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-impact visual combination of shocked matriarch freezing and front tracking shot of the stranger marching with resolute purpose.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B042",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana accept a wedding ring from a dangerous man she has never seen before?",
+        "stakes_importance": "High \u2014 shocking marriage proposal offered directly to an abandoned bride.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B023",
+          "end_beat_id": "B042",
+          "start_time": 68.1,
+          "end_time": 127.4,
+          "duration": 59.3,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042"
+      ],
+      "timestamp_source": "given",
+      "_quality": 9.757
+    },
+    {
+      "candidate_id": "CAND_EP003_94",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B027",
+      "end_beat_id": "B035",
+      "start_time": 81.0,
+      "end_time": 110.8,
+      "duration": 29.8,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Chilling, gravelly ultimatum to armed forces: '...let her go.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up on the scarred, unblinking face of a dangerous hero preparing to strike.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Juliana respond to this stranger showing her the unconditional respect her family denied her?",
+        "stakes_importance": "High \u2014 deeply emotional vindication and romantic bond sparked under the chapel's rose window.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B027",
+          "end_beat_id": "B035",
+          "start_time": 81.0,
+          "end_time": 110.8,
+          "duration": 29.8,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.948
+    },
+    {
+      "candidate_id": "CAND_EP003_95",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B027",
+      "end_beat_id": "B036",
+      "start_time": 81.0,
+      "end_time": 112.5,
+      "duration": 31.5,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Chilling, gravelly ultimatum to armed forces: '...let her go.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up on the scarred, unblinking face of a dangerous hero preparing to strike.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B036",
+        "curiosity_gap_score": 4,
+        "specific_question": "What is the stranger's true motive for putting his life on the line to save Juliana?",
+        "stakes_importance": "High \u2014 Juliana directly probes the stranger's hidden agenda and reason for risking everything.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B027",
+          "end_beat_id": "B036",
+          "start_time": 81.0,
+          "end_time": 112.5,
+          "duration": 31.5,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.965
+    },
+    {
+      "candidate_id": "CAND_EP003_97",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B027",
+      "end_beat_id": "B039",
+      "start_time": 81.0,
+      "end_time": 117.9,
+      "duration": 36.9,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Chilling, gravelly ultimatum to armed forces: '...let her go.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up on the scarred, unblinking face of a dangerous hero preparing to strike.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B039",
+        "curiosity_gap_score": 4,
+        "specific_question": "What is the stranger reaching into his coat to pull out in front of the congregation?",
+        "stakes_importance": "High \u2014 creates suspense over whether he is drawing a weapon, proof of status, or an object.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B027",
+          "end_beat_id": "B039",
+          "start_time": 81.0,
+          "end_time": 117.9,
+          "duration": 36.9,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.981
+    },
+    {
+      "candidate_id": "CAND_EP003_99",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B027",
+      "end_beat_id": "B041",
+      "start_time": 81.0,
+      "end_time": 125.1,
+      "duration": 44.1,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Chilling, gravelly ultimatum to armed forces: '...let her go.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up on the scarred, unblinking face of a dangerous hero preparing to strike.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 5,
+        "specific_question": "Is this stranger genuinely offering to marry Juliana right here in front of her humiliating ex-fianc\u00e9?",
+        "stakes_importance": "High \u2014 miraculous reversal of fortune, proposing marriage before the petrified groom.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B027",
+          "end_beat_id": "B041",
+          "start_time": 81.0,
+          "end_time": 125.1,
+          "duration": 44.1,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.909
+    },
+    {
+      "candidate_id": "CAND_EP003_100",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B027",
+      "end_beat_id": "B042",
+      "start_time": 81.0,
+      "end_time": 127.4,
+      "duration": 46.4,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Chilling, gravelly ultimatum to armed forces: '...let her go.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up on the scarred, unblinking face of a dangerous hero preparing to strike.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B042",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana accept a wedding ring from a dangerous man she has never seen before?",
+        "stakes_importance": "High \u2014 shocking marriage proposal offered directly to an abandoned bride.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B027",
+          "end_beat_id": "B042",
+          "start_time": 81.0,
+          "end_time": 127.4,
+          "duration": 46.4,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.886
+    },
+    {
+      "candidate_id": "CAND_EP003_103",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B027",
+      "end_beat_id": "B045",
+      "start_time": 81.0,
+      "end_time": 137.3,
+      "duration": 56.3,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Chilling, gravelly ultimatum to armed forces: '...let her go.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up on the scarred, unblinking face of a dangerous hero preparing to strike.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B045",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana accept the kneeled stranger's proposal and humiliate her entire family on the spot?",
+        "stakes_importance": "High \u2014 iconic public proposal turning the tables entirely on the arrogant villains.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B027",
+          "end_beat_id": "B045",
+          "start_time": 81.0,
+          "end_time": 137.3,
+          "duration": 56.3,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.787
+    },
+    {
+      "candidate_id": "CAND_EP003_105",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B028",
+      "end_beat_id": "B035",
+      "start_time": 84.0,
+      "end_time": 110.8,
+      "duration": 26.8,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate kinetic scroll-stopper: violent physical clash where the stranger effortlessly blocks and knocks out an armed guard cold.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Juliana respond to this stranger showing her the unconditional respect her family denied her?",
+        "stakes_importance": "High \u2014 deeply emotional vindication and romantic bond sparked under the chapel's rose window.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B028",
+          "end_beat_id": "B035",
+          "start_time": 84.0,
+          "end_time": 110.8,
+          "duration": 26.8,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.918
+    },
+    {
+      "candidate_id": "CAND_EP003_106",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B028",
+      "end_beat_id": "B036",
+      "start_time": 84.0,
+      "end_time": 112.5,
+      "duration": 28.5,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate kinetic scroll-stopper: violent physical clash where the stranger effortlessly blocks and knocks out an armed guard cold.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B036",
+        "curiosity_gap_score": 4,
+        "specific_question": "What is the stranger's true motive for putting his life on the line to save Juliana?",
+        "stakes_importance": "High \u2014 Juliana directly probes the stranger's hidden agenda and reason for risking everything.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B028",
+          "end_beat_id": "B036",
+          "start_time": 84.0,
+          "end_time": 112.5,
+          "duration": 28.5,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.935
+    },
+    {
+      "candidate_id": "CAND_EP003_108",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B028",
+      "end_beat_id": "B039",
+      "start_time": 84.0,
+      "end_time": 117.9,
+      "duration": 33.9,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate kinetic scroll-stopper: violent physical clash where the stranger effortlessly blocks and knocks out an armed guard cold.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B039",
+        "curiosity_gap_score": 4,
+        "specific_question": "What is the stranger reaching into his coat to pull out in front of the congregation?",
+        "stakes_importance": "High \u2014 creates suspense over whether he is drawing a weapon, proof of status, or an object.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B028",
+          "end_beat_id": "B039",
+          "start_time": 84.0,
+          "end_time": 117.9,
+          "duration": 33.9,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.989
+    },
+    {
+      "candidate_id": "CAND_EP003_110",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B028",
+      "end_beat_id": "B041",
+      "start_time": 84.0,
+      "end_time": 125.1,
+      "duration": 41.1,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate kinetic scroll-stopper: violent physical clash where the stranger effortlessly blocks and knocks out an armed guard cold.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 5,
+        "specific_question": "Is this stranger genuinely offering to marry Juliana right here in front of her humiliating ex-fianc\u00e9?",
+        "stakes_importance": "High \u2014 miraculous reversal of fortune, proposing marriage before the petrified groom.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B028",
+          "end_beat_id": "B041",
+          "start_time": 84.0,
+          "end_time": 125.1,
+          "duration": 41.1,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given",
+      "_quality": 9.939
+    },
+    {
+      "candidate_id": "CAND_EP003_111",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B028",
+      "end_beat_id": "B042",
+      "start_time": 84.0,
+      "end_time": 127.4,
+      "duration": 43.4,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate kinetic scroll-stopper: violent physical clash where the stranger effortlessly blocks and knocks out an armed guard cold.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B042",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana accept a wedding ring from a dangerous man she has never seen before?",
+        "stakes_importance": "High \u2014 shocking marriage proposal offered directly to an abandoned bride.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B028",
+          "end_beat_id": "B042",
+          "start_time": 84.0,
+          "end_time": 127.4,
+          "duration": 43.4,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042"
+      ],
+      "timestamp_source": "given",
+      "_quality": 9.916
+    },
+    {
+      "candidate_id": "CAND_EP003_112",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B028",
+      "end_beat_id": "B043",
+      "start_time": 84.0,
+      "end_time": 130.2,
+      "duration": 46.2,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate kinetic scroll-stopper: violent physical clash where the stranger effortlessly blocks and knocks out an armed guard cold.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B043",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will the stranger convince Juliana that marrying a complete stranger is the right choice?",
+        "stakes_importance": "High \u2014 logical and emotional resistance to an impulsive wedding proposal.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B028",
+          "end_beat_id": "B043",
+          "start_time": 84.0,
+          "end_time": 130.2,
+          "duration": 46.2,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.888
+    },
+    {
+      "candidate_id": "CAND_EP003_113",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B028",
+      "end_beat_id": "B044",
+      "start_time": 84.0,
+      "end_time": 132.7,
+      "duration": 48.7,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate kinetic scroll-stopper: violent physical clash where the stranger effortlessly blocks and knocks out an armed guard cold.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B044",
+        "curiosity_gap_score": 4,
+        "specific_question": "How does this mysterious stranger already know Juliana, and what does he know about her?",
+        "stakes_importance": "High \u2014 hints at a deeper, clandestine connection or concealed past history.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B028",
+          "end_beat_id": "B044",
+          "start_time": 84.0,
+          "end_time": 132.7,
+          "duration": 48.7,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.863
+    },
+    {
+      "candidate_id": "CAND_EP003_114",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B028",
+      "end_beat_id": "B045",
+      "start_time": 84.0,
+      "end_time": 137.3,
+      "duration": 53.3,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate kinetic scroll-stopper: violent physical clash where the stranger effortlessly blocks and knocks out an armed guard cold.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B045",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana accept the kneeled stranger's proposal and humiliate her entire family on the spot?",
+        "stakes_importance": "High \u2014 iconic public proposal turning the tables entirely on the arrogant villains.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B028",
+          "end_beat_id": "B045",
+          "start_time": 84.0,
+          "end_time": 137.3,
+          "duration": 53.3,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045"
+      ],
+      "timestamp_source": "given",
+      "_quality": 9.817
+    },
+    {
+      "candidate_id": "CAND_EP003_115",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B028",
+      "end_beat_id": "B046",
+      "start_time": 84.0,
+      "end_time": 140.5,
+      "duration": 56.5,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate kinetic scroll-stopper: violent physical clash where the stranger effortlessly blocks and knocks out an armed guard cold.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B046",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana say yes and marry this stranger, or will her family stop the ceremony?",
+        "stakes_importance": "High \u2014 explicit verbal proposal held high on one knee before the entire cathedral.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B028",
+          "end_beat_id": "B046",
+          "start_time": 84.0,
+          "end_time": 140.5,
+          "duration": 56.5,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045",
+            "B046"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045",
+        "B046"
+      ],
+      "timestamp_source": "given",
+      "_quality": 9.785
+    },
+    {
+      "candidate_id": "CAND_EP003_165",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B033",
+      "end_beat_id": "B041",
+      "start_time": 94.0,
+      "end_time": 125.1,
+      "duration": 31.1,
+      "hook_signal": {
+        "beat_id": "B033",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Cold, menacing threat warning the remaining guards: 'Good. Then don't touch her again.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Sharp, predatory glare directed at surviving guards maintains tension on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 5,
+        "specific_question": "Is this stranger genuinely offering to marry Juliana right here in front of her humiliating ex-fianc\u00e9?",
+        "stakes_importance": "High \u2014 miraculous reversal of fortune, proposing marriage before the petrified groom.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B033",
+          "end_beat_id": "B041",
+          "start_time": 94.0,
+          "end_time": 125.1,
+          "duration": 31.1,
+          "beat_ids": [
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.961
+    },
+    {
+      "candidate_id": "CAND_EP003_166",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B033",
+      "end_beat_id": "B042",
+      "start_time": 94.0,
+      "end_time": 127.4,
+      "duration": 33.4,
+      "hook_signal": {
+        "beat_id": "B033",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Cold, menacing threat warning the remaining guards: 'Good. Then don't touch her again.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Sharp, predatory glare directed at surviving guards maintains tension on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B042",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana accept a wedding ring from a dangerous man she has never seen before?",
+        "stakes_importance": "High \u2014 shocking marriage proposal offered directly to an abandoned bride.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B033",
+          "end_beat_id": "B042",
+          "start_time": 94.0,
+          "end_time": 127.4,
+          "duration": 33.4,
+          "beat_ids": [
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.984
+    },
+    {
+      "candidate_id": "CAND_EP003_167",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B033",
+      "end_beat_id": "B043",
+      "start_time": 94.0,
+      "end_time": 130.2,
+      "duration": 36.2,
+      "hook_signal": {
+        "beat_id": "B033",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Cold, menacing threat warning the remaining guards: 'Good. Then don't touch her again.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Sharp, predatory glare directed at surviving guards maintains tension on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B043",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will the stranger convince Juliana that marrying a complete stranger is the right choice?",
+        "stakes_importance": "High \u2014 logical and emotional resistance to an impulsive wedding proposal.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B033",
+          "end_beat_id": "B043",
+          "start_time": 94.0,
+          "end_time": 130.2,
+          "duration": 36.2,
+          "beat_ids": [
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.9879999999999995
+    },
+    {
+      "candidate_id": "CAND_EP003_168",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B033",
+      "end_beat_id": "B044",
+      "start_time": 94.0,
+      "end_time": 132.7,
+      "duration": 38.7,
+      "hook_signal": {
+        "beat_id": "B033",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Cold, menacing threat warning the remaining guards: 'Good. Then don't touch her again.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Sharp, predatory glare directed at surviving guards maintains tension on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B044",
+        "curiosity_gap_score": 4,
+        "specific_question": "How does this mysterious stranger already know Juliana, and what does he know about her?",
+        "stakes_importance": "High \u2014 hints at a deeper, clandestine connection or concealed past history.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B033",
+          "end_beat_id": "B044",
+          "start_time": 94.0,
+          "end_time": 132.7,
+          "duration": 38.7,
+          "beat_ids": [
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.963
+    },
+    {
+      "candidate_id": "CAND_EP003_169",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B033",
+      "end_beat_id": "B045",
+      "start_time": 94.0,
+      "end_time": 137.3,
+      "duration": 43.3,
+      "hook_signal": {
+        "beat_id": "B033",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Cold, menacing threat warning the remaining guards: 'Good. Then don't touch her again.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Sharp, predatory glare directed at surviving guards maintains tension on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B045",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana accept the kneeled stranger's proposal and humiliate her entire family on the spot?",
+        "stakes_importance": "High \u2014 iconic public proposal turning the tables entirely on the arrogant villains.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B033",
+          "end_beat_id": "B045",
+          "start_time": 94.0,
+          "end_time": 137.3,
+          "duration": 43.3,
+          "beat_ids": [
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.917
+    },
+    {
+      "candidate_id": "CAND_EP003_182",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B035",
+      "end_beat_id": "B042",
+      "start_time": 100.8,
+      "end_time": 127.4,
+      "duration": 26.6,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Powerful, romantic defense publicly condemning her abusers ('You shouldn't have to beg anybody to remember your worth').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Stunning, high-production visual framing: hero and bride silhouetted against an illuminated stained-glass rose window.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B042",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana accept a wedding ring from a dangerous man she has never seen before?",
+        "stakes_importance": "High \u2014 shocking marriage proposal offered directly to an abandoned bride.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B035",
+          "end_beat_id": "B042",
+          "start_time": 100.8,
+          "end_time": 127.4,
+          "duration": 26.6,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.916
+    },
+    {
+      "candidate_id": "CAND_EP003_183",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B035",
+      "end_beat_id": "B043",
+      "start_time": 100.8,
+      "end_time": 130.2,
+      "duration": 29.4,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Powerful, romantic defense publicly condemning her abusers ('You shouldn't have to beg anybody to remember your worth').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Stunning, high-production visual framing: hero and bride silhouetted against an illuminated stained-glass rose window.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B043",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will the stranger convince Juliana that marrying a complete stranger is the right choice?",
+        "stakes_importance": "High \u2014 logical and emotional resistance to an impulsive wedding proposal.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B035",
+          "end_beat_id": "B043",
+          "start_time": 100.8,
+          "end_time": 130.2,
+          "duration": 29.4,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.944
+    },
+    {
+      "candidate_id": "CAND_EP003_184",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B035",
+      "end_beat_id": "B044",
+      "start_time": 100.8,
+      "end_time": 132.7,
+      "duration": 31.9,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Powerful, romantic defense publicly condemning her abusers ('You shouldn't have to beg anybody to remember your worth').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Stunning, high-production visual framing: hero and bride silhouetted against an illuminated stained-glass rose window.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B044",
+        "curiosity_gap_score": 4,
+        "specific_question": "How does this mysterious stranger already know Juliana, and what does he know about her?",
+        "stakes_importance": "High \u2014 hints at a deeper, clandestine connection or concealed past history.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B035",
+          "end_beat_id": "B044",
+          "start_time": 100.8,
+          "end_time": 132.7,
+          "duration": 31.9,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044"
+      ],
+      "timestamp_source": "given",
+      "_quality": 7.969
+    },
+    {
+      "candidate_id": "CAND_EP003_185",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B035",
+      "end_beat_id": "B045",
+      "start_time": 100.8,
+      "end_time": 137.3,
+      "duration": 36.5,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Powerful, romantic defense publicly condemning her abusers ('You shouldn't have to beg anybody to remember your worth').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Stunning, high-production visual framing: hero and bride silhouetted against an illuminated stained-glass rose window.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B045",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana accept the kneeled stranger's proposal and humiliate her entire family on the spot?",
+        "stakes_importance": "High \u2014 iconic public proposal turning the tables entirely on the arrogant villains.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B035",
+          "end_beat_id": "B045",
+          "start_time": 100.8,
+          "end_time": 137.3,
+          "duration": 36.5,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.985
+    },
+    {
+      "candidate_id": "CAND_EP003_186",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B035",
+      "end_beat_id": "B046",
+      "start_time": 100.8,
+      "end_time": 140.5,
+      "duration": 39.7,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Powerful, romantic defense publicly condemning her abusers ('You shouldn't have to beg anybody to remember your worth').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Stunning, high-production visual framing: hero and bride silhouetted against an illuminated stained-glass rose window.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B046",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana say yes and marry this stranger, or will her family stop the ceremony?",
+        "stakes_importance": "High \u2014 explicit verbal proposal held high on one knee before the entire cathedral.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B035",
+          "end_beat_id": "B046",
+          "start_time": 100.8,
+          "end_time": 140.5,
+          "duration": 39.7,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045",
+            "B046"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045",
+        "B046"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.953
+    },
+    {
+      "candidate_id": "CAND_EP003_187",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B035",
+      "end_beat_id": "B047",
+      "start_time": 100.8,
+      "end_time": 145.75,
+      "duration": 44.95,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Powerful, romantic defense publicly condemning her abusers ('You shouldn't have to beg anybody to remember your worth').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Stunning, high-production visual framing: hero and bride silhouetted against an illuminated stained-glass rose window.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B047",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana speak the words to marry her savior and claim vengeance against those who discarded her?",
+        "stakes_importance": "High \u2014 emotional climax of the episode leaving Juliana's final verbal acceptance unresolved as music swells.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B035",
+          "end_beat_id": "B047",
+          "start_time": 100.8,
+          "end_time": 145.75,
+          "duration": 44.95,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045",
+            "B046",
+            "B047"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045",
+        "B046",
+        "B047"
+      ],
+      "timestamp_source": "given",
+      "_quality": 8.9005
+    },
+    {
+      "candidate_id": "CAND_EP003_188",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B041",
+      "end_beat_id": "B046",
+      "start_time": 119.2,
+      "end_time": 140.5,
+      "duration": 21.3,
+      "hook_signal": {
+        "beat_id": "B041",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Jaw-dropping narrative pivot: 'You came here to become a wife. They took that from you.'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: extreme close-up of a rugged hand holding a silver wedding band out to an abandoned bride while her ex-groom watches in humiliation.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B046",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana say yes and marry this stranger, or will her family stop the ceremony?",
+        "stakes_importance": "High \u2014 explicit verbal proposal held high on one knee before the entire cathedral.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B041",
+          "end_beat_id": "B046",
+          "start_time": 119.2,
+          "end_time": 140.5,
+          "duration": 21.3,
+          "beat_ids": [
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045",
+            "B046"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045",
+        "B046"
+      ],
+      "timestamp_source": "given",
+      "_quality": 9.863
+    },
+    {
+      "candidate_id": "CAND_EP003_189",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B041",
+      "end_beat_id": "B047",
+      "start_time": 119.2,
+      "end_time": 145.75,
+      "duration": 26.55,
+      "hook_signal": {
+        "beat_id": "B041",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Jaw-dropping narrative pivot: 'You came here to become a wife. They took that from you.'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: extreme close-up of a rugged hand holding a silver wedding band out to an abandoned bride while her ex-groom watches in humiliation.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B047",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana speak the words to marry her savior and claim vengeance against those who discarded her?",
+        "stakes_importance": "High \u2014 emotional climax of the episode leaving Juliana's final verbal acceptance unresolved as music swells.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B041",
+          "end_beat_id": "B047",
+          "start_time": 119.2,
+          "end_time": 145.75,
+          "duration": 26.55,
+          "beat_ids": [
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045",
+            "B046",
+            "B047"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045",
+        "B046",
+        "B047"
+      ],
+      "timestamp_source": "given",
+      "_quality": 9.9155
+    },
+    {
+      "candidate_id": "CAND_EP003_190",
+      "episode": "Episode 3",
+      "episode_number": 3,
+      "start_beat_id": "B042",
+      "end_beat_id": "B047",
+      "start_time": 125.1,
+      "end_time": 145.75,
+      "duration": 20.65,
+      "hook_signal": {
+        "beat_id": "B042",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Audacious romantic shocker offering instant marriage at the altar: 'I am offering it back.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Clear mute storytelling: stranger presenting a wedding band directly to a bride abandoned minutes prior.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B047",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana speak the words to marry her savior and claim vengeance against those who discarded her?",
+        "stakes_importance": "High \u2014 emotional climax of the episode leaving Juliana's final verbal acceptance unresolved as music swells.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 3,
+          "start_beat_id": "B042",
+          "end_beat_id": "B047",
+          "start_time": 125.1,
+          "end_time": 145.75,
+          "duration": 20.65,
+          "beat_ids": [
+            "B042",
+            "B043",
+            "B044",
+            "B045",
+            "B046",
+            "B047"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B042",
+        "B043",
+        "B044",
+        "B045",
+        "B046",
+        "B047"
+      ],
+      "timestamp_source": "given",
+      "_quality": 9.8565
+    }
+  ]
+}

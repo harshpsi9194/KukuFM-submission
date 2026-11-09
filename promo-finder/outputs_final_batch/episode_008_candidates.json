@@ -1,0 +1,606 @@
+{
+  "episode_number": 8,
+  "total_candidates": 9,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP008_01",
+      "episode": "Episode 8",
+      "episode_number": 8,
+      "start_beat_id": "B006",
+      "end_beat_id": "B012",
+      "start_time": 11.9,
+      "end_time": 33.2,
+      "duration": 21.3,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Explaining medicinal uses for wounds and fever hints at underlying hardship without acute stakes.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of a rugged, scarred male face caught in firelight provides distinct visual texture and character intrigue on mute.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B012",
+        "curiosity_gap_score": 3,
+        "specific_question": "Why did Alexander physically intercept Juliana's hand before she could touch his face?",
+        "stakes_importance": "High \u2014 abrupt physical contact stopping intimate vulnerability, creating sudden tension.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 8,
+          "start_beat_id": "B006",
+          "end_beat_id": "B012",
+          "start_time": 11.9,
+          "end_time": 33.2,
+          "duration": 21.3,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP008_02",
+      "episode": "Episode 8",
+      "episode_number": 8,
+      "start_beat_id": "B006",
+      "end_beat_id": "B013",
+      "start_time": 11.9,
+      "end_time": 35.5,
+      "duration": 23.6,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Explaining medicinal uses for wounds and fever hints at underlying hardship without acute stakes.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of a rugged, scarred male face caught in firelight provides distinct visual texture and character intrigue on mute.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B013",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why must Alexander stay disguised behind his unkempt beard, and what secret is he hiding?",
+        "stakes_importance": "High \u2014 intense locked-gaze physical hold while asserting a boundary that suggests a dangerous identity or hidden agenda.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 8,
+          "start_beat_id": "B006",
+          "end_beat_id": "B013",
+          "start_time": 11.9,
+          "end_time": 35.5,
+          "duration": 23.6,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP008_03",
+      "episode": "Episode 8",
+      "episode_number": 8,
+      "start_beat_id": "B006",
+      "end_beat_id": "B014",
+      "start_time": 11.9,
+      "end_time": 37.3,
+      "duration": 25.4,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Explaining medicinal uses for wounds and fever hints at underlying hardship without acute stakes.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of a rugged, scarred male face caught in firelight provides distinct visual texture and character intrigue on mute.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B014",
+        "curiosity_gap_score": 3,
+        "specific_question": "What reason will Alexander give for refusing to let Juliana trim his beard?",
+        "stakes_importance": "Medium \u2014 Juliana directly presses him to explain his refusal.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 8,
+          "start_beat_id": "B006",
+          "end_beat_id": "B014",
+          "start_time": 11.9,
+          "end_time": 37.3,
+          "duration": 25.4,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP008_04",
+      "episode": "Episode 8",
+      "episode_number": 8,
+      "start_beat_id": "B006",
+      "end_beat_id": "B017",
+      "start_time": 11.9,
+      "end_time": 44.9,
+      "duration": 33.0,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Explaining medicinal uses for wounds and fever hints at underlying hardship without acute stakes.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of a rugged, scarred male face caught in firelight provides distinct visual texture and character intrigue on mute.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 3,
+        "specific_question": "What practical or clandestine advantages does concealing his true appearance provide Alexander?",
+        "stakes_importance": "Medium \u2014 implies his wild appearance is an intentional disguise protecting him from discovery.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 8,
+          "start_beat_id": "B006",
+          "end_beat_id": "B017",
+          "start_time": 11.9,
+          "end_time": 44.9,
+          "duration": 33.0,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP008_05",
+      "episode": "Episode 8",
+      "episode_number": 8,
+      "start_beat_id": "B011",
+      "end_beat_id": "B025",
+      "start_time": 28.1,
+      "end_time": 64.3,
+      "duration": 36.2,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Offering to trim his hair/beard signals intimate domestic playfulness rather than urgent drama.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Juliana rising to stand closely and reaching an affectionate hand toward his face initiates tangible physical proximity and anticipation.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 4,
+        "specific_question": "If only some scars were from war, who or what inflicted the rest upon Alexander?",
+        "stakes_importance": "High \u2014 drops a seismic hint confirming a dark, violent past beyond ordinary military duty with his gaze heavy and clouded.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 8,
+          "start_beat_id": "B011",
+          "end_beat_id": "B025",
+          "start_time": 28.1,
+          "end_time": 64.3,
+          "duration": 36.2,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP008_06",
+      "episode": "Episode 8",
+      "episode_number": 8,
+      "start_beat_id": "B012",
+      "end_beat_id": "B024",
+      "start_time": 31.9,
+      "end_time": 63.0,
+      "duration": 31.1,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up insert of a large, rough hand catching a woman's wrist in midair creates sharp physical friction and immediate tension legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B024",
+        "curiosity_gap_score": 3,
+        "specific_question": "If Alexander's facial scars are not all from the war, what dark violence caused them?",
+        "stakes_importance": "High \u2014 pivots from warm camaraderie into an intimate probe into Alexander's hidden traumas.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 8,
+          "start_beat_id": "B012",
+          "end_beat_id": "B024",
+          "start_time": 31.9,
+          "end_time": 63.0,
+          "duration": 31.1,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP008_07",
+      "episode": "Episode 8",
+      "episode_number": 8,
+      "start_beat_id": "B012",
+      "end_beat_id": "B025",
+      "start_time": 31.9,
+      "end_time": 64.3,
+      "duration": 32.4,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up insert of a large, rough hand catching a woman's wrist in midair creates sharp physical friction and immediate tension legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 4,
+        "specific_question": "If only some scars were from war, who or what inflicted the rest upon Alexander?",
+        "stakes_importance": "High \u2014 drops a seismic hint confirming a dark, violent past beyond ordinary military duty with his gaze heavy and clouded.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 8,
+          "start_beat_id": "B012",
+          "end_beat_id": "B025",
+          "start_time": 31.9,
+          "end_time": 64.3,
+          "duration": 32.4,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP008_08",
+      "episode": "Episode 8",
+      "episode_number": 8,
+      "start_beat_id": "B013",
+      "end_beat_id": "B025",
+      "start_time": 33.2,
+      "end_time": 64.3,
+      "duration": 31.1,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Alexander's blunt command 'Not yet' delivers a direct, firm refusal in an intimate setting.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Profile two-shot maintaining a firm grip on her wrist with intense, locked eye contact presents arresting physical confrontation.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 4,
+        "specific_question": "If only some scars were from war, who or what inflicted the rest upon Alexander?",
+        "stakes_importance": "High \u2014 drops a seismic hint confirming a dark, violent past beyond ordinary military duty with his gaze heavy and clouded.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 8,
+          "start_beat_id": "B013",
+          "end_beat_id": "B025",
+          "start_time": 33.2,
+          "end_time": 64.3,
+          "duration": 31.1,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP008_09",
+      "episode": "Episode 8",
+      "episode_number": 8,
+      "start_beat_id": "B015",
+      "end_beat_id": "B025",
+      "start_time": 37.3,
+      "end_time": 64.3,
+      "duration": 27.0,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "'Let them grow' is an intimate personal preference with low narrative urgency.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Sustained physical hold on her arm in close-up maintains palpable romantic/physical tension.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 4,
+        "specific_question": "If only some scars were from war, who or what inflicted the rest upon Alexander?",
+        "stakes_importance": "High \u2014 drops a seismic hint confirming a dark, violent past beyond ordinary military duty with his gaze heavy and clouded.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 8,
+          "start_beat_id": "B015",
+          "end_beat_id": "B025",
+          "start_time": 37.3,
+          "end_time": 64.3,
+          "duration": 27.0,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

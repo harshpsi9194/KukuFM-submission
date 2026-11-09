@@ -1,0 +1,615 @@
+{
+  "episode": "Episode 14",
+  "episode_number": 14,
+  "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+  "continuity_notes": "Picks up immediately from Episode 13's cliffhanger where Juliana grasped the emerald ring beneath the razor-sharp blackthorns.",
+  "duration": 87.63,
+  "total_beats": 22,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 5.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up low angle looking through dense, sharp blackthorn branches onto the cracked, frozen soil.",
+          "start": 0.0,
+          "end": 5.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.",
+          "start": 0.5,
+          "end": 5.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Eerie cold wind whistling over the briars with deep, atmospheric cello chords.",
+          "start": 1.0,
+          "end": 5.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKTHORN GARDEN \u2013 DUSK"
+    },
+    {
+      "beat_id": "B002",
+      "start": 5.6,
+      "end": 9.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana stepping out from the briar patch, her cloak torn, cheeks scratched, holding the ring outward with unwavering resolve.",
+          "start": 5.6,
+          "end": 9.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I found it.",
+          "start": 7.7,
+          "end": 9.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Exhausted, Resolute"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKTHORN GARDEN \u2013 DUSK"
+    },
+    {
+      "beat_id": "B003",
+      "start": 9.5,
+      "end": 13.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot of Juliana holding the ring out toward the austere Police Constable standing guard beside the frozen garden.",
+          "start": 9.5,
+          "end": 13.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Now release my husband.",
+          "start": 10.5,
+          "end": 12.7,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Firm, Commanding"
+        },
+        {
+          "type": "action",
+          "description": "The Constable takes the ring from her bloodied fingers.",
+          "start": 12.5,
+          "end": 13.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKTHORN GARDEN \u2013 DUSK"
+    },
+    {
+      "beat_id": "B004",
+      "start": 13.5,
+      "end": 15.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight shot on the iron shackles locking Alexander's wrists together against the thorny backdrop.",
+          "start": 13.5,
+          "end": 15.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Sharp metallic click and clinking rattle of heavy iron handcuffs unlocking and falling away.",
+          "start": 14.2,
+          "end": 15.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The Constable unlocks the cuffs, freeing Alexander's large hands.",
+          "start": 14.5,
+          "end": 15.6,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKTHORN GARDEN \u2013 DUSK"
+    },
+    {
+      "beat_id": "B005",
+      "start": 15.6,
+      "end": 18.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tracking shot as Alexander lunges forward without hesitation, rushing past the Constable straight to Juliana.",
+          "start": 15.6,
+          "end": 18.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Juliana.",
+          "start": 16.8,
+          "end": 18.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Gasping, Urgent"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKTHORN GARDEN \u2013 DUSK"
+    },
+    {
+      "beat_id": "B006",
+      "start": 18.5,
+      "end": 23.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Alexander's rugged hands tenderly grasping Juliana's bloodied, lacerated hands, turning them over with immense care.",
+          "start": 18.5,
+          "end": 23.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander gently turns her palms up, his thumbs trembling as he inspects the deep, bleeding gashes gouged into her skin.",
+          "start": 18.8,
+          "end": 23.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKTHORN GARDEN \u2013 DUSK"
+    },
+    {
+      "beat_id": "B007",
+      "start": 23.0,
+      "end": 25.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Alexander's agonized, furious expression as he stares at her wounds.",
+          "start": 23.0,
+          "end": 25.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What have they done to you?",
+          "start": 23.1,
+          "end": 25.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Trembling, Heartbroken"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKTHORN GARDEN \u2013 DUSK"
+    },
+    {
+      "beat_id": "B008",
+      "start": 25.5,
+      "end": 29.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Juliana's pale, tear-streaked face looking back into his eyes with tender relief.",
+          "start": 25.5,
+          "end": 29.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Nothing they didn't promise.",
+          "start": 26.5,
+          "end": 28.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Softly, Stifling Pain"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKTHORN GARDEN \u2013 DUSK"
+    },
+    {
+      "beat_id": "B009",
+      "start": 29.5,
+      "end": 32.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium profile two-shot of Alexander and Juliana gazing into each other's eyes amidst the cold mist.",
+          "start": 29.5,
+          "end": 32.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Take me home.",
+          "start": 29.8,
+          "end": 32.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Faint, Pleading"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKTHORN GARDEN \u2013 DUSK"
+    },
+    {
+      "beat_id": "B010",
+      "start": 32.5,
+      "end": 38.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle medium shot as Alexander effortlessly scoops Juliana into his arms, gathering her up against his chest.",
+          "start": 32.5,
+          "end": 38.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander lifts Juliana bridal-style, wrapping his strong arms protectively around her as she rests against his shoulder.",
+          "start": 33.2,
+          "end": 37.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You should never have had to bleed for me.",
+          "start": 35.8,
+          "end": 38.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Deep, Sorrowful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKTHORN GARDEN \u2013 DUSK"
+    },
+    {
+      "beat_id": "B011",
+      "start": 38.5,
+      "end": 40.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium tracking shot behind stone balustrades as Alexander carries Juliana past the foggy estate grounds.",
+          "start": 38.5,
+          "end": 40.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. BLACKTHORN GARDEN \u2013 DUSK"
+    },
+    {
+      "beat_id": "B012",
+      "start": 40.5,
+      "end": 43.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide establishing shot of the humble stone cottage standing isolated beneath dark, overcast stormy skies on a rain-slicked dirt road.",
+          "start": 40.5,
+          "end": 43.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Gentle patter of rain and cold wind howling in the desolate countryside.",
+          "start": 40.5,
+          "end": 43.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. ALEXANDER'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B013",
+      "start": 43.5,
+      "end": 50.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Warm interior wide shot in front of a roaring hearth fire. Juliana sits on a wooden chair while Alexander kneels on the floor before her, a washbasin of water between them.",
+          "start": 43.5,
+          "end": 47.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander gently wraps clean linen bandages around Juliana's torn wrist and palm.",
+          "start": 44.0,
+          "end": 47.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Crackling flames and wood popping in the open fireplace.",
+          "start": 44.0,
+          "end": 47.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Intimate over-the-shoulder close-up looking up into Juliana's face from Alexander's perspective.",
+          "start": 47.0,
+          "end": 50.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You could have lost your hands.",
+          "start": 47.2,
+          "end": 49.8,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Hoarse, Stricken"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ALEXANDER'S COTTAGE \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B014",
+      "start": 50.5,
+      "end": 55.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up on Juliana's glistening eyes and trembling lips, firelight reflecting softly across her face.",
+          "start": 50.5,
+          "end": 55.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "But I didn't lose you.",
+          "start": 51.8,
+          "end": 54.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Whispered, Emotional"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ALEXANDER'S COTTAGE \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B015",
+      "start": 55.5,
+      "end": 58.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Alexander's scarred, weathered fingers wrapping the cloth tightly yet gently around her lacerations.",
+          "start": 55.5,
+          "end": 58.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ALEXANDER'S COTTAGE \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B016",
+      "start": 58.5,
+      "end": 60.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "I'm sorry.",
+          "start": 58.5,
+          "end": 60.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Quiet, Tender"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up on Alexander looking up at her with profound remorse and affection.",
+          "start": 58.5,
+          "end": 60.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ALEXANDER'S COTTAGE \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B017",
+      "start": 60.5,
+      "end": 63.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "You didn't hurt me.",
+          "start": 60.5,
+          "end": 62.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Gentle, Reassuring"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up on Juliana smiling faintly through her tears, shaking her head.",
+          "start": 60.5,
+          "end": 63.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ALEXANDER'S COTTAGE \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B018",
+      "start": 63.5,
+      "end": 66.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Side profile close-up of Alexander lowering his head solemnly in front of her.",
+          "start": 63.5,
+          "end": 66.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ALEXANDER'S COTTAGE \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B019",
+      "start": 66.0,
+      "end": 70.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "You have taken my place today.",
+          "start": 66.0,
+          "end": 67.4,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Loving, Earnest"
+        },
+        {
+          "type": "camera",
+          "description": "Medium two-shot as Alexander gently drapes a heavy warm woolen blanket across Juliana's lap and around her shoulders.",
+          "start": 66.0,
+          "end": 70.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And you are doing it better than me.",
+          "start": 67.5,
+          "end": 69.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Continuing"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ALEXANDER'S COTTAGE \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B020",
+      "start": 70.5,
+      "end": 76.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as Juliana rests her cheek against Alexander's chest; he embraces her tightly against him, cradling her head under his chin.",
+          "start": 70.5,
+          "end": 76.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana closes her eyes in exhausted relief, sinking into Alexander's warmth as his broad arm encloses her safely.",
+          "start": 71.0,
+          "end": 76.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ALEXANDER'S COTTAGE \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B021",
+      "start": 76.0,
+      "end": 83.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Alexander holding Juliana against his bearded cheek, kissing the crown of her head before gently cradling her jaw in his scarred hand.",
+          "start": 76.0,
+          "end": 83.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No one will ever hurt you for protecting me again.",
+          "start": 76.5,
+          "end": 81.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Dark, Solemn Vow"
+        },
+        {
+          "type": "action",
+          "description": "Alexander strokes her cheek with his thumb, his gaze hardening into deadly, protective conviction.",
+          "start": 81.2,
+          "end": 83.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ALEXANDER'S COTTAGE \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B022",
+      "start": 83.5,
+      "end": 87.63,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot focusing down on two wooden buckets on the stone floor\u2014one filled with dark, blood-soaked wash water reflecting the fireplace.",
+          "start": 83.5,
+          "end": 87.63,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander's muscular arm drops into frame beside the bloody bucket; his scarred knuckles slowly and tightly clench into an iron fist of brewing vengeance.",
+          "start": 84.0,
+          "end": 87.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black.",
+          "start": 84.5,
+          "end": 87.63,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ALEXANDER'S COTTAGE \u2013 NIGHT"
+    }
+  ]
+}

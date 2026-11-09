@@ -1,0 +1,296 @@
+{
+  "episode_number": 20,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard architectural establishing shot with no character presence, motion, or immediate conflict on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct aristocratic verbal sparring and declaration of power grab ('The estate is practically ours').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Polite drawing-room tea pouring and glove adjustments; opulent regency aesthetic but mild physical action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sharp high-stakes conspiracy dialogue waiting on a cousin's formal death to claim the dukedom.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Dismissive teacup delivery paired with a predatory lean forward across the table conveys visible intimidation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Cold, calculated confrontation questioning why the Dowager still lives ('The old woman still breathes').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up of icy blue eyes narrowing in calculated malice creates noticeable facial tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sinister insinuation of deliberate poisoning ('wasting of the lungs') and asking how long the victim can survive.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of a sinister grin spreading across Rupert's face contrasting Catherine's chilling detachment.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Chilling implication of engineered murder ('Not through the winter. I've ensured her quiet comfort').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static medium profile shot of a man looking out a window with hands behind his back.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Vicious elitist insult comparing starving villagers to barking dogs.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on lips curling into open venomous disgust provides clear villainess characterization without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Brutal class antagonism declaring commoners to be 'dirt beneath our boots.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Rupert towering over Catherine with a possessive gloved hand on her shoulder visually underscores dominance and collusion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "High-urgency declaration that stopping means the valley's lung fever wins.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Visually arresting contrast: noblewoman kneeling in barn straw with fire-bandaged hands and smudged face fighting to keep her basket.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Shocking status-fall revelation delivered in emotional anguish: 'You are a viscount's daughter! Sleeping on straw!'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of weathered villager's face agonizingly strained with grief and desperation conveys immediate drama.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Heroic moral defiance stating the chapel is gone and she is the only healer left.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up showing a firmly set jaw and determined gaze establishes protagonist grit on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Poignant, punchy reversal dialogue: 'They have reduced me to myself. And I am not finished.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard atmospheric two-shot in a barn under lantern light with minimal physical confrontation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Shocking cruelty directed at the suffering sick: 'Let the peasants rot in their barns. Let them pray to their weeds.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Sharp physical punctuation of slamming teacup followed by tight close-up of face contorting into venomous arrogance.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Seductive reassurance asserting that no rival stands in her way, lacking direct verbal friction.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intimate whispering into the ear with a seductive smirk creates immediate physical intrigue on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Direct conspiracy to usurp the estate as soon as the Duchess dies.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on Catherine's expression turning predatory and cold as she locks eyes with her co-conspirator.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Grand ruthless declaration of dominion: 'This house will only bow to me.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Regal standing movement and tracking shot framing an aristocratic silhouette against the looming window.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up profile of intense burning eyes against cold glass delivering maximum villainous intensity on mute.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 0,
+      "specific_question": "What is Ashbury Manor?",
+      "stakes_importance": "Low \u2014 atmospheric establishing shot with no narrative conflict or characters introduced.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Rupert successfully secure the succession papers for Ashbury estate?",
+      "stakes_importance": "Low \u2014 exposition of ambitious plotters; establishes context rather than immediate crisis.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "Is cousin Alexander truly dead, or will the Crown's formal sealing uncover a scandal?",
+      "stakes_importance": "Medium \u2014 raises a plot condition regarding inheritance and the confirmation of Alexander's death.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Catherine and Rupert deal with the living Dowager obstructing their ambition?",
+      "stakes_importance": "Medium \u2014 introduces a clear obstacle and potential target for the villains.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 4,
+      "specific_question": "Is Rupert actively poisoning or orchestrating the Dowager's 'wasting of the lungs'?",
+      "stakes_importance": "High \u2014 strongly implies foul play/murder in progress against the matriarch.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 4,
+      "specific_question": "What dark measure did Rupert take when ensuring the Dowager will not survive the winter?",
+      "stakes_importance": "High \u2014 chilling confirmation that the Dowager's imminent demise is deliberately engineered.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the whispering villagers discover Catherine and Rupert's plot against the Dowager?",
+      "stakes_importance": "Low \u2014 villainous vent of disdain toward the peasantry without an immediate confrontation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Rupert and Catherine succeed in subjugating the estate and the locals?",
+      "stakes_importance": "Low \u2014 arrogant posturing and villainous reinforcement of status ambition.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can injured Juliana survive the freezing draft and save the valley from the deadly lung fever?",
+      "stakes_importance": "Medium \u2014 establishes Juliana's fallen status, physical injury, and stubborn moral resilience.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana yield to Seamus's plea and abandon her exhausting duty to reclaim her aristocratic dignity?",
+      "stakes_importance": "Medium \u2014 highlights the visceral contrast between her noble heritage and her present destitution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Juliana heal the dying valley villagers alone after the chapel's destruction?",
+      "stakes_importance": "Medium \u2014 underscores her isolated struggle as the sole protector of the vulnerable.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Juliana rise from destitution to exact vengeance and reclaim her place against those who ruined her?",
+      "stakes_importance": "High \u2014 quintessential vertical drama turning point: protagonist pivots from fallen victim to defiant avenger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Catherine's venomous disregard for the peasants lead to her downfall when Juliana intervenes?",
+      "stakes_importance": "Medium \u2014 direct contrast between Catherine's malice and the village Juliana is tending.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 4,
+      "specific_question": "When will Rupert and Catherine discover that their presumed nonexistent rival, Juliana, is quietly surviving nearby?",
+      "stakes_importance": "High \u2014 dramatic irony peak where villains declare total security right as their nemesis readies herself.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the conspirators successfully eliminate the old Duchess before their conspiracy is exposed?",
+      "stakes_importance": "High \u2014 explicit conspiracy to commit patricide/regicide to seize Ashbury.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Catherine force the ancient estate and its people to bend to her tyrannical will?",
+      "stakes_importance": "Medium \u2014 aristocratic villain assertion establishing the tyrannical regime to be contested.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who will stop Catherine's ruthless ascendance before she poisons the Dowager and claims the estate?",
+      "stakes_importance": "High \u2014 maximum unresolved tension holding on villainous ambition, backed by a swelling musical cliffhanger peak.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "episode_number": 11,
+  "total_scored": 13,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP011_01",
+      "start_beat_id": "B006",
+      "end_beat_id": "B009",
+      "start_time": 10.8,
+      "end_time": 34.9,
+      "duration": 24.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens with a wide two-shot establishing Gerald and Juliana facing off across puddle-strewn ground in a misty landscape, punctuated by Gerald's direct hostile demand ('I came for something that belongs to me') and a cut to Clarissa smiling malevolently from a carriage. Setting, presence, and antagonistic confrontation are established immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Gerald accuses Juliana's husband Alexander of stealing a gold pocket watch, insults Alexander as a 'beggar', and Alexander steps forward with a rigid, lethal threat ('Choose your next words carefully'). The dynamic of wronged defender vs arrogant accuser is immediately obvious without prior lore.",
+        "passes_gate": true,
+        "situational_summary": "An arrogant wealthy antagonist confronts a woman outside her cottage, falsely accusing her husband of stealing a gold pocket watch, until the husband steps forward with a lethal warning."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging class humiliation met with deadly suppressed retribution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Introduces the theft accusation and framing plotline against Alexander; functions as an inciting confrontation ideal for prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_02",
+      "start_beat_id": "B006",
+      "end_beat_id": "B011",
+      "start_time": 10.8,
+      "end_time": 53.6,
+      "duration": 42.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 provides a clear wide establishing two-shot outdoors between Gerald and Juliana with immediate dialogue establishing a confrontational demand, supported visually by Clarissa gloating from a carriage window.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely self-contained dramatic escalation: Gerald's accusation of theft leads to an arriving constable demanding to search the cottage, Juliana physically barring the door to protect their home, and Alexander shocking her by coldly commanding the constable to search it.",
+        "passes_gate": true,
+        "situational_summary": "When a wealthy rival brings a constable to search a couple's cottage over an alleged stolen watch, the panicked wife blocks the door, but her mysterious husband calmly invites the search."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate spousal defense against legal persecution upended by quiet authority"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Sets up the framing attempt and search warrant sequence without revealing what is found inside or the outcome."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_03",
+      "start_beat_id": "B008",
+      "end_beat_id": "B011",
+      "start_time": 16.8,
+      "end_time": 53.6,
+      "duration": 36.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B008 opens on a medium close-up of Gerald pointing an accusatory finger with an explosive, unambiguous opening line ('Your husband stole my gold pocket watch!'), paired with Juliana's visible shock. The central conflict and interpersonal dynamic are instantly explicit.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is clear and self-contained: a direct criminal accusation brings an armed constable to the doorstep, escalating Juliana's panic until Alexander overrides her and consents to the invasive search.",
+        "passes_gate": true,
+        "situational_summary": "Accused of harboring a thief when a rival demands a constable search their cottage for a stolen pocket watch, a woman tries to bar the entrance until her husband unexpectedly permits the search."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Public criminal accusation escalating into a high-stakes standoff"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the theft accusation and official search escalation; highly effective cold-open disruption."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_04",
+      "start_beat_id": "B009",
+      "end_beat_id": "B011",
+      "start_time": 20.0,
+      "end_time": 53.6,
+      "duration": 33.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 opens abruptly in mid-exchange on a close-up of Gerald saying 'The last time I came here.' Without seeing the accusation made in Beat B008, a cold viewer cannot know what event or object is being referenced or why they are arguing in the first 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The core dispute over a search and the husband being defended becomes apparent once the dialogue mentions stealing and the constable enters.",
+        "passes_gate": false,
+        "situational_summary": "A woman and her scarred husband face an arrogant man who brings an officer to search their cottage, culminating in the husband daring them to enter."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Class mockery and authoritarian intimidation met with stoic defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the escalation of the cottage search accusation."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_05",
+      "start_beat_id": "B012",
+      "end_beat_id": "B017",
+      "start_time": 54.0,
+      "end_time": 84.0,
+      "duration": 30.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B012 establishes a distinct physical setting and conflict immediately: a law enforcement Constable barges into a cottage while Juliana steps aside, followed by violent ransacking of crates.",
+        "arc_legibility": false,
+        "arc_rationale": "While the immediate conflict (an unwarranted search and baiting of Alexander) is visible, cutting off at B017 leaves the confrontation unresolved and fails to establish what is actually being searched for or the true stakes of the investigation before truncating.",
+        "passes_gate": false,
+        "situational_summary": "A Constable ransacks a woman's cottage while a spiteful gentleman taunts her soldier companion into physical violence."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Humiliating violation of home escalating to restrained masculine rage"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the initial cottage search and confrontation without exposing the planted evidence or outcome."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_06",
+      "start_beat_id": "B012",
+      "end_beat_id": "B020",
+      "start_time": 54.0,
+      "end_time": 99.2,
+      "duration": 45.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B012 opens with a clear establishing medium shot of Juliana stepping aside as an authoritative Constable barges in and begins overturning crates, instantly grounding the setting, characters, and high-stakes intrusion.",
+        "arc_legibility": true,
+        "arc_rationale": "Full dramatic arc is self-contained: the Constable conducts an aggressive search, Gerald's spiteful motive ('planted this accusation') is vocalized, Alexander restrains himself to protect Juliana, and the devastating reveal of the stolen pocket watch establishes clear betrayal/framing.",
+        "passes_gate": true,
+        "situational_summary": "During a vindictive cottage search orchestrated by a bitter ex, a constable discovers a stolen gold pocket watch hidden inside a soldier's coat."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Helpless violation transitioning through boiling restraint into devastating framed betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key plot framing mechanic (the discovery of the gold watch planted in Alexander's coat)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_07",
+      "start_beat_id": "B013",
+      "end_beat_id": "B019",
+      "start_time": 58.0,
+      "end_time": 93.2,
+      "duration": 35.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 opens on a clear, grounded visual: Juliana on her knees desperately gathering scattered herbs while a Constable violently throws bed linens onto the floor, anchored by her direct line 'Stop! Those are my mother's medicines!'.",
+        "arc_legibility": false,
+        "arc_rationale": "Cuts off in Beat B019 right as the Constable searches the coat without revealing what is inside or resolving the suspicion, leaving the core narrative stakes incomplete for a cold viewer.",
+        "passes_gate": false,
+        "situational_summary": "A woman desperately tries to protect her belongings while an aggressive constable searches her home and prepares to search a soldier's coat."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate plea against state cruelty and escalating personal provocation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the raid and search up to the pocket inspection without revealing the incriminating evidence."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_08",
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 58.0,
+      "end_time": 99.2,
+      "duration": 41.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 instantly establishes the scene and power imbalance: Juliana on her knees salvaging scattered medicines while an aggressive Constable hurls her linens onto the floor.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained narrative: Juliana's distress, the vindictive nature of Gerald's accusation, Alexander's noble restraint under threat of arrest, culminating in the shocking discovery of the gold pocket watch in his coat.",
+        "passes_gate": true,
+        "situational_summary": "A vindictive noble uses a constable to ransack a woman's home, culminating in the discovery of a stolen gold pocket watch planted in her protector's coat."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Desperate protective grief culminating in a shocking, catastrophic frame-up"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the execution of the frame job (the gold pocket watch found in Alexander's trench coat)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_09",
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 61.8,
+      "end_time": 99.2,
+      "duration": 37.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 immediately establishes physical setting and stakes: a tearful woman crawling on the floor while a constable searches a keepsake box and an arrogant man sneers from the doorway, instantly clarified by her direct accusation of a planted frame-up.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is completely self-contained: the spiteful ex/rival Gerald oversees a search of the cottage, Alexander restrains himself to protect Juliana, and the constable pulls the planted gold watch from Alexander's coat, culminating in Juliana's horrified realization.",
+        "passes_gate": true,
+        "situational_summary": "While a constable searches a modest cottage under a vindictive aristocrat's watchful eye, a framed stolen pocket watch is discovered inside a restrained soldier's coat."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Humiliating violation and gut-wrenching despair as an innocent couple is trapped by a planted frame-up"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key execution of the conspiracy frame-up (the discovery of the stolen watch in Alexander's coat)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_10",
+      "start_beat_id": "B014",
+      "end_beat_id": "B021",
+      "start_time": 61.8,
+      "end_time": 102.0,
+      "duration": 40.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 visually and verbally anchors the confrontation right away with the search, the weeping woman on the floor, and the antagonist Gerald in the doorway baiting her.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained conflict from accusation to proof: Gerald baits the couple, the constable uncovers the planted watch, and Alexander shifts from physical restraint to lethal realization of the trap.",
+        "passes_gate": true,
+        "situational_summary": "A woman confronts a malicious aristocrat during a constable's raid on her home, ending in silent terror when the planted watch is found in her partner's coat."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Powerless outrage transforming into cold, lethal realization of an inescapable trap"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Shows the climax of the cottage search and the discovery of the planted evidence against Alexander."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_11",
+      "start_beat_id": "B017",
+      "end_beat_id": "B022",
+      "start_time": 81.3,
+      "end_time": 106.8,
+      "duration": 25.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 opens cold on Gerald taunting an unidentified man ('What is it, soldier? Going to strike a gentleman in front of his wife?'). Without earlier context, a cold viewer cannot establish who the soldier is, why they are in this room, or why a constable is present.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the constable searches the coat and reveals the gold watch, the core conflict of a frame-up becomes clear, culminating in Gerald's gloating confirmation.",
+        "passes_gate": false,
+        "situational_summary": "A taunted soldier is restrained by a constable who searches his coat and produces a stolen gold watch to the evil delight of a rival gentleman."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Malignant gloating and vicious entrapment"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the successful frame-up of Alexander with the discovery of the watch and Gerald's celebration."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_12",
+      "start_beat_id": "B017",
+      "end_beat_id": "B023",
+      "start_time": 81.3,
+      "end_time": 112.75,
+      "duration": 31.45,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 opens in media res with an ungrounded taunt toward an off-screen 'soldier' without visually establishing the cottage raid, the stakes, or the characters' relationships in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict between the restrained soldier, the frantic woman, and the gloating aristocrat resolves clearly around the incriminating pocket watch being found in the coat.",
+        "passes_gate": false,
+        "situational_summary": "An antagonistic gentleman goads a soldier as a constable discovers an allegedly stolen gold watch in the soldier's coat."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cruel public humiliation and triumphant malice as the trap springs shut"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the incriminating evidence planted in Alexander's coat and Gerald's triumphant reaction."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP011_13",
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "start_time": 85.0,
+      "end_time": 112.75,
+      "duration": 27.75,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 immediately establishes physical grounding and interpersonal stakes within seconds: a woman in acute panic, an internal resolve under physical restraint by a Constable, and the officer searching the man's coat while the woman protests.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained and legible: an officer searches an accused man's coat, discovers an incriminating gold pocket watch, the woman reacts in horror, and an antagonist (Gerald) celebrates the successful frame-up.",
+        "passes_gate": true,
+        "situational_summary": "While restrained by a Constable, an accused man watches helplessly as an officer pulls a stolen gold pocket watch from his coat lining, confirming a devastating frame-up to the delight of his smirking rival."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic tension and visceral dread from a crushing, inescapable frame-up"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the discovery of the planted pocket watch and the execution of the theft frame-up against Alexander."
+      }
+    }
+  ]
+}

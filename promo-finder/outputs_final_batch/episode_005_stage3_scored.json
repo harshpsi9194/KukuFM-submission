@@ -1,0 +1,181 @@
+{
+  "episode_number": 5,
+  "total_scored": 7,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP005_01",
+      "start_beat_id": "B003",
+      "end_beat_id": "B006",
+      "start_time": 6.6,
+      "end_time": 29.0,
+      "duration": 22.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B003 immediately establishes Lord Ashcroft in close-up delivering an unmistakable patriarchal decree ('You will not leave this church carrying the Ashcroft name'), instantly clarifying the aristocratic power dynamic, setting, and high-stakes family confrontation.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly delineates a daughter defying her father by marrying her husband, resulting in immediate disownment, revocation of dowry/inheritance, and total familial excommunication in a tight, self-contained dramatic progression.",
+        "passes_gate": true,
+        "situational_summary": "Outside a church after a wedding, an aristocratic father ruthlessly strips his daughter of her family name, dowry, and inheritance, declaring her dead to the family."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe patriarchal rejection and traumatic public disownment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the immediate inciting fallout of Juliana's defiance and expulsion from the Ashcroft dynasty."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_02",
+      "start_beat_id": "B005",
+      "end_beat_id": "B013",
+      "start_time": 15.8,
+      "end_time": 69.0,
+      "duration": 53.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 frames Lord Ashcroft standing rigid outside a gothic chapel archway while declaring 'Then leave as his wife. You leave as no daughter of mine.', grounding the physical exterior and the core rift without needing outside explanation.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is crystal clear: the disowned bride faces cold parental detachment, followed by a malicious stepmother/relative (Lady Ashcroft) seizing and defiling her deceased mother's ledger, mocked by cruel onlookers as she weeps in the mud in her wedding gown.",
+        "passes_gate": true,
+        "situational_summary": "After being disowned on church steps, a newly married daughter is further humiliated when a cruel matriarch tears her late mother's ledger away and casts it into the rain-slicked mud."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public humiliation and desecration of a mother's sacred legacy"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the catastrophic emotional bottom and inciting family break right after the vows."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_03",
+      "start_beat_id": "B006",
+      "end_beat_id": "B012",
+      "start_time": 20.8,
+      "end_time": 54.0,
+      "duration": 33.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens with an authoritative low-angle tracking shot of boots descending stone steps paired with a close-up of a weeping woman clutching a ledger as her father revokes her dowry, inheritance, and declares her dead to the family, instantly anchoring the stakes visually and narratively.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict between the ostracized daughter and her cold family is unambiguous, escalating directly from her father's severance to Lady Ashcroft demanding and seizing the deceased mother's ledger.",
+        "passes_gate": true,
+        "situational_summary": "A father disinherits his newlywed daughter on stone steps, setting the stage for a malicious relative to seize the treasured ledger left by her late mother."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold familial cruelty and mounting predatory extortion"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the inciting confrontation and formal disownment following the wedding."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_04",
+      "start_beat_id": "B006",
+      "end_beat_id": "B013",
+      "start_time": 20.8,
+      "end_time": 69.0,
+      "duration": 48.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens with high visual and contextual clarity: tracking boots descending steps and a bride in shock clutching a ledger while her father explicitly strips her dowry and declares her dead to the family.",
+        "arc_legibility": true,
+        "arc_rationale": "Presents a fully legible and escalating confrontation: complete paternal disownment, a failed plea for decency, and the aggressive theft and casting of her mother's heirloom into the mud while mockers jeer and she collapses in her gown.",
+        "passes_gate": true,
+        "situational_summary": "A father completely disowns his daughter on the cathedral steps, after which a vindictive matriarch rips her late mother's ledger away and flings it into the wet dirt."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak heartbreak, devastating public humiliation, and cruel theft of an heirloom"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Captures the full inciting rupture of family ties and the desecration of Juliana's inheritance."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_05",
+      "start_beat_id": "B013",
+      "end_beat_id": "B019",
+      "start_time": 54.0,
+      "end_time": 96.5,
+      "duration": 42.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 opens immediately on a high-stakes, visceral physical action: a close-up of a ledger violently wrenched from Juliana's grip and hurled into a rain-soaked puddle, followed by cruel laughter from high on cathedral steps and Juliana dropping to her knees in her bridal gown. The physical setting, status disparity, and victim-oppressor dynamic are instantly established within 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows a ruined noble bride being publicly humiliated and dispossessed by Gerald and Clarissa, only to be consoled by a compassionate stranger, before Gerald taunts her as a 'beggar's wife.' The antagonist, victim, and central conflict are completely self-contained without needing prior lore.",
+        "passes_gate": true,
+        "situational_summary": "After cruel aristocrats snatch and throw a ruined noblewoman's heirloom into the mud, an enigmatic stranger comforts her before the haughty antagonist mocks her downfall."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cruel public humiliation transitioning into tender solidarity against aristocratic arrogance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Displays the immediate aftermath of her wedding fall and social ruin (inciting status rupture), ideal for cold prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_06",
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 54.0,
+      "end_time": 101.5,
+      "duration": 47.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 opens on a clear, aggressive establishing sequence: a close-up wrenching of a precious book, it smashing into a rain puddle, and a bride weeping on wet stone while haughty antagonists laugh from cathedral steps. Visually and interpersonally legible within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative trajectory is fully self-contained: brutal public humiliation by arrogant nobles, tender protection from an unexpected savior, and a sharp confrontation ending in an explicit verbal counter-threat that chills the antagonist.",
+        "passes_gate": true,
+        "situational_summary": "A disgraced noble bride weeping in the mud over her soiled family heirloom is defended by a mysterious man who issues a chilling warning to her mocking ex-groom."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Stinging humiliation eclipsed by protective defiance and lethal confrontation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Features the inciting public humiliation and initial protective alliance; provides powerful hooks without resolving overarching mysteries."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_07",
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 69.0,
+      "end_time": 101.5,
+      "duration": 32.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 opens in media res with a woman already kneeling on the damp ground while a man walks in to pick up a book from a puddle. Without Beat B013, a cold scroller lacks the initial grounding of why she is on the ground, who threw the book, or what confrontation is occurring; relying on later beats to establish this is forbidden retrospective justification.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full clip, Gerald's taunt from the steps and the stranger's intervention clarify that she was degraded by noble antagonists.",
+        "passes_gate": false,
+        "situational_summary": "A kneeling woman weeping over a fallen book is assisted by a scarred stranger, who then confronts a sneering nobleman on the cathedral steps."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Quiet protective compassion escalating into a tense standoff"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes the post-humiliation encounter and dynamic between the stranger and the antagonist."
+      }
+    }
+  ]
+}

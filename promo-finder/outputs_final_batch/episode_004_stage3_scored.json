@@ -1,0 +1,481 @@
+{
+  "episode_number": 4,
+  "total_scored": 19,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP004_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B011",
+      "start_time": 0.0,
+      "end_time": 27.9,
+      "duration": 27.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B001 opens on a tight close-up of a scarred hand holding out a silver ring with zero visual establishing context, no characters' faces, and no indication of the chapel setting or wedding premise.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the spiteful couple mocking Juliana and her questioning of the kneeling stranger's proposal establishes the betrayal and unexpected lifeline clearly.",
+        "passes_gate": false,
+        "situational_summary": "After being publicly mocked by her ex and his partner, a humiliated woman questions why a kneeling mysterious stranger is offering her a ring."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Stinging public humiliation meeting quiet vulnerability and confusion"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the aftermath of Juliana being discarded and the initial stranger proposal setup."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B016",
+      "start_time": 0.0,
+      "end_time": 38.9,
+      "duration": 38.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B001 is a disembodied close-up of a scarred hand with a silver ring; in isolation, a cold viewer cannot tell who is present, where this is taking place, or what interpersonal dynamic exists.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows Gerald and Clarissa mocking the discarded bride, followed by the stranger defending Juliana's dignity and offering marriage.",
+        "passes_gate": false,
+        "situational_summary": "A discarded bride confronted with public mockery from her ex finds an unexpected defender when a mysterious stranger steps forward to offer marriage."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cruel public humiliation countered by chivalrous vindication"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the stranger intervening with a marriage proposal to counter the ex's public betrayal."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_03",
+      "start_beat_id": "B004",
+      "end_beat_id": "B016",
+      "start_time": 5.0,
+      "end_time": 38.9,
+      "duration": 33.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B004 begins on a tight close-up of Gerald mid-sneer delivering the line 'A penniless nobody for a discarded bride.' Without visual grounding of who the bride or nobody are, it reads as an unanchored mid-scene reaction shot.",
+        "arc_legibility": true,
+        "arc_rationale": "The progression from Gerald and Clarissa's gloating to Juliana's dialogue with the kneeling bearded man clearly establishes the antagonistic exes versus the protective stranger.",
+        "passes_gate": false,
+        "situational_summary": "A smug ex-groom sneers at a discarded bride until a kneeling stranger turns the tables by defending her dignity."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vicious mockery giving way to a defiant defense of honor"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the ex-groom's scorn and the stranger's overt marriage proposal defense."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_04",
+      "start_beat_id": "B006",
+      "end_beat_id": "B016",
+      "start_time": 10.5,
+      "end_time": 38.9,
+      "duration": 28.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens on a clear two-shot of a couple (Clarissa and Gerald) standing proudly in a church pew pointing mocking fingers while insulting Juliana, immediately followed by Juliana's hurt profile, establishing the setting, the antagonists, the victim, and the cruel dynamic within 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: the gloating couple insults Juliana's worth, and the kneeling stranger counters their cruelty directly to defend her.",
+        "passes_gate": true,
+        "situational_summary": "As a gloating couple mocks a publicly humiliated woman in a chapel pew, a mysterious kneeling man stands up to defend her worth and offer his hand."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sharp public humiliation transformed into noble romantic vindication"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Features the public rejection inciting incident and the stranger's surprise intervention."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_05",
+      "start_beat_id": "B006",
+      "end_beat_id": "B020",
+      "start_time": 10.5,
+      "end_time": 52.8,
+      "duration": 42.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens on a clear two-shot of a couple standing proudly in church pews with the woman mocking and pointing fingers, cutting to Juliana hurt by the insult. Immediately visually establishes the chapel setting, antagonists, and targeted protagonist without requiring outside context.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Juliana's family has betrayed and discarded her, but an earnest kneeling stranger offers her his ring and protection against the mocking family in the pews.",
+        "passes_gate": true,
+        "situational_summary": "After enduring vicious public insults from her family in a chapel, a betrayed young woman is offered an unexpected proposal of marriage and protection by a kneeling stranger."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging public humiliation yielding to poignant, unexpected chivalry"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Features the inciting aftermath of the wedding betrayal and the stranger's sudden proposal offer."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_06",
+      "start_beat_id": "B006",
+      "end_beat_id": "B021",
+      "start_time": 10.5,
+      "end_time": 55.8,
+      "duration": 45.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 establishes the chapel dynamic immediately with Clarissa pointing mocking fingers alongside Gerald in the pew while Juliana absorbs the public verbal assault in close-up.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear three-way dynamic between the gloating family antagonists, the wounded protagonist, and the kneeling suitor whose offer of marriage is fiercely challenged by her defensive pride.",
+        "passes_gate": true,
+        "situational_summary": "Mocked by her family at a wedding chapel, a cast-aside bride confronts a strange suitor who offers her his ring, fiercely rejecting any offer made out of pity."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant wounded pride refusing pity amidst family humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the confrontation with the stranger immediately following the altar betrayal."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_07",
+      "start_beat_id": "B006",
+      "end_beat_id": "B022",
+      "start_time": 10.5,
+      "end_time": 59.0,
+      "duration": 48.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 presents a clear visual anchor: two smug family members mocking from a pew and an isolated, hurt Juliana receiving the verbal blow.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly conveys the betrayal Juliana suffered from her family and her refusal to trade public shame for patronizing charity when offered the stranger's ring.",
+        "passes_gate": true,
+        "situational_summary": "Humiliated by her own family in church, a betrayed bride forcefully warns a mysterious kneeling man that she will not accept his marriage proposal as an act of charity."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging humiliation met with fiery self-respect and emotional resistance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the immediate aftermath of the broken wedding and Juliana's test of the suitor's motives."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_08",
+      "start_beat_id": "B006",
+      "end_beat_id": "B024",
+      "start_time": 10.5,
+      "end_time": 65.8,
+      "duration": 55.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 immediately grounds the setting and interpersonal dynamic with Clarissa and Gerald gloating from a pew while Juliana endures the public attack.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely self-contained emotional and narrative journey: moves from public disgrace by family to suspicion of pity, culminating in the stranger's solemn declaration that his proposal is a vow.",
+        "passes_gate": true,
+        "situational_summary": "Publicly humiliated by her family in a chapel, a cast-off woman questions a kneeling stranger offering a ring, who solemnly swears his proposal is a vow rather than pity."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public rejection redeemed by an intense, solemn vow of alliance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the setup of Juliana accepting a substitute marriage vow right after being publicly jilted."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_09",
+      "start_beat_id": "B024",
+      "end_beat_id": "B040",
+      "start_time": 62.8,
+      "end_time": 119.0,
+      "duration": 56.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B024 opens on an extreme tight close-up of a scarred face saying 'It is a vow' without establishing physical setting, who he is speaking to, or the wedding context. A cold mobile viewer is given no spatial or relational grounding in isolation.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full duration, the dynamic becomes clear: Juliana defies her estranged family to marry a mysterious scarred protector at the altar, culminating in Gerald's furious public condemnation.",
+        "passes_gate": false,
+        "situational_summary": "At an altar, a young noblewoman accepts the vow of an enigmatic scarred man over the silent disdain of her family, completing an impromptu marriage that sends a rival into a jealous rage."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Solemn defiant romantic union against public rejection and bitter outrage"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the unexpected altar marriage and Gerald's disruption, representing the key inciting disruption of the marital arc."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_10",
+      "start_beat_id": "B025",
+      "end_beat_id": "B040",
+      "start_time": 65.8,
+      "end_time": 119.0,
+      "duration": 53.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B025 immediately grounds the scene: Juliana explicitly states 'I don't know this man' while the camera cuts to her family sitting coldly in the pews and her facing her suitor to declare 'Then I accept.' Interpersonal dynamic and situation are fully legible within the opening seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Juliana marries an unknown stranger to escape her cruel family, concluding with the priest pronouncing them married and an enraged Gerald screaming that she threw herself away.",
+        "passes_gate": true,
+        "situational_summary": "Abandoned by her cold family in church, a young noblewoman decides to marry a total stranger at the altar, defying expectations and provoking an enraged man in the pews to charge forward."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant leap of faith into marriage turning into acute public confrontation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the shocking marriage to the mysterious man and Gerald's immediate outraged backlash."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_11",
+      "start_beat_id": "B028",
+      "end_beat_id": "B039",
+      "start_time": 79.0,
+      "end_time": 116.8,
+      "duration": 37.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 opens on an uncontextualized close-up of hands joining without showing who the characters are, where they are, or why a woman's hand is entering a weathered palm. Unanchored visual opening.",
+        "arc_legibility": true,
+        "arc_rationale": "The progression through the wedding vows and the priest's pronunciation establishes the stakes and leads to Gerald's sudden interruption.",
+        "passes_gate": false,
+        "situational_summary": "A bride takes a vow with an earnest warrior at the altar before an anxious priest, concluding the ceremony just as an enraged aristocrat lunges forward."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Tender romantic ceremony disrupted at the final second by jealous fury"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the conclusion of the impromptu wedding and Gerald's initial outburst."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_12",
+      "start_beat_id": "B028",
+      "end_beat_id": "B040",
+      "start_time": 79.0,
+      "end_time": 119.0,
+      "duration": 40.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 opens on an isolated close-up insert of two hands clasping. Without dialogue or an establishing wide shot, a cold viewer cannot discern the environment, the relationship, or the dramatic context.",
+        "arc_legibility": true,
+        "arc_rationale": "The ensuing beats clarify the cathedral wedding ritual, the man's pledge of protection, the priest's proclamation, and Gerald's explosive final accusation.",
+        "passes_gate": false,
+        "situational_summary": "A woman joins hands with a solemn scarred stranger in a cathedral wedding, ending on the priest's blessing and an arrogant rival screaming insults at the union."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sincere romantic pledge colliding with vicious verbal condemnation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the completion of the secret/impromptu wedding and Gerald's explosive accusation."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_13",
+      "start_beat_id": "B035",
+      "end_beat_id": "B042",
+      "start_time": 100.2,
+      "end_time": 125.8,
+      "duration": 25.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B035 opens on a clear close-up of a man sliding a wedding ring onto a woman's finger, immediately establishing a wedding ceremony context visually in under two seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained conflict: the bride marries a mysterious protector over the objections of an enraged former suitor/fianc\u00e9 (Gerald), culminating in her defiant declaration of self-worth.",
+        "passes_gate": true,
+        "situational_summary": "A bride marries a mysterious protective stranger at the altar, rejecting her enraged ex-fianc\u00e9 with defiant pride."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Romantic devotion and public triumph over bitter humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the unexpected altar marriage and rupture of the original betrothal; a high-impact inciting incident for cold acquisition."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_14",
+      "start_beat_id": "B035",
+      "end_beat_id": "B043",
+      "start_time": 100.2,
+      "end_time": 127.4,
+      "duration": 27.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B035 begins with a crisp visual anchor of a man sliding a silver band onto Juliana's ring finger, instantly establishing the wedding setting without requiring dialogue or prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes the marriage vows, the priest's pronouncement, Gerald's furious intervention calling the groom a nobody, and Juliana's crushing rebuttal that leaves him speechless.",
+        "passes_gate": true,
+        "situational_summary": "During her wedding to a mysterious man, a bride shuts down her furious ex's insults with proud defiance, leaving him stunned and humiliated."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant defiance shattering an arrogant antagonist's pride"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the alternate marriage ceremony and public humiliation of Gerald, functioning as a core inciting incident hook."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_15",
+      "start_beat_id": "B035",
+      "end_beat_id": "B045",
+      "start_time": 100.2,
+      "end_time": 134.8,
+      "duration": 34.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B035 grounds the viewer instantly with a close-up of a silver ring being slid onto Juliana's finger, making the marriage context immediately understandable in the first 1-2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is completely self-contained: vows are sealed, the ex-fianc\u00e9 attacks her choice, Juliana stands tall, and the matriarch publicly disowns her from the family estate.",
+        "passes_gate": true,
+        "situational_summary": "After marrying an enigmatic protector and defying her arrogant ex, a young woman is viciously disowned by her family matriarch."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating familial severance following a triumphant romantic stand"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the surprise wedding and subsequent disownment, escalating the inciting drama to maximum stakes for cold scrollers."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_16",
+      "start_beat_id": "B039",
+      "end_beat_id": "B044",
+      "start_time": 110.0,
+      "end_time": 131.5,
+      "duration": 21.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B039 features a clear medium three-shot with the Priest blessing the couple and high cathedral wide shot pronouncing them husband and wife, immediately grounding setting and stakes before Gerald lunges forward.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic confrontation: the official wedding pronouncement is ruptured by Gerald's furious outburst, Juliana counters with dignity, and Lady Ashcroft bans them from the manor.",
+        "passes_gate": true,
+        "situational_summary": "The pronouncement of a wedding is instantly shattered when an enraged suitor objects, leading to a fierce standoff and family exile."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral altar rupture followed by explosive familial conflict"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the climax of the wedding ceremony rupture and initial family banishment."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_17",
+      "start_beat_id": "B039",
+      "end_beat_id": "B045",
+      "start_time": 110.0,
+      "end_time": 134.8,
+      "duration": 24.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B039 opens with clear visual and auditory establishing context: a priest blessing joined hands in a cathedral pronouncing 'husband and wife', followed immediately by Gerald lunging forward in protest. The setting, characters, and high-stakes wedding conflict are instantly legible without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: Gerald attacks Juliana for marrying beneath her, Juliana defiantly defends her choice, and her mother (Lady Ashcroft) publicly disowns her. The roles of protagonist, rejected suitor, and hostile family are crystal clear.",
+        "passes_gate": true,
+        "situational_summary": "At the conclusion of a wedding ceremony, a furious suitor attacks a bride for marrying a penniless man, prompting her proud defiance and her mother's immediate declaration of disownment."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic rupture combining romantic defiance and catastrophic public disownment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Captures the climactic inciting rupture of Juliana's defiance and formal exile from the family; quintessential high-stakes hook material."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_18",
+      "start_beat_id": "B039",
+      "end_beat_id": "B047",
+      "start_time": 110.0,
+      "end_time": 138.8,
+      "duration": 28.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B039 grounds the scene immediately in a cathedral wedding ceremony with the priest's pronouncement before Gerald's violent interruption, providing clear physical and interpersonal orientation in the opening seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Full dramatic clarity: a defiant bride rejects an entitled suitor, faces total familial excommunication from her mother, and absorbs the emotional blow with dignified resolve.",
+        "passes_gate": true,
+        "situational_summary": "After defying an enraged suitor at the altar, a newlywed bride endures her mother's public declaration of disownment while resolutely holding back tears."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Explosive public confrontation followed by bittersweet, tearful personal resolve"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the key altar confrontation and family severance, setting up Juliana's struggle for independence."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_19",
+      "start_beat_id": "B040",
+      "end_beat_id": "B047",
+      "start_time": 116.8,
+      "end_time": 138.8,
+      "duration": 22.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B040 opens on an ungrounded mid-sentence screaming close-up ('For a penniless nobody!') with no visual or situational establishment of the wedding altar, priest, or who is being addressed. Fails opening beat legibility in isolation.",
+        "arc_legibility": true,
+        "arc_rationale": "While later beats clarify Juliana's stand against Gerald and Lady Ashcroft's disownment, retrospective context cannot rescue the disorienting opening beat.",
+        "passes_gate": false,
+        "situational_summary": "A young woman stands her ground against an enraged accuser and is subsequently disowned by her noble family."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging familial rejection and defiant endurance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows Juliana being cast out from her noble family."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1428 @@
+{
+  "episode": "Episode 34",
+  "episode_number": 34,
+  "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+  "continuity_notes": "Following the aristocratic Lord's ruthless extortion of the young maid in his study, Episode 34 transitions directly into the crowded courtroom trial where the conspirators unleash their manufactured charges and false witnesses against Lady Juliana.",
+  "duration": 190.0,
+  "total_beats": 51,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 7.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "High wide establishing shot from behind the presiding judge looking down into the grand, sunlit courtroom filled with stern spectators, armed bailiffs, and Lady Juliana standing confined in the wooden prisoner's dock on the left.",
+          "start": 0.0,
+          "end": 2.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.",
+          "start": 1.2,
+          "end": 7.8,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Booming, Authoritative"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of the stern, elderly Judge seated at the high mahogany bench, resting both hands on the court documents.",
+          "start": 2.8,
+          "end": 7.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B002",
+      "start": 7.8,
+      "end": 13.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the charred, ancient botanical grimoire resting on the bench, its scorched pages open to an illustration of a wild rose, as a finger firmly taps the text.",
+          "start": 7.8,
+          "end": 13.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "[A firm, hollow tap of a finger striking the parchment]",
+          "start": 9.0,
+          "end": 11.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Do you deny possessing this book?",
+          "start": 9.1,
+          "end": 12.6,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Inquisitive, Severe"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B003",
+      "start": 13.1,
+      "end": 15.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle medium close-up of Lady Juliana standing erect in the dock, her prisoner label pinned to her rustic buttoned gown, her expression resolute.",
+          "start": 13.1,
+          "end": 15.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No.",
+          "start": 13.8,
+          "end": 14.8,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Calm, Unflinching"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B004",
+      "start": 15.5,
+      "end": 19.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle medium shot of the Judge leaning over his elevated bench, staring down critically.",
+          "start": 15.5,
+          "end": 19.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Do you deny using its remedies?",
+          "start": 15.6,
+          "end": 19.2,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Stern, Accusatory"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B005",
+      "start": 19.4,
+      "end": 23.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Lady Juliana's face, bruised cheekbone highlighting her calm defiance.",
+          "start": 19.4,
+          "end": 23.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No.",
+          "start": 20.8,
+          "end": 21.8,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Firm"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B006",
+      "start": 23.8,
+      "end": 27.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the aristocratic Lord standing at the railing in his tailored dark coat, turning slowly with a smirk of malicious satisfaction.",
+          "start": 23.8,
+          "end": 27.4,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B007",
+      "start": 27.4,
+      "end": 31.7,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the Judge leaning forward across his bench, eyes narrowing with grim conviction.",
+          "start": 27.4,
+          "end": 31.7,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then you admit to practicing forbidden arts.",
+          "start": 27.5,
+          "end": 31.2,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Hard, Pressing"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B008",
+      "start": 31.7,
+      "end": 35.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous.",
+          "start": 31.7,
+          "end": 35.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I admit to healing the sick.",
+          "start": 33.2,
+          "end": 35.1,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Proud, Dignified"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B009",
+      "start": 35.3,
+      "end": 37.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.",
+          "start": 35.3,
+          "end": 37.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Silence!",
+          "start": 35.4,
+          "end": 36.6,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Furious, Shouting"
+        },
+        {
+          "type": "sfx",
+          "description": "[Sharp, echoing crack of the gavel slamming onto wood]",
+          "start": 35.8,
+          "end": 37.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of the Judge slamming the gavel down on his bench.",
+          "start": 35.8,
+          "end": 37.4,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B010",
+      "start": 37.4,
+      "end": 44.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tracking shot moving from the Judge on his bench as he points his outstretched arm across the courtroom floor toward the witness stand.",
+          "start": 37.4,
+          "end": 42.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Prudence. You served beside the accused?",
+          "start": 37.5,
+          "end": 41.2,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Commanding"
+        },
+        {
+          "type": "action",
+          "description": "Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron.",
+          "start": 41.0,
+          "end": 43.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of Prudence looking up with tears streaming down her pale face.",
+          "start": 42.5,
+          "end": 44.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Yes, Your Honor.",
+          "start": 43.2,
+          "end": 44.6,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Trembling, Tearful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B011",
+      "start": 44.8,
+      "end": 49.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of the Judge leaning forward with folded hands.",
+          "start": 44.8,
+          "end": 49.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Did you witness Lady Juliana perform these treatments?",
+          "start": 45.3,
+          "end": 48.8,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Probing, Formal"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B012",
+      "start": 49.0,
+      "end": 51.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Profile over-the-shoulder shot from behind Prudence toward Lady Juliana standing bound in iron cuffs at the prisoner's dock.",
+          "start": 49.0,
+          "end": 51.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Tell the truth.",
+          "start": 49.1,
+          "end": 50.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Softly, Urgent"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B013",
+      "start": 51.5,
+      "end": 54.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence breaking down in tears, squeezing her eyes shut as guilt overwhelms her.",
+          "start": 51.5,
+          "end": 54.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Yes.",
+          "start": 53.0,
+          "end": 54.2,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Sobbing, Heartbroken"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B014",
+      "start": 54.8,
+      "end": 57.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana looking at her former maid, a momentary flicker of hurt passing through her eyes before settling into stoic composure.",
+          "start": 54.8,
+          "end": 57.6,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B015",
+      "start": 57.6,
+      "end": 60.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium profile shot of the Judge recording notes in the open court ledger with a feather quill.",
+          "start": 57.6,
+          "end": 60.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What did you see?",
+          "start": 58.2,
+          "end": 60.1,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Measured, Stern"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B016",
+      "start": 60.8,
+      "end": 64.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Prudence clutching both hands to her chest in anguish.",
+          "start": 60.8,
+          "end": 64.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "She used herbs... and her mother's book.",
+          "start": 61.3,
+          "end": 64.4,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Choked with Tears"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B017",
+      "start": 64.6,
+      "end": 66.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the Judge leaning back slightly, pointing his hand accusingly.",
+          "start": 64.6,
+          "end": 66.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Did she draw strange markings?",
+          "start": 64.8,
+          "end": 66.7,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Pressing, Sharp"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B018",
+      "start": 66.8,
+      "end": 71.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence's tear-streaked face as she hesitates, her breath hitching.",
+          "start": 66.8,
+          "end": 71.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "She... placed herbs around my brother's bed.",
+          "start": 68.2,
+          "end": 71.7,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Faltering, Desperate"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B019",
+      "start": 71.8,
+      "end": 75.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the Judge pointing an outstretched index finger with piercing intensity.",
+          "start": 71.8,
+          "end": 75.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And did she speak words you could not understand?",
+          "start": 72.1,
+          "end": 75.5,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Accusatory, Forceful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B020",
+      "start": 75.8,
+      "end": 81.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Prudence weeping uncontrollably, her face contorted in unbearable remorse.",
+          "start": 75.8,
+          "end": 81.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Yes.",
+          "start": 78.8,
+          "end": 80.5,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Weeping, Shaken"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B021",
+      "start": 81.0,
+      "end": 90.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium tracking shot of the Lord stepping into the open aisle of the courtroom with arms spread wide, turning triumphantly toward the Judge.",
+          "start": 81.0,
+          "end": 85.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Your Honor... the witness has confirmed the ritual.",
+          "start": 81.3,
+          "end": 84.9,
+          "timestamp_source": "given",
+          "character": "LORD",
+          "emotion": "Triumphant, Smug"
+        },
+        {
+          "type": "action",
+          "description": "Lady Juliana slams her cuffed hands against the wooden railing of the dock, her voice ringing out in indignant fury.",
+          "start": 85.0,
+          "end": 87.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "It was not a ritual!",
+          "start": 85.2,
+          "end": 87.2,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Passionate, Indignant"
+        },
+        {
+          "type": "camera",
+          "description": "Low-angle medium shot of Lady Juliana gripping the railing, leaning forward.",
+          "start": 85.2,
+          "end": 87.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The Judge repeatedly hammers his gavel down onto the desk, roaring over her.",
+          "start": 87.2,
+          "end": 90.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of the Judge striking the wooden block twice in rapid succession.",
+          "start": 87.4,
+          "end": 90.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "[Violent, resonant double bang of the wooden gavel]",
+          "start": 87.8,
+          "end": 89.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You will speak when addressed!",
+          "start": 87.9,
+          "end": 90.0,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Bellowing"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B022",
+      "start": 90.5,
+      "end": 93.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the Lord extending his palm toward the gallery with theatrical composure.",
+          "start": 90.5,
+          "end": 93.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "We have further witnesses.",
+          "start": 91.0,
+          "end": 93.2,
+          "timestamp_source": "given",
+          "character": "LORD",
+          "emotion": "Calm, Poisonous"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B023",
+      "start": 93.8,
+      "end": 98.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of an anxious townsman standing by the gallery pews, nervously wringing his woolen hat in his hands.",
+          "start": 93.8,
+          "end": 98.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "My wife took one of Lady Juliana's mixtures...",
+          "start": 94.2,
+          "end": 98.0,
+          "timestamp_source": "given",
+          "character": "TOWNSMAN",
+          "emotion": "Nervous, Fearful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B024",
+      "start": 98.2,
+      "end": 99.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the Judge glaring down expectantly.",
+          "start": 98.2,
+          "end": 99.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And?",
+          "start": 98.3,
+          "end": 99.1,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Sharp"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B025",
+      "start": 99.5,
+      "end": 102.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the townsman's face tightening with coached distress.",
+          "start": 99.5,
+          "end": 102.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "She became violently ill.",
+          "start": 99.8,
+          "end": 101.8,
+          "timestamp_source": "given",
+          "character": "TOWNSMAN",
+          "emotion": "Agitated"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B026",
+      "start": 102.1,
+      "end": 107.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot among the spectators as an elderly peasant woman stands up from the wooden bench, pointing an accusatory finger across the courtroom.",
+          "start": 102.1,
+          "end": 107.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "My daughter drank one of her herbal preparations! She was sick for three days!",
+          "start": 102.3,
+          "end": 107.0,
+          "timestamp_source": "given",
+          "character": "OLD WOMAN",
+          "emotion": "Shrill, Accusatory"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B027",
+      "start": 107.3,
+      "end": 110.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Side two-shot of the Lord stepping up to the dock, looming beside Lady Juliana as she looks him in the eye.",
+          "start": 107.3,
+          "end": 110.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "She calls it healing.",
+          "start": 108.0,
+          "end": 109.8,
+          "timestamp_source": "given",
+          "character": "LORD",
+          "emotion": "Mocking, Smug"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B028",
+      "start": 110.0,
+      "end": 112.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "The Lord turns dramatically to face the entire assembly, gesturing toward the spectators.",
+          "start": 110.0,
+          "end": 112.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of the Lord addressing the courtroom.",
+          "start": 110.0,
+          "end": 112.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The people call it poisoning!",
+          "start": 110.1,
+          "end": 112.6,
+          "timestamp_source": "given",
+          "character": "LORD",
+          "emotion": "Resonant, Vindicative"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B029",
+      "start": 112.8,
+      "end": 115.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana looking past him directly toward the gallery with sharp clarity.",
+          "start": 112.8,
+          "end": 115.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What were their illnesses?",
+          "start": 113.2,
+          "end": 115.0,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Incisive, Defiant"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B030",
+      "start": 115.2,
+      "end": 117.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle close-up of the Lord looking down arrogantly over his shoulder.",
+          "start": 115.2,
+          "end": 117.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Irrelevant.",
+          "start": 115.3,
+          "end": 116.5,
+          "timestamp_source": "given",
+          "character": "LORD",
+          "emotion": "Dismissive"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B031",
+      "start": 117.2,
+      "end": 119.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana gritting her teeth in fierce defiance.",
+          "start": 117.2,
+          "end": 119.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "It is not irrelevant!",
+          "start": 117.4,
+          "end": 119.6,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Fierce"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B032",
+      "start": 119.8,
+      "end": 123.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle medium shot of Lady Juliana standing tall against the courtroom window light, her chained hands resting on the balustrade as she addresses the entire hall.",
+          "start": 119.8,
+          "end": 123.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Herbs are not magic! They are medicine!",
+          "start": 119.9,
+          "end": 123.2,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Clear, Unyielding"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B033",
+      "start": 123.4,
+      "end": 126.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the Judge sitting with steepled fingers upon his high bench.",
+          "start": 123.4,
+          "end": 126.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You admit you administered them?",
+          "start": 123.6,
+          "end": 126.4,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Coldly Inquisitive"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B034",
+      "start": 126.8,
+      "end": 129.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana looking straight forward.",
+          "start": 126.8,
+          "end": 129.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Yes.",
+          "start": 127.2,
+          "end": 128.2,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Direct"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B035",
+      "start": 129.1,
+      "end": 131.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the Judge gesturing with an open hand.",
+          "start": 129.1,
+          "end": 131.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Without the approval of a licensed physician?",
+          "start": 129.3,
+          "end": 131.6,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Challenging"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B036",
+      "start": 131.8,
+      "end": 134.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Lady Juliana shaking her head slightly, truth ringing in her voice.",
+          "start": 131.8,
+          "end": 134.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "There was no physician willing to help them.",
+          "start": 132.1,
+          "end": 134.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Steely, Earnest"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B037",
+      "start": 134.6,
+      "end": 139.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana's steady gaze.",
+          "start": 134.6,
+          "end": 139.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "So I helped them.",
+          "start": 136.2,
+          "end": 138.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Calm, Resolute"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B038",
+      "start": 139.2,
+      "end": 142.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of the Lord smiling cynically as he turns back toward the magistrate.",
+          "start": 139.2,
+          "end": 142.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Even now, she refuses to repent.",
+          "start": 139.6,
+          "end": 142.0,
+          "timestamp_source": "given",
+          "character": "LORD",
+          "emotion": "Derisive"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B039",
+      "start": 142.2,
+      "end": 147.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle medium shot of the Judge holding his hand over the open law book.",
+          "start": 142.2,
+          "end": 147.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Lady Juliana, if you wish to save yourself, renounce these practices.",
+          "start": 142.4,
+          "end": 147.0,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Grave, Stern"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B040",
+      "start": 147.4,
+      "end": 148.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the burned grimoire resting on the green leather surface of the court table.",
+          "start": 147.4,
+          "end": 148.9,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B041",
+      "start": 148.9,
+      "end": 151.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana lifting her chin without an ounce of hesitation.",
+          "start": 148.9,
+          "end": 151.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No.",
+          "start": 149.8,
+          "end": 150.8,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Unyielding"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B042",
+      "start": 151.2,
+      "end": 154.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the Judge lowering his brow with dark finality.",
+          "start": 151.2,
+          "end": 154.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Think carefully.",
+          "start": 151.8,
+          "end": 153.8,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Ominous, Warning"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B043",
+      "start": 154.8,
+      "end": 156.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle close-up of Lady Juliana looking skyward through the arched court windows.",
+          "start": 154.8,
+          "end": 156.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I have.",
+          "start": 155.2,
+          "end": 156.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Firm, Resolute"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B044",
+      "start": 156.8,
+      "end": 162.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the Judge pointing an outstretched finger across the bench, his tone hardening into lethal severity.",
+          "start": 156.8,
+          "end": 162.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You understand that refusal may be treated as proof that you knowingly practiced witchcraft?",
+          "start": 157.0,
+          "end": 161.8,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Severe, Imposing"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B045",
+      "start": 162.0,
+      "end": 163.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana unflinchingly accepting her fate.",
+          "start": 162.0,
+          "end": 163.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then let it be.",
+          "start": 162.1,
+          "end": 163.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Proud, Fearless"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B046",
+      "start": 163.6,
+      "end": 166.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Prudence breaking into shattered sobs, pressing her apron to her face to muffle her tears.",
+          "start": 163.6,
+          "end": 166.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Prudence buries her face in her stained white apron, shuddering with grief.",
+          "start": 164.0,
+          "end": 166.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B047",
+      "start": 166.8,
+      "end": 174.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot pushing into Lady Juliana's face as she speaks directly across the hall with compassionate, unwavering authority.",
+          "start": 166.8,
+          "end": 174.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Do not be afraid. I will not call healing evil just because powerful people have decided to fear it.",
+          "start": 167.0,
+          "end": 173.6,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Passionate, Defiant"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B048",
+      "start": 174.4,
+      "end": 176.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up profile of the Lord, his smirk instantly freezing into an irritated, malevolent scowl.",
+          "start": 174.4,
+          "end": 176.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B049",
+      "start": 176.5,
+      "end": 179.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "The Judge furiously smashes his gavel down upon the sound block with a deafening crack.",
+          "start": 176.5,
+          "end": 178.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of the Judge slamming the wooden gavel down.",
+          "start": 176.5,
+          "end": 178.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "[Violent, resonant smash of the wooden gavel]",
+          "start": 176.6,
+          "end": 177.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Enough!",
+          "start": 177.8,
+          "end": 179.4,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Thunderous"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B050",
+      "start": 179.5,
+      "end": 184.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "The Judge rises to his full height behind the bench, towering over the silent court.",
+          "start": 179.5,
+          "end": 184.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Low-angle medium shot looking up at the imposing Judge as he stands formally to deliver the judgment.",
+          "start": 179.5,
+          "end": 184.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Lady Juliana Ashcroft...",
+          "start": 181.0,
+          "end": 184.2,
+          "timestamp_source": "given",
+          "character": "JUDGE",
+          "emotion": "Booming, Solemn"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    },
+    {
+      "beat_id": "B051",
+      "start": 184.5,
+      "end": 190.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Over-the-shoulder shot from behind Lady Juliana in the prisoner's dock looking toward the Judge, who solemnly raises his right hand to pronounce the final sentence as the heavy silence hangs over the courtroom.",
+          "start": 184.5,
+          "end": 190.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The Judge extends his raised hand high in judgment over Lady Juliana as the scene holds on her standing still and unbroken before fading to black.",
+          "start": 185.0,
+          "end": 190.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COURTROOM \u2013 DAY"
+    }
+  ]
+}

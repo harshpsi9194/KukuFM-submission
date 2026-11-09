@@ -1,0 +1,568 @@
+{
+  "episode_number": 10,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Sudden entrance of an intruder panting in the doorway with his hand pressed against a blood-soaked chest is instantly legible and arresting on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Shouting a character's name conveys urgency but provides zero narrative context or high-stakes reveal.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Sudden jump from the chair with shock and terror across her face creates noticeable visual tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Dismissive phrase ('It is nothing') provides low verbal stakes on its own.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of a wounded man clutching a bloodied coat over his chest struggling to breathe holds strong visual urgency.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly calls out the bodily danger and injury ('There is blood running down your arm').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Juliana stepping hurriedly toward him across the stone floor provides mild physical action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct verbal confrontation and commanding order ('Sit down') over an active wound.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tense two-shot confrontation followed by a firm gesture ordering him to the hearth armchair.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A one-word command ('Now') asserting authority, but lacks full narrative context without prior beats.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intense close-up of Juliana's determined, unyielding expression establishes clear friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Alexander sitting down into a chair is low-urgency physical movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Expositional demand ('I need to see the wound') setting up medical care.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tracking shot bringing medical supplies to the chair establishes setting and activity without high shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Stubborn minimization of injury ('It is only a scratch') offers mild conversational banter.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle close-up shows stubborn defiance but lacks immediate visual shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp, defiant challenge daring him to disrobe ('Then removing your shirt should not trouble you').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Crossing arms in defiance establishes quiet conflict without explosive motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Removing a heavy leather coat after a tense stare is moderate physical setup.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static close-up observing with anticipation lacks immediate motion or tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Shirt pulled off revealing a muscular torso covered in jagged battle scars and fresh bleeding lacerations is a major visual scroll-stopper.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight pan over graphic scarred and bleeding flesh provides high visceral drama on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Exclamation of horror ('Dear God') expresses shock but is generic without context.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of eyes widening in horror and pity creates an intense emotional reaction shot.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Exhausted man collapsing into a chair while a woman slowly kneels before him establishes strong intimacy and drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Macro shot of trembling fingers hovering over a raised jagged scar conveys intense emotional vulnerability and tactile intimacy.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Empathetic acknowledgment ('You have suffered terribly') provides soft emotional setup rather than an arresting shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of softened, empathetic eyes establishes emotional tone without high visual friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Brief stoic dismissal ('It is over') offers minimal verbal hook value.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a weathered, scarred face gazing stoically shows character texture but low movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Poignant, clever contradiction of his denial ('Your scars disagree').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Dipping cloth into a water bowl is standard medical-care action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Standard caretaking question ('Does it hurt?').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Dabbing a damp cloth against a bloody cut on a bare shoulder provides clear visceral contact.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Minimal stoic reply ('Not much').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a man fighting a wince under a woman's touch provides clear physical tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Playful banter calling out his stoicism ('You are a terrible liar').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Soft, amused smile adds charm but low urgency for swiping scrollers.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Extreme close-up smoothing herbal salve over a bloody shoulder wound delivers tactile sensory appeal.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Over-the-shoulder framing showing him staring intently into her face while oblivious to physical pain signals intense romantic tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly confronts the electric romantic tension between them ('Why do you look at me like that?').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Looking up into his eyes with palpable tension creates an engaging romantic connection on screen.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Emotionally loaded reciprocal challenge ('Because you are looking at me').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard close-up with restrained emotion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Simple deflection command ('Hold still') during treatment.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Averting eyes to conceal fluster provides subtle romance tropes but limited scroll-stop power.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Flirtatious counter ('I am holding still') advancing the romantic proximity.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Leaning in close with heavy breathing raises immediate physical intimacy.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Intimate teasing line shifting focus to her physical touch ('Perhaps it is your hand').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Two-shot close-up with faces drawing mere inches apart in warm firelight is an instant vertical-drama romantic hook.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Rough hands taking her slender hands and pressing them against his bare chest over a racing heart is a textbook high-converting romance trope legible instantly without audio.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-impact romantic vulnerability and confession ('Your touch is the only medicine that has ever eased my pain').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up holding unmasked, raw devotion in his gaze maintains strong emotional presence.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on luminous captivated eyes with intertwined hands over firelight functions well as an emotional tableau, though lacks opening kinetic energy.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who attacked Alexander, and will he survive the severe bleeding from his chest?",
+      "stakes_importance": "High \u2014 sudden violent disruption of safety with life-or-death physical stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana be able to stop Alexander's bleeding before he collapses?",
+      "stakes_importance": "Medium \u2014 urgent medical panic following an unexpected bloody arrival.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why is Alexander lying about the severity of a clearly life-threatening wound?",
+      "stakes_importance": "Medium \u2014 establishes stoic denial, but tension slightly pauses on verbal deflection.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander allow Juliana to treat him or collapse while trying to hide his injuries?",
+      "stakes_importance": "Medium \u2014 confrontation over concealed physical trauma.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Alexander obey Juliana's demand or insist on leaving?",
+      "stakes_importance": "Low \u2014 minor domestic standoff over basic treatment compliance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Alexander yield to Juliana's unyielding command?",
+      "stakes_importance": "Low \u2014 brief micro-command in an ongoing compliance exchange.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 1,
+      "specific_question": "What will Juliana do now that Alexander has sat down?",
+      "stakes_importance": "Low \u2014 Alexander complies, defusing the immediate conflict over sitting down.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "What horrific wound or secret markings will Juliana uncover beneath his coat?",
+      "stakes_importance": "Medium \u2014 anticipates the unveiling of hidden physical trauma or secret origin.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Juliana force Alexander to expose his injury?",
+      "stakes_importance": "Low \u2014 repetitive stubborn refusal of aid.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander call her bluff and strip down, exposing his true condition?",
+      "stakes_importance": "Medium \u2014 escalates intimate tension and physical revelation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will Alexander look like when his shirt comes off?",
+      "stakes_importance": "Medium \u2014 setup for visual reveal of scars and damage.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Juliana react as Alexander disrobes?",
+      "stakes_importance": "Low \u2014 transitional beat holding on anticipation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 4,
+      "specific_question": "What violent past gave Alexander these battle scars, and who gave him the fresh lacerations tonight?",
+      "stakes_importance": "High \u2014 exposes the male lead's hidden, dangerous past and serious physical danger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "How deep are these wounds, and can Juliana save him before infection sets in?",
+      "stakes_importance": "Medium \u2014 visual emphasis on severe bodily trauma.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will Juliana say when she learns the dark truth behind these battle scars?",
+      "stakes_importance": "Medium \u2014 visceral shock and empathetic turning point.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Juliana begin treating such severe wounds?",
+      "stakes_importance": "Low \u2014 transitional movement into caretaking posture.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana actually touch his scarred chest, and how will Alexander react to her intimacy?",
+      "stakes_importance": "High \u2014 peak threshold of romantic proximity and physical vulnerability.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander open up about the violent history that caused these scars?",
+      "stakes_importance": "Medium \u2014 probing into the male lead's tragic backstory.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 2,
+      "specific_question": "Is Alexander's past truly over, or are his enemies still hunting him?",
+      "stakes_importance": "Medium \u2014 stoic deflection momentarily settles the immediate question.",
+      "defuses_tension": true,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana compel Alexander to finally admit the truth about his past?",
+      "stakes_importance": "Medium \u2014 sharp emotional challenge to his stoic facade.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the pain of the cleaning cause Alexander to pull away?",
+      "stakes_importance": "Low \u2014 standard medical treatment interaction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 1,
+      "specific_question": "Can Alexander continue hiding his physical pain?",
+      "stakes_importance": "Low \u2014 minor stoic pretense that answers the preceding question.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Alexander respond to Juliana teasing him so familiarly?",
+      "stakes_importance": "Low \u2014 playful banter reducing narrative stakes.",
+      "defuses_tension": true,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the herbal salve ease his pain?",
+      "stakes_importance": "Low \u2014 purely tactile physical treatment beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 4,
+      "specific_question": "What intense feelings is Alexander harboring as he stares so deeply at Juliana?",
+      "stakes_importance": "High \u2014 male lead completely ignores physical agony due to overwhelming romantic fixation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander confess his unspoken feelings for Juliana right now?",
+      "stakes_importance": "High \u2014 direct confrontation of mutual romantic tension and longing.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana look away or lean into this charged romantic confession?",
+      "stakes_importance": "High \u2014 verbal declaration of reciprocal gaze shifting the relationship dynamic.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana maintain her professional composure against Alexander's mounting advances?",
+      "stakes_importance": "Medium \u2014 emotional fluster and struggle to maintain defensive boundaries.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander close the final inches between them and kiss Juliana?",
+      "stakes_importance": "High \u2014 physical encroachment and impending romantic culmination.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana pull back or surrender to Alexander's kiss as they lean mere inches apart?",
+      "stakes_importance": "High \u2014 suspended romantic climax at the verge of physical intimacy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Juliana respond to Alexander forcing her to feel his racing heart against his bare chest?",
+      "stakes_importance": "High \u2014 bold physical assertion of desire bridging restraint and passion.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana reciprocate Alexander's raw confession of devotion or reject him?",
+      "stakes_importance": "High \u2014 vulnerable romantic ultimatum demanding an answer from the heroine.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 2,
+      "specific_question": "What will become of their relationship following this emotional breakthrough?",
+      "stakes_importance": "Medium \u2014 the lingering scene fade provides natural emotional resolution and defuses immediate cut tension.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    }
+  ]
+}

@@ -1,0 +1,943 @@
+{
+  "episode_number": 2,
+  "stage": 5,
+  "strategy": "Option B1 (Hard Deduplication at Sim < 0.90)",
+  "model": "BAAI/bge-small-en-v1.5",
+  "parameters": {
+    "portfolio_size": 5,
+    "lambda_param": 0.55,
+    "max_similarity_threshold": 0.9
+  },
+  "portfolio": [
+    {
+      "selection_order": 1,
+      "candidate_id": "CAND_EP002_286",
+      "tournament_rank": 1,
+      "bradley_terry_strength": 6.4803,
+      "tournament_win_loss": "15-0",
+      "narrative_thread": "Juliana Defiant Indictment & Climax",
+      "start_beat_id": "B027",
+      "end_beat_id": "B034",
+      "start_time": 69.3,
+      "end_time": 96.8,
+      "duration": 27.5,
+      "quality_score_Q": 1.0,
+      "max_similarity_to_selected": 0.0,
+      "most_similar_selected_id": null,
+      "mmr_score": 0.55,
+      "situational_summary": "After being told to leave the chapel with some dignity, an abandoned woman turns back toward the altar and delivers a scathing, dignified rebuke to the man who cast her aside.",
+      "hook_details": {
+        "beat_id": "B027",
+        "dialogue_rationale": "Cold expulsion ('Go home quietly, Juliana. At least leave this chapel with some dignity') ordering the bride out.",
+        "visual_rationale": "Medium shot of the groom stepping forward and impatiently gesturing toward the exit conveys dismissive expulsion on mute.",
+        "opening_assessment": "Dialogue hook hits immediately (3.5s first beat) without dead air.",
+        "opening_dialogue": [
+          {
+            "character": "THE FORMER GROOM",
+            "dialogue": "Go home quietly, Juliana. At least leave this chapel with some dignity.",
+            "emotion": "Impatient, Commanding"
+          }
+        ],
+        "opening_visuals": [
+          {
+            "type": "camera",
+            "description": "Medium shot of Gerald stepping forward on the altar steps, impatiently gesturing Juliana toward the church exit."
+          }
+        ]
+      },
+      "cliffhanger_details": {
+        "beat_id": "B034",
+        "cliffhanger_type": "revenge",
+        "specific_question": "Will Gerald strike back or crumble now that his honor is publicly destroyed?",
+        "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+        "closing_dialogue": [
+          {
+            "character": "LADY JULIANA",
+            "dialogue": "You have shown them exactly what your word is worth.",
+            "emotion": "Decisive, Scathing"
+          }
+        ],
+        "closing_visuals": [
+          {
+            "type": "camera",
+            "description": "Close-up on Juliana's face, calm, dignified, and unwavering."
+          }
+        ]
+      },
+      "full_promo_dialogue": [
+        {
+          "beat_id": "B027",
+          "character": "THE FORMER GROOM",
+          "dialogue": "Go home quietly, Juliana. At least leave this chapel with some dignity."
+        },
+        {
+          "beat_id": "B029",
+          "character": "LADY JULIANA",
+          "dialogue": "Dignity?"
+        },
+        {
+          "beat_id": "B030",
+          "character": "LADY JULIANA",
+          "dialogue": "You abandoned a woman who trusted you..."
+        },
+        {
+          "beat_id": "B031",
+          "character": "LADY JULIANA",
+          "dialogue": "...because another woman promised you greater beauty and wealth."
+        },
+        {
+          "beat_id": "B032",
+          "character": "LADY JULIANA",
+          "dialogue": "Do not mistake my heartbreak for your victory, Gerald."
+        },
+        {
+          "beat_id": "B033",
+          "character": "LADY JULIANA",
+          "dialogue": "You wanted this entire chapel to believe that I was not worthy of you. But you have shown them something far more valuable."
+        },
+        {
+          "beat_id": "B034",
+          "character": "LADY JULIANA",
+          "dialogue": "You have shown them exactly what your word is worth."
+        }
+      ]
+    },
+    {
+      "selection_order": 2,
+      "candidate_id": "CAND_EP002_281",
+      "tournament_rank": 2,
+      "bradley_terry_strength": 1.7819,
+      "tournament_win_loss": "12-3",
+      "narrative_thread": "Clarissa Sister Shaming & Matriarch Condescension",
+      "start_beat_id": "B026",
+      "end_beat_id": "B034",
+      "start_time": 66.0,
+      "end_time": 96.8,
+      "duration": 30.8,
+      "quality_score_Q": 0.9375,
+      "max_similarity_to_selected": 0.781,
+      "most_similar_selected_id": "CAND_EP002_286",
+      "mmr_score": 0.1642,
+      "situational_summary": "At a wedding, an older woman and the groom tell a scorned woman to leave with dignity, but she defiantly stands her ground before the guests and exposes the groom's hollow integrity.",
+      "hook_details": {
+        "beat_id": "B026",
+        "dialogue_rationale": "Cruel patronizing insult ('You should be grateful you're at least allowed to attend the wedding') treating the bride as a spectator.",
+        "visual_rationale": "Medium profile two-shot of an elder matriarch towering and confronting the bride face-to-face in the aisle.",
+        "opening_assessment": "Dialogue hook hits immediately (3.3s first beat) without dead air.",
+        "opening_dialogue": [
+          {
+            "character": "OFF-SCREEN VOICE",
+            "dialogue": "You should be grateful you're at least allowed to attend the wedding.",
+            "emotion": "Dismissive, Condescending"
+          }
+        ],
+        "opening_visuals": [
+          {
+            "type": "camera",
+            "description": "Medium profile two-shot of the matriarch confronting Juliana face-to-face."
+          }
+        ]
+      },
+      "cliffhanger_details": {
+        "beat_id": "B034",
+        "cliffhanger_type": "revenge",
+        "specific_question": "Will Gerald strike back or crumble now that his honor is publicly destroyed?",
+        "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+        "closing_dialogue": [
+          {
+            "character": "LADY JULIANA",
+            "dialogue": "You have shown them exactly what your word is worth.",
+            "emotion": "Decisive, Scathing"
+          }
+        ],
+        "closing_visuals": [
+          {
+            "type": "camera",
+            "description": "Close-up on Juliana's face, calm, dignified, and unwavering."
+          }
+        ]
+      },
+      "full_promo_dialogue": [
+        {
+          "beat_id": "B026",
+          "character": "OFF-SCREEN VOICE",
+          "dialogue": "You should be grateful you're at least allowed to attend the wedding."
+        },
+        {
+          "beat_id": "B027",
+          "character": "THE FORMER GROOM",
+          "dialogue": "Go home quietly, Juliana. At least leave this chapel with some dignity."
+        },
+        {
+          "beat_id": "B029",
+          "character": "LADY JULIANA",
+          "dialogue": "Dignity?"
+        },
+        {
+          "beat_id": "B030",
+          "character": "LADY JULIANA",
+          "dialogue": "You abandoned a woman who trusted you..."
+        },
+        {
+          "beat_id": "B031",
+          "character": "LADY JULIANA",
+          "dialogue": "...because another woman promised you greater beauty and wealth."
+        },
+        {
+          "beat_id": "B032",
+          "character": "LADY JULIANA",
+          "dialogue": "Do not mistake my heartbreak for your victory, Gerald."
+        },
+        {
+          "beat_id": "B033",
+          "character": "LADY JULIANA",
+          "dialogue": "You wanted this entire chapel to believe that I was not worthy of you. But you have shown them something far more valuable."
+        },
+        {
+          "beat_id": "B034",
+          "character": "LADY JULIANA",
+          "dialogue": "You have shown them exactly what your word is worth."
+        }
+      ]
+    },
+    {
+      "selection_order": 3,
+      "candidate_id": "CAND_EP002_234",
+      "tournament_rank": 3,
+      "bradley_terry_strength": 1.7819,
+      "tournament_win_loss": "12-3",
+      "narrative_thread": "Clarissa Sister Shaming & Matriarch Condescension",
+      "start_beat_id": "B020",
+      "end_beat_id": "B031",
+      "start_time": 53.4,
+      "end_time": 82.8,
+      "duration": 29.4,
+      "quality_score_Q": 0.875,
+      "max_similarity_to_selected": 0.8222,
+      "most_similar_selected_id": "CAND_EP002_286",
+      "mmr_score": 0.1112,
+      "situational_summary": "A woman is publicly demeaned and told to leave by the bride, groom, and matriarch at a wedding chapel, but refuses to leave quietly and hardens into defiant confrontation.",
+      "hook_details": {
+        "beat_id": "B020",
+        "dialogue_rationale": "Scathing public humiliation ('You look like a kitchen maid who wandered into the wrong wedding') delivers extreme verbal insult.",
+        "visual_rationale": "Medium shot of Clarissa smiling radiantly while making condescending physical gestures at the bride.",
+        "opening_assessment": "Dialogue hook hits immediately (3.3s first beat) without dead air.",
+        "opening_dialogue": [
+          {
+            "character": "LADY IN GOLD GOWN",
+            "dialogue": "You look like a kitchen maid who wandered into the wrong wedding.",
+            "emotion": "Taunting, Giggling"
+          }
+        ],
+        "opening_visuals": [
+          {
+            "type": "camera",
+            "description": "Medium shot of Clarissa smiling radiantly, condescendingly gesturing at Juliana."
+          }
+        ]
+      },
+      "cliffhanger_details": {
+        "beat_id": "B031",
+        "cliffhanger_type": "revenge",
+        "specific_question": "How will Juliana expose Gerald's unfaithfulness to the entire congregation?",
+        "ending_assessment": "Peak cinematic cliffhanger: cuts directly on protagonist's cold vengeful glare as musical strings swell.",
+        "closing_dialogue": [
+          {
+            "character": "LADY JULIANA",
+            "dialogue": "...because another woman promised you greater beauty and wealth.",
+            "emotion": "Sharp, Piercing"
+          }
+        ],
+        "closing_visuals": [
+          {
+            "type": "camera",
+            "description": "Medium profile close-up on Gerald's hardening jawline, Clarissa blurred in the background."
+          },
+          {
+            "type": "camera",
+            "description": "Closer angle on Gerald's uneasy expression as Juliana's voice commands the room."
+          }
+        ]
+      },
+      "full_promo_dialogue": [
+        {
+          "beat_id": "B020",
+          "character": "LADY IN GOLD GOWN",
+          "dialogue": "You look like a kitchen maid who wandered into the wrong wedding."
+        },
+        {
+          "beat_id": "B021",
+          "character": "LADY IN GOLD GOWN",
+          "dialogue": "And that quiet little face."
+        },
+        {
+          "beat_id": "B023",
+          "character": "LADY IN GOLD GOWN",
+          "dialogue": "Gerald needs a real lady..."
+        },
+        {
+          "beat_id": "B024",
+          "character": "LADY IN GOLD GOWN",
+          "dialogue": "...not a dull creature who hides in her mother's apothecary herbs."
+        },
+        {
+          "beat_id": "B025",
+          "character": "OFF-SCREEN VOICE",
+          "dialogue": "Oh, don't look so wounded, Juliana."
+        },
+        {
+          "beat_id": "B026",
+          "character": "OFF-SCREEN VOICE",
+          "dialogue": "You should be grateful you're at least allowed to attend the wedding."
+        },
+        {
+          "beat_id": "B027",
+          "character": "THE FORMER GROOM",
+          "dialogue": "Go home quietly, Juliana. At least leave this chapel with some dignity."
+        },
+        {
+          "beat_id": "B029",
+          "character": "LADY JULIANA",
+          "dialogue": "Dignity?"
+        },
+        {
+          "beat_id": "B030",
+          "character": "LADY JULIANA",
+          "dialogue": "You abandoned a woman who trusted you..."
+        },
+        {
+          "beat_id": "B031",
+          "character": "LADY JULIANA",
+          "dialogue": "...because another woman promised you greater beauty and wealth."
+        }
+      ]
+    },
+    {
+      "selection_order": 4,
+      "candidate_id": "CAND_EP002_215",
+      "tournament_rank": 5,
+      "bradley_terry_strength": 0.9704,
+      "tournament_win_loss": "10-5",
+      "narrative_thread": "Clarissa Sister Shaming & Matriarch Condescension",
+      "start_beat_id": "B018",
+      "end_beat_id": "B031",
+      "start_time": 47.6,
+      "end_time": 82.8,
+      "duration": 35.2,
+      "quality_score_Q": 0.75,
+      "max_similarity_to_selected": 0.7923,
+      "most_similar_selected_id": "CAND_EP002_281",
+      "mmr_score": 0.056,
+      "situational_summary": "A sister smugly clings to a man's arm while publicly demeaning the protagonist at a wedding alongside the groom and matriarch, but the protagonist rises in defiant confrontation against the groom who abandoned her.",
+      "hook_details": {
+        "beat_id": "B018",
+        "dialogue_rationale": "Direct, condescending sisterly mockery ('Why are you surprised, sister? Look at you') immediately hooks scrollers on familial rivalry.",
+        "visual_rationale": "Medium shot of the rival beaming smugly while clinging to the groom's arm visually communicates stolen status.",
+        "opening_assessment": "Dialogue hook hits immediately (3.9s first beat) without dead air.",
+        "opening_dialogue": [
+          {
+            "character": "LADY IN GOLD GOWN",
+            "dialogue": "Why are you surprised, sister? Look at you.",
+            "emotion": "Mocking, Spiteful"
+          }
+        ],
+        "opening_visuals": [
+          {
+            "type": "camera",
+            "description": "Medium shot on Clarissa, beaming smugly as she clings to Gerald's arm."
+          }
+        ]
+      },
+      "cliffhanger_details": {
+        "beat_id": "B031",
+        "cliffhanger_type": "revenge",
+        "specific_question": "How will Gerald react to being publicly unmasked as a shallow, gold-digging traitor?",
+        "ending_assessment": "Peak cinematic cliffhanger: cuts directly on protagonist's cold vengeful glare as musical strings swell.",
+        "closing_dialogue": [
+          {
+            "character": "LADY JULIANA",
+            "dialogue": "...because another woman promised you greater beauty and wealth.",
+            "emotion": "Sharp, Piercing"
+          }
+        ],
+        "closing_visuals": [
+          {
+            "type": "camera",
+            "description": "Medium profile close-up on Gerald's hardening jawline, Clarissa blurred in the background."
+          },
+          {
+            "type": "camera",
+            "description": "Closer angle on Gerald's uneasy expression as Juliana's voice commands the room."
+          }
+        ]
+      },
+      "full_promo_dialogue": [
+        {
+          "beat_id": "B018",
+          "character": "LADY IN GOLD GOWN",
+          "dialogue": "Why are you surprised, sister? Look at you."
+        },
+        {
+          "beat_id": "B019",
+          "character": "LADY IN GOLD GOWN",
+          "dialogue": "That plain, old-fashioned gown."
+        },
+        {
+          "beat_id": "B020",
+          "character": "LADY IN GOLD GOWN",
+          "dialogue": "You look like a kitchen maid who wandered into the wrong wedding."
+        },
+        {
+          "beat_id": "B021",
+          "character": "LADY IN GOLD GOWN",
+          "dialogue": "And that quiet little face."
+        },
+        {
+          "beat_id": "B023",
+          "character": "LADY IN GOLD GOWN",
+          "dialogue": "Gerald needs a real lady..."
+        },
+        {
+          "beat_id": "B024",
+          "character": "LADY IN GOLD GOWN",
+          "dialogue": "...not a dull creature who hides in her mother's apothecary herbs."
+        },
+        {
+          "beat_id": "B025",
+          "character": "OFF-SCREEN VOICE",
+          "dialogue": "Oh, don't look so wounded, Juliana."
+        },
+        {
+          "beat_id": "B026",
+          "character": "OFF-SCREEN VOICE",
+          "dialogue": "You should be grateful you're at least allowed to attend the wedding."
+        },
+        {
+          "beat_id": "B027",
+          "character": "THE FORMER GROOM",
+          "dialogue": "Go home quietly, Juliana. At least leave this chapel with some dignity."
+        },
+        {
+          "beat_id": "B029",
+          "character": "LADY JULIANA",
+          "dialogue": "Dignity?"
+        },
+        {
+          "beat_id": "B030",
+          "character": "LADY JULIANA",
+          "dialogue": "You abandoned a woman who trusted you..."
+        },
+        {
+          "beat_id": "B031",
+          "character": "LADY JULIANA",
+          "dialogue": "...because another woman promised you greater beauty and wealth."
+        }
+      ]
+    },
+    {
+      "selection_order": 5,
+      "candidate_id": "CAND_EP002_04",
+      "tournament_rank": 6,
+      "bradley_terry_strength": 0.7332,
+      "tournament_win_loss": "9-6",
+      "narrative_thread": "Gerald Altar Rejection & Plainness Insult",
+      "start_beat_id": "B001",
+      "end_beat_id": "B011",
+      "start_time": 0.0,
+      "end_time": 30.6,
+      "duration": 30.6,
+      "quality_score_Q": 0.6875,
+      "max_similarity_to_selected": 0.7991,
+      "most_similar_selected_id": "CAND_EP002_234",
+      "mmr_score": 0.0185,
+      "situational_summary": "A groom publicly rejects and insults his bride at the altar to marry a gloating rival standing by his side.",
+      "hook_details": {
+        "beat_id": "B001",
+        "dialogue_rationale": "Direct, explosive opening line ('I cannot marry you, Juliana') immediately delivers a relationship-shattering betrayal at the altar.",
+        "visual_rationale": "Medium low-angle shot establishes power imbalance with Gerald looking down dismissively and Clarissa gloating in gold behind him.",
+        "opening_assessment": "Dialogue hook hits immediately (2.8s first beat) without dead air.",
+        "opening_dialogue": [
+          {
+            "character": "THE FORMER GROOM",
+            "dialogue": "I cannot marry you, Juliana.",
+            "emotion": "Cold, Callous"
+          }
+        ],
+        "opening_visuals": [
+          {
+            "type": "camera",
+            "description": "Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating."
+          }
+        ]
+      },
+      "cliffhanger_details": {
+        "beat_id": "B011",
+        "cliffhanger_type": "betrayal",
+        "specific_question": "Who will intervene as Gerald brazenly links arms with Clarissa at Juliana's altar?",
+        "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+        "closing_dialogue": [
+          {
+            "character": "THE FORMER GROOM",
+            "dialogue": "She is what I should have chosen from the beginning.",
+            "emotion": "Resolute, Harsh"
+          }
+        ],
+        "closing_visuals": [
+          {
+            "type": "camera",
+            "description": "Wide shot from behind Juliana looking up the altar stairs at Gerald with Clarissa linked to his arm."
+          }
+        ]
+      },
+      "full_promo_dialogue": [
+        {
+          "beat_id": "B001",
+          "character": "THE FORMER GROOM",
+          "dialogue": "I cannot marry you, Juliana."
+        },
+        {
+          "beat_id": "B003",
+          "character": "THE FORMER GROOM",
+          "dialogue": "You are far too plain..."
+        },
+        {
+          "beat_id": "B004",
+          "character": "THE FORMER GROOM",
+          "dialogue": "...far too silent..."
+        },
+        {
+          "beat_id": "B005",
+          "character": "THE FORMER GROOM",
+          "dialogue": "...and completely beneath the future I deserve."
+        },
+        {
+          "beat_id": "B006",
+          "character": "LADY JULIANA",
+          "dialogue": "Gerald... Look at me."
+        },
+        {
+          "beat_id": "B008",
+          "character": "LADY JULIANA",
+          "dialogue": "You gave me your word before both our families."
+        },
+        {
+          "beat_id": "B009",
+          "character": "THE FORMER GROOM",
+          "dialogue": "Promises change when a better choice appears."
+        },
+        {
+          "beat_id": "B010",
+          "character": "LADY JULIANA",
+          "dialogue": "A better choice? Is that what she is?"
+        },
+        {
+          "beat_id": "B011",
+          "character": "THE FORMER GROOM",
+          "dialogue": "She is what I should have chosen from the beginning."
+        }
+      ]
+    }
+  ],
+  "disqualification_audit_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP002_289",
+      "rank": 9,
+      "recommended_boundary": "B027 -> B037",
+      "similarity": 0.9781,
+      "duplicate_of": "CAND_EP002_286",
+      "reason": "Exceeded near-duplicate threshold (0.9781 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP002_288",
+      "rank": 11,
+      "recommended_boundary": "B027 -> B036",
+      "similarity": 0.976,
+      "duplicate_of": "CAND_EP002_286",
+      "reason": "Exceeded near-duplicate threshold (0.9760 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP002_289",
+      "rank": 9,
+      "recommended_boundary": "B027 -> B037",
+      "similarity": 0.9781,
+      "duplicate_of": "CAND_EP002_286",
+      "reason": "Exceeded near-duplicate threshold (0.9781 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP002_288",
+      "rank": 11,
+      "recommended_boundary": "B027 -> B036",
+      "similarity": 0.976,
+      "duplicate_of": "CAND_EP002_286",
+      "reason": "Exceeded near-duplicate threshold (0.9760 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP002_237",
+      "rank": 4,
+      "recommended_boundary": "B020 -> B033",
+      "similarity": 0.9682,
+      "duplicate_of": "CAND_EP002_234",
+      "reason": "Exceeded near-duplicate threshold (0.9682 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP002_289",
+      "rank": 9,
+      "recommended_boundary": "B027 -> B037",
+      "similarity": 0.9781,
+      "duplicate_of": "CAND_EP002_286",
+      "reason": "Exceeded near-duplicate threshold (0.9781 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP002_288",
+      "rank": 11,
+      "recommended_boundary": "B027 -> B036",
+      "similarity": 0.976,
+      "duplicate_of": "CAND_EP002_286",
+      "reason": "Exceeded near-duplicate threshold (0.9760 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP002_237",
+      "rank": 4,
+      "recommended_boundary": "B020 -> B033",
+      "similarity": 0.9682,
+      "duplicate_of": "CAND_EP002_234",
+      "reason": "Exceeded near-duplicate threshold (0.9682 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP002_289",
+      "rank": 9,
+      "recommended_boundary": "B027 -> B037",
+      "similarity": 0.9781,
+      "duplicate_of": "CAND_EP002_286",
+      "reason": "Exceeded near-duplicate threshold (0.9781 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP002_288",
+      "rank": 11,
+      "recommended_boundary": "B027 -> B036",
+      "similarity": 0.976,
+      "duplicate_of": "CAND_EP002_286",
+      "reason": "Exceeded near-duplicate threshold (0.9760 >= 0.90)"
+    }
+  ],
+  "similarity_matrix_summary": {
+    "candidate_ids": [
+      "CAND_EP002_286",
+      "CAND_EP002_281",
+      "CAND_EP002_234",
+      "CAND_EP002_237",
+      "CAND_EP002_215",
+      "CAND_EP002_04",
+      "CAND_EP002_08",
+      "CAND_EP002_115",
+      "CAND_EP002_289",
+      "CAND_EP002_07",
+      "CAND_EP002_288",
+      "CAND_EP002_302",
+      "CAND_EP002_156",
+      "CAND_EP002_301",
+      "CAND_EP002_306",
+      "CAND_EP002_76"
+    ],
+    "matrix": [
+      [
+        1.0,
+        0.781,
+        0.8222,
+        0.7957,
+        0.7474,
+        0.7838,
+        0.7718,
+        0.8064,
+        0.9781,
+        0.7888,
+        0.976,
+        0.8055,
+        0.8204,
+        0.8139,
+        0.8036,
+        0.7698
+      ],
+      [
+        0.781,
+        1.0,
+        0.8217,
+        0.8169,
+        0.7923,
+        0.7379,
+        0.7169,
+        0.7724,
+        0.7438,
+        0.7352,
+        0.758,
+        0.7585,
+        0.7957,
+        0.757,
+        0.752,
+        0.7353
+      ],
+      [
+        0.8222,
+        0.8217,
+        1.0,
+        0.9682,
+        0.7802,
+        0.7991,
+        0.7891,
+        0.7772,
+        0.8197,
+        0.8081,
+        0.8289,
+        0.791,
+        0.8217,
+        0.781,
+        0.8009,
+        0.7783
+      ],
+      [
+        0.7957,
+        0.8169,
+        0.9682,
+        1.0,
+        0.7548,
+        0.7683,
+        0.7458,
+        0.7495,
+        0.773,
+        0.7683,
+        0.7889,
+        0.7147,
+        0.7786,
+        0.7145,
+        0.7413,
+        0.7481
+      ],
+      [
+        0.7474,
+        0.7923,
+        0.7802,
+        0.7548,
+        1.0,
+        0.7764,
+        0.7505,
+        0.7802,
+        0.7331,
+        0.7598,
+        0.7436,
+        0.7697,
+        0.7809,
+        0.753,
+        0.7763,
+        0.7562
+      ],
+      [
+        0.7838,
+        0.7379,
+        0.7991,
+        0.7683,
+        0.7764,
+        1.0,
+        0.9692,
+        0.8046,
+        0.7819,
+        0.9798,
+        0.8009,
+        0.8085,
+        0.8258,
+        0.7846,
+        0.8623,
+        0.8327
+      ],
+      [
+        0.7718,
+        0.7169,
+        0.7891,
+        0.7458,
+        0.7505,
+        0.9692,
+        1.0,
+        0.8228,
+        0.7855,
+        0.9932,
+        0.8035,
+        0.8213,
+        0.8194,
+        0.7958,
+        0.8446,
+        0.8293
+      ],
+      [
+        0.8064,
+        0.7724,
+        0.7772,
+        0.7495,
+        0.7802,
+        0.8046,
+        0.8228,
+        1.0,
+        0.7948,
+        0.8267,
+        0.816,
+        0.819,
+        0.8402,
+        0.7943,
+        0.8055,
+        0.7816
+      ],
+      [
+        0.9781,
+        0.7438,
+        0.8197,
+        0.773,
+        0.7331,
+        0.7819,
+        0.7855,
+        0.7948,
+        1.0,
+        0.7952,
+        0.9847,
+        0.8136,
+        0.8247,
+        0.8128,
+        0.7967,
+        0.7612
+      ],
+      [
+        0.7888,
+        0.7352,
+        0.8081,
+        0.7683,
+        0.7598,
+        0.9798,
+        0.9932,
+        0.8267,
+        0.7952,
+        1.0,
+        0.815,
+        0.8226,
+        0.8347,
+        0.7971,
+        0.8528,
+        0.8355
+      ],
+      [
+        0.976,
+        0.758,
+        0.8289,
+        0.7889,
+        0.7436,
+        0.8009,
+        0.8035,
+        0.816,
+        0.9847,
+        0.815,
+        1.0,
+        0.8227,
+        0.8514,
+        0.831,
+        0.8167,
+        0.7777
+      ],
+      [
+        0.8055,
+        0.7585,
+        0.791,
+        0.7147,
+        0.7697,
+        0.8085,
+        0.8213,
+        0.819,
+        0.8136,
+        0.8226,
+        0.8227,
+        1.0,
+        0.8421,
+        0.9539,
+        0.871,
+        0.7843
+      ],
+      [
+        0.8204,
+        0.7957,
+        0.8217,
+        0.7786,
+        0.7809,
+        0.8258,
+        0.8194,
+        0.8402,
+        0.8247,
+        0.8347,
+        0.8514,
+        0.8421,
+        1.0,
+        0.8282,
+        0.8596,
+        0.8151
+      ],
+      [
+        0.8139,
+        0.757,
+        0.781,
+        0.7145,
+        0.753,
+        0.7846,
+        0.7958,
+        0.7943,
+        0.8128,
+        0.7971,
+        0.831,
+        0.9539,
+        0.8282,
+        1.0,
+        0.8605,
+        0.7813
+      ],
+      [
+        0.8036,
+        0.752,
+        0.8009,
+        0.7413,
+        0.7763,
+        0.8623,
+        0.8446,
+        0.8055,
+        0.7967,
+        0.8528,
+        0.8167,
+        0.871,
+        0.8596,
+        0.8605,
+        1.0,
+        0.8399
+      ],
+      [
+        0.7698,
+        0.7353,
+        0.7783,
+        0.7481,
+        0.7562,
+        0.8327,
+        0.8293,
+        0.7816,
+        0.7612,
+        0.8355,
+        0.7777,
+        0.7843,
+        0.8151,
+        0.7813,
+        0.8399,
+        1.0
+      ]
+    ]
+  }
+}

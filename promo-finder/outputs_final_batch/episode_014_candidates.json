@@ -1,0 +1,720 @@
+{
+  "episode_number": 14,
+  "total_candidates": 12,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP014_01",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 23.0,
+      "duration": 23.0,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Visually arresting close-up: blood-streaked, mud-caked hand uncurling among sharp thorns to reveal an emerald signet ring on frozen ground creates immediate mystery and visceral danger on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 3,
+        "specific_question": "How will Alexander react once he sees the severity of Juliana's mutilated hands?",
+        "stakes_importance": "Medium \u2014 discovery of brutal physical injury inflicted on the heroine, brewing an emotional explosion.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B001",
+          "end_beat_id": "B006",
+          "start_time": 0.0,
+          "end_time": 23.0,
+          "duration": 23.0,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP014_02",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 25.5,
+      "duration": 25.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Visually arresting close-up: blood-streaked, mud-caked hand uncurling among sharp thorns to reveal an emerald signet ring on frozen ground creates immediate mystery and visceral danger on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who forced Juliana to tear her hands apart in the briars, and how will Alexander make them pay?",
+        "stakes_importance": "High \u2014 explosive emotional inquiry from the male lead demanding the identity of her abusers.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B001",
+          "end_beat_id": "B007",
+          "start_time": 0.0,
+          "end_time": 25.5,
+          "duration": 25.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP014_03",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 29.5,
+      "duration": 29.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Visually arresting close-up: blood-streaked, mud-caked hand uncurling among sharp thorns to reveal an emerald signet ring on frozen ground creates immediate mystery and visceral danger on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 3,
+        "specific_question": "Who made this cruel promise to Juliana, and will Alexander let this injustice stand?",
+        "stakes_importance": "Medium \u2014 confirms premeditated cruelty by unseen antagonists, deepening the grievance.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B001",
+          "end_beat_id": "B008",
+          "start_time": 0.0,
+          "end_time": 29.5,
+          "duration": 29.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP014_04",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "start_time": 0.0,
+      "end_time": 38.5,
+      "duration": 38.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Visually arresting close-up: blood-streaked, mud-caked hand uncurling among sharp thorns to reveal an emerald signet ring on frozen ground creates immediate mystery and visceral danger on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "What retribution will Alexander seek against those who forced Juliana to bleed for him?",
+        "stakes_importance": "Medium \u2014 vow of protective guilt establishing a future reckoning with the antagonists.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B001",
+          "end_beat_id": "B010",
+          "start_time": 0.0,
+          "end_time": 38.5,
+          "duration": 38.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP014_05",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B002",
+      "end_beat_id": "B010",
+      "start_time": 5.6,
+      "end_time": 38.5,
+      "duration": 32.9,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Juliana's declaration 'I found it' confirms the discovery, but is relatively brief without standalone shock value.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Strong visual hook with torn cloak, scratched face, and bloodied presentation of the ring with fierce resolve.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "What retribution will Alexander seek against those who forced Juliana to bleed for him?",
+        "stakes_importance": "Medium \u2014 vow of protective guilt establishing a future reckoning with the antagonists.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B002",
+          "end_beat_id": "B010",
+          "start_time": 5.6,
+          "end_time": 38.5,
+          "duration": 32.9,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP014_06",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B003",
+      "end_beat_id": "B010",
+      "start_time": 9.5,
+      "end_time": 38.5,
+      "duration": 29.0,
+      "hook_signal": {
+        "beat_id": "B003",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes demand 'Now release my husband' directly exposes acute legal jeopardy, ransom dynamic, and marital devotion.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Wide shot clearly staging the exchange of the ring to an austere guard, visually legible conflict.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "What retribution will Alexander seek against those who forced Juliana to bleed for him?",
+        "stakes_importance": "Medium \u2014 vow of protective guilt establishing a future reckoning with the antagonists.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B003",
+          "end_beat_id": "B010",
+          "start_time": 9.5,
+          "end_time": 38.5,
+          "duration": 29.0,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP014_07",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B004",
+      "end_beat_id": "B010",
+      "start_time": 13.5,
+      "end_time": 38.5,
+      "duration": 25.0,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight focus on iron shackles unlocking and falling away from locked wrists offers an immediate visual high-stakes rescue hook.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "What retribution will Alexander seek against those who forced Juliana to bleed for him?",
+        "stakes_importance": "Medium \u2014 vow of protective guilt establishing a future reckoning with the antagonists.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B004",
+          "end_beat_id": "B010",
+          "start_time": 13.5,
+          "end_time": 38.5,
+          "duration": 25.0,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP014_08",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B005",
+      "end_beat_id": "B010",
+      "start_time": 15.6,
+      "end_time": 38.5,
+      "duration": 22.9,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 1,
+        "dialogue_hook_rationale": "Calling out 'Juliana' is purely an emotional name call without inherent narrative revelation.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Dynamic tracking shot of a man urgently lunging past guards toward a battered woman provides clear physical motion.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "What retribution will Alexander seek against those who forced Juliana to bleed for him?",
+        "stakes_importance": "Medium \u2014 vow of protective guilt establishing a future reckoning with the antagonists.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B005",
+          "end_beat_id": "B010",
+          "start_time": 15.6,
+          "end_time": 38.5,
+          "duration": 22.9,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP014_09",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B006",
+      "end_beat_id": "B010",
+      "start_time": 18.5,
+      "end_time": 38.5,
+      "duration": 20.0,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up of trembling hands inspecting deep, bleeding lacerations and gouges delivers high emotional friction and physical damage on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "What retribution will Alexander seek against those who forced Juliana to bleed for him?",
+        "stakes_importance": "Medium \u2014 vow of protective guilt establishing a future reckoning with the antagonists.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B006",
+          "end_beat_id": "B010",
+          "start_time": 18.5,
+          "end_time": 38.5,
+          "duration": 20.0,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP014_10",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B013",
+      "end_beat_id": "B022",
+      "start_time": 43.5,
+      "end_time": 87.63,
+      "duration": 44.13,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "'You could have lost your hands' frames the sacrifice in extreme physical terms.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Intimate kneeling posture and bandaging of bloody wrists by the hearth provides clear emotional caretaking.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 5,
+        "specific_question": "What ruthless vengeance is Alexander preparing to unleash upon those who made his wife bleed?",
+        "stakes_importance": "High \u2014 peak unresolved tension: the visual shock of bloody water paired with a clenched iron fist, bass drop, and cut to black signaling an inevitable, lethal reckoning.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B013",
+          "end_beat_id": "B022",
+          "start_time": 43.5,
+          "end_time": 87.63,
+          "duration": 44.13,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP014_11",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B014",
+      "end_beat_id": "B021",
+      "start_time": 50.5,
+      "end_time": 83.5,
+      "duration": 33.0,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "'But I didn't lose you' is emotionally tender romance dialogue, lacking sudden shock or external confrontation.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Extreme close-up on glistening eyes and trembling lips in firelight conveys high emotional intimacy.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who targeted Juliana to get to Alexander, and how will he crush anyone who dares harm her again?",
+        "stakes_importance": "High \u2014 chilling, absolute vow of protection combined with a shift into lethal conviction against known enemies.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B014",
+          "end_beat_id": "B021",
+          "start_time": 50.5,
+          "end_time": 83.5,
+          "duration": 33.0,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP014_12",
+      "episode": "Episode 14",
+      "episode_number": 14,
+      "start_beat_id": "B014",
+      "end_beat_id": "B022",
+      "start_time": 50.5,
+      "end_time": 87.63,
+      "duration": 37.13,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "'But I didn't lose you' is emotionally tender romance dialogue, lacking sudden shock or external confrontation.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Extreme close-up on glistening eyes and trembling lips in firelight conveys high emotional intimacy.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 5,
+        "specific_question": "What ruthless vengeance is Alexander preparing to unleash upon those who made his wife bleed?",
+        "stakes_importance": "High \u2014 peak unresolved tension: the visual shock of bloody water paired with a clenched iron fist, bass drop, and cut to black signaling an inevitable, lethal reckoning.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 14,
+          "start_beat_id": "B014",
+          "end_beat_id": "B022",
+          "start_time": 50.5,
+          "end_time": 87.63,
+          "duration": 37.13,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

@@ -1,0 +1,1122 @@
+{
+  "episode": "Episode 28",
+  "episode_number": 28,
+  "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.",
+  "continuity_notes": "Picks up directly from Episode 27 as Rupert orders the guard to seize Juliana, ignoring the waking Duchess.",
+  "duration": 138.5,
+  "total_beats": 34,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 4.7,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana struggles against the guard's grip; the leather-bound herbarium slips from her apron pocket and falls to the stone floor.",
+          "start": 0.0,
+          "end": 2.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot as the guard drags Juliana toward the doorway, wrestling her backward.",
+          "start": 0.0,
+          "end": 2.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Heavy thud of the leather journal hitting the polished floor.",
+          "start": 1.8,
+          "end": 3.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Low-angle close-up of the leather-bound herbarium on the floor as Catherine's silk slipper steps down hard upon its embossed cover.",
+          "start": 2.3,
+          "end": 4.7,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Catherine plants her embroidered shoe deliberately atop the fallen book.",
+          "start": 3.2,
+          "end": 4.6,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B002",
+      "start": 4.7,
+      "end": 12.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot tracking Catherine as she strides gracefully across the chamber toward Juliana, Rupert standing stoically behind her near the bed.",
+          "start": 4.7,
+          "end": 10.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Look at her, Rupert.",
+          "start": 4.9,
+          "end": 6.3,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Mocking, Cruel"
+        },
+        {
+          "type": "dialogue",
+          "description": "Soot on her face...",
+          "start": 6.6,
+          "end": 8.1,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Scoffing"
+        },
+        {
+          "type": "camera",
+          "description": "Over-the-shoulder shot from behind Catherine as she faces Juliana, who is pinned in the doorway by the guard.",
+          "start": 8.2,
+          "end": 12.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "...herbs in her pockets...",
+          "start": 8.4,
+          "end": 10.0,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Accusing, Smug"
+        },
+        {
+          "type": "dialogue",
+          "description": "...a secret medicine in her hand.",
+          "start": 10.2,
+          "end": 12.3,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Cold"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B003",
+      "start": 12.6,
+      "end": 15.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Catherine's smiling face, her eyes gleaming with vindictive pleasure.",
+          "start": 12.6,
+          "end": 15.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "She looks exactly like a poisoner.",
+          "start": 12.7,
+          "end": 15.0,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Venomous"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B004",
+      "start": 15.2,
+      "end": 18.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder.",
+          "start": 15.2,
+          "end": 18.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I did not poison her! Look at her eyes, the fever has broken!",
+          "start": 15.3,
+          "end": 18.4,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Furious, Defiant"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B005",
+      "start": 18.5,
+      "end": 22.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves.",
+          "start": 18.5,
+          "end": 22.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "A clever story, girl.",
+          "start": 18.9,
+          "end": 20.3,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Sardonic, Chilling"
+        },
+        {
+          "type": "dialogue",
+          "description": "But the guards know how to extract the truth.",
+          "start": 20.4,
+          "end": 22.7,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Threatening"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B006",
+      "start": 22.8,
+      "end": 26.7,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort.",
+          "start": 22.8,
+          "end": 26.7,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Rupert...",
+          "start": 24.8,
+          "end": 26.5,
+          "timestamp_source": "given",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Weak, Straining"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B007",
+      "start": 26.7,
+      "end": 28.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Stop this!",
+          "start": 26.7,
+          "end": 28.2,
+          "timestamp_source": "given",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Commanding"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed.",
+          "start": 26.7,
+          "end": 28.4,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B008",
+      "start": 28.4,
+      "end": 32.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger.",
+          "start": 28.4,
+          "end": 32.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "She is innocent.",
+          "start": 28.8,
+          "end": 30.3,
+          "timestamp_source": "given",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Desperate, Firm"
+        },
+        {
+          "type": "dialogue",
+          "description": "She saved me!",
+          "start": 30.8,
+          "end": 32.4,
+          "timestamp_source": "given",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Adamant"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B009",
+      "start": 32.8,
+      "end": 34.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana, tears of relief welling in her eyes.",
+          "start": 32.8,
+          "end": 34.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Your Grace...",
+          "start": 33.2,
+          "end": 34.6,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Breathless, Relieved"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B010",
+      "start": 34.9,
+      "end": 37.7,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror.",
+          "start": 34.9,
+          "end": 37.7,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I know what happened to me!",
+          "start": 35.0,
+          "end": 37.4,
+          "timestamp_source": "given",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Trembling, Shouting"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B011",
+      "start": 37.7,
+      "end": 43.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless.",
+          "start": 37.7,
+          "end": 43.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I was poisoned!",
+          "start": 38.2,
+          "end": 40.0,
+          "timestamp_source": "given",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Fierce, Condemning"
+        },
+        {
+          "type": "dialogue",
+          "description": "And you... you knew!",
+          "start": 40.3,
+          "end": 42.2,
+          "timestamp_source": "given",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Accusing"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B012",
+      "start": 43.0,
+      "end": 52.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine.",
+          "start": 43.0,
+          "end": 47.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Catherine knew!",
+          "start": 43.6,
+          "end": 45.3,
+          "timestamp_source": "given",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Choking, Weakening"
+        },
+        {
+          "type": "dialogue",
+          "description": "They have been\u2014",
+          "start": 45.6,
+          "end": 47.0,
+          "timestamp_source": "given",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Gasping"
+        },
+        {
+          "type": "action",
+          "description": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest.",
+          "start": 46.8,
+          "end": 48.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back.",
+          "start": 47.4,
+          "end": 52.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Let me help her!",
+          "start": 48.2,
+          "end": 49.7,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Panicked, Screaming"
+        },
+        {
+          "type": "dialogue",
+          "description": "She's still weak, you cannot leave her like this!",
+          "start": 49.5,
+          "end": 52.1,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Desperate"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B013",
+      "start": 52.2,
+      "end": 56.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips.",
+          "start": 52.2,
+          "end": 56.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You see?",
+          "start": 52.8,
+          "end": 53.6,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Smooth, Feigning Concern"
+        },
+        {
+          "type": "dialogue",
+          "description": "The poison has clearly damaged her mind.",
+          "start": 54.0,
+          "end": 56.6,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Sinister"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B014",
+      "start": 56.8,
+      "end": 61.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed.",
+          "start": 56.8,
+          "end": 61.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I am not delusional!",
+          "start": 57.0,
+          "end": 58.7,
+          "timestamp_source": "given",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Hoarse, Straining"
+        },
+        {
+          "type": "dialogue",
+          "description": "Of course you are not.",
+          "start": 58.6,
+          "end": 60.0,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Condescending, Whispering"
+        },
+        {
+          "type": "dialogue",
+          "description": "You are merely confused.",
+          "start": 60.1,
+          "end": 61.2,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Dismissive"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B015",
+      "start": 61.3,
+      "end": 66.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism.",
+          "start": 61.3,
+          "end": 66.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "How convenient that the only person who can prove the poison exists...",
+          "start": 61.6,
+          "end": 64.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Amused, Mocking"
+        },
+        {
+          "type": "dialogue",
+          "description": "...is the maid who claims to have discovered it.",
+          "start": 64.9,
+          "end": 66.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Smug"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B016",
+      "start": 66.8,
+      "end": 70.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative.",
+          "start": 66.8,
+          "end": 70.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Take her away before she poisons the rest of this house.",
+          "start": 67.2,
+          "end": 70.2,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Commanding, Resolute"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B017",
+      "start": 70.5,
+      "end": 72.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck.",
+          "start": 70.5,
+          "end": 72.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Catherine ruthlessly yanks the silver locket off Juliana's neck.",
+          "start": 70.8,
+          "end": 72.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No!",
+          "start": 71.2,
+          "end": 72.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Crying Out"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B018",
+      "start": 72.0,
+      "end": 75.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain.",
+          "start": 72.0,
+          "end": 75.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Where did a gutter rat like you find a silver locket?",
+          "start": 72.2,
+          "end": 75.1,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Insolent, Sneering"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B019",
+      "start": 75.3,
+      "end": 78.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana crying out in agony, writhing in the guard's iron grip.",
+          "start": 75.3,
+          "end": 78.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Give it back!",
+          "start": 75.4,
+          "end": 76.4,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Screaming, Weeping"
+        },
+        {
+          "type": "dialogue",
+          "description": "It belonged to my mother!",
+          "start": 76.8,
+          "end": 78.6,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Anguished"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B020",
+      "start": 78.9,
+      "end": 86.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor.",
+          "start": 78.9,
+          "end": 82.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "A witch has no need for family heirlooms in the gallows.",
+          "start": 79.0,
+          "end": 81.9,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Cruel"
+        },
+        {
+          "type": "sfx",
+          "description": "Metallic clatter as the silver pendant bounces against the wooden baseboard.",
+          "start": 81.0,
+          "end": 82.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket.",
+          "start": 82.3,
+          "end": 86.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "My mother's locket!",
+          "start": 82.5,
+          "end": 84.4,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Heartbroken"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B021",
+      "start": 86.5,
+      "end": 91.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up.",
+          "start": 86.5,
+          "end": 91.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages.",
+          "start": 88.0,
+          "end": 91.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B022",
+      "start": 91.0,
+      "end": 93.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Catherine reading the elegant cursive script inside the front cover.",
+          "start": 91.0,
+          "end": 93.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Juliana...",
+          "start": 91.2,
+          "end": 92.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Intrigued, Murmuring"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B023",
+      "start": 93.8,
+      "end": 95.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up on the handwritten inscription: 'Juliana Ashcroft'.",
+          "start": 93.8,
+          "end": 95.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B024",
+      "start": 95.0,
+      "end": 97.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book.",
+          "start": 95.0,
+          "end": 97.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana gasps in horror, realizing her secret identity has been laid bare.",
+          "start": 95.2,
+          "end": 97.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B025",
+      "start": 97.4,
+      "end": 101.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face.",
+          "start": 97.4,
+          "end": 101.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Lady Juliana Ashcroft.",
+          "start": 98.2,
+          "end": 100.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Triumphant, Venomous"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B026",
+      "start": 101.2,
+      "end": 107.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey.",
+          "start": 101.2,
+          "end": 107.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I knew I had seen those eyes before.",
+          "start": 101.5,
+          "end": 103.7,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Mocking, Reveling"
+        },
+        {
+          "type": "dialogue",
+          "description": "The disgraced daughter...",
+          "start": 104.2,
+          "end": 105.6,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Cruel"
+        },
+        {
+          "type": "dialogue",
+          "description": "...the girl thrown out of her own family home.",
+          "start": 105.6,
+          "end": 107.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Scornful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B027",
+      "start": 107.8,
+      "end": 113.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past.",
+          "start": 107.8,
+          "end": 113.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The bride who married a penniless war veteran...",
+          "start": 108.1,
+          "end": 111.0,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Taunting"
+        },
+        {
+          "type": "dialogue",
+          "description": "...because no respectable man would have her.",
+          "start": 111.1,
+          "end": 113.0,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Vicious"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B028",
+      "start": 113.0,
+      "end": 116.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Juliana's eyes blazing with explosive fury and defensive loyalty.",
+          "start": 113.0,
+          "end": 116.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Do not speak about my husband!",
+          "start": 113.3,
+          "end": 115.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Screaming, Wildly Defiant"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B029",
+      "start": 116.4,
+      "end": 122.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "And look at you now. Scrubbing fireplaces in my house.",
+          "start": 116.4,
+          "end": 119.1,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Laughing, Scornful"
+        },
+        {
+          "type": "camera",
+          "description": "Medium two-shot as Catherine throws her head back in derisive laughter, brandishing the herbarium book.",
+          "start": 116.4,
+          "end": 122.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What a magnificent fall, Lady Juliana.",
+          "start": 119.2,
+          "end": 121.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Mocking"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B030",
+      "start": 122.0,
+      "end": 124.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Drag her to the wet cells beneath the south tower.",
+          "start": 122.0,
+          "end": 124.7,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Harsh, Authoritative"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Rupert gesturing toward the exit with an outstretched arm.",
+          "start": 122.0,
+          "end": 124.9,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B031",
+      "start": 124.9,
+      "end": 128.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine fanning open the illustrated botanical pages of the herbarium with gloved fingers.",
+          "start": 124.9,
+          "end": 128.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And this?",
+          "start": 125.0,
+          "end": 125.7,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Smug"
+        },
+        {
+          "type": "dialogue",
+          "description": "This book of weeds will hang her before the magistrate.",
+          "start": 125.9,
+          "end": 128.7,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Gleeful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B032",
+      "start": 128.8,
+      "end": 131.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana thrashing frantically against the guard's grip, her arm reaching out toward the book.",
+          "start": 128.8,
+          "end": 131.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "That book is my mother's life's work!",
+          "start": 129.1,
+          "end": 131.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Screaming, Desperate"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B033",
+      "start": 131.2,
+      "end": 136.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Catherine smiling coldly, clutching the closed book against her bodice.",
+          "start": 131.2,
+          "end": 136.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then perhaps you can explain every page to the magistrate...",
+          "start": 131.4,
+          "end": 134.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Icy, Threatening"
+        },
+        {
+          "type": "dialogue",
+          "description": "...before he sends you to the gallows.",
+          "start": 134.6,
+          "end": 136.7,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Fateful, Vengeful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    },
+    {
+      "beat_id": "B034",
+      "start": 136.8,
+      "end": 138.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway, cutting sharply to black.",
+          "start": 136.8,
+          "end": 138.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUCHESS'S BEDCHAMBER \u2013 DAY"
+    }
+  ]
+}

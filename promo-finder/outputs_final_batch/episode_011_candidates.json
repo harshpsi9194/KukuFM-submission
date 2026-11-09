@@ -1,0 +1,738 @@
+{
+  "episode_number": 11,
+  "total_candidates": 13,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP011_01",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B006",
+      "end_beat_id": "B009",
+      "start_time": 10.8,
+      "end_time": 34.9,
+      "duration": 24.1,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "A menacing, cryptic statement of claim ('I came for something that belongs to me') creating an immediate stakes challenge.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up cut to a woman in violet silk peering from the carriage with a venomous, triumphant smile provides high melodrama on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B009",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Alexander physically assault Gerald after being insulted as a beggar?",
+        "stakes_importance": "High \u2014 imminent violence provoked by Gerald's classist insult, putting Alexander at legal risk.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B006",
+          "end_beat_id": "B009",
+          "start_time": 10.8,
+          "end_time": 34.9,
+          "duration": 24.1,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_02",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B006",
+      "end_beat_id": "B011",
+      "start_time": 10.8,
+      "end_time": 53.6,
+      "duration": 42.8,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "A menacing, cryptic statement of claim ('I came for something that belongs to me') creating an immediate stakes challenge.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up cut to a woman in violet silk peering from the carriage with a venomous, triumphant smile provides high melodrama on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why does Alexander willingly invite the constable to search their cottage despite Juliana's panic?",
+        "stakes_importance": "High \u2014 unexpected capitulation by Alexander hints at either a trap or supreme confidence.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B006",
+          "end_beat_id": "B011",
+          "start_time": 10.8,
+          "end_time": 53.6,
+          "duration": 42.8,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_03",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B008",
+      "end_beat_id": "B011",
+      "start_time": 16.8,
+      "end_time": 53.6,
+      "duration": 36.8,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "An explosive criminal allegation ('Your husband stole my gold pocket watch!') instantly establishing extreme conflict.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Gerald points an aggressive, accusatory finger as Juliana recoils in visceral disbelief.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why does Alexander willingly invite the constable to search their cottage despite Juliana's panic?",
+        "stakes_importance": "High \u2014 unexpected capitulation by Alexander hints at either a trap or supreme confidence.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B008",
+          "end_beat_id": "B011",
+          "start_time": 16.8,
+          "end_time": 53.6,
+          "duration": 36.8,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_04",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B009",
+      "end_beat_id": "B011",
+      "start_time": 20.0,
+      "end_time": 53.6,
+      "duration": 33.6,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Escalating verbal hostility with a brutal class insult ('You married a beggar!') met with a lethal threat ('Choose your next words carefully.').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Arrogant head-back mocking laughter contrasted against Alexander stepping forward with a murderous gaze and rigid jaw.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why does Alexander willingly invite the constable to search their cottage despite Juliana's panic?",
+        "stakes_importance": "High \u2014 unexpected capitulation by Alexander hints at either a trap or supreme confidence.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B009",
+          "end_beat_id": "B011",
+          "start_time": 20.0,
+          "end_time": 53.6,
+          "duration": 33.6,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_05",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B012",
+      "end_beat_id": "B017",
+      "start_time": 54.0,
+      "end_time": 84.0,
+      "duration": 30.0,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama as an armed officer pushes past the woman and begins violently overturning crates and wrecking a private home.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Alexander take Gerald's bait and commit a criminal assault in front of the law?",
+        "stakes_importance": "High \u2014 active provocation daring a lethal soldier to destroy his own life.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B012",
+          "end_beat_id": "B017",
+          "start_time": 54.0,
+          "end_time": 84.0,
+          "duration": 30.0,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_06",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B012",
+      "end_beat_id": "B020",
+      "start_time": 54.0,
+      "end_time": 99.2,
+      "duration": 45.2,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama as an armed officer pushes past the woman and begins violently overturning crates and wrecking a private home.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How did the stolen pocket watch end up in Alexander's coat, and will he be arrested immediately?",
+        "stakes_importance": "High \u2014 catastrophic betrayal and frame-up revealed, threatening Alexander with imprisonment.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B012",
+          "end_beat_id": "B020",
+          "start_time": 54.0,
+          "end_time": 99.2,
+          "duration": 45.2,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_07",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B013",
+      "end_beat_id": "B019",
+      "start_time": 58.0,
+      "end_time": 93.2,
+      "duration": 35.2,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "A desperate plea protecting sentimental, vital items ('Stop! Those are my mother's medicines!').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Juliana drops to her knees frantically scrambling for scattered herbs while an officer aggressively hurls bed linens onto the floor.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "What will the Constable pull out of Alexander's coat pockets?",
+        "stakes_importance": "High \u2014 acute tension focused on the physical trap closing around Alexander.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B013",
+          "end_beat_id": "B019",
+          "start_time": 58.0,
+          "end_time": 93.2,
+          "duration": 35.2,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_08",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 58.0,
+      "end_time": 99.2,
+      "duration": 41.2,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "A desperate plea protecting sentimental, vital items ('Stop! Those are my mother's medicines!').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Juliana drops to her knees frantically scrambling for scattered herbs while an officer aggressively hurls bed linens onto the floor.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How did the stolen pocket watch end up in Alexander's coat, and will he be arrested immediately?",
+        "stakes_importance": "High \u2014 catastrophic betrayal and frame-up revealed, threatening Alexander with imprisonment.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B013",
+          "end_beat_id": "B020",
+          "start_time": 58.0,
+          "end_time": 99.2,
+          "duration": 41.2,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_09",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 61.8,
+      "end_time": 99.2,
+      "duration": 37.4,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp emotional accusation exposing the malicious motive ('You planted this accusation because you cannot bear that I am happy without you!').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "A weeping woman crawling on the floor clutching scattered linens, then rising in fury against a sneering, casually leaning aristocrat.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How did the stolen pocket watch end up in Alexander's coat, and will he be arrested immediately?",
+        "stakes_importance": "High \u2014 catastrophic betrayal and frame-up revealed, threatening Alexander with imprisonment.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B014",
+          "end_beat_id": "B020",
+          "start_time": 61.8,
+          "end_time": 99.2,
+          "duration": 37.4,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_10",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B014",
+      "end_beat_id": "B021",
+      "start_time": 61.8,
+      "end_time": 102.0,
+      "duration": 40.2,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp emotional accusation exposing the malicious motive ('You planted this accusation because you cannot bear that I am happy without you!').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "A weeping woman crawling on the floor clutching scattered linens, then rising in fury against a sneering, casually leaning aristocrat.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Alexander retaliate against Gerald now that he realizes he has been framed?",
+        "stakes_importance": "High \u2014 the protagonist shifts from quiet restraint to lethal, vengeful resolve.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B014",
+          "end_beat_id": "B021",
+          "start_time": 61.8,
+          "end_time": 102.0,
+          "duration": 40.2,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_11",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B017",
+      "end_beat_id": "B022",
+      "start_time": 81.3,
+      "end_time": 106.8,
+      "duration": 25.5,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Provocative physical baiting challenging a veteran's honor ('What is it, soldier? Going to strike a gentleman in front of his wife?').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle close-up of Gerald aggressively cocking his chin upward to dare a punch.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the Constable take Alexander away in chains under Gerald's gloating watch?",
+        "stakes_importance": "High \u2014 villainous triumph reaches its apex as the trap snaps shut.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B017",
+          "end_beat_id": "B022",
+          "start_time": 81.3,
+          "end_time": 106.8,
+          "duration": 25.5,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_12",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B017",
+      "end_beat_id": "B023",
+      "start_time": 81.3,
+      "end_time": 112.75,
+      "duration": 31.45,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Provocative physical baiting challenging a veteran's honor ('What is it, soldier? Going to strike a gentleman in front of his wife?').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle close-up of Gerald aggressively cocking his chin upward to dare a punch.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander and Juliana disprove this devastating frame-up before Alexander is condemned for theft?",
+        "stakes_importance": "High \u2014 ultimate visual freeze-frame of undeniable incriminating evidence, sealing the couple's destruction unless resolved in Episode 2.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B017",
+          "end_beat_id": "B023",
+          "start_time": 81.3,
+          "end_time": 112.75,
+          "duration": 31.45,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP011_13",
+      "episode": "Episode 11",
+      "episode_number": 11,
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "start_time": 85.0,
+      "end_time": 112.75,
+      "duration": 27.75,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Deadly suppressed resolve ('One blow would end this... But one blow would destroy her life.') captures intense stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Constable pins a truncheon across Alexander's chest to restrain him while rifling through his coat on the wall hook.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander and Juliana disprove this devastating frame-up before Alexander is condemned for theft?",
+        "stakes_importance": "High \u2014 ultimate visual freeze-frame of undeniable incriminating evidence, sealing the couple's destruction unless resolved in Episode 2.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 11,
+          "start_beat_id": "B019",
+          "end_beat_id": "B023",
+          "start_time": 85.0,
+          "end_time": 112.75,
+          "duration": 27.75,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

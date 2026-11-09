@@ -1,0 +1,2462 @@
+{
+  "episode_number": 5,
+  "total_gate_survivors": 30,
+  "total_unique_boundaries": 25,
+  "boundary_pass_comparisons": [
+    {
+      "candidate_id": "CAND_EP005_09",
+      "base_beat_range": "B003 -> B006",
+      "base_duration": 22.4,
+      "recommended_variant_id": "CAND_EP005_09_base",
+      "recommended_start_beat_id": "B003",
+      "recommended_end_beat_id": "B006",
+      "selection_rationale": "Base boundaries (B003 -> B006, 22.4s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_09_base",
+          "label": "base",
+          "start_beat_id": "B003",
+          "end_beat_id": "B006",
+          "start_time": 6.6,
+          "end_time": 29.0,
+          "duration": 22.4,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_09_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B007",
+          "start_time": 6.6,
+          "end_time": 33.4,
+          "duration": 26.8,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_10",
+      "base_beat_range": "B003 -> B007",
+      "base_duration": 26.8,
+      "recommended_variant_id": "CAND_EP005_10_base",
+      "recommended_start_beat_id": "B003",
+      "recommended_end_beat_id": "B007",
+      "selection_rationale": "Base boundaries (B003 -> B007, 26.8s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_10_base",
+          "label": "base",
+          "start_beat_id": "B003",
+          "end_beat_id": "B007",
+          "start_time": 6.6,
+          "end_time": 33.4,
+          "duration": 26.8,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_10_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B006",
+          "start_time": 6.6,
+          "end_time": 29.0,
+          "duration": 22.4,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_10_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B008",
+          "start_time": 6.6,
+          "end_time": 41.5,
+          "duration": 34.9,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_10_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B004",
+          "end_beat_id": "B007",
+          "start_time": 10.5,
+          "end_time": 33.4,
+          "duration": 22.9,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_11",
+      "base_beat_range": "B003 -> B008",
+      "base_duration": 34.9,
+      "recommended_variant_id": "CAND_EP005_11_base",
+      "recommended_start_beat_id": "B003",
+      "recommended_end_beat_id": "B008",
+      "selection_rationale": "Base boundaries (B003 -> B008, 34.9s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_11_base",
+          "label": "base",
+          "start_beat_id": "B003",
+          "end_beat_id": "B008",
+          "start_time": 6.6,
+          "end_time": 41.5,
+          "duration": 34.9,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_11_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B007",
+          "start_time": 6.6,
+          "end_time": 33.4,
+          "duration": 26.8,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_11_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B009",
+          "start_time": 6.6,
+          "end_time": 46.0,
+          "duration": 39.4,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_11_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B004",
+          "end_beat_id": "B008",
+          "start_time": 10.5,
+          "end_time": 41.5,
+          "duration": 31.0,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_12",
+      "base_beat_range": "B003 -> B009",
+      "base_duration": 39.4,
+      "recommended_variant_id": "CAND_EP005_12_base",
+      "recommended_start_beat_id": "B003",
+      "recommended_end_beat_id": "B009",
+      "selection_rationale": "Base boundaries (B003 -> B009, 39.4s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_12_base",
+          "label": "base",
+          "start_beat_id": "B003",
+          "end_beat_id": "B009",
+          "start_time": 6.6,
+          "end_time": 46.0,
+          "duration": 39.4,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_12_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B008",
+          "start_time": 6.6,
+          "end_time": 41.5,
+          "duration": 34.9,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_12_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B010",
+          "start_time": 6.6,
+          "end_time": 48.8,
+          "duration": 42.2,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_12_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B004",
+          "end_beat_id": "B009",
+          "start_time": 10.5,
+          "end_time": 46.0,
+          "duration": 35.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_13",
+      "base_beat_range": "B003 -> B010",
+      "base_duration": 42.2,
+      "recommended_variant_id": "CAND_EP005_13_base",
+      "recommended_start_beat_id": "B003",
+      "recommended_end_beat_id": "B010",
+      "selection_rationale": "Base boundaries (B003 -> B010, 42.2s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_13_base",
+          "label": "base",
+          "start_beat_id": "B003",
+          "end_beat_id": "B010",
+          "start_time": 6.6,
+          "end_time": 48.8,
+          "duration": 42.2,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_13_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B009",
+          "start_time": 6.6,
+          "end_time": 46.0,
+          "duration": 39.4,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_13_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B011",
+          "start_time": 6.6,
+          "end_time": 51.8,
+          "duration": 45.2,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_13_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B004",
+          "end_beat_id": "B010",
+          "start_time": 10.5,
+          "end_time": 48.8,
+          "duration": 38.3,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_14",
+      "base_beat_range": "B003 -> B011",
+      "base_duration": 45.2,
+      "recommended_variant_id": "CAND_EP005_14_base",
+      "recommended_start_beat_id": "B003",
+      "recommended_end_beat_id": "B011",
+      "selection_rationale": "Base boundaries (B003 -> B011, 45.2s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_14_base",
+          "label": "base",
+          "start_beat_id": "B003",
+          "end_beat_id": "B011",
+          "start_time": 6.6,
+          "end_time": 51.8,
+          "duration": 45.2,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_14_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B010",
+          "start_time": 6.6,
+          "end_time": 48.8,
+          "duration": 42.2,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_14_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B012",
+          "start_time": 6.6,
+          "end_time": 54.0,
+          "duration": 47.4,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_14_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B004",
+          "end_beat_id": "B011",
+          "start_time": 10.5,
+          "end_time": 51.8,
+          "duration": 41.3,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_15",
+      "base_beat_range": "B003 -> B012",
+      "base_duration": 47.4,
+      "recommended_variant_id": "CAND_EP005_15_base",
+      "recommended_start_beat_id": "B003",
+      "recommended_end_beat_id": "B012",
+      "selection_rationale": "Base boundaries (B003 -> B012, 47.4s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_15_base",
+          "label": "base",
+          "start_beat_id": "B003",
+          "end_beat_id": "B012",
+          "start_time": 6.6,
+          "end_time": 54.0,
+          "duration": 47.4,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_15_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B003",
+          "end_beat_id": "B011",
+          "start_time": 6.6,
+          "end_time": 51.8,
+          "duration": 45.2,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_15_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B004",
+          "end_beat_id": "B012",
+          "start_time": 10.5,
+          "end_time": 54.0,
+          "duration": 43.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_16",
+      "base_beat_range": "B004 -> B007",
+      "base_duration": 22.9,
+      "recommended_variant_id": "CAND_EP005_16_base",
+      "recommended_start_beat_id": "B004",
+      "recommended_end_beat_id": "B007",
+      "selection_rationale": "Base boundaries (B004 -> B007, 22.9s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_16_base",
+          "label": "base",
+          "start_beat_id": "B004",
+          "end_beat_id": "B007",
+          "start_time": 10.5,
+          "end_time": 33.4,
+          "duration": 22.9,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_16_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B004",
+          "end_beat_id": "B008",
+          "start_time": 10.5,
+          "end_time": 41.5,
+          "duration": 31.0,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_16_extend_start",
+          "label": "extend_start",
+          "start_beat_id": "B003",
+          "end_beat_id": "B007",
+          "start_time": 6.6,
+          "end_time": 33.4,
+          "duration": 26.8,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_17",
+      "base_beat_range": "B004 -> B008",
+      "base_duration": 31.0,
+      "recommended_variant_id": "CAND_EP005_17_base",
+      "recommended_start_beat_id": "B004",
+      "recommended_end_beat_id": "B008",
+      "selection_rationale": "Base boundaries (B004 -> B008, 31.0s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_17_base",
+          "label": "base",
+          "start_beat_id": "B004",
+          "end_beat_id": "B008",
+          "start_time": 10.5,
+          "end_time": 41.5,
+          "duration": 31.0,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_17_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B004",
+          "end_beat_id": "B007",
+          "start_time": 10.5,
+          "end_time": 33.4,
+          "duration": 22.9,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_17_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B004",
+          "end_beat_id": "B009",
+          "start_time": 10.5,
+          "end_time": 46.0,
+          "duration": 35.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_17_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B005",
+          "end_beat_id": "B008",
+          "start_time": 15.8,
+          "end_time": 41.5,
+          "duration": 25.7,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_17_extend_start",
+          "label": "extend_start",
+          "start_beat_id": "B003",
+          "end_beat_id": "B008",
+          "start_time": 6.6,
+          "end_time": 41.5,
+          "duration": 34.9,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_24",
+      "base_beat_range": "B005 -> B009",
+      "base_duration": 30.2,
+      "recommended_variant_id": "CAND_EP005_24_extend_start",
+      "recommended_start_beat_id": "B004",
+      "recommended_end_beat_id": "B009",
+      "selection_rationale": "Variant 'extend_start' (B004 -> B009, 35.5s) improves boundary cleanliness: opening score 5/5, ending score 4/5.",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_24_base",
+          "label": "base",
+          "start_beat_id": "B005",
+          "end_beat_id": "B009",
+          "start_time": 15.8,
+          "end_time": 46.0,
+          "duration": 30.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_24_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B005",
+          "end_beat_id": "B008",
+          "start_time": 15.8,
+          "end_time": 41.5,
+          "duration": 25.7,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_24_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B005",
+          "end_beat_id": "B010",
+          "start_time": 15.8,
+          "end_time": 48.8,
+          "duration": 33.0,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_24_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B006",
+          "end_beat_id": "B009",
+          "start_time": 20.8,
+          "end_time": 46.0,
+          "duration": 25.2,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_24_extend_start",
+          "label": "extend_start",
+          "start_beat_id": "B004",
+          "end_beat_id": "B009",
+          "start_time": 10.5,
+          "end_time": 46.0,
+          "duration": 35.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_25",
+      "base_beat_range": "B005 -> B010",
+      "base_duration": 33.0,
+      "recommended_variant_id": "CAND_EP005_25_extend_start",
+      "recommended_start_beat_id": "B004",
+      "recommended_end_beat_id": "B010",
+      "selection_rationale": "Variant 'extend_start' (B004 -> B010, 38.3s) improves boundary cleanliness: opening score 5/5, ending score 4/5.",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_25_base",
+          "label": "base",
+          "start_beat_id": "B005",
+          "end_beat_id": "B010",
+          "start_time": 15.8,
+          "end_time": 48.8,
+          "duration": 33.0,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_25_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B005",
+          "end_beat_id": "B009",
+          "start_time": 15.8,
+          "end_time": 46.0,
+          "duration": 30.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_25_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B005",
+          "end_beat_id": "B011",
+          "start_time": 15.8,
+          "end_time": 51.8,
+          "duration": 36.0,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_25_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B006",
+          "end_beat_id": "B010",
+          "start_time": 20.8,
+          "end_time": 48.8,
+          "duration": 28.0,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_25_extend_start",
+          "label": "extend_start",
+          "start_beat_id": "B004",
+          "end_beat_id": "B010",
+          "start_time": 10.5,
+          "end_time": 48.8,
+          "duration": 38.3,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_21",
+      "base_beat_range": "B004 -> B012",
+      "base_duration": 43.5,
+      "recommended_variant_id": "CAND_EP005_21_base",
+      "recommended_start_beat_id": "B004",
+      "recommended_end_beat_id": "B012",
+      "selection_rationale": "Base boundaries (B004 -> B012, 43.5s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_21_base",
+          "label": "base",
+          "start_beat_id": "B004",
+          "end_beat_id": "B012",
+          "start_time": 10.5,
+          "end_time": 54.0,
+          "duration": 43.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_21_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B004",
+          "end_beat_id": "B011",
+          "start_time": 10.5,
+          "end_time": 51.8,
+          "duration": 41.3,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_21_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B004",
+          "end_beat_id": "B013",
+          "start_time": 10.5,
+          "end_time": 69.0,
+          "duration": 58.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_21_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B005",
+          "end_beat_id": "B012",
+          "start_time": 15.8,
+          "end_time": 54.0,
+          "duration": 38.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_21_extend_start",
+          "label": "extend_start",
+          "start_beat_id": "B003",
+          "end_beat_id": "B012",
+          "start_time": 6.6,
+          "end_time": 54.0,
+          "duration": 47.4,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_22",
+      "base_beat_range": "B004 -> B013",
+      "base_duration": 58.5,
+      "recommended_variant_id": "CAND_EP005_22_base",
+      "recommended_start_beat_id": "B004",
+      "recommended_end_beat_id": "B013",
+      "selection_rationale": "Base boundaries (B004 -> B013, 58.5s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_22_base",
+          "label": "base",
+          "start_beat_id": "B004",
+          "end_beat_id": "B013",
+          "start_time": 10.5,
+          "end_time": 69.0,
+          "duration": 58.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_22_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B004",
+          "end_beat_id": "B012",
+          "start_time": 10.5,
+          "end_time": 54.0,
+          "duration": 43.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_22_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B005",
+          "end_beat_id": "B013",
+          "start_time": 15.8,
+          "end_time": 69.0,
+          "duration": 53.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_30",
+      "base_beat_range": "B006 -> B008",
+      "base_duration": 20.7,
+      "recommended_variant_id": "CAND_EP005_30_base",
+      "recommended_start_beat_id": "B006",
+      "recommended_end_beat_id": "B008",
+      "selection_rationale": "Base boundaries (B006 -> B008, 20.7s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_30_base",
+          "label": "base",
+          "start_beat_id": "B006",
+          "end_beat_id": "B008",
+          "start_time": 20.8,
+          "end_time": 41.5,
+          "duration": 20.7,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_30_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B006",
+          "end_beat_id": "B009",
+          "start_time": 20.8,
+          "end_time": 46.0,
+          "duration": 25.2,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_30_extend_start",
+          "label": "extend_start",
+          "start_beat_id": "B005",
+          "end_beat_id": "B008",
+          "start_time": 15.8,
+          "end_time": 41.5,
+          "duration": 25.7,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.0
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_31",
+      "base_beat_range": "B006 -> B009",
+      "base_duration": 25.2,
+      "recommended_variant_id": "CAND_EP005_31_base",
+      "recommended_start_beat_id": "B006",
+      "recommended_end_beat_id": "B009",
+      "selection_rationale": "Base boundaries (B006 -> B009, 25.2s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_31_base",
+          "label": "base",
+          "start_beat_id": "B006",
+          "end_beat_id": "B009",
+          "start_time": 20.8,
+          "end_time": 46.0,
+          "duration": 25.2,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_31_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B006",
+          "end_beat_id": "B008",
+          "start_time": 20.8,
+          "end_time": 41.5,
+          "duration": 20.7,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "High emotional cliffhanger on silent parental complicity, though slightly softer than verbal rupture.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_31_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B006",
+          "end_beat_id": "B010",
+          "start_time": 20.8,
+          "end_time": 48.8,
+          "duration": 28.0,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_31_extend_start",
+          "label": "extend_start",
+          "start_beat_id": "B005",
+          "end_beat_id": "B009",
+          "start_time": 15.8,
+          "end_time": 46.0,
+          "duration": 30.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_32",
+      "base_beat_range": "B006 -> B010",
+      "base_duration": 28.0,
+      "recommended_variant_id": "CAND_EP005_32_base",
+      "recommended_start_beat_id": "B006",
+      "recommended_end_beat_id": "B010",
+      "selection_rationale": "Base boundaries (B006 -> B010, 28.0s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_32_base",
+          "label": "base",
+          "start_beat_id": "B006",
+          "end_beat_id": "B010",
+          "start_time": 20.8,
+          "end_time": 48.8,
+          "duration": 28.0,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_32_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B006",
+          "end_beat_id": "B009",
+          "start_time": 20.8,
+          "end_time": 46.0,
+          "duration": 25.2,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_32_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B006",
+          "end_beat_id": "B011",
+          "start_time": 20.8,
+          "end_time": 51.8,
+          "duration": 31.0,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_32_extend_start",
+          "label": "extend_start",
+          "start_beat_id": "B005",
+          "end_beat_id": "B010",
+          "start_time": 15.8,
+          "end_time": 48.8,
+          "duration": 33.0,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_26",
+      "base_beat_range": "B005 -> B011",
+      "base_duration": 36.0,
+      "recommended_variant_id": "CAND_EP005_26_trim_start",
+      "recommended_start_beat_id": "B006",
+      "recommended_end_beat_id": "B011",
+      "selection_rationale": "Variant 'trim_start' (B006 -> B011, 31.0s) improves boundary cleanliness: opening score 5/5, ending score 4/5.",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_26_base",
+          "label": "base",
+          "start_beat_id": "B005",
+          "end_beat_id": "B011",
+          "start_time": 15.8,
+          "end_time": 51.8,
+          "duration": 36.0,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_26_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B005",
+          "end_beat_id": "B010",
+          "start_time": 15.8,
+          "end_time": 48.8,
+          "duration": 33.0,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_26_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B005",
+          "end_beat_id": "B012",
+          "start_time": 15.8,
+          "end_time": 54.0,
+          "duration": 38.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_26_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B006",
+          "end_beat_id": "B011",
+          "start_time": 20.8,
+          "end_time": 51.8,
+          "duration": 31.0,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_26_extend_start",
+          "label": "extend_start",
+          "start_beat_id": "B004",
+          "end_beat_id": "B011",
+          "start_time": 10.5,
+          "end_time": 51.8,
+          "duration": 41.3,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_27",
+      "base_beat_range": "B005 -> B012",
+      "base_duration": 38.2,
+      "recommended_variant_id": "CAND_EP005_27_trim_start",
+      "recommended_start_beat_id": "B006",
+      "recommended_end_beat_id": "B012",
+      "selection_rationale": "Variant 'trim_start' (B006 -> B012, 33.2s) improves boundary cleanliness: opening score 5/5, ending score 4/5.",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_27_base",
+          "label": "base",
+          "start_beat_id": "B005",
+          "end_beat_id": "B012",
+          "start_time": 15.8,
+          "end_time": 54.0,
+          "duration": 38.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_27_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B005",
+          "end_beat_id": "B011",
+          "start_time": 15.8,
+          "end_time": 51.8,
+          "duration": 36.0,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_27_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B005",
+          "end_beat_id": "B013",
+          "start_time": 15.8,
+          "end_time": 69.0,
+          "duration": 53.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_27_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B006",
+          "end_beat_id": "B012",
+          "start_time": 20.8,
+          "end_time": 54.0,
+          "duration": 33.2,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_27_extend_start",
+          "label": "extend_start",
+          "start_beat_id": "B004",
+          "end_beat_id": "B012",
+          "start_time": 10.5,
+          "end_time": 54.0,
+          "duration": 43.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_28",
+      "base_beat_range": "B005 -> B013",
+      "base_duration": 53.2,
+      "recommended_variant_id": "CAND_EP005_28_trim_start",
+      "recommended_start_beat_id": "B006",
+      "recommended_end_beat_id": "B013",
+      "selection_rationale": "Variant 'trim_start' (B006 -> B013, 48.2s) improves boundary cleanliness: opening score 5/5, ending score 4/5.",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_28_base",
+          "label": "base",
+          "start_beat_id": "B005",
+          "end_beat_id": "B013",
+          "start_time": 15.8,
+          "end_time": 69.0,
+          "duration": 53.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_28_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B005",
+          "end_beat_id": "B012",
+          "start_time": 15.8,
+          "end_time": 54.0,
+          "duration": 38.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_28_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B005",
+          "end_beat_id": "B014",
+          "start_time": 15.8,
+          "end_time": 74.5,
+          "duration": 58.7,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_28_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B006",
+          "end_beat_id": "B013",
+          "start_time": 20.8,
+          "end_time": 69.0,
+          "duration": 48.2,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_28_extend_start",
+          "label": "extend_start",
+          "start_beat_id": "B004",
+          "end_beat_id": "B013",
+          "start_time": 10.5,
+          "end_time": 69.0,
+          "duration": 58.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_29",
+      "base_beat_range": "B005 -> B014",
+      "base_duration": 58.7,
+      "recommended_variant_id": "CAND_EP005_29_trim_start",
+      "recommended_start_beat_id": "B006",
+      "recommended_end_beat_id": "B014",
+      "selection_rationale": "Variant 'trim_start' (B006 -> B014, 53.7s) improves boundary cleanliness: opening score 5/5, ending score 4/5.",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_29_base",
+          "label": "base",
+          "start_beat_id": "B005",
+          "end_beat_id": "B014",
+          "start_time": 15.8,
+          "end_time": 74.5,
+          "duration": 58.7,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_29_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B005",
+          "end_beat_id": "B013",
+          "start_time": 15.8,
+          "end_time": 69.0,
+          "duration": 53.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "opening_cleanliness_score": 4,
+          "opening_assessment": "Dialogue hook hits immediately (5.0s first beat) without dead air.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.0
+        },
+        {
+          "variant_id": "CAND_EP005_29_trim_start",
+          "label": "trim_start",
+          "start_beat_id": "B006",
+          "end_beat_id": "B014",
+          "start_time": 20.8,
+          "end_time": 74.5,
+          "duration": 53.7,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_43",
+      "base_beat_range": "B008 -> B014",
+      "base_duration": 41.0,
+      "recommended_variant_id": "CAND_EP005_43_base",
+      "recommended_start_beat_id": "B008",
+      "recommended_end_beat_id": "B014",
+      "selection_rationale": "Base boundaries (B008 -> B014, 41.0s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_43_base",
+          "label": "base",
+          "start_beat_id": "B008",
+          "end_beat_id": "B014",
+          "start_time": 33.5,
+          "end_time": 74.5,
+          "duration": 41.0,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_43_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B008",
+          "end_beat_id": "B013",
+          "start_time": 33.5,
+          "end_time": 69.0,
+          "duration": 35.5,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_43_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B008",
+          "end_beat_id": "B015",
+          "start_time": 33.5,
+          "end_time": 76.0,
+          "duration": 42.5,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_57",
+      "base_beat_range": "B013 -> B014",
+      "base_duration": 20.5,
+      "recommended_variant_id": "CAND_EP005_57_base",
+      "recommended_start_beat_id": "B013",
+      "recommended_end_beat_id": "B014",
+      "selection_rationale": "Base boundaries (B013 -> B014, 20.5s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_57_base",
+          "label": "base",
+          "start_beat_id": "B013",
+          "end_beat_id": "B014",
+          "start_time": 54.0,
+          "end_time": 74.5,
+          "duration": 20.5,
+          "beat_ids": [
+            "B013",
+            "B014"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_57_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B013",
+          "end_beat_id": "B015",
+          "start_time": 54.0,
+          "end_time": 76.0,
+          "duration": 22.0,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_58",
+      "base_beat_range": "B013 -> B019",
+      "base_duration": 42.5,
+      "recommended_variant_id": "CAND_EP005_58_base",
+      "recommended_start_beat_id": "B013",
+      "recommended_end_beat_id": "B019",
+      "selection_rationale": "Base boundaries (B013 -> B019, 42.5s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_58_base",
+          "label": "base",
+          "start_beat_id": "B013",
+          "end_beat_id": "B019",
+          "start_time": 54.0,
+          "end_time": 96.5,
+          "duration": 42.5,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_58_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B013",
+          "end_beat_id": "B018",
+          "start_time": 54.0,
+          "end_time": 91.0,
+          "duration": 37.0,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_58_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B013",
+          "end_beat_id": "B020",
+          "start_time": 54.0,
+          "end_time": 101.5,
+          "duration": 47.5,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_59",
+      "base_beat_range": "B013 -> B020",
+      "base_duration": 47.5,
+      "recommended_variant_id": "CAND_EP005_59_base",
+      "recommended_start_beat_id": "B013",
+      "recommended_end_beat_id": "B020",
+      "selection_rationale": "Base boundaries (B013 -> B020, 47.5s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_59_base",
+          "label": "base",
+          "start_beat_id": "B013",
+          "end_beat_id": "B020",
+          "start_time": 54.0,
+          "end_time": 101.5,
+          "duration": 47.5,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_59_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B013",
+          "end_beat_id": "B019",
+          "start_time": 54.0,
+          "end_time": 96.5,
+          "duration": 42.5,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_59_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B013",
+          "end_beat_id": "B021",
+          "start_time": 54.0,
+          "end_time": 105.5,
+          "duration": 51.5,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    },
+    {
+      "candidate_id": "CAND_EP005_60",
+      "base_beat_range": "B013 -> B021",
+      "base_duration": 51.5,
+      "recommended_variant_id": "CAND_EP005_60_base",
+      "recommended_start_beat_id": "B013",
+      "recommended_end_beat_id": "B021",
+      "selection_rationale": "Base boundaries (B013 -> B021, 51.5s) provide optimal balance: opening hook punches immediately (5/5), and ending terminates cleanly on peak cliffhanger (4/5).",
+      "variants": [
+        {
+          "variant_id": "CAND_EP005_60_base",
+          "label": "base",
+          "start_beat_id": "B013",
+          "end_beat_id": "B021",
+          "start_time": 54.0,
+          "end_time": 105.5,
+          "duration": 51.5,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_60_trim_end",
+          "label": "trim_end",
+          "start_beat_id": "B013",
+          "end_beat_id": "B020",
+          "start_time": 54.0,
+          "end_time": 101.5,
+          "duration": 47.5,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        },
+        {
+          "variant_id": "CAND_EP005_60_extend_end",
+          "label": "extend_end",
+          "start_beat_id": "B013",
+          "end_beat_id": "B022",
+          "start_time": 54.0,
+          "end_time": 110.5,
+          "duration": 56.5,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "opening_cleanliness_score": 5,
+          "opening_assessment": "Instant high-impact punch: explosive dialogue combined with immediate close-up/insert visual hook within the opening seconds.",
+          "ending_cleanliness_score": 4,
+          "ending_assessment": "Clean cut snapping to beat boundary without lingering post-tension decompression.",
+          "composite_cleanliness": 4.5
+        }
+      ]
+    }
+  ],
+  "deduplication_audit_log": [
+    {
+      "boundary": "B004 -> B008",
+      "kept_candidate_id": "CAND_EP005_17",
+      "dropped_candidate_ids": [
+        "CAND_EP005_23"
+      ],
+      "reason": "Resolved to identical recommended boundary; kept highest composite Stage 3 score candidate."
+    },
+    {
+      "boundary": "B006 -> B011",
+      "kept_candidate_id": "CAND_EP005_26",
+      "dropped_candidate_ids": [
+        "CAND_EP005_33"
+      ],
+      "reason": "Resolved to identical recommended boundary; kept highest composite Stage 3 score candidate."
+    },
+    {
+      "boundary": "B006 -> B012",
+      "kept_candidate_id": "CAND_EP005_27",
+      "dropped_candidate_ids": [
+        "CAND_EP005_34"
+      ],
+      "reason": "Resolved to identical recommended boundary; kept highest composite Stage 3 score candidate."
+    },
+    {
+      "boundary": "B006 -> B013",
+      "kept_candidate_id": "CAND_EP005_28",
+      "dropped_candidate_ids": [
+        "CAND_EP005_35"
+      ],
+      "reason": "Resolved to identical recommended boundary; kept highest composite Stage 3 score candidate."
+    },
+    {
+      "boundary": "B006 -> B014",
+      "kept_candidate_id": "CAND_EP005_29",
+      "dropped_candidate_ids": [
+        "CAND_EP005_36"
+      ],
+      "reason": "Resolved to identical recommended boundary; kept highest composite Stage 3 score candidate."
+    }
+  ]
+}

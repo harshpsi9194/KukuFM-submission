@@ -1,0 +1,55 @@
+{
+  "episode_number": 17,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 2
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP017_03",
+      "absolute_rubric_score": 7.9,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.1
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B014",
+        "end_beat_id": "B019",
+        "start_time": 39.0,
+        "end_time": 63.5,
+        "duration": 24.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You were bleeding last night.",
+        "opening_character": "JULIANA",
+        "rationale": "\"You were bleeding last night\" immediately signals recent physical violence and danger to a cold listener."
+      },
+      "cliffhanger": {
+        "final_quote": "Of losing you.",
+        "final_character": "JULIANA",
+        "specific_question": "How will Alexander react to Juliana openly confessing that her greatest fear is losing him?"
+      },
+      "situational_summary": "While tenderly tending to a man's wounded hands by the hearth, a woman confesses that her true fear during the recent violence was losing him.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP017_04",
+      "rank": 2,
+      "recommended_boundary": "B014 -> B020",
+      "similarity": 0.9834,
+      "duplicate_of": "CAND_EP017_03",
+      "reason": "Exceeded near-duplicate threshold (0.9834 >= 0.90)"
+    }
+  ]
+}

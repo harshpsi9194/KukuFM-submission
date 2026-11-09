@@ -1,0 +1,118 @@
+{
+  "episode_number": 12,
+  "total_ranked": 7,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP012_06",
+      "absolute_score": 9.3,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.4
+      },
+      "rank_justification": "Dynamic confrontation hook rapidly accelerates into a lethal extortion ultimatum with zero dead air. The extreme close-up whisper ('Fail, or refuse, and your husband hangs from the gallows') is a textbook peak-rupture cliffhanger delivering elite cold-viewer conversion power.",
+      "duration": 45.8,
+      "start_beat_id": "B007",
+      "end_beat_id": "B019",
+      "emotional_salience_score": 5,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP012_10",
+      "absolute_score": 9.1,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Starts on Clarissa's vicious verbal hook and relentlessly escalates through the agonizing briar ultimatum into a heroic sacrifice. Juliana's defiant pivot ('Tell me where the garden is') provides an electrifying, emotionally resonant turning point that guarantees high engagement.",
+      "duration": 43.51,
+      "start_beat_id": "B013",
+      "end_beat_id": "B021",
+      "emotional_salience_score": 5,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP012_03",
+      "absolute_score": 8.3,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.1,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "Combines an immediate high-stakes arrest hook with sharp emotional escalation as Clarissa venomously demeans the injured veteran. Alexander clenching his trembling fist and glaring daggers creates visceral emotional resonance and an intense threat cliffhanger.",
+      "duration": 32.4,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "emotional_salience_score": 5,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP012_05",
+      "absolute_score": 8.2,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.9
+      },
+      "rank_justification": "Launches mid-confrontation with the accusation 'You planted it!', escalating quickly through Clarissa's sadistic blackmail demands. The cliffhanger cut on the sadistic bare-hands briar task creates a formidable moral dilemma for a cold viewer.",
+      "duration": 37.1,
+      "start_beat_id": "B007",
+      "end_beat_id": "B016",
+      "emotional_salience_score": 4,
+      "rank": 4
+    },
+    {
+      "candidate_id": "CAND_EP012_09",
+      "absolute_score": 7.6,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.0,
+        "cliffhanger_score": 1.5,
+        "resonance_score": 1.8
+      },
+      "rank_justification": "A brutal, chilling opening line ('I want to see you crawl, sister') immediately hooks cold swipers into pure sibling malice. However, ending on Alexander tenderly trying to de-escalate softens the cliffhanger urgency and slightly defuses the immediate threat.",
+      "duration": 30.3,
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "emotional_salience_score": 4,
+      "rank": 5
+    },
+    {
+      "candidate_id": "CAND_EP012_02",
+      "absolute_score": 7.5,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 1.9,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 1.6
+      },
+      "rank_justification": "Arresting visual opening with the constable's iron handcuffs builds nicely into an explosive confrontation between Juliana and Gerald. Juliana lunging forward with 'You planted it!' delivers a punchy exit question, though the broader narrative stakes remain unrevealed.",
+      "duration": 28.0,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "emotional_salience_score": 4,
+      "rank": 6
+    },
+    {
+      "candidate_id": "CAND_EP012_01",
+      "absolute_score": 6.8,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 1.7,
+        "cliffhanger_score": 1.4,
+        "resonance_score": 1.5
+      },
+      "rank_justification": "Opens with immediate legal jeopardy as handcuffs are raised in the first second, creating an urgent scroll-stopping hook. However, cutting right as Gerald gloats in the doorway lacks a sharp ultimatum or cliffhanger payoff compared to the deeper extortion beats.",
+      "duration": 20.8,
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "emotional_salience_score": 4,
+      "rank": 7
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "episode_number": 8,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Cautioning about ruined pages is mundane conversational setup with minimal narrative tension.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Gentle medium close-up of a woman touching a book by a window offers low visual urgency or scroll-stop conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up insert of hands unlatching a book clasp provides calm tactile movement without urgent drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Nostalgic mention of her mother writing the book establishes exposition rather than an immediate auditory hook.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Turning parchment pages in medium close-up is serene and slow-paced.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "A figure stepping quietly into the room behind her introduces mild physical action and character entrance.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Identifying a plant by name is benign conversational observation.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Low-angle medium close-up showing pleasant surprise is emotionally subtle.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Explaining medicinal uses for wounds and fever hints at underlying hardship without acute stakes.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a rugged, scarred male face caught in firelight provides distinct visual texture and character intrigue on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A simple question asking how he knows medicinal herbs carries low conversational stakes.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium close-up of a curious gaze.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Referencing what soldiers learn to stay alive hints at past trauma but remains reflective exposition.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static close-up of Alexander speaking in a measured manner.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'Enough to survive' carries gritty understatement, though framed within quiet mutual rapport.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Hands arranging dried herbs and subtle smiling in close-up reflect domestic warmth rather than urgent tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "An incomplete, casual observation about his hair and beard.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Contrast of his towering stature over her seated figure establishes physical dynamic.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Offering to trim his hair/beard signals intimate domestic playfulness rather than urgent drama.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Juliana rising to stand closely and reaching an affectionate hand toward his face initiates tangible physical proximity and anticipation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up insert of a large, rough hand catching a woman's wrist in midair creates sharp physical friction and immediate tension legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Alexander's blunt command 'Not yet' delivers a direct, firm refusal in an intimate setting.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Profile two-shot maintaining a firm grip on her wrist with intense, locked eye contact presents arresting physical confrontation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A repetitive two-word question echoing his refusal with bemusement.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of furrowed brows conveys mild curiosity under physical restraint.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'Let them grow' is an intimate personal preference with low narrative urgency.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Sustained physical hold on her arm in close-up maintains palpable romantic/physical tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Playful teasing about looking like a forest hermit is light romantic banter.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up smiling warmly diffuses any visual friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "'It has advantages' is coy, low-stakes flirting.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Slowly lowering her hand as expressions soften signifies de-escalation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "'Very well' is a simple, compliant concession.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Stepping back toward the table while chuckling signals relaxed casual movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Quiet, affectionate gaze in close-up without action or confrontation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Playful mock-ultimatum to trim his beard delivers light romantic humor.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Grinning face with sparkling eyes represents standard romantic comedy emotion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "'We'll see' is a mild teasing retort.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Faint smirk and slight head tilt in close-up.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard two-shot of two characters sitting down to read together.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Instructional dialogue regarding herb locations and swelling relief.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up insert of a finger pointing at a drawing in an open book.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Inquiring if his scars were from the war introduces poignant personal trauma, though delivered gently.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Wide hearth setting transitioning to close-up study of scarred features provides atmospheric intimacy.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Alexander's grim, haunted admission 'Some were' immediately implies darker, unspoken violence outside honorable warfare.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Eyes clouding over with painful memories conveys internal psychological weight.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Empathetic acknowledgment of past suffering provides supportive comfort.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Gentle understanding expression in close-up.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Somber confirmation 'It was' closes the inquiry with solemn gravity.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Gaze heavy with battle trauma provides somber character depth.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Reflecting on losing wealth versus losing everything gives backstory context without urgent conflict.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Warm silhouette of two characters sitting beside a blazing hearth evokes a peaceful, settling mood.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "'Perhaps I was wrong' is a soft emotional realization concluding the scene.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Extreme close-up fading out on a contented, glowing face is an aesthetic resolution rather than an opening scroll-stopper.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 0,
+      "specific_question": "What is Juliana reading in the botanical book?",
+      "stakes_importance": "Low \u2014 quiet domestic exposition with no immediate conflict or threat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 0,
+      "specific_question": "What is inside the book clasp?",
+      "stakes_importance": "Low \u2014 routine physical action opening a book.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 0,
+      "specific_question": "What will Juliana find in her mother's writings?",
+      "stakes_importance": "Low \u2014 sentimental exposition without urgent stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why has Alexander brought flowers to Juliana?",
+      "stakes_importance": "Low \u2014 gentle gesture establishing peaceful domesticity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why did Alexander gather yarrow specifically?",
+      "stakes_importance": "Low \u2014 mild conversational opening.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 1,
+      "specific_question": "How did Alexander acquire herbal knowledge?",
+      "stakes_importance": "Low \u2014 gentle background dialogue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 2,
+      "specific_question": "Where did a rugged man like Alexander learn medicinal healing?",
+      "stakes_importance": "Medium \u2014 hints at Alexander's concealed past and hidden capabilities.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "What kind of war and trauma did Alexander endure as a soldier?",
+      "stakes_importance": "Medium \u2014 reveals military background, but tension remains soft.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "What else about Alexander's past is he deliberately concealing from her?",
+      "stakes_importance": "Medium \u2014 subtle mystery surrounding his true capability and history.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 1,
+      "specific_question": "What is Juliana about to say about Alexander's appearance?",
+      "stakes_importance": "Low \u2014 playful personal observation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Alexander allow Juliana to touch him intimately and groom him?",
+      "stakes_importance": "Medium \u2014 testing physical and emotional boundaries between the leads.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why did Alexander physically intercept Juliana's hand before she could touch his face?",
+      "stakes_importance": "High \u2014 abrupt physical contact stopping intimate vulnerability, creating sudden tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why must Alexander stay disguised behind his unkempt beard, and what secret is he hiding?",
+      "stakes_importance": "High \u2014 intense locked-gaze physical hold while asserting a boundary that suggests a dangerous identity or hidden agenda.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "What reason will Alexander give for refusing to let Juliana trim his beard?",
+      "stakes_importance": "Medium \u2014 Juliana directly presses him to explain his refusal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why is Alexander so insistent on keeping his disheveled appearance?",
+      "stakes_importance": "Medium \u2014 maintains minor curiosity, though 'let them grow' partially answers Juliana's question.",
+      "defuses_tension": true,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will Alexander react to Juliana calling him a forest hermit?",
+      "stakes_importance": "Low \u2014 playful banter defusing previous dramatic physical tension.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 3,
+      "specific_question": "What practical or clandestine advantages does concealing his true appearance provide Alexander?",
+      "stakes_importance": "Medium \u2014 implies his wild appearance is an intentional disguise protecting him from discovery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will Juliana drop the subject of his beard?",
+      "stakes_importance": "Low \u2014 Juliana concedes and steps back; tension completely dissipates.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 1,
+      "specific_question": "Is Alexander developing romantic feelings for Juliana?",
+      "stakes_importance": "Low \u2014 warm romantic lingering without an active narrative question.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will Juliana eventually trim his beard one day?",
+      "stakes_importance": "Low \u2014 humorous domestic teasing.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will Alexander let her trim his beard in the future?",
+      "stakes_importance": "Low \u2014 resolved playful quip.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 0,
+      "specific_question": "What page will they look at next?",
+      "stakes_importance": "Low \u2014 mundane domestic reset.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will they use the crushed leaves for swelling?",
+      "stakes_importance": "Low \u2014 peaceful botanical discussion.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 3,
+      "specific_question": "If Alexander's facial scars are not all from the war, what dark violence caused them?",
+      "stakes_importance": "High \u2014 pivots from warm camaraderie into an intimate probe into Alexander's hidden traumas.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 4,
+      "specific_question": "If only some scars were from war, who or what inflicted the rest upon Alexander?",
+      "stakes_importance": "High \u2014 drops a seismic hint confirming a dark, violent past beyond ordinary military duty with his gaze heavy and clouded.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will Alexander respond to Juliana's sympathy?",
+      "stakes_importance": "Low \u2014 emotional validation that softens the impact of the previous reveal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Alexander open up further about what happened to him?",
+      "stakes_importance": "Low \u2014 concise acknowledgment closing the inquiry into his scars.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 1,
+      "specific_question": "What new meaning or happiness has Juliana found after losing her fortune?",
+      "stakes_importance": "Low \u2014 reflective transition into peaceful acceptance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will Juliana and Alexander find enduring happiness together?",
+      "stakes_importance": "Low \u2014 peaceful emotional resolution and closure fading to black, with zero unresolved narrative urgency.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    }
+  ]
+}

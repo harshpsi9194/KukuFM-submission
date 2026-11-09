@@ -1,0 +1,793 @@
+{
+  "episode": "Episode 8",
+  "episode_number": 8,
+  "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+  "continuity_notes": "Picks up after Episode 7, where Alexander chased off Gerald and the mocking aristocratic visitors; quiet and intimacy now return inside the woodland cottage as evening approaches.",
+  "duration": 78.0,
+  "total_beats": 29,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 3.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana seated at a rustic wooden table beside a daylight-lit window, gently touching an aged leather-bound book.",
+          "start": 0.0,
+          "end": 3.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana delicately runs her fingertips across the embossed leather cover of the worn botanical volume, noticing its weathered state.",
+          "start": 0.0,
+          "end": 3.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Some of the pages are ruined. Careful.",
+          "start": 0.2,
+          "end": 3.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Gentle, Somber"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B002",
+      "start": 3.2,
+      "end": 5.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Juliana's hands carefully unlatching the metal clasp on the leather book.",
+          "start": 3.2,
+          "end": 5.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Soft metallic click of the book clasp loosening.",
+          "start": 3.4,
+          "end": 4.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B003",
+      "start": 5.1,
+      "end": 7.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana tenderly opening the cover and turning the brittle parchment pages.",
+          "start": 5.1,
+          "end": 7.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Mother spent years writing this.",
+          "start": 5.1,
+          "end": 7.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Reflective, Reverent"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B004",
+      "start": 7.8,
+      "end": 10.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as Alexander enters the dim room behind Juliana, quietly stepping up to the rustic table.",
+          "start": 7.8,
+          "end": 10.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book.",
+          "start": 8.5,
+          "end": 10.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B005",
+      "start": 10.5,
+      "end": 11.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Yarrow.",
+          "start": 10.5,
+          "end": 11.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Curious, Recognizing"
+        },
+        {
+          "type": "camera",
+          "description": "Low-angle medium close-up of Juliana looking up toward Alexander in pleasant surprise.",
+          "start": 10.5,
+          "end": 11.9,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B006",
+      "start": 11.9,
+      "end": 15.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander looking down at her, the firelight catching the rugged scar across his face.",
+          "start": 11.9,
+          "end": 15.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Good for wounds. Fever, too.",
+          "start": 12.0,
+          "end": 14.6,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Calm, Knowledgeable"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B007",
+      "start": 15.0,
+      "end": 16.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana looking up at him with genuine curiosity.",
+          "start": 15.0,
+          "end": 16.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "How do you know that?",
+          "start": 15.1,
+          "end": 16.1,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Inquiring, Soft"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B008",
+      "start": 16.3,
+      "end": 19.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Soldiers learn quickly which plants keep a man alive.",
+          "start": 16.3,
+          "end": 18.9,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Somber, Matter-of-Fact"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander speaking in a steady, measured tone.",
+          "start": 16.3,
+          "end": 19.3,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B009",
+      "start": 19.3,
+      "end": 24.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop.",
+          "start": 19.3,
+          "end": 21.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You know more about healing than you let on.",
+          "start": 19.4,
+          "end": 21.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Observant, Lightly Teasing"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile.",
+          "start": 21.5,
+          "end": 24.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Enough to survive.",
+          "start": 22.8,
+          "end": 24.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Quiet, Gritty"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B010",
+      "start": 24.3,
+      "end": 28.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage.",
+          "start": 24.3,
+          "end": 26.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Your hair and beard...",
+          "start": 25.0,
+          "end": 26.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Hesitant, Soft"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Alexander standing tall over her, looking down patiently.",
+          "start": 26.5,
+          "end": 28.1,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B011",
+      "start": 28.1,
+      "end": 31.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple.",
+          "start": 28.1,
+          "end": 31.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I could trim them for you.",
+          "start": 30.1,
+          "end": 31.9,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Gentle, Tender"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B012",
+      "start": 31.9,
+      "end": 33.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair.",
+          "start": 31.9,
+          "end": 33.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B013",
+      "start": 33.2,
+      "end": 35.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Not yet.",
+          "start": 33.2,
+          "end": 34.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Firm, Low"
+        },
+        {
+          "type": "camera",
+          "description": "Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers.",
+          "start": 33.2,
+          "end": 35.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B014",
+      "start": 35.5,
+      "end": 37.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question.",
+          "start": 35.5,
+          "end": 37.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Not yet?",
+          "start": 35.8,
+          "end": 36.9,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Puzzled, Curious"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B015",
+      "start": 37.3,
+      "end": 39.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander, still maintaining his gentle hold on her arm.",
+          "start": 37.3,
+          "end": 39.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Let them grow.",
+          "start": 37.7,
+          "end": 38.9,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Grounded, Steady"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B016",
+      "start": 39.6,
+      "end": 42.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana smiling with playful warmth.",
+          "start": 39.6,
+          "end": 42.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You prefer looking like a forest hermit?",
+          "start": 39.9,
+          "end": 42.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Playful, Amused"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B017",
+      "start": 42.3,
+      "end": 44.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Intimate two-shot as Alexander slowly lowers her hand, his expression softening.",
+          "start": 42.3,
+          "end": 44.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "It has advantages.",
+          "start": 43.7,
+          "end": 44.9,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Dry, Droll"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B018",
+      "start": 44.9,
+      "end": 46.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana chuckling quietly as she steps back toward the table.",
+          "start": 44.9,
+          "end": 46.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Very well.",
+          "start": 45.5,
+          "end": 46.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Fond, Resigned"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B019",
+      "start": 46.9,
+      "end": 48.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander watching her with deep, affectionate attention.",
+          "start": 46.9,
+          "end": 48.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B020",
+      "start": 48.0,
+      "end": 50.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana grinning with sparkling eyes.",
+          "start": 48.0,
+          "end": 50.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "But one day, I am trimming that beard.",
+          "start": 48.1,
+          "end": 49.6,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Teasing, Determined"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B021",
+      "start": 50.0,
+      "end": 51.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander lowering his head slightly with a faint smirk.",
+          "start": 50.0,
+          "end": 51.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "We'll see.",
+          "start": 50.1,
+          "end": 51.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Low, Amused"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B022",
+      "start": 51.3,
+      "end": 53.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot of both sitting back down at the table together, Alexander turning a brittle page of the herb book.",
+          "start": 51.3,
+          "end": 53.3,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B023",
+      "start": 53.3,
+      "end": 57.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "That one grows near the northern stream. Crushed leaves ease swelling.",
+          "start": 53.3,
+          "end": 57.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Instructional, Calm"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up insert of Alexander's weathered finger pointing directly at a delicate botanical illustration of a flowering stem.",
+          "start": 53.3,
+          "end": 57.1,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B024",
+      "start": 57.1,
+      "end": 63.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide side-profile two-shot of Juliana and Alexander seated across from each other at the rustic table, the stone fireplace roaring warmly behind them.",
+          "start": 57.1,
+          "end": 59.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "My mother wrote the same thing.",
+          "start": 58.7,
+          "end": 60.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Soft, Nostalgic"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana looking across at his battle-marked features with empathy.",
+          "start": 59.8,
+          "end": 63.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And the scars... were they from the war?",
+          "start": 60.5,
+          "end": 62.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Hesitant, Compassionate"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B025",
+      "start": 63.0,
+      "end": 64.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander looking downward, memories clouding his eyes.",
+          "start": 63.0,
+          "end": 64.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Some were.",
+          "start": 63.2,
+          "end": 64.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Quiet, Subdued"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B026",
+      "start": 64.3,
+      "end": 66.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana, her eyes filled with gentle understanding.",
+          "start": 64.3,
+          "end": 66.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "It must have been terrible.",
+          "start": 64.9,
+          "end": 66.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Tender, Aching"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B027",
+      "start": 66.5,
+      "end": 68.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander lifting his gaze, heavy with past battles.",
+          "start": 66.5,
+          "end": 68.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "It was.",
+          "start": 66.7,
+          "end": 67.6,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Heavy, Somber"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B028",
+      "start": 68.5,
+      "end": 73.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot of Juliana smiling tenderly at him across the open book.",
+          "start": 68.5,
+          "end": 70.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I thought losing wealth meant losing everything.",
+          "start": 69.0,
+          "end": 72.1,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Reflective, Vulnerable"
+        },
+        {
+          "type": "camera",
+          "description": "Wide shot framing the warm silhouette of the two companions sitting peacefully beside the blazing stone hearth.",
+          "start": 70.9,
+          "end": 73.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    },
+    {
+      "beat_id": "B029",
+      "start": 73.2,
+      "end": 78.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Perhaps I was wrong.",
+          "start": 73.2,
+          "end": 75.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Quiet, Transformed"
+        },
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Juliana's radiant face illuminated by firelight, a peaceful, contented smile spreading across her lips as she looks at him until the shot gently fades out.",
+          "start": 73.2,
+          "end": 78.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana maintains her warm, peaceful gaze across the table as soft firelight flickers over her face into fade out.",
+          "start": 75.3,
+          "end": 78.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. WOODLAND COTTAGE \u2013 DAY"
+    }
+  ]
+}

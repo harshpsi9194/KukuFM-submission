@@ -1,0 +1,466 @@
+{
+  "episode_number": 20,
+  "total_candidates": 9,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP020_01",
+      "episode": "Episode 20",
+      "episode_number": 20,
+      "start_beat_id": "B002",
+      "end_beat_id": "B003",
+      "start_time": 2.8,
+      "end_time": 25.5,
+      "duration": 22.7,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Direct aristocratic verbal sparring and declaration of power grab ('The estate is practically ours').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Polite drawing-room tea pouring and glove adjustments; opulent regency aesthetic but mild physical action.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B003",
+        "curiosity_gap_score": 3,
+        "specific_question": "Is cousin Alexander truly dead, or will the Crown's formal sealing uncover a scandal?",
+        "stakes_importance": "Medium \u2014 raises a plot condition regarding inheritance and the confirmation of Alexander's death.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 20,
+          "start_beat_id": "B002",
+          "end_beat_id": "B003",
+          "start_time": 2.8,
+          "end_time": 25.5,
+          "duration": 22.7,
+          "beat_ids": [
+            "B002",
+            "B003"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP020_02",
+      "episode": "Episode 20",
+      "episode_number": 20,
+      "start_beat_id": "B002",
+      "end_beat_id": "B004",
+      "start_time": 2.8,
+      "end_time": 30.2,
+      "duration": 27.4,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Direct aristocratic verbal sparring and declaration of power grab ('The estate is practically ours').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Polite drawing-room tea pouring and glove adjustments; opulent regency aesthetic but mild physical action.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B004",
+        "curiosity_gap_score": 3,
+        "specific_question": "How will Catherine and Rupert deal with the living Dowager obstructing their ambition?",
+        "stakes_importance": "Medium \u2014 introduces a clear obstacle and potential target for the villains.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 20,
+          "start_beat_id": "B002",
+          "end_beat_id": "B004",
+          "start_time": 2.8,
+          "end_time": 30.2,
+          "duration": 27.4,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP020_03",
+      "episode": "Episode 20",
+      "episode_number": 20,
+      "start_beat_id": "B002",
+      "end_beat_id": "B005",
+      "start_time": 2.8,
+      "end_time": 39.2,
+      "duration": 36.4,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Direct aristocratic verbal sparring and declaration of power grab ('The estate is practically ours').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Polite drawing-room tea pouring and glove adjustments; opulent regency aesthetic but mild physical action.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B005",
+        "curiosity_gap_score": 4,
+        "specific_question": "Is Rupert actively poisoning or orchestrating the Dowager's 'wasting of the lungs'?",
+        "stakes_importance": "High \u2014 strongly implies foul play/murder in progress against the matriarch.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 20,
+          "start_beat_id": "B002",
+          "end_beat_id": "B005",
+          "start_time": 2.8,
+          "end_time": 39.2,
+          "duration": 36.4,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP020_04",
+      "episode": "Episode 20",
+      "episode_number": 20,
+      "start_beat_id": "B003",
+      "end_beat_id": "B005",
+      "start_time": 15.2,
+      "end_time": 39.2,
+      "duration": 24.0,
+      "hook_signal": {
+        "beat_id": "B003",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp high-stakes conspiracy dialogue waiting on a cousin's formal death to claim the dukedom.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Dismissive teacup delivery paired with a predatory lean forward across the table conveys visible intimidation.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B005",
+        "curiosity_gap_score": 4,
+        "specific_question": "Is Rupert actively poisoning or orchestrating the Dowager's 'wasting of the lungs'?",
+        "stakes_importance": "High \u2014 strongly implies foul play/murder in progress against the matriarch.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 20,
+          "start_beat_id": "B003",
+          "end_beat_id": "B005",
+          "start_time": 15.2,
+          "end_time": 39.2,
+          "duration": 24.0,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B003",
+        "B004",
+        "B005"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP020_05",
+      "episode": "Episode 20",
+      "episode_number": 20,
+      "start_beat_id": "B003",
+      "end_beat_id": "B006",
+      "start_time": 15.2,
+      "end_time": 42.5,
+      "duration": 27.3,
+      "hook_signal": {
+        "beat_id": "B003",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp high-stakes conspiracy dialogue waiting on a cousin's formal death to claim the dukedom.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Dismissive teacup delivery paired with a predatory lean forward across the table conveys visible intimidation.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 4,
+        "specific_question": "What dark measure did Rupert take when ensuring the Dowager will not survive the winter?",
+        "stakes_importance": "High \u2014 chilling confirmation that the Dowager's imminent demise is deliberately engineered.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 20,
+          "start_beat_id": "B003",
+          "end_beat_id": "B006",
+          "start_time": 15.2,
+          "end_time": 42.5,
+          "duration": 27.3,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP020_06",
+      "episode": "Episode 20",
+      "episode_number": 20,
+      "start_beat_id": "B009",
+      "end_beat_id": "B011",
+      "start_time": 56.5,
+      "end_time": 81.0,
+      "duration": 24.5,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "High-urgency declaration that stopping means the valley's lung fever wins.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Visually arresting contrast: noblewoman kneeling in barn straw with fire-bandaged hands and smudged face fighting to keep her basket.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 3,
+        "specific_question": "How will Juliana heal the dying valley villagers alone after the chapel's destruction?",
+        "stakes_importance": "Medium \u2014 underscores her isolated struggle as the sole protector of the vulnerable.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 20,
+          "start_beat_id": "B009",
+          "end_beat_id": "B011",
+          "start_time": 56.5,
+          "end_time": 81.0,
+          "duration": 24.5,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP020_07",
+      "episode": "Episode 20",
+      "episode_number": 20,
+      "start_beat_id": "B009",
+      "end_beat_id": "B012",
+      "start_time": 56.5,
+      "end_time": 88.2,
+      "duration": 31.7,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "High-urgency declaration that stopping means the valley's lung fever wins.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Visually arresting contrast: noblewoman kneeling in barn straw with fire-bandaged hands and smudged face fighting to keep her basket.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B012",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana rise from destitution to exact vengeance and reclaim her place against those who ruined her?",
+        "stakes_importance": "High \u2014 quintessential vertical drama turning point: protagonist pivots from fallen victim to defiant avenger.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 20,
+          "start_beat_id": "B009",
+          "end_beat_id": "B012",
+          "start_time": 56.5,
+          "end_time": 88.2,
+          "duration": 31.7,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP020_08",
+      "episode": "Episode 20",
+      "episode_number": 20,
+      "start_beat_id": "B013",
+      "end_beat_id": "B016",
+      "start_time": 88.2,
+      "end_time": 109.5,
+      "duration": 21.3,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Shocking cruelty directed at the suffering sick: 'Let the peasants rot in their barns. Let them pray to their weeds.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Sharp physical punctuation of slamming teacup followed by tight close-up of face contorting into venomous arrogance.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B016",
+        "curiosity_gap_score": 3,
+        "specific_question": "Can Catherine force the ancient estate and its people to bend to her tyrannical will?",
+        "stakes_importance": "Medium \u2014 aristocratic villain assertion establishing the tyrannical regime to be contested.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 20,
+          "start_beat_id": "B013",
+          "end_beat_id": "B016",
+          "start_time": 88.2,
+          "end_time": 109.5,
+          "duration": 21.3,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP020_09",
+      "episode": "Episode 20",
+      "episode_number": 20,
+      "start_beat_id": "B013",
+      "end_beat_id": "B017",
+      "start_time": 88.2,
+      "end_time": 114.75,
+      "duration": 26.55,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Shocking cruelty directed at the suffering sick: 'Let the peasants rot in their barns. Let them pray to their weeds.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Sharp physical punctuation of slamming teacup followed by tight close-up of face contorting into venomous arrogance.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who will stop Catherine's ruthless ascendance before she poisons the Dowager and claims the estate?",
+        "stakes_importance": "High \u2014 maximum unresolved tension holding on villainous ambition, backed by a swelling musical cliffhanger peak.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 20,
+          "start_beat_id": "B013",
+          "end_beat_id": "B017",
+          "start_time": 88.2,
+          "end_time": 114.75,
+          "duration": 26.55,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

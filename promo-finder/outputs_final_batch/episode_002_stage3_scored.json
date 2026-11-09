@@ -1,0 +1,981 @@
+{
+  "episode_number": 2,
+  "total_scored": 39,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP002_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 20.7,
+      "duration": 20.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with a clear visual establishing shot at the altar steps with Gerald sneering down and Clarissa gloating behind him, paired with the immediate dialogue 'I cannot marry you, Juliana.' The setting and interpersonal conflict are crystal clear within the first 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Juliana is publicly humiliated and repudiated by her betrothed at the altar in favor of Clarissa, referencing their families' formal vows.",
+        "passes_gate": true,
+        "situational_summary": "At the wedding altar, a cruel groom publicly breaks his marriage vow to a heartbroken bride, deeming her too plain for his future."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public humiliation and devastating romantic betrayal at the altar"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the inciting incident of the wedding abandonment; high hook value for cold-audience acquisition without spoiling subsequent revenge arcs."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B009",
+      "start_time": 0.0,
+      "end_time": 23.8,
+      "duration": 23.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 instantly establishes the altar setting, the dismissive groom, the rival woman in gold, and the bride being repudiated without needing prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained emotional arc that builds from the rejection to Gerald standing beside Clarissa before the priest and declaring that promises change when a 'better choice' appears.",
+        "passes_gate": true,
+        "situational_summary": "A callous groom repudiates his bride at the altar and stands with another woman, coldly declaring that promises change when a better choice appears."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brazen infidelity and ruthless public discard for a rival"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Captures the inciting rupture at the altar; safe for universal prospecting and scroll-stopping ad creatives."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_03",
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "start_time": 0.0,
+      "end_time": 27.6,
+      "duration": 27.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 clearly establishes the physical setting and dynamics through the low-angle altar framing and Gerald's immediate rejection line.",
+        "arc_legibility": true,
+        "arc_rationale": "Entirely legible: Juliana directly confronts Gerald about replacing her with Clarissa after he publicly justifies breaking his vow.",
+        "passes_gate": true,
+        "situational_summary": "After being publicly rejected at the altar for being 'plain', a stunned bride confronts her groom when he announces the other woman is a better choice."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Stinging humiliation turning into indignant disbelief against blatant betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the inciting confrontation of the broken engagement without revealing later plot developments."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_04",
+      "start_beat_id": "B001",
+      "end_beat_id": "B011",
+      "start_time": 0.0,
+      "end_time": 30.6,
+      "duration": 30.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 immediately establishes the altar confrontation, character hierarchy, and betrayal in the opening 2.8 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Fully self-contained dramatic arc showing the full dismissal, Juliana's challenge, and Gerald's cruel final affirmation linking arms with Clarissa.",
+        "passes_gate": true,
+        "situational_summary": "A groom abandons his bride at the altar to link arms with a rival woman, callously declaring that she is whom he should have chosen from the beginning."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak visceral heartbreak capped by remorseless, absolute rejection"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Inciting incident establishing the protagonist's core grievance; optimal for cold-prospecting ads."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_05",
+      "start_beat_id": "B001",
+      "end_beat_id": "B014",
+      "start_time": 0.0,
+      "end_time": 37.2,
+      "duration": 37.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens immediately with Gerald at the altar steps dismissing Juliana with 'I cannot marry you, Juliana' while Clarissa in gold gloats behind him. Physical setting, principal characters, and conflict are established in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: groom publicly dumps bride at the altar for another woman, insults her, and when the bride appeals to her father for protection, the clip cuts on her plea. Core victim, antagonist, and stakes are fully legible.",
+        "passes_gate": true,
+        "situational_summary": "After being brutally dumped at the altar for another woman by her groom, a heartbroken bride turns to her father in the pews begging him not to let her be humiliated."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe public humiliation transitioning into desperate familial plea"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the inciting wedding betrayal and public abandonment without revealing the father's response or subsequent episode consequences."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_06",
+      "start_beat_id": "B001",
+      "end_beat_id": "B015",
+      "start_time": 0.0,
+      "end_time": 42.5,
+      "duration": 42.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 immediately grounds the scene at the altar steps with the groom calling off the wedding in front of the gloating other woman.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and complete dramatic progression: groom rejects bride, bride appeals to her father, and her father shockingly sides with the groom, commanding her to accept it.",
+        "passes_gate": true,
+        "situational_summary": "When a bride is discarded at the altar for another woman, she begs her father for help, only for him to coldly order her to accept the groom's decision."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Double betrayal: ruthless romantic rejection compounded by cold parental abandonment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Inciting wedding rupture expanded to show immediate family betrayal, ideal for cold-audience scroll-stopping engagement."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_07",
+      "start_beat_id": "B001",
+      "end_beat_id": "B016",
+      "start_time": 0.0,
+      "end_time": 44.8,
+      "duration": 44.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 provides immediate visual and narrative grounding with Gerald calling off the wedding at the altar while Clarissa gloats in the background.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely legible high-stakes conflict: the groom humiliates Juliana at the altar, and when she turns to her family, her father brands her a disgrace and orders her into submission.",
+        "passes_gate": true,
+        "situational_summary": "Dumped at the altar for another woman, a humiliated bride pleads with her father for protection, only to be told to accept it and stop disgracing the family."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public rejection escalated into severe familial humiliation and condemnation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the full setup and inciting incident of Juliana's complete abandonment by both groom and father."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_08",
+      "start_beat_id": "B001",
+      "end_beat_id": "B017",
+      "start_time": 0.0,
+      "end_time": 47.6,
+      "duration": 47.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 establishes the physical altar setting and relationship dynamic instantly with Gerald's explicit opening line and Clarissa's presence.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly conveys the full scope of Juliana's isolation: rejected by her fianc\u00e9 for a rival, condemned by her own father, and realizing neither man will even meet her eyes.",
+        "passes_gate": true,
+        "situational_summary": "Abandoned at the altar by her cruel groom and silenced as a disgrace by her father, a devastated bride confronts the agony of her father refusing to even look at her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak visceral rupture from romantic betrayal cascading into total parental estrangement"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Inciting incident showing the full extent of Juliana's social and familial ostracization at the wedding."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_09",
+      "start_beat_id": "B001",
+      "end_beat_id": "B018",
+      "start_time": 0.0,
+      "end_time": 51.5,
+      "duration": 51.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with a medium low-angle shot of Gerald at the altar steps looking down dismissively with Clarissa gloating behind him, paired with the direct dialogue 'I cannot marry you, Juliana'. The physical wedding setting, characters present, and romantic rejection are immediately established in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: Gerald rejects Juliana for Clarissa at the altar, Juliana begs her father for support, her father commands her to accept the disgrace, and Clarissa rubs in the humiliation. Conflict, victim, and antagonists are unmistakable without prior lore.",
+        "passes_gate": true,
+        "situational_summary": "At the wedding altar, a groom publicly dumps his bride for her sister, and when the bride turns to her father for protection, he ruthlessly sides with the betrayal."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal double betrayal: public romantic jilting compounded by cold paternal abandonment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the inciting wedding rupture and family betrayal that triggers Juliana's storyline; prime cold-traffic hook."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_10",
+      "start_beat_id": "B001",
+      "end_beat_id": "B020",
+      "start_time": 0.0,
+      "end_time": 56.7,
+      "duration": 56.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 immediately grounds the scene at the altar steps with Gerald declaring 'I cannot marry you, Juliana' while Clarissa stands gloating behind him, establishing setting, relationship, and conflict instantly.",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip forms a complete, escalating emotional sequence: the groom calls off the wedding, the father refuses to intervene and orders her not to disgrace the family, and the rival sister steps in to physically inspect and mock her as a 'kitchen maid'. Fully intelligible with zero outside context.",
+        "passes_gate": true,
+        "situational_summary": "After being publicly jilted at the altar and abandoned by her father, a bride is viciously humiliated by her rival sister who brands her an out-of-place kitchen maid."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Relentless public humiliation culminating in cruel social degradation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Features the inciting altar abandonment and sisterly betrayal setup for cold-audience prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_11",
+      "start_beat_id": "B001",
+      "end_beat_id": "B021",
+      "start_time": 0.0,
+      "end_time": 58.2,
+      "duration": 58.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 establishes the altar location, Gerald's explicit rejection ('I cannot marry you, Juliana'), and the gloating rival Clarissa in the first 2.8 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear three-tiered confrontation: fianc\u00e9 betrayal, parental abandonment, and sisterly taunting, ending on Juliana's indignation beginning to show. Completely self-contained conflict with obvious stakes.",
+        "passes_gate": true,
+        "situational_summary": "A bride endures a public altar rejection and her father's harsh dismissal before her smug sister mocks her appearance, sparking Juliana's quiet fury."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Stinging familial and romantic betrayal giving way to the first spark of defiant indignation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the inciting incident of the broken wedding and rival sister takeover."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_12",
+      "start_beat_id": "B003",
+      "end_beat_id": "B016",
+      "start_time": 4.6,
+      "end_time": 44.8,
+      "duration": 40.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B003 begins mid-confrontation with the camera 'returning to Gerald' sneering 'You are far too plain...'. It lacks the establishing context of B001 that explains who is speaking, where they are, or that this is an altar wedding jilting, forcing retrospective reliance on later dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the 40.2s duration, the conflict becomes clear as Gerald rejects Juliana for Clarissa and Juliana's father orders her to accept the humiliation without further disgrace.",
+        "passes_gate": false,
+        "situational_summary": "A man cruelly insults and rejects a woman before her father commands her to accept the humiliation and stop disgracing the family."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cutting personal insults followed by severe paternal betrayal and rejection"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the inciting incident of the wedding abandonment and father's complicity."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_13",
+      "start_beat_id": "B004",
+      "end_beat_id": "B016",
+      "start_time": 6.6,
+      "end_time": 44.8,
+      "duration": 38.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B004 opens mid-sentence on dialogue fragment '...far too silent...' over a close-up of a tearful face without establishing the setting, the speaker, or the physical confrontation for a cold scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc clearly demonstrates a bride abandoned at the altar by her groom for another woman, followed by her own father publicly disowning and silencing her.",
+        "passes_gate": false,
+        "situational_summary": "After being dumped at the altar for another woman, a humiliated bride turns to her father for defense only to be ordered to accept the betrayal and stop disgracing the family."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe public abandonment compounded by parental betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the altar rejection and immediate family betrayal forming the core inciting incident of the series."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_14",
+      "start_beat_id": "B005",
+      "end_beat_id": "B016",
+      "start_time": 9.5,
+      "end_time": 44.8,
+      "duration": 35.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B005 opens mid-sentence on dialogue ('...and completely beneath the future I deserve') with no establishing visual context of the altar, wedding, or who is speaking to whom.",
+        "arc_legibility": true,
+        "arc_rationale": "The full conflict is self-contained: the groom rejects Juliana at the altar for Clarissa, and her father sides with the groom, rebuking Juliana.",
+        "passes_gate": false,
+        "situational_summary": "A groom abandons his bride at the altar for another woman, and when the bride begs her father for support, he commands her to accept the humiliation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold romantic dismissal escalated into familial abandonment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses the wedding rupture and paternal rejection inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_15",
+      "start_beat_id": "B009",
+      "end_beat_id": "B020",
+      "start_time": 20.7,
+      "end_time": 56.7,
+      "duration": 36.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 opens on a clear medium two-shot of a groom standing side by side with another woman before the priest, delivering a complete, grounded thematic line ('Promises change when a better choice appears').",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is immediately self-contained and clear: the groom breaks his vow to marry another woman, the father refuses to intervene, and the triumphant sister mocks the bride's gown and appearance.",
+        "passes_gate": true,
+        "situational_summary": "At the wedding altar, a groom leaves his bride for her sister, and when the bride seeks her father's aid, both her father and sister ruthlessly humiliate her before the congregation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Total emotional devastation across romantic, paternal, and sibling betrayals"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the wedding breakup and sisterly theft that triggers the main revenge arc."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_16",
+      "start_beat_id": "B011",
+      "end_beat_id": "B024",
+      "start_time": 27.6,
+      "end_time": 63.5,
+      "duration": 35.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 opens on a wide shot from behind Juliana looking up the altar stairs at the groom with another woman linked to his arm while he delivers a complete declaration of his choice.",
+        "arc_legibility": true,
+        "arc_rationale": "The sequence provides clear roles (wronged bride, unfaithful groom, unsupportive father, mocking rival sister) culminating in a stinging personal insult regarding her mother's apothecary heritage.",
+        "passes_gate": true,
+        "situational_summary": "Standing abandoned at the altar, a bride is silenced by her cold father and publicly mocked by her sister, who ridicules her appearance and her deceased mother's herbalist legacy."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Escalating public humiliation shifting into deeply personal insult and simmering indignation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the foundational humiliation and inciting premise driving the heroine's subsequent path."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_17",
+      "start_beat_id": "B011",
+      "end_beat_id": "B025",
+      "start_time": 27.6,
+      "end_time": 66.0,
+      "duration": 38.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 opens on a clear wide shot from behind Juliana looking up the altar stairs at Gerald with Clarissa linked to his arm, paired with the line 'She is what I should have chosen from the beginning.' The visual setting, characters, and romantic betrayal are established instantly without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Juliana is publicly abandoned at the altar by her groom for another woman, rejected by her own father, mocked by Clarissa, and confronted by a haughty matriarch.",
+        "passes_gate": true,
+        "situational_summary": "After a groom chooses another woman at the altar, the abandoned bride is cruelly dismissed by her father and mocked by the new bride before a haughty matriarch intervenes."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe public betrayal and familial abandonment compounded by stinging humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the public rupture and rejection fallout of the wedding inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_18",
+      "start_beat_id": "B015",
+      "end_beat_id": "B026",
+      "start_time": 37.2,
+      "end_time": 69.3,
+      "duration": 32.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B015 opens in media res with a medium tracking shot of a man with a cane saying 'Gerald has made his choice. Accept it, Juliana.' To a cold scroller, there is no establishing visual anchor of a wedding, the altar, or who Gerald is; retrospective understanding cannot rescue the opening beat.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full clip, the dialogue clarifies that Juliana has been replaced at her wedding, her father refuses to support her, and Clarissa taunts her appearance before the matriarch degrades her.",
+        "passes_gate": false,
+        "situational_summary": "A rejected bride pleads in vain with her cold father before enduring humiliating taunts from her rival sister and a haughty matriarch."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging familial abandonment and escalating social humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the inciting wedding betrayal and family complicity."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_19",
+      "start_beat_id": "B015",
+      "end_beat_id": "B027",
+      "start_time": 37.2,
+      "end_time": 72.8,
+      "duration": 35.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B015 begins abruptly on a nobleman saying 'Gerald has made his choice. Accept it, Juliana.' Without an establishing visual context of the altar or setting, a cold mobile viewer lacks instant physical and situational orientation in the first 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc becomes clear over the runtime as the father's rejection leads into sisterly mockery and the former groom demanding she leave the chapel quietly.",
+        "passes_gate": false,
+        "situational_summary": "Forsaken by her father and ridiculed by her rival sister, a bride is ordered by her former groom to leave the chapel with whatever dignity she has left."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Ruthless public humiliation capped by the groom's dismissive banishment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the immediate aftermath and expulsion following the wedding rupture inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_20",
+      "start_beat_id": "B015",
+      "end_beat_id": "B029",
+      "start_time": 37.2,
+      "end_time": 76.5,
+      "duration": 39.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B015 starts mid-confrontation on an unanchored command ('Gerald has made his choice. Accept it, Juliana.') without visual establishment of the altar, wedding attire, or setting in the initial 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip cleanly presents the complete dynamic: father's abandonment, sister's verbal assault, matriarch's cruelty, groom's condescending exit order, and Juliana's shift into defiance.",
+        "passes_gate": false,
+        "situational_summary": "Enduring ruthless rejection from her father, rival sister, and former groom, an abandoned bride finds sudden steely defiance when told to leave with dignity."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public degradation giving way to cold, defiant emotional rupture"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the inciting wedding betrayal and the protagonist's initial pivot toward defiance."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_21",
+      "start_beat_id": "B016",
+      "end_beat_id": "B029",
+      "start_time": 42.5,
+      "end_time": 76.5,
+      "duration": 34.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B016 opens tightly on a nobleman's eyes delivering an ungrounded command ('Do not disgrace us further'). Without seeing the cathedral, the altar, or who he is addressing, a cold scroller lacks spatial grounding and context for what disgrace occurred.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full clip, the situation becomes abundantly clear: a rejected daughter/bride is ganged up on by her father, sister, matriarch, and former groom, leading to her steely confrontation.",
+        "passes_gate": false,
+        "situational_summary": "After being publicly disgraced at a wedding, a humiliated young woman faces cruel taunts from her family and former fianc\u00e9 before rising in defiant resilience."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Systematic public family humiliation transitioning into steely defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Continues the fallout of the wedding disruption and family rejection; excellent cold-open conflict stakes."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_22",
+      "start_beat_id": "B017",
+      "end_beat_id": "B029",
+      "start_time": 44.8,
+      "end_time": 76.5,
+      "duration": 31.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 opens on an extreme close-up of crying eyes saying 'You won't even look at me.' Starting mid-reaction on an unanchored tearful face without establishing the room, setting, or opposing party fails immediate cold legibility.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc self-contains the confrontation as the sister mocks her dress and the matriarch/groom order her to leave, establishing clear victim and antagonists.",
+        "passes_gate": false,
+        "situational_summary": "A tearful young woman is mocked by her sister and dismissed from a wedding by her former groom, prompting a cold, defiant reaction."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging familial abandonment and defiant rebirth"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the emotional aftermath of the bride replacement/calling-off."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_23",
+      "start_beat_id": "B018",
+      "end_beat_id": "B029",
+      "start_time": 47.6,
+      "end_time": 76.5,
+      "duration": 28.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 opens with a medium shot of Clarissa beaming smugly while clinging to Gerald's arm, stating 'Why are you surprised, sister? Look at you.' Instantly establishes the physical setting, the triumphant rival holding the groom, and the direct interpersonal betrayal within 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely self-contained: the smug sister openly flaunts stealing the groom and belittles Juliana's plain gown and station, backed by the matriarch and groom, ending on Juliana's powerful turnaround.",
+        "passes_gate": true,
+        "situational_summary": "A smug sister clings to a groom at a wedding while mocking her solitary sister's plain gown, only for the rejected bride to turn back with a chilling, defiant challenge."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public sibling betrayal and humiliation flipped into cold defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Inciting incident friction showing the stolen fianc\u00e9 and family betrayal; prime prospecting material."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_24",
+      "start_beat_id": "B019",
+      "end_beat_id": "B029",
+      "start_time": 51.5,
+      "end_time": 76.5,
+      "duration": 25.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 opens on a tight insert shot of gloved fingers pinching fabric with the line 'That plain, old-fashioned gown.' A tight macro insert on fabric fails to establish who is speaking, where they are, or who is wearing the dress in the opening seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip subsequently outlines the cruel taunts and exclusion Juliana suffers at the hands of her family and former groom, making the conflict clear over the full runtime.",
+        "passes_gate": false,
+        "situational_summary": "Mocked for her appearance and ordered to leave the chapel by her family and former fianc\u00e9, a woman answers their cruelty with a defiant smile."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Class and appearance-based humiliation turning into resolved defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the inciting incident confrontation and wedding humiliation."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_25",
+      "start_beat_id": "B020",
+      "end_beat_id": "B029",
+      "start_time": 53.4,
+      "end_time": 76.5,
+      "duration": 23.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B020 clearly establishes a vicious public wedding confrontation in the opening 3 seconds: a smiling woman in a gold gown condescendingly gestures at Juliana and insults her appearance ('kitchen maid who wandered into the wrong wedding'), immediately clarifying who is mocking whom and the public setting.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Juliana is publicly belittled by the rival bride, scolded by a cold matriarch, and ordered out of the chapel by her former groom Gerald, culminating in Juliana's steely shift from victim to defiant challenger ('Dignity?').",
+        "passes_gate": true,
+        "situational_summary": "At a chapel wedding, a discarded bride endures cruel mockery from her replacement, a matriarch, and her ex-groom, before breaking into a defiant smile."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe public humiliation transforming into cold, defiant resistance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the aftermath of the wedding rupture and public shaming; ideal inciting-incident conflict for cold prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_26",
+      "start_beat_id": "B020",
+      "end_beat_id": "B031",
+      "start_time": 53.4,
+      "end_time": 82.8,
+      "duration": 29.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B020 clearly establishes a vicious public wedding confrontation in the opening 3 seconds: a smiling woman in a gold gown condescendingly gestures at Juliana and insults her appearance ('kitchen maid who wandered into the wrong wedding'), immediately clarifying who is mocking whom and the public setting.",
+        "arc_legibility": true,
+        "arc_rationale": "Crystal-clear narrative dynamic and betrayal stakes: after being mocked and told to leave quietly, Juliana stands tall and commands the room by directly calling out Gerald for abandoning her for money and beauty, leaving him visibly shaken.",
+        "passes_gate": true,
+        "situational_summary": "After being publicly humiliated at the altar by her replacement and ex-groom, a wronged woman commands the chapel by openly exposing the groom's greed and betrayal."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public betrayal giving way to commanding moral retaliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the public rupture and the groom's mercenary motive; prime inciting-incident material for cold audiences."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_27",
+      "start_beat_id": "B020",
+      "end_beat_id": "B032",
+      "start_time": 53.4,
+      "end_time": 86.7,
+      "duration": 33.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B020 clearly establishes a vicious public wedding confrontation in the opening 3 seconds: a smiling woman in a gold gown condescendingly gestures at Juliana and insults her appearance ('kitchen maid who wandered into the wrong wedding'), immediately clarifying who is mocking whom and the public setting.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely self-contained emotional and narrative arc: Juliana absorbs insults from the rival, matriarch, and ex-groom, then steps up to the altar steps to confront Gerald directly, warning him not to mistake her heartbreak for his victory.",
+        "passes_gate": true,
+        "situational_summary": "Mocked and dismissed by her ex-groom and his new bride at the altar, a betrayed woman takes command of the chapel and warns the groom that he has not won."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Crushing public disgrace answered by formidable defiance and shattered arrogance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Highlights the dramatic confrontation and inciting betrayal of the wedding ceremony without giving away downstream plot resolutions."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_28",
+      "start_beat_id": "B020",
+      "end_beat_id": "B033",
+      "start_time": 53.4,
+      "end_time": 93.2,
+      "duration": 39.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B020 clearly establishes a vicious public wedding confrontation in the opening 3 seconds: a smiling woman in a gold gown condescendingly gestures at Juliana and insults her appearance ('kitchen maid who wandered into the wrong wedding'), immediately clarifying who is mocking whom and the public setting.",
+        "arc_legibility": true,
+        "arc_rationale": "The full dramatic escalation is entirely self-explanatory: Juliana moves from receiving venomous insults from the rival and groom to holding the entire chapel spellbound with a rising counter-accusation that Gerald has exposed his true worth.",
+        "passes_gate": true,
+        "situational_summary": "Facing public degradation at the altar from her ex-groom and his bride, a woman turns the tables before the entire chapel by declaring his betrayal has exposed something far more valuable."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic confrontation with high-stakes public reversal and intense defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the public wedding shaming and the start of the bride's climactic speech; establishes the core premise and inciting conflict."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_29",
+      "start_beat_id": "B020",
+      "end_beat_id": "B034",
+      "start_time": 53.4,
+      "end_time": 96.8,
+      "duration": 43.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B020 opens with a medium shot of Clarissa smiling radiantly and condescendingly gesturing at Juliana with a clear, sharp insult ('You look like a kitchen maid who wandered into the wrong wedding'), immediately establishing status, setting, and antagonistic dynamic within 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is completely self-contained: Juliana is publicly humiliated by the rival bride, a matriarch, and her former groom Gerald, before turning the tables with a commanding, dignified speech that exposes Gerald's disloyalty in front of the entire congregation.",
+        "passes_gate": true,
+        "situational_summary": "After being publicly mocked and dismissed at an altar by her former fianc\u00e9 and his haughty new bride, a woman regains her composure and delivers a blistering, dignified rebuke before the entire congregation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public humiliation transformed into triumphant moral defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the immediate emotional aftermath and public confrontation of the wedding betrayal; ideal inciting-incident hook for cold audiences."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_30",
+      "start_beat_id": "B020",
+      "end_beat_id": "B035",
+      "start_time": 53.4,
+      "end_time": 98.2,
+      "duration": 44.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B020 clearly grounds the social hierarchy and setting right away as a woman in gold condescendingly tells Juliana she looks like a kitchen maid at the wrong wedding.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is entirely coherent and self-contained, showing Juliana's public dismissal by the bridal party culminating in her devastating speech, with beat B035 providing an extra visual punctuation of Gerald frozen and humbled.",
+        "passes_gate": true,
+        "situational_summary": "At a wedding chapel where she is ridiculed by the new bride and told to leave, a wronged woman delivers a sharp public condemnation that leaves the groom stunned and speechless."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Public humiliation answered with crushing, regal vindication"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the public confrontation following the groom's desertion, highlighting the inciting incident without spoiling downstream plot twists."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_31",
+      "start_beat_id": "B024",
+      "end_beat_id": "B034",
+      "start_time": 60.5,
+      "end_time": 96.8,
+      "duration": 36.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B024 opens mid-sentence on an elision ('...not a dull creature who hides in her mother's apothecary herbs') on a tight close-up of Juliana staring, lacking establishing spatial grounding or context on who is speaking.",
+        "arc_legibility": true,
+        "arc_rationale": "The broader confrontation against Gerald and the matriarch is understandable once the scene unfolds, but the opening lacks independent legibility.",
+        "passes_gate": false,
+        "situational_summary": "A woman enduring insults about her background stands her ground at a chapel to publicly call out her former fianc\u00e9's broken honor."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging personal insults turned into righteous defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Features the public fallout and verbal showdown of the abandoned bride at the altar."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_32",
+      "start_beat_id": "B025",
+      "end_beat_id": "B034",
+      "start_time": 63.5,
+      "end_time": 96.8,
+      "duration": 33.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B025 provides an establishing high-angle wide shot of a grand cathedral aisle with a matriarch in black velvet gliding toward Juliana and commanding 'Oh, don't look so wounded, Juliana', instantly establishing the physical environment and high-stakes social confrontation.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear and self-contained: Juliana is pressured by high-society figures to leave the chapel quietly, but instead confronts the groom directly, calling out his greed and lack of honor.",
+        "passes_gate": true,
+        "situational_summary": "Cornered in a cathedral aisle and told to leave quietly by an imperious matriarch and her former fianc\u00e9, a woman boldly turns and exposes the groom's shallow betrayal to the entire room."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Oppressive institutional bullying overcome by fearless personal integrity"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes the wedding confrontation and broken betrothal, fitting the inciting incident disclosure level."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_33",
+      "start_beat_id": "B026",
+      "end_beat_id": "B034",
+      "start_time": 66.0,
+      "end_time": 96.8,
+      "duration": 30.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B026 opens with a medium profile two-shot of a matriarch directly confronting Juliana face-to-face stating 'You should be grateful you're at least allowed to attend the wedding,' instantly establishing the setting and hostile social dynamic in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc clearly portrays a rejected bride standing her ground against the former groom who abandoned her for money/beauty, concluding on her verbal triumph over his broken word.",
+        "passes_gate": true,
+        "situational_summary": "After being told to be grateful she can even attend the wedding, an abandoned bride confronts her former groom before the entire chapel, exposing the worthlessness of his word."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Public humiliation transformed into cold, razor-sharp defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the immediate aftermath and public confrontation of the wedding rupture (inciting incident)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_34",
+      "start_beat_id": "B027",
+      "end_beat_id": "B037",
+      "start_time": 69.3,
+      "end_time": 110.0,
+      "duration": 40.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B027 shows the former groom on the altar steps gesturing Juliana toward the church exit saying 'Go home quietly, Juliana. At least leave this chapel with some dignity,' grounding the physical environment, characters, and dismissal immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict where an abandoned bride is ordered to leave in shame, but pivots to completely dominate the room and exit on her own unassailable terms.",
+        "passes_gate": true,
+        "situational_summary": "Ordered by her former groom to leave the wedding chapel quietly, an abandoned bride boldly rebukes him before the entire congregation and reclaims her pride."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant moral defiance shattering public humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the confrontation and defiant walk-away following the wedding rupture inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_35",
+      "start_beat_id": "B029",
+      "end_beat_id": "B037",
+      "start_time": 74.2,
+      "end_time": 110.0,
+      "duration": 35.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B029 starts abruptly on a single rhetorical question ('Dignity?') without establishing the physical setting, who is present, or what prompt triggered the reaction.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent speech clarifies that Gerald traded her for wealth and status, culminating in her refusing to leave the chapel in shame.",
+        "passes_gate": false,
+        "situational_summary": "An abandoned bride scoffs at the concept of dignity and delivers a scathing public rebuke to her former groom before walking away proud."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant defiance breaking through romantic humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the public aftermath and rebuke following the broken engagement."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_36",
+      "start_beat_id": "B030",
+      "end_beat_id": "B037",
+      "start_time": 76.5,
+      "end_time": 110.0,
+      "duration": 33.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B030 opens on a full establishing shot of Juliana transforming into regal composure before seated guests and declaring 'You abandoned a woman who trusted you...', immediately clarifying the setting, audience, and core betrayal.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict and stakes are entirely self-contained: Juliana accuses Gerald of betraying trust for wealth and concludes with a definitive, dignified declaration refusing shame.",
+        "passes_gate": true,
+        "situational_summary": "Standing before a congregation of wedding guests, an abandoned bride turns the tables on the groom who traded her for wealth, proclaiming she will not be the one who leaves in shame."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant moral defiance and self-reclamation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Showcases the climactic public rebuke and walk-away of the wedding inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_37",
+      "start_beat_id": "B031",
+      "end_beat_id": "B037",
+      "start_time": 79.0,
+      "end_time": 110.0,
+      "duration": 31.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B031 opens mid-sentence ('...because another woman promised you...') on a close-up of a man's jawline with an ungrounded, blurred figure in the background. A cold mobile scroller cannot discern the physical setting or the baseline relationship within the first 1-3 seconds without earlier context.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full duration, Juliana's dialogue explicitly establishes that she was betrayed at the altar/chapel for another woman and transforms her public rejection into an act of unyielding moral dignity against Gerald.",
+        "passes_gate": false,
+        "situational_summary": "At a chapel wedding altar, a jilted bride publicly rebukes her shallow groom for abandoning her for another woman's wealth before walking out with her head held high."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant moral defiance breaking through public wedding abandonment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the climax of the wedding rupture and Juliana's refusal to be disgraced, serving as an inciting incident for her character arc."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_38",
+      "start_beat_id": "B032",
+      "end_beat_id": "B037",
+      "start_time": 82.8,
+      "end_time": 110.0,
+      "duration": 27.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 opens with a medium wide establishing shot clearly framing Juliana confronting Gerald from the foot of the altar stairs with the direct line 'Do not mistake my heartbreak for your victory, Gerald,' grounding the physical environment, confrontation, and character stakes immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: Juliana confronts Gerald at the altar for attempting to humiliate her before the chapel, exposing his lack of honor and turning the abandonment into a proud declaration of self-worth.",
+        "passes_gate": true,
+        "situational_summary": "Confronting her unfaithful groom from the foot of the altar stairs, a bride delivers an uncompromising public rebuke and vows to leave the chapel with her dignity intact."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Electrifying personal defiance and reclaiming of dignity after romantic betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the heroine's immediate stand and resolution following the wedding rupture inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP002_39",
+      "start_beat_id": "B033",
+      "end_beat_id": "B037",
+      "start_time": 86.7,
+      "end_time": 110.0,
+      "duration": 23.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B033 opens on an isolated push-in on Juliana mid-speech ('You wanted this entire chapel to believe...') without an establishing view of the opponent or the spatial dynamic between bride, groom, and altar, creating an ungrounded opening for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip clearly communicates that Juliana is being publicly rejected in front of a chapel assembly and turns the humiliation back onto the groom before resolving to leave without shame.",
+        "passes_gate": false,
+        "situational_summary": "In front of an assembled chapel, a bride repudiates a man's attempt to deem her unworthy and proudly walks away without shame."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Fierce public defiance and unassailable moral victory over humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Showcases Juliana's exit proclamation during the chapel rupture inciting incident."
+      }
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "episode_number": 15,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Atmospheric moonlight wide shot of three menacing armed thugs stalking an herbal garden establishes clear physical tension on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Low-angle medium shot of a heavy wooden club raised and brutally smashing into a planter box delivers immediate destructive action legible without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Shows property vandalism as a thug roughly uproots herbs and scatters soil, but lacks dynamic kinetic punch.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Juliana's sudden shout ('Stop! What are you doing?!') immediately signals an active crisis and active dispute.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Dramatic reveal of protagonist bursting through a doorway with visibly bandaged hands, freezing in horror against warm interior light.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A dismissive sneer ('We're clearing this rubbish') provides expositional antagonism without urgent stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard medium close-up of a sneering thug holding uprooted plants with mild smug expression.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "An impassioned protest ('Those are medicinal plants!') establishes value, but functions as conversational dispute.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on Juliana's face filled with anguish and fury while clutching heavily bandaged hands against her chest.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Callous provocation ('They look like weeds to me') sets up conflict without an explosive shock.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Low-angle tracking shot down to a heavy boot stomping and grinding delicate flowers directly into the mud delivers visceral, cruel disrespect on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A desperate plea on knees ('Please! Those plants took months to grow!') conveys urgent, vulnerable distress.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High-angle two-shot of a woman dropping onto her knees in cold mud, frantically clawing crushed soil with bandaged hands.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Mocking jeers ('Months? You actually spend your days growing this filth?') provide secondary taunting rather than an immediate shocker.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard medium two-shot of two antagonists laughing under moonlight.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up of trembling bandaged hands gathering soiled flowers from puddles conveys poignant vulnerability.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct, firm verbal defiance ('Leave my garden alone') signals a bold stand against oppressors.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle medium tilting up as the trembling female lead rises from the mud to stand tall against intruders.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Derisive class mockery ('A noble lady playing in the dirt. What a joke.') serves as mid-scene banter.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium close-up of a scoffing antagonist with minimal physical drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Defiant assertion of rights ('It is my home. You have no right to destroy anything here.') provides clear confrontation.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of the lead with blazing eyes, but lacking dynamic framing or movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A sharp, aggressive verbal threat ('Get out of the way!') escalates imminent violence.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of an armed thug stepping aggressively directly into the lead's personal space, snarling with venom.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A single defiant 'No' followed by a pain cry ('Ah!') is brief vocal reaction rather than an elaborate verbal hook.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: extreme close-up on defiant eyes instantly broken by a violent two-handed shove sending Juliana crashing hard onto wet stone path.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Extreme visual drama: close-up tracking down as fresh crimson blood profuses through white gauze bandages while she crawls through mud.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A heartbreaking whisper ('My mother's plants...') instantly communicates sentimental loss and stakes.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up on a mud-streaked, tear-stained face trembling in acute agony.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Cruel gloating ('Look at her! Crying over weeds!') continues the harassment without a novel reveal.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle wide shot of three thugs pointing and laughing hysterically at a kneeling, injured woman.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A standard panicked plea ('Stop!') offers minimal verbal context.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Immediate physical jeopardy: tall thug hoists a heavy wooden club overhead poised to strike directly in front of her.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up of a smug villain suddenly stiffening with dropped expression creates instant anticipatory suspense.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: dynamic medium tracking shot of a towering hero charging through misty moonlight with billowing coat and untamed rage.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Murmuring a character's name ('Alexander...') provides mild recognition without independent narrative context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of tearful eyes transforming from trembling shock to sudden relief.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Wide shot of three armed thugs abruptly wheeling around to confront an approaching shadowy menace.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Heroic low-angle over-the-shoulder framing as a towering protector steps over the fallen heroine to stare down three intruders.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct challenge provoking imminent combat ('What? You want to fight us, veteran?').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of thugs regrouping and feigning swagger while gripping clubs.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on wide, anxious eyes as breath hitches in high-stakes cliffhanger anticipation.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 1,
+      "specific_question": "Who are the armed intruders sneaking through the garden?",
+      "stakes_importance": "Low \u2014 establishes an impending threat or intrusion, but no direct character conflict has unfolded yet.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why are these men vandalizing the garden property?",
+      "stakes_importance": "Low \u2014 standard act of vandalism with no confrontation or emotional target identified.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will anyone come out to protect the garden from being destroyed?",
+      "stakes_importance": "Low \u2014 continuation of property destruction without character stakes revealed yet.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will the armed thugs react to Juliana catching them in the act?",
+      "stakes_importance": "Medium \u2014 marks the protagonist's arrival, raising concerns for her physical safety against armed intruders.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who ordered these thugs to clear Juliana's herbal garden?",
+      "stakes_importance": "Medium \u2014 establishes malicious intent, but the verbal exchange remains at early posturing.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana be able to protect her medicinal plants from total destruction?",
+      "stakes_importance": "Medium \u2014 highlights Juliana's personal and medical reliance on the herbs.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 3,
+      "specific_question": "How far will the thugs go to torment Juliana after crushing her plants in the mud?",
+      "stakes_importance": "Medium \u2014 escalation of direct malice and deliberate cruelty targeting Juliana's labor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's desperate begging evoke any mercy, or will the thugs attack her directly?",
+      "stakes_importance": "Medium \u2014 protagonist is brought to her knees in mud, increasing emotional vulnerability and humiliation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the mocking thugs physically assault Juliana while she tries to save her flowers?",
+      "stakes_importance": "Medium \u2014 cruel mockery highlighting her powerlessness, but lacks an immediate action climax.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Juliana endure this mistreatment without breaking down or getting hurt?",
+      "stakes_importance": "Low \u2014 emotional pause focusing on her trembling hands; intimate pathos but low immediate suspense.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the armed thugs punish Juliana for standing up and defying them?",
+      "stakes_importance": "Medium \u2014 shift in protagonist stance from kneeling supplicant to standing resistance, inviting retaliation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana be able to command any authority as a noble lady over these ruffians?",
+      "stakes_importance": "Medium \u2014 class insult showing the thugs have zero respect for her status.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's proud refusal to back down provoke immediate physical violence?",
+      "stakes_importance": "Medium \u2014 high verbal tension and clear moral boundary drawn before an aggressive confrontation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana yield to intimidation or will the thug strike her down where she stands?",
+      "stakes_importance": "High \u2014 physical intimidation right in the protagonist's face, making imminent violence inevitable.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "How severely is Juliana injured after being violently shoved onto the wet stone path?",
+      "stakes_importance": "High \u2014 escalation to direct physical violence against the vulnerable female protagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana survive further abuse while bleeding onto the ground with no one to defend her?",
+      "stakes_importance": "High \u2014 visceral bodily harm with fresh blood soaking her bandages, raising stakes to acute danger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why are her mother's medicinal plants so precious, and will anyone come to save Juliana?",
+      "stakes_importance": "High \u2014 poignant emotional reveal linking the destruction to her deceased/absent mother's legacy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 3,
+      "specific_question": "What cruel act will the three thugs commit next while gloating over Juliana's agony?",
+      "stakes_importance": "Medium \u2014 peak public humiliation and sadism by the villains.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will the raised club crush the final heirloom plants and strike the defenseless Juliana?",
+      "stakes_importance": "High \u2014 peak physical peril with a deadly wooden club hoisted in mid-air about to strike.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who is racing through the darkness, and will they arrive in time to save Juliana?",
+      "stakes_importance": "High \u2014 sudden disruption of violence by an unknown force, shifting control away from the thugs.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Alexander's furious charge overturn the thugs' assault on Juliana?",
+      "stakes_importance": "High \u2014 protector arrives in an untamed fury, instantly promising high-octane retaliation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Alexander take on three armed thugs single-handedly to shield Juliana?",
+      "stakes_importance": "High \u2014 emotional connection and relief between the leads, but the impending battle is temporarily paused.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the three thugs ambush or flee from the looming figure emerging from the mist?",
+      "stakes_importance": "Medium \u2014 positioning for conflict, but lacks Alexander's dominant presence in frame.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander tear the intruders apart with his bare hands for harming Juliana?",
+      "stakes_importance": "High \u2014 intense physical standoff with the protector standing between the victim and armed thugs with lethal intent.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander unleash his combat training against the armed thugs despite being outnumbered?",
+      "stakes_importance": "High \u2014 direct taunt challenging a dangerous veteran, establishing imminent bloodshed.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Alexander slaughter or repel all three armed thugs before Juliana suffers further injury?",
+      "stakes_importance": "High \u2014 ultimate peak of suspended violence with sound swell cutting right as the clash erupts.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

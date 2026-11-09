@@ -1,0 +1,263 @@
+{
+  "episode_number": 7,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP007_15",
+      "absolute_rubric_score": 9.2,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B010",
+        "end_beat_id": "B018",
+        "start_time": 37.8,
+        "end_time": 69.5,
+        "duration": 31.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You look like a servant.",
+        "opening_character": "ARISTOCRATIC WOMAN",
+        "rationale": "Blunt degradation ('You look like a servant') strikes directly at her fallen status and identity."
+      },
+      "cliffhanger": {
+        "final_quote": "And your husband?",
+        "final_character": "GERALD",
+        "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?"
+      },
+      "situational_summary": "After being humiliated for her mud-stained hands and told she looks like a servant, a former noblewoman defends her marriage until her wealthy antagonist threatens her husband's life.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP007_12",
+      "absolute_rubric_score": 9.2,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.1624,
+      "max_similarity_to_selected": 0.7503,
+      "boundary": {
+        "start_beat_id": "B007",
+        "end_beat_id": "B018",
+        "start_time": 24.5,
+        "end_time": 69.5,
+        "duration": 45.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "A fitting home for a woman who threw away everything for a penniless soldier.",
+        "opening_character": "GERALD",
+        "rationale": "Gerald's stinging insult that she 'threw away everything for a penniless soldier' delivers high-stakes backstory and immediate betrayal dynamics."
+      },
+      "cliffhanger": {
+        "final_quote": "And your husband?",
+        "final_character": "GERALD",
+        "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?"
+      },
+      "situational_summary": "After failing to humiliate a proud noblewoman who married for love, an arrogant aristocrat lunges forward with a threat to make her husband disappear.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP007_14",
+      "absolute_rubric_score": 8.8,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "mmr_score": 0.0847,
+      "max_similarity_to_selected": 0.8117,
+      "boundary": {
+        "start_beat_id": "B009",
+        "end_beat_id": "B018",
+        "start_time": 32.8,
+        "end_time": 69.5,
+        "duration": 36.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Home? Look at your hands, Juliana.",
+        "opening_character": "ARISTOCRATIC WOMAN",
+        "rationale": "Cruel mockery directing focus to her physical labor ('Home? Look at your hands, Juliana') sharpens the confrontation."
+      },
+      "cliffhanger": {
+        "final_quote": "And your husband?",
+        "final_character": "GERALD",
+        "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?"
+      },
+      "situational_summary": "An aristocratic woman and a haughty noble mock a former lady's calloused hands, leading to an escalating confrontation that ends with a threat on her husband's life.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP007_13",
+      "absolute_rubric_score": 8.5,
+      "subscores": {
+        "hook_score": 1.8,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "mmr_score": 0.016,
+      "max_similarity_to_selected": 0.8534,
+      "boundary": {
+        "start_beat_id": "B008",
+        "end_beat_id": "B018",
+        "start_time": 29.8,
+        "end_time": 69.5,
+        "duration": 39.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You came all this way just to insult my home?",
+        "opening_character": "JULIANA",
+        "rationale": "Juliana directly challenges their presence with a sharp, defiant counter-question."
+      },
+      "cliffhanger": {
+        "final_quote": "And your husband?",
+        "final_character": "GERALD",
+        "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?"
+      },
+      "situational_summary": "A disgraced lady working in poverty confronts wealthy visitors who mock her servant-like state, culminating in an ex-suitor threatening to make her new husband disappear.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP007_04",
+      "absolute_rubric_score": 5.7,
+      "subscores": {
+        "hook_score": 0.6,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.6,
+        "resonance_score": 1.7
+      },
+      "mmr_score": -0.1704,
+      "max_similarity_to_selected": 0.8231,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B009",
+        "start_time": 0.0,
+        "end_time": 37.8,
+        "duration": 37.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Home? Look at your hands, Juliana.",
+        "final_character": "ARISTOCRATIC WOMAN",
+        "specific_question": "How will the woman use Juliana's labor-worn hands to disgrace her noble lineage?"
+      },
+      "situational_summary": "An aristocratic woman and her companion arrive at a stone cottage to cruelly mock Juliana's ruined hands and reduced social station.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP007_10",
+      "rank": 5,
+      "recommended_boundary": "B007 -> B016",
+      "similarity": 0.9709,
+      "duplicate_of": "CAND_EP007_12",
+      "reason": "Exceeded near-duplicate threshold (0.9709 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP007_11",
+      "rank": 6,
+      "recommended_boundary": "B007 -> B017",
+      "similarity": 0.988,
+      "duplicate_of": "CAND_EP007_12",
+      "reason": "Exceeded near-duplicate threshold (0.9880 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP007_09",
+      "rank": 7,
+      "recommended_boundary": "B007 -> B015",
+      "similarity": 0.9678,
+      "duplicate_of": "CAND_EP007_12",
+      "reason": "Exceeded near-duplicate threshold (0.9678 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP007_10",
+      "rank": 5,
+      "recommended_boundary": "B007 -> B016",
+      "similarity": 0.9709,
+      "duplicate_of": "CAND_EP007_12",
+      "reason": "Exceeded near-duplicate threshold (0.9709 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP007_11",
+      "rank": 6,
+      "recommended_boundary": "B007 -> B017",
+      "similarity": 0.988,
+      "duplicate_of": "CAND_EP007_12",
+      "reason": "Exceeded near-duplicate threshold (0.9880 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP007_09",
+      "rank": 7,
+      "recommended_boundary": "B007 -> B015",
+      "similarity": 0.9678,
+      "duplicate_of": "CAND_EP007_12",
+      "reason": "Exceeded near-duplicate threshold (0.9678 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP007_10",
+      "rank": 5,
+      "recommended_boundary": "B007 -> B016",
+      "similarity": 0.9709,
+      "duplicate_of": "CAND_EP007_12",
+      "reason": "Exceeded near-duplicate threshold (0.9709 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP007_11",
+      "rank": 6,
+      "recommended_boundary": "B007 -> B017",
+      "similarity": 0.988,
+      "duplicate_of": "CAND_EP007_12",
+      "reason": "Exceeded near-duplicate threshold (0.9880 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP007_09",
+      "rank": 7,
+      "recommended_boundary": "B007 -> B015",
+      "similarity": 0.9678,
+      "duplicate_of": "CAND_EP007_12",
+      "reason": "Exceeded near-duplicate threshold (0.9678 >= 0.90)"
+    }
+  ]
+}

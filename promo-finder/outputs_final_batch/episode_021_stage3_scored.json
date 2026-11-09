@@ -1,0 +1,381 @@
+{
+  "episode_number": 21,
+  "total_scored": 15,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP021_01",
+      "start_beat_id": "B002",
+      "end_beat_id": "B005",
+      "start_time": 3.5,
+      "end_time": 30.9,
+      "duration": 27.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 establishes the setting with a loud sound and wide shot of double barn doors flying open as a frantic village girl bursts inside crying out for help to save a dying boy. The physical space, characters, and urgent dynamic are crystal clear within the first 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Prudence explains that classist doctors and apothecaries refused treatment for her dying brother due to lack of silver, appealing to Juliana whose own clinic has burned to ashes. The stakes, victims, antagonists, and obstacles are evident without external lore.",
+        "passes_gate": true,
+        "situational_summary": "A weeping village girl bursts into a barn begging a noblewoman healer to save her dying brother after greedy town doctors turned him away, only to find the healer's clinic has burned down."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate life-or-death plea met with painful helplessness and societal cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Introduces the inciting medical crisis and reveals the loss of Juliana's clinic/cottage, ideal setup for cold prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_02",
+      "start_beat_id": "B002",
+      "end_beat_id": "B006",
+      "start_time": 3.5,
+      "end_time": 35.8,
+      "duration": 32.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 opens on barn doors violently slamming open with a wide shot of a weeping village girl rushing in to plead for help, immediately anchoring the environment and high-stakes dynamic.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc builds from the initial plea through the rejection by callous doctors, culminating in Prudence dropping to her knees in supplication before a ruined healer. Completely self-contained conflict and relationship dynamic.",
+        "passes_gate": true,
+        "situational_summary": "A desperate village girl begs on her knees for a ruined healer to save her dying seven-year-old brother after cruel town doctors refuse him care."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Heart-wrenching supplication and emotional desperation against callous injustice"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the inciting crisis of Toby's sickness and Juliana's destitute state without giving away the outcome."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_03",
+      "start_beat_id": "B002",
+      "end_beat_id": "B007",
+      "start_time": 3.5,
+      "end_time": 40.5,
+      "duration": 37.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 immediately grounds the viewer with the barn doors flying open in a wide shot and Prudence's panicked plea to Lady Juliana, establishing characters, location, and stakes right away.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows the problem (brother dying, doctors refused care, Juliana's clinic burned) and resolves into decisive action as Juliana refuses despair and resolves to go immediately. Everything is understandable from dialogue and action.",
+        "passes_gate": true,
+        "situational_summary": "After a weeping girl begs for help for her dying brother rejected by callous doctors, an impoverished healer pulls her up and resolves to rush to his side."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperation transforming into resolute moral defiance and compassionate urgency"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the setup of the medical mission and Juliana's decision to intervene despite having only ashes and an herbal ledger."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_04",
+      "start_beat_id": "B003",
+      "end_beat_id": "B006",
+      "start_time": 11.2,
+      "end_time": 35.8,
+      "duration": 24.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B003 opens in media res on a close-up of a girl crying 'his chest is burning! He cannot breathe!' without establishing the physical setting, who she is talking to, or how she arrived there. Lacks visual grounding for a cold scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "The overall conflict is understandable across the clip as the dialogue explains the refusal of the apothecary and the plight of the seven-year-old brother.",
+        "passes_gate": false,
+        "situational_summary": "A weeping girl begs a healer to save her suffocating brother after doctors turned them away for having no silver."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate plea for a dying child's life amid callous societal neglect"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the medical emergency and Juliana's ruined clinic status."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_05",
+      "start_beat_id": "B004",
+      "end_beat_id": "B007",
+      "start_time": 18.2,
+      "end_time": 40.5,
+      "duration": 22.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B004 opens mid-conversation with an ungrounded, reactive outburst ('He shut the door in my face because we have no silver!') and an ambiguous gesture toward the outdoors without establishing the physical setting, who Prudence is speaking to, or where they are.",
+        "arc_legibility": true,
+        "arc_rationale": "The overall clip makes the stakes and interpersonal dynamic clear: a desperate mother pleads with an impoverished noblewoman/herbalist to save her sick seven-year-old child after the manor doctor turned them away.",
+        "passes_gate": false,
+        "situational_summary": "A desperate peasant woman begs an impoverished lady to use her herbal knowledge to save her dying seven-year-old son after the manor doctor refused him care."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate maternal pleading colliding with shared destitution and urgent duty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the inciting medical emergency and reveals that Lady Juliana's clinic and cottage were burned to ashes."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_06",
+      "start_beat_id": "B009",
+      "end_beat_id": "B014",
+      "start_time": 42.8,
+      "end_time": 64.5,
+      "duration": 21.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 provides an immediate, unmistakable visual and auditory anchor: a low-angle shot of a sick child lying on a straw pallet by a fireplace, coughing raspy, labored coughs. A cold scroller instantly understands the life-or-death pediatric emergency.",
+        "arc_legibility": true,
+        "arc_rationale": "The sequence follows a completely self-contained medical rescue arc: a healer rushes in, checks the boy's fever, prepares a hot herbal steam remedy, and administers it with the mother's help.",
+        "passes_gate": true,
+        "situational_summary": "A determined herbalist rushes to the bedside of a feverish, coughing young boy to prepare and administer a steaming herbal remedy before his airway closes."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Urgent bedside medical rescue under harrowing rustic conditions"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Standard episodic emergency care procedure without revealing broader overarching plot secrets."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_07",
+      "start_beat_id": "B009",
+      "end_beat_id": "B015",
+      "start_time": 42.8,
+      "end_time": 66.8,
+      "duration": 24.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 establishes the clear physical setting and stakes instantly via a low-angle shot of seven-year-old Toby coughing weakly on a straw pallet before the hearth.",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip clearly shows a cohesive bedside emergency procedure where two women work together to revive a critically wheezing child with hot herbal vapors.",
+        "passes_gate": true,
+        "situational_summary": "A healer and an anxious mother administer hot herbal steam to a gravely ill child coughing weakly by the hearth."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Urgent maternal distress and focused bedside treatment"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Routine bedside medical treatment; introduces the stakes of the boy's sickness without revealing overarching series mysteries."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_08",
+      "start_beat_id": "B009",
+      "end_beat_id": "B016",
+      "start_time": 42.8,
+      "end_time": 70.5,
+      "duration": 27.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 immediately grounds the scene with a clear visual anchor: a weak, coughing child lying on a straw pallet beside a hearth fire.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic action from initial diagnosis and kettle preparation through to the patient inhaling the soothing medicinal steam.",
+        "passes_gate": true,
+        "situational_summary": "An herbalist and a mother hurry to brew and guide steaming medicinal vapors into the lungs of a feverish boy struggling to breathe."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Tense bedside medical treatment focused on saving a suffocating child"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Covers only the immediate procedural rescue of the sick boy, revealing no high-level plot secrets."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_09",
+      "start_beat_id": "B009",
+      "end_beat_id": "B021",
+      "start_time": 42.8,
+      "end_time": 99.2,
+      "duration": 56.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 establishes the physical setting and stakes immediately with a clear visual: a low-angle shot of a young boy lying on a straw pallet before a hearth, coughing weakly with raspy breathing.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc is self-contained: Lady Juliana urgently treats a desperately ill boy using botanical remedies while the sister assists, successfully saves his life, and learns that an ominous illness is also striking the wealthy manor.",
+        "passes_gate": true,
+        "situational_summary": "A noblewoman rushes to save a poor choking child with herbal remedies, and after reviving him, learns that a mysterious sickness may also be afflicting the grand manor."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate medical life-and-death struggle resolved into tearful gratitude and ominous foreboding"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Demonstrates Juliana's hidden medical expertise saving a villager's child and teases the Dowager Duchess's crisis."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_10",
+      "start_beat_id": "B010",
+      "end_beat_id": "B021",
+      "start_time": 45.5,
+      "end_time": 99.2,
+      "duration": 53.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B010 visually grounds the emergency as Lady Juliana rushes in, flips through a medicinal ledger, and announces 'His skin is burning hot', clearly establishing an urgent medical rescue.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is clear and complete: emergency herbal treatment relieves the boy's respiratory distress, culminating in heartfelt gratitude and a cliffhanger regarding the Duchess's health.",
+        "passes_gate": true,
+        "situational_summary": "Lady Juliana consults a herbal ledger to administer steam treatment to a feverish young boy, saving his life before being tipped off about illness at the manor."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Urgent medical rescue followed by profound emotional relief and class tension"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes Juliana's medicinal competence and hints at impending high-stakes drama at the manor."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_11",
+      "start_beat_id": "B011",
+      "end_beat_id": "B020",
+      "start_time": 48.8,
+      "end_time": 96.5,
+      "duration": 47.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 immediately frames the scene with Lady Juliana pressing a bandaged hand to a sweating boy's forehead and commanding hot water, establishing an urgent bedside emergency in seconds.",
+        "arc_legibility": false,
+        "arc_rationale": "While the medical rescue succeeds, the clip abruptly cuts off at Prudence's bitter remark ('their gold cannot buy them health') without Juliana's realization or resolution, leaving the secondary narrative hook dangling without situational clarity.",
+        "passes_gate": false,
+        "situational_summary": "A healer successfully relieves a choking boy with herbal steam, after which the grateful sister vents bitterness that the grand manor's wealth cannot buy health."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Bedside medical tension transitioning into class resentment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the healing of Toby and reveals class bitterness regarding illness at the manor."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_12",
+      "start_beat_id": "B011",
+      "end_beat_id": "B021",
+      "start_time": 48.8,
+      "end_time": 99.2,
+      "duration": 50.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 opens with a clear visual anchor: Lady Juliana touching a sick, wheezing child's forehead and urgently ordering Prudence to fetch hot water.",
+        "arc_legibility": true,
+        "arc_rationale": "Full dramatic arc from life-threatening respiratory crisis to successful treatment, culminating in a clear, alarming reveal about the Dowager Duchess being ill.",
+        "passes_gate": true,
+        "situational_summary": "Lady Juliana administers emergency herbal vapor to save a suffocating child, then receives startling news that the Dowager Duchess may be stricken with illness."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "High-stakes bedside rescue followed by sudden dramatic realization"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals Juliana's healing abilities and concludes on the inciting secret of the Dowager Duchess's condition."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_13",
+      "start_beat_id": "B011",
+      "end_beat_id": "B022",
+      "start_time": 48.8,
+      "end_time": 101.2,
+      "duration": 52.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 immediately establishes a clear physical and dramatic situation: a woman (Lady Juliana) in bandaged hands tending to a feverish, wheezing boy (Toby) and shouting an urgent command for hot water to an anxious attendant.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained medical emergency where herbal remedy successfully cures the dying boy, followed by the revelation that the wealthy manor who abandoned him now faces an incurable illness claiming the Dowager Duchess.",
+        "passes_gate": true,
+        "situational_summary": "After using traditional herbal remedy to save a peasant boy left to die by grand manor doctors, Lady Juliana learns that the wealthy Dowager Duchess herself is dying of an unstoppable illness."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate medical rescue pivoting from tearful gratitude into ominous revelation of mortal vulnerability among the nobility"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the inciting dynamic between Juliana's healing abilities and the Duchess's fatal sickness, setting up the central premise."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_14",
+      "start_beat_id": "B011",
+      "end_beat_id": "B023",
+      "start_time": 48.8,
+      "end_time": 108.5,
+      "duration": 59.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 establishes an immediate, visually grounded medical emergency: Lady Juliana checking the feverish forehead of wheezing Toby and urgently ordering hot water.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear and coherent dramatic arc showing the successful treatment of a choking child with mother's remedy, followed by Prudence describing the mysterious illness devouring the wealthy Duchess that no manor doctor can stop.",
+        "passes_gate": true,
+        "situational_summary": "Lady Juliana saves a poor suffocating boy using folk herbal remedies, only to be told that an untreatable, mysterious illness is slowly killing the wealthy Dowager Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Tense life-or-death healing giving way to profound relief and chilling revelation of an untreatable affliction"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals Juliana's medical competence and the core problem driving the drama: the Duchess's mysterious illness."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP021_15",
+      "start_beat_id": "B020",
+      "end_beat_id": "B024",
+      "start_time": 91.0,
+      "end_time": 114.0,
+      "duration": 23.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 opens on an ungrounded mid-conversation lament ('At the grand manor, they ignore us...') with a low-angle shot past an already-sleeping boy without establishing who these characters are, their relationship, or what just transpired.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue clearly conveys that the uncaring grand manor's Duchess is dying of a mysterious affliction, and Juliana possesses the herbal knowledge required to save her.",
+        "passes_gate": false,
+        "situational_summary": "A woman vents resentment toward the wealthy manor before revealing that the Dowager Duchess is dying of an incurable illness, prompting Lady Juliana to consider her mother's medicinal book."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Class resentment and tense revelation of impending noble death"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the Dowager Duchess is fatally ill and links Juliana's herbal ledger to the looming stakes."
+      }
+    }
+  ]
+}

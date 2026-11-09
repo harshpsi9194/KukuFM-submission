@@ -1,0 +1,721 @@
+{
+  "episode": "Episode 5",
+  "episode_number": 5,
+  "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+  "continuity_notes": "Follows directly from Episode 4's ending where Juliana and the Mysterious Bearded Man walked out of the chapel doors into the daylight after completing their wedding vows.",
+  "duration": 110.5,
+  "total_beats": 22,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 2.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Lady Juliana's hands clutching an ancient, brass-bound leather ledger against the skirt of her white wedding gown as she walks.",
+          "start": 0.0,
+          "end": 2.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana grips the heirloom ledger tightly against her waist, her posture resolute despite the tension.",
+          "start": 0.0,
+          "end": 2.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B002",
+      "start": 2.5,
+      "end": 6.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway leaning on his cane.",
+          "start": 2.5,
+          "end": 6.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Miss Ashcroft.",
+          "start": 4.2,
+          "end": 5.8,
+          "timestamp_source": "given",
+          "character": "LORD ASHCROFT",
+          "emotion": "Stern, Commanding"
+        },
+        {
+          "type": "action",
+          "description": "Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft.",
+          "start": 5.5,
+          "end": 6.6,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B003",
+      "start": 6.6,
+      "end": 10.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Lord Ashcroft, his weathered face rigid with aristocratic pride and disgust.",
+          "start": 6.6,
+          "end": 10.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You will not leave this church carrying the Ashcroft name.",
+          "start": 6.8,
+          "end": 10.4,
+          "timestamp_source": "given",
+          "character": "LORD ASHCROFT",
+          "emotion": "Cold, Condemnatory"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B004",
+      "start": 10.5,
+      "end": 15.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana looking up at her father. Her hand rises to touch the amethyst heirloom pendant resting at her throat.",
+          "start": 10.5,
+          "end": 15.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The vows are spoken, Father. I am his wife now.",
+          "start": 11.7,
+          "end": 15.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Defiant, Steadfast"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B005",
+      "start": 15.8,
+      "end": 20.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Lord Ashcroft standing rigid outside the chapel archway, unforgiving and unyielding.",
+          "start": 15.8,
+          "end": 20.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then leave as his wife.",
+          "start": 16.0,
+          "end": 18.0,
+          "timestamp_source": "given",
+          "character": "LORD ASHCROFT",
+          "emotion": "Harsh, Final"
+        },
+        {
+          "type": "dialogue",
+          "description": "You leave as no daughter of mine.",
+          "start": 18.5,
+          "end": 20.8,
+          "timestamp_source": "given",
+          "character": "LORD ASHCROFT",
+          "emotion": "Harsh, Final"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B006",
+      "start": 20.8,
+      "end": 29.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot tracking Lord Ashcroft's polished black boots as he slowly descends the stone steps toward them.",
+          "start": 20.8,
+          "end": 25.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Your dowry is revoked.",
+          "start": 21.0,
+          "end": 23.0,
+          "timestamp_source": "given",
+          "character": "LORD ASHCROFT",
+          "emotion": "O.S. / Continues"
+        },
+        {
+          "type": "dialogue",
+          "description": "Your inheritance is revoked.",
+          "start": 23.1,
+          "end": 25.1,
+          "timestamp_source": "given",
+          "character": "LORD ASHCROFT",
+          "emotion": "O.S. / Continues"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest.",
+          "start": 25.0,
+          "end": 29.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "From this moment, you are dead to the Ashcroft family.",
+          "start": 25.4,
+          "end": 28.9,
+          "timestamp_source": "given",
+          "character": "LORD ASHCROFT",
+          "emotion": "O.S. / Continues"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B007",
+      "start": 29.5,
+      "end": 33.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "You truly mean it? You are my father!",
+          "start": 29.5,
+          "end": 33.4,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Shaking, Tearful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B008",
+      "start": 33.5,
+      "end": 41.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the Mysterious Bearded Man, observing Lord Ashcroft with an unblinking, quietly threatening stare.",
+          "start": 33.5,
+          "end": 36.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And you have chosen to become a stranger.",
+          "start": 33.8,
+          "end": 36.8,
+          "timestamp_source": "given",
+          "character": "LORD ASHCROFT"
+        },
+        {
+          "type": "camera",
+          "description": "Profile medium two-shot of Juliana and Lord Ashcroft standing face-to-face against the backdrop of the towering gothic facade.",
+          "start": 36.5,
+          "end": 41.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No, Father. You chose that long before today.",
+          "start": 37.6,
+          "end": 41.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Quietly Resolute"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B009",
+      "start": 41.5,
+      "end": 46.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Lady Ashcroft, resplendent in navy velvet and jewels, stepping forward with a smirk of malicious authority.",
+          "start": 41.5,
+          "end": 46.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Enough sentiment.",
+          "start": 42.5,
+          "end": 44.2,
+          "timestamp_source": "given",
+          "character": "LADY ASHCROFT",
+          "emotion": "Sharply Dismissive"
+        },
+        {
+          "type": "dialogue",
+          "description": "And the ledger...",
+          "start": 44.3,
+          "end": 45.8,
+          "timestamp_source": "given",
+          "character": "LADY ASHCROFT",
+          "emotion": "Cold, Demanding"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B010",
+      "start": 46.0,
+      "end": 48.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as Lady Ashcroft approaches Juliana menacingly.",
+          "start": 46.0,
+          "end": 48.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "...that belongs to this family.",
+          "start": 46.8,
+          "end": 48.8,
+          "timestamp_source": "given",
+          "character": "LADY ASHCROFT",
+          "emotion": "Venomous"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B011",
+      "start": 49.0,
+      "end": 51.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "It belonged to my mother! It is all I have left of her.",
+          "start": 49.0,
+          "end": 51.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Alarmed, Protective"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B012",
+      "start": 51.8,
+      "end": 54.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Ashcroft laying a jeweled hand firmly on the bound book.",
+          "start": 51.8,
+          "end": 54.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then you should have guarded it better.",
+          "start": 52.0,
+          "end": 54.0,
+          "timestamp_source": "given",
+          "character": "LADY ASHCROFT",
+          "emotion": "Cruel"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B013",
+      "start": 54.0,
+      "end": 69.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on the ledger as Lady Ashcroft violently wrenches it out of Juliana's grip.",
+          "start": 54.0,
+          "end": 57.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.",
+          "start": 54.5,
+          "end": 57.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Barbara, don't!",
+          "start": 55.5,
+          "end": 56.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Screaming, Desperate"
+        },
+        {
+          "type": "sfx",
+          "description": "A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.",
+          "start": 57.0,
+          "end": 58.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter.",
+          "start": 57.8,
+          "end": 63.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Even your mother's precious legacy has been cast into the dirt!",
+          "start": 59.0,
+          "end": 62.5,
+          "timestamp_source": "given",
+          "character": "CLARISSA",
+          "emotion": "Gleeful, Mocking"
+        },
+        {
+          "type": "dialogue",
+          "description": "Perhaps that is where it belongs.",
+          "start": 62.4,
+          "end": 64.6,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Smug, Cruel"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.",
+          "start": 63.0,
+          "end": 66.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.",
+          "start": 65.5,
+          "end": 68.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle.",
+          "start": 66.5,
+          "end": 69.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B014",
+      "start": 69.0,
+      "end": 74.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her.",
+          "start": 69.0,
+          "end": 72.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.",
+          "start": 70.5,
+          "end": 74.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B015",
+      "start": 74.5,
+      "end": 76.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of his large, weathered hands gently lifting the wet, embossed leather book from the ground.",
+          "start": 74.5,
+          "end": 76.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B016",
+      "start": 76.0,
+      "end": 80.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot as he holds out the retrieved ledger and places it into Juliana's trembling hands.",
+          "start": 76.0,
+          "end": 80.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Here you go.",
+          "start": 77.8,
+          "end": 79.0,
+          "timestamp_source": "given",
+          "character": "MYSTERIOUS BEARDED MAN",
+          "emotion": "Low, Gentle"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B017",
+      "start": 80.0,
+      "end": 85.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity.",
+          "start": 80.0,
+          "end": 85.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "They destroyed it.",
+          "start": 80.5,
+          "end": 82.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Choked, Weeping"
+        },
+        {
+          "type": "dialogue",
+          "description": "They dirtied it. That is not the same thing.",
+          "start": 82.5,
+          "end": 85.4,
+          "timestamp_source": "given",
+          "character": "MYSTERIOUS BEARDED MAN",
+          "emotion": "Calm, Grounded"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B018",
+      "start": 85.5,
+      "end": 91.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot of Juliana pressing the soiled book tightly against her chest, weeping softly.",
+          "start": 85.5,
+          "end": 91.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "It was my mother's.",
+          "start": 86.5,
+          "end": 87.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Broken"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then keep it.",
+          "start": 87.9,
+          "end": 89.0,
+          "timestamp_source": "given",
+          "character": "MYSTERIOUS BEARDED MAN",
+          "emotion": "Gentle, Protective"
+        },
+        {
+          "type": "action",
+          "description": "The Mysterious Bearded Man reaches out with both hands, clasping his strong hands tenderly over hers and the book.",
+          "start": 88.5,
+          "end": 91.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Let them keep everything else.",
+          "start": 89.4,
+          "end": 91.0,
+          "timestamp_source": "given",
+          "character": "MYSTERIOUS BEARDED MAN",
+          "emotion": "Firm, Comforting"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B019",
+      "start": 91.0,
+      "end": 96.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot of Gerald standing high on the stone steps, grinning arrogantly as he points an accusatory finger down at them.",
+          "start": 91.0,
+          "end": 96.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Look at you.",
+          "start": 91.5,
+          "end": 92.8,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Mocking, Arrogant"
+        },
+        {
+          "type": "dialogue",
+          "description": "A noblewoman reduced to a beggar's wife!",
+          "start": 93.0,
+          "end": 96.5,
+          "timestamp_source": "given",
+          "character": "GERALD",
+          "emotion": "Scornful, Spiteful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B020",
+      "start": 96.5,
+      "end": 101.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Over-the-shoulder shot behind the Mysterious Bearded Man looking up toward Gerald on the stairs. Gerald's arrogant grin slowly wavers.",
+          "start": 96.5,
+          "end": 101.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Choose your next words carefully.",
+          "start": 98.0,
+          "end": 100.8,
+          "timestamp_source": "given",
+          "character": "MYSTERIOUS BEARDED MAN",
+          "emotion": "Low, Lethally Cold"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B021",
+      "start": 101.5,
+      "end": 105.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of the Mysterious Bearded Man's scarred hand completely covering and protecting Juliana's hands where they clasp the book.",
+          "start": 101.5,
+          "end": 105.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Come.",
+          "start": 104.2,
+          "end": 105.2,
+          "timestamp_source": "given",
+          "character": "MYSTERIOUS BEARDED MAN",
+          "emotion": "Soft, Reassuring"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    },
+    {
+      "beat_id": "B022",
+      "start": 105.5,
+      "end": 110.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "High wide shot from above the courtyard archway. Juliana, holding her mother's book, and the Mysterious Bearded Man, holding her hand firmly, walk together down the wet cobblestone path and through the towering iron gates into the misty rain, leaving her former family behind as the screen fades out.",
+          "start": 105.5,
+          "end": 110.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that slowly fades to black.",
+          "start": 106.0,
+          "end": 110.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. CATHEDRAL STEPS \u2013 DAY"
+    }
+  ]
+}

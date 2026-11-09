@@ -1,0 +1,1723 @@
+{
+  "episode_number": 5,
+  "total_shortlist_candidates": 52,
+  "comprehension_gate_pass_rate": "30/52 (57.7%)",
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP005_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 20.8,
+      "duration": 20.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B001 to B005 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_01",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B001 is a silent close-up of a woman's hands clutching a ledger against a wedding gown. In strict isolation, it establishes no conflict, no antagonist, and no relational dynamic. A cold viewer cannot tell who is in conflict or why from this visual alone.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 20.8s arc (B001\u2013B005), the confrontation is clear and self-contained: a bride walking out with her new husband is confronted by her aristocratic father, who disowns and banishes her for marrying against his wishes.",
+        "passes_gate": false,
+        "situational_summary": "A bride descending cathedral steps with her new husband is confronted and disowned by her proud father after defying him to marry.",
+        "missing_context": "The opening beat (B001) begins on a silent detail shot of hands clutching a ledger without establishing who is in conflict or what stakes exist. The clip relies entirely on subsequent dialogue in B002\u2013B005 to reveal the confrontation and familial disownment.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_01",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_01",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 29.0,
+      "duration": 29.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B001 to B006 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_02",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B001 in isolation is merely a silent close-up of hands clutching an old leather ledger against a wedding gown. While it hints at wedding attire and tension, it establishes neither who the opposing parties are nor what central dramatic conflict is taking place within the first few seconds for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full arc (B001 -> B006), the dramatic stakes, victim, and antagonist are fully self-contained: a newlywed bride is publicly disowned, stripped of her dowry, and declared dead to her aristocratic father for marrying against his wishes.",
+        "passes_gate": false,
+        "situational_summary": "A father disowns and disinherits his daughter on church steps immediately after she speaks her marriage vows to an unapproved husband.",
+        "missing_context": "The opening beat (B001) is a silent close-up of hands holding a ledger without dialogue or visible interpersonal confrontation. It relies on subsequent beats (Lord Ashcroft calling out in B002\u2013B003) to establish who is in conflict and why, failing cold opening legibility in isolation.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_02",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_02",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_03",
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 33.4,
+      "duration": 33.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B001 to B007 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_03",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B001 is a silent close-up of a woman's hands clutching an ancient leather ledger against a white wedding gown. While it hints at marriage and tension, in strict isolation it provides zero narrative context on who is in conflict, who the opponent is, or why there is tension. A cold viewer cannot immediately discern the conflict within the first 2.5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 33.4-second arc (B001 -> B007), the dramatic situation is entirely legible and self-contained: a bride descending the cathedral steps with her new husband is confronted and completely disowned, stripped of her dowry, name, and inheritance by her aristocratic father.",
+        "passes_gate": false,
+        "situational_summary": "A newlywed bride descending church steps is confronted and ruthlessly disowned by her father, who revokes her name, dowry, and inheritance.",
+        "missing_context": "Opening beat B001 opens on a silent close-up of hands clutching an heirloom ledger without establishing the adversary, the verbal stakes, or the nature of the confrontation. The clip relies on subsequent beats (B002\u2013B006) to retroactively introduce the father and explain the disownment conflict.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_03",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_03",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_04",
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 41.5,
+      "duration": 41.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B001 to B008 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_04",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B001 in strict isolation is a visual close-up of a woman's hands clutching a ledger against a wedding dress as she walks. While it hints at tension, it does not establish who is in conflict or why within the opening beat\u2014there is no antagonist, confrontation, or discernible conflict present until subsequent beats.",
+        "arc_legibility": true,
+        "arc_rationale": "Across beats B001 through B008, the narrative progression clearly establishes a self-contained dramatic arc: a freshly married daughter in a wedding dress is disowned, stripped of her dowry and inheritance, and declared dead to her family by her proud, unforgiving father on the church steps.",
+        "passes_gate": false,
+        "situational_summary": "A newlywed bride descending church steps is confronted and publicly disowned by her aristocratic father, who revokes her inheritance and dowry for marrying against his wishes.",
+        "missing_context": "Opening beat B001 provides only a close-up of hands clutching a book against a wedding gown without establishing any interpersonal conflict, opposition, or stakes. The clip relies entirely on subsequent beats (B002-B006) to reveal the confrontation with her father, failing cold opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_04",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_04",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_09",
+      "start_beat_id": "B003",
+      "end_beat_id": "B006",
+      "start_time": 6.6,
+      "end_time": 29.0,
+      "duration": 22.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B003 to B006 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_09",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B003 immediately establishes high-stakes family disownment/rejection within a church setting. The close-up visual of aristocratic pride and disgust paired with the explicit line ('You will not leave this church carrying the Ashcroft name') provides clear situational grounding and conflict in isolation within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 22.4s arc is completely self-contained and legible: a daughter reveals she went through with marriage against her father's wishes ('The vows are spoken, Father. I am his wife now'), and the aristocratic father unyieldingly strips her of daughterhood, dowry, and inheritance, declaring her dead to the family.",
+        "passes_gate": true,
+        "situational_summary": "A rigid aristocratic father disowns his daughter outside a church after she marries against his will, revoking her dowry, inheritance, and family name.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_09",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and total familial severing: a father methodically stripping his daughter of her name, dowry, inheritance, and existence outside the chapel door, punctuated by Juliana's desperate touch of the family heirloom pendant and shocked heartbreak.",
+        "relative_rank_justification": "High emotional resonance: features agonizing direct parental rejection ('You leave as no daughter of mine', 'From this moment, you are dead to the Ashcroft family') and complete social/economic excommunication, operating on the level of the benchmark score 4 parental betrayal rather than a score 5 climactic internal transformation or altar-reveal turning point."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_09",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major narrative milestone and irreversible status quo shift: Lord Ashcroft formally disowns Juliana, strips her dowry and inheritance, and severs her from the family line after she confirms her marriage vows.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent hook / viral drama shock reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_10",
+      "start_beat_id": "B003",
+      "end_beat_id": "B007",
+      "start_time": 6.6,
+      "end_time": 33.4,
+      "duration": 26.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B003 to B007 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_10",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B003 immediately establishes high-stakes family disownment and aristocratic conflict in isolation: a stern, aristocratic patriarch declared in disgust that the listener will not leave the church carrying the family name.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc presents a complete, self-contained dramatic confrontation where a daughter defends her marriage vows at church while her unyielding father ruthlessly disowns her, revoking her dowry, inheritance, and familial ties.",
+        "passes_gate": true,
+        "situational_summary": "Following a forbidden or disapproved church wedding, an unyielding aristocratic father confronts and formally disowns his daughter, revoking her dowry, inheritance, and family name.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_10",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and psychological exile: Lord Ashcroft methodically strips Juliana of her identity, dowry, and family standing while she clings to her mother's heirloom and appeals to filial bond in mounting shock.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived text and camera indications, Lord Ashcroft's formal severance ('You leave as no daughter of mine', 'you are dead to the Ashcroft family') paired with Juliana's shock and desperate plea ('You are my father!') creates deep psychological betrayal and high vulnerability, surpassing routine confrontation though short of a final climactic transformation."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_10",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major family and relationship milestone: Juliana's father formally and completely disowning her, revoking her dowry and inheritance, and casting her out of the Ashcroft family following her marriage.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral dramatic confrontation reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_11",
+      "start_beat_id": "B003",
+      "end_beat_id": "B008",
+      "start_time": 6.6,
+      "end_time": 41.5,
+      "duration": 34.9,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B003 to B008 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_11",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B003 immediately establishes high-stakes family disownment in a clear setting: a rigid aristocratic patriarch declaring with disgust outside a church that someone will not leave carrying the family name. The conflict, setting, and stakes are instantly intelligible within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate presents a completely self-contained dramatic arc: a daughter defying her aristocratic father after marrying against his wishes, facing complete disownment, loss of dowry/inheritance, and turning back on him with resolute defiance. The victim, antagonist, and stakes are fully understandable without prior lore.",
+        "passes_gate": true,
+        "situational_summary": "An aristocratic father disowns and strips his daughter of her name and inheritance outside a church after she marries against his will, but she stands her ground and defies him.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_11",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and psychic severing: the father methodically strips his daughter of her name, dowry, and familial existence ('From this moment, you are dead to the Ashcroft family'), pivoting to her quiet, cutting realization that he had abandoned her long before.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues, the scene delivers visceral personal betrayal and abandonment outside the church, elevated above standard melodrama by the escalating litany of revocations and Juliana's firm, heartbreaking final retort."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_11",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly depicts a major narrative milestone and status quo disruption: Lord Ashcroft formally disowning Juliana outside the church, revoking her dowry and inheritance, and declaring her dead to the family after she confirms marrying the mysterious husband.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent prospecting / viral emotional drama reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_12",
+      "start_beat_id": "B003",
+      "end_beat_id": "B009",
+      "start_time": 6.6,
+      "end_time": 46.0,
+      "duration": 39.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B003 to B009 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_12",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B003 immediately establishes high-stakes familial/patrilineal disownment within seconds: a close-up on an aristocratic patriarch's disgusted face paired with the definitive declaration, 'You will not leave this church carrying the Ashcroft name.' A cold viewer immediately understands that an elite family head is forcefully stripping someone of their family name and standing at a church.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 39.4s arc is completely self-contained and clear: a defiant daughter confirms she has just married against her aristocratic father's wishes, leading to her public disownment, loss of dowry and inheritance, followed by the stepmother/matriarch intervening with malicious authority over a ledger. The victim, antagonists, and dramatic stakes are fully understandable without prior lore.",
+        "passes_gate": true,
+        "situational_summary": "An aristocratic father disowns and strips his daughter of her name, dowry, and inheritance outside a church after she marries against his wishes, while a cruel matriarch moves in to seize her ledger.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_12",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and confrontation: Lord Ashcroft strips Juliana of her dowry, inheritance, and family name, culminating in Juliana's poignant realization and defiant rebuke ('You chose that long before today').",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues, the scene depicts deep familial rupture and formal rejection ('From this moment, you are dead to the Ashcroft family') paired with Juliana's shock and hardening boundary against her father outside the chapel archway, placing it well above routine friction though slightly below the ultimate climactic confrontation or physical transformation of the episode."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_12",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly reveals a major narrative milestone and status quo disruption: Juliana has defied her family by going through with the marriage, resulting in formal disownment, total revocation of her dowry and inheritance, and immediate expulsion from the Ashcroft family.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent hook / viral drama shock reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_13",
+      "start_beat_id": "B003",
+      "end_beat_id": "B010",
+      "start_time": 6.6,
+      "end_time": 48.8,
+      "duration": 42.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B003 to B010 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_13",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B003 immediately establishes the conflict and emotional stakes within seconds: a rigid, aristocratic patriarch announces with disgust, 'You will not leave this church carrying the Ashcroft name,' immediately communicating a severe familial disownment and wedding/church repudiation.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc clearly and cleanly portrays the stakes: a father brutally disowns his daughter for going through with her marriage, stripping her of dowry and inheritance, culminating in the family menacingly demanding the ledger she holds.",
+        "passes_gate": true,
+        "situational_summary": "An aristocratic father disowns his daughter outside a church following her marriage, stripping her dowry and declaring her dead to the family, before the stepmother moves to seize a family ledger.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_13",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and family cast-out: Lord Ashcroft explicitly strips his daughter of her name, dowry, and inheritance, declaring her dead to the family while Juliana shifts from heartbreak to quiet defiance before Lady Ashcroft moves in to claim the ledger.",
+        "relative_rank_justification": "Very high emotional resonance driven by the visceral cruelty of formal paternal rejection ('You leave as no daughter of mine', 'you are dead to the Ashcroft family') and Juliana's raw shock clutching her heirloom and ledger, followed by her defiant retort ('You chose that long before today'). It rates a strong 4 as it represents acute personal abandonment and family rupture, just shy of a peak climactic rupture (5) since the confrontation is interrupted by Lady Ashcroft's intervention over the ledger rather than a final irreversible narrative resolution."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_13",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major relationship milestone: Juliana's completed marriage to the mysterious man, followed by her father formally and publicly disowning her, revoking her dowry and inheritance, and declaring her dead to the Ashcroft family, while Lady Ashcroft moves to seize the ledger.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral family betrayal reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_14",
+      "start_beat_id": "B003",
+      "end_beat_id": "B011",
+      "start_time": 6.6,
+      "end_time": 51.8,
+      "duration": 45.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B003 to B011 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_14",
+        "opening_legibility": true,
+        "opening_rationale": "In strict isolation, Beat B003 immediately establishes the high-stakes conflict and setting: an aristocratic patriarch (Lord Ashcroft) with a look of disgust delivers an explicit ultimatum stripping someone of their family name right at a church.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full arc, the clip presents a completely self-contained dramatic confrontation: a father formally disowns, strips dowry and inheritance from his newly married daughter outside the chapel, while the stepmother/family moves to seize her deceased mother's ledger.",
+        "passes_gate": true,
+        "situational_summary": "An aristocratic patriarch formally disowns and disinherits his daughter immediately after she speaks her marriage vows at church, while her family attempts to seize her late mother's ledger.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_14",
+        "emotional_salience_score": 4,
+        "emotional_core": "Formal paternal disownment and stripping of maternal legacy: Lord Ashcroft violently strips Juliana of name, dowry, and daughterhood, while Lady Ashcroft attempts to confiscate the final keepsake of her deceased mother.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues and camera indications, this candidate depicts severe parental rejection and personal cruelty ('You leave as no daughter of mine', 'you are dead to the Ashcroft family', and the attempt to take her dead mother's ledger). While Juliana shows defiant pushback ('You chose that long before today'), the scene functions primarily as agonizing exile and vulnerability rather than the absolute irreversible climax or final revenge transformation of the series."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_14",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major status-quo-shattering milestone: Juliana's complete and formal disownment by Lord Ashcroft ('dead to the Ashcroft family', dowry and inheritance revoked) immediately following her marriage, alongside the family's aggressive demand for her late mother's ledger.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral family betrayal hook"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_15",
+      "start_beat_id": "B003",
+      "end_beat_id": "B012",
+      "start_time": 6.6,
+      "end_time": 54.0,
+      "duration": 47.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B003 to B012 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_15",
+        "opening_legibility": true,
+        "opening_rationale": "In strict isolation, Beat B003 immediately establishes high-stakes family disownment/rejection: a stern aristocratic patriarch directly declares to an unseen listener, 'You will not leave this church carrying the Ashcroft name.' Within 4 seconds, the setting (a church), the dynamic (aristocratic family name stripping), and the central conflict (expulsion/disownment) are instantly legible to a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 47.4s arc presents a self-contained, escalating drama where a father publicly disowns his daughter for marrying against his will, stripping her dowry and inheritance, followed by the stepmother/matriarch ruthlessly seizing her deceased mother's ledger. The victim, antagonists, stakes, and cliffhanger confrontation are completely clear without external backstory.",
+        "passes_gate": true,
+        "situational_summary": "Following a forbidden church wedding, an aristocratic father disowns his daughter and strips her inheritance, while her cruel stepmother attempts to confiscate her late mother's ledger.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_15",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment escalating into maternal relic theft: a father strips his daughter of dowry, inheritance, and identity ('you are dead to the Ashcroft family'), swiftly followed by the stepmother violently seizing the deceased mother's final keepsake.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues, the scene delivers visceral familial rejection and raw vulnerability as Juliana clutches her mother's ledger ('It is all I have left of her') while her father disowns her. While it lacks the ultimate transformative revenge climax of a 5, the combination of formal psychic rupture, public family abandonment, and cruel material deprivation firmly places it above standard friction in tier 4."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_15",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major relationship and status quo rupture: Juliana's formal disownment by Lord Ashcroft, the total revocation of her dowry and inheritance, and Lady Ashcroft seizing her late mother's heirloom ledger.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent viral confrontation reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_16",
+      "start_beat_id": "B004",
+      "end_beat_id": "B007",
+      "start_time": 10.5,
+      "end_time": 33.4,
+      "duration": 22.9,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B004 to B007 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_16",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 immediately establishes the core familial tension and situation within seconds: a daughter informing/confronting her father that she has just married someone ('The vows are spoken, Father. I am his wife now') while touching an heirloom pendant, instantly communicating an unauthorized or contentious marriage dynamic to a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip forms a self-contained, high-stakes confrontation where the father disowns and strips the daughter of her dowry and inheritance in response to her marriage, ending on an emotional cliffhanger of disbelief. The victim, antagonist, and stakes are fully understandable without needing outside lore.",
+        "passes_gate": true,
+        "situational_summary": "A defiant daughter tells her father she has married, prompting him to ruthlessly disown her, revoke her dowry and inheritance, and declare her dead to the family.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_16",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and psychic rupture: Lord Ashcroft methodically revokes Juliana's dowry, inheritance, and filial identity ('dead to the Ashcroft family') right after her vows, reducing her defiant marriage confirmation into immediate shock and pleading grief.",
+        "relative_rank_justification": "High emotional resonance: based on script directions and dialogue cues, the sequence moves from Juliana's tender assertion of marriage to a devastating familial excision and public castigation, matching Level 4 anchor characteristics of acute, non-physical parental abandonment and vulnerability before any potential climactic turnaround."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_16",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot and relationship milestone: Juliana's father formally disowning her, revoking her dowry and inheritance, and declaring her dead to the family right after her marriage vows.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral drama reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_17",
+      "start_beat_id": "B004",
+      "end_beat_id": "B008",
+      "start_time": 10.5,
+      "end_time": 41.5,
+      "duration": 31.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B004 to B008 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_17",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 immediately establishes the central dynamic and stakes: a daughter directly facing her father and declaring defiance or finality after an unauthorized or contentious marriage ('The vows are spoken, Father. I am his wife now.'). A cold viewer instantly understands the familial confrontation.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 31.0s clip presents a completely coherent and self-contained dramatic arc. The father disowns his newlywed daughter, revoking her dowry, inheritance, and family name, while the daughter confronts his cruelty with resolute defiance alongside her new husband.",
+        "passes_gate": true,
+        "situational_summary": "A defiant daughter informs her father that she has married, prompting him to ruthlessly disown her and strip her dowry and inheritance outside the chapel.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_17",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and psychic rupture: Lord Ashcroft strips Juliana of dowry, inheritance, and filial identity ('dead to the Ashcroft family'), shifting from Juliana's initial plea to a cold, painful confrontation of family abandonment.",
+        "relative_rank_justification": "High emotional resonance: features direct familial repudiation and deep personal vulnerability ('You are my father!'), elevated further by Juliana's tragic parting realization ('You chose that long before today'). It rates above standard confrontation/friction (Score 3) due to permanent relational stakes, but sits just beneath an existential series turning point/cataclysmic reveal (Score 5)."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_17",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major relationship milestone and status-quo-shattering event: Juliana confirms her marriage to the mysterious man, resulting in Lord Ashcroft formally disowning her, revoking her dowry and inheritance, and casting her out of the Ashcroft family completely.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / dramatic confrontation hook"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_21",
+      "start_beat_id": "B004",
+      "end_beat_id": "B012",
+      "start_time": 10.5,
+      "end_time": 54.0,
+      "duration": 43.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B004 to B012 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_21",
+        "opening_legibility": true,
+        "opening_rationale": "The opening beat immediately establishes the core situational dynamic and stakes: a daughter confronting her father while touching an heirloom pendant, declaring that the marriage vows have already been spoken and she is now another man's wife.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc presents a complete, self-contained dramatic confrontation where a tyrannical father and stepmother disown and strip a newly married daughter of her dowry, inheritance, and her deceased mother's ledger, escalating to a high-stakes physical standoff at the chapel steps.",
+        "passes_gate": true,
+        "situational_summary": "A defiant daughter informs her rigid father that she has married, prompting her family to disown her, strip her inheritance, and forcefully seize her late mother's ledger.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_21",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and cruel confiscation of a maternal keepsake: Lord Ashcroft strikes a psychological blow by declaring his daughter dead to the family and stripping her dowry/inheritance, immediately compounded by Lady Ashcroft seizing the mother's ledger.",
+        "relative_rank_justification": "High emotional resonance: based on script directions and dialogue cues, the scene delivers visceral personal betrayal and abandonment ('You leave as no daughter of mine', 'From this moment, you are dead to the Ashcroft family') paired with raw vulnerability as Juliana clutches her mother's heirloom ledger. It stops just short of a Level 5 peak turning point, as it functions as an intense expulsion rather than an irreversible climax or resolute transformation into cold vengeance."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_21",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot and relationship milestone: Juliana has married against family wishes, resulting in her father formally disowning her, stripping her of dowry and inheritance, and Lady Ashcroft attempting to confiscate her late mother's ledger.",
+        "ideal_ad_placement": "High-intent prospecting / viral shock reel / mid-funnel retargeting"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_22",
+      "start_beat_id": "B004",
+      "end_beat_id": "B013",
+      "start_time": 10.5,
+      "end_time": 69.0,
+      "duration": 58.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B004 to B013 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_22",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 immediately establishes the central familial defiance and conflict within seconds: a daughter in bridal attire confronting her father with the declaration, 'The vows are spoken, Father. I am his wife now,' making the dynamic and defiant marital stake clear without needing prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate presents a completely self-contained dramatic arc: a daughter defiantly announces her marriage against her father's wishes, is ruthlessly disowned and stripped of dowry/inheritance, and is humiliated when her stepmother and rival family members violently tear away and cast her deceased mother's legacy into the mud.",
+        "passes_gate": true,
+        "situational_summary": "A newlywed bride defies her father outside the chapel archway, only for him to disown her and revoke her inheritance, culminating in her stepmother wrenching her late mother's heirloom ledger away and flinging it into a rain puddle while family members mock her.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_22",
+        "emotional_salience_score": 5,
+        "emotional_core": "Existential family disownment followed by the public desecration of her deceased mother's sole heirloom, driving the protagonist to her knees in the wet dirt in her bridal gown.",
+        "relative_rank_justification": "Matches the peak dramatic turning point anchors (Score 5): script directions indicate severe psychological and familial devastation, progressing from total paternal disownment ('dead to the Ashcroft family') to Lady Ashcroft violently wrenching and casting her dead mother's ledger into a puddle, capped by Juliana collapsing into the wet courtyard while her sister gleefully mocks her."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_22",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes major family betrayal and status-quo milestones: Juliana has married against her father's will, is formally stripped of her dowry, inheritance, and family name ('dead to the Ashcroft family'), and has her late mother's sacred heirloom ledger snatched and desecrated in the mud by Lady Ashcroft while Gerald and Clarissa mock her.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral shock reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_23",
+      "start_beat_id": "B005",
+      "end_beat_id": "B008",
+      "start_time": 15.8,
+      "end_time": 41.5,
+      "duration": 25.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B008 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_23",
+        "opening_legibility": true,
+        "opening_rationale": "The opening beat immediately establishes a high-stakes, recognizable familial confrontation: an austere patriarch (Lord Ashcroft) outside a chapel formally disowning his daughter ('Then leave as his wife. You leave as no daughter of mine.'). The visual and dialogue establish who is in conflict (father vs. daughter) and the immediate premise (she married against his approval and is being cast out) within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate presents a self-contained, emotionally cohesive dramatic arc. Lord Ashcroft strips her of dowry, inheritance, and name ('you are dead to the Ashcroft family'), while the daughter confronts him on the steps alongside her new mysterious husband, turning the rejection back onto him ('No, Father. You chose that long before today.'). Stakes, antagonist, victim, and the core emotional dynamic are entirely understandable without external lore.",
+        "passes_gate": true,
+        "situational_summary": "A rigid nobleman father disowns and strips his daughter of her inheritance outside a chapel because of who she married, while she and her new husband stand their ground in defiance.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_23",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and confrontation: Lord Ashcroft strips Juliana of dowry, inheritance, and family identity, shifting from Juliana's heartbroken plea into cold, standing defiance against her father's authority.",
+        "relative_rank_justification": "Ranks in the high tier (Score: 4) due to visceral family severance ('dead to the Ashcroft family', 'You are my father!') and the clear emotional reversal at the close ('No, Father. You chose that long before today'), just below an episode's peak catastrophe or violent climax."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_23",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly reveals a major narrative milestone and irreversible status quo break: Juliana's father formally disowns her outside the chapel, revoking her dowry and inheritance ('dead to the Ashcroft family') while confirming she left married to another man.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral drama reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_24",
+      "start_beat_id": "B005",
+      "end_beat_id": "B009",
+      "start_time": 15.8,
+      "end_time": 46.0,
+      "duration": 30.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B009 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_24",
+        "opening_legibility": true,
+        "opening_rationale": "The opening beat immediately establishes the core familial drama and conflict: an unyielding father (Lord Ashcroft outside a chapel) disowning his daughter over her marriage with the clear decree 'Then leave as his wife. You leave as no daughter of mine.'",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip presents a complete, self-contained dramatic confrontation where a father formally disowns, strips inheritance and dowry from his daughter outside a chapel following her marriage, the daughter defies him, and the stepmother/matriarch intervenes to demand the ledger.",
+        "passes_gate": true,
+        "situational_summary": "Outside a chapel, a noble father disowns his daughter and strips her of her inheritance and dowry for marrying against his wishes, leading to a defiant confrontation before Lady Ashcroft moves to seize a ledger.",
+        "missing_context": null,
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_24",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and confrontation: Lord Ashcroft formally revokes his daughter's dowry, inheritance, and familial identity ('dead to the Ashcroft family'), met by Juliana's transition from heartbreak to defiant accountability ('You chose that long before today').",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues, the cold finality of total parental severance and public disinheritance delivers visceral family rejection and vulnerability, falling just short of a peak irreversible climax or complete transformation due to the interrupting interjection of Lady Ashcroft on Beat B009."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_24",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major family and relationship milestone: Juliana's formal, permanent disownment by Lord Ashcroft, the revocation of her dowry and inheritance, and Lady Ashcroft demanding the ledger outside the chapel.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral dramatic conflict reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_25",
+      "start_beat_id": "B005",
+      "end_beat_id": "B010",
+      "start_time": 15.8,
+      "end_time": 48.8,
+      "duration": 33.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B010 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_25",
+        "opening_legibility": true,
+        "opening_rationale": "In strict isolation, Beat B005 immediately establishes a high-stakes, recognizable familial drama within seconds: a father (Lord Ashcroft outside a chapel) is actively disowning his daughter over who she married ('Then leave as his wife. You leave as no daughter of mine').",
+        "arc_legibility": true,
+        "arc_rationale": "The full 33-second arc presents a self-contained, escalating confrontation: a father formally strips his daughter of her dowry, inheritance, and name over her marriage, she confronts him, and a malicious matriarch steps in to demand the ledger she protects, providing clear stakes, antagonists, and victim without requiring outside lore.",
+        "passes_gate": true,
+        "situational_summary": "A rigid aristocratic father formally disowns his daughter outside a chapel over her marriage, stripping her dowry and inheritance, while a smug matriarch moves in to seize a ledger she holds.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_25",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe patriarchal disownment and stripping of identity: Lord Ashcroft publicly revokes Juliana's dowry and declares her dead to the family, met with her visceral heartbreak and initial counter-defiance before Lady Ashcroft moves in to claim the ledger.",
+        "relative_rank_justification": "High emotional resonance: features explicit parental rejection ('dead to the Ashcroft family') and intense vulnerability ('You are my father!'), transitioning to cold defiance ('You chose that long before today'). While it delivers deep psychological betrayal akin to the Episode 1 family abandonment beats, it serves as the escalation leading into the physical confrontation over the ledger rather than the episode's absolute climax."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_25",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major relationship and status-quo shattering milestone: Juliana's father formally disowns her ('dead to the Ashcroft family'), strips her dowry and inheritance, and Lady Ashcroft demands surrender of the family ledger.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral conflict reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_26",
+      "start_beat_id": "B005",
+      "end_beat_id": "B011",
+      "start_time": 15.8,
+      "end_time": 51.8,
+      "duration": 36.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B011 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_26",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 immediately establishes the core familial confrontation and stakes: an unyielding father (Lord Ashcroft) outside a chapel disowning his daughter ('Then leave as his wife. You leave as no daughter of mine.'). The conflict, setting, and relationship are crystal clear within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 36-second arc presents a self-contained, high-stakes confrontation where the father formally disowns the protagonist, revokes her dowry and inheritance, and the stepmother attempts to seize her late mother's ledger, establishing clear victim, antagonist, and stakes without relying on outside lore.",
+        "passes_gate": true,
+        "situational_summary": "A rigid nobleman disowns and disinherits his daughter outside a chapel for marrying against his wishes, culminating in a confrontation where her family demands the return of a ledger belonging to her late mother.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_26",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and weaponized maternal grief: Lord Ashcroft formally strips Juliana of dowry, inheritance, and daughterhood, while Lady Ashcroft attempts to confiscate the ledger\u2014the last physical connection to Juliana's deceased mother.",
+        "relative_rank_justification": "Ranks at high emotional resonance (Score 4) within the episode: features explicit psychological cruelty and public family severance ('you are dead to the Ashcroft family') paired with Juliana's agonizing defense of her mother's memory, rising above standard confrontation but stopping just short of a peak irreversible physical climax or total protagonist transformation."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_26",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly reveals a major status quo milestone and relationship rupture: Juliana is formally disowned by her father, stripped of her dowry and inheritance, declared dead to the family, and coerced by Lady Ashcroft over her late mother's ledger.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent hook / viral drama shock reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_27",
+      "start_beat_id": "B005",
+      "end_beat_id": "B012",
+      "start_time": 15.8,
+      "end_time": 54.0,
+      "duration": 38.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B012 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_27",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 immediately establishes a high-stakes family confrontation: an austere patriarch outside a chapel explicitly disowns his daughter with the cold ultimatum, 'Then leave as his wife. You leave as no daughter of mine.' A cold viewer instantly understands who is in conflict (a father disowning his daughter over who she is marrying) within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 38.2s arc, the familial rejection escalates seamlessly from disownment and revocation of dowry/inheritance to the malicious stepmother/matriarch demanding and seizing the deceased mother's ledger. The victim (Juliana), the antagonists (Lord and Lady Ashcroft), and the emotional and material stakes are completely self-contained and clear without prior episode lore.",
+        "passes_gate": true,
+        "situational_summary": "A rigid nobleman publicly disowns his daughter outside a chapel for marrying against his wishes, revoking her inheritance before the malicious matriarch moves in to forcibly seize her deceased mother's ledger.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_27",
+        "emotional_salience_score": 4,
+        "emotional_core": "Brutal familial disownment and stripping of maternal heirloom: father strips daughter of identity/inheritance ('dead to the Ashcroft family') followed immediately by the stepmother claiming the deceased mother's final keepsake.",
+        "relative_rank_justification": "High emotional resonance: features raw vulnerability and deep psychological rejection from Lord Ashcroft ('You leave as no daughter of mine') and Juliana's heartbreak over her mother's ledger ('It is all I have left of her'). While it falls just short of a Level 5 peak transformation or complete irreversible climax, the combination of total disownment and the cruel confiscation of a maternal keepsake places it firmly in the upper emotional tier of the confrontation."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_27",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes major family betrayal and status-quo shattering milestones: Lord Ashcroft formally revokes Juliana's dowry and inheritance, publicly disowns her ('you are dead to the Ashcroft family'), and Lady Ashcroft attempts to forcibly seize her late mother's ledger.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral conflict reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_28",
+      "start_beat_id": "B005",
+      "end_beat_id": "B013",
+      "start_time": 15.8,
+      "end_time": 69.0,
+      "duration": 53.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B013 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_28",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 immediately establishes the core familial conflict and high stakes in isolation: an unforgiving father (Lord Ashcroft) outside a chapel archway disowns his daughter upon her marriage with the stark lines 'Then leave as his wife. You leave as no daughter of mine.' A cold viewer instantly understands the family rejection and marital ultimatum within the opening seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate arc (B005 -> B013) is completely self-contained and legible. It escalates from the father formally stripping Juliana of her dowry, inheritance, and name, to the stepmother/family seizing and desecrating her deceased mother's ledger in the rain while the rival couple gloats. The victim, antagonists, emotional stakes, and power dynamics are crystal clear without requiring prior episode context.",
+        "passes_gate": true,
+        "situational_summary": "A rigid father publicly disowns and disinherits his daughter at the chapel steps for marrying her new husband, culminating in the cruel stepmother ripping away and throwing her late mother's ledger into a puddle.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_28",
+        "emotional_salience_score": 5,
+        "emotional_core": "Existential devastation and irreversible psychic rupture: total patriarchal disownment ('you are dead to the Ashcroft family') compounded by the violent desecration of her deceased mother's ledger in the muddy puddle, leaving the protagonist weeping on her knees in her soiled wedding gown.",
+        "relative_rank_justification": "Represents the peak dramatic turning point of the episode based on script cues: escalates from formal disenfranchisement (revoked inheritance/dowry) to acute emotional cruelty as her mother's sole remaining keepsake is wrenched away and cast into the dirt while the family gloats, driving the protagonist to complete rock bottom (script-derived evidence, acknowledging live screen execution may vary)."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_28",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes the major relationship rupture and family disownment milestone: Lord Ashcroft formally revokes Juliana's dowry and inheritance, declaring her dead to the family, while Lady Ashcroft and Clarissa desecrate her late mother's ledger in the mud.",
+        "ideal_ad_placement": "High-intent retargeting / mid-funnel emotional hook / viral drama reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_29",
+      "start_beat_id": "B005",
+      "end_beat_id": "B014",
+      "start_time": 15.8,
+      "end_time": 74.5,
+      "duration": 58.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B014 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_29",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 immediately establishes a stark, high-stakes familial conflict within the opening seconds: an unyielding father standing outside a chapel delivering an absolute disownment ultimatum ('Then leave as his wife. You leave as no daughter of mine.'). A cold viewer instantly understands the family rupture and dramatic stakes without needing prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate presents a cohesive, self-contained dramatic arc: the protagonist is formally disowned and stripped of dowry/inheritance by her father, has her deceased mother's heirloom ledger cruelly thrown into the mud by her stepmother/relatives, and drops to her knees in despair until a mysterious new husband/ally steps in to kneel with her and retrieve it.",
+        "passes_gate": true,
+        "situational_summary": "A rigid father disowns his newlywed daughter outside a chapel, after which her cruel family strips her of her inheritance, hurls her late mother's ledger into the wet dirt, and leaves her weeping on her knees until a mysterious man steps in to support her.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_29",
+        "emotional_salience_score": 5,
+        "emotional_core": "Irreversible family rupture and psychological cruelty: formal paternal disownment ('dead to the Ashcroft family') combined with the desecration of the deceased mother's legacy into the mud, answered by an unexpected protector's solidarity.",
+        "relative_rank_justification": "Peak dramatic turning point in this sequence: begins with total disownment, escalates through physical and emotional violation when Lady Ashcroft hurls the mother's ledger into the wet pavement while Clarissa mocks her, and culminates in Juliana weeping on her knees in the rain as the Mysterious Bearded Man kneels in solidarity to recover it. Contains maximum vulnerability and decisive status shift."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_29",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes major narrative milestones: Juliana's father formally disowning her ('dead to the Ashcroft family', dowry and inheritance revoked), Lady Ashcroft violently seizing and desecrating her mother's ledger in the mud with Clarissa and Gerald gloating, and Juliana kneeling in the mud while the mysterious male lead steps in to aid her.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent hook / viral drama shock reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_30",
+      "start_beat_id": "B006",
+      "end_beat_id": "B008",
+      "start_time": 20.8,
+      "end_time": 41.5,
+      "duration": 20.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B006 to B008 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_30",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 immediately grounds a cold viewer in a high-stakes, unambiguous confrontation: an aristocratic patriarch (Lord Ashcroft) descends the steps to explicitly disown and strip a young woman of her dowry and inheritance ('From this moment, you are dead to the Ashcroft family'). The power dynamic, conflict, and emotional stakes are instantly legible within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The 20.7s clip presents a tight, coherent, self-contained dramatic arc. The father disowns his daughter, she protests his paternal duty ('You are my father!'), and after his callous rejection, she delivers a powerful, defiant reversal ('No, Father. You chose that long before today') flanked by an ominous protector. The victim, antagonist, and emotional shift are completely clear without requiring external lore.",
+        "passes_gate": true,
+        "situational_summary": "A patriarch formally disowns his daughter by stripping her dowry and inheritance, but she turns the rejection back on him with defiant resolve.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_30",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental abandonment and disownment: the father formally severs family and inheritance ties ('you are dead to the Ashcroft family'), shifting into the daughter's hurt disbelief before she lands a defiant parting truth.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues, the formal disownment ('dead to the Ashcroft family') and the daughter's plea ('You are my father!') reflect severe familial rupture and vulnerability, comparable to the parental betrayal anchor (Score 4), just short of a peak turning point/psychic devastation (Score 5)."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_30",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly depicts a major relationship and status quo rupture: Lord Ashcroft formally revokes Juliana's dowry and inheritance, disowning her from the family ('you are dead to the Ashcroft family') while introducing the tension of her stolen ledger and defiance.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral drama reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_31",
+      "start_beat_id": "B006",
+      "end_beat_id": "B009",
+      "start_time": 20.8,
+      "end_time": 46.0,
+      "duration": 25.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B006 to B009 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_31",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 immediately establishes high-stakes family disownment visually and verbally in isolation: a powerful patriarch (Lord Ashcroft) descends upon a shocked woman (Juliana) clutching a ledger, explicitly declaring her dowry and inheritance revoked and announcing she is dead to the family.",
+        "arc_legibility": true,
+        "arc_rationale": "Across beats B006 to B009, the full arc presents a complete, self-contained dramatic progression: the father formally disowns his daughter, she confronts him over his abandonment, a mysterious protector quietly observes the confrontation, and the stepmother/matriarch steps forward with malicious authority to seize the ledger.",
+        "passes_gate": true,
+        "situational_summary": "A cruel aristocratic father publicly disowns his daughter by revoking her dowry and inheritance, culminating in a bitter confrontation before the matriarch intervenes to demand her ledger.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_31",
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral parental disownment and confrontation: Lord Ashcroft strips Juliana of dowry and inheritance, declaring her dead to the family, met with her anguished plea of 'You are my father!' followed by her swift, defensive pivot into cold realization.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived evidence, the direct paternal severing of ties ('From this moment, you are dead to the Ashcroft family') paired with Juliana clutching the ledger in shock elevates this far above routine bickering into profound familial rejection, just shy of the episode's peak physical climax or full protagonist transformation."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_31",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major status-quo-shattering milestone: Juliana's formal disownment, the revocation of her dowry and inheritance by her father Lord Ashcroft, and the family's demand for the critical ledger.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent hook / viral emotional drama ad"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_32",
+      "start_beat_id": "B006",
+      "end_beat_id": "B010",
+      "start_time": 20.8,
+      "end_time": 48.8,
+      "duration": 28.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B006 to B010 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_32",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 immediately establishes high-stakes family disownment in isolation: Lord Ashcroft descends the steps and explicitly strips Juliana of her dowry and inheritance, declaring her dead to the Ashcroft family while she clutches a ledger in shock.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 28.0s arc is completely self-contained: the patriarch disowns his daughter, she confronts his emotional estrangement, and the matriarch steps in menacingly to demand the ledger she is protecting, creating a coherent, high-stakes confrontation ending on a cliffhanger.",
+        "passes_gate": true,
+        "situational_summary": "A patriarch formally disowns his heartbroken daughter, stripping her dowry and inheritance, before the family matriarch steps in menacingly to demand the ledger the daughter is clutching.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_32",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and confrontation: a father formally severing ties ('dead to the Ashcroft family') countered by Juliana's shift from heartbreak to sharp counter-accusation ('You chose that long before today'), immediately escalated by Lady Ashcroft's predatory demand for the ledger.",
+        "relative_rank_justification": "Script-derived evidence indicates high emotional resonance: Lord Ashcroft's ritualistic stripping of dowry and inheritance combined with the absolute rejection ('dead to the Ashcroft family') delivers deep psychological stakes, while Juliana's defiance prevents it from reading as passive victimhood. Just shy of a peak score (5) because Lady Ashcroft's interruption at B009\u2013B010 pivots the emotional confrontation into transactional plot mechanics (seizing the ledger) rather than completing an irreversible psychic rupture."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_32",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major status-quo-shattering milestone: Juliana's biological father formally revoking her dowry and inheritance, declaring her dead to the family, and Lady Ashcroft moving in to seize the critical ledger.",
+        "ideal_ad_placement": "High-intent retargeting / mid-funnel emotional hook / viral dramatic clash reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_33",
+      "start_beat_id": "B006",
+      "end_beat_id": "B011",
+      "start_time": 20.8,
+      "end_time": 51.8,
+      "duration": 31.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B006 to B011 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_33",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 immediately establishes high-stakes family disownment within seconds: a patriarch (Lord Ashcroft) descends steps declaring dowry and inheritance revoked, directly pronouncing to a shocked young woman (Juliana clutching a ledger) that she is 'dead to the Ashcroft family'. The dynamic, authority, and brutal conflict are instantly unmistakable to a cold viewer without needing prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "Across beats B006 to B011, the dramatic arc remains completely self-contained and clear: a cruel aristocratic family disowns their daughter, she defies her father, and the stepmother/matriarch moves in to seize the last physical keepsake of her deceased mother (the ledger), ending on a sharp, emotional cliffhanger.",
+        "passes_gate": true,
+        "situational_summary": "A cruel patriarch publicly revokes his daughter's dowry and disowns her, before the family demands she surrender the precious ledger left by her late mother.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_33",
+        "emotional_salience_score": 4,
+        "emotional_core": "Formal paternal disownment and cruel dispossession: moving from the shock of a father revoking dowry/inheritance and declaring his daughter dead to the family, to Juliana defending the final physical keepsake of her deceased mother against a predatory stepmother.",
+        "relative_rank_justification": "High emotional resonance: based on script directions and dialogue, the scene captures an acute parental betrayal ('You are my father!' / 'From this moment, you are dead to the Ashcroft family') paired with Juliana's defiance ('You chose that long before today') and desperate vulnerability over her mother's ledger. It sits distinctly above routine family friction (Score 2-3) and borders on peak rupture, though it lacks the final transformational zenith/climax of a Score 5."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_33",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major relationship and status-quo shattering milestone: Juliana's father formally disowning her, revoking her dowry and inheritance, and demanding the ledger of her late mother while Lady Ashcroft corners her.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent viral shock reel / high-converting hook"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_34",
+      "start_beat_id": "B006",
+      "end_beat_id": "B012",
+      "start_time": 20.8,
+      "end_time": 54.0,
+      "duration": 33.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B006 to B012 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_34",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 immediately establishes high-stakes family disownment visually and verbally within seconds: Lord Ashcroft descends stone steps declaring 'Your dowry is revoked. Your inheritance is revoked... you are dead to the Ashcroft family' directly to a shocked and heartbroken young woman clutching a ledger. The victim, perpetrator, and core conflict are instantly legible to a cold viewer without prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 33.2s clip presents a self-contained, escalating dramatic confrontation: a father formally disowns his daughter, the daughter defiantly challenges his past neglect, and a malicious matriarch steps in to forcibly seize her deceased mother's ledger. The victim, antagonists, and emotional/material stakes are completely clear without requiring prior episode lore.",
+        "passes_gate": true,
+        "situational_summary": "A patriarch brutally disowns his daughter, stripping her dowry and inheritance, before the family matriarch steps in to forcibly seize her deceased mother's ledger.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_34",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental disownment and cruel maternal dispossession: the father formally declares Juliana dead to the family while Lady Ashcroft forcibly strips away the ledger\u2014her last physical keepsake of her deceased mother.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues, the scene escalates from ceremonial paternal abandonment ('From this moment, you are dead to the Ashcroft family') to visceral cruelty as Lady Ashcroft targets a sacred maternal relic. While it does not represent the full protagonist transformation or final turning point seen in peak climaxes (score 5), the emotional stakes far exceed standard verbal bickering or transitional friction."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_34",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major relationship and status quo rupture: Juliana's father explicitly strips her dowry/inheritance and formally disowns her ('dead to the Ashcroft family'), while Lady Ashcroft forcibly seizes her late mother's ledger.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral dramatic conflict reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_35",
+      "start_beat_id": "B006",
+      "end_beat_id": "B013",
+      "start_time": 20.8,
+      "end_time": 69.0,
+      "duration": 48.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B006 to B013 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_35",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 immediately grounds a cold viewer within seconds: a wealthy, authoritative patriarch (Lord Ashcroft descending stone steps) explicitly disowns the protagonist ('Your dowry is revoked. Your inheritance is revoked... From this moment, you are dead to the Ashcroft family') while she clutches a ledger in shock and heartbreak.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 48.2s arc is completely self-contained and dramatic: the disowning by the father escalates into a ruthless confrontation with the stepmother/matriarch over the mother's keepsake ledger, culminating in the ledger being thrown into the puddle while rivals mock her as she drops to her knees in the rain in her bridal gown.",
+        "passes_gate": true,
+        "situational_summary": "A patriarch formally disowns his daughter and revokes her dowry/inheritance, followed by a cruel stepmother seizing her deceased mother's ledger and hurling it into the rain-soaked dirt to publicly humiliate her.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_35",
+        "emotional_salience_score": 5,
+        "emotional_core": "Dual psychic violation: formal paternal disownment ('you are dead to the Ashcroft family') compounded by the violent desecration of her deceased mother's legacy (flinging the sacred ledger into a rain-soaked puddle as her sister laughs and she collapses into the mud).",
+        "relative_rank_justification": "Represents the absolute emotional nadir and peak dramatic turning point of the episode. Script-derived evidence highlights visceral parental severance by Lord Ashcroft transitioning into calculated emotional cruelty by Lady Ashcroft and Clarissa, culminating in Juliana falling to her knees in the wet courtyard oblivious to her ruined wedding gown to reach for the desecrated relic."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_35",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major relationship and disownment milestone: Juliana is formally stripped of her dowry/inheritance and declared dead to her father, while Lady Ashcroft, Clarissa, and Gerald actively humiliate her by casting her mother's sacred ledger into the mud outside the church.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent viral drama hook / lapsed-viewer winback"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_36",
+      "start_beat_id": "B006",
+      "end_beat_id": "B014",
+      "start_time": 20.8,
+      "end_time": 74.5,
+      "duration": 53.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B006 to B014 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_36",
+        "opening_legibility": true,
+        "opening_rationale": "In strict isolation, Beat B006 immediately grounds a cold viewer in a high-stakes, ruthless familial disownment: an authoritative father figure (Lord Ashcroft) descends the steps to explicitly decree 'Your dowry is revoked. Your inheritance is revoked... you are dead to the Ashcroft family' to a heartbroken young woman holding a ledger. The victim, antagonist, and brutal stakes are unmistakably legible within the first few seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 53.7-second progression, the dramatic conflict is completely self-contained and escalating: the family strips the protagonist of her inheritance, her cruel stepmother/matriarch seizes and defiles her deceased mother's ledger in the mud while the rival sister mocks her, and a mysterious protector steps in to assist her at her lowest point. The power dynamics, stakes, and emotional trajectory require zero outside lore to understand.",
+        "passes_gate": true,
+        "situational_summary": "A patriarch disowns his daughter and revokes her inheritance, leading his family to snatch and discard her late mother's ledger into the mud before a mysterious man steps in to help her.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_36",
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak psychological and physical desecration: formal patriarchal disownment followed by the violent ripping and defiling of the dead mother's ledger in the mud, culminating in the protagonist kneeling in the dirt in her bridal gown before an unexpected protector intervenes.",
+        "relative_rank_justification": "Functions as a peak emotional zenith on the 1\u20135 scale, directly mirroring the intensity of worked Example 5 and Example 6. The sequence escalates from irreversible psychic rupture (paternal declaration 'you are dead to the Ashcroft family') to visceral personal cruelty (flinging the dead mother's only legacy into a puddle amidst mocking laughter), pushing Juliana to rock bottom vulnerability."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_36",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes the major relationship and status quo rupture: Lord Ashcroft formally revokes Juliana's dowry/inheritance and disowns her ('dead to the Ashcroft family'), her mother's sacred ledger is seized and cast into the mud while Clarissa and Gerald gloat, and the Mysterious Bearded Man openly steps in to protect/assist her.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent shock hook / viral emotional reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_38",
+      "start_beat_id": "B007",
+      "end_beat_id": "B012",
+      "start_time": 29.5,
+      "end_time": 54.0,
+      "duration": 24.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B007 to B012 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_38",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 opens in media res with an isolated line of dialogue ('You truly mean it? You are my father!') without any visual action, setting, or situational context to explain what decree, betrayal, or decision prompted the reaction. A cold viewer cannot determine what 'it' refers to or what conflict is occurring.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 24.5s clip, the dramatic stakes become fully transparent: a father disowns/estranges his daughter, and a predatory matriarch seizes the daughter's only heirloom from her deceased mother ('the ledger'), establishing clear victim, antagonist, and stakes.",
+        "passes_gate": false,
+        "situational_summary": "A daughter is rejected by her father before a malicious stepmother/matriarch forcibly confiscates a ledger belonging to the daughter's late mother.",
+        "missing_context": "Opening beat B007 begins abruptly in media res ('You truly mean it? You are my father!') without establishing the father's prior decree, rejection, or physical setting. The clip relies on subsequent beats to clarify the conflict, failing opening legibility for a cold viewer.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_38",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_38",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_39",
+      "start_beat_id": "B007",
+      "end_beat_id": "B013",
+      "start_time": 29.5,
+      "end_time": 69.0,
+      "duration": 39.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B007 to B013 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_39",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 opens in media res with only a single ungrounded line of dialogue: 'You truly mean it? You are my father!' There is no visual, physical, or situational context establishing who is speaking, where they are, what decision was made, or what specific conflict prompted this reaction.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 39.5s clip, the familial cruelty and dramatic conflict become completely legible: a disowned bride is confronted by her father and a malicious stepmother/matriarch who seizes and throws her deceased mother's precious ledger into a puddle to mock and humiliate her.",
+        "passes_gate": false,
+        "situational_summary": "A daughter confronts her rejecting father and cruel family members outside a gothic estate as her mother's heirloom ledger is ripped from her hands and thrown into the mud.",
+        "missing_context": "Opening beat B007 drops directly into an emotional reaction ('You truly mean it? You are my father!') without establishing the physical setting, the characters involved, or the decree/action that prompted the confrontation. The clip relies on subsequent beats to retroactively establish the scene.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_39",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_39",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_40",
+      "start_beat_id": "B007",
+      "end_beat_id": "B014",
+      "start_time": 29.5,
+      "end_time": 74.5,
+      "duration": 45.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B007 to B014 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_40",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 consists solely of the dialogue line 'You truly mean it? You are my father!' without any camera direction, visual setting, or clear physical staging. In strict isolation, a cold viewer has no context for what 'it' refers to, who is speaking, who they are speaking to, or what situation or conflict prompted the reaction.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 45.0s sequence, the dramatic stakes, victim, antagonists, and conflict become completely clear: a cruel family disowns the protagonist, strips away and defiles her deceased mother's ledger in the mud, while a mysterious ally steps in to assist her.",
+        "passes_gate": false,
+        "situational_summary": "A disowned daughter is publicly humiliated by her aristocratic family as they throw her late mother's ledger into the rain-soaked dirt, before a mysterious scarred man kneels to help her.",
+        "missing_context": "Opening beat B007 drops into an emotional reaction ('You truly mean it? You are my father!') in media res with zero visual framing, character identification, or situational grounding. The clip depends entirely on subsequent beats to establish the confrontation and family dynamic.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_40",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_40",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_41",
+      "start_beat_id": "B008",
+      "end_beat_id": "B012",
+      "start_time": 33.5,
+      "end_time": 54.0,
+      "duration": 20.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B008 to B012 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_41",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B008 begins mid-confrontation with abstract, metaphorical dialogue ('And you have chosen to become a stranger' / 'No, Father. You chose that long before today') and an unexplained cut to a Mysterious Bearded Man observing Lord Ashcroft. In isolation, a cold viewer cannot tell what concrete event triggered this estrangement, what the tangible stakes are, or who the observing man is.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full arc (B008 to B012), the dramatic stakes become clear and tangible: Juliana is confronting her estranged father and malicious stepmother (Lady Ashcroft), who cruelly seizes a precious ledger left by Juliana's deceased mother.",
+        "passes_gate": false,
+        "situational_summary": "A daughter confronting her estranged father is interrupted by a malicious stepmother who forcibly confiscates the deceased mother's ledger.",
+        "missing_context": "Opening beat B008 drops in media res with vague familial accusations ('chosen to become a stranger') and an unexplained onlooker, lacking the immediate situational grounding of what triggered the estrangement or what concrete dispute is happening until the ledger is introduced in later beats.",
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_41",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_41",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_42",
+      "start_beat_id": "B008",
+      "end_beat_id": "B013",
+      "start_time": 33.5,
+      "end_time": 69.0,
+      "duration": 35.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B008 to B013 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_42",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B008 begins in media res with an unexplained close-up of a 'Mysterious Bearded Man' staring threateningly, followed by an abrupt fragment of mid-conversation dialogue ('And you have chosen to become a stranger' / 'No, Father. You chose that long before today'). In strict isolation, it does not establish what event or dispute just took place, who the bearded man is, or why father and daughter are estranged.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 35.5s arc, the conflict and emotional stakes become completely legible: the malicious stepmother/matriarch Lady Ashcroft publicly seizes and desecrates the heroine's only keepsake of her deceased mother (the ledger) into the mud while her cruel sister mocks her, driving the protagonist to her knees in despair.",
+        "passes_gate": false,
+        "situational_summary": "A daughter faces her estranged father before her cruel stepmother forcibly wrests away her deceased mother's ledger and hurls it into the mud to the mocking laughter of her sister.",
+        "missing_context": "Opening beat B008 drops mid-dialogue without establishing the immediate situation or why an unintroduced bearded man is staring down the father. The opening relies entirely on subsequent beats (B009\u2013B013) to establish the actual conflict over the mother's legacy, failing cold opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_42",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_42",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_43",
+      "start_beat_id": "B008",
+      "end_beat_id": "B014",
+      "start_time": 33.5,
+      "end_time": 74.5,
+      "duration": 41.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B008 to B014 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_43",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B008 immediately establishes a clear, high-stakes familial estrangement and conflict within the first few seconds: a daughter (Juliana) and her father (Lord Ashcroft) stand face-to-face in front of a gothic facade as he accuses her ('And you have chosen to become a stranger') and she sharply retorts ('No, Father. You chose that long before today'), while a mysterious threatening onlooker watches. The dynamic between estranged parent and defiant child is instantly legible to a cold viewer without requiring prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate presents a completely self-contained dramatic arc. The hostile family steps in to strip Juliana of her late mother's heirloom ledger and violently fling it into the muddy courtyard while her rival laughs. Juliana drops into the mud in her bridal gown to save it, culminating in an unresolved cliffhanger as the mysterious man steps in to kneel beside her and help retrieve it. The victim, antagonists, stakes, and emotional turning point are fully coherent on their own.",
+        "passes_gate": true,
+        "situational_summary": "An estranged daughter confronts her rejecting father before her cruel stepfamily publicly humiliates her by throwing her deceased mother's precious ledger into the mud, ending as a mysterious ally steps forward to help her.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_43",
+        "emotional_salience_score": 4,
+        "emotional_core": "Desecration of maternal memory and visceral public degradation: the stepmother wrenches the mother's ledger away and hurls it into a mud puddle, bringing Juliana to her knees in the rain-soaked dirt in her bridal gown amidst mocking family laughter, followed by an unexpected gesture of rescue from a mysterious stranger.",
+        "relative_rank_justification": "Very high emotional resonance (Tier 4) relative to the baseline of family friction: weaponizing the dead mother's last physical relic and throwing it into the mud elevates the cruelty beyond verbal taunts to physical humiliation. It falls just short of a 5 only because Juliana remains in the posture of a weeping victim rather than reaching the climactic psychological reversal or definitive turning-point vengeance of the arc."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_43",
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows standard antagonistic escalation and cruelty: Lady Ashcroft confiscates and throws Juliana's mother's ledger into the mud while Clarissa and Gerald mock her, and an enigmatic bearded stranger steps in to assist. It demonstrates family hostility and emotional conflict without exposing core series secrets, secret identities, or major endgame resolutions.",
+        "ideal_ad_placement": "Cold prospecting / high-curiosity hook / top-of-funnel TikTok & Meta ads"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_44",
+      "start_beat_id": "B009",
+      "end_beat_id": "B013",
+      "start_time": 41.5,
+      "end_time": 69.0,
+      "duration": 27.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B009 to B013 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_44",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 starts in media res with an aristocratic woman stepping forward saying 'Enough sentiment. And the ledger...'. In strict isolation, the line trails off mid-sentence, establishes no opponent or target on screen, and provides zero context as to what sentiment is being cut off, what ledger is being referenced, or what the conflict is about.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the complete 27.5s excerpt, the narrative arc is clear and self-contained: an authoritative matriarch demands and violently wrenches away a deceased mother's precious keepsake/ledger from a bride, discarding it into the rain and mud while rivals mock her public degradation.",
+        "passes_gate": false,
+        "situational_summary": "A cruel matriarch seizes a deceased mother's precious ledger from a bride and casts it into the rain-soaked courtyard while rivals mock the bride's devastation.",
+        "missing_context": "Opening beat B009 enters mid-conversation with an incomplete sentence ('Enough sentiment. And the ledger...') without visually framing Juliana, the wedding setting, or establishing what the ledger represents. It relies entirely on later dialogue (B010\u2013B011) to retroactively clarify the conflict.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_44",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_44",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_46",
+      "start_beat_id": "B009",
+      "end_beat_id": "B019",
+      "start_time": 41.5,
+      "end_time": 96.5,
+      "duration": 55.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B009 to B019 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_46",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 starts in media res with Lady Ashcroft stepping forward saying 'Enough sentiment. And the ledger...' without showing or establishing who she is speaking to, what ledger she is referring to, or what sentimental situation just occurred. In isolation, a cold viewer cannot tell who is in conflict or what is at stake within the opening 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 55.0s clip, the dramatic arc is clear and self-contained: the cruel matriarch snatches the protagonist's late mother's ledger and throws it into the mud, the mocking couple gloats, a mysterious rugged protector intervenes with warmth and dignity to help her reclaim it, and the arrogant antagonist mocks her reduction from noblewoman to beggar's wife.",
+        "passes_gate": false,
+        "situational_summary": "A cruel matriarch casts a bride's deceased mother's keepsake into the mud, but an enigmatic rugged man tenderly helps her retrieve it as her aristocratic abusers mock them.",
+        "missing_context": "Opening beat B009 drops into an unresolved trailing thought ('Enough sentiment. And the ledger...') without showing the recipient, the bridal gown, or the object of contention. It relies on subsequent beats (B010\u2013B013) to establish who is being threatened and why.",
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_46",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_46",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_47",
+      "start_beat_id": "B009",
+      "end_beat_id": "B020",
+      "start_time": 41.5,
+      "end_time": 101.5,
+      "duration": 60.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B009 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_47",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 starts in media res with an aristocratic woman stepping forward saying 'Enough sentiment. And the ledger...', without establishing who she is speaking to, what sentiment she is interrupting, what ledger she is referring to, or what the underlying confrontation is about. In strict isolation, a cold viewer is given an incomplete thought and no visual or situational grounding for the conflict.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 60.0s arc, the situation is completely clear: a cruel matriarch and gloating relatives tear away and desecrate a fallen noblewoman's sole heirloom (her mother's ledger) outside the cathedral, only for a protective mysterious man to rescue the keepsake and issue a stern cliffhanger warning to the mocking ex-groom.",
+        "passes_gate": false,
+        "situational_summary": "A cruel matriarch snatches and defiles a discarded bride's maternal ledger in the mud, but a rugged protector retrieves it and faces down her mocking tormentors.",
+        "missing_context": "Opening beat B009 drops into the middle of an ongoing dialogue ('Enough sentiment. And the ledger...') without showing the recipient, the item, or the situation being interrupted. It relies entirely on later beats (B010\u2013B013) to reveal that she is threatening a bride on the ground over her mother's heirloom.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_47",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_47",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_48",
+      "start_beat_id": "B011",
+      "end_beat_id": "B013",
+      "start_time": 49.0,
+      "end_time": 69.0,
+      "duration": 20.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B011 to B013 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_48",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B011 consists solely of the isolated line 'It belonged to my mother! It is all I have left of her.' with no visual, camera, or action grounding. For a cold viewer in the first 5 seconds, it begins in media res without establishing what 'it' refers to, who is speaking, who they are speaking to, or where the scene is taking place.",
+        "arc_legibility": true,
+        "arc_rationale": "Across beats B011 through B013, the conflict and stakes become fully apparent: Lady Ashcroft cruelty seizes a precious family heirloom ledger from Juliana and throws it into the mud, while the mocking onlookers and Juliana's devastation in her soiled gown clearly identify the victim, antagonists, and emotional cruelty of the scene.",
+        "passes_gate": false,
+        "situational_summary": "A woman's desperate plea to protect her late mother's keepsake is callously dismissed as an antagonist snatches the book and throws it into a rain-soaked courtyard to be mocked by onlookers.",
+        "missing_context": "Opening beat B011 starts abruptly on dialogue referring to an unspecified object ('It belonged to my mother!') without visual, character, or spatial grounding. A cold viewer cannot tell what is at stake or who is in conflict until later beats reveal the ledger and Lady Ashcroft.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_48",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_48",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_50",
+      "start_beat_id": "B011",
+      "end_beat_id": "B019",
+      "start_time": 49.0,
+      "end_time": 96.5,
+      "duration": 47.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B011 to B019 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_50",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B011 contains solely a disembodied line of dialogue ('It belonged to my mother! It is all I have left of her.') with no camera directions, visual action, character presence, or physical setting. In isolation, a cold viewer cannot tell who is speaking, who they are speaking to, what 'it' refers to, where this is taking place, or what the confrontation is about within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 47.5s excerpt, the narrative arc is completely legible: cruel antagonists (Lady Ashcroft, Clarissa, Gerald) snatch and defile a bride's cherished heirloom ledger in the mud, but a mysterious stranger comforts her and helps her retrieve it, while the ex-fianc\u00e9/rival taunts her degradation.",
+        "passes_gate": false,
+        "situational_summary": "A cruel matriarch tears a precious maternal keepsake from a fallen bride and flings it into the mud, but an empathetic stranger retrieves it and stands by her as onlookers mock her fall from grace.",
+        "missing_context": "Opening beat B011 begins in media res with an ungrounded dialogue line ('It belonged to my mother!...') lacking visual staging, characters, or context for what object is being contested. The clip relies entirely on subsequent beats (B012\u2013B013) to establish the confrontation, violating cold opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_50",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_50",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_51",
+      "start_beat_id": "B011",
+      "end_beat_id": "B020",
+      "start_time": 49.0,
+      "end_time": 101.5,
+      "duration": 52.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B011 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_51",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B011 opens strictly with isolated dialogue ('It belonged to my mother! It is all I have left of her.') with zero camera, action, or setting description. A cold viewer cannot tell who is speaking, who they are speaking to, what object is being contested, or what setting/conflict has taken place without relying on subsequent beats.",
+        "arc_legibility": true,
+        "arc_rationale": "Across beats B011 to B020, the full narrative arc is clear and self-contained: a cruel aristocratic family dispossesses and demeans Juliana by throwing her mother's heirloom into the mud, a protective mysterious man comes to her defense and comforts her, and a confrontation escalates with the arrogant antagonist on the cathedral steps.",
+        "passes_gate": false,
+        "situational_summary": "A woman's cherished keepsake from her mother is thrown into the dirt by cruel family members, but a mysterious protector retrieves it for her and issues a stern warning to her mocking ex-fianc\u00e9.",
+        "missing_context": "The opening beat drops in media res with an ungrounded line of dialogue referencing an unseen object ('It belonged to my mother!') without establishing the characters, the physical object, the courtyard setting, or the confrontation in progress. It relies entirely on Beat B012 and onward to retroactively explain what is happening.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_51",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_51",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_53",
+      "start_beat_id": "B012",
+      "end_beat_id": "B014",
+      "start_time": 51.8,
+      "end_time": 74.5,
+      "duration": 22.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B012 to B014 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_53",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 begins in media res with a close-up of a jeweled hand on a bound book and the line 'Then you should have guarded it better.' In strict isolation, a cold viewer has no context for who is speaking, who they are speaking to, what the book represents, or what conflict just transpired.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the complete 22.7s arc, the central conflict becomes clear: an antagonistic matriarch snatches and defiles a bride's mother's heirloom ledger into the mud while mockers laugh, driving the bride to her knees in the rain before an enigmatic savior steps in to assist her.",
+        "passes_gate": false,
+        "situational_summary": "A cruel matriarch tears a precious heirloom ledger from a weeping bride and hurls it into a rain-soaked puddle, but an unexpected stranger kneels to help retrieve it.",
+        "missing_context": "The opening beat (B012) drops into the middle of an exchange ('Then you should have guarded it better') without showing Juliana, setting the stakes of the book, or visually establishing the confrontation. The clip relies on subsequent beats (B013) to establish who is involved and why.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_53",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_53",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_54",
+      "start_beat_id": "B012",
+      "end_beat_id": "B019",
+      "start_time": 51.8,
+      "end_time": 96.5,
+      "duration": 44.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B012 to B019 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_54",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 begins in media res with a close-up of a jeweled hand resting on a bound book and the line 'Then you should have guarded it better.' In strict isolation, a cold viewer has no visual or verbal indication of who is speaking to whom, what the book represents, what setting they are in, or what conflict precipitated this statement.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full candidate arc (B012 -> B019), the dramatic situation becomes completely clear: a cruel noble family member snatches and defiles a bride's deceased mother's legacy in the mud while mockery ensues, prompting an enigmatic, compassionate stranger to rescue the artifact, comfort her, and provoke taunts from the arrogant antagonist on the steps.",
+        "passes_gate": false,
+        "situational_summary": "An aristocratic antagonist seizes and defiles a woman's family legacy in the courtyard mud, but a mysterious stranger comforts her and helps her reclaim it amid public scorn.",
+        "missing_context": "Opening beat B012 drops directly into the middle of a physical dispute over an unidentified bound book ('Then you should have guarded it better') without establishing the setting, the relationship between the parties, or what is being contested before the snatch occurs in B013. The clip relies entirely on later beats to retroactively justify the opening conflict, failing opening legibility in isolation.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_54",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_54",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_55",
+      "start_beat_id": "B012",
+      "end_beat_id": "B020",
+      "start_time": 51.8,
+      "end_time": 101.5,
+      "duration": 49.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B012 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_55",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 begins in media res with an extreme close-up of a jeweled hand on a bound book accompanied by the reactive dialogue 'Then you should have guarded it better.' In strict isolation, a cold viewer has no visual or situational context for who is speaking, who is being spoken to, what the bound book represents, or what setting/conflict has just unfolded. It completely fails to establish who is in conflict and why within the opening 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full candidate excerpt (B012 -> B020), the dramatic situation becomes clear: a cruel noble family member casts a discarded bride's maternal heirloom into the mud, mockingly supported by the smug ex-groom, only for a mysterious, protective man to comfort the bride and deliver a cold counter-threat to the arrogant ex-groom.",
+        "passes_gate": false,
+        "situational_summary": "A cruel noblewoman casts a weeping bride's maternal ledger into the mud as her ex-groom laughs, but a mysterious rugged man retrieves it and warns the ex-groom against further insult.",
+        "missing_context": "Beat B012 opens directly mid-sentence/mid-action ('Then you should have guarded it better' on a bound book) without establishing the setting, the relationship between the parties, or what was being contested. The clip depends on B013 and subsequent dialogue to retroactively clarify the conflict, violating the requirement for cold opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_55",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_55",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_57",
+      "start_beat_id": "B013",
+      "end_beat_id": "B014",
+      "start_time": 54.0,
+      "end_time": 74.5,
+      "duration": 20.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B013 to B014 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_57",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 immediately establishes the conflict and emotional stakes within seconds: a woman in authority violently wrenches a treasured heirloom ('your mother's precious legacy') from a weeping bride and flings it into a puddle, while a mocking couple laughs from the steps and the bride drops to her knees in the mud to retrieve it.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 20.5s arc presents a self-contained dramatic progression: the bride is publicly humiliated and stripped of her mother's legacy by cruel antagonists, followed immediately by a sudden dramatic turnaround when an unexpected, imposing stranger strides in and kneels in the mud to help her retrieve it.",
+        "passes_gate": true,
+        "situational_summary": "A cruel matriarch throws a bride's treasured maternal legacy into a muddy puddle to the mockery of onlookers, but as the weeping bride kneels in the dirt to recover it, a mysterious scarred man kneels beside her to help.",
+        "missing_context": null,
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_57",
+        "emotional_salience_score": 4,
+        "emotional_core": "Desecration of a mother's sacred legacy and total public humiliation, pivoting instantly into unexpected protective solidarity when the Mysterious Bearded Man kneels beside the broken bride in the dirt.",
+        "relative_rank_justification": "High emotional resonance: script cues indicate intense physical and psychological vulnerability (Juliana kneeling in puddle-soaked bridal gown reaching with trembling hands after her mother's ledger is cast into the dirt) combined with callous mockery from Clarissa and Gerald, immediately met by the entry and kneeling gesture of the Mysterious Bearded Man. Anchored at tier 4 as an agonizing personal violation and turning point just shy of the ultimate episode climax."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_57",
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows family cruelty and humiliation (Lady Ashcroft discarding the ledger into the puddle while Clarissa and Gerald mock her) followed by the arrival of the Mysterious Bearded Man stepping in to assist Juliana. While it escalates the conflict and introduces a mysterious ally, it does not reveal the true identity of the stranger, resolve any major conspiracy, or expose a series-altering twist.",
+        "ideal_ad_placement": "Cold prospecting / high-curiosity hook / top-of-funnel TikTok & Meta ads"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_58",
+      "start_beat_id": "B013",
+      "end_beat_id": "B019",
+      "start_time": 54.0,
+      "end_time": 96.5,
+      "duration": 42.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B013 to B019 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_58",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 immediately grounds the viewer in a visceral, recognizable conflict: an antagonistic older woman violently wrenches a ledger from a crying bride and flings it into the wet courtyard, while a mocking couple laughs on the steps and explicitly announces ('Even your mother's precious legacy has been cast into the dirt!') what was taken and why it hurts.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc is self-contained and clear: after being degraded and having her mother's heirloom ledger thrown into the mud by arrogant elites on the church steps, a mysterious rugged stranger steps in to comfort her and help her reclaim it, ending on an arrogant antagonist demeaning her transformation into a 'beggar's wife.'",
+        "passes_gate": true,
+        "situational_summary": "A humiliated bride has her mother's cherished legacy thrown into the mud by sneering aristocrats, but an enigmatic stranger comforts her and helps her reclaim it before being publicly mocked by her former peers.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_58",
+        "emotional_salience_score": 4,
+        "emotional_core": "Desecration of a maternal heirloom met with immediate tender redemption: shifts from visceral public humiliation to deep emotional solace and protection as the stranger reframes her grief.",
+        "relative_rank_justification": "High emotional resonance: features the physical degradation of Juliana dropping into wet mud for her mother's ledger alongside Clarissa and Gerald's cruel mockery, directly countered by the Mysterious Bearded Man's tender reassurance ('They dirtied it. That is not the same thing'). Strong psychological stakes and vulnerability, falling just short of a 5 as it serves as an emotional pivot and bond-forging moment rather than an irreversible climatic transformation or rupture."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_58",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major relationship and status milestone: Juliana's complete humiliation and expulsion by her family, her alignment with the scarred mysterious beggar, and Gerald publicly mocking her new reality as 'a beggar's wife.'",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral dramatic reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_59",
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 54.0,
+      "end_time": 101.5,
+      "duration": 47.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B013 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_59",
+        "opening_legibility": true,
+        "opening_rationale": "Opening beat B013 immediately establishes an intense, recognizable conflict visually and verbally within seconds: a cruel antagonist violently wrenches a precious heirloom ledger from a weeping bride in a white gown and flings it into the wet dirt, while onlookers on the cathedral steps mock her mother's destroyed legacy. The victim, aggressors, emotional stakes, and setting are instantly clear in isolation without needing outside context.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate presents a completely self-contained dramatic arc. Following the bride's public degradation, an enigmatic, supportive protector steps in to retrieve her mother's ledger and comfort her, prompting the arrogant antagonist on the steps to mock her, only for the protector to deliver a chilling, authoritative cliffhanger warning ('Choose your next words carefully'). The victims, antagonists, stakes, and narrative trajectory are completely intelligible to a cold viewer.",
+        "passes_gate": true,
+        "situational_summary": "After a bride's precious family ledger is violently thrown into the mud by cruel family members on the cathedral steps, a mysterious rugged man comforts her and retrieves it, before issuing a menacing warning to the mocking ex-groom.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_59",
+        "emotional_salience_score": 5,
+        "emotional_core": "Desecration to salvation turning point: the visceral cruelty of throwing the mother's legacy into the mud turns immediately into tender alliance and protective authority when the stranger intervenes and threatens Gerald.",
+        "relative_rank_justification": "Peak dramatic turning point for the episode: transitions from the absolute nadir of Juliana's public humiliation and grief (bridal gown soaked in puddle, mother's ledger cast into dirt while family mocks) directly into high emotional intimacy ('They dirtied it. That is not the same thing') and an electric power reversal confronting Gerald."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_59",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals major plot and relationship milestones: Juliana is completely cast out and humiliated, her mother's ledger is desecrated, and she is openly aligned with/married to the 'beggar' (Mysterious Bearded Man) who directly defies Gerald, exposing Gerald's betrayal and Juliana's altered status.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent viral shock & rescue hook"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_60",
+      "start_beat_id": "B013",
+      "end_beat_id": "B021",
+      "start_time": 54.0,
+      "end_time": 105.5,
+      "duration": 51.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B013 to B021 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_60",
+        "opening_legibility": true,
+        "opening_rationale": "The opening beat immediately establishes the visceral conflict within seconds: a cruel antagonist (Lady Ashcroft) violently snatches a sacred family ledger from a bride in her white wedding gown and flings it into the mud, while onlookers mock her and the bride drops weeping to her knees to retrieve it. The human dynamic of cruelty, degradation, and high emotional stakes is instantly clear without outside lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 51.5s clip follows a clear, self-contained dramatic arc: from public humiliation (loss of her mother's legacy book in the dirt) to unexpected chivalric rescue by the Mysterious Bearded Man, culminating in him stepping up to protect her and issuing a chilling warning to the arrogant groom mocking them from above.",
+        "passes_gate": true,
+        "situational_summary": "A bride in a rain-soaked gown has her mother's precious ledger violently cast into the mud by cruel family members, but a mysterious rugged man steps in to retrieve it, comforts her, and confronts her taunting ex-groom.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_60",
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak psychological rupture and protector reversal: the public desecration of Juliana's mother's legacy on the wet stones meets immediate tender emotional rescue and defiance from the Mysterious Bearded Man, flipping helpless public humiliation into protective romantic solidarity.",
+        "relative_rank_justification": "Peak dramatic turning point for the episode baseline. The interval spans the extreme dynamic range of the scene: from visceral cruelty (Lady Ashcroft hurling the ledger into the puddle, Clarissa's gleeful mockery, Juliana sobbing on her knees in the mud) to intimate emotional reclamation ('They dirtied it. That is not the same thing') and an overt shift in status dominance against Gerald on the cathedral steps."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_60",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes major relationship milestones and status-quo shattering events: Lady Ashcroft casting Juliana's mother's legacy ledger into the mud, Gerald mocking her as 'reduced to a beggar's wife', and the dramatic public intervention and tender alliance formed with the Mysterious Bearded Man standing up to Gerald.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent viral shock reel / lapsed-viewer winback"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_61",
+      "start_beat_id": "B014",
+      "end_beat_id": "B019",
+      "start_time": 69.0,
+      "end_time": 96.5,
+      "duration": 27.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B014 to B019 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_61",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 depicts a woman kneeling on damp ground while a mysterious man kneels beside her to pick up a fallen book. In isolation, this beat contains zero dialogue, no defined conflict, and no explanation of who these people are, why she is on the ground, or what event just took place. A cold viewer within the first 5 seconds has no situational grounding as to who is in conflict or what the stakes are.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full arc (B014 -> B019), the dynamic clarifies effectively: the woman has been stripped of everything and humiliated in the dirt with only her mother's ledger left, comforted tenderly by a rugged, impoverished protector, before an arrogant nobleman (Gerald) looks down from above to mock her downfall ('A noblewoman reduced to a beggar's wife!'). The victim, protector, antagonist, and stakes are fully understandable by the end.",
+        "passes_gate": false,
+        "situational_summary": "A disgraced noblewoman weeping in the mud over her mother's ruined ledger is comforted by a humble protector, only to be publicly ridiculed from the steps above by an arrogant nobleman.",
+        "missing_context": "Opening beat B014 begins in media res with unexplained kneeling in the mud and the silent retrieval of a ledger. Without prior context showing why she was cast out or who ruined her belongings, the opening beat alone fails to immediately communicate who is in conflict and why.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_61",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_61",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_62",
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 69.0,
+      "end_time": 101.5,
+      "duration": 32.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B014 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_62",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 in strict isolation depicts a woman kneeling on damp ground while a mysterious man kneels to pick up a fallen ledger. Without prior context or dialogue, a cold viewer cannot establish who is in conflict, who the parties are, or why she is on the ground. It begins in media res around an unexplained object without grounding the conflict or stakes within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 32.5s arc, the situation becomes completely legible: an outcast noblewoman is comforted by her protector over a ruined keepsake belonging to her mother, before an arrogant antagonist (Gerald) mocks her fall from grace, prompting a protective and tense confrontation from the man.",
+        "passes_gate": false,
+        "situational_summary": "A disgraced noblewoman mourning her mother's soiled keepsake is comforted by a protective man, who then confronts an arrogant aristocrat mocking her downfall.",
+        "missing_context": "Opening beat B014 begins in media res with an unexplained ledger on damp ground and an unknown man kneeling beside a woman, lacking immediate establishment of the conflict, the antagonist, or the reason for her distress. It relies on subsequent dialogue (B017\u2013B019) to clarify the situation.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_62",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_62",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_63",
+      "start_beat_id": "B014",
+      "end_beat_id": "B021",
+      "start_time": 69.0,
+      "end_time": 105.5,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B014 to B021 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_63",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B014 shows a woman kneeling on damp ground while a man approaches and kneels to pick up a fallen book. There is no spoken dialogue and no clear indication of conflict, who the antagonist is, or why she is on the ground. It begins in media res without establishing a recognizable dramatic conflict or betrayal within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 36.5s arc, the situation becomes clear: the protagonist has been cast out or degraded, comforted by a protective rough-hewn man over her mother's ledger, when an arrogant aristocrat on the steps mocks her degradation ('noblewoman reduced to a beggar's wife') and is met with a stern, protective threat from her defender.",
+        "passes_gate": false,
+        "situational_summary": "A disgraced noblewoman mourning her soiled heirloom is comforted by a protective man, who then confronts and warns an arrogant aristocrat mocking her downfall.",
+        "missing_context": "Opening beat B014 drops into an unexplained quiet action (kneeling to pick up a book on damp ground) without establishing who the characters are, what humiliation or conflict took place, or who the antagonist is. It relies on subsequent dialogue (B018-B019) to clarify the conflict, failing the cold opening legibility requirement.",
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_63",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_63",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP005_64",
+      "start_beat_id": "B018",
+      "end_beat_id": "B021",
+      "start_time": 85.5,
+      "end_time": 105.5,
+      "duration": 20.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B018 to B021 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP005_64",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B018 in isolation begins in media res with an emotional, intimate moment: a weeping woman clutching a soiled book while a man tells her 'Let them keep everything else.' For a cold viewer swiping into this video, it completely lacks situational grounding\u2014there is no antagonist present, no clear conflict established, and no context for who 'them' refers to, what was taken from her, or why she is clutching a soiled book.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 20.0s arc, the situation becomes legible: an arrogant noble/former peer (Gerald) looks down from stone steps mocking her fall from noble status to a beggar's wife, while the mysterious protector stands up to him with a quiet threat ('Choose your next words carefully') and guides her away.",
+        "passes_gate": false,
+        "situational_summary": "A tearful fallen noblewoman clutching her mother's keepsake is comforted by a mysterious protector as an arrogant man mocks her reduced status, only to be intimidated by the protector.",
+        "missing_context": "The opening beat (B018) drops into an unexplained emotional aftermath referencing an unseen 'them' and an unexplained 'soiled book' without visual or verbal grounding of the conflict or the antagonist. The clip relies on Gerald appearing in beat B019 to retroactively clarify the situation, failing cold opening legibility.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP005_64",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP005_64",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    }
+  ]
+}

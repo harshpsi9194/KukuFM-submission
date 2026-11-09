@@ -1,0 +1,231 @@
+{
+  "episode_number": 6,
+  "total_scored": 9,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP006_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "start_time": 0.0,
+      "end_time": 33.7,
+      "duration": 33.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 clearly establishes the physical premise and characters immediately: a woman in a mud-soaked white wedding gown and dark cloak trudging through the dark rainy woods alongside a mysterious bearded man.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is self-contained: an escaped/humiliated bride finding refuge in an impoverished woodland cottage with a quiet, remorseful companion.",
+        "passes_gate": true,
+        "situational_summary": "A runaway bride in a mud-soaked wedding dress walks through the rainy woods with a scarred man to seek refuge in a rustic cottage away from past humiliation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Somber resilience and quiet dignity following traumatic humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the immediate aftermath of the ruined wedding day and introduces the rustic cottage refuge."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_02",
+      "start_beat_id": "B002",
+      "end_beat_id": "B010",
+      "start_time": 7.1,
+      "end_time": 33.7,
+      "duration": 26.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 opens abruptly on a close-up of a scarred man saying 'I know this is not the life you came from' without the establishing visual context of the muddy wedding dress or the rainy forest journey.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue eventually explains the disparity and past humiliation, but requires context that was omitted in the opening beat.",
+        "passes_gate": false,
+        "situational_summary": "A scarred man guides a woman through the rain to a secluded cabin, promising shelter from past humiliation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Sympathetic remorse and quiet stoicism"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the bride's fall in status and refuge in the forest."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_03",
+      "start_beat_id": "B011",
+      "end_beat_id": "B019",
+      "start_time": 33.7,
+      "end_time": 61.3,
+      "duration": 27.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B011 opens on an ungrounded action of entering a dark barren room without showing who she is, what she is wearing (her cloak still covers the bridal gown), or why they are there.",
+        "arc_legibility": false,
+        "arc_rationale": "Ends on a blunt, unresolved cliffhanger line ('I am.') without the critical clarification in Beat B020 ('But not because of you'), leaving the dynamic misleadingly antagonistic and incomplete.",
+        "passes_gate": false,
+        "situational_summary": "A woman enters a leaky, desolate cabin with a somber man who apologizes for his poverty, to which she admits disappointment."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Subdued awkwardness and lingering melancholy"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Atmospheric cabin arrival without substantial plot mechanics revealed."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_04",
+      "start_beat_id": "B011",
+      "end_beat_id": "B022",
+      "start_time": 33.7,
+      "end_time": 74.3,
+      "duration": 40.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B011 begins mid-action on a heavy door creaking open into a dark room without immediate visual grounding of the character's bridal identity or relationship context.",
+        "arc_legibility": true,
+        "arc_rationale": "The extended arc clearly pays off: she removes her cloak to reveal the bridal gown, accepts the humble shelter, and desperately scrubs the table to avoid confronting the grief of everything she lost.",
+        "passes_gate": false,
+        "situational_summary": "Arriving at an impoverished cottage in her damp wedding dress, a bride vigorously scrubs a table to suppress the agonizing grief of everything she just lost."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Frantic emotional coping mechanism masking devastating grief and heartbreak"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals her state of total loss following the ruined wedding and her commitment to staying in the humble cottage."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_05",
+      "start_beat_id": "B015",
+      "end_beat_id": "B022",
+      "start_time": 43.3,
+      "end_time": 74.3,
+      "duration": 31.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 establishes the physical space and interpersonal dynamic immediately: a somber man in a rustic room admits 'This is all I can give you now' while Juliana removes a dark cloak revealing a damp bridal dress underneath. The bridal dress and dialogue ground the bride/humble cabin scenario instantly.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: Juliana copes with the shock of being taken to a rustic cabin in her wedding dress, refusing pity and feverishly cleaning to avoid breaking down over 'everything I lost', while the man offers silent, respectful empathy.",
+        "passes_gate": true,
+        "situational_summary": "After a sudden marriage or escape, a bride in a damp wedding dress confronts her stark new reality in a humble cabin, frantically scrubbing furniture so she won't break down over everything she has lost."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Suppressed heartbreak and stoic endurance following total loss"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the immediate aftermath of the wedding disruption and relocation to the humble cabin."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_06",
+      "start_beat_id": "B021",
+      "end_beat_id": "B030",
+      "start_time": 64.1,
+      "end_time": 106.0,
+      "duration": 41.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B021 opens abruptly mid-chore with Juliana grabbing a rag and declaring 'If this is our home, I want it clean.' Without seeing her wedding dress or prior context, a cold viewer lacks the visual anchor of who these people are, why they are in a rustic cabin, or what prior status was upended.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full duration, the domestic teamwork and Juliana's monologue ('I lost my home today. My family.') clarify that she has lost her aristocratic/former life and is adjusting to this modest shelter with an empathetic companion.",
+        "passes_gate": false,
+        "situational_summary": "A woman and a quiet man build a fire in a rustic shelter as she reflects on losing her entire former life today."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Quiet grief transitioning into tentative warmth and domestic solidarity"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals that Juliana has lost her home and family and is staying in a cabin with a bearded man."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_07",
+      "start_beat_id": "B022",
+      "end_beat_id": "B030",
+      "start_time": 69.5,
+      "end_time": 106.0,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 starts on an ungrounded, mid-emotional breakdown close-up of a woman scrubbing a table and crying 'If I stop now, I will think about everything I lost.' Without prior establishing visuals or context, a cold mobile viewer is dropped into an unanchored mid-scene reaction.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip makes the situation clear by the end through the man's supportive fireplace lighting and Juliana's explicit speech about losing her home, family, and future.",
+        "passes_gate": false,
+        "situational_summary": "A grieving woman breaks down while cleaning a rustic table, but finds quiet solace as a kind stranger tends the hearth beside her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Raw vulnerability and desperate distraction from grief yielding to quiet peace"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts Juliana coping with the immediate fallout of losing her family and status."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_08",
+      "start_beat_id": "B026",
+      "end_beat_id": "B030",
+      "start_time": 81.0,
+      "end_time": 106.0,
+      "duration": 25.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 opens on an extreme close-up of hands striking flint and steel with zero human faces, relationship context, or character establishment. A cold scroller has no idea who is involved or what genre/conflict is taking place.",
+        "arc_legibility": true,
+        "arc_rationale": "Juliana's subsequent lines in Beat B030 ('I lost my home today... My family') explain her tragic circumstances, but cannot retroactively justify the purely mechanical opening shot.",
+        "passes_gate": false,
+        "situational_summary": "A man builds a fire in a stone hearth for a woman who reflects serenely on having lost her home and family that day."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Atmospheric hearth-tending and quiet philosophical resignation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows Juliana and the mysterious man finding refuge in the cabin after her ruined wedding/life."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_09",
+      "start_beat_id": "B027",
+      "end_beat_id": "B030",
+      "start_time": 83.8,
+      "end_time": 106.0,
+      "duration": 22.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B027 establishes a clear physical space (a modest room with a crackling hearth), the two figures present, and an immediate visual dynamic: a man tending a fire and a woman looking on with gratitude in amber firelight.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative context is made explicit in the dialogue without requiring external lore: Juliana has just suffered total loss ('I lost my home today. My family.') and found temporary refuge with a rugged, quiet stranger in modest quarters.",
+        "passes_gate": true,
+        "situational_summary": "Having lost her home and family, a ruined woman finds temporary sanctuary in a modest room by a warm fire with a scarred, mysterious stranger."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Melancholic grief and vulnerability shifting into quiet solace and an impending turn of fate"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses Juliana's state of displacement and loss of status/home (inciting setup/aftermath) without spoiling subsequent conspiracy mechanics or endgame twists."
+      }
+    }
+  ]
+}

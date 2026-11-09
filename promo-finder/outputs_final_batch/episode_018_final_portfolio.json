@@ -1,0 +1,254 @@
+{
+  "episode_number": 18,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP018_08",
+      "absolute_rubric_score": 9.2,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B033",
+        "end_beat_id": "B038",
+        "start_time": 134.5,
+        "end_time": 179.5,
+        "duration": 45.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Our home...",
+        "opening_character": "JULIANA",
+        "rationale": "'Our home... Everything we had is gone' conveys crushing, total material ruin in clean emotional prose."
+      },
+      "cliffhanger": {
+        "final_quote": "They took our home. I will not let them take anything else now.",
+        "final_character": "ALEXANDER",
+        "specific_question": "How will Alexander hunt down and destroy the enemies who burned down their home?"
+      },
+      "situational_summary": "Standing before the burning wreckage of their home, a devastated woman is consoled by her partner, who realizes they were targeted and vows that their attackers will take nothing else.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP018_03",
+      "absolute_rubric_score": 8.8,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.1399,
+      "max_similarity_to_selected": 0.7756,
+      "boundary": {
+        "start_beat_id": "B016",
+        "end_beat_id": "B023",
+        "start_time": 63.0,
+        "end_time": 86.5,
+        "duration": 23.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Alexander!",
+        "final_character": "JULIANA",
+        "specific_question": "Can Alexander intervene in time, or will the falling beam strike Juliana as she cries out?"
+      },
+      "situational_summary": "During an escape from a burning home, a woman breaks free to rescue her mother's ledger from the flames, only to be trapped as a burning rafter splits overhead.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP018_01",
+      "absolute_rubric_score": 8.2,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.0,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.0
+      },
+      "mmr_score": 0.0014,
+      "max_similarity_to_selected": 0.8118,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B006",
+        "start_time": 0.0,
+        "end_time": 22.8,
+        "duration": 22.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Juliana! Get up!",
+        "final_character": "ALEXANDER",
+        "specific_question": "Can Alexander physically carry Juliana out through the roaring blaze before the building collapses?"
+      },
+      "situational_summary": "A young woman awakens trapped in a smoke-filled bedroom during a raging house fire until a man violently kicks down the door to save her.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP018_10",
+      "absolute_rubric_score": 7.8,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.0
+      },
+      "mmr_score": -0.1197,
+      "max_similarity_to_selected": 0.8092,
+      "boundary": {
+        "start_beat_id": "B035",
+        "end_beat_id": "B041",
+        "start_time": 155.0,
+        "end_time": 192.0,
+        "duration": 37.0,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "Someone wanted us out.",
+        "opening_character": "ALEXANDER",
+        "rationale": "'Someone wanted us out' introduces sinister targeted persecution and calculated arson by unseen enemies."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "What ruthless vengeance will Alexander unleash now that he has committed to retaliation?"
+      },
+      "situational_summary": "After their home is burned by unseen enemies, a man vows vengeance while holding a distraught woman before staring into the flames.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP018_12",
+      "absolute_rubric_score": 7.6,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 1.7,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 1.8
+      },
+      "mmr_score": -0.2527,
+      "max_similarity_to_selected": 0.8332,
+      "boundary": {
+        "start_beat_id": "B038",
+        "end_beat_id": "B041",
+        "start_time": 171.0,
+        "end_time": 192.0,
+        "duration": 21.0,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "They took our home. I will not let them take anything else now.",
+        "opening_character": "ALEXANDER",
+        "rationale": "'They took our home. I will not let them take anything else now' is a fierce, vengeful declaration of war against attackers."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "What ruthless vengeance will Alexander unleash now that he has committed to retaliation?"
+      },
+      "situational_summary": "Looking out at the fire that destroyed their home, a scarred man declares war against whoever attacked them.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP018_07",
+      "rank": 3,
+      "recommended_boundary": "B033 -> B037",
+      "similarity": 0.9808,
+      "duplicate_of": "CAND_EP018_08",
+      "reason": "Exceeded near-duplicate threshold (0.9808 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP018_07",
+      "rank": 3,
+      "recommended_boundary": "B033 -> B037",
+      "similarity": 0.9808,
+      "duplicate_of": "CAND_EP018_08",
+      "reason": "Exceeded near-duplicate threshold (0.9808 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP018_02",
+      "rank": 5,
+      "recommended_boundary": "B016 -> B022",
+      "similarity": 0.9357,
+      "duplicate_of": "CAND_EP018_03",
+      "reason": "Exceeded near-duplicate threshold (0.9357 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP018_07",
+      "rank": 3,
+      "recommended_boundary": "B033 -> B037",
+      "similarity": 0.9808,
+      "duplicate_of": "CAND_EP018_08",
+      "reason": "Exceeded near-duplicate threshold (0.9808 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP018_02",
+      "rank": 5,
+      "recommended_boundary": "B016 -> B022",
+      "similarity": 0.9357,
+      "duplicate_of": "CAND_EP018_03",
+      "reason": "Exceeded near-duplicate threshold (0.9357 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP018_07",
+      "rank": 3,
+      "recommended_boundary": "B033 -> B037",
+      "similarity": 0.9808,
+      "duplicate_of": "CAND_EP018_08",
+      "reason": "Exceeded near-duplicate threshold (0.9808 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP018_02",
+      "rank": 5,
+      "recommended_boundary": "B016 -> B022",
+      "similarity": 0.9357,
+      "duplicate_of": "CAND_EP018_03",
+      "reason": "Exceeded near-duplicate threshold (0.9357 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP018_09",
+      "rank": 7,
+      "recommended_boundary": "B035 -> B040",
+      "similarity": 0.9711,
+      "duplicate_of": "CAND_EP018_10",
+      "reason": "Exceeded near-duplicate threshold (0.9711 >= 0.90)"
+    }
+  ]
+}

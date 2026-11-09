@@ -1,0 +1,806 @@
+{
+  "episode_number": 3,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Mocking opening taunt targeting Juliana's status and medallion, though spread across dialogue fragments.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Strong mute legibility: bride abandoned at the altar clutching a keepsake while a rival stands beside the groom.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Blunt, high-stakes accusation of marital theft delivered with sharp emotional rupture.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard medium close-up focused on wounded facial expression with minimal physical action.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct challenge to the rival's unearned status, sustaining verbal conflict.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Static medium two-shot establishing the groom and rival sister at the nave without immediate physical tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Cruel, invalidating retort asserting the protagonist never possessed what was taken.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up smirk from the villainess; clear malice but standard conversational framing.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Desperate reassertion of ownership over the wedding, carrying emotional tension.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up on trembling lips fighting back tears conveys acute emotional vulnerability on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Cold dismissal that serves as a transitional setup rather than an explosive standalone punchline.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Physical intimacy between the rival leaning back into the impassive groom visually reinforces the betrayal.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Decisive, relationship-shattering declaration claiming ownership of the wedding ceremony.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of radiant, villainous triumph clearly registers smug dominance without audio.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Authoritative command halting the dispute, signaling matriarchal intervention.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle entrance of an imperious matriarch in velvet and tiara immediately signals hierarchy and threat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Stinging familial condemnation accusing Juliana of publicly shaming the family.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Downward glare of icy contempt from an authority figure establishes acute social friction.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up reaction shot of tears shimmering as betrayal hits, clearly communicating victimhood on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes confrontation exposing paternal abandonment and asking what will happen to her.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Intercut conversational framing showing an unsympathetic matriarch and a stricken protagonist.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Brutal two-word banishment decree severing familial ties.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up delivery of verbal judgment without dynamic action or framing movement.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Short confused query that relies entirely on preceding context for stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Disbelieving blink in close-up; subtle emotional reaction with low physical arrest.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Dehumanizing insult labeling her a 'discarded daughter' paired with a desperate appeal to sanctuary.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle close-up of fingers white-knuckled around a keepsake locket highlights physical desperation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Defiant assertion of legal/moral right to stand in the chapel against authority.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of clenched teeth and fierce defiance conveys an active standoff on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Vicious verbal stripping of rights delivered as a definitive negation.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up of the matriarch leaning in with sadistic relish emphasizes predatory intimidation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Incomplete sentence setting up the father's rejection across an unresolved clause.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Matriarch gesturing across the packed cathedral exposes the protagonist to public judgment.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Cutting personal rejection explicitly confirming the father has cast her out.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Piercing eye-contact profile glare delivering targeted familial cruelty.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Lethal escalation barking a direct order to armed guards to physically expel the bride.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Sharp physical turn and authoritative command gesture indicate imminent violent action.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Frantic, high-stakes cries of 'Let me go!' and 'Please! Someone!' during an active assault.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: uniform guards physically seize a bride in white silk and rip her white-knuckled grip from the pew.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High wide spectacle: entire congregation watches in stunned silence as guards drag a bride down the cathedral aisle.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Cinematic hero entrance: rugged man in a dark trench coat steps deliberately onto the petal-strewn marble aisle.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Direct, commanding imperative ordering armed guards to release the bride.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tracking shot of an imposing stranger marching down the floral aisle contrasted with the matriarch freezing in shock.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Outraged, furious challenge contesting the intruder's authority in the family chapel.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Furious finger-pointing from the altar steps as a towering figure dwarfs the aisle.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Armed authority shouting a defensive verbal warning to halt.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Armed guard physically squaring up and blocking the stranger while the distressed bride stands behind him.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Short sentence fragment functioning merely as a precursor to an ultimatum.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close profile of a dangerous hero locking eyes with lethal resolve.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Quiet, lethal ultimatum demanding Juliana's release with immense suppressed threat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up highlighting intense focus and facial scars, signaling dangerous capability.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Peak physical scroll-stopper: effortless parry followed by a devastating punch knocking an armed guard unconscious onto stone.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Hysterical, cowardly plea revealing vulnerability and shifting balance of power.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Frantic panicking groom spinning around to rally guards conveys instantaneous disruption.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Striking aftermath visual: hero stands completely unfazed over a crumpled body and turns toward the heroine.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Gentle, caring check-in with low inherent conflict on an auditory level.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intimate two-shot dynamic between rugged savior and breathless bride in bridal silk.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tear-streaked face softly shaking head with wide eyes locked in wonder communicates instant romantic connection.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Chilling, protective warning directly threatening the remaining guard against further physical contact.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Menacing glance toward the armed opposition establishes absolute physical dominance.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Shrieked protest insisting on family sovereignty cut short by the stranger's intervention.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Matriarch screeching from the altar steps juxtaposed with the father wringing hands in shame.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Deeply emotional, romantic defense declaring she should never have to beg anyone to remember her worth.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Stunning romantic framing: hero and bride silhouetted against a stained-glass rose window amid murmuring pews.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Earnest question seeking motives, lacking acute external conflict or high shock value.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on parted lips in quiet astonishment; subtle emotional beat without physical dynamism.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Defiant, enigmatic motivation line asserting pure individual will over societal rules.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Stoic close-up on the hero's calm facial expression.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B038",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of hands wringing a ring, symbolizing internal guilt but lacking broad scroll-stop energy.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B039",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Suspenseful physical action: mysterious stranger reaching into his coat pocket creates an instant curiosity gap.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B040",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of anticipation and trembling focus, reliant on the prior beat's pocket action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B041",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes direct confrontation addressing the betrayal ('You came here to become a wife. They took that from you.').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up revealing a silver ring juxtaposed with a humiliated rival groom petrified in the aisle creates legible high-drama conflict.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B042",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Audacious romantic and social intervention ('I am offering it back') directly overturning the wedding rejection.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up presenting a ring directly to the abandoned bride creates clear, focused narrative tension.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B043",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct challenge highlighting the absurdity and high stakes of the moment ('You don't even know me.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of an overwhelmed protagonist looking down at a ring conveys emotion but is standard conversational reaction framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B044",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Punchy, confident retort ('I know enough.') delivering dramatic tension and intrigue.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard close-up establishing a piercing gaze without dynamic physical movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B045",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No spoken dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: a stranger dropping to one knee before a bride in a cathedral while the groom and family freeze in jaw-dropped shock is 100% legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B046",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive verbal shocker: a formal public proposal ('Lady Juliana... accept my hand.') hijacking another man's ruined wedding.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Heroic low-angle medium close-up of a suitor on bended knee holding a ring high commands visual drama.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B047",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on weeping protagonist shifting into a hopeful smile conveys emotional resolution, though framed as a resolution/fade rather than an urgent opening hook.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana submit to her sister's cruelty or stand up to her at the altar?",
+      "stakes_importance": "Medium \u2014 establishes the sister's usurpation and Juliana's emotional crisis.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the sister and Gerald respond to Juliana's open accusation of betrayal?",
+      "stakes_importance": "Medium \u2014 raises active confrontation before the wedding party.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Gerald speak up in defense of his betrayal or remain silent?",
+      "stakes_importance": "Low \u2014 mid-dialogue exchange continuing Juliana's protest.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why does the sister claim the wedding was never truly Juliana's?",
+      "stakes_importance": "Medium \u2014 introduces a hint of hidden family scheming or illegitimacy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana's desperate plea evoke any remorse from Gerald?",
+      "stakes_importance": "Low \u2014 repetitive re-assertion of ownership without new escalation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Gerald acknowledge Juliana or let the sister dominate the altar?",
+      "stakes_importance": "Low \u2014 incomplete clause leading directly into the sister's boast.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana break down or strike back against her gloating sister's theft of her life?",
+      "stakes_importance": "High \u2014 peak moment of public humiliation and brazen villain triumph.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "What punishment or judgment will the Noble Matriarch impose on Juliana?",
+      "stakes_importance": "Medium \u2014 sudden escalation as the highest family authority intervenes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Juliana defend herself against the Matriarch's accusation of family disgrace?",
+      "stakes_importance": "Medium \u2014 pushes Juliana into total isolation against her matriarch.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana collapse under the weight of her family's collective betrayal?",
+      "stakes_importance": "Low \u2014 emotional reaction shot without active forward question.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 4,
+      "specific_question": "What cruel fate does the family have in store for Juliana after her father's abandonment?",
+      "stakes_importance": "High \u2014 suspended directly on the vulnerable question of her survival and social standing.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "Where is Juliana being cast out to, and will anyone stand up to stop this exile?",
+      "stakes_importance": "High \u2014 dramatic single-word sentence banishing the protagonist from her life.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 2,
+      "specific_question": "Where will Juliana be exiled?",
+      "stakes_importance": "Low \u2014 transitional setup question immediately prompting the Matriarch's answer.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana protect her claim to her late mother's legacy against the Matriarch?",
+      "stakes_importance": "Medium \u2014 introduces the mother's sacred church and Juliana's sole remaining anchor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the Matriarch crush Juliana's last stand of defiance?",
+      "stakes_importance": "Medium \u2014 direct standoff between the victim and family tyrant.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "How far will the Matriarch go to strip Juliana of all remaining family rights?",
+      "stakes_importance": "Medium \u2014 sharp dismissal shutting down Juliana's legal and moral claim.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who has Juliana's father chosen as his true family?",
+      "stakes_importance": "Low \u2014 mid-sentence cliffhanger that defuses quickly across dialogue clauses.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 4,
+      "specific_question": "Now that she is completely disowned, will Juliana be cast out onto the streets or fight back?",
+      "stakes_importance": "High \u2014 absolute parental disownment delivered before the entire congregation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana be dragged out in chains before the congregation, or will someone intervene?",
+      "stakes_importance": "High \u2014 direct order of violent ejection escalating the confrontation from verbal to physical.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will anyone in the cathedral hear Juliana's desperate cries as she is forcefully dragged away?",
+      "stakes_importance": "High \u2014 physical violation and helplessness of the protagonist reaching absolute peak distress.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the silent witnesses permit a defenseless bride to be forcibly expelled?",
+      "stakes_importance": "Medium \u2014 wide perspective emphasizing societal bystander complicity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who is this rugged stranger stepping into the aisle, and will he stop the guards?",
+      "stakes_importance": "High \u2014 classic heroic entrance turning the narrative tide at the moment of peak desperation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will the guards and the Matriarch react to this mysterious stranger commanding them to release Juliana?",
+      "stakes_importance": "High \u2014 direct challenge of authority by an imposing unknown protector.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 4,
+      "specific_question": "What is the stranger's true status or identity that gives him the audacity to command the chapel?",
+      "stakes_importance": "High \u2014 direct demand for identity reveal set against an impending physical clash.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the stranger stand down or physically confront the armed royal guard?",
+      "stakes_importance": "High \u2014 imminent violence suspended between royal force and rogue challenger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will the stranger do when he finishes his warning?",
+      "stakes_importance": "Medium \u2014 incomplete sentence building quiet lethal tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will the guard back down or draw weapons against this lethal stranger?",
+      "stakes_importance": "High \u2014 ultimate verbal ultimatum right before an explosive physical clash.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the rest of the guards and the noble family react now that a royal guard has been dropped with a single punch?",
+      "stakes_importance": "High \u2014 dramatic shock of physical dominance instantly overturning the power dynamic.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the remaining guards swarm the stranger, or will cowardice freeze them in their tracks?",
+      "stakes_importance": "High \u2014 panic from the cowardly former groom demanding mass violence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 3,
+      "specific_question": "What does this dangerous warrior want with Juliana?",
+      "stakes_importance": "Medium \u2014 shifts tone from raw combat to intimate connection.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Juliana respond to this terrifying yet gentle rescuer?",
+      "stakes_importance": "High \u2014 first direct romantic and emotional spark between the leads.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will the stranger do next to protect Juliana from her family?",
+      "stakes_importance": "Medium \u2014 tender beat of emotional validation in the middle of chaos.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the second guard dare to touch Juliana again or heed the stranger's deadly warning?",
+      "stakes_importance": "High \u2014 overt defensive declaration establishing the stranger as her personal protector.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 3,
+      "specific_question": "By what right or power does this stranger claim he can interfere in high nobility affairs?",
+      "stakes_importance": "Medium \u2014 mid-rebuttal cut maintaining tension over his justification.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who is this man to value Juliana when her entire noble family and groom discarded her?",
+      "stakes_importance": "High \u2014 profound emotional catharsis and romantic bond forming against a hostile room.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 4,
+      "specific_question": "What hidden motive or past history drives this dangerous stranger to risk his life for Juliana?",
+      "stakes_importance": "High \u2014 the core narrative mystery of the male lead's intentions.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 3,
+      "specific_question": "Is his motive pure romantic impulse, or is he hiding a deeper clandestine reason?",
+      "stakes_importance": "Medium \u2014 non-committal answer keeping his true background enigmatic.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B038",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana's guilty father speak up to halt the stranger or confess his wrongdoing?",
+      "stakes_importance": "Low \u2014 secondary character regret reaction shot.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B039",
+      "curiosity_gap_score": 5,
+      "specific_question": "What is the stranger reaching into his coat for: a weapon, proof of noble identity, or a marriage token?",
+      "stakes_importance": "High \u2014 suspenseful physical reveal suspended right at the pocket reach.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B040",
+      "curiosity_gap_score": 5,
+      "specific_question": "What shocking object or revelation is about to be drawn from the stranger's coat?",
+      "stakes_importance": "High \u2014 absolute peak curiosity gap suspended on Juliana's breathless reaction before the reveal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B041",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Gerald and the congregation react to an unknown man offering a wedding ring to the abandoned bride?",
+      "stakes_importance": "High \u2014 introduces an audacious challenge to Gerald and the entire cathedral assembly.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B042",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana accept a marriage proposal from an absolute stranger at her ruined wedding?",
+      "stakes_importance": "High \u2014 a life-altering proposition that could redeem Juliana's honor or escalate the scandal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B043",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the stranger convince Juliana when she questions his lack of knowledge about her?",
+      "stakes_importance": "Medium \u2014 tests the stranger's true motives and sincerity in front of the audience.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B044",
+      "curiosity_gap_score": 3,
+      "specific_question": "What does the stranger know about Juliana that gives him such certainty?",
+      "stakes_importance": "Medium \u2014 hints at a deeper backstory or hidden connection between them.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B045",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will the stunned congregation and humiliating ex-groom react to a stranger proposing on bended knee to the rejected bride?",
+      "stakes_importance": "High \u2014 maximum public spectacle and shock reversal, leaving the antagonists completely speechless.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B046",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana accept the stranger's formal proposal and publicly humiliate Gerald in return?",
+      "stakes_importance": "High \u2014 the ultimate cliffhanger question directly poised at the climax of the proposal before any answer is given.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B047",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana speak the word 'yes' to seal the betrothal and complete her vengeance against her former fianc\u00e9?",
+      "stakes_importance": "High \u2014 Juliana's emotional shift and hopeful smile signal acceptance, yet the final verbal confirmation and immediate fallout remain unresolved.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

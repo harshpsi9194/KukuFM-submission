@@ -1,0 +1,331 @@
+{
+  "episode_number": 16,
+  "total_scored": 13,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP016_01",
+      "start_beat_id": "B006",
+      "end_beat_id": "B020",
+      "start_time": 11.2,
+      "end_time": 55.2,
+      "duration": 44.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B006 opens on a tight close-up of Juliana kneeling in the mud whispering 'Alexander...'. While her fear and bandages indicate distress, the physical geography, nature of the immediate threat, and presence of enemies are ungrounded without subsequent beats.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained arc: a protector steps in, neutralizes violent thugs threatening a vulnerable woman, and extracts a confession exposing the mastermind behind the attack.",
+        "passes_gate": false,
+        "situational_summary": "After a man dismantles three thugs assaulting an injured woman, he interrogates their leader and extracts the confession that her former associate sent them."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective combat dominance leading into the stinging shock of betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the identity of the conspiracy architect (Gerald Harrington) who ordered the assault on Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_02",
+      "start_beat_id": "B008",
+      "end_beat_id": "B017",
+      "start_time": 14.3,
+      "end_time": 44.2,
+      "duration": 29.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B008 immediately establishes the physical action and stakes: a medium action shot of an assailant swinging a club with full force and a defender catching the weapon bare-handed mid-air.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is immediately apparent and self-contained: a man protects a wounded woman by subduing attackers, then grabs the leader to interrogate who ordered the hit.",
+        "passes_gate": true,
+        "situational_summary": "A man effortlessly dispatches three thugs attacking an injured woman under the moonlight, then hoists the gang leader by the throat demanding who sent them."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective fury and overpowering physical dominance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the violent assault and interrogation hook without disclosing who actually orchestrated or paid for the attack."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_03",
+      "start_beat_id": "B008",
+      "end_beat_id": "B020",
+      "start_time": 14.3,
+      "end_time": 55.2,
+      "duration": 40.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B008 provides an instant visual anchor: an attacker swinging a heavy club countered mid-air by a defender's bare hand, immediately legible without context or sound.",
+        "arc_legibility": true,
+        "arc_rationale": "A complete, self-contained sequence: violent attack, swift defense/retaliation, tender check on the victim, and a brutal interrogation that forces the confession of the mastermind.",
+        "passes_gate": true,
+        "situational_summary": "A man saves a wounded woman by taking down three armed thugs, then chokes the leader against a wall until he reveals that Gerald Harrington paid for the attack."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral combat protective triumph transitioning into devastating personal betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that Gerald Harrington orchestrated and financed the violent attack against Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_04",
+      "start_beat_id": "B009",
+      "end_beat_id": "B019",
+      "start_time": 16.8,
+      "end_time": 52.8,
+      "duration": 36.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 starts mid-action on a close-up of a thug staring in terror as a bar is wrenched away and he is slammed into the ground, disorienting cold viewers who missed the initial charge and engagement.",
+        "arc_legibility": true,
+        "arc_rationale": "The overall confrontation and subsequent interrogation confession are clear and coherent across the sequence.",
+        "passes_gate": false,
+        "situational_summary": "A man subdues multiple attackers threatening an injured woman and chokes the leader into confessing that Gerald Harrington sent them."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Brutal physical retaliation culminating in an extracted betrayal confession"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key conspirator (Gerald Harrington) behind the violent raid."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_05",
+      "start_beat_id": "B009",
+      "end_beat_id": "B020",
+      "start_time": 16.8,
+      "end_time": 55.2,
+      "duration": 38.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 opens in media res on a close-up of a 'Thug with Cap' staring in terror as Alexander wrenches a bar away and slams him down. Without an establishing shot or prior context, a cold viewer cannot tell where this is taking place, who is defending whom, or what the conflict is about.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression makes the relationship and threat clear: a hero rescues an injured woman from attackers and forces the ringleader to confess who commissioned the assault.",
+        "passes_gate": false,
+        "situational_summary": "After fighting off a gang of attackers who injured a woman, a protective man interrogates one of the thugs and forces him to reveal who sent them."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Furious protective violence followed by the shock of calculated personal betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes Gerald Harrington as the mastermind who hired thugs to attack Juliana and destroy her property."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_06",
+      "start_beat_id": "B011",
+      "end_beat_id": "B020",
+      "start_time": 23.0,
+      "end_time": 55.2,
+      "duration": 32.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B011 opens mid-fight with a charging bald thug shouting 'Aaargh!' before being hurled across a garden path. This is a chaotic in media res combat beat lacking spatial orientation or character grounding for a cold scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip clearly portrays an intense rescue followed by a violent interrogation exposing the mastermind behind the attack.",
+        "passes_gate": false,
+        "situational_summary": "A man overpowers violent thugs threatening an injured woman and chokes their leader until he confesses who hired them."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Brutal physical defense giving way to a devastating confession of betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that Gerald Harrington paid hired muscle to harm Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_07",
+      "start_beat_id": "B012",
+      "end_beat_id": "B020",
+      "start_time": 25.8,
+      "end_time": 55.2,
+      "duration": 29.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 begins on a thug shouting 'Stay back!' with a blunt rod before being swiftly knocked down. It is an ungrounded mid-brawl reaction shot that offers zero physical setup or stakes to a cold mobile user.",
+        "arc_legibility": true,
+        "arc_rationale": "Once Alexander clears the threat, checks Juliana's bloodied hands, and pins the attacker to extract a confession, the core dynamic and stakes are fully understandable.",
+        "passes_gate": false,
+        "situational_summary": "A protector subdues the last of several thugs and extracts a confession revealing who hired them to attack an injured woman."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "High-stakes protective retribution ending on a shocking mastermind reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the identity of the instigator (Gerald Harrington) funding the attack."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_08",
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 28.5,
+      "end_time": 55.2,
+      "duration": 26.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 opens on a clear cinematic wide shot under the full moon: a dominant male figure towering over three defeated thugs writhing in the mud while a woman looks up from her knees. In under 2 seconds, the cold scroller understands the setting, who won the fight, who was rescued, and the basic interpersonal dynamic.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and clean dramatic arc: following the aftermath of the fight, the protector checks on the victim's bleeding hands, then immediately interrogates the thug to reveal who ordered the strike.",
+        "passes_gate": true,
+        "situational_summary": "Standing over defeated thugs in the mud under the moonlight, a man checks on an injured woman before violently forcing one of the attackers to confess who hired them."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective fury transitioning into the cold sting of calculated betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that Gerald Harrington orchestrated and funded the assault on Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_09",
+      "start_beat_id": "B016",
+      "end_beat_id": "B026",
+      "start_time": 38.2,
+      "end_time": 83.19,
+      "duration": 44.99,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B016 opens mid-dialogue on an ungrounded, context-free reply ('Only my hands') and an isolated close-up of bloody bandages without establishing the attacker, defender, or physical setting.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip subsequently clarifies that thugs attacked the cottage/garden, Alexander interrogates and extracts the mastermind's name (Gerald Harrington), and Juliana confronts the betrayal before an intimate aftermath.",
+        "passes_gate": false,
+        "situational_summary": "After a violent garden attack, a wounded woman watches her protector violently extract a confession naming her betrayer before sharing an intimate, vulnerable moment in the moonlight."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Brutal physical retaliation giving way to shocking betrayal and tender romantic awe"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that Gerald Harrington orchestrated the violent garden raid and hired thugs against Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_10",
+      "start_beat_id": "B017",
+      "end_beat_id": "B026",
+      "start_time": 40.8,
+      "end_time": 83.19,
+      "duration": 42.39,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 opens immediately with clear spatial and interpersonal grounding: a medium shot of a man hoisting an attacker against a cottage wall by his collar with a sharp interrogation hook ('Who sent you?').",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic arc: immediate physical confrontation, forced confession naming the orchestrator (Gerald Harrington), fleeing thugs, and the romantic bond forged between the protector and victim.",
+        "passes_gate": true,
+        "situational_summary": "A lethal protector pins an attacker to a cottage wall to force a confession, discovering that a trusted figure named Gerald hired the thugs to destroy the woman's garden."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Violent protective interrogation shifting into shocking betrayal and intimate reverence"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the identity of the antagonist (Gerald Harrington) who hired thugs to destroy the garden."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_11",
+      "start_beat_id": "B018",
+      "end_beat_id": "B026",
+      "start_time": 44.2,
+      "end_time": 83.19,
+      "duration": 38.99,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B018 opens abruptly on a defensive shout ('No one!') and a tight close-up of a gagging man under an iron fist without establishing who is holding him, why, or where the scene takes place.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent interrogation clarifies the assailant, the protector's deadly fury, the confession implicating Gerald, and the tender aftermath between Juliana and Alexander.",
+        "passes_gate": false,
+        "situational_summary": "An interrogation at choking point forces an attacker to reveal Gerald hired him to ruin a garden, leaving a traumatized woman in awe of her dangerous protector."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Intense interrogation tension culminating in a name reveal and lingering romantic connection"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Gerald Harrington is behind the coordinated attack on the garden."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_12",
+      "start_beat_id": "B019",
+      "end_beat_id": "B026",
+      "start_time": 46.2,
+      "end_time": 83.19,
+      "duration": 36.99,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 opens on a tight reaction shot and punchline ('Wrong answer.') in the middle of an already escalated choking physical struggle, lacking initial spatial setup or context for who is attacking whom.",
+        "arc_legibility": true,
+        "arc_rationale": "The interrogation forces the confession naming Gerald Harrington, followed by the attacker fleeing and Juliana recognizing Alexander's lethal combat background and romantic devotion.",
+        "passes_gate": false,
+        "situational_summary": "A lethal man forces a trapped assailant to confess that Gerald Harrington paid for the attack, sparking devastation in the woman he protects and deepening their romantic bond."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Ruthless chokehold interrogation leading to sudden conspiracy betrayal and tender romantic connection"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Gerald Harrington as the secret culprit paying thugs to destroy the protagonist's property."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP016_13",
+      "start_beat_id": "B022",
+      "end_beat_id": "B026",
+      "start_time": 59.0,
+      "end_time": 83.19,
+      "duration": 24.19,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 opens on an ungrounded tight close-up of a bleeding hand flexing with split knuckles. Without an establishing shot, setting context, or visible faces, a cold mobile scroller cannot discern who is present, where this takes place, or the basic interpersonal situation in the first 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full duration, the dynamic becomes clear: Alexander has just fought off danger to protect Juliana, revealing a haunted soldier's past while Juliana responds with awe, tenderness, and blooming romantic interest.",
+        "passes_gate": false,
+        "situational_summary": "In a moonlit garden after a violent fight, a rescued woman approaches her stoic protector and tends to his bleeding hand as an intimate bond forms between them."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Tender aftermath of violence yielding to unspoken protective romance and shared trauma"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the immediate aftermath of a combat sequence and establishes Alexander's military/fighter background alongside nascent romantic tension with Juliana."
+      }
+    }
+  ]
+}

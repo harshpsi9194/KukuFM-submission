@@ -1,0 +1,585 @@
+{
+  "episode_number": 9,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "The frantic mother's desperate cry that her boy is burning with fever instantly establishes urgent life-or-death stakes.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High scroll-stop visual: sudden pounding transitions to a soaked mother clutching a sick swaddled child in the pouring rain.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Urgent procedural command ('Bring him here. Quickly.') but lacks standalone narrative shock.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Clear physical urgency as Juliana reaches out and a trembling mother lays a limp child on the table.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Standard diagnostic questioning with low standalone verbal punch.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medical examination framing with Juliana examining breathing and Alexander watching.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Exposition detailing the child's declining state since yesterday without immediate conflict.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Weeping mother clutching her shawl conveys sadness but standard emotional framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of pulse check and rapid page flipping through an ancient grimoire.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Muttered herbal terminology ('Feverfew... Not alone.') provides little dramatic intrigue.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static insert close-up of an illustrated botanical page.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Listing botanical ingredients ('Chamomile... and willow bark.') with no dramatic punch.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Profile close-up of intense studying with a weeping mother in the blurred background.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Generic single-phrase inquiry ('You're certain?') lacking intrinsic context.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of intense concerned gaze across a table.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Resolute declaration ('I have to be.') shows grit but low standalone context.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Direct eye contact showing resolute conviction in close-up.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Pure logistical request for hot water.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Hurried physical motion gathering bundles of dried herbs.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "Short utilitarian reply ('I'm on it.') with zero narrative stakes.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual or camera events described.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Plea for salvation paired with reassurance ('He is not beyond saving.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Dynamic action with boiling kettle and clasping hands across the table.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Delicate spoon-feeding of medicine to an ailing child while the mother clutches her chest.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Quiet, static shot monitoring the child's pulse.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Panicked question ('Why isn't it working?') introduces immediate medical doubt.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Over-the-shoulder shot capturing frantic maternal body language across the table.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "Single monosyllabic command ('Wait.') offers no narrative hook.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up of a raised finger signaling silence and patience.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Subtle physiological change as sweat beads form on the sleeping child's forehead.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Sobbing realization that the fever is breaking communicates emotional relief.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tender close-up of a weeping mother caressing her child's cheek.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard close-up of a character sighing with gentle relief.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Heartfelt gratitude ('You saved him.') resolves tension rather than creating it.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up of a tearful, grateful face.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Modest dismissal of credit ('The herbs did their work.').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Warm, gentle hand-clasping between two seated figures.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Alexander's warning ('You cannot let the whole village start talking about you') immediately raises suspicious stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Distraught mother departing into rainy twilight followed by a troubled door-closure.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Moral defiance ('A child's life matters more than gossip.') sets up interpersonal conflict.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Unflinching medium close-up placing a mortar down.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Ominous warning ('Gossip has a way of becoming dangerous.') hooks viewer with looming threat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tense close-up with clenched jaw signaling intense anxiety.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Romantic/allied defiance ('Then we will face it together.') provides emotional resolve.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Intimate two-shot profile of characters stepping close and gazing into each other's eyes.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Abrupt visual tonal shift: opulent gothic manor contrasted with a soaked, nervous groom entering.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Standard greeting question ('What is it?') with low inherent tension.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Framed two-shot of a nobleman seated with a servant standing behind.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Ominous herald ('There is a rumor going around, my Lord.') sparks mild curiosity.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Disheveled drenched servant juxtaposed with the annoyed aristocrat lowering his book.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive identity reveal: deceased Duke's identical war scar reported, triggering the nobleman's alarmed demand 'Where?'.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Rapid escalation: extreme close-up of dread-filled eyes to sudden head-snap as smug noble freezes in sheer alarm.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Vague deflection ('No one seems certain.') deflates verbal tension.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Servant shifting uncomfortably in medium close-up.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Attempt to suppress truth ('Then let it remain a rumor.') reveals underlying anxiety.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of masked panic trembling beneath cold aristocratic disdain.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard exit shot as the servant leaves and the doors shut.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Chilling one-word utterance ('Impossible.') directly confirms the threat is real and terrifying.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Atmospheric side profile of isolated nobleman staring blankly into roaring flames in creeping paranoia.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme macro close-up of firelight dancing across a widening, dread-paralyzed iris before cutting to black.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana and Alexander save the dying feverish child brought in from the storm?",
+      "stakes_importance": "Medium \u2014 immediate medical crisis with a child's life hanging in the balance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "What is Juliana's diagnosis of the child's condition?",
+      "stakes_importance": "Low \u2014 procedural medical intake with no unexpected obstacle introduced yet.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 1,
+      "specific_question": "How long has the boy been suffering from the illness?",
+      "stakes_importance": "Low \u2014 minor informational query between caregiver and parent.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 1,
+      "specific_question": "Does Juliana know what ailment is afflicting the boy?",
+      "stakes_importance": "Low \u2014 standard triage information exchange.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Juliana locate the correct cure inside her grimoire before the child's pulse fades?",
+      "stakes_importance": "Medium \u2014 urgency mounts as she searches for an effective herbal remedy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "What missing secondary ingredient does Juliana need to combine with feverfew?",
+      "stakes_importance": "Low \u2014 puzzle-like herb formulation in progress.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana's chosen combination of chamomile and willow bark be potent enough?",
+      "stakes_importance": "Low \u2014 recipe formulation continuing without new complications.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "Is Juliana truly confident in her untested herbal concoction?",
+      "stakes_importance": "Medium \u2014 doubts raised regarding the safety and efficacy of the treatment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana's conviction be enough to brew the remedy in time?",
+      "stakes_importance": "Low \u2014 character resolve affirmed, but procedural steps remain.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Alexander fetch the hot water quickly?",
+      "stakes_importance": "Low \u2014 routine task request during preparation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will Alexander bring the water?",
+      "stakes_importance": "Low \u2014 simple acknowledgement phrase.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Juliana's brew revive the boy as she promises the weeping mother?",
+      "stakes_importance": "Medium \u2014 emotional promise made to a desperate mother.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the boy survive the herbal brew or choke on the administered draught?",
+      "stakes_importance": "Medium \u2014 critical moment of administration with the child coughing weakly.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the boy's pulse stabilize under Juliana's watch?",
+      "stakes_importance": "Medium \u2014 tense quiet vigil over the child's life.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "Has the herbal remedy failed to work, leaving the boy to die?",
+      "stakes_importance": "Medium \u2014 panic peaks as the medicine seemingly produces no immediate result.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will waiting produce a miraculous turn or seal the child's fate?",
+      "stakes_importance": "Medium \u2014 suspended moment of waiting for the medicine to take effect.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 2,
+      "specific_question": "Is the child's fever breaking or is his condition worsening?",
+      "stakes_importance": "Medium \u2014 physical sign of shifting physiological state.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 0,
+      "specific_question": "Did the fever break?",
+      "stakes_importance": "Low \u2014 fully resolved positive outcome; tension dissipated.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 0,
+      "specific_question": "Is Juliana relieved?",
+      "stakes_importance": "Low \u2014 emotional cooldown and resolved tension.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 0,
+      "specific_question": "Did Juliana save the boy?",
+      "stakes_importance": "Low \u2014 complete resolution explicitly stated and celebrated.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 0,
+      "specific_question": "Does the mother thank Juliana?",
+      "stakes_importance": "Low \u2014 gentle closing pleasantries and wind-down.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "What grave danger will village gossip bring down upon Juliana and Alexander?",
+      "stakes_importance": "High \u2014 creates a sudden narrative threat that saving the child may expose their hidden identities or sanctuary.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Juliana really disregard the encroaching threat of village rumors?",
+      "stakes_importance": "Medium \u2014 clash of priorities between compassion and self-preservation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 3,
+      "specific_question": "What specific peril or enemy is Alexander terrified will find them through village gossip?",
+      "stakes_importance": "High \u2014 sharp warning of mortal danger lurking behind unwanted attention.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana and Alexander withstand the looming fallout together as partners?",
+      "stakes_importance": "Medium \u2014 romantic and alliance solidarity forged against an impending unknown threat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why has the nervous, rain-soaked Former Groom entered the Blond Nobleman's study?",
+      "stakes_importance": "Medium \u2014 scene shift introducing new conspiratorial intrigue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 1,
+      "specific_question": "What news does The Former Groom bear?",
+      "stakes_importance": "Low \u2014 standard prompt for exposition.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 2,
+      "specific_question": "What dangerous rumor has reached The Former Groom's ears?",
+      "stakes_importance": "Medium \u2014 anticipation of an incoming plot reveal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 5,
+      "specific_question": "Where is the war veteran bearing the late Duke's scar, and what will the Blond Nobleman do once he finds him?",
+      "stakes_importance": "High \u2014 explosive revelation that the supposedly dead Duke (Alexander) may be alive, shaking the nobleman's power.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the nobleman uncover where the scarred veteran is hiding?",
+      "stakes_importance": "Medium \u2014 uncertainty temporarily stalls the trail.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can the Blond Nobleman suppress the rumor before his position is compromised?",
+      "stakes_importance": "High \u2014 villain attempting to suppress the truth while barely concealing panic.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 2,
+      "specific_question": "What will the Blond Nobleman do now that he is alone with this terrifying rumor?",
+      "stakes_importance": "Medium \u2014 transition beat setting up solitary reaction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 4,
+      "specific_question": "What secret crime or certainty makes the return of the late Duke supposedly 'impossible'?",
+      "stakes_importance": "High \u2014 implies a dark conspiracy or presumed murder behind the late Duke's disappearance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 5,
+      "specific_question": "What dark conspiracy did the Blond Nobleman commit against the Duke that now fills him with paralyzing dread?",
+      "stakes_importance": "High \u2014 climactic cliffhanger cutting to black on sheer villainous panic, confirming the Duke's survival threatens his entire existence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

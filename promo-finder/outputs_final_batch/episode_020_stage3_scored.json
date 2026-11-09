@@ -1,0 +1,231 @@
+{
+  "episode_number": 20,
+  "total_scored": 9,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP020_01",
+      "start_beat_id": "B002",
+      "end_beat_id": "B003",
+      "start_time": 2.8,
+      "end_time": 25.5,
+      "duration": 22.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 opens with a medium wide establishing shot of a lavish drawing room with Catherine in regency attire pouring tea while Rupert stands by the window, immediately grounding period, opulent setting, and aristocratic dynamic within the first 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The interaction establishes Catherine and Rupert's ambitious alliance to claim the Lord of Ashbury title and estate upon cousin Alexander's death, though it cuts off just as the conspiracy is introduced.",
+        "passes_gate": true,
+        "situational_summary": "In an ornate drawing room, an ambitious noblewoman and her suitor celebrate their pending inheritance of a grand estate upon his cousin's death."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Calculated aristocratic ambition and predatory verbal sparring"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Introduces basic premise and setup: the impending succession of Ashbury following cousin Alexander's demise."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP020_02",
+      "start_beat_id": "B002",
+      "end_beat_id": "B004",
+      "start_time": 2.8,
+      "end_time": 30.2,
+      "duration": 27.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 provides a clear visual establishing shot of a lavish drawing room with Catherine in regency dress and Rupert by the window, establishing the aristocratic setting and interpersonal tension right away.",
+        "arc_legibility": true,
+        "arc_rationale": "Presents a coherent scene where two calculating social climbers discuss their succession plan and identify their remaining obstacle: the living Dowager.",
+        "passes_gate": true,
+        "situational_summary": "Two calculating aristocrats plotting to claim a dukedom realize the living Dowager remains an obstacle to their total control of the estate."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Chilling aristocratic entitlement confronting a remaining obstacle"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the core conflict and obstacle: the Dowager's continued survival threatens their succession plan."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP020_03",
+      "start_beat_id": "B002",
+      "end_beat_id": "B005",
+      "start_time": 2.8,
+      "end_time": 39.2,
+      "duration": 36.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 visually anchors the scene with a medium wide shot of a lavish drawing room, Catherine pouring tea in regency dress, and Rupert at the window, immediately orienting a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and complete dramatic progression: Rupert and Catherine lay out their succession claim, identify the Dowager obstacle, and heavily imply foul play behind her mysterious failing health.",
+        "passes_gate": true,
+        "situational_summary": "Two ruthless aristocrats conspire to claim an estate, coldly reveling in the mysterious, lethal decline of the Dowager standing in their way."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sinister conspiratorial malice and chilling complicity in foul play"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals conspiracy mechanics: Rupert's sinister grin and mention of the physicians' bafflement over the Dowager's 'wasting of the lungs' implies deliberate poisoning."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP020_04",
+      "start_beat_id": "B003",
+      "end_beat_id": "B005",
+      "start_time": 15.2,
+      "end_time": 39.2,
+      "duration": 24.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B003 opens mid-conversation on a medium close-up of Catherine drinking tea reacting to a prior statement ('Practically is a word for beggars') with no establishing visual shot of the room or initial grounding of who Rupert is.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue eventually makes clear that they intend to take the Ashbury title upon Alexander's death and are monitoring the Dowager's decline, though the opening is ungrounded.",
+        "passes_gate": false,
+        "situational_summary": "An aristocratic woman rejects a half-measure proposal, conspiring with a suitor who hints at foul play in the failing health of an elderly Dowager."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Predatory ruthlessness and cold complicity in murder"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the conspirators are relying on (or orchestrating) the Dowager's fatal illness to usurp the Ashbury title."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP020_05",
+      "start_beat_id": "B003",
+      "end_beat_id": "B006",
+      "start_time": 15.2,
+      "end_time": 42.5,
+      "duration": 27.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B003 opens in medias res with Catherine saying ''Practically' is a word for beggars' in response to an unstated prior line. Without knowing what 'practically' refers to or who Alexander is, a cold scroller lacks immediate context in the first 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The broader dialogue clearly establishes a scheming aristocratic couple plotting to seize a dukedom by waiting on a cousin's formal death and covertly poisoning an ailing Dowager.",
+        "passes_gate": false,
+        "situational_summary": "An ambitious noblewoman and her scheming suitor plot to seize an aristocratic estate and title by waiting for a cousin's confirmed death while covertly poisoning an ailing Dowager."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold, predatory conspiracy and callous domestic murder plotting"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Rupert's covert assassination mechanism targeting the Dowager ('ensured her quiet comfort')."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP020_06",
+      "start_beat_id": "B009",
+      "end_beat_id": "B011",
+      "start_time": 56.5,
+      "end_time": 81.0,
+      "duration": 24.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 establishes a vivid, grounded visual immediately: a woman with bandaged hands kneeling in barn straw sorting medicinal herbs while a concerned elder enters with a bucket. The physical situation, stakes ('lung fever'), and dynamic are instantly clear without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is entirely self-contained: an exiled viscount's daughter insists on treating dying villagers despite personal injury, refusing to abandon her post even as her loyal elder urges her to rest.",
+        "passes_gate": true,
+        "situational_summary": "A fallen noblewoman with fire-injured hands defies an older servant's pleas to rest, insisting on preparing herbal medicine for a plague-stricken valley in a drafty barn."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Fierce altruistic sacrifice and moral defiance against hardship"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the protagonist's reduced status following a fire and her dedication as the village's sole remaining healer."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP020_07",
+      "start_beat_id": "B009",
+      "end_beat_id": "B012",
+      "start_time": 56.5,
+      "end_time": 88.2,
+      "duration": 31.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 opens on a strong visual and dramatic anchor: a woman with bandaged hands sorting medicinal herbs in straw while an older companion attempts to intervene, instantly grounding the setting and interpersonal dynamic within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely self-contained arc contrasting her noble birth with her present destitution, resolving on an empowering declaration of identity and vengeance ('They have reduced me to myself. And I am not finished.').",
+        "passes_gate": true,
+        "situational_summary": "A disinherited viscount's daughter tending to sick villagers in a cold barn rejects pity from an old ally, declaring that her downfall has only stripped her down to her unyielding true strength."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant defiance breaking through destitution and humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Captures the inciting fall from grace and the declaration of resilience; sets up the revenge arc without spoiling plot mechanics."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP020_08",
+      "start_beat_id": "B013",
+      "end_beat_id": "B016",
+      "start_time": 88.2,
+      "end_time": 109.5,
+      "duration": 21.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 begins with a crisp sensory and visual anchor: an aristocratic woman setting down a fine teacup with venomous contempt, declaring 'Let the peasants rot in their barns.' The character archetype, setting, and callous persona are legible in seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "A self-contained exchange depicting two ruthless schemers reveling in their unopposed dominance over an estate and anticipating the demise of the old Duchess.",
+        "passes_gate": true,
+        "situational_summary": "An arrogant noblewoman and her partner sneer at suffering peasants while plotting to claim full dominion over an ancestral estate once the matriarch dies."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Haughty aristocratic cruelty and villainous entitlement"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Expresses general antagonist intentions to seize the Ashbury estate, serving as a setup teaser without revealing conspiracy details."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP020_09",
+      "start_beat_id": "B013",
+      "end_beat_id": "B017",
+      "start_time": 88.2,
+      "end_time": 114.75,
+      "duration": 26.55,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 immediately grounds the setting and persona visually and aurally: a gloved hand placing a fine porcelain teacup on silver with venomous arrogance, instantly establishing an aristocratic, ruthless villain delivering an explicit, callous decree.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative dynamic and conspiracy are completely self-contained: two conspirators (Catherine and Rupert) reveling in having no rivals and openly plotting to seize the Ashbury estate once the old Duchess is gone.",
+        "passes_gate": true,
+        "situational_summary": "An arrogant noblewoman and her conspirator plot to seize control of the Ashbury estate once the old Duchess is out of the way."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Chilling aristocratic conspiracy and ruthless megalomania"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Explicitly exposes Catherine and Rupert's active conspiracy to eliminate or wait out the Duchess to seize Ashbury."
+      }
+    }
+  ]
+}

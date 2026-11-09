@@ -1,0 +1,670 @@
+{
+  "episode_number": 18,
+  "total_candidates": 12,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP018_01",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 22.8,
+      "duration": 22.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle shot of bright orange flames crackling under a closed bedroom door with smoke billowing delivers immediate visual urgency and danger on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can Alexander physically carry Juliana out through the roaring blaze before the building collapses?",
+        "stakes_importance": "High \u2014 sudden dramatic entrance of the male lead amidst catastrophic inferno to save the female lead.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B001",
+          "end_beat_id": "B006",
+          "start_time": 0.0,
+          "end_time": 22.8,
+          "duration": 22.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP018_02",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B016",
+      "end_beat_id": "B022",
+      "start_time": 63.0,
+      "end_time": 83.5,
+      "duration": 20.5,
+      "hook_signal": {
+        "beat_id": "B016",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle shot looking up at ceiling beams engulfed in roaring fire and splitting down the center provides a looming structural catastrophe.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the massive rafter crush Juliana before she can take a step?",
+        "stakes_importance": "High \u2014 lethal physical danger suspended fractions of a second before impact.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B016",
+          "end_beat_id": "B022",
+          "start_time": 63.0,
+          "end_time": 83.5,
+          "duration": 20.5,
+          "beat_ids": [
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP018_03",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B016",
+      "end_beat_id": "B023",
+      "start_time": 63.0,
+      "end_time": 86.5,
+      "duration": 23.5,
+      "hook_signal": {
+        "beat_id": "B016",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Low-angle shot looking up at ceiling beams engulfed in roaring fire and splitting down the center provides a looming structural catastrophe.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander intervene in time, or will the falling beam strike Juliana as she cries out?",
+        "stakes_importance": "High \u2014 peak life-and-death climax; protagonist is frozen looking upward at imminent catastrophe.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B016",
+          "end_beat_id": "B023",
+          "start_time": 63.0,
+          "end_time": 86.5,
+          "duration": 23.5,
+          "beat_ids": [
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP018_04",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B032",
+      "end_beat_id": "B034",
+      "start_time": 128.5,
+      "end_time": 155.0,
+      "duration": 26.5,
+      "hook_signal": {
+        "beat_id": "B032",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up of a weeping heroine kneeling in the mud, soot-blackened with tears streaming while clutching a charred ledger, communicates total devastation instantly.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 4,
+        "specific_question": "Does Alexander know who targeted them with this devastating arson attack?",
+        "stakes_importance": "High \u2014 shifts the conflict from a natural accident to deliberate sabotage and malicious conspiracy.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B032",
+          "end_beat_id": "B034",
+          "start_time": 128.5,
+          "end_time": 155.0,
+          "duration": 26.5,
+          "beat_ids": [
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP018_05",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B032",
+      "end_beat_id": "B035",
+      "start_time": 128.5,
+      "end_time": 161.0,
+      "duration": 32.5,
+      "hook_signal": {
+        "beat_id": "B032",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up of a weeping heroine kneeling in the mud, soot-blackened with tears streaming while clutching a charred ledger, communicates total devastation instantly.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who ordered the arson against Alexander and Juliana, and why are they targeting them?",
+        "stakes_importance": "High \u2014 explosive narrative revelation confirming targeted malice and an unseen dangerous enemy.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B032",
+          "end_beat_id": "B035",
+          "start_time": 128.5,
+          "end_time": 161.0,
+          "duration": 32.5,
+          "beat_ids": [
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP018_06",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B032",
+      "end_beat_id": "B038",
+      "start_time": 128.5,
+      "end_time": 179.5,
+      "duration": 51.0,
+      "hook_signal": {
+        "beat_id": "B032",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up of a weeping heroine kneeling in the mud, soot-blackened with tears streaming while clutching a charred ledger, communicates total devastation instantly.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B038",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Alexander hunt down and destroy the enemies who burned down their home?",
+        "stakes_importance": "High \u2014 powerful declaration of war and vengeance by the male lead directly targeting their unseen oppressors.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B032",
+          "end_beat_id": "B038",
+          "start_time": 128.5,
+          "end_time": 179.5,
+          "duration": 51.0,
+          "beat_ids": [
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP018_07",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B033",
+      "end_beat_id": "B037",
+      "start_time": 134.5,
+      "end_time": 171.0,
+      "duration": 36.5,
+      "hook_signal": {
+        "beat_id": "B033",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "'Our home... Everything we had is gone' conveys crushing, total material ruin in clean emotional prose.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Wide shot of their cottage completely consumed by towering flames against a pitch-black night sky establishes overwhelming tragedy on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 4,
+        "specific_question": "What deadly vengeance is Alexander plotting against the culprits who torched their home?",
+        "stakes_importance": "High \u2014 dramatic character shift of the male lead from protective partner to ruthless retaliator.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B033",
+          "end_beat_id": "B037",
+          "start_time": 134.5,
+          "end_time": 171.0,
+          "duration": 36.5,
+          "beat_ids": [
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP018_08",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B033",
+      "end_beat_id": "B038",
+      "start_time": 134.5,
+      "end_time": 179.5,
+      "duration": 45.0,
+      "hook_signal": {
+        "beat_id": "B033",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "'Our home... Everything we had is gone' conveys crushing, total material ruin in clean emotional prose.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Wide shot of their cottage completely consumed by towering flames against a pitch-black night sky establishes overwhelming tragedy on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B038",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Alexander hunt down and destroy the enemies who burned down their home?",
+        "stakes_importance": "High \u2014 powerful declaration of war and vengeance by the male lead directly targeting their unseen oppressors.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B033",
+          "end_beat_id": "B038",
+          "start_time": 134.5,
+          "end_time": 179.5,
+          "duration": 45.0,
+          "beat_ids": [
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP018_09",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B035",
+      "end_beat_id": "B040",
+      "start_time": 155.0,
+      "end_time": 186.5,
+      "duration": 31.5,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'Someone wanted us out' introduces sinister targeted persecution and calculated arson by unseen enemies.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Hero drawing her into his arms as she weeps uncontrollably against his shoulder portrays poignant trauma and protection.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B040",
+        "curiosity_gap_score": 5,
+        "specific_question": "What lethal course of action will Alexander unleash in retaliation against their enemies?",
+        "stakes_importance": "High \u2014 the ultimate cliffhanger cut: an explicit, urgent question hanging unanswered over an escalating vendetta.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B035",
+          "end_beat_id": "B040",
+          "start_time": 155.0,
+          "end_time": 186.5,
+          "duration": 31.5,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP018_10",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B035",
+      "end_beat_id": "B041",
+      "start_time": 155.0,
+      "end_time": 192.0,
+      "duration": 37.0,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'Someone wanted us out' introduces sinister targeted persecution and calculated arson by unseen enemies.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Hero drawing her into his arms as she weeps uncontrollably against his shoulder portrays poignant trauma and protection.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 5,
+        "specific_question": "What ruthless vengeance will Alexander unleash now that he has committed to retaliation?",
+        "stakes_importance": "High \u2014 definitive emotional turning point where Alexander embraces unyielding retribution against their enemies as the score swells to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B035",
+          "end_beat_id": "B041",
+          "start_time": 155.0,
+          "end_time": 192.0,
+          "duration": 37.0,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP018_11",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B037",
+      "end_beat_id": "B041",
+      "start_time": 165.5,
+      "end_time": 192.0,
+      "duration": 26.5,
+      "hook_signal": {
+        "beat_id": "B037",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Slow push-in on the male lead's face hardening into a mask of lethal fury delivers strong character resolve legible without sound.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 5,
+        "specific_question": "What ruthless vengeance will Alexander unleash now that he has committed to retaliation?",
+        "stakes_importance": "High \u2014 definitive emotional turning point where Alexander embraces unyielding retribution against their enemies as the score swells to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B037",
+          "end_beat_id": "B041",
+          "start_time": 165.5,
+          "end_time": 192.0,
+          "duration": 26.5,
+          "beat_ids": [
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP018_12",
+      "episode": "Episode 18",
+      "episode_number": 18,
+      "start_beat_id": "B038",
+      "end_beat_id": "B041",
+      "start_time": 171.0,
+      "end_time": 192.0,
+      "duration": 21.0,
+      "hook_signal": {
+        "beat_id": "B038",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "'They took our home. I will not let them take anything else now' is a fierce, vengeful declaration of war against attackers.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up of piercing eyes and a combat scar illuminated by flickering orange firelight creates an intensely arresting thumbnail and opening frame.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 5,
+        "specific_question": "What ruthless vengeance will Alexander unleash now that he has committed to retaliation?",
+        "stakes_importance": "High \u2014 definitive emotional turning point where Alexander embraces unyielding retribution against their enemies as the score swells to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 18,
+          "start_beat_id": "B038",
+          "end_beat_id": "B041",
+          "start_time": 171.0,
+          "end_time": 192.0,
+          "duration": 21.0,
+          "beat_ids": [
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

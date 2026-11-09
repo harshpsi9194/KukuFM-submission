@@ -1,0 +1,331 @@
+{
+  "episode_number": 10,
+  "total_scored": 13,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP010_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B013",
+      "start_time": 0.0,
+      "end_time": 36.5,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 establishes a quiet cottage interior with Juliana studying herbal medicine by firelight before a heavy wooden door bangs open to reveal Alexander panting and clutching a blood-soaked chest. The physical space, characters, and urgent emergency are grounded immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: an injured, stoic man tries to downplay his bleeding wounds ('It is only a scratch'), while a determined woman takes charge, orders him into a chair, and compels him to strip off his shirt to reveal severe scars and lacerations.",
+        "passes_gate": true,
+        "situational_summary": "A woman tending herbs by firelight is startled when an injured man bursts through the door clutching a bloody chest, insisting he is fine until she demands he strip off his shirt to treat his wounds."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Urgent medical shock and stubborn masculine stoicism broken by fierce compassionate authority"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows an inciting physical injury and the dramatic reveal of Alexander's heavily scarred body without revealing larger overarching narrative secrets."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B017",
+      "start_time": 0.0,
+      "end_time": 45.0,
+      "duration": 45.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 clearly establishes the physical setting (cottage hearth) and interpersonal stakes right away as an injured, bleeding Alexander bursts in on Juliana reading by firelight.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear, self-contained dramatic progression from emergency intrusion and stubborn denial to Juliana making him sit, Alexander removing his shirt, and Juliana kneeling in horror and tenderly hovering her hand over his battle-scarred chest.",
+        "passes_gate": true,
+        "situational_summary": "After an injured man bursts into a cottage downplaying his bleeding wounds, a woman forces him to remove his shirt, leading to an intimate confrontation with his brutal scars."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Tense protective friction transitioning into raw, intimate vulnerability and physical trauma reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the sudden injury and the intimate exposure of Alexander's scarred torso, serving as an inciting dramatic hook for cold audiences."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_03",
+      "start_beat_id": "B003",
+      "end_beat_id": "B017",
+      "start_time": 6.8,
+      "end_time": 45.0,
+      "duration": 38.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B003 opens tightly on a close-up of Alexander gasping 'It is nothing' clutching his bloodied coat. Without Beat B001/B002, a cold viewer lacks physical setting grounding, doesn't know where he is or who he is speaking to, and starts mid-reaction.",
+        "arc_legibility": true,
+        "arc_rationale": "Once Juliana enters the frame in Beat B004, the dynamic of an injured man concealing trauma from a caregiver becomes clear across the rest of the clip.",
+        "passes_gate": false,
+        "situational_summary": "A bleeding man claiming he is unhurt is ordered by a woman to sit down and remove his shirt, revealing a chest covered in battle scars."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vulnerable stoicism giving way to tender physical intimacy"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows an injury confrontation and the reveal of Alexander's scarred body."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_04",
+      "start_beat_id": "B013",
+      "end_beat_id": "B025",
+      "start_time": 33.2,
+      "end_time": 63.0,
+      "duration": 29.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 delivers an immediate, unmissable visual hook as Alexander pulls his dark shirt over his head to reveal a muscular torso covered in battle scars and fresh bleeding lacerations; the visual focus and physical situation are instantly legible without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The interpersonal dynamic is entirely clear: Juliana tenderly cleans and applies herbal salve to his battle wounds while teasing his stubborn stoicism, culminating in an intense romantic stare between them.",
+        "passes_gate": true,
+        "situational_summary": "As a scarred, bleeding man removes his shirt, a compassionate woman tends to his wounds with herbal salve while an intense, unspoken romantic tension builds between them."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Tender physical intimacy and unspoken romantic tension masking deep past suffering"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts a tender caretaking moment revealing his scars; does not expose major climactic plot twists or conspiracy mechanics."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_05",
+      "start_beat_id": "B013",
+      "end_beat_id": "B026",
+      "start_time": 33.2,
+      "end_time": 66.2,
+      "duration": 33.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 opens on an immediate, unambiguous visual action: a man pulling off his shirt in close-up to reveal fresh bleeding battle lacerations and scars, instantly establishing the visceral situation without dialogue or lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows a woman tenderly tending to an injured warrior's wounds, shifting from medical care to charged romantic intimacy and mutual longing, completely self-contained with no outside lore needed.",
+        "passes_gate": true,
+        "situational_summary": "While tenderly tending to an injured warrior's battle wounds, a woman finds their caretaking turning into an intense romantic confrontation when she questions his piercing stare."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vulnerable physical caretaking evolving into high-stakes romantic tension"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows an intimate boundary-crossing between the two leads and reveals his battle injuries, serving as an ideal romantic hook without spoiling broader plot mechanics."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_06",
+      "start_beat_id": "B013",
+      "end_beat_id": "B027",
+      "start_time": 33.2,
+      "end_time": 68.8,
+      "duration": 35.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 delivers an instant visual hook as Alexander removes his shirt revealing deep battle scars and bleeding cuts, immediately orienting the viewer to physical vulnerability and injury.",
+        "arc_legibility": true,
+        "arc_rationale": "The trajectory is completely clear: Juliana cleans and dresses Alexander's wounds, and when she asks why he is staring, he delivers a direct romantic confession ('Because you are looking at me').",
+        "passes_gate": true,
+        "situational_summary": "As a woman bandages a stoic warrior's scarred chest, the atmosphere turns intimately charged when he directly confesses he cannot take his eyes off her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Suppressed romantic longing erupting through tender wound care"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Features an inciting romantic confession during an intimate wound-tending scene; safe for prospecting with no major plot revelations."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_07",
+      "start_beat_id": "B013",
+      "end_beat_id": "B029",
+      "start_time": 33.2,
+      "end_time": 74.5,
+      "duration": 41.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 provides a visceral visual anchor with a close-up of a man stripping off his shirt to reveal fresh bleeding cuts and scars, instantly grounding the physical stakes.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and cleanly legible dynamic: physical care of wounds transitioning into palpable romantic escalation as Alexander leans closer while Juliana tries to maintain focus.",
+        "passes_gate": true,
+        "situational_summary": "A woman treating a scarred fighter's wounds is overcome with romantic tension when he defies her instructions and leans intimately close."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Escalating sensual friction and impending romantic surrender"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts an intimate romantic near-kiss between the leads; excellent teaser material that does not spoil external storylines."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_08",
+      "start_beat_id": "B013",
+      "end_beat_id": "B030",
+      "start_time": 33.2,
+      "end_time": 79.0,
+      "duration": 45.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 establishes immediate physical stakes and visual hook with Alexander pulling off his shirt to reveal jagged battle scars and bleeding lacerations.",
+        "arc_legibility": true,
+        "arc_rationale": "Fully self-contained romantic tension arc from medical treatment to a near-kiss, with clear character roles, rising emotional stakes, and no external plot knowledge required.",
+        "passes_gate": true,
+        "situational_summary": "While treating a wounded warrior's scars by firelight, a woman's composure crumbles as they draw mere inches apart on the verge of a passionate kiss."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak breathless romantic tension on the precipice of a first kiss"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Presents a pivotal romantic almost-kiss moment born from wound care; highly engaging for cold acquisition without revealing overarching plot resolutions."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_09",
+      "start_beat_id": "B013",
+      "end_beat_id": "B031",
+      "start_time": 33.2,
+      "end_time": 82.5,
+      "duration": 49.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 opens on an immediate, visceral visual reveal: Alexander pulling his shirt over his head to expose a muscular torso covered in battle scars and fresh bleeding lacerations. The physical state and dramatic stakes are unmistakable in the first 2 seconds without sound.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly develops the intimate dynamic between Juliana and the wounded Alexander. As she cleans his wounds, the tension shifts organically from medical pity to smoldering mutual attraction, culminating in Alexander placing her hand over his beating heart. Completely self-contained and clear without lore.",
+        "passes_gate": true,
+        "situational_summary": "While tending to a stoic warrior's bleeding wounds, a woman's gentle care gives way to mounting romantic tension as he presses her hand against his racing heart."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vulnerable tender care blossoming into electric romantic intimacy and unspoken devotion"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses Alexander's hidden physical injuries and marks a pivotal romantic transition between the leads; highly compelling hook for cold prospecting without spoiling macro plot resolutions."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_10",
+      "start_beat_id": "B013",
+      "end_beat_id": "B032",
+      "start_time": 33.2,
+      "end_time": 86.5,
+      "duration": 53.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 immediately commands attention with a striking visual hook: a man removing his dark shirt to reveal a muscular torso covered in severe battle scars and fresh lacerations, instantly grounding the setting and stakes without sound or prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "The emotional progression is entirely coherent and self-contained: tending to a wounded, proud man transitions into palpable romantic chemistry, concluding with Alexander's direct, vulnerable declaration of devotion. No outside plot exposition required.",
+        "passes_gate": true,
+        "situational_summary": "As a woman dresses a battle-scarred warrior's fresh lacerations, their simmering tension culminates in him pressing her hand to his chest and confessing her touch is his only medicine."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Raw physical vulnerability melting into intense, heartfelt romantic confession"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals Alexander's battle injuries and a key emotional breakthrough in their romantic arc; safe and enticing for cold top-of-funnel audiences."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_11",
+      "start_beat_id": "B014",
+      "end_beat_id": "B030",
+      "start_time": 36.5,
+      "end_time": 79.0,
+      "duration": 42.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 begins on a tight pan over scarred, wounded flesh along a chest and ribs without establishing who this body belongs to, where they are, or who is present. Starting mid-pan on flesh without the shirt-removal action is visually disorienting and lacks interpersonal grounding in isolation.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full duration, the intimate dynamic between the caregiver and the wounded man is clear and culminates in near-kiss proximity.",
+        "passes_gate": false,
+        "situational_summary": "A woman tends to a wounded, scarred warrior with herbal salve, with their shared banter turning into breathless romantic proximity."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Suppressed desire and sensory intimacy between caregiver and wounded warrior"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes Alexander's wounds and an intimate romantic escalation; standard inciting relationship development."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_12",
+      "start_beat_id": "B015",
+      "end_beat_id": "B030",
+      "start_time": 38.0,
+      "end_time": 79.0,
+      "duration": 41.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B015 opens on a tight reaction shot of Juliana's widening eyes with the generic exclamation 'Dear God.' In isolation, this is a floating reaction shot with zero physical or visual anchor showing what she is reacting to; retrospective justification from subsequent beats is forbidden.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the scene unfolds, the caregiving dynamic and escalating romantic attraction are completely clear and self-contained.",
+        "passes_gate": false,
+        "situational_summary": "Reacting to a man's severe wounds, a woman binds his injuries while fighting the rising emotional tension between them."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Shift from horrified empathy to irresistible physical attraction"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Portrays Alexander's injury reveal and romantic progression with Juliana; low-spoiler character beat."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP010_13",
+      "start_beat_id": "B017",
+      "end_beat_id": "B030",
+      "start_time": 43.0,
+      "end_time": 79.0,
+      "duration": 36.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 opens on an extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over a jagged scar across Alexander's chest. This immediately establishes an intimate physical and emotional setting, the two central figures, and the caring/vulnerable dynamic within the first 2 seconds without requiring sound or dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "The scene is a completely self-contained intimate arc: a woman dressing the battle wounds of a stoic man, transitioning from tender medical care to palpable romantic and sexual tension as they draw inches apart. No outside plot context or backstory is needed to understand the rising attraction and emotional stakes.",
+        "passes_gate": true,
+        "situational_summary": "While tending to a stoic warrior's wounds, a young woman finds their shared vulnerability transforming into charged, unspoken romantic tension as he leans in close."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Intense romantic tension and unspoken vulnerability breaking through stoic defense"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Depicts an intimate character bonding moment and romantic tension buildup without disclosing specific plot twists, betrayals, or narrative resolutions."
+      }
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "episode_number": 7,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Kneeling on damp ground and digging weeds with bare hands creates an immediate visual contrast of fallen nobility or servitude.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle arrival of an ornate carriage establishes wealth and class disparity, but lacks immediate physical tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Aristocratic woman stepping out with a parasol introduces an antagonist aesthetic, but is standard character entry framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard shot of a well-dressed gentleman stepping down from a carriage with minimal immediate action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Smirking villainess surveying a humble cottage hints at conflict, but remains low-motion setup.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "The mocking question 'This is where you live now?' sets up condescension without an urgent explosive reveal.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Rinsing muddy hands in a puddle and rising proudly provides noticeable physical friction against the mocking visitor.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Gerald's stinging insult that she 'threw away everything for a penniless soldier' delivers high-stakes backstory and immediate betrayal dynamics.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of Gerald sneering beside the woman presents standard confrontational posture.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Juliana directly challenges their presence with a sharp, defiant counter-question.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up showing defiance despite soiled clothes, offering subtle emotional friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Cruel mockery directing focus to her physical labor ('Home? Look at your hands, Juliana') sharpens the confrontation.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of malicious erupting laughter under an umbrella creates expressive, mute-legible antagonism.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Blunt degradation ('You look like a servant') strikes directly at her fallen status and identity.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up insert of mud-stained palms against an apron delivers vivid, instantly legible visual drama without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on a smug facial expression provides mild emotional tension but lacks dynamic visual motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Juliana's retort ('There is no shame in that') offers a firm, dignified ideological pushback against elitism.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Lifting chin with dignity is an effective character beat, but visually subtle.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'You were born a lady' functions as expositional friction rather than an urgent hook.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on a tightening jaw indicates rising anger but lacks broader physical action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "The assertive declaration 'And I remain one' provides a strong, punchy moral stand.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up focusing intensely on clear eyes shining with unbroken pride conveys unmistakable defiance on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Gerald's insult ('You chose that scarred beggar over a life of comfort') exposes the love-triangle and financial stakes sharply.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Wide shot framing a 2-on-1 courtyard standoff visually communicates isolation and confrontation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Juliana's accusation ('I chose a man who stood beside me when you walked away') delivers a high-stakes emotional rupture and indictment of cowardice.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intense profile two-shot locked in unflinching eye contact creates noticeable visual tension.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A severe territorial dismissal ('You have no authority here. Leave.') injects urgent conflict and boundary enforcement.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intense close-up registering utter contempt provides strong emotional legibility on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Gerald's chilling ultimatum ('I have enough influence to make a beggar disappear') issues a direct, potentially lethal threat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Aggressive physical lunge pointing a finger right into Juliana's face creates instant high-urgency visual confrontation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Gerald's mocking callout ('Where is that beggar husband?') acts as an inciting verbal cue for the reveal.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Cinematic visual reveal of a towering, shadowed figure marching out of a fog-drenched forest with firewood immediately hooks scrollers on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Dropping heavy logs into the mud establishes imposing physical strength and impending physical confrontation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Straightening to full height and stepping directly into an adversary's personal space signals immediate physical intimidation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "The frantic warning ('Gerald, don't let him frighten you') confirms the dramatic power reversal through dialogue.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum visual hook: towering scarred giant cornering Gerald, whose arrogant bravado collapses into sheer throat-bobbing terror on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'What are you staring at?' is a generic weak deflection born of fear.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Nervous confrontation with limited new visual progression beyond the established standoff.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'We are leaving' signals sudden retreat rather than an arresting opening hook.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Abrupt heel-turn and rapid retreat under an intimidating silent glare delivers clear visual defeat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Indignant exclamation ('Leaving? Gerald!') conveys confusion at the retreat but lacks standalone stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of shocked companion watching a man flee is comical/reactive but mild.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Flustered scrambling into the carriage, door slam, and rapid flight down a misty road creates chaotic visual closure rather than an opener.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'You didn't say a word' is an appreciative post-conflict reflection with low standalone urgency.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Profile two-shot of affectionate relief following a resolved scene.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'I didn't need to' is a satisfying one-liner resolving the encounter rather than opening tension.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Scooping firewood and walking inside cottage signals wind-down and scene resolution.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Warm, smiling close-up as the scene fades out serves strictly as an outro.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 0,
+      "specific_question": "Why is this woman doing manual labor?",
+      "stakes_importance": "Low \u2014 opening baseline scene establishing context with no active narrative conflict.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who is arriving in the aristocratic carriage to visit Juliana's humble cottage?",
+      "stakes_importance": "Medium \u2014 introduces an impending clash between contrasting social worlds.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who is this noblewoman and what business does she have with Juliana?",
+      "stakes_importance": "Medium \u2014 raises curiosity about the visitor's identity and intent.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why has Gerald come to confront the woman who chose another man over him?",
+      "stakes_importance": "Medium \u2014 signals an impending emotional and personal confrontation between ex-lovers.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "What malicious taunt is the aristocratic woman preparing to deliver?",
+      "stakes_importance": "Low \u2014 minor hostile setup without an explicit verbal challenge yet.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Juliana defend her humble living conditions against the aristocrat's mocking inquiry?",
+      "stakes_importance": "Medium \u2014 initiates direct confrontation over class fall and pride.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana retaliate against Gerald's public insult regarding her marriage to a penniless soldier?",
+      "stakes_importance": "Medium \u2014 highlights Gerald's lingering bitterness and disdain for her choices.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "What true, humiliating reason brought Gerald and the noblewoman to Juliana's door?",
+      "stakes_importance": "Medium \u2014 Juliana directly challenges their motive for invading her space.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the woman use Juliana's labor-worn hands to disgrace her noble lineage?",
+      "stakes_importance": "Medium \u2014 escalates targeted social shaming and class humiliation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana accept the insult of being called a servant or defend her status?",
+      "stakes_importance": "Medium \u2014 directly attacks Juliana's aristocratic identity and dignity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Gerald join in humiliating Juliana further?",
+      "stakes_importance": "Low \u2014 visual reaction pause with moderate passive tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Gerald shatter Juliana's unyielding moral pride?",
+      "stakes_importance": "Medium \u2014 shows Juliana refusing to bow to their class-based disdain.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 2,
+      "specific_question": "How does Gerald plan to force Juliana to acknowledge her fallen status?",
+      "stakes_importance": "Medium \u2014 quick dialogue beat setting up Juliana's rebuttal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Gerald counter Juliana's refusal to be humbled?",
+      "stakes_importance": "Medium \u2014 powerful declaration of unbroken dignity in the face of snobbery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why did Juliana choose an alleged 'scarred beggar' over wealth and comfort?",
+      "stakes_importance": "Medium \u2014 brings Juliana's mysterious husband directly into the center of the conflict.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Gerald react to being publicly called a coward who abandoned Juliana when she needed him most?",
+      "stakes_importance": "High \u2014 unmasks Gerald's betrayal and validates Juliana's loyalty to her new husband.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Gerald obey Juliana's demand to leave or resort to physical violence and threats?",
+      "stakes_importance": "High \u2014 high-tension standoff where the heroine demands the invaders depart.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?",
+      "stakes_importance": "High \u2014 direct, dangerous ultimatum threatening life and security.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 5,
+      "specific_question": "What will happen when the towering, scarred husband confronts Gerald right after his threat to eliminate him?",
+      "stakes_importance": "High \u2014 imminent physical confrontation and explosive collision between rival men.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "Is the scarred husband about to unleash brutal violence against Gerald for threatening his wife?",
+      "stakes_importance": "High \u2014 sensory punctuation of raw strength right before a showdown.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will the scarred soldier strike Gerald down where he stands?",
+      "stakes_importance": "High \u2014 physical showdown suspended at the absolute point of collision.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Gerald attempt to fight back, or will he be forced to cower and beg for mercy before the scarred giant?",
+      "stakes_importance": "High \u2014 complete power reversal where the arrogant aristocrat is paralyzed with sheer terror.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the husband smash Gerald for his pathetic, trembling challenge?",
+      "stakes_importance": "Medium \u2014 Gerald's desperate attempt at bravado before crumbling.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the husband allow Gerald to escape after making threats against his life?",
+      "stakes_importance": "Low \u2014 tension significantly defuses as Gerald flees without a fight.",
+      "defuses_tension": true,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will the aristocratic woman be abandoned in the mud by Gerald?",
+      "stakes_importance": "Low \u2014 comedic/humiliating retreat of the antagonists with main danger passed.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Gerald and the aristocratic woman return with armed men to retaliate later?",
+      "stakes_importance": "Low \u2014 resolution of immediate confrontation as villains flee the scene.",
+      "defuses_tension": true,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 2,
+      "specific_question": "What will the enigmatic scarred husband say about the encounter?",
+      "stakes_importance": "Low \u2014 intimate post-conflict resolution dialogue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 1,
+      "specific_question": "What is the true identity and background of this protective husband?",
+      "stakes_importance": "Low \u2014 domestic calm and warm resolution established.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will Juliana and her husband live peacefully?",
+      "stakes_importance": "Low \u2014 complete scene fade-out and romantic contentment, zero unresolved urgency.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    }
+  ]
+}

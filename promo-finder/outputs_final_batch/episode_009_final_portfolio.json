@@ -1,0 +1,98 @@
+{
+  "episode_number": 9,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 3
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP009_02",
+      "absolute_rubric_score": 8.1,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.0
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B015",
+        "start_time": 0.0,
+        "end_time": 54.0,
+        "duration": 54.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Stay back. I'll open it.",
+        "opening_character": "ALEXANDER",
+        "rationale": "The frantic mother's desperate cry that her boy is burning with fever instantly establishes urgent life-or-death stakes."
+      },
+      "cliffhanger": {
+        "final_quote": "Why isn't it working?",
+        "final_character": "PEASANT MOTHER",
+        "specific_question": "Has the herbal remedy failed to work, leaving the boy to die?"
+      },
+      "situational_summary": "An herbalist rushes to treat a dying peasant boy brought in from the storm, only for the mother to cry out in panic when the draught appears to fail.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP009_05",
+      "absolute_rubric_score": 5.8,
+      "subscores": {
+        "hook_score": 0.5,
+        "tension_score": 1.7,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.5
+      },
+      "mmr_score": -0.1173,
+      "max_similarity_to_selected": 0.6681,
+      "boundary": {
+        "start_beat_id": "B026",
+        "end_beat_id": "B034",
+        "start_time": 83.8,
+        "end_time": 115.5,
+        "duration": 31.7,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "What dark conspiracy did the Blond Nobleman commit against the Duke that now fills him with paralyzing dread?"
+      },
+      "situational_summary": "A haughty nobleman lounging in his study is rattled when a soaked servant reports rumors of a war veteran alive with the late Duke's signature scar.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP009_01",
+      "rank": 2,
+      "recommended_boundary": "B001 -> B013",
+      "similarity": 0.9701,
+      "duplicate_of": "CAND_EP009_02",
+      "reason": "Exceeded near-duplicate threshold (0.9701 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP009_01",
+      "rank": 2,
+      "recommended_boundary": "B001 -> B013",
+      "similarity": 0.9701,
+      "duplicate_of": "CAND_EP009_02",
+      "reason": "Exceeded near-duplicate threshold (0.9701 >= 0.90)"
+    }
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "episode": "Episode 21",
+  "episode_number": 21,
+  "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+  "continuity_notes": "Directly follows Episode 20's cliffhanger where Catherine and Rupert plotted to seize Ashbury upon the Dowager Duchess's demise; in the village, Juliana puts aside her grief over her burned cottage to save young Toby, stumbling upon critical intelligence regarding the manor.",
+  "duration": 114.0,
+  "total_beats": 24,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 3.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Lady Juliana in a rustic grey gown, her wrists wrapped in white bandages, smoothing a blanket over a straw pallet in the dimly lit barn.",
+          "start": 0.0,
+          "end": 3.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Lady Juliana gently straightens the grey wool blanket over the hay bed, exhaling a soft, exhausted sigh.",
+          "start": 0.0,
+          "end": 3.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. BARN \u2013 DAY"
+    },
+    {
+      "beat_id": "B002",
+      "start": 3.5,
+      "end": 11.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "sfx",
+          "description": "A loud wooden slam as the heavy double barn doors violently fly open.",
+          "start": 3.5,
+          "end": 4.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Wide shot framing the open doorway against the overcast daylight as Prudence, a young village girl in an apron, rushes inside, frantic and weeping.",
+          "start": 3.6,
+          "end": 8.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Lady Juliana! Please! You have to help me, Toby is dying!",
+          "start": 4.2,
+          "end": 8.0,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Desperate, Panicked"
+        },
+        {
+          "type": "action",
+          "description": "Lady Juliana hurries over, placing her bandaged hands reassuringly on Prudence's trembling shoulders.",
+          "start": 8.2,
+          "end": 10.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Oh dear. Breathe. Tell me what has happened.",
+          "start": 8.5,
+          "end": 11.0,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Gentle, Urgent"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of Lady Juliana looking into Prudence's tearful face with compassionate urgency.",
+          "start": 8.5,
+          "end": 11.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. BARN \u2013 DAY"
+    },
+    {
+      "beat_id": "B003",
+      "start": 11.2,
+      "end": 18.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "My little brother Toby... his chest is burning! He cannot breathe!",
+          "start": 11.2,
+          "end": 15.0,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Sobbing, Breathless"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence weeping, clutching her hands to her chest in agony.",
+          "start": 11.2,
+          "end": 15.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Tell me what the apothecary said. Did he not give you medicine?",
+          "start": 15.0,
+          "end": 18.2,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Inquiring, Strained"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana, her brow furrowing with concern.",
+          "start": 15.1,
+          "end": 18.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. BARN \u2013 DAY"
+    },
+    {
+      "beat_id": "B004",
+      "start": 18.2,
+      "end": 21.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "He shut the door in my face because we have no silver!",
+          "start": 18.2,
+          "end": 21.7,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Anguished, Resentful"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence, her face twisted in bitter anguish as she gestures back toward the rain-soaked outdoors.",
+          "start": 18.2,
+          "end": 21.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. BARN \u2013 DAY"
+    },
+    {
+      "beat_id": "B005",
+      "start": 21.8,
+      "end": 30.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot of Lady Juliana and Prudence facing each other inside the wooden barn, dust motes drifting in the pale light.",
+          "start": 21.8,
+          "end": 25.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The manor doctor laughed! He said village boys are not worth his time!",
+          "start": 21.8,
+          "end": 25.3,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Bitter, Tearful"
+        },
+        {
+          "type": "camera",
+          "description": "Medium profile shot of Lady Juliana looking down at her bandaged hands, holding Prudence's hand with somber heartache.",
+          "start": 25.0,
+          "end": 30.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "We have no clinic now.",
+          "start": 25.1,
+          "end": 27.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Sorrowful, Dejected"
+        },
+        {
+          "type": "dialogue",
+          "description": "Our cottage is ashes. I have nothing left but this coltsfoot.",
+          "start": 27.5,
+          "end": 30.8,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Despondent"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. BARN \u2013 DAY"
+    },
+    {
+      "beat_id": "B006",
+      "start": 31.0,
+      "end": 35.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Prudence drops desperately to her knees onto the hay-strewn barn floor, clasping her hands in tearful supplication.",
+          "start": 31.0,
+          "end": 33.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!",
+          "start": 31.0,
+          "end": 35.8,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Pleading, Desperate"
+        },
+        {
+          "type": "camera",
+          "description": "High-angle looking down at Prudence kneeling before Lady Juliana, pleading upward.",
+          "start": 31.1,
+          "end": 35.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. BARN \u2013 DAY"
+    },
+    {
+      "beat_id": "B007",
+      "start": 35.8,
+      "end": 40.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Lady Juliana immediately reaches down and pulls Prudence firmly back to her feet, then turns to snatch her heavy leather-bound herbal ledger from the wooden workbench.",
+          "start": 35.8,
+          "end": 39.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Stand up. Sinking to your knees will not save him. Let me grab my ledger. We go now.",
+          "start": 35.9,
+          "end": 40.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Resolute, Authoritative"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot framing the barn entrance as Lady Juliana lifts Prudence up, grabs her book, and leads the way out.",
+          "start": 35.9,
+          "end": 40.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. BARN \u2013 DAY"
+    },
+    {
+      "beat_id": "B008",
+      "start": 40.5,
+      "end": 42.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tracking wide shot following Lady Juliana and Prudence running side by side along a muddy, puddled village road past thatched stone cottages under a gloomy, overcast sky.",
+          "start": 40.5,
+          "end": 42.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Lady Juliana clutches the thick book to her chest as she and Prudence sprint swiftly through the village.",
+          "start": 40.5,
+          "end": 42.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. VILLAGE LANE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B009",
+      "start": 42.8,
+      "end": 45.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle medium shot of seven-year-old Toby lying on a makeshift straw pallet before a roaring fireplace, coughing weakly.",
+          "start": 42.8,
+          "end": 45.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Heavy, raspy chest coughs echoing in the small room, accompanied by crackling hearth fire.",
+          "start": 42.8,
+          "end": 45.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B010",
+      "start": 45.5,
+      "end": 48.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Lady Juliana rushes in, sets the ledger on the rustic wooden table, and quickly flips open the pages.",
+          "start": 45.5,
+          "end": 48.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana rapidly scanning the botanical illustrations and handwritten remedies in the book.",
+          "start": 45.5,
+          "end": 48.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "His skin is burning hot.",
+          "start": 47.3,
+          "end": 48.8,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Alarmed, Focused"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B011",
+      "start": 48.8,
+      "end": 51.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Lady Juliana places her bandaged hand against Toby's flushed, sweating forehead as he wheezes painfully.",
+          "start": 48.8,
+          "end": 50.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of Lady Juliana tending to Toby, with Prudence standing anxiously in the background.",
+          "start": 48.8,
+          "end": 51.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Prudence, fetch hot water immediately!",
+          "start": 48.9,
+          "end": 50.8,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Commanding"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B012",
+      "start": 51.2,
+      "end": 58.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Yes! Right away, I will get it!",
+          "start": 51.2,
+          "end": 53.0,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Hurried, Obedient"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Prudence nodding rapidly, rushing toward the stone hearth.",
+          "start": 51.2,
+          "end": 54.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Prudence wraps a cloth around the iron handle of the steaming kettle resting over the hearth fire and lifts it.",
+          "start": 53.0,
+          "end": 55.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up top-down view of Lady Juliana's bandaged fingers gently touching an ink illustration of chamomile flowers in the open ledger.",
+          "start": 54.0,
+          "end": 56.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I cannot let my own weariness stop me. This boy needs my mother's knowledge.",
+          "start": 54.1,
+          "end": 58.2,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Introspective, Determined"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B013",
+      "start": 58.2,
+      "end": 60.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Lady Juliana crushes dried herbal leaves into a dark wooden bowl between her bandaged hands, then pours steaming water over them from the kettle.",
+          "start": 58.2,
+          "end": 60.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of hot water pouring into the bowl, releasing aromatic vapors from the dried herbs.",
+          "start": 58.5,
+          "end": 60.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B014",
+      "start": 60.8,
+      "end": 64.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Lady Juliana sits beside the pallet and brings the steaming herbal bowl close to Toby's face while Prudence cradles his shoulders.",
+          "start": 60.8,
+          "end": 64.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Lady Juliana, Prudence, and Toby huddled together by the warm glow of the fire.",
+          "start": 60.8,
+          "end": 64.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Lift his shoulders, Prudence. Hold the steam close. Let him inhale.",
+          "start": 61.0,
+          "end": 64.0,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Instructive, Calm"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B015",
+      "start": 64.5,
+      "end": 66.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Like this? Toby, breathe it in, sweet boy.",
+          "start": 64.5,
+          "end": 66.6,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Tearful, Coaxing"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence supporting Toby's head, whispering tenderly into his ear.",
+          "start": 64.5,
+          "end": 66.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B016",
+      "start": 66.8,
+      "end": 70.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Yes, just like that. Keep breathing, Toby. Let the vapor clear your chest.",
+          "start": 66.8,
+          "end": 70.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Encouraging, Reassuring"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana gently waving her hand to direct the medicinal steam toward Toby's nose and mouth.",
+          "start": 66.8,
+          "end": 70.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B017",
+      "start": 70.5,
+      "end": 79.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Toby's face relaxing, his chest falling still and calm.",
+          "start": 70.5,
+          "end": 72.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Toby's strained wheezing eases into quiet, rhythmic breathing as he slips into peaceful sleep on his pillow.",
+          "start": 70.5,
+          "end": 73.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Oh, thank God! His chest is quiet! The rattling has stopped!",
+          "start": 72.0,
+          "end": 75.5,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Overwhelmed, Relieved"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence covering her mouth in overwhelmed relief, tears streaming down her face.",
+          "start": 72.0,
+          "end": 76.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Lady Juliana pulls the plaid wool blanket snug over Toby's chest, smiling softly with profound relief.",
+          "start": 75.5,
+          "end": 79.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Keep him warm. Give him three drops of this coltsfoot tea every morning.",
+          "start": 76.0,
+          "end": 79.6,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Gentle, Caring"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Lady Juliana sitting on a stool beside Toby's bedside, placing a cup of coltsfoot tea on a small wooden table.",
+          "start": 76.0,
+          "end": 79.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B018",
+      "start": 79.8,
+      "end": 87.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "You saved him. The grand doctors left him to choke, but you...",
+          "start": 79.8,
+          "end": 83.0,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Grateful, Choked with Emotion"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of Prudence looking at Lady Juliana with awe and boundless gratitude, her hands clasped in front of her.",
+          "start": 79.8,
+          "end": 87.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I have no money, Lady Juliana, but I swear on my life, I will do anything to repay you.",
+          "start": 83.0,
+          "end": 87.5,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Fervent, Devoted"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B019",
+      "start": 87.5,
+      "end": 91.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Lady Juliana takes Prudence's trembling hands into hers, smiling with heartfelt warmth.",
+          "start": 87.5,
+          "end": 90.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana comforting Prudence warmly.",
+          "start": 87.5,
+          "end": 91.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Your brother's breath is payment enough for me, Prudence.",
+          "start": 87.7,
+          "end": 90.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Warm, Sincere"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B020",
+      "start": 91.0,
+      "end": 96.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "At the grand manor, they ignore us. They only care about their own luxury.",
+          "start": 91.0,
+          "end": 94.5,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Indignant, Resentful"
+        },
+        {
+          "type": "camera",
+          "description": "Low-angle shot past sleeping Toby toward Prudence standing in the room, her expression darkening with anger.",
+          "start": 91.0,
+          "end": 96.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "But their gold cannot buy them health.",
+          "start": 94.6,
+          "end": 96.4,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Ominous"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B021",
+      "start": 96.5,
+      "end": 99.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Lady Juliana turns sharply, her eyes widening with sudden recognition.",
+          "start": 96.5,
+          "end": 98.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Lady Juliana looking directly into Prudence's eyes with startled concern.",
+          "start": 96.5,
+          "end": 99.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What do you mean? Is someone ill? The Dowager Duchess?",
+          "start": 96.5,
+          "end": 99.2,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Startled, Curious"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B022",
+      "start": 99.2,
+      "end": 101.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle cut to Toby sleeping peacefully as the fire crackles behind him.",
+          "start": 99.2,
+          "end": 101.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "She is dying, Lady Juliana.",
+          "start": 99.2,
+          "end": 101.2,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Solemn, O.S."
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B023",
+      "start": 101.2,
+      "end": 108.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "A strange, mysterious illness is eating her away.",
+          "start": 101.2,
+          "end": 103.4,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Conspiratorial, Grim"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Prudence leaning in close to Lady Juliana, whispering with grave intensity.",
+          "start": 101.2,
+          "end": 106.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Inside that massive house with all their wealth, she is fading to nothing, and no one can stop it.",
+          "start": 103.5,
+          "end": 108.4,
+          "timestamp_source": "given",
+          "character": "PRUDENCE",
+          "emotion": "Dark, Chilling"
+        },
+        {
+          "type": "camera",
+          "description": "Brief cut back to Toby sleeping peacefully on his straw pillow by the warm fireplace.",
+          "start": 106.8,
+          "end": 108.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B024",
+      "start": 108.5,
+      "end": 114.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Lady Juliana sits motionless at the rustic wooden table, her bandaged hands holding open her late mother's leather-bound herbal ledger. Her eyes reflect deep apprehension as the dire truth settles over her.",
+          "start": 108.5,
+          "end": 114.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Slow push-in on Lady Juliana staring down at the ancient pages, her expression filled with profound realization and growing resolve as dramatic strings swell to a gripping cliffhanger.",
+          "start": 108.5,
+          "end": 114.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. PRUDENCE'S COTTAGE \u2013 CONTINUOUS"
+    }
+  ]
+}

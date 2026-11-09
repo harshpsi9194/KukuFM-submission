@@ -1,0 +1,177 @@
+{
+  "episode_number": 20,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP020_07",
+      "absolute_rubric_score": 9.2,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B009",
+        "end_beat_id": "B012",
+        "start_time": 56.5,
+        "end_time": 88.2,
+        "duration": 31.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Let me take that basket, Lady Juliana.",
+        "opening_character": "SEAMUS",
+        "rationale": "High-urgency declaration that stopping means the valley's lung fever wins."
+      },
+      "cliffhanger": {
+        "final_quote": "And I am not finished.",
+        "final_character": "JULIANA",
+        "specific_question": "How will Juliana rise from destitution to exact vengeance and reclaim her place against those who ruined her?"
+      },
+      "situational_summary": "A disinherited viscount's daughter tending to sick villagers in a cold barn rejects pity from an old ally, declaring that her downfall has only stripped her down to her unyielding true strength.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP020_08",
+      "absolute_rubric_score": 7.5,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 1.7,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 1.7
+      },
+      "mmr_score": 0.0235,
+      "max_similarity_to_selected": 0.8207,
+      "boundary": {
+        "start_beat_id": "B013",
+        "end_beat_id": "B016",
+        "start_time": 88.2,
+        "end_time": 109.5,
+        "duration": 21.3,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Let the peasants rot in their barns.",
+        "opening_character": "CATHERINE",
+        "rationale": "Shocking cruelty directed at the suffering sick: 'Let the peasants rot in their barns. Let them pray to their weeds.'"
+      },
+      "cliffhanger": {
+        "final_quote": "This house will only bow to me.",
+        "final_character": "CATHERINE",
+        "specific_question": "Can Catherine force the ancient estate and its people to bend to her tyrannical will?"
+      },
+      "situational_summary": "An arrogant noblewoman and her partner sneer at suffering peasants while plotting to claim full dominion over an ancestral estate once the matriarch dies.",
+      "emotional_salience_score": 3,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP020_03",
+      "absolute_rubric_score": 6.7,
+      "subscores": {
+        "hook_score": 1.2,
+        "tension_score": 1.8,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.6
+      },
+      "mmr_score": -0.1173,
+      "max_similarity_to_selected": 0.7845,
+      "boundary": {
+        "start_beat_id": "B002",
+        "end_beat_id": "B005",
+        "start_time": 2.8,
+        "end_time": 39.2,
+        "duration": 36.4,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Two lumps of sugar, Rupert?",
+        "opening_character": "CATHERINE",
+        "rationale": "Direct aristocratic verbal sparring and declaration of power grab ('The estate is practically ours')."
+      },
+      "cliffhanger": {
+        "final_quote": "How much longer can the frail thing survive?",
+        "final_character": "CATHERINE",
+        "specific_question": "Is Rupert actively poisoning or orchestrating the Dowager's 'wasting of the lungs'?"
+      },
+      "situational_summary": "Two ruthless aristocrats conspire to claim an estate, coldly reveling in the mysterious, lethal decline of the Dowager standing in their way.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP020_06",
+      "rank": 2,
+      "recommended_boundary": "B009 -> B011",
+      "similarity": 0.9424,
+      "duplicate_of": "CAND_EP020_07",
+      "reason": "Exceeded near-duplicate threshold (0.9424 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP020_06",
+      "rank": 2,
+      "recommended_boundary": "B009 -> B011",
+      "similarity": 0.9424,
+      "duplicate_of": "CAND_EP020_07",
+      "reason": "Exceeded near-duplicate threshold (0.9424 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP020_09",
+      "rank": 4,
+      "recommended_boundary": "B013 -> B017",
+      "similarity": 0.9615,
+      "duplicate_of": "CAND_EP020_08",
+      "reason": "Exceeded near-duplicate threshold (0.9615 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP020_06",
+      "rank": 2,
+      "recommended_boundary": "B009 -> B011",
+      "similarity": 0.9424,
+      "duplicate_of": "CAND_EP020_07",
+      "reason": "Exceeded near-duplicate threshold (0.9424 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP020_09",
+      "rank": 4,
+      "recommended_boundary": "B013 -> B017",
+      "similarity": 0.9615,
+      "duplicate_of": "CAND_EP020_08",
+      "reason": "Exceeded near-duplicate threshold (0.9615 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP020_02",
+      "rank": 6,
+      "recommended_boundary": "B002 -> B004",
+      "similarity": 0.9575,
+      "duplicate_of": "CAND_EP020_03",
+      "reason": "Exceeded near-duplicate threshold (0.9575 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP020_01",
+      "rank": 7,
+      "recommended_boundary": "B002 -> B003",
+      "similarity": 0.9496,
+      "duplicate_of": "CAND_EP020_03",
+      "reason": "Exceeded near-duplicate threshold (0.9496 >= 0.90)"
+    }
+  ]
+}

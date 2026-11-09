@@ -1,0 +1,380 @@
+{
+  "episode_number": 3,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP003_27",
+      "absolute_rubric_score": 9.6,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B041",
+        "end_beat_id": "B046",
+        "start_time": 119.2,
+        "end_time": 140.5,
+        "duration": 21.3,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You came here to become a wife.",
+        "opening_character": "THE BEARDED STRANGER",
+        "rationale": "High-stakes direct confrontation addressing the betrayal ('You came here to become a wife. They took that from you.')."
+      },
+      "cliffhanger": {
+        "final_quote": "Lady Juliana... accept my hand.",
+        "final_character": "THE BEARDED STRANGER",
+        "specific_question": "Will Juliana accept the stranger's formal proposal and publicly humiliate Gerald in return?"
+      },
+      "situational_summary": "Holding out a silver wedding band, a stranger offers to marry a publicly jilted bride and drops to one knee asking for her hand before the stunned church.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP003_23",
+      "absolute_rubric_score": 9.5,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.1665,
+      "max_similarity_to_selected": 0.7843,
+      "boundary": {
+        "start_beat_id": "B028",
+        "end_beat_id": "B046",
+        "start_time": 84.0,
+        "end_time": 140.5,
+        "duration": 56.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Lady Juliana... accept my hand.",
+        "final_character": "THE BEARDED STRANGER",
+        "specific_question": "Will Juliana accept the stranger's formal proposal and publicly humiliate Gerald in return?"
+      },
+      "situational_summary": "Following a sudden physical confrontation at the altar, a gallant stranger drops to one knee and asks an abandoned bride to accept his hand in front of her shocked family.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP003_05",
+      "absolute_rubric_score": 8.9,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.0075,
+      "max_similarity_to_selected": 0.7981,
+      "boundary": {
+        "start_beat_id": "B011",
+        "end_beat_id": "B020",
+        "start_time": 30.3,
+        "end_time": 64.5,
+        "duration": 34.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "I was humiliated by your family.",
+        "opening_character": "LADY JULIANA",
+        "rationale": "High-stakes confrontation exposing paternal abandonment and asking what will happen to her."
+      },
+      "cliffhanger": {
+        "final_quote": "Please! Someone!",
+        "final_character": "LADY JULIANA",
+        "specific_question": "Will anyone in the cathedral hear Juliana's desperate cries as she is forcefully dragged away?"
+      },
+      "situational_summary": "In a cathedral confrontation, a haughty matriarch banishes a discarded daughter and orders armed royal guards to drag her out of the chapel.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP003_13",
+      "absolute_rubric_score": 8.1,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.0
+      },
+      "mmr_score": -0.1091,
+      "max_similarity_to_selected": 0.7178,
+      "boundary": {
+        "start_beat_id": "B022",
+        "end_beat_id": "B039",
+        "start_time": 66.0,
+        "end_time": 117.9,
+        "duration": 51.9,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "What is the stranger reaching into his coat for: a weapon, proof of noble identity, or a marriage token?"
+      },
+      "situational_summary": "A rugged stranger marches into a wedding chapel, knocks out an armed guard, and intervenes to defend an abandoned bride from her cruel family before reaching into his coat.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP003_29",
+      "absolute_rubric_score": 8.7,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.3
+      },
+      "mmr_score": -0.1192,
+      "max_similarity_to_selected": 0.8759,
+      "boundary": {
+        "start_beat_id": "B042",
+        "end_beat_id": "B047",
+        "start_time": 125.1,
+        "end_time": 145.75,
+        "duration": 20.65,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "I am offering it back.",
+        "opening_character": "THE BEARDED STRANGER",
+        "rationale": "Audacious romantic and social intervention ('I am offering it back') directly overturning the wedding rejection."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Will Juliana speak the word 'yes' to seal the betrothal and complete her vengeance against her former fianc\u00e9?"
+      },
+      "situational_summary": "In front of a stunned congregation, an enigmatic stranger steps forward to drop to one knee and offer a silver ring in marriage to a tearful noblewoman.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP003_28",
+      "rank": 6,
+      "recommended_boundary": "B041 -> B047",
+      "similarity": 0.9614,
+      "duplicate_of": "CAND_EP003_27",
+      "reason": "Exceeded near-duplicate threshold (0.9614 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP003_22",
+      "rank": 3,
+      "recommended_boundary": "B028 -> B045",
+      "similarity": 0.9497,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9497 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP003_21",
+      "rank": 4,
+      "recommended_boundary": "B028 -> B042",
+      "similarity": 0.9674,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9674 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP003_20",
+      "rank": 5,
+      "recommended_boundary": "B028 -> B041",
+      "similarity": 0.9416,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9416 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP003_28",
+      "rank": 6,
+      "recommended_boundary": "B041 -> B047",
+      "similarity": 0.9614,
+      "duplicate_of": "CAND_EP003_27",
+      "reason": "Exceeded near-duplicate threshold (0.9614 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP003_18",
+      "rank": 8,
+      "recommended_boundary": "B028 -> B039",
+      "similarity": 0.9068,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9068 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP003_19",
+      "rank": 9,
+      "recommended_boundary": "B028 -> B040",
+      "similarity": 0.9212,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9212 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP003_17",
+      "rank": 11,
+      "recommended_boundary": "B028 -> B036",
+      "similarity": 0.937,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9370 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP003_22",
+      "rank": 3,
+      "recommended_boundary": "B028 -> B045",
+      "similarity": 0.9497,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9497 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP003_21",
+      "rank": 4,
+      "recommended_boundary": "B028 -> B042",
+      "similarity": 0.9674,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9674 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP003_20",
+      "rank": 5,
+      "recommended_boundary": "B028 -> B041",
+      "similarity": 0.9416,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9416 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP003_28",
+      "rank": 6,
+      "recommended_boundary": "B041 -> B047",
+      "similarity": 0.9614,
+      "duplicate_of": "CAND_EP003_27",
+      "reason": "Exceeded near-duplicate threshold (0.9614 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP003_18",
+      "rank": 8,
+      "recommended_boundary": "B028 -> B039",
+      "similarity": 0.9068,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9068 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP003_19",
+      "rank": 9,
+      "recommended_boundary": "B028 -> B040",
+      "similarity": 0.9212,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9212 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP003_17",
+      "rank": 11,
+      "recommended_boundary": "B028 -> B036",
+      "similarity": 0.937,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9370 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP003_22",
+      "rank": 3,
+      "recommended_boundary": "B028 -> B045",
+      "similarity": 0.9497,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9497 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP003_21",
+      "rank": 4,
+      "recommended_boundary": "B028 -> B042",
+      "similarity": 0.9674,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9674 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP003_20",
+      "rank": 5,
+      "recommended_boundary": "B028 -> B041",
+      "similarity": 0.9416,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9416 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP003_28",
+      "rank": 6,
+      "recommended_boundary": "B041 -> B047",
+      "similarity": 0.9614,
+      "duplicate_of": "CAND_EP003_27",
+      "reason": "Exceeded near-duplicate threshold (0.9614 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP003_18",
+      "rank": 8,
+      "recommended_boundary": "B028 -> B039",
+      "similarity": 0.9068,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9068 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP003_19",
+      "rank": 9,
+      "recommended_boundary": "B028 -> B040",
+      "similarity": 0.9212,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9212 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP003_17",
+      "rank": 11,
+      "recommended_boundary": "B028 -> B036",
+      "similarity": 0.937,
+      "duplicate_of": "CAND_EP003_23",
+      "reason": "Exceeded near-duplicate threshold (0.9370 >= 0.90)"
+    }
+  ]
+}

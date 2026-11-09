@@ -1,0 +1,290 @@
+{
+  "episode_number": 3,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "target_portfolio_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP003_188",
+      "tournament_rank": 1,
+      "tournament_wins": 9,
+      "tournament_losses": 0,
+      "latent_strength_theta": 4.0554,
+      "mmr_score": 0.55,
+      "max_sim_to_selected": 0.0,
+      "recommended_variant_id": "CAND_EP003_188_base",
+      "boundary": {
+        "start_beat_id": "B041",
+        "end_beat_id": "B046",
+        "start_time": 119.2,
+        "end_time": 140.5,
+        "duration": 21.3,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "You came here to become a wife.",
+        "opening_character": "THE BEARDED STRANGER",
+        "visual_action": "Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band.",
+        "dialogue_score": 5,
+        "visual_score": 5,
+        "rationale": "Jaw-dropping narrative pivot: 'You came here to become a wife. They took that from you.'"
+      },
+      "cliffhanger": {
+        "final_quote": "Lady Juliana... accept my hand.",
+        "final_character": "THE BEARDED STRANGER",
+        "final_action": "Low-angle medium close-up of The Bearded Stranger on his knee, holding the silver ring high with steady dignity.",
+        "curiosity_gap_score": 5,
+        "cliffhanger_type": "romantic_uncertainty",
+        "specific_question": "Will Juliana say yes and marry this stranger, or will her family stop the ceremony?"
+      },
+      "situational_summary": "A rugged stranger steps up to a wronged bride with a ring, tells her he is returning the marriage taken from her, and drops to one knee to propose in front of a shocked congregation.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "Mid-funnel retargeting / high-intent viral hook / shock reel"
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP003_56",
+      "tournament_rank": 3,
+      "tournament_wins": 7,
+      "tournament_losses": 2,
+      "latent_strength_theta": 1.3892,
+      "mmr_score": 0.1276,
+      "max_sim_to_selected": 0.7858,
+      "recommended_variant_id": "CAND_EP003_56_base",
+      "boundary": {
+        "start_beat_id": "B023",
+        "end_beat_id": "B036",
+        "start_time": 68.1,
+        "end_time": 112.5,
+        "duration": 44.4,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "Take your hands off her.",
+        "opening_character": "THE BEARDED STRANGER",
+        "visual_action": "Close-up on the Noble Matriarch freezing in utter shock and outrage.",
+        "dialogue_score": 5,
+        "visual_score": 4,
+        "rationale": "Explosive, authoritative intervention commanding armed guards to release the bride: 'Take your hands off her.'"
+      },
+      "cliffhanger": {
+        "final_quote": "Why are you doing this?",
+        "final_character": "LADY JULIANA",
+        "final_action": "Close-up on Juliana, her lips parting in quiet astonishment.",
+        "curiosity_gap_score": 4,
+        "cliffhanger_type": "hidden_secret",
+        "specific_question": "What is the stranger's true motive for putting his life on the line to save Juliana?"
+      },
+      "situational_summary": "A mysterious bearded stranger interrupts a chapel gathering to physically rescue a defenseless woman from guards and her hostile family, declaring her worth before she asks why he is helping her.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1,
+      "ideal_ad_placement": "Cold prospecting / high-curiosity hook / top-of-funnel TikTok & Meta ads"
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP003_27",
+      "tournament_rank": 4,
+      "tournament_wins": 6,
+      "tournament_losses": 3,
+      "latent_strength_theta": 0.8918,
+      "mmr_score": 0.1155,
+      "max_sim_to_selected": 0.7365,
+      "recommended_variant_id": "CAND_EP003_27_base",
+      "boundary": {
+        "start_beat_id": "B014",
+        "end_beat_id": "B020",
+        "start_time": 43.3,
+        "end_time": 64.5,
+        "duration": 21.2,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "Wherever a discarded daughter belongs.",
+        "opening_character": "NOBLE MATRIARCH",
+        "visual_action": "Medium shot of the Noble Matriarch looking down her nose in disdain.",
+        "dialogue_score": 4,
+        "visual_score": 3,
+        "rationale": "Vicious insult of disownment ('Wherever a discarded daughter belongs') countered by desperate claim to the church."
+      },
+      "cliffhanger": {
+        "final_quote": "Please! Someone!",
+        "final_character": "LADY JULIANA",
+        "final_action": "The guards tear her grip away from the pew.",
+        "curiosity_gap_score": 5,
+        "cliffhanger_type": "imminent_action",
+        "specific_question": "Will anyone in the cathedral answer Juliana's desperate cry for help before she is dragged away?"
+      },
+      "situational_summary": "A cruel matriarch informs a disowned young woman that her father has rejected her from the family, before having guards forcefully drag her out of her mother's church.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "Mid-funnel retargeting / high-intent hook / viral drama reel"
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP003_31",
+      "tournament_rank": 6,
+      "tournament_wins": 3,
+      "tournament_losses": 6,
+      "latent_strength_theta": 0.245,
+      "mmr_score": -0.0068,
+      "max_sim_to_selected": 0.8553,
+      "recommended_variant_id": "CAND_EP003_31_base",
+      "boundary": {
+        "start_beat_id": "B021",
+        "end_beat_id": "B031",
+        "start_time": 64.5,
+        "end_time": 91.7,
+        "duration": 27.2,
+        "composite_cleanliness": 3.5,
+        "opening_cleanliness": 3,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "visual_action": "High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana.",
+        "dialogue_score": 0,
+        "visual_score": 4,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Are you hurt?",
+        "final_character": "THE BEARDED STRANGER",
+        "final_action": "Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness.",
+        "curiosity_gap_score": 4,
+        "cliffhanger_type": "romantic_uncertainty",
+        "specific_question": "Will Juliana accept the help and protection of this dangerous stranger?"
+      },
+      "situational_summary": "As guards drag a woman down a cathedral aisle before a stunned congregation, an imposing stranger enters, defies the aristocratic family, neutralizes an armed guard with ease, and comes to the woman's defense.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1,
+      "ideal_ad_placement": "Broad cold-traffic prospecting / high-curiosity hero-introduction hook on TikTok & Meta"
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP003_01",
+      "tournament_rank": 7,
+      "tournament_wins": 3,
+      "tournament_losses": 6,
+      "latent_strength_theta": 0.245,
+      "mmr_score": -0.0306,
+      "max_sim_to_selected": 0.8318,
+      "recommended_variant_id": "CAND_EP003_01_base",
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B007",
+        "start_time": 0.0,
+        "end_time": 22.8,
+        "duration": 22.8,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "Look at you...",
+        "opening_character": "LADY IN GOLD GOWN",
+        "visual_action": "Medium shot on Lady Juliana standing abandoned near the altar in her white gown, clutching her mother's medallion to her chest.",
+        "dialogue_score": 3,
+        "visual_score": 4,
+        "rationale": "Direct, spiteful confrontation mocking Juliana's worth and clinging to her mother's locket."
+      },
+      "cliffhanger": {
+        "final_quote": "Now it is mine.",
+        "final_character": "LADY IN GOLD GOWN",
+        "final_action": "Close-up of the Lady in Gold Gown beaming triumphantly.",
+        "curiosity_gap_score": 4,
+        "cliffhanger_type": "betrayal",
+        "specific_question": "Will Juliana retaliate or break down after her sister gloatingly claims her wedding and fianc\u00e9?"
+      },
+      "situational_summary": "An abandoned bride in her wedding gown confronts her rival and former partner at the altar after they steal her wedding.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "High-intent prospecting / viral shock reel / mid-funnel retargeting"
+    }
+  ],
+  "disqualification_audit_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP003_189",
+      "rank": 2,
+      "recommended_boundary": "B041 -> B047",
+      "similarity": 0.9536,
+      "duplicate_of": "CAND_EP003_188",
+      "reason": "Exceeded near-duplicate threshold (0.9536 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP003_189",
+      "rank": 2,
+      "recommended_boundary": "B041 -> B047",
+      "similarity": 0.9536,
+      "duplicate_of": "CAND_EP003_188",
+      "reason": "Exceeded near-duplicate threshold (0.9536 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP003_55",
+      "rank": 5,
+      "recommended_boundary": "B023 -> B035",
+      "similarity": 0.9598,
+      "duplicate_of": "CAND_EP003_56",
+      "reason": "Exceeded near-duplicate threshold (0.9598 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP003_189",
+      "rank": 2,
+      "recommended_boundary": "B041 -> B047",
+      "similarity": 0.9536,
+      "duplicate_of": "CAND_EP003_188",
+      "reason": "Exceeded near-duplicate threshold (0.9536 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP003_55",
+      "rank": 5,
+      "recommended_boundary": "B023 -> B035",
+      "similarity": 0.9598,
+      "duplicate_of": "CAND_EP003_56",
+      "reason": "Exceeded near-duplicate threshold (0.9598 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP003_189",
+      "rank": 2,
+      "recommended_boundary": "B041 -> B047",
+      "similarity": 0.9536,
+      "duplicate_of": "CAND_EP003_188",
+      "reason": "Exceeded near-duplicate threshold (0.9536 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP003_55",
+      "rank": 5,
+      "recommended_boundary": "B023 -> B035",
+      "similarity": 0.9598,
+      "duplicate_of": "CAND_EP003_56",
+      "reason": "Exceeded near-duplicate threshold (0.9598 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP003_34",
+      "rank": 8,
+      "recommended_boundary": "B021 -> B035",
+      "similarity": 0.97,
+      "duplicate_of": "CAND_EP003_31",
+      "reason": "Exceeded near-duplicate threshold (0.9700 >= 0.90)"
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "episode_number": 13,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Atmospheric low-angle tracking shot through an ominous thicket of frozen blackthorn briars sets a hostile setting, though lacks human conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct, urgent warning about immediate physical peril: 'Juliana, look at those thorns. You cannot do this.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual drama: a man in handcuffs trembling as he grips Juliana's arm while cruel figures look down from a stone terrace.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A brief, two-word resolute statement ('I must.') that carries minimal standalone context without prior beats.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on a hooded face with resolute sorrow; standard dramatic framing with low physical urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Visceral warning of bodily harm ('They will tear your hands apart.') that raises immediate physical stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a scarred male face showing pain, establishing character distress but lacking dynamic physical motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle shot of two antagonists smirking down over a balustrade, showing clear hostility but standard framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Reassuring, low-stakes conversational phrase ('I will be fine.') lacking immediate shock value.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard romantic close-up of Juliana looking tenderly into Alexander's eyes.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes declaration of sacrifice: 'I would rather face the gallows than watch you hurt yourself for me.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Visibly bound man straining against his chains while leaning toward the protagonist creates immediate visual friction.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard close-up reaction shot of an antagonist chuckling and crossing his arms.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A defiant vow of loyalty ('I will not abandon you now') paired with Clarissa's sinister sneer ('Careful, sister.').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual tension: Juliana releases manacled hands and walks toward a menacing briar thicket while guards restrain the chained man.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct, sinister taunt establishing mortal stakes: 'That garden has swallowed better women than you.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle framing of a smirking villainess leaning over a terrace balustrade.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp social insult and humiliation: 'Perhaps the beggar's wife will finally learn what her new life is worth.'",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static medium close-up of an arrogant man leaning on a balcony.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Woman drops to her knees before a wall of frozen blackthorn branches, signalling immediate physical submission or trial.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Desperate generic shout of protest ('Juliana, stop!') without specific context.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High physical action: handcuffed prisoner violently lunging forward with raised chained arms as an officer restrains him.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single pleading word ('Please...') offering low standalone narrative context.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Striking visual contrast: POV shot through sharp thorns as a woman crawls on all fours cut against an extreme close-up of a chained, anguished face.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Cruel public mockery over physical torture: 'Look at her hands... The lady has finally found something worthy of her.'",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: extreme close-up of bare hands getting raked by blackthorn spines with bright red blood welling from deep wounds, entirely legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Explicitly exposes the life-or-death quest and blackmail: 'Your husband's freedom is somewhere in that garden.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle medium close-up of an antagonist sneering and shouting down from a balcony.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Visceral, gory macro close-up of a massive needle stabbing directly into the back of a bleeding hand, arresting cold scrollers instantly on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Pained cry of despair ('Please... enough!') that indicates distress but lacks standalone exposition.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a chained man weeping in agony, presenting clear emotional friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Eerie wide tunnel shot showing a woman crawling through a dark, frozen tangle of briars.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Involuntary scream of pain ('Ah!') with no narrative or contextual dialogue.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Graphic close-up insert of a woman's hand getting snagged between vicious thorns, tearing fabric and flesh.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Single urgent shout ('Stop!') lacking narrative exposition.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Dynamic physical action tracking a chained man violently breaking past guards into a desperate charge.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Scream of agony ('Ahhh!') carrying raw emotion but zero narrative substance.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Visceral close-up of branches actively lacerating a woman's cheek and arm as she winces through pain.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Shouted character name ('Juliana!') offering no standalone context.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Sudden violent physical struggle: guard forcefully grapples a prisoner by the collar and slams him against an iron gate.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Disturbing ground-level shot of bloody, torn hands frantically clawing into frozen dirt and brambles.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Shouted name ('Juliana!') repeated without context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up of a chained man physically wrestling against a guard, face contorted in grief and fury.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Desperate plea revealing the specific object of the ordeal: 'Please, ring... you have to be here.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Distressing close-up of a woman lying prone in briars with bloody cuts streaming down her face and bare arms.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme macro reveal of a blood-smeared finger uncovering a massive antique emerald gold ring in frozen earth.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Sudden emotional shift: extreme close-up of wide, disbelieving blue eyes reacting to a hidden discovery.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Compelling visual payoff: extreme close-up of a lacerated, bloody hand seizing a radiant emerald signet ring.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up grimace capturing simultaneous triumph and acute physical pain as thorns catch her knuckles.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Brief reaction cut to a bystander staring in suspended terror.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intense close-up of a sweat- and frost-streaked face grinding teeth through blinding pain.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Striking cliffhanger imagery: macro close-up of a bloodied fist clutching a radiant emerald ring against the frozen ground before cutting to black.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why is the winter thicket being shown?",
+      "stakes_importance": "Low \u2014 atmospheric establishing shot with no characters or immediate conflict introduced.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana heed Alexander's desperate warning or enter the lethal briars?",
+      "stakes_importance": "Medium \u2014 establishes the perilous test and Alexander's desperate attempt to protect her.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why is Juliana willing to endure the briars despite Alexander's plea?",
+      "stakes_importance": "Medium \u2014 locks in her determination to sacrifice herself.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander manage to stop Juliana from tearing her hands apart?",
+      "stakes_importance": "Medium \u2014 heightens the physical danger Juliana faces.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "What cruel trap are Gerald and Clarissa expecting to unfold?",
+      "stakes_importance": "Low \u2014 villain reaction shot establishing malice, but lacks an immediate suspended action.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Juliana truly survive the ordeal she is stepping into?",
+      "stakes_importance": "Low \u2014 brief conversational reassurance with minimal forward momentum.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander break free and prevent Juliana from sacrificing herself, even if it costs his life?",
+      "stakes_importance": "High \u2014 Alexander professes he would rather face execution than let her suffer for him.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why is Gerald amused by their plight?",
+      "stakes_importance": "Low \u2014 brief pause of villain gloating without narrative progression.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Juliana survive the frozen blackthorn thicket, or will Clarissa's ominous warning prove fatal?",
+      "stakes_importance": "High \u2014 emotional point of no return as Juliana walks into the lethal garden to save her husband.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "What horrors have happened to other women who entered this deadly garden?",
+      "stakes_importance": "Medium \u2014 ominous verbal threat highlighting historical lethality.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Gerald's cruel mockery be proven right, or will Juliana endure the trial?",
+      "stakes_importance": "Medium \u2014 public humiliation and class mockery from the villainous former groom.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "Is Juliana truly about to crawl into the razor-sharp blackthorns?",
+      "stakes_importance": "Medium \u2014 suspenseful physical threshold right before entry.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Alexander overpower the Constable and reach Juliana before she enters the brambles?",
+      "stakes_importance": "High \u2014 violent physical struggle and imminent intervention under desperate stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 4,
+      "specific_question": "How severely will Juliana be injured as she crawls under the jagged canopy of thorns?",
+      "stakes_importance": "High \u2014 protagonist enters immediate physical peril under the helpless gaze of her chained husband.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana be crippled by the lacerations while Clarissa and Gerald relish her torment from above?",
+      "stakes_importance": "High \u2014 peak visceral agony combined with callous public humiliation from the malicious sister.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 4,
+      "specific_question": "Is the ring genuinely in the garden, or has Gerald sent Juliana on a tortuous, impossible wild goose chase?",
+      "stakes_importance": "High \u2014 raises existential doubt over whether Gerald's cruel bargain is even real.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the severe puncture wound force Juliana to collapse and give up on saving Alexander?",
+      "stakes_importance": "High \u2014 shocking moment of graphic physical trauma pushing her to her physical limit.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander's agonizing pleas make Gerald or the guards call off this torture?",
+      "stakes_importance": "Medium \u2014 deep emotional anguish, though Alexander is still restrained.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana become trapped or pass out in the deep, freezing tangle?",
+      "stakes_importance": "Medium \u2014 sustained environmental peril and isolation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Juliana free her snared hand and flesh from the thorns without tearing it apart?",
+      "stakes_importance": "High \u2014 acute physical entrapment and pain at an escalating threshold.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Alexander manage to break past the guards and throw himself into the briars to rescue Juliana?",
+      "stakes_importance": "High \u2014 a sudden explosion of physical violence and desperate defiance in chained bonds.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Juliana withstand the lacerations tearing across her face and arm without losing consciousness?",
+      "stakes_importance": "High \u2014 severe facial and physical trauma threatening Juliana's survival.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the Constable knock Alexander unconscious or execute him on the spot for violently resisting arrest?",
+      "stakes_importance": "High \u2014 physical violence against the chained male lead putting his life in immediate jeopardy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana find any trace of the ring before her torn fingers give out entirely?",
+      "stakes_importance": "Medium \u2014 desperate, frenzied searching against time and physical exhaustion.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander break under the grief and rage of watching his wife mutilated before him?",
+      "stakes_importance": "Medium \u2014 emotional reaction shot emphasizing emotional trauma and helplessness.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana's desperate prayer be answered, or will she succumb to blood loss empty-handed?",
+      "stakes_importance": "High \u2014 vulnerable, bleeding protagonist at the absolute nadir of hope.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana manage to seize the emerald signet ring before anyone notices or forces her out?",
+      "stakes_importance": "High \u2014 seismic visual discovery of the vital plot object right under the thorns.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 4,
+      "specific_question": "What will Juliana do the second she confirms the emerald ring is genuinely within her grasp?",
+      "stakes_importance": "High \u2014 dramatic shock of revelation suspended on her disbelieving reaction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 5,
+      "specific_question": "Now that Juliana has seized the ring, will Gerald honor his bargain or find a pretext to execute Alexander anyway?",
+      "stakes_importance": "High \u2014 secures the prize, instantly pivoting the conflict to whether the villain will honor his word.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana successfully pull her hand and the ring free from the razor thorns?",
+      "stakes_importance": "High \u2014 triumphant turn of fate mixed with severe physical peril.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 3,
+      "specific_question": "Does Alexander realize Juliana has found the ring, or does he fear she has succumbed to the briars?",
+      "stakes_importance": "Medium \u2014 suspended tension on the observer's perspective.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana emerge from the briars with the ring to demand Alexander's immediate release?",
+      "stakes_importance": "High \u2014 protagonist steeling her resolve through extreme pain to turn the tables on her captors.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Gerald and Clarissa react when Juliana drags herself out of the briars holding the emerald ring in her bloodied fist?",
+      "stakes_importance": "High \u2014 decisive narrative turning point from victimized torture to undeniable triumph and retribution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "episode_number": 3,
+  "total_candidates": 10,
+  "total_matchups": 45,
+  "pool_selection_note": "Pruned from 17 survivors down to top 10 by Stage 3 composite quality (clustered across 6 opening hooks)",
+  "position_bias": {
+    "a_wins": 24,
+    "b_wins": 21,
+    "a_win_rate": "53.3%"
+  },
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP003_188",
+      "rank": 1,
+      "strength": 4.0554,
+      "wins": 9,
+      "losses": 0,
+      "win_rate": 1.0,
+      "narrative_thread": "Beat B041 to B046 Conflict Arc",
+      "recommended_boundary": "B041 -> B046",
+      "duration": 21.3
+    },
+    {
+      "candidate_id": "CAND_EP003_189",
+      "rank": 2,
+      "strength": 2.2621,
+      "wins": 8,
+      "losses": 1,
+      "win_rate": 0.889,
+      "narrative_thread": "Beat B041 to B047 Conflict Arc",
+      "recommended_boundary": "B041 -> B047",
+      "duration": 26.55
+    },
+    {
+      "candidate_id": "CAND_EP003_56",
+      "rank": 3,
+      "strength": 1.3892,
+      "wins": 7,
+      "losses": 2,
+      "win_rate": 0.778,
+      "narrative_thread": "Beat B023 to B036 Conflict Arc",
+      "recommended_boundary": "B023 -> B036",
+      "duration": 44.4
+    },
+    {
+      "candidate_id": "CAND_EP003_27",
+      "rank": 4,
+      "strength": 0.8918,
+      "wins": 6,
+      "losses": 3,
+      "win_rate": 0.667,
+      "narrative_thread": "Beat B014 to B020 Conflict Arc",
+      "recommended_boundary": "B014 -> B020",
+      "duration": 21.2
+    },
+    {
+      "candidate_id": "CAND_EP003_55",
+      "rank": 5,
+      "strength": 0.5828,
+      "wins": 5,
+      "losses": 4,
+      "win_rate": 0.556,
+      "narrative_thread": "Beat B023 to B035 Conflict Arc",
+      "recommended_boundary": "B023 -> B035",
+      "duration": 42.7
+    },
+    {
+      "candidate_id": "CAND_EP003_31",
+      "rank": 6,
+      "strength": 0.245,
+      "wins": 3,
+      "losses": 6,
+      "win_rate": 0.333,
+      "narrative_thread": "Beat B021 to B031 Conflict Arc",
+      "recommended_boundary": "B021 -> B031",
+      "duration": 27.2
+    },
+    {
+      "candidate_id": "CAND_EP003_01",
+      "rank": 7,
+      "strength": 0.245,
+      "wins": 3,
+      "losses": 6,
+      "win_rate": 0.333,
+      "narrative_thread": "Beat B001 to B007 Conflict Arc",
+      "recommended_boundary": "B001 -> B007",
+      "duration": 22.8
+    },
+    {
+      "candidate_id": "CAND_EP003_34",
+      "rank": 8,
+      "strength": 0.1522,
+      "wins": 2,
+      "losses": 7,
+      "win_rate": 0.222,
+      "narrative_thread": "Beat B021 to B035 Conflict Arc",
+      "recommended_boundary": "B021 -> B035",
+      "duration": 46.3
+    },
+    {
+      "candidate_id": "CAND_EP003_25",
+      "rank": 9,
+      "strength": 0.0882,
+      "wins": 1,
+      "losses": 8,
+      "win_rate": 0.111,
+      "narrative_thread": "Beat B011 to B020 Conflict Arc",
+      "recommended_boundary": "B011 -> B020",
+      "duration": 34.2
+    },
+    {
+      "candidate_id": "CAND_EP003_24",
+      "rank": 10,
+      "strength": 0.0882,
+      "wins": 1,
+      "losses": 8,
+      "win_rate": 0.111,
+      "narrative_thread": "Beat B011 to B019 Conflict Arc",
+      "recommended_boundary": "B011 -> B019",
+      "duration": 29.7
+    }
+  ],
+  "tiebreak_summary": {
+    "total_pairs": 45,
+    "cleanly_separated_by_theta_alone": 43,
+    "cleanly_separated_percentage": 95.6,
+    "tiebreak_tier2_invocations": 2,
+    "tiebreak_tier3_invocations": 0,
+    "tiebreak_tier4_invocations": 0,
+    "tiebreak_events": [
+      {
+        "pair": [
+          "CAND_EP003_24",
+          "CAND_EP003_25"
+        ],
+        "tier_invoked": 2,
+        "tier_name": "Direct Head-to-Head Matchup",
+        "winner": "CAND_EP003_25",
+        "reason": "\u03b8 identical (0.0882), broken by direct match win for CAND_EP003_25"
+      },
+      {
+        "pair": [
+          "CAND_EP003_01",
+          "CAND_EP003_31"
+        ],
+        "tier_invoked": 2,
+        "tier_name": "Direct Head-to-Head Matchup",
+        "winner": "CAND_EP003_31",
+        "reason": "\u03b8 identical (0.2450), broken by direct match win for CAND_EP003_31"
+      }
+    ]
+  }
+}

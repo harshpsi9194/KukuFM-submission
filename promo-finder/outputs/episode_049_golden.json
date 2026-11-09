@@ -1,0 +1,813 @@
+{
+  "episode": "Episode 49",
+  "episode_number": 49,
+  "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+  "continuity_notes": "Directly follows Catherine sending Agnes to fetch Father Thomas under cover of darkness; now in Episode 49, Father Thomas slips into the secluded wing for their covert rendezvous.",
+  "duration": 144.75,
+  "total_beats": 31,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 5.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in.",
+          "start": 0.0,
+          "end": 5.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Hinges creaking softly followed by the muffled thud of a heavy wooden door clicking shut.",
+          "start": 1.0,
+          "end": 4.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Father Thomas, clad in a hooded dark mantle over priestly black robes, secures the door behind him and steps into the shadows of the abandoned corridor.",
+          "start": 1.8,
+          "end": 5.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B002",
+      "start": 5.2,
+      "end": 7.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot on Catherine, draped in a dark hooded cloak over a lavish crimson bodice, holding a brass candlestick aloft.",
+          "start": 5.2,
+          "end": 7.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You took your time.",
+          "start": 5.4,
+          "end": 6.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Quietly Chiding"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B003",
+      "start": 7.0,
+      "end": 8.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Over-the-shoulder shot past Father Thomas's cloaked back looking toward Catherine illuminated in warm candlelight.",
+          "start": 7.0,
+          "end": 8.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B004",
+      "start": 8.8,
+      "end": 15.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Father Thomas under his black hood, his stern face framed by the clerical collar and silver crucifix resting on his chest.",
+          "start": 8.8,
+          "end": 15.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables.",
+          "start": 9.0,
+          "end": 15.2,
+          "timestamp_source": "given",
+          "character": "FATHER THOMAS",
+          "emotion": "Low, Measured"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B005",
+      "start": 15.5,
+      "end": 19.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up profile of Catherine, turning with a slight, knowing smirk.",
+          "start": 15.5,
+          "end": 19.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Good. That's what I pay her for.",
+          "start": 15.8,
+          "end": 18.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Pleased, Cold"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B006",
+      "start": 19.8,
+      "end": 22.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them.",
+          "start": 19.8,
+          "end": 22.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Catherine sets down the brass candleholder, the flame flickering across their faces.",
+          "start": 20.0,
+          "end": 22.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B007",
+      "start": 22.0,
+      "end": 27.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes.",
+          "start": 22.0,
+          "end": 27.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No shadows tonight, Catherine. Just us and an empty wing.",
+          "start": 22.2,
+          "end": 27.2,
+          "timestamp_source": "given",
+          "character": "FATHER THOMAS",
+          "emotion": "Grave"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B008",
+      "start": 27.5,
+      "end": 33.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly.",
+          "start": 27.5,
+          "end": 33.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You didn't need them the first time, either. I just prefer my secrets thorough.",
+          "start": 27.8,
+          "end": 33.0,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Unfazed"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B009",
+      "start": 33.2,
+      "end": 41.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her.",
+          "start": 33.2,
+          "end": 41.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well.",
+          "start": 33.5,
+          "end": 41.5,
+          "timestamp_source": "given",
+          "character": "FATHER THOMAS",
+          "emotion": "Dry, Cynical"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B010",
+      "start": 41.8,
+      "end": 46.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine's face hardening into a stern, focused expression.",
+          "start": 41.8,
+          "end": 46.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.",
+          "start": 42.0,
+          "end": 46.5,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Assertive, Warning"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B011",
+      "start": 46.8,
+      "end": 48.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Father Thomas listening impassively.",
+          "start": 46.8,
+          "end": 48.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B012",
+      "start": 48.5,
+      "end": 53.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium wide two-shot across the candlelit table, Catherine leaning slightly forward.",
+          "start": 48.5,
+          "end": 53.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Today went better than either of us planned for. The whole court watched you humiliate her.",
+          "start": 48.8,
+          "end": 52.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Scheming"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B013",
+      "start": 53.0,
+      "end": 59.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room.",
+          "start": 53.0,
+          "end": 59.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Fitting choice, this room. A place the family forgot for a conversation they mustn't remember.",
+          "start": 53.2,
+          "end": 59.5,
+          "timestamp_source": "given",
+          "character": "FATHER THOMAS",
+          "emotion": "Reflective, Brooding"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B014",
+      "start": 59.8,
+      "end": 62.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Catherine, her lips curling into an amused, knowing smile.",
+          "start": 59.8,
+          "end": 62.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You always did have a taste for symbolism.",
+          "start": 60.0,
+          "end": 62.5,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Amused"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B015",
+      "start": 62.8,
+      "end": 67.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor.",
+          "start": 62.8,
+          "end": 67.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And you always did have a taste for using me. It's why we suit each other.",
+          "start": 63.0,
+          "end": 67.1,
+          "timestamp_source": "given",
+          "character": "FATHER THOMAS",
+          "emotion": "Intimate, Candid"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B016",
+      "start": 67.2,
+      "end": 72.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Catherine, her expression turning razor-sharp and commanding.",
+          "start": 67.2,
+          "end": 72.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then make certain the council remembers that for the full ten days, not just the first hour.",
+          "start": 67.4,
+          "end": 72.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Strict, Urgent"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B017",
+      "start": 72.4,
+      "end": 77.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve.",
+          "start": 72.4,
+          "end": 77.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What is it you actually need from me, Catherine? Say it plainly, for once.",
+          "start": 72.6,
+          "end": 76.8,
+          "timestamp_source": "given",
+          "character": "FATHER THOMAS",
+          "emotion": "Direct"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B018",
+      "start": 77.0,
+      "end": 84.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms.",
+          "start": 77.0,
+          "end": 84.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene.",
+          "start": 77.2,
+          "end": 83.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Calculating, Determined"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B019",
+      "start": 84.0,
+      "end": 91.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent.",
+          "start": 84.0,
+          "end": 91.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.",
+          "start": 84.2,
+          "end": 91.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Fierce, Uncompromising"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B020",
+      "start": 91.4,
+      "end": 94.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Father Thomas absorbing the audacity of her demand.",
+          "start": 91.4,
+          "end": 94.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You want eyes inside the council chamber itself?",
+          "start": 91.6,
+          "end": 94.0,
+          "timestamp_source": "given",
+          "character": "FATHER THOMAS",
+          "emotion": "Skeptical"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B021",
+      "start": 94.2,
+      "end": 98.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up low angle on Catherine, tilting her chin up in defiant pride.",
+          "start": 94.2,
+          "end": 98.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I want eyes and ears everywhere that decides my future.",
+          "start": 94.4,
+          "end": 97.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Haughty, Imperious"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B022",
+      "start": 98.0,
+      "end": 103.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway.",
+          "start": 98.0,
+          "end": 103.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words.",
+          "start": 98.2,
+          "end": 102.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?",
+          "start": 98.3,
+          "end": 103.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Bitterly Resolute"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B023",
+      "start": 103.8,
+      "end": 113.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern.",
+          "start": 103.8,
+          "end": 113.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?",
+          "start": 104.2,
+          "end": 112.8,
+          "timestamp_source": "given",
+          "character": "FATHER THOMAS",
+          "emotion": "Wary, Grave"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B024",
+      "start": 113.0,
+      "end": 118.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot tracking closer as Catherine steps closer toward him.",
+          "start": 113.0,
+          "end": 118.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then make certain he doesn't find out. You're careful. I've seen how careful.",
+          "start": 113.2,
+          "end": 117.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Seductive, Reassuring"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B025",
+      "start": 118.0,
+      "end": 124.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up on Father Thomas's intense, brooding face.",
+          "start": 118.0,
+          "end": 124.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.",
+          "start": 118.2,
+          "end": 124.5,
+          "timestamp_source": "given",
+          "character": "FATHER THOMAS",
+          "emotion": "Stern, Stark"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B026",
+      "start": 124.8,
+      "end": 128.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Catherine, her lips parting into an alluring, promising smile.",
+          "start": 124.8,
+          "end": 128.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Careful men who help me also get remembered.",
+          "start": 125.0,
+          "end": 128.5,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Tempting"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B027",
+      "start": 128.8,
+      "end": 134.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Split focus close-up between Father Thomas's intense gaze and Catherine leaning in close, whispering with lethal conviction.",
+          "start": 128.8,
+          "end": 134.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "A grateful Duchess collects debts differently than a desperate one.",
+          "start": 129.2,
+          "end": 134.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Whispering, Promising"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B028",
+      "start": 134.5,
+      "end": 139.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot as Father Thomas extends his open right hand between them.",
+          "start": 134.5,
+          "end": 139.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Father Thomas slowly raises his right hand, palm turned upward in invitation and pact.",
+          "start": 135.0,
+          "end": 139.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The rest depends on how well you keep your part of this quiet.",
+          "start": 135.2,
+          "end": 139.5,
+          "timestamp_source": "given",
+          "character": "FATHER THOMAS",
+          "emotion": "Low, Resigned"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B029",
+      "start": 139.8,
+      "end": 142.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Father Thomas looking down into her eyes.",
+          "start": 139.8,
+          "end": 142.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then we understand each other.",
+          "start": 140.0,
+          "end": 142.5,
+          "timestamp_source": "given",
+          "character": "FATHER THOMAS",
+          "emotion": "Softly"
+        },
+        {
+          "type": "action",
+          "description": "Catherine reaches out and places her slender hand firmly into Father Thomas's open palm.",
+          "start": 140.5,
+          "end": 142.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B030",
+      "start": 142.8,
+      "end": 144.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine gazing up at him, her eyes glistening in the candlelight.",
+          "start": 142.8,
+          "end": 144.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "We always have.",
+          "start": 143.0,
+          "end": 144.0,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Intimate"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    },
+    {
+      "beat_id": "B031",
+      "start": 144.0,
+      "end": 144.75,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up as Father Thomas gently raises his other hand and cups Catherine's cheek tenderly, her hand resting against his chest as she leans into his touch before cutting to black.",
+          "start": 144.0,
+          "end": 144.75,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+    }
+  ]
+}

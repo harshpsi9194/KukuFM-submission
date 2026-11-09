@@ -1,0 +1,306 @@
+{
+  "episode_number": 12,
+  "total_scored": 12,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP012_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 20.8,
+      "duration": 20.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens on a clear visual establishing shot of a Constable presenting heavy iron handcuffs in front of a stone hearth, ordering Alexander under arrest for theft. Physical setting, immediate legal stakes, and character roles are grounded in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes the conflict: Alexander is being arrested for a stolen watch, Juliana defends him asserting it was planted, and Gerald enters gloating to enforce the accusation. Antagonist and victim roles are clear and self-contained.",
+        "passes_gate": true,
+        "situational_summary": "As a constable attempts to arrest an impoverished veteran for theft, his wife defends him against the arrogant accuser who gloatingly arrives at their cottage."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate spousal defense against a smug, corrupt frame-up"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the arrest and framing inciting incident of the episode without giving away later fallout or resolutions."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP012_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 28.0,
+      "duration": 28.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 immediately grounds the scene with the Constable raising handcuffs before the hearth and declaring Alexander under arrest for theft.",
+        "arc_legibility": true,
+        "arc_rationale": "The dynamic escalates seamlessly from the Constable's arrest to Gerald and Clarissa arriving, Alexander denying the theft, and Juliana directly confronting Gerald for planting the watch. Clear core conflict and clear antagonists.",
+        "passes_gate": true,
+        "situational_summary": "When a constable arrests a veteran for possessing a stolen watch, the man's wife openly confronts and accuses a wealthy rival of planting the evidence."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous outrage and high-stakes confrontation against corrupt accusers"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the active execution of the frame-up and direct accusation of planting evidence, functioning as an inciting confrontation."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP012_03",
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 32.4,
+      "duration": 32.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 provides an unambiguous visual and dramatic anchor: a Constable with handcuffs arresting Alexander for theft in front of the stone hearth.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict showing the arrest, Juliana's defense, Gerald's smug accusation, and the sister Clarissa stepping in to deliver a vicious personal insult against Alexander, provoking his silent fury.",
+        "passes_gate": true,
+        "situational_summary": "A woman defends her accused veteran husband from arrest, only for her cruel, wealthy sister to arrive and mockingly belittle his worth."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Public humiliation and venomous familial betrayal triggering suppressed physical rage"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Presents the framing arrest and exposes the hostile sisterly rivalry; strong cold-prospecting hook material."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP012_04",
+      "start_beat_id": "B002",
+      "end_beat_id": "B013",
+      "start_time": 4.6,
+      "end_time": 46.6,
+      "duration": 42.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 begins in media res with Juliana stepping in front of handcuffs shouting 'No! That watch was not in his coat!'. Because Beat B001 (the actual arrest announcement and theft accusation) is omitted, a cold scroller lacks the establishing context of who the officer is, what watch is being referenced, or why this man is being detained.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full duration, the conflict between Juliana and her cruel sister Clarissa over the trapped husband becomes clear, culminating in Clarissa demanding Juliana crawl.",
+        "passes_gate": false,
+        "situational_summary": "A woman attempts to protect her husband from an ongoing arrest by negotiating with her vindictive sister, who demands total degradation in exchange for help."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Sadistic dominance and cruel sisterly subjugation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the deeper personal motive and extortion dynamic of the sister exploiting the arrest to break Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP012_05",
+      "start_beat_id": "B007",
+      "end_beat_id": "B016",
+      "start_time": 23.7,
+      "end_time": 60.8,
+      "duration": 37.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 opens with Gerald pointing a riding crop in accusation and Juliana immediately lunging forward with 'You planted it!'. The physical confrontation and accusation dynamic are immediately legible without sound or lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: Juliana and Alexander are framed/accused, and Clarissa offers an extortionate, cruel bargain demanding Juliana retrieve an emerald ring from frozen blackthorn briars with bare hands.",
+        "passes_gate": true,
+        "situational_summary": "Faced with framed charges against her husband, a defiant woman confronts her cruel sister, who demands she retrieve a lost ring from frozen blackthorn briars with bare hands before the magistrate arrives."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sadistic public humiliation and cruel extortion"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the extortion terms and setup of the framing conflict; perfect inciting-incident tension for cold traffic."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP012_06",
+      "start_beat_id": "B007",
+      "end_beat_id": "B019",
+      "start_time": 23.7,
+      "end_time": 69.5,
+      "duration": 45.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 establishes the confrontation instantly: Gerald accusingly leveling a riding crop and Juliana furiously lunging forward shouting 'You planted it!'.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc completes the high-stakes bargain: Clarissa not only demands the bare-handed briar retrieval, but explicitly stakes Alexander's life with the ultimatum of the gallows.",
+        "passes_gate": true,
+        "situational_summary": "When her husband is framed, a woman is forced into an agonizing ultimatum by her vindictive sister: tear her bare hands in frozen briars to retrieve a lost ring, or watch her husband hang from the gallows."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Sadistic torment escalating to a life-or-death moral ultimatum"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the extortionate test/ultimatum that drives the episode arc; ideal hook for cold prospecting without spoiling the outcome."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP012_07",
+      "start_beat_id": "B008",
+      "end_beat_id": "B017",
+      "start_time": 28.0,
+      "end_time": 63.2,
+      "duration": 35.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B008 begins mid-action with Clarissa gliding in sneering '...still defending your broken scrap of a man?'. A cold viewer lacks the visual establishing anchor or context for who is being spoken to or what offense prompted this reaction.",
+        "arc_legibility": true,
+        "arc_rationale": "The verbal escalation clearly outlines Clarissa's sadistic demand to shred Juliana's hands in frozen blackthorn briars while Gerald laughs.",
+        "passes_gate": false,
+        "situational_summary": "A woman is subjected to cruel mockery and a vicious demand by her sister and brother-in-law to shred her bare hands in frozen blackthorn briars."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vicious sisterly malice and bodily humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Outlines Clarissa's sadistic task for Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP012_08",
+      "start_beat_id": "B008",
+      "end_beat_id": "B019",
+      "start_time": 28.0,
+      "end_time": 69.5,
+      "duration": 41.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B008 opens on a reactive dialogue snippet ('...still defending your broken scrap of a man?') and a clenched fist without an established physical setup or context for the confrontation.",
+        "arc_legibility": true,
+        "arc_rationale": "The stakes and family cruelty become explicit over the full clip, climaxing in Clarissa's lethal whispered threat of the gallows.",
+        "passes_gate": false,
+        "situational_summary": "A sister demeans a couple and delivers a brutal ultimatum: retrieve a lost ring from razor-sharp frozen briars with bare hands, or let the husband hang from the gallows."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Personal degradation paired with a life-or-death ultimatum"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Sets up the high-stakes moral dilemma of the briar trial vs. the gallows."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP012_09",
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 43.7,
+      "end_time": 74.0,
+      "duration": 30.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Opens on a medium two-shot establishing two women face-to-face with a direct, grounded declaration of malice and relationship ('I want to see you crawl, sister'), instantly establishing the physical setting, who is present, and the hostile interpersonal dynamic.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Clarissa gives a cruel ultimatum to retrieve a ring from frozen briars with bare hands or Alexander hangs; Alexander intervenes to protect his wife, making the stakes, villain, victim, and threat immediately evident.",
+        "passes_gate": true,
+        "situational_summary": "A cruel sister demands a woman shred her bare hands in frozen thorn briars to recover a signet ring, or her husband will be hanged from the gallows."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sadistic public extortion and protective marital devotion under threat of execution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the life-or-death blackmail task/inciting challenge without revealing whether the protagonist accepts or survives it."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP012_10",
+      "start_beat_id": "B013",
+      "end_beat_id": "B021",
+      "start_time": 43.7,
+      "end_time": 87.21,
+      "duration": 43.51,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Opens cleanly on Beat B013 with a medium two-shot of Clarissa confronting Juliana with the grounded line 'I want to see you crawl, sister', immediately framing the familial rivalry, character presence, and antagonistic stakes in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained arc from sadistic demand to lethal stakes ('your husband hangs'), ending in Juliana's brave choice to sacrifice her hands to protect her husband, establishing clear heroes, villains, and moral conflict.",
+        "passes_gate": true,
+        "situational_summary": "Faced with an ultimatum that her husband will hang unless she tears her bare hands in frozen briars to retrieve a ring, a devoted wife defiantly agrees to the torturous ordeal."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Lethal extortion met with sacrificial love and resolute defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the setup and acceptance of the briar ordeal challenge without spoiling its execution or narrative outcome."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP012_11",
+      "start_beat_id": "B016",
+      "end_beat_id": "B021",
+      "start_time": 56.8,
+      "end_time": 87.21,
+      "duration": 30.41,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B016 opens mid-scene with Gerald laughing mockingly and Clarissa commanding 'You will retrieve it with your bare hands before the magistrate arrives.' A cold viewer has no idea what 'it' is, what magistrate is coming, or why this punishment is happening without prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "The overarching stakes clarify across the clip as the hanging threat is voiced and Juliana resolves to save Alexander, but the opening premise remains disjointed due to the missing antecedent 'it'.",
+        "passes_gate": false,
+        "situational_summary": "A woman is ordered to retrieve an unspecified object with her bare hands under threat of her husband's execution, resolving to accept the challenge."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Sadistic physical torture ultimatum countered by fierce marital loyalty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the bare-hand briar challenge conditions and Juliana's decision to accept the terms."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP012_12",
+      "start_beat_id": "B019",
+      "end_beat_id": "B021",
+      "start_time": 65.2,
+      "end_time": 87.21,
+      "duration": 22.01,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 opens on an extreme close-up of a woman whispering venomously into another woman's ear with the stark, unambiguous threat 'Fail, or refuse, and your husband hangs from the gallows.' The visual anchor and explicit life-or-death dynamic are completely intelligible in isolation.",
+        "arc_legibility": false,
+        "arc_rationale": "While the life-or-death hanging stakes are clear, the actual condition for failure is never stated ('Fail, or refuse...'). Juliana asks 'Tell me where the garden is' at the end, leaving a cold scroller totally confused about what task she is actually accepting or what 'the garden' entails.",
+        "passes_gate": false,
+        "situational_summary": "Under threat of her husband's hanging, a woman accepts an unexplained mission concerning a garden."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Life-or-death hanging threat met with protective defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals that the husband is facing immediate execution unless an ultimatum is met."
+      }
+    }
+  ]
+}

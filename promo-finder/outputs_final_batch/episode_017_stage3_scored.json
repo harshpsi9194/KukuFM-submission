@@ -1,0 +1,131 @@
+{
+  "episode_number": 17,
+  "total_scored": 5,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP017_01",
+      "start_beat_id": "B003",
+      "end_beat_id": "B010",
+      "start_time": 7.0,
+      "end_time": 31.5,
+      "duration": 24.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B003 opens on an isolated medium close-up of Juliana's bruised, tear-streaked face saying 'Some of them survived' with no establishing shot, no visible companion, and no clear physical setting or context for who 'them' refers to.",
+        "arc_legibility": true,
+        "arc_rationale": "The broader dialogue and action clearly establish a wounded woman thanking a stoic protector for defending her against violent attackers and his vow to shield her at all costs.",
+        "passes_gate": false,
+        "situational_summary": "A battered woman thanks a scarred protector who fought off an attack for her, and he drops to his knees promising that no one will ever hurt her again."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Tender romantic devotion and fierce protective chivalry following trauma"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the aftermath of an attack and solidifies Alexander's protective pledge to Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP017_02",
+      "start_beat_id": "B003",
+      "end_beat_id": "B012",
+      "start_time": 7.0,
+      "end_time": 36.5,
+      "duration": 29.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B003 begins on an ungrounded medium close-up of a tearful woman stating 'Some of them survived' without establishing the environment, the threat, or the presence of Alexander.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained emotional sequence showing a survivor expressing gratitude to her defender, culminating in his defiant, unshakable vow of protection.",
+        "passes_gate": false,
+        "situational_summary": "After surviving a violent assault, a vulnerable woman challenges her protector's promise of safety, only for him to double down with absolute conviction."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Fierce, unyielding protective romantic devotion"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the emotional aftermath of an attack and a definitive romantic/protective vow."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP017_03",
+      "start_beat_id": "B014",
+      "end_beat_id": "B019",
+      "start_time": 39.0,
+      "end_time": 63.5,
+      "duration": 24.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 immediately establishes the setting and dynamic: a medium shot in a firelit stone cottage showing Juliana kneeling by a washbasin tenderly cleaning the wounded knuckles of a seated man, accompanied by the grounded dialogue 'You were bleeding last night.'",
+        "arc_legibility": true,
+        "arc_rationale": "The interaction is completely self-contained: two wounded companions in intimate domestic recovery, moving from playful banter about mutual injuries to an explicit, heartfelt confession of love and fear of loss.",
+        "passes_gate": true,
+        "situational_summary": "While tenderly tending to a man's wounded hands by the hearth, a woman confesses that her true fear during the recent violence was losing him."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Intimate vulnerability and unguarded romantic confession following danger"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals mutual injuries from a past fight and Juliana's emotional confession of feelings for Alexander."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP017_04",
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 39.0,
+      "end_time": 66.0,
+      "duration": 27.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 opens with an unambiguous establishing medium shot in a firelit cottage with clear spatial grounding and physical actions (washing wounded hands) paired with direct contextual dialogue ('You were bleeding last night').",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dynamic of mutual protection and affection, building naturally to a raw emotional confession and the male lead's visibly moved, softened reaction.",
+        "passes_gate": true,
+        "situational_summary": "While dressing a warrior's wounds by the fire, a woman admits her deepest fear was losing him, leaving him visibly touched and disarmed."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Tender romantic confession breaking through stoic emotional barriers"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the intimate turning point where Juliana openly confesses her attachment to Alexander."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP017_05",
+      "start_beat_id": "B019",
+      "end_beat_id": "B027",
+      "start_time": 60.5,
+      "end_time": 118.88,
+      "duration": 58.38,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 opens mid-conversation with a tight close-up on Juliana saying 'Of losing you.' Without prior context or an establishing visual anchor, a cold scroller cannot tell who she is speaking to, where they are, or what question prompted this response. Opening on an ungrounded mid-sentence answer fails legibility.",
+        "arc_legibility": true,
+        "arc_rationale": "The scene clearly establishes a tender romance between a married couple who harbor mutual mystery, culminating in Juliana's realization that despite knowing almost nothing about the man she married, she chooses to trust him.",
+        "passes_gate": false,
+        "situational_summary": "In front of a warm fireplace, a young woman playfully banters with and embraces her mysterious husband, acknowledging that although she knows little about his past, she chooses to trust him."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Tender romantic intimacy balanced with underlying mystery and vulnerability"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Premise and relationship status establishment; sets up the core marriage-of-convenience/mysterious-husband dynamic without revealing secrets or turning points."
+      }
+    }
+  ]
+}

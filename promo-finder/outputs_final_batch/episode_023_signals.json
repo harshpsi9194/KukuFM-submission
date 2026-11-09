@@ -1,0 +1,636 @@
+{
+  "episode_number": 23,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Atmospheric moody wide shot through bed curtains with candlelight, but lacks immediate physical action or acute visual conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Establishes urgent danger and illicit presence with 'Juliana, we cannot stay for long. Someone will come.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up showing trembling hands holding a candlestick conveys nervousness, though visually conventional.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Gently inspecting the frail hands of a dying woman conveys sorrow, but lacks sharp mute scroll-stop impact.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Investigative inquiry ('How long has she been like this?') setup without high standalone conflict.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual drama: close-up reveals shocking purplish-black discoloration under the nails, instantly signaling foul play on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Single-word factual response ('Weeks.') offering minimal standalone auditory shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Prudence leaning against a bedpost with tears glistening provides mild emotional mood without urgent action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "High-angle two-shot touching parched lips shows medical intimacy but low standalone scroll-stopping momentum.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Clinical observation ('Her mouth is terribly dry.') with low immediate dramatic stakes.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up of a concerned face withdrawing a finger from lips is subdued and slow-paced.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Standard medical check line ('Her pulse is weak.') that functions as routine exposition.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium shot checking a wrist pulse lacks sharp visual disruption.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly announces imminent mortality: 'The physician said her heart is failing.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of an attendant crying openly in distress by flickering candlelight gives noticeable emotional friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present; includes only sound effects of labored breathing.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Visually alarming close-up of a woman gasping hoarsely and visibly straining to breathe, creating instant visceral urgency on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Emphatic defiance ('No.') breaks the consensus but is too brief to carry standalone context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Juliana standing upright with her expression hardening into fierce skepticism creates an engaging visual shift in power.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Challenges the official narrative with sharp suspicion: 'This is not simply old age.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Pan down pulling a worn leather notebook from an apron pocket is a mild narrative action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Quick reaction shot of bewildered eyes conveys surprise but is brief and lacks surrounding context.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Medium shot of someone sitting and opening a journal across their lap is quiet and slow.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Overhead close-up of yellowed parchment showing sketches of toxic herbs immediately telegraphs poison and mystery on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Sharp physical reaction shot with widening eyes in sudden horror arrests viewer attention visually.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Single gasped word ('Mother.') lacking specific narrative conflict without prior context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on a face visibly stunned by a document reveal provides distinct emotional tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Standard prompt question ('What is it?') offering negligible standalone auditory punch.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot leaning in with a trembling candle shows mild suspense but standard framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Rapid diagnostic recitation of dark physical symptoms ('Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting.') evokes medical dread.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Two-shot with an open journal and a motionless body in the background creates atmosphere without dynamic action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of stunned disbelief registers emotion but remains a static reaction shot.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Foreboding assertion of grim expertise: 'I have seen these symptoms before.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of a character speaking firmly is narrative setup without sharp visual novelty.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Generic terrified prompt ('What are you saying?') relying entirely on surrounding lines for stakes.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of an openly terrified face delivers clear, legible emotional tension on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of hands snapping a journal shut provides a crisp physical punctuation mark but low hook drama alone.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive, lethal revelation delivering instant high stakes: 'Someone is poisoning her.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up of Juliana staring square-on with hands rested on the closed journal delivers firm, confrontational intensity.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Single-word echo ('Poison?') highlights lethal conspiracy, though primarily serves as a stunned reaction.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Clamping both hands over her mouth in sheer horror provides a dramatic, universally legible gesture of shock on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Chilling, cold one-word confirmation naming the murder weapon: 'Arsenic.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up pushing tight into eyes hardening with righteous fury and disgust grips attention instantly without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present; contains only coughing sound effects.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Violent coughing spasms in bed followed by Juliana whipping around creates immediate physical crisis and visual chaos.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Dynamic tracking shot rushing across the room unpacks glass vials and herbal bundles with kinetic urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Life-or-death plea ('Can you save her?') explicitly establishes mortal jeopardy.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of tear-streaked face pleading desperately conveys high emotional stakes on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Tempered resolution ('I can try.') sets up high-stakes effort but lacks explosive verbal punch.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Uncorking an apothecary bottle while the patient lies behind her is clear procedural action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Top-down close-up of soot-smudged hands pouring black powder and dried leaves into a mortar engages curiosity about the antidote.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Urgent life-or-death race against time: 'The charcoal may help remove what is still inside her. We must act quickly.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Intense grinding action combined with a sudden cut to the bedroom door framed through curtains creates dual visual urgency.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Freezing mid-motion and whipping head toward the door signals an immediate external threat without dialogue.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a stationary ornate door handle establishes impending danger, though physically static until turned.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Panic-stricken warning of imminent capture: 'Juliana... someone is coming.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of an attendant drained of all color in pure terror instantly communicates an imminent breach on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Rapid panicking glances between the dying patient and the door visually capture being cornered mid-crime/cure.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: brass handle rotating downward and heavy door cracking open into the room visually demands immediate resolution.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why are Juliana and Prudence sneaking around in the Duchess's dark bedchamber?",
+      "stakes_importance": "Low \u2014 establishes illicit presence and atmosphere, but no direct conflict or danger has manifested.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who will discover Juliana and Prudence in the Duchess's room?",
+      "stakes_importance": "Medium \u2014 introduces the imminent threat of discovery, but remains a generic verbal warning.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 1,
+      "specific_question": "What is wrong with the Dowager Duchess's hands?",
+      "stakes_importance": "Low \u2014 observational medical examination with no specific anomaly yet highlighted.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "What caused the unnatural purplish-black discoloration beneath the Duchess's nails?",
+      "stakes_importance": "Medium \u2014 raises a medical mystery indicating potential foul play.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why has the Duchess been suffering for weeks without proper aid?",
+      "stakes_importance": "Low \u2014 answers Juliana's question from B004, establishing passive duration rather than an active hook.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 1,
+      "specific_question": "What will Juliana discover from inspecting the Duchess's mouth?",
+      "stakes_importance": "Low \u2014 routine physical diagnostic action without high stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 1,
+      "specific_question": "What is causing the Duchess's severe dehydration and parched mouth?",
+      "stakes_importance": "Low \u2014 clinical symptom observation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "Is the Duchess about to succumb to her failing pulse?",
+      "stakes_importance": "Medium \u2014 highlights life-threatening frailty, but lacks an active antagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "Is the physician's diagnosis of heart failure accurate or a deliberate cover-up?",
+      "stakes_importance": "Medium \u2014 establishes the official narrative, priming a potential medical contradiction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the Duchess suffocate and die before Juliana can intervene?",
+      "stakes_importance": "Medium \u2014 physical distress elevates urgency.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why is Juliana so fiercely certain the official medical diagnosis is wrong?",
+      "stakes_importance": "Medium \u2014 direct contradiction of the physician sets up a hidden conspiracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "What sinister condition does Juliana believe is afflicting the Duchess instead of old age?",
+      "stakes_importance": "Medium \u2014 explicit rejection of natural causes deepens the conspiracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 2,
+      "specific_question": "What does Juliana know that leaves Prudence so bewildered?",
+      "stakes_importance": "Low \u2014 simple reaction beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 2,
+      "specific_question": "What secret botanical knowledge is recorded inside Juliana's notebook?",
+      "stakes_importance": "Medium \u2014 investigation beat pointing toward specialized toxicological lore.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "Which lethal poison in Juliana's journal matches the Duchess's exact affliction?",
+      "stakes_importance": "Medium \u2014 visual reveal of toxic herb sketches confirms foul play.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "What shocking truth did Juliana just read that caused her to gasp in horror?",
+      "stakes_importance": "Medium \u2014 sharp emotional reaction signaling a terrible realization.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 3,
+      "specific_question": "What secret did Juliana's late mother leave behind in the journal regarding this ailment?",
+      "stakes_importance": "Medium \u2014 ties family lineage and legacy secrets to the present medical crisis.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 2,
+      "specific_question": "What discovery is Juliana about to reveal to Prudence?",
+      "stakes_importance": "Low \u2014 verbal setup question awaiting Juliana's explanation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 3,
+      "specific_question": "What lethal condition matches this exact constellation of devastating symptoms?",
+      "stakes_importance": "Medium \u2014 builds undeniable diagnostic proof of unnatural harm.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Prudence react once Juliana names the sinister condition?",
+      "stakes_importance": "Low \u2014 transitional reaction shot.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "Where has Juliana encountered these deadly symptoms before, and what does it signify?",
+      "stakes_importance": "High \u2014 establishes Juliana's certainty of an insidious crime in progress.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "What horrific accusation is Juliana about to utter?",
+      "stakes_importance": "Medium \u2014 suspenseful prompt just before the major revelation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 3,
+      "specific_question": "What definitive conclusion has Juliana reached that prompted her to snap the journal shut?",
+      "stakes_importance": "Medium \u2014 dramatic non-verbal punctuation signaling resolve and danger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who inside the ducal household is secretly poisoning the Dowager Duchess to death?",
+      "stakes_importance": "High \u2014 catastrophic revelation transforming a sickbed scene into an active murder investigation and conspiracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who has orchestrated this deliberate poisoning against the Duchess?",
+      "stakes_importance": "High \u2014 echoes the massive revelation with raw terror and dread.",
+      "defuses_tension": true,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who had access to administer arsenic to the Duchess, and can Juliana save her before the poison finishes her off?",
+      "stakes_importance": "High \u2014 precise, lethal weapon named; raises the stakes to calculated cold-blooded homicide.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 4,
+      "specific_question": "Is the Duchess suffering her final death throes from the arsenic right now?",
+      "stakes_importance": "High \u2014 sudden violent medical crisis creates immediate life-or-death panic.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 3,
+      "specific_question": "Does Juliana possess the specific antidote required to counter arsenic poisoning?",
+      "stakes_importance": "Medium \u2014 urgent race against time to prepare an antidote.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana successfully neutralize the lethal dose of arsenic before the Duchess expires?",
+      "stakes_importance": "Medium \u2014 direct verbalization of the central survival stake.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's desperate medical remedy take effect before the Duchess's body gives out?",
+      "stakes_importance": "Medium \u2014 tension hinges on the uncertain efficacy of an illicit treatment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's charcoal and herbal compound absorb the arsenic in time?",
+      "stakes_importance": "Medium \u2014 tactile preparation of the antidote under severe time pressure.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who is approaching the chamber door right as Juliana is caught administering an illicit antidote?",
+      "stakes_importance": "High \u2014 simultaneous collisions of life-or-death poisoning cure and impending discovery by a potential assassin.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana hide the antidote or be caught red-handed over the dying Duchess?",
+      "stakes_importance": "High \u2014 frozen in panic as an intruder arrives.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who is turning the door handle, and are they the one responsible for poisoning the Duchess?",
+      "stakes_importance": "High \u2014 imminent confrontation with an unknown, dangerous arrival.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Prudence panic and expose them to whoever is walking through the door?",
+      "stakes_importance": "High \u2014 terror of immediate discovery and capture.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana administer the unfinished antidote to save the Duchess or conceal herself before the intruder steps in?",
+      "stakes_importance": "High \u2014 agonizing dilemma between saving a life and guaranteeing her own destruction upon discovery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who is stepping through the opening door to catch Juliana holding the poison antidote over the dying Duchess?",
+      "stakes_importance": "High \u2014 peak suspense of an imminent reveal and physical confrontation suspended mid-entry.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

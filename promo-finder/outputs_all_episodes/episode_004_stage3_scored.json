@@ -1,0 +1,1096 @@
+{
+  "episode_number": 4,
+  "total_shortlist_candidates": 33,
+  "comprehension_gate_pass_rate": "14/33 (42.4%)",
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP004_03",
+      "start_beat_id": "B001",
+      "end_beat_id": "B011",
+      "start_time": 0.0,
+      "end_time": 27.9,
+      "duration": 27.9,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B001 to B011 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_03",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B001 in strict isolation is merely a 1.5s close-up of a scarred hand holding out a silver band ring. It features no dialogue, no faces, no setting, and establishes neither who the conflicting parties are nor what stakes or dramatic tension exist.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full arc (B001 -> B011), the situational conflict is completely understandable on its own: a discarded bride being publicly mocked by a cruel couple in church pews is unexpectedly offered a marriage proposal by a kneeling stranger, prompting her to ask why he would offer her his name.",
+        "passes_gate": false,
+        "situational_summary": "A humiliated and discarded bride being publicly mocked by a sneering couple is unexpectedly offered a wedding ring and proposal by an earnest stranger.",
+        "missing_context": "The opening beat (B001) is a 1.5-second isolated shot of a hand offering a ring with zero situational grounding, conflict, or character setup. The clip depends entirely on subsequent beats (B003\u2013B006) to reveal that a wedding humiliation and conflict are taking place, failing cold opening legibility within the first few seconds.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_03",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_03",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_06",
+      "start_beat_id": "B001",
+      "end_beat_id": "B016",
+      "start_time": 0.0,
+      "end_time": 38.9,
+      "duration": 38.9,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B001 to B016 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_06",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B001 in strict isolation is merely a silent close-up of a scarred hand holding out a silver ring. To a cold viewer, it establishes neither who is in conflict nor why\u2014there are no identifiable characters, no dialogue, and no context explaining who is offering the ring or who is receiving it.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full arc (B001 to B016), the situation is fully articulated: a publicly discarded bride is mocked by her ex-partner and rival in the chapel pews, while an unexpected, honorable stranger kneels to offer her marriage and defend her dignity.",
+        "passes_gate": false,
+        "situational_summary": "A scarred stranger offers a marriage ring to a discarded woman being mocked by an arrogant couple in a chapel, promising her honor after betrayal.",
+        "missing_context": "The opening beat (B001) is a silent insert of a scarred hand holding a ring with zero narrative or conflict grounding. A cold viewer cannot tell who is involved, where they are, or what stakes are at play without relying on subsequent beats.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_06",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_06",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_09",
+      "start_beat_id": "B001",
+      "end_beat_id": "B020",
+      "start_time": 0.0,
+      "end_time": 52.8,
+      "duration": 52.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B001 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_09",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B001 in isolation is merely a 1.5-second close-up of a scarred hand holding out a silver ring. Without dialogue, facial reactions, or setting established, a cold viewer cannot tell who is offering the ring, who it is being offered to, where they are, or what central conflict is taking place.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 52.8s arc, the situation is completely clear: a discarded bride is mocked by her ex and rival in the church pews, only for a mysterious scarred stranger to kneel and offer her marriage and protection, validating her worth in spite of her family's betrayal.",
+        "passes_gate": false,
+        "situational_summary": "At a wedding chapel, a rejected bride mocked by her former fianc\u00e9 and sister is offered a silver band and proposal by a mysterious, earnest kneeling stranger who promises she will no longer stand alone.",
+        "missing_context": "Opening beat B001 is a visual insert of a scarred hand holding a ring with no dialogue or context. It fails to establish who is in conflict or the wedding/altar setting within the first beat, relying on later beats (B002\u2013B006) to reveal that a proposal is occurring amidst public mockery.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_09",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_09",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_35",
+      "start_beat_id": "B004",
+      "end_beat_id": "B011",
+      "start_time": 5.0,
+      "end_time": 27.9,
+      "duration": 22.9,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B004 to B011 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_35",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 in isolation immediately grounds the core conflict, dynamic, and setting: a venomous man's tight close-up delivering the scathing insult 'A penniless nobody for a discarded bride.' Within seconds, a cold viewer instantly grasps that a rejected/abandoned bride is being publicly humiliated and matched with an undesirable partner.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc is completely self-contained: antagonists (Gerald and Clarissa) mock and demean Juliana as a worthless, discarded bride, while an earnest mysterious stranger kneels before her proposing marriage ('offer me your name'), creating a clear, high-stakes confrontation and cliffhanger.",
+        "passes_gate": true,
+        "situational_summary": "After being publicly mocked as a discarded bride by a gloating couple, a humiliated woman questions an earnest kneeling stranger who unexpectedly offers her his name in marriage.",
+        "missing_context": null,
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_35",
+        "emotional_salience_score": 4,
+        "emotional_core": "Raw vulnerability and psychological isolation: Juliana absorbs public humiliation and status degradation from Gerald and Clarissa, centering inward to confront her own perceived worthlessness when asking a stranger why he would offer her his name.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues, the sequence transitions from sharp public cruelty (Gerald's venomous taunt and Clarissa's mocking laughter) through Juliana's physicalized hurt into an intimate, agonizing confession of unworthiness ('You heard what they think I am / Why would you offer me your name?'). While it stops short of a level-5 catastrophic climax or decisive revenge turnaround, the acute vulnerability and dramatic stakes elevate it well above routine confrontation."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_35",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major relationship milestone: Juliana has been publicly discarded by Gerald in favor of Clarissa, and an unknown bearded stranger has spontaneously stepped in to offer marriage/his name in the midst of her public humiliation.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral shock reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_38",
+      "start_beat_id": "B004",
+      "end_beat_id": "B016",
+      "start_time": 5.0,
+      "end_time": 38.9,
+      "duration": 33.9,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B004 to B016 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_38",
+        "opening_legibility": true,
+        "opening_rationale": "In strict isolation, a tight close-up of a man sneering 'A penniless nobody for a discarded bride' immediately grounds a cold viewer in the central dynamic: a cruel antagonist mocking an abandoned bride over a lowly match.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 33.9s arc is entirely self-contained: spiteful antagonists publicly demean the rejected bride, only for a mysterious kneeling stranger to defend her dignity and validate her worth against her mockers.",
+        "passes_gate": true,
+        "situational_summary": "A discarded bride is publicly mocked by an arrogant couple for marrying a 'nobody', but the kneeling stranger defends her dignity, affirming she was betrayed rather than worthless.",
+        "missing_context": null,
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_38",
+        "emotional_salience_score": 4,
+        "emotional_core": "Shift from public humiliation and internalized unworthiness to unexpected validation and dignity offered by a kneeling stranger.",
+        "relative_rank_justification": "Candidate starts with vicious personal mockery from Gerald and Clarissa ('worthless', 'discarded bride') cutting Juliana deeply, but pivots into intimate, high-stakes vulnerability as she questions the kneeling stranger ('You heard what they think I am. Why would you offer me your name?'). The stranger's unwavering affirmation directly counters the family's cruelty, creating powerful emotional resonance and an empowering emotional shift, falling just shy of an irreversible climax or physical rupture."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_38",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes the major relationship and plot milestone following Juliana's abandonment: the kneeling mysterious stranger intervening to offer her his name and publicly defending her against Gerald and Clarissa's humiliation.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent hook / viral emotional rescue ad"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_41",
+      "start_beat_id": "B004",
+      "end_beat_id": "B020",
+      "start_time": 5.0,
+      "end_time": 52.8,
+      "duration": 47.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B004 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_41",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 immediately grounds the viewer in the core conflict: a tight close-up of a smug, venomous antagonist delivering the direct insult 'A penniless nobody for a discarded bride.' Within the first 2.5 seconds, a cold viewer instantly grasps that a rejected bride is being publicly humiliated and matched with a low-status stranger.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc is completely coherent and emotionally self-contained: it moves seamlessly from the public mockery of the discarded bride by the smug couple in the pew to a kneeling, mysterious stranger offering his name, ring, and protection against her cruel family.",
+        "passes_gate": true,
+        "situational_summary": "After being publicly humiliated as a discarded bride by a gloating antagonist and rival, a rejected woman is approached by a kneeling stranger who defends her honor and offers her marriage so she no longer has to stand alone.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_41",
+        "emotional_salience_score": 4,
+        "emotional_core": "Profound validation following brutal public humilation: transitioning from cruel public mockery by family to radical, steadfast chivalry and rescue by a kneeling stranger.",
+        "relative_rank_justification": "High emotional resonance: opens on visceral contempt ('worthless', 'discarded bride') that cuts Juliana deeply, followed by a deeply vulnerable, intimate dialogue where the stranger dismantles her isolation ('A woman who was betrayed. Not a woman who deserves to be discarded') and offers unwavering protection. Script-derived cues (glistening tears, steadying breath, kneeling posture against stained glass, weathered hand offering the ring) establish this as a pivotal emotional healing and dignity-restoration beat within the episode."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_41",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes a major relationship turning point and status-quo shift: shows Gerald and Clarissa mocking Juliana as a 'discarded bride', while the Mysterious Bearded Man kneels and proposes marriage to her on the spot with a ring. However, his secret identity remains unrevealed, preventing it from reaching Level 3.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent viral reel / episode-unlock hook"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_43",
+      "start_beat_id": "B004",
+      "end_beat_id": "B022",
+      "start_time": 5.0,
+      "end_time": 59.0,
+      "duration": 54.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B004 to B022 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_43",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 immediately grounds the situation visually and verbally: a tight close-up of a man's venomous, gloating face delivering the biting insult 'A penniless nobody for a discarded bride.' Within seconds, a cold viewer instantly grasps that a woman has been abandoned/rejected at a wedding and is now being publicly humiliated over an unworthy replacement suitor.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 54-second clip presents a complete, emotionally resonant micro-arc: the cruel family and former groom mock the discarded bride, only for an earnest kneeling stranger to offer her his name and ring, culminating in her fierce, proud refusal to be accepted out of mere charity or pity.",
+        "passes_gate": true,
+        "situational_summary": "Following mockery from a venomous rival couple over being a 'discarded bride', a mysterious stranger kneels to offer a ring and marriage to the abandoned woman, who proudly demands he take the ring back if it is merely pity or charity.",
+        "missing_context": null,
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_43",
+        "emotional_salience_score": 4,
+        "emotional_core": "Raw vulnerability meeting unexpected validation: moving from public humiliation and mockery by Gerald and Clarissa into deep psychological exposure before a kneeling stranger, culminating in fierce, defensive pride against becoming an object of pity.",
+        "relative_rank_justification": "High emotional resonance: unlike standard soap-opera bickering, this scene captures genuine emotional stakes. Juliana transitions from cutting hurt at being branded 'worthless' to an intimate, trembling interrogation of a stranger offering redemption, guarding her dignity ('I will not become anyone's charity') even while deeply vulnerable."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_43",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the major episode plot resolution and relationship milestone: the discarded bride Juliana being proposed to at the altar by a mysterious stranger right in front of Gerald and Clarissa, including his ring offer and her conflicted reaction to his intervention.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral dramatic hook"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_45",
+      "start_beat_id": "B005",
+      "end_beat_id": "B011",
+      "start_time": 7.6,
+      "end_time": 27.9,
+      "duration": 20.3,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B011 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_45",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B005 begins in media res with Clarissa covering her mouth, laughing cruelly, and stating 'How fitting.' In strict isolation, this is an unexplained reaction to an unseen event with zero situational grounding: a cold viewer cannot tell who she is laughing at, what is 'fitting', or what conflict has occurred.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full arc (B005\u2013B011), the conflict becomes clear as a mocking couple in a chapel mocks Juliana for finding a 'worthless' man, while a kneeling mysterious stranger offers to marry/name her despite her humiliation.",
+        "passes_gate": false,
+        "situational_summary": "A spiteful woman mocks the protagonist in a chapel, but a mysterious kneeling stranger offers to marry and defend her.",
+        "missing_context": "Opening beat B005 drops into an unexplained reaction ('How fitting' and cruel laughter) without showing what just happened or who is being addressed. It relies on subsequent lines to retroactively explain the conflict, failing opening legibility in isolation.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_45",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_45",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_48",
+      "start_beat_id": "B005",
+      "end_beat_id": "B016",
+      "start_time": 7.6,
+      "end_time": 38.9,
+      "duration": 31.3,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B016 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_48",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B005 shows a woman laughing cruelly behind a gloved hand and stating 'How fitting.' In strict isolation, this provides zero situational context: a cold viewer cannot tell who she is laughing at, where this is happening, what just occurred, or what 'fitting' refers to. It drops completely in media res without grounding the conflict or setting.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full arc from B005 to B016, the situation becomes thoroughly legible: a cruel couple mocks a woman for being worthless, but a kneeling stranger defends her dignity by proposing to marry her and declaring she was betrayed rather than discarded.",
+        "passes_gate": false,
+        "situational_summary": "A cruel spectator mocks a humiliated woman, only for a mysterious kneeling stranger to offer her his name and defend her honor against her mockers.",
+        "missing_context": "Beat B005 opens in media res with an unexplained cruel reaction ('How fitting') without establishing the target of the ridicule, the wedding/chapel setting, or the proposal scenario. A cold viewer needs subsequent beats (B006\u2013B008) to understand the conflict, violating opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_48",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_48",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_51",
+      "start_beat_id": "B005",
+      "end_beat_id": "B020",
+      "start_time": 7.6,
+      "end_time": 52.8,
+      "duration": 45.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_51",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B005 in strict isolation shows a woman laughing spitefully behind a gloved hand and stating 'How fitting.' To a cold viewer, it provides no context on who she is laughing at, where she is, or what conflict or event just occurred, completely failing to establish who is in conflict and why within 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 45.2-second progression, the dramatic situation is entirely clear: a humiliated and rejected woman, mocked by her sister and ex-partner in church, is unexpectedly proposed to and validated by an earnest kneeling stranger who offers her protection and his name.",
+        "passes_gate": false,
+        "situational_summary": "A publicly humiliated woman in a chapel is mocked by her cruel sister, but a kneeling mysterious warrior steps forward to offer her his name and protection.",
+        "missing_context": "Opening beat B005 drops into an isolated mocking reaction ('How fitting') without establishing who is being mocked, the church/wedding setting, or the preceding proposal/rejection scene. A cold viewer has no situational grounding until later beats retroactively explain the conflict.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_51",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_51",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_53",
+      "start_beat_id": "B005",
+      "end_beat_id": "B022",
+      "start_time": 7.6,
+      "end_time": 59.0,
+      "duration": 51.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B022 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_53",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B005 shows a woman laughing cruelly behind a gloved hand and stating 'How fitting.' In strict isolation, this opens in media res with an unexplained reaction. A cold viewer cannot tell who she is mocking, what situation is 'fitting,' what setting they are in, or what the conflict is about.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 51.4-second arc, the situation becomes completely legible: after being mocked by her rival/family for being worthless and abandoned, a mysterious kneeling warrior offers Juliana his ring and protection at the altar, validating her worth while she fiercely asserts her pride against mere pity.",
+        "passes_gate": false,
+        "situational_summary": "After a cruel rival gloats over her abandonment, a publicly humiliated bride is offered marriage and redemption by an earnest kneeling stranger with a ring, though she fiercely refuses to be an object of charity.",
+        "missing_context": "Opening beat B005 begins mid-mockery with 'How fitting' and cruel laughter without establishing the target of the ridicule, the wedding/chapel setting, or the underlying conflict. The clip relies on later dialogue in B006 and B008+ to retroactively explain what was happening.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_53",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_53",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_55",
+      "start_beat_id": "B005",
+      "end_beat_id": "B024",
+      "start_time": 7.6,
+      "end_time": 65.8,
+      "duration": 58.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B005 to B024 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_55",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B005 begins entirely in media res with a woman laughing spitefully and remarking 'How fitting.' In strict isolation, there is zero situational grounding: a cold viewer cannot tell who she is mocking, what situation or event is being deemed 'fitting', where they are, or what conflict has taken place.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full arc of the candidate, the situation becomes completely legible: an abandoned woman in a bridal gown, humiliated by her sister and former fianc\u00e9 in the pews, is unexpectedly proposed to by an earnest kneeling stranger who offers his name and ring to protect her dignity.",
+        "passes_gate": false,
+        "situational_summary": "A spiteful woman mocks an abandoned bride, but a mysterious kneeling stranger defends the woman and offers his marriage proposal and ring as a vow.",
+        "missing_context": "Opening beat B005 drops into an unexplained cruel reaction ('How fitting') without establishing who is being mocked, what event occurred, or what setting they are in. The clip depends entirely on subsequent beats to clarify the conflict, violating cold opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_55",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_55",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_58",
+      "start_beat_id": "B006",
+      "end_beat_id": "B016",
+      "start_time": 10.5,
+      "end_time": 38.9,
+      "duration": 28.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B006 to B016 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_58",
+        "opening_legibility": true,
+        "opening_rationale": "The opening beat immediately establishes the antagonism and conflict: a smug couple in a church pew proudly mocks a woman with a direct insult ('You have finally found a man as worthless as everyone thinks you are'), visibly wounding her.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 28.4s arc presents a coherent, compelling dramatic sequence: after being publicly mocked and degraded, the protagonist questions an earnest kneeling stranger proposing marriage/his name, culminating in his powerful declaration recognizing her betrayal rather than her humiliation.",
+        "passes_gate": true,
+        "situational_summary": "After being publicly mocked by a proud couple in church pews for finding a 'worthless' match, a hurt woman questions a kneeling stranger on why he would offer her his name, to which he declares he sees a betrayed woman who does not deserve to be discarded.",
+        "missing_context": null,
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_58",
+        "emotional_salience_score": 4,
+        "emotional_core": "Vulnerability and unexpected vindication: shifts from public mockery and deep humiliation at the hands of Gerald and Clarissa to earnest, profound validation from a kneeling stranger who sees her intrinsic worth.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues, Juliana moves from raw personal hurt ('hurt glistening in her eyes', 'anguished face') to an intimate turning point of dignity and hope ('A woman who was betrayed. Not a woman who deserves to be discarded'), directly confronting her humiliation with sudden protective solidarity."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_58",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that Juliana has been publicly dumped and discarded by Gerald/Clarissa, and directly exposes a major romantic pivot milestone where the Mysterious Bearded Man proposes marriage to Juliana in church after her abandonment.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / emotional turnaround hook"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_61",
+      "start_beat_id": "B006",
+      "end_beat_id": "B020",
+      "start_time": 10.5,
+      "end_time": 52.8,
+      "duration": 42.3,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B006 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_61",
+        "opening_legibility": true,
+        "opening_rationale": "The opening beat immediately establishes the clear interpersonal conflict and dynamic within seconds: a smug couple in a church pew publicly mocks and insults a woman ('You have finally found a man as worthless as everyone thinks you are'), with the cut to her hurt reaction clearly positioning her as the publicly demeaned victim and them as the antagonists.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate presents a completely self-contained dramatic arc. From the public humiliation in the chapel pew, it transitions directly to an unexpected kneeling stranger proposing marriage, validating her pain as a woman betrayed and discarded, and offering her a ring so she no longer has to stand alone. The victim, antagonists, stakes, and emotional turning point are fully legible without outside lore.",
+        "passes_gate": true,
+        "situational_summary": "After being publicly mocked in church by a cruel couple who deem her worthless, a humiliated woman is approached at the altar by an earnest kneeling stranger who offers her his name and a ring so she no longer has to stand alone.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_61",
+        "emotional_salience_score": 4,
+        "emotional_core": "Vulnerability to redemptive alliance: shifting from public humiliation and total family abandonment to being genuinely seen, valued, and offered unexpected protection by a steadfast stranger.",
+        "relative_rank_justification": "High emotional resonance in Episode 4. Based on the script text, the scene begins with cutting public degradation from Clarissa and Gerald ('worthless', hurt glistening in eyes), but escalates emotionally through a tight, intimate dialogue of raw vulnerability ('You don't know what my family has done to me') met with direct validation ('Not a woman who deserves to be discarded') and culminating in the proposal ring ('You don't have to stand alone now'). While it represents a profound psychological turning point from isolation to alliance, it serves as the emotional foundation leading into the climactic acceptance rather than the episode's absolute seismic rupture."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_61",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major narrative milestone and turning point: immediately follows Juliana's abandonment as the Mysterious Bearded Man publicly kneels to propose, defying Clarissa and Gerald's humiliation and offering Juliana a new alliance/marriage at the altar.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral romantic-rescue reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_63",
+      "start_beat_id": "B006",
+      "end_beat_id": "B022",
+      "start_time": 10.5,
+      "end_time": 59.0,
+      "duration": 48.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B006 to B022 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_63",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 immediately establishes clear visual and verbal antagonism: a smug couple standing together in a pew points and mocks the protagonist ('You have finally found a man as worthless as everyone thinks you are'), directly setting up public degradation and relational conflict within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate arc is completely coherent and self-contained: following public humiliation from her family/rivals, a mysterious kneeling stranger offers her marriage and his ring to defend her honor, culminating in her fierce, proud refusal to be accepted out of mere charity or pity.",
+        "passes_gate": true,
+        "situational_summary": "After being publicly insulted by a smug couple in church pews, a discarded woman is offered marriage by a kneeling stranger, but fiercely warns him to take back his ring if the proposal is born of mere pity.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_63",
+        "emotional_salience_score": 4,
+        "emotional_core": "Raw vulnerability meeting fierce self-preservation: Juliana transitions from the public sting of familial humiliation into an intimate, high-stakes dialogue with a kneeling stranger, ultimately asserting her pride ('I will not become anyone's charity') even through tears of abandonment.",
+        "relative_rank_justification": "High emotional resonance: Based on script-derived cues, this candidate moves beyond standard antagonist mocking (B006) into a powerful turning point of emotional validation and reclaimed agency. The contrast between her family's callous rejection ('discarded', 'worthless') and her refusal to accept pity despite extreme vulnerability creates substantial emotional weight, just shy of a catastrophic climax."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_63",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot and relationship milestone following the altar betrayal: Clarissa and Gerald together mocking Juliana, and a mysterious bearded stranger publicly stepping forward to offer Juliana marriage and a ring while she confronts him about pity.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent hook / viral drama reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_65",
+      "start_beat_id": "B006",
+      "end_beat_id": "B024",
+      "start_time": 10.5,
+      "end_time": 65.8,
+      "duration": 55.3,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B006 to B024 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_65",
+        "opening_legibility": true,
+        "opening_rationale": "In strict isolation, Beat B006 immediately grounds a cold viewer in a high-stakes, toxic confrontation: a smug couple standing together in a pew points mocking fingers at a visibly hurt woman while delivering the cutting insult, 'You have finally found a man as worthless as everyone thinks you are.' The dynamic of public humiliation and rejection is instantly clear within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full progression (B006\u2013B024), the dramatic arc is completely self-contained and legible without outside lore: after being publicly mocked and discarded by her former partner and rival, an outcast woman in a wedding gown is unexpectedly proposed to at the altar by a mysterious kneeling stranger who offers her dignity and a vow rather than pity.",
+        "passes_gate": true,
+        "situational_summary": "After being publicly humiliated and deemed worthless by a gloating couple in a chapel pew, an abandoned woman confronts a mysterious kneeling stranger offering her a ring, culminating in his intense declaration that his proposal is a vow rather than pity.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_65",
+        "emotional_salience_score": 5,
+        "emotional_core": "Pivotal dramatic turnaround and emotional rescue: transitioning from public humiliation by family/ex to profound validation and fiercely defended dignity through a stranger's solemn proposal.",
+        "relative_rank_justification": "Peak dramatic turning point for the episode, representing a complete power and psychological shift. It begins with cutting ridicule from Clarissa and Gerald ('worthless', hurt glistening in Juliana's eyes) and evolves through raw vulnerability and stubborn pride ('I will not become anyone's charity') to an intense, resolute climax where the Mysterious Bearded Man validates her worth and offers an unwavering vow ('It is not pity... It is a vow'). Script-derived cues (facial scars, weathered fingers offering ring, tears clinging to cheek, piercing close-ups) establish this as the emotional zenith of the sequence."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_65",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot and relationship milestone: following her public abandonment by Gerald and Clarissa, a mysterious scarred stranger proposes marriage on one knee with a ring ('It is a vow'), radically shifting the status quo and romance trajectory.",
+        "ideal_ad_placement": "Mid-to-late funnel retargeting / high-intent viral shock reel / episode-unlock ad"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_127",
+      "start_beat_id": "B020",
+      "end_beat_id": "B025",
+      "start_time": 49.8,
+      "end_time": 74.8,
+      "duration": 25.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B020 to B025 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_127",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B020 immediately establishes a clear, recognizable situational dynamic visually and verbally: an extreme close-up of a ring held in weathered fingers against a bride's white silk gown, accompanied by the line 'You don't have to stand alone now.' Within seconds, a cold viewer immediately understands a proposal/marriage rescue at a wedding where a bride was left standing alone.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate presents an emotionally complete, self-contained dramatic arc: a rejected bride refuses pity or charity, the scarred mystery man affirms it is an honorable vow rather than pity, and after confronting her cold, estranging family in the pews, she chooses to accept his hand.",
+        "passes_gate": true,
+        "situational_summary": "An abandoned bride confronts an unexpected man offering her a ring, confirms his proposal is a genuine vow rather than pity, and accepts his hand over her cold, rejecting family.",
+        "missing_context": null,
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_127",
+        "emotional_salience_score": 5,
+        "emotional_core": "Pivotal emotional reversal and rebirth: shifting from wounded pride and fear of being pitied into profound, tender vindication through a stranger's steadfast vow in full view of her ostracizing family.",
+        "relative_rank_justification": "Peak dramatic turning point for Episode 4: marks the definitive emotional hinge where Juliana transitions from abandoned victim to claiming agency ('Then I accept'), contrasting directly against her family's cold rejection ('he looked at me when everyone else turned away')."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_127",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly reveals a major relationship milestone: Juliana accepting the proposal and ring of the mysterious scarred stranger right after being abandoned and humiliated by her family.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral romance hook"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_131",
+      "start_beat_id": "B021",
+      "end_beat_id": "B025",
+      "start_time": 52.8,
+      "end_time": 74.8,
+      "duration": 22.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B021 to B025 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_131",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 immediately establishes a clear, high-stakes romantic/marital dilemma within seconds: a proud woman confronts a suitor offering a proposal or marriage token with 'If this is pity, take back your ring,' instantly grounding who is in conflict (a woman refusing to be pitied by someone offering a ring) and the emotional dynamic.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 22-second clip forms a complete, beautifully self-contained dramatic arc. Juliana challenges a suitor offering a ring because she refuses charity; the scarred man earnestly replies that it is a solemn vow rather than pity; Juliana weighs her cold, rejecting family in the pews against this stranger who chose her, culminating in her defiant and moving decision to accept his proposal.",
+        "passes_gate": true,
+        "situational_summary": "A rejected woman confronts a suitor's marriage proposal insisting she won't accept pity, but when he vows it is real devotion in front of her estranged family, she accepts.",
+        "missing_context": null,
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_131",
+        "emotional_salience_score": 5,
+        "emotional_core": "Protagonist agency and vindication: Juliana transforms from discarded victim refusing pity into a willing participant in a fateful pact, deliberately turning away from her cold family toward an earnest stranger who truly sees her.",
+        "relative_rank_justification": "Peak dramatic turning point in the episode: script-derived camera directions track her internal shift from proud defiance ('I will not become anyone's charity') to being completely disarmed by his vow ('It is a vow'), culminating in an active, defiant acceptance ('Then I accept') that reverses her public humiliation."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_131",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes a major relationship milestone: Juliana accepting the proposal/ring of the Mysterious Bearded Man in front of her estranged family, formally pivoting her arc from abandoned bride to a new alliance.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-converting emotional hook"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_143",
+      "start_beat_id": "B024",
+      "end_beat_id": "B039",
+      "start_time": 62.8,
+      "end_time": 116.8,
+      "duration": 54.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B024 to B039 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_143",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B024 opens in media res on a tight close-up of a scarred face saying 'It is a vow.' In strict isolation, a cold viewer has no context for who this man is, who he is speaking to, where he is, what vow he is referring to, or what conflict/situation is unfolding within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 54.0s sequence, the dramatic situation becomes clear: an abandoned bride accepts a surprise proposal from a scarred stranger at the altar despite her family's cold disapproval, completing an impromptu wedding that enrages Gerald.",
+        "passes_gate": false,
+        "situational_summary": "A scarred stranger vows commitment to a rejected woman at an altar, marrying her on the spot in front of her disapproving family and an enraged former suitor.",
+        "missing_context": "Opening beat B024 drops into the tail end of an exchange ('It is a vow') without establishing the altar setting, the abandoned bride, or the proposal dynamic. It relies on the internal monologue and subsequent beats in Section B to retroactively explain what is happening, failing cold opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_143",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_143",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_144",
+      "start_beat_id": "B024",
+      "end_beat_id": "B040",
+      "start_time": 62.8,
+      "end_time": 119.0,
+      "duration": 56.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B024 to B040 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_144",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B024 opens in media res with a tight close-up on a scarred man saying simply 'It is a vow.' In strict isolation, this line and camera visual convey zero situational context to a cold viewer\u2014there is no indication of who he is speaking to, what the vow is for, what setting they are in, or what conflict is taking place.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 56.2s arc, the situation becomes completely legible: an abandoned bride accepts a wedding vow from an intimidating stranger before a reluctant priest and disapproving onlookers, concluding with their marriage and the furious outburst of a former suitor ('You have thrown yourself away! For a penniless nobody!').",
+        "passes_gate": false,
+        "situational_summary": "A scarred stranger pledges a vow of protection and marriage to a disowned bride at the altar, defying an enraged onlooker.",
+        "missing_context": "Opening beat B024 starts mid-conversation with an isolated close-up delivering the cryptic phrase 'It is a vow' without establishing the wedding, the bride, or the conflict. The clip relies entirely on subsequent dialogue and visual reveals in B025\u2013B027 to explain what the vow refers to, failing cold opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_144",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_144",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_148",
+      "start_beat_id": "B025",
+      "end_beat_id": "B039",
+      "start_time": 65.8,
+      "end_time": 116.8,
+      "duration": 51.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B025 to B039 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_148",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B025 drops into an internal monologue and sudden decision ('I don't know this man... Then I accept') reacting to a proposal/promise that occurred off-screen. A cold viewer cannot see who 'this man' is, what proposition was made, or why she is accepting, making the opening confusing and ungrounded without prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 51.0s arc, the situation becomes completely legible: an abandoned/shunned woman defies her hostile family by impulsively agreeing to marry a mysterious stranger at the altar, concluding with an official pronouncement and an enraged confrontation from an ex-suitor.",
+        "passes_gate": false,
+        "situational_summary": "A rejected woman accepts a sudden marriage proposal from an unknown man at the altar to spite her cold family, marrying him before an enraged onlooker intervenes.",
+        "missing_context": "Opening beat B025 begins in media res with Juliana accepting a proposal ('Then I accept') based on 'the gravity of his promise' and 'I don't know this man', but the stranger's identity, the actual proposal, and the altar setup leading into her decision were cut out.",
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_148",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_148",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_149",
+      "start_beat_id": "B025",
+      "end_beat_id": "B040",
+      "start_time": 65.8,
+      "end_time": 119.0,
+      "duration": 53.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B025 to B040 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_149",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B025 immediately grounds the scene in an unmistakable dramatic dynamic within seconds: a woman at what is clearly a wedding/altar setting contemplates a man proposing or offering a vow ('I don't know this man... but he looked at me when everyone else turned away'), looks back at her coldly seated estranged family, and defies them by declaring 'Then I accept.' The core conflict (a rejected woman choosing an unknown ally over her rejecting family) is fully established in this single opening beat.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate presents a self-contained, highly coherent dramatic arc from start to finish: an unexpected wedding proceeds against family disapproval, the couple exchanges vows and rings under the flustered priest, and right as they are pronounced husband and wife, an enraged rejected suitor/groom lunges forward denouncing her for throwing herself away on a 'penniless nobody.' The victim/protagonist, ally, antagonists, and emotional stakes are completely legible to a cold viewer without prior series lore.",
+        "passes_gate": true,
+        "situational_summary": "An abandoned bride accepts an impromptu marriage proposal from a mysterious stranger in front of her cold estranged family, completing the ceremony just as her enraged former suitor objects that she has ruined herself for a nobody.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_149",
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic turning point: Juliana makes an irreversible, defiant leap of faith to marry a mysterious stranger over family betrayal, culminating in sacred vows of protection and Gerald's furious public rupture.",
+        "relative_rank_justification": "Representing the episode's dramatic zenith, this candidate captures the complete psychic transformation of the protagonist from abandoned victim to married woman claiming agency ('Then I accept', 'I am'). Script indications show tender intimacy and profound devotion ('scarred hand', 'tender smile', vows of protection and respect) contrasted directly against the grim silence of her estranged father and Gerald's explosive final outrage ('You have thrown yourself away! For a penniless nobody!'). As script-derived evidence, this marks an irreversible narrative and emotional pivot point."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_149",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly reveals a major relationship milestone: Juliana accepting the Mysterious Bearded Man's proposal at the altar, completing the marriage ceremony before the priest and her family, and Gerald's enraged public outburst condemning her for marrying a 'penniless nobody'. It exposes the status-quo-shattering climax of the altar conflict without unmasking the man's secret identity or resolving the overarching series mystery (Level 3).",
+        "ideal_ad_placement": "High-intent prospecting / viral shock reel / mid-funnel retargeting"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_150",
+      "start_beat_id": "B025",
+      "end_beat_id": "B042",
+      "start_time": 65.8,
+      "end_time": 125.8,
+      "duration": 60.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B025 to B042 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_150",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B025 immediately grounds the viewer in a recognizable, high-stakes human conflict and choice: Juliana looks at an estranged family seated coldly in the pew, reflects on entering the unknown with a stranger who stood by her when everyone else turned away, and definitively declares 'Then I accept.' It instantly communicates betrayal/abandonment by her family and her defiance in accepting an unexpected suitor.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc (B025 -> B042) presents an exceptionally clear, self-contained dramatic progression: an abandoned woman accepts a mysterious protector at the altar, marries him despite family and priest hesitation, and delivers a crushing, defiant rebuttal to her enraged former groom ('I would rather choose my own life than spend another moment begging for yours'). The victim, antagonist, stakes, and emotional resolution are completely legible without needing prior episode context.",
+        "passes_gate": true,
+        "situational_summary": "An abandoned bride accepts marriage to a protective stranger in front of her cold, disapproving family, marrying him and defying her enraged former groom with fierce independence.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_150",
+        "emotional_salience_score": 5,
+        "emotional_core": "Protagonist liberation and agency turnaround: moving from abandoned victim to willing partner in a defiant marriage, culminating in a fierce public rejection of her former abuser ('I would rather choose my own life than spend another moment begging for yours').",
+        "relative_rank_justification": "Functions as a peak dramatic and emotional zenith (Score 5): script indications show a complete status reversal from familial abandonment and priestly apprehension to solemn mutual devotion, culminating in Juliana's icy defiance against Gerald's enraged outburst with full stage and camera support."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_150",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly reveals a major relationship milestone and status-quo shift: Juliana accepts the mysterious stranger's proposal, completes the wedding ceremony with ring exchange and priestly pronouncement, and openly defies Gerald as a legally married woman.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-converting viral hook / high-intent prospecting"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_159",
+      "start_beat_id": "B028",
+      "end_beat_id": "B039",
+      "start_time": 79.0,
+      "end_time": 116.8,
+      "duration": 37.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B039 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_159",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 consists solely of a close-up of a slender hand resting into a large weathered palm. In strict isolation, it contains no dialogue, no faces, no setting, and establishes no conflict, stakes, or character dynamic for a cold viewer within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 37.8-second clip, the narrative progression clearly establishes an unexpected, solemn wedding ceremony between the protagonist and a protective warrior, culminating in a dramatic marriage declaration and an enraged confrontation from an onlooker (Gerald).",
+        "passes_gate": false,
+        "situational_summary": "A woman participates in an impromptu wedding ceremony with an earnest, protective warrior despite onlooker tension, culminating in being pronounced husband and wife while an enraged man lunges forward in protest.",
+        "missing_context": "Beat B028 opens on a tight visual insert of joined hands without establishing who the characters are, the altar/wedding setting, or any immediate conflict or tension. A cold viewer has zero situational grounding before subsequent dialogue and wide shots occur.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_159",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_159",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_160",
+      "start_beat_id": "B028",
+      "end_beat_id": "B040",
+      "start_time": 79.0,
+      "end_time": 119.0,
+      "duration": 40.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B040 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_160",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B028 is simply a close-up of a woman's hand placing into a weathered man's palm as he holds it protectively. There is zero context regarding setting, conflict, identity, stakes, or why this touch is significant. It presents a quiet, tender gesture in media res without establishing any dramatic tension or conflict for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 40.0s arc, the situation becomes completely legible: an impromptu or scandalous wedding ceremony proceeds despite the priest's hesitation and an elder's grim silence, culminating in their marriage vows, an official pronouncement of husband and wife, and an enraged rival/former suitor bursting in to condemn her for marrying a penniless nobody.",
+        "passes_gate": false,
+        "situational_summary": "A woman decisively marries a rugged protector despite the priest's hesitation, sealing their vows just as an enraged man lunges forward denouncing her for throwing herself away on a penniless nobody.",
+        "missing_context": "Opening beat B028 begins on a quiet close-up of hands joining without establishing the wedding setting, the shock/defiance of the marriage, or any active conflict. A cold viewer has no immediate hook or situational grounding in the first 5 seconds and must rely on later dialogue to realize an unexpected wedding ceremony is occurring.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_160",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_160",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_161",
+      "start_beat_id": "B028",
+      "end_beat_id": "B042",
+      "start_time": 79.0,
+      "end_time": 125.8,
+      "duration": 46.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B042 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_161",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 consists solely of a silent close-up of a slender hand placed into a weathered palm. In strict isolation, it establishes zero situational context, reveals no conflict, stakes, setting, or relational dynamic, and completely fails to ground a cold viewer within the opening 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 46.8-second arc, the narrative progression is fully self-contained and clear: an unexpected marriage proceeds despite objections, vows and rings are exchanged, the priest pronounces them married, and the scorned/arrogant antagonist (Gerald) lashes out in fury only to be firmly rebuked by the defiant bride standing with her new protector.",
+        "passes_gate": false,
+        "situational_summary": "A bride marries a mysterious weathered warrior at an altar despite shock from onlookers, culminating in her furious ex-groom confronting her only for her to proudly declare her independence.",
+        "missing_context": "Opening beat B028 provides no verbal or situational hook (only a silent hand-hold close-up). A cold viewer on TikTok has no idea who these people are, where they are, or what conflict is occurring without relying on subsequent dialogue to explain the altar wedding scenario.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_161",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_161",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_163",
+      "start_beat_id": "B028",
+      "end_beat_id": "B044",
+      "start_time": 79.0,
+      "end_time": 131.5,
+      "duration": 52.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B044 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_163",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B028 is merely a silent close-up of a woman's hand resting in a man's weathered palm as he folds his fingers over hers. It provides zero situational context: there is no dialogue, no indication of who these people are, no clear setting, and no identifiable conflict, stakes, or reason for a cold viewer to understand what is happening within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the entire 52.5s clip, the narrative arc is clear and dramatic: a woman defies expectations by marrying a mysterious warrior at an altar despite an alarmed priest and grim family onlookers, provoking furious outrage from her former suitor Gerald and banishment by Lady Ashcroft.",
+        "passes_gate": false,
+        "situational_summary": "A woman marries a protective warrior in a rushed ceremony despite warnings, triumphantly defying an enraged suitor before being banished by her family matriarch.",
+        "missing_context": "Opening beat B028 opens on a silent, tender close-up of hands joining without any visual grounding, conflict, or setting (no sign of an altar, confrontation, or wedding dilemma). The clip relies entirely on subsequent dialogue and reactions in beats B029\u2013B039 to retroactively establish the high-stakes wedding situation.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_163",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_163",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_164",
+      "start_beat_id": "B028",
+      "end_beat_id": "B045",
+      "start_time": 79.0,
+      "end_time": 134.8,
+      "duration": 55.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B045 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_164",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B028 is merely a silent, tender close-up of a woman's hand resting in a man's weathered palm. It does not establish who the characters are, where they are, what conflict is taking place, or what stakes are involved. A cold scrolling viewer has zero situational grounding within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 55.8s arc, the situation becomes completely legible: a defiant bride marries an outsider/penniless warrior over the priest's hesitation, triumphantly rejects her enraged former suitor/fianc\u00e9 Gerald at the altar, and is publicly disowned by her mother.",
+        "passes_gate": false,
+        "situational_summary": "A woman marries a mysterious outsider at the altar, rejects her furious former suitor to his face, and is immediately disowned by the family matriarch.",
+        "missing_context": "Opening beat B028 opens on a generic silent handhold with no dialogue or context, failing to immediately establish the high-stakes altar rebellion, the groom switch, or the presence of the hostile family and rejected suitor.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_164",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_164",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_182",
+      "start_beat_id": "B035",
+      "end_beat_id": "B042",
+      "start_time": 100.2,
+      "end_time": 125.8,
+      "duration": 25.6,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B035 to B042 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_182",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B035 shows a close-up of a man sliding a silver ring onto a woman's finger. While it establishes a wedding/union ceremony action, it contains zero conflict, no established stakes, no dialogue, and no indication of who is in conflict or why. A cold viewer within the first two seconds sees only a quiet, context-free gesture of a ring being placed on a hand without any dramatic tension or conflict grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 25.6s arc, the situation is completely clear and self-contained: a woman marries a devoted warrior/nobody, prompting an enraged former suitor (Gerald) to denounce her for throwing herself away on a penniless nobody, to which she boldly retorts that she would rather choose her own life than beg for his.",
+        "passes_gate": false,
+        "situational_summary": "A woman marries a devoted rough-hewn man at an altar, only to be confronted by an enraged suitor whom she fiercely rebuffs in favor of choosing her own path.",
+        "missing_context": "Opening beat B035 lacks any conflict or dramatic tension in isolation; it depicts a silent, tender ring-exchange without establishing why this marriage is controversial, who Gerald is, or the underlying confrontation that immediately follows. Crediting this opening requires retrospective justification from Gerald's outburst in B039.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_182",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_182",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_184",
+      "start_beat_id": "B035",
+      "end_beat_id": "B044",
+      "start_time": 100.2,
+      "end_time": 131.5,
+      "duration": 31.3,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B035 to B044 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_184",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B035 is simply a silent close-up of a man sliding a silver ring onto a woman's finger. While it visually denotes a wedding/ring exchange, it introduces zero conflict, tension, or stakes on its own. A cold TikTok viewer cannot tell who is in conflict or why from this single beat without relying on subsequent events.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full clip (B035 -> B044), the dynamic becomes entirely clear and self-contained: a woman marries a devoted warrior/stranger, provoking the outrage of an entitled former suitor ('You have thrown yourself away! For a penniless nobody!') whom she defiantly rejects, followed by immediate family banishment from an elder matriarch. The victim/protagonist, antagonists, and high dramatic stakes are completely understandable.",
+        "passes_gate": false,
+        "situational_summary": "A woman marries a protective warrior at the altar, prompting her furious former suitor to accuse her of ruining her life for a nobody, only for her to defiantly reject him before being banished by an elder matriarch.",
+        "missing_context": "The opening beat B035 provides no immediate dramatic conflict, tension, or adversarial dynamic in isolation; it functions purely as an ungrounded romantic/ceremonial gesture until the conflict erupts later in Beat B039.",
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_184",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_184",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_185",
+      "start_beat_id": "B035",
+      "end_beat_id": "B045",
+      "start_time": 100.2,
+      "end_time": 134.8,
+      "duration": 34.6,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B035 to B045 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_185",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B035 is merely a close-up of hands sliding a silver ring onto a finger. While it establishes a wedding or commitment gesture, it presents zero conflict, introduces no clear characters or stakes, and fails to establish who is in opposition or why within the first 5 seconds for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full arc of Beats B035\u2013B045, the dramatic conflict is completely clear and self-contained: the protagonist marries a protector/warrior instead of begging her former suitor, defying an enraged ex (Gerald) and getting publicly disowned by an aristocratic matriarch (Lady Ashcroft).",
+        "passes_gate": false,
+        "situational_summary": "A woman marries a devoted warrior at the altar, defying her enraged former suitor before being publicly disowned by her family's matriarch.",
+        "missing_context": "Opening beat B035 opens purely on a silent close-up ring exchange without introducing the antagonism, stakes, or reason for conflict. It relies entirely on subsequent beats (B039\u2013B045) to retroactively establish the controversy and confrontation, failing cold opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_185",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_185",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_194",
+      "start_beat_id": "B039",
+      "end_beat_id": "B044",
+      "start_time": 110.0,
+      "end_time": 131.5,
+      "duration": 21.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B039 to B044 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_194",
+        "opening_legibility": true,
+        "opening_rationale": "The opening beat visually and verbally grounds the viewer immediately: a priest pronounces a couple husband and wife at a cathedral altar, immediately followed by an enraged man lunging forward and shouting 'You have thrown yourself away!' The wedding setting and the immediate, explosive confrontation establish who is in conflict and the nature of the outrage within the first few seconds without needing prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 21.5s sequence presents a complete, high-stakes dramatic arc: a marriage ceremony is interrupted by an enraged suitor/ex condemning her for marrying a 'penniless nobody', the bride defiantly rejects him, and a high-status matriarch banishes them from the estate, delivering clear stakes, visible archetypes, and a powerful cliffhanger.",
+        "passes_gate": true,
+        "situational_summary": "A woman marries another man at the altar, provoking an enraged suitor to confront her for throwing herself away on a nobody, only for her to defiantly reject him as an elder banishes them from the family manor.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_194",
+        "emotional_salience_score": 5,
+        "emotional_core": "Protagonist transformation and defiance: complete reversal of power where Juliana seals an unapproved marriage, rebuffs Gerald's enraged entitlement with steely autonomy, and triggers immediate family disownment.",
+        "relative_rank_justification": "Peak dramatic turning point: marks the definitive shift from vulnerable, rejected bride to autonomous agent standing tall against Gerald and Lady Ashcroft, backed by strong camera emphasis (jaw set with unshakable pride vs. Gerald's recoil and agape shock)."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_194",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly reveals the pivotal relationship milestone and irreversible status quo break: Juliana officially marrying her substitute husband at the altar, publicly defying Gerald's outrage, and being cast out/banned from Ashcroft Manor by Lady Ashcroft.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral shock reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP004_195",
+      "start_beat_id": "B039",
+      "end_beat_id": "B045",
+      "start_time": 110.0,
+      "end_time": 134.8,
+      "duration": 24.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B039 to B045 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP004_195",
+        "opening_legibility": true,
+        "opening_rationale": "In strict isolation, Beat B039 clearly establishes the situation within seconds: a wedding ceremony is concluded ('pronounce you husband and wife' at a cathedral altar), instantly interrupted by an enraged man lunging forward and shouting 'You have thrown yourself away!' A cold viewer immediately grasps the core conflict: an unauthorized marriage provoking fury from an aggrieved suitor or family member.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 24.8s arc presents a self-contained dramatic progression: the newly married couple defies an enraged suitor ('I would rather choose my own life than spend another moment begging for yours'), prompting an immediate aristocratic backlash as Lady Ashcroft bans them from the manor and disowns her on the spot. Protagonist, antagonists, stakes, and the immediate consequence/cliffhanger are clear without prior lore.",
+        "passes_gate": true,
+        "situational_summary": "At the conclusion of a cathedral wedding, an enraged man confronts the bride for marrying a 'nobody', she defiantly rejects him, and a high-status matriarch disowns her on the spot.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP004_195",
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic turnaround and psychic rupture: transitions immediately from defiant marital validation into Juliana's cold rejection of her abusive ex-fianc\u00e9, culminating in irrevocable family severance through formal disownment.",
+        "relative_rank_justification": "Script-derived evidence shows this beat sequence operates at the highest dramatic threshold of the scene: Juliana shifts decisively from victim to empowered agent ('I would rather choose my own life than spend another moment begging for yours'), directly breaking Gerald's pride and triggering Lady Ashcroft's ultimate punitive climax ('You are disowned!')."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP004_195",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly reveals major relationship and narrative milestones: Juliana's impulsive marriage to the new man at the altar, her total severance from Gerald, and Lady Ashcroft's formal public disownment banning them from the family manor.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-converting hook / viral shock reel"
+      }
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "episode_number": 7,
+  "total_scored": 17,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP007_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 24.5,
+      "duration": 24.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 clearly establishes the physical setting and character state through visual action: a woman in a simple gown kneeling on cold, damp ground outside a stone cottage, pulling weeds with soil caked under her fingernails.",
+        "arc_legibility": false,
+        "arc_rationale": "Cuts off right after the Aristocratic Woman asks 'This is where you live now?'. The nature of their past relationship, why they arrived, and the core stakes of the confrontation remain unresolved and incomplete for a cold viewer.",
+        "passes_gate": false,
+        "situational_summary": "A humble woman doing yard labor outside a stone cottage is confronted by a wealthy aristocratic woman arriving in a lavish carriage."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 2,
+        "emotional_core": "Class-based condescension cut short before emotional confrontation manifests"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Establishes character living conditions and a tense arrival; reveals no major secrets or narrative turns."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 29.8,
+      "duration": 29.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 immediately grounds the viewer in a clear physical setting: a woman in a plain gown weeding the damp ground outside a humble stone cottage.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained class and romantic conflict: wealthy visitors arrive to gloat over Juliana's downfall, with Gerald explicitly defining the situation ('a woman who threw away everything for a penniless soldier').",
+        "passes_gate": true,
+        "situational_summary": "An aristocratic couple in a luxury carriage arrive to mock and humiliate a laboring woman for choosing a penniless soldier over high society."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cruel public scorn and smug class betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes the premise and backstory motive: Juliana gave up high society status to marry a penniless soldier."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_03",
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 32.8,
+      "duration": 32.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 offers an unambiguous visual establishing shot of Juliana kneeling on damp ground pulling weeds outside a stone cottage.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely legible dynamic: wealthy aristocrats taunt a fallen noblewoman, who stands tall and delivers a defiant counter-question confronting their pettiness.",
+        "passes_gate": true,
+        "situational_summary": "A woman reduced to manual labor stands up to wealthy aristocrats who arrive in an ornate carriage solely to mock her modest life."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Smug elitist ridicule met with proud, unyielding defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals Juliana's marriage sacrifice and the animosity between her and the visiting aristocrats."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_04",
+      "start_beat_id": "B001",
+      "end_beat_id": "B009",
+      "start_time": 0.0,
+      "end_time": 37.8,
+      "duration": 37.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 grounds the scene instantly with Juliana weeding by hand outside her stone cottage in a simple gown.",
+        "arc_legibility": true,
+        "arc_rationale": "Fully legible interpersonal clash where wealthy visitors weaponize Juliana's physical signs of poverty and hard labor to strip away her dignity.",
+        "passes_gate": true,
+        "situational_summary": "An aristocratic woman and her companion arrive at a stone cottage to cruelly mock Juliana's ruined hands and reduced social station."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vicious personal humiliation targeting physical loss of status"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals Juliana's fall from high society to manual labor and Gerald's spiteful alliance with the noblewoman."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_05",
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "start_time": 0.0,
+      "end_time": 39.8,
+      "duration": 39.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens on a clear visual establishing shot: a medium shot of Juliana kneeling on cold ground outside a stone cottage pulling weeds with bare hands in a simple dress. Instantly communicates a humble, impoverished manual labor setting without needing sound or prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: wealthy aristocrats arrive in a luxury carriage to taunt and demean an impoverished woman doing manual labor, calling her a servant. The victim, antagonist, and class-based humiliation dynamic are immediately obvious.",
+        "passes_gate": true,
+        "situational_summary": "An aristocratic couple arrives in a luxury carriage at a humble stone cottage to mock an impoverished woman doing yard work, ridiculing her mud-stained hands as those of a servant."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging class humiliation and public mockery contrasted with quiet endurance"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Atmospheric premise setup establishing the heroine's reduced circumstances and the hostility of her high-society rivals; safe for universal prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_06",
+      "start_beat_id": "B006",
+      "end_beat_id": "B018",
+      "start_time": 21.0,
+      "end_time": 69.5,
+      "duration": 48.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B006 opens mid-action with an unestablished woman rinsing mud in a puddle while a woman's voice asks off-screen 'This is where you live now?'. Without the carriage arrival from earlier beats, a cold scroller lacks spatial grounding and context for who is speaking or who just arrived.",
+        "arc_legibility": true,
+        "arc_rationale": "The broader dialogue clearly defines the stakes, past relationship, social fall, and Gerald's direct threat to use influence to eliminate her husband.",
+        "passes_gate": false,
+        "situational_summary": "A fallen gentlewoman confronts her wealthy former suitor and his companion who mock her poverty, culminating in a dangerous threat against her new husband's life."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Fierce moral defiance facing down cruel elitism and a direct life-threatening ultimatum"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses that she chose a penniless soldier over Gerald, establishing the fundamental inciting marital conflict and villainous threat."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_07",
+      "start_beat_id": "B007",
+      "end_beat_id": "B012",
+      "start_time": 24.5,
+      "end_time": 45.0,
+      "duration": 20.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 opens abruptly in media res with Gerald sneering beside an unnamed aristocratic woman, delivering dialogue that references an unshown location ('A fitting home...'). Cold viewers have no visual anchor for the setting, the cottage, or the person he is addressing.",
+        "arc_legibility": true,
+        "arc_rationale": "Within the brief exchange, the class antagonism, Juliana's fall from grace, and her proud defense of honest manual labor are clear.",
+        "passes_gate": false,
+        "situational_summary": "An arrogant nobleman and an aristocratic woman mock a woman for throwing away high society for a soldier and working with her hands, only for her to assert there is no shame in honest labor."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Direct verbal confrontation and defensive moral assertion against condescending mockery"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses that she gave up high status for a penniless soldier, setting up the core backstory."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_08",
+      "start_beat_id": "B007",
+      "end_beat_id": "B014",
+      "start_time": 24.5,
+      "end_time": 50.8,
+      "duration": 26.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 opens mid-confrontation without establishing the environment, physical relationship to Juliana, or who Gerald is looking at, starting directly on a sneering line of dialogue with no visual establishing foundation.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue self-contains the conflict: Gerald tries to shame her for falling from ladyship into manual labor, and Juliana proudly asserts that her noble character remains intact.",
+        "passes_gate": false,
+        "situational_summary": "A sneering nobleman attempts to shame a former gentlewoman for her impoverished life, but she defiantly maintains her dignity and identity as a lady."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Unbroken aristocratic dignity and sharp defiance in the face of snobbish class humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses her past status as a lady who abandoned wealth for love, framing the premise and central conflict."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_09",
+      "start_beat_id": "B007",
+      "end_beat_id": "B015",
+      "start_time": 24.5,
+      "end_time": 54.8,
+      "duration": 30.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 opens on a medium shot of Gerald sneering beside an aristocratic woman, paired with an explicit dialogue hook explaining that the female target threw everything away for a penniless soldier, grounding setting, social disparity, and conflict instantly.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: wealthy, arrogant visitors taunt a fallen lady doing menial work, who responds with unwavering pride regarding her choices.",
+        "passes_gate": true,
+        "situational_summary": "An arrogant wealthy suitor and an aristocratic woman mock a proud noblewoman reduced to working with her hands after marrying a poor soldier."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging class humiliation met with unbroken moral dignity"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Premise setup establishing Juliana's fallen status, marriage choice, and dynamic with former high-society peers without disclosing subsequent plot twists."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_10",
+      "start_beat_id": "B007",
+      "end_beat_id": "B016",
+      "start_time": 24.5,
+      "end_time": 61.5,
+      "duration": 37.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 immediately establishes the scene and dynamic through Gerald's disdainful sneer beside an aristocratic companion and sharp line exposing Juliana's fall from grace.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly develops from classist taunting to Juliana landing an incisive personal rebuke about Gerald abandoning her when she needed him most.",
+        "passes_gate": true,
+        "situational_summary": "When a wealthy former suitor visits to mock her impoverished lifestyle, a defiant noblewoman rebukes him for being a coward who abandoned her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Bitter romantic betrayal turned into righteous emotional retribution"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Premise and relationship backstory revealing past abandonment, safe for broad prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_11",
+      "start_beat_id": "B007",
+      "end_beat_id": "B017",
+      "start_time": 24.5,
+      "end_time": 65.2,
+      "duration": 40.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 grounds the setting and characters immediately through Gerald and the aristocratic woman sneering as Gerald delivers a direct expositional jab.",
+        "arc_legibility": true,
+        "arc_rationale": "Full dramatic unit is clear: petty mockery escalates until Juliana stands her ground, asserts her dignity, and explicitly orders the unwelcome intruders to leave.",
+        "passes_gate": true,
+        "situational_summary": "A disgraced noblewoman withstands insults about her poverty from an arrogant aristocrat before firmly banishing him from her courtyard."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant empowerment in the face of public cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Establishes baseline interpersonal conflict and social dynamics without giving away subsequent plot developments."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_12",
+      "start_beat_id": "B007",
+      "end_beat_id": "B018",
+      "start_time": 24.5,
+      "end_time": 69.5,
+      "duration": 45.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 immediately grounds the physical presence of Gerald and his companion looking down on the protagonist with an explicit, high-friction opening line.",
+        "arc_legibility": true,
+        "arc_rationale": "The progression is completely legible: condescending mockery fails to break Juliana, escalating directly into Gerald making an overt, vindictive threat against her husband.",
+        "passes_gate": true,
+        "situational_summary": "After failing to humiliate a proud noblewoman who married for love, an arrogant aristocrat lunges forward with a threat to make her husband disappear."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Humiliation turning into defiant clash and an escalating lethal threat"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Inciting conflict escalation where Gerald shifts from verbal disdain to an explicit active threat against the husband."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_13",
+      "start_beat_id": "B008",
+      "end_beat_id": "B018",
+      "start_time": 29.8,
+      "end_time": 69.5,
+      "duration": 39.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B008 immediately visually establishes a soiled, damp, defiant heroine in a medium close-up directly confronting uninvited visitors who have come to insult her humble home, setting the status differential and conflict without needing prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained clash between an impoverished noblewoman who chose love/labor and wealthy elites attempting to humiliate her, culminating in a clear physical intimidation and threat against her husband.",
+        "passes_gate": true,
+        "situational_summary": "A disgraced lady working in poverty confronts wealthy visitors who mock her servant-like state, culminating in an ex-suitor threatening to make her new husband disappear."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Unbending pride and moral dignity clashing against elitist cruelty and intimidation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes Juliana's reduced living conditions and her active confrontation with Gerald; classic inciting incident/world-setup confrontation ideal for cold-audience prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_14",
+      "start_beat_id": "B009",
+      "end_beat_id": "B018",
+      "start_time": 32.8,
+      "end_time": 69.5,
+      "duration": 36.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 establishes immediate visual and social contrast: an aristocratic woman laughing maliciously under a parasol, mocking Juliana's physical labor ('Look at your hands'), instantly grounding the elitist bullying dynamic.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc clearly shows wealthy aristocrats ridiculing Juliana's fallen status, Juliana standing firm on her pride, and Gerald escalating to a direct threat against her husband's life.",
+        "passes_gate": true,
+        "situational_summary": "An aristocratic woman and a haughty noble mock a former lady's calloused hands, leading to an escalating confrontation that ends with a threat on her husband's life."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cruel high-society class mockery met with unbroken defiance and life-threatening stakes"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses Juliana's fallen social station and Gerald's animosity toward her husband without revealing major downstream plot resolutions."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_15",
+      "start_beat_id": "B010",
+      "end_beat_id": "B018",
+      "start_time": 37.8,
+      "end_time": 69.5,
+      "duration": 31.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B010 opens on an undeniable visual anchor: a close-up of mud-stained palms held against an apron paired with the harsh voice-over 'You look like a servant,' instantly framing status degradation and confrontation in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and clean dramatic progression from public status degradation to Juliana's defense of working hands, ending on Gerald's menacing threat against her 'beggar' husband.",
+        "passes_gate": true,
+        "situational_summary": "After being humiliated for her mud-stained hands and told she looks like a servant, a former noblewoman defends her marriage until her wealthy antagonist threatens her husband's life."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral class humiliation transformed into steely moral defiance, ending on imminent danger"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Highlights the central dramatic tension (Juliana's hardscrabble marriage vs. wealthy detractors) without spoiling later plot twists or payoffs."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_16",
+      "start_beat_id": "B012",
+      "end_beat_id": "B018",
+      "start_time": 41.0,
+      "end_time": 69.5,
+      "duration": 28.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 opens mid-argument with Juliana lifting her chin and retorting 'I work with my hands. There is no shame in that.' Starting on a responsive defense without the prior visual or auditory context of the accusation leaves a cold scroller ungrounded.",
+        "arc_legibility": true,
+        "arc_rationale": "The broader dispute over her nobility, her choice of a scarred beggar husband, and Gerald's threat to eliminate him is clear across the full duration.",
+        "passes_gate": false,
+        "situational_summary": "A woman defends working with her hands against wealthy accusers, defying an aristocratic man who ultimately threatens to make her husband disappear."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant rejection of elitist entitlement facing physical and social threats"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Presents the conflict of Juliana rejecting high society for her current husband, fitting setup/inciting incident material."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP007_17",
+      "start_beat_id": "B014",
+      "end_beat_id": "B018",
+      "start_time": 47.0,
+      "end_time": 69.5,
+      "duration": 22.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 opens mid-conversation with an ungrounded close-up of eyes and the line 'And I remain one.' Starting with the conjunction 'And' clearly continues an unseen prior sentence or conversation, providing no establishing visual anchor or immediate physical setting for a cold scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the confrontation develops, the core dynamic becomes crystal clear: an aristocratic ex/adversary (Gerald) mocks Juliana for marrying an impoverished man ('scarred beggar') instead of him, leading to Gerald's direct threat to use his influence to make her husband disappear.",
+        "passes_gate": false,
+        "situational_summary": "In a bleak courtyard confrontation, a proud woman defiantly rejects a wealthy aristocrat who abandoned her, provoking him into threatening to make her new husband disappear."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant moral pride clashing against vindictive aristocratic intimidation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the core rivalry, Juliana's choice of husband, and Gerald's escalating vendetta against them without revealing downstream resolution."
+      }
+    }
+  ]
+}

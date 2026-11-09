@@ -1,0 +1,946 @@
+{
+  "episode_number": 23,
+  "total_candidates": 14,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP023_01",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B010",
+      "end_beat_id": "B021",
+      "start_time": 36.0,
+      "end_time": 73.8,
+      "duration": 37.8,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present; includes only sound effects of labored breathing.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Visually alarming close-up of a woman gasping hoarsely and visibly straining to breathe, creating instant visceral urgency on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 4,
+        "specific_question": "Where has Juliana encountered these deadly symptoms before, and what does it signify?",
+        "stakes_importance": "High \u2014 establishes Juliana's certainty of an insidious crime in progress.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B010",
+          "end_beat_id": "B021",
+          "start_time": 36.0,
+          "end_time": 73.8,
+          "duration": 37.8,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_02",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B010",
+      "end_beat_id": "B024",
+      "start_time": 36.0,
+      "end_time": 81.5,
+      "duration": 45.5,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present; includes only sound effects of labored breathing.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Visually alarming close-up of a woman gasping hoarsely and visibly straining to breathe, creating instant visceral urgency on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B024",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who inside the ducal household is secretly poisoning the Dowager Duchess to death?",
+        "stakes_importance": "High \u2014 catastrophic revelation transforming a sickbed scene into an active murder investigation and conspiracy.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B010",
+          "end_beat_id": "B024",
+          "start_time": 36.0,
+          "end_time": 81.5,
+          "duration": 45.5,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_03",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B010",
+      "end_beat_id": "B026",
+      "start_time": 36.0,
+      "end_time": 88.0,
+      "duration": 52.0,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present; includes only sound effects of labored breathing.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Visually alarming close-up of a woman gasping hoarsely and visibly straining to breathe, creating instant visceral urgency on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who had access to administer arsenic to the Duchess, and can Juliana save her before the poison finishes her off?",
+        "stakes_importance": "High \u2014 precise, lethal weapon named; raises the stakes to calculated cold-blooded homicide.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B010",
+          "end_beat_id": "B026",
+          "start_time": 36.0,
+          "end_time": 88.0,
+          "duration": 52.0,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_04",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B010",
+      "end_beat_id": "B027",
+      "start_time": 36.0,
+      "end_time": 91.0,
+      "duration": 55.0,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present; includes only sound effects of labored breathing.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Visually alarming close-up of a woman gasping hoarsely and visibly straining to breathe, creating instant visceral urgency on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 4,
+        "specific_question": "Is the Duchess suffering her final death throes from the arsenic right now?",
+        "stakes_importance": "High \u2014 sudden violent medical crisis creates immediate life-or-death panic.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B010",
+          "end_beat_id": "B027",
+          "start_time": 36.0,
+          "end_time": 91.0,
+          "duration": 55.0,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_05",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B024",
+      "end_beat_id": "B032",
+      "start_time": 78.5,
+      "end_time": 115.0,
+      "duration": 36.5,
+      "hook_signal": {
+        "beat_id": "B024",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, lethal revelation delivering instant high stakes: 'Someone is poisoning her.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Medium close-up of Juliana staring square-on with hands rested on the closed journal delivers firm, confrontational intensity.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who is approaching the chamber door right as Juliana is caught administering an illicit antidote?",
+        "stakes_importance": "High \u2014 simultaneous collisions of life-or-death poisoning cure and impending discovery by a potential assassin.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B024",
+          "end_beat_id": "B032",
+          "start_time": 78.5,
+          "end_time": 115.0,
+          "duration": 36.5,
+          "beat_ids": [
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_06",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B024",
+      "end_beat_id": "B033",
+      "start_time": 78.5,
+      "end_time": 116.5,
+      "duration": 38.0,
+      "hook_signal": {
+        "beat_id": "B024",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, lethal revelation delivering instant high stakes: 'Someone is poisoning her.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Medium close-up of Juliana staring square-on with hands rested on the closed journal delivers firm, confrontational intensity.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana hide the antidote or be caught red-handed over the dying Duchess?",
+        "stakes_importance": "High \u2014 frozen in panic as an intruder arrives.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B024",
+          "end_beat_id": "B033",
+          "start_time": 78.5,
+          "end_time": 116.5,
+          "duration": 38.0,
+          "beat_ids": [
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_07",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B024",
+      "end_beat_id": "B034",
+      "start_time": 78.5,
+      "end_time": 118.5,
+      "duration": 40.0,
+      "hook_signal": {
+        "beat_id": "B024",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, lethal revelation delivering instant high stakes: 'Someone is poisoning her.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Medium close-up of Juliana staring square-on with hands rested on the closed journal delivers firm, confrontational intensity.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who is turning the door handle, and are they the one responsible for poisoning the Duchess?",
+        "stakes_importance": "High \u2014 imminent confrontation with an unknown, dangerous arrival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B024",
+          "end_beat_id": "B034",
+          "start_time": 78.5,
+          "end_time": 118.5,
+          "duration": 40.0,
+          "beat_ids": [
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_08",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B024",
+      "end_beat_id": "B035",
+      "start_time": 78.5,
+      "end_time": 124.5,
+      "duration": 46.0,
+      "hook_signal": {
+        "beat_id": "B024",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, lethal revelation delivering instant high stakes: 'Someone is poisoning her.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Medium close-up of Juliana staring square-on with hands rested on the closed journal delivers firm, confrontational intensity.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Prudence panic and expose them to whoever is walking through the door?",
+        "stakes_importance": "High \u2014 terror of immediate discovery and capture.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B024",
+          "end_beat_id": "B035",
+          "start_time": 78.5,
+          "end_time": 124.5,
+          "duration": 46.0,
+          "beat_ids": [
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_09",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B024",
+      "end_beat_id": "B036",
+      "start_time": 78.5,
+      "end_time": 127.5,
+      "duration": 49.0,
+      "hook_signal": {
+        "beat_id": "B024",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, lethal revelation delivering instant high stakes: 'Someone is poisoning her.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Medium close-up of Juliana staring square-on with hands rested on the closed journal delivers firm, confrontational intensity.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B036",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana administer the unfinished antidote to save the Duchess or conceal herself before the intruder steps in?",
+        "stakes_importance": "High \u2014 agonizing dilemma between saving a life and guaranteeing her own destruction upon discovery.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B024",
+          "end_beat_id": "B036",
+          "start_time": 78.5,
+          "end_time": 127.5,
+          "duration": 49.0,
+          "beat_ids": [
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_10",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B024",
+      "end_beat_id": "B037",
+      "start_time": 78.5,
+      "end_time": 131.5,
+      "duration": 53.0,
+      "hook_signal": {
+        "beat_id": "B024",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, lethal revelation delivering instant high stakes: 'Someone is poisoning her.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Medium close-up of Juliana staring square-on with hands rested on the closed journal delivers firm, confrontational intensity.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who is stepping through the opening door to catch Juliana holding the poison antidote over the dying Duchess?",
+        "stakes_importance": "High \u2014 peak suspense of an imminent reveal and physical confrontation suspended mid-entry.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B024",
+          "end_beat_id": "B037",
+          "start_time": 78.5,
+          "end_time": 131.5,
+          "duration": 53.0,
+          "beat_ids": [
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_11",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B025",
+      "end_beat_id": "B032",
+      "start_time": 81.5,
+      "end_time": 115.0,
+      "duration": 33.5,
+      "hook_signal": {
+        "beat_id": "B025",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Single-word echo ('Poison?') highlights lethal conspiracy, though primarily serves as a stunned reaction.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Clamping both hands over her mouth in sheer horror provides a dramatic, universally legible gesture of shock on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who is approaching the chamber door right as Juliana is caught administering an illicit antidote?",
+        "stakes_importance": "High \u2014 simultaneous collisions of life-or-death poisoning cure and impending discovery by a potential assassin.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B025",
+          "end_beat_id": "B032",
+          "start_time": 81.5,
+          "end_time": 115.0,
+          "duration": 33.5,
+          "beat_ids": [
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_12",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B026",
+      "end_beat_id": "B032",
+      "start_time": 84.5,
+      "end_time": 115.0,
+      "duration": 30.5,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Chilling, cold one-word confirmation naming the murder weapon: 'Arsenic.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up pushing tight into eyes hardening with righteous fury and disgust grips attention instantly without sound.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who is approaching the chamber door right as Juliana is caught administering an illicit antidote?",
+        "stakes_importance": "High \u2014 simultaneous collisions of life-or-death poisoning cure and impending discovery by a potential assassin.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B026",
+          "end_beat_id": "B032",
+          "start_time": 84.5,
+          "end_time": 115.0,
+          "duration": 30.5,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_13",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B027",
+      "end_beat_id": "B036",
+      "start_time": 88.0,
+      "end_time": 127.5,
+      "duration": 39.5,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present; contains only coughing sound effects.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Violent coughing spasms in bed followed by Juliana whipping around creates immediate physical crisis and visual chaos.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B036",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana administer the unfinished antidote to save the Duchess or conceal herself before the intruder steps in?",
+        "stakes_importance": "High \u2014 agonizing dilemma between saving a life and guaranteeing her own destruction upon discovery.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B027",
+          "end_beat_id": "B036",
+          "start_time": 88.0,
+          "end_time": 127.5,
+          "duration": 39.5,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP023_14",
+      "episode": "Episode 23",
+      "episode_number": 23,
+      "start_beat_id": "B032",
+      "end_beat_id": "B037",
+      "start_time": 104.5,
+      "end_time": 131.5,
+      "duration": 27.0,
+      "hook_signal": {
+        "beat_id": "B032",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Urgent life-or-death race against time: 'The charcoal may help remove what is still inside her. We must act quickly.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Intense grinding action combined with a sudden cut to the bedroom door framed through curtains creates dual visual urgency.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who is stepping through the opening door to catch Juliana holding the poison antidote over the dying Duchess?",
+        "stakes_importance": "High \u2014 peak suspense of an imminent reveal and physical confrontation suspended mid-entry.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 23,
+          "start_beat_id": "B032",
+          "end_beat_id": "B037",
+          "start_time": 104.5,
+          "end_time": 131.5,
+          "duration": 27.0,
+          "beat_ids": [
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

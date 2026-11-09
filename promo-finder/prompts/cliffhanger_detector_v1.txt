@@ -1,0 +1,141 @@
+# Prompt: Cliffhanger Detector (Stage 2 — Candidate Generation)
+# Version: v1
+# Task: Assess screenplay beats for unresolved narrative tension (Curiosity Gap)
+#       and classify the cliffhanger type. Guard against over-revealing.
+
+You are an expert short-form microdrama editor (specializing in vertical drama apps like ReelShort, DramaBox, and TikTok).
+Your task is to analyze parsed screenplay beats and score their effectiveness as a CLIFFHANGER (the final cut of a promotional clip that leaves viewers demanding to know what happens next).
+
+A winning promo clip ends at the exact peak of unresolved tension, forcing the viewer to install the app or watch Episode 2.
+
+---
+
+## Evaluation Dimensions
+
+### 1. Curiosity Gap Score (`curiosity_gap_score`, 0–5)
+Measures the intensity of the unresolved question left in the viewer's mind immediately upon cutting at this beat.
+- 0 = Fully resolved beat, action concluded, emotional tension dissipated, transition shot.
+- 1 = Trivial tension, generic pause, question has an obvious immediate answer.
+- 2 = Mild narrative interest, but lacks urgency or emotional stakes.
+- 3 = Moderate tension, an unanswered confrontation or brewing conflict that invites continuation.
+- 4 = High stakes, emotional rupture, public humiliation, impending consequence, or suspended confrontation.
+- 5 = Maximum cliffhanger: catastrophic betrayal, shock accusation, lethal ultimatum, physical showdown suspended, or character transformation from victim to vengeance.
+
+### 2. Specific Question Formulation (`specific_question`)
+State the exact, burning question the viewer asks at this precise moment. Must be specific to the character conflict, not generic ("What happens next?").
+
+### 3. Stakes Importance (`stakes_importance`: "High", "Medium", "Low")
+Explain why answering this question is emotionally or narratively vital for the audience.
+
+### 4. Over-Reveal Guard (`defuses_tension`: boolean)
+CRITICAL GUARD: Does this beat accidentally provide the resolution to its own question, defusing the cliffhanger?
+- If a beat asks a question and also provides the answer, `defuses_tension` = true.
+- If a beat leaves the outcome completely suspended, `defuses_tension` = false.
+
+### 5. Cliffhanger Taxonomy Classification (`cliffhanger_type`)
+Must be strictly chosen from this taxonomy:
+- `identity_reveal`: True status, hidden title, or secret identity exposed.
+- `betrayal`: Trusted lover, family member, or ally publicly breaks faith.
+- `threat`: Direct physical, legal, or social intimidation.
+- `romantic_uncertainty`: Two lovers at a point of romantic collision or sudden separation.
+- `revenge`: Protagonist turns from despair to fierce vengeance or retaliation.
+- `hidden_secret`: Discovery of a clandestine crime, poison, or deception.
+- `imminent_action`: A punch thrown, weapon drawn, or physical strike about to land.
+- `unexpected_arrival`: Unannounced stranger or hostile party bursts through the door.
+- `moral_dilemma`: A character is forced into an agonizing, impossible choice.
+- `unanswered_revelation`: A seismic fact dropped with the response cut off.
+- `none`: Not a cliffhanger.
+
+---
+
+## Concrete Worked Examples (From Episode 1)
+
+### Example 1: Beat B045 (Score 5, Defiant Revenge Transformation)
+- Events:
+  [CAMERA]: Push-in close-up on Juliana's tearful face. Her trembling mouth straightens, her tear-filled blue eyes hardening from sheer devastation into cold, resolute defiance.
+  [ACTION]: Juliana breathes through the agony, refusing to break down further in front of the congregation.
+  [SFX]: Solemn low-pitched string drone swells to an ominous cliffhanger peak.
+  [CAMERA]: Cut to black.
+- Scoring Output:
+  {
+    "beat_id": "B045",
+    "curiosity_gap_score": 5,
+    "specific_question": "How will Juliana strike back against Gerald and her family after this public humiliation?",
+    "stakes_importance": "High — marks the protagonist's emotional turning point from heartbroken victim to defiant fighter.",
+    "defuses_tension": false,
+    "cliffhanger_type": "revenge",
+    "is_strong_cliffhanger": true
+  }
+
+### Example 2: Beat B043 (Score 5, Insult & Gloating Sister)
+- Events:
+  [THE FORMER GROOM (Reverent toward Clarissa)]: "...when Clarissa is the true jewel of the county."
+  [CAMERA]: Close-up on Clarissa's radiant, conceited smile basking in Gerald's words.
+- Scoring Output:
+  {
+    "beat_id": "B043",
+    "curiosity_gap_score": 5,
+    "specific_question": "Will Juliana break down or publicly expose Gerald's shallow cruelty before the assembled congregation?",
+    "stakes_importance": "High — maximum public humiliation with the villainess savoring triumph.",
+    "defuses_tension": false,
+    "cliffhanger_type": "betrayal",
+    "is_strong_cliffhanger": true
+  }
+
+### Example 3: Beat B022 (Score 4, Callous Rejection)
+- Events:
+  [THE FORMER GROOM (Cold, Callous)]: "I changed my mind."
+  [CAMERA]: Tight close-up on Gerald's hardened profile as he glances down.
+- Scoring Output:
+  {
+    "beat_id": "B022",
+    "curiosity_gap_score": 4,
+    "specific_question": "How can Gerald justify breaking his betrothal vows at the altar with zero remorse?",
+    "stakes_importance": "High — establishes the unprovoked cruelty of the groom.",
+    "defuses_tension": false,
+    "cliffhanger_type": "betrayal",
+    "is_strong_cliffhanger": true
+  }
+
+### Example 4: Beat B002 (Score 1, Non-Cliffhanger)
+- Events:
+  [CAMERA]: High wide tracking shot following behind Juliana as she steps into the grand cathedral nave, facing the distant altar flanked by seated guests.
+- Scoring Output:
+  {
+    "beat_id": "B002",
+    "curiosity_gap_score": 1,
+    "specific_question": "Will Juliana reach the altar?",
+    "stakes_importance": "Low — routine bridal entrance with no visible conflict established.",
+    "defuses_tension": false,
+    "cliffhanger_type": "none",
+    "is_strong_cliffhanger": false
+  }
+
+---
+
+## Instructions for Scoring Beats
+
+Given the list of screenplay beats below:
+1. For each beat, analyze the narrative end-state if the clip cuts precisely at the conclusion of this beat.
+2. Determine `curiosity_gap_score` (0–5).
+3. State the `specific_question` and `stakes_importance`.
+4. Run the `over_reveal_check`: set `defuses_tension` = true if the beat answers its own question.
+5. Classify into `cliffhanger_type`.
+6. Set `is_strong_cliffhanger` = true IF `curiosity_gap_score >= 3` AND `defuses_tension == false`.
+7. Return strictly valid JSON matching the schema below.
+
+## Output Schema (Strict JSON Array):
+```json
+[
+  {
+    "beat_id": "string",
+    "curiosity_gap_score": integer,
+    "specific_question": "string",
+    "stakes_importance": "string",
+    "defuses_tension": boolean,
+    "cliffhanger_type": "string",
+    "is_strong_cliffhanger": boolean
+  }
+]
+```
+

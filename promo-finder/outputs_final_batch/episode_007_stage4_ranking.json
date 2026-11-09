@@ -1,0 +1,182 @@
+{
+  "episode_number": 7,
+  "total_ranked": 11,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP007_15",
+      "absolute_score": 9.2,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "Bluntly opens on the visceral close-up of mud-stained hands and the harsh insult 'You look like a servant', seizing attention in under two seconds. The relentless ideological clash accelerates seamlessly into Gerald's predatory lunge and chilling disappearance threat at the cut.",
+      "duration": 31.7,
+      "start_beat_id": "B010",
+      "end_beat_id": "B018",
+      "emotional_salience_score": 5,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP007_12",
+      "absolute_score": 9.2,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "Arrests viewers immediately with Gerald's cruel sneer before rapidly escalating from verbal class disdain to physical menace. Cutting precisely on Gerald's aggressive finger jab and overt threat to make her husband disappear delivers maximum irresolution and peak-rupture stakes.",
+      "duration": 45.0,
+      "start_beat_id": "B007",
+      "end_beat_id": "B018",
+      "emotional_salience_score": 5,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP007_14",
+      "absolute_score": 8.8,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "The sudden burst of malicious aristocratic laughter and public humiliation of Juliana's hands creates an instantaneous sensory and emotional hook. Tension mounts rapidly across unbroken ideological and moral clashes until the lethal finger-pointing cliffhanger.",
+      "duration": 36.7,
+      "start_beat_id": "B009",
+      "end_beat_id": "B018",
+      "emotional_salience_score": 4,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP007_13",
+      "absolute_score": 8.5,
+      "subscores": {
+        "hook_score": 1.8,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "Juliana's opening counter-challenge is dramatic but slightly more conversational than Gerald's direct verbal assault. The mid-arc confrontation builds tension cleanly without lulls, ending on Gerald's lethal, unfinished threat that compels viewers to watch the next episode.",
+      "duration": 39.7,
+      "start_beat_id": "B008",
+      "end_beat_id": "B018",
+      "emotional_salience_score": 4,
+      "rank": 4
+    },
+    {
+      "candidate_id": "CAND_EP007_10",
+      "absolute_score": 8.4,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.2,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "Gerald's vicious opening insult establishes instant romantic stakes and social ruin. Juliana's unwavering pushback delivers immense emotional satisfaction, culminating in a powerful rebuttal on cowardice that leaves Gerald stunned, albeit slightly more resolved than a life-or-death cliffhanger.",
+      "duration": 37.0,
+      "start_beat_id": "B007",
+      "end_beat_id": "B016",
+      "emotional_salience_score": 4,
+      "rank": 5
+    },
+    {
+      "candidate_id": "CAND_EP007_11",
+      "absolute_score": 8.2,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.2,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "The prompt verbal assault provides immediate narrative traction and cold-audience context. Tension steadily escalates through vicious physical insults to Juliana's decisive dismissal ('Leave'), which provides a commanding protagonist moment but slightly lowers cliffhanger irresolution.",
+      "duration": 40.7,
+      "start_beat_id": "B007",
+      "end_beat_id": "B017",
+      "emotional_salience_score": 4,
+      "rank": 6
+    },
+    {
+      "candidate_id": "CAND_EP007_09",
+      "absolute_score": 7.8,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.0,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 1.9
+      },
+      "rank_justification": "Opens instantly on Gerald's brutal sneer and accusation of throwing away everything for a penniless soldier, gripping viewers immediately. The middle confrontation sustains high emotional friction, though ending on the 'scarred beggar' line poses a character question rather than an active physical threat.",
+      "duration": 30.3,
+      "start_beat_id": "B007",
+      "end_beat_id": "B015",
+      "emotional_salience_score": 4,
+      "rank": 7
+    },
+    {
+      "candidate_id": "CAND_EP007_04",
+      "absolute_score": 5.7,
+      "subscores": {
+        "hook_score": 0.6,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.6,
+        "resonance_score": 1.7
+      },
+      "rank_justification": "Opening with silent labor depresses early scroll-stop velocity despite the strong emotional humiliation in the middle beats. The aristocratic woman's mocking laugh and focus on Juliana's ruined hands provides sharp class conflict, but cuts on mid-scene bait rather than a climactic cliffhanger.",
+      "duration": 37.8,
+      "start_beat_id": "B001",
+      "end_beat_id": "B009",
+      "emotional_salience_score": 4,
+      "rank": 8
+    },
+    {
+      "candidate_id": "CAND_EP007_05",
+      "absolute_score": 5.7,
+      "subscores": {
+        "hook_score": 0.6,
+        "tension_score": 1.9,
+        "cliffhanger_score": 1.5,
+        "resonance_score": 1.7
+      },
+      "rank_justification": "Suffers from a slow, non-dialogue establishing opening that risks cold viewer drop-off. The progression into blatant class degradation is emotionally resonant, but ending on 'You look like a servant' defuses into a conversational insult rather than an urgent crisis.",
+      "duration": 39.8,
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "emotional_salience_score": 4,
+      "rank": 9
+    },
+    {
+      "candidate_id": "CAND_EP007_03",
+      "absolute_score": 5.3,
+      "subscores": {
+        "hook_score": 0.6,
+        "tension_score": 1.6,
+        "cliffhanger_score": 1.5,
+        "resonance_score": 1.6
+      },
+      "rank_justification": "The slow, silent gardening opening fails to arrest cold scrollers within the critical 2-second window. Juliana's counter-question at the exit establishes proud defiance, but lacks the urgent lethal stakes needed for an elite hook-and-cliffhanger dynamic.",
+      "duration": 32.8,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "emotional_salience_score": 4,
+      "rank": 10
+    },
+    {
+      "candidate_id": "CAND_EP007_02",
+      "absolute_score": 5.2,
+      "subscores": {
+        "hook_score": 0.6,
+        "tension_score": 1.4,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 1.5
+      },
+      "rank_justification": "The clip opens on silent atmospheric yard work lacking immediate scroll-stopping shock. While the cruel mockery builds toward Gerald's biting insult about throwing everything away for a penniless soldier, the exit cut feels like an opening salvo rather than a peak-rupture cliffhanger.",
+      "duration": 29.8,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "emotional_salience_score": 4,
+      "rank": 11
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "episode_number": 11,
+  "total_ranked": 8,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP011_09",
+      "absolute_score": 9.4,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Juliana crawling on the floor with tears streaming while calling out Gerald's bitter vindictiveness delivers instantaneous visceral shock and clear conflict in under two seconds. The escalation is relentless, cutting on peak horror the exact millisecond the watch is extracted from the coat lining.",
+      "duration": 37.4,
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "emotional_salience_score": 5,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP011_08",
+      "absolute_score": 9.0,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Juliana frantically dropping to her knees to protect her mother's medicines creates an urgent, empathetic emotional hook right away. Tension builds relentlessly past Gerald's cruel goading to an explosive peak-rupture cliffhanger as the incriminating watch is pulled from the coat.",
+      "duration": 41.2,
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "emotional_salience_score": 5,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP011_10",
+      "absolute_score": 8.8,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.4,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "Features the same exceptional high-impact hook and gut-wrenching escalation as CAND_EP011_09, establishing clear empathy and stakes immediately. However, continuing into B021 to show Alexander's icy realization slightly defuses the raw shock of the reveal compared to cutting directly on Juliana's gasp.",
+      "duration": 40.2,
+      "start_beat_id": "B014",
+      "end_beat_id": "B021",
+      "emotional_salience_score": 5,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP011_03",
+      "absolute_score": 8.5,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.9
+      },
+      "rank_justification": "Gerald's pointed accusation of theft creates an instantaneous high-stakes hook in the opening seconds that grips swiping viewers immediately. The conflict escalates cleanly without lull to Alexander's surprising, spine-chilling command to let the constable search.",
+      "duration": 36.8,
+      "start_beat_id": "B008",
+      "end_beat_id": "B011",
+      "emotional_salience_score": 4,
+      "rank": 4
+    },
+    {
+      "candidate_id": "CAND_EP011_13",
+      "absolute_score": 8.2,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 1.9
+      },
+      "rank_justification": "Alexander's internal struggle between violence and protecting Juliana hooks the viewer with immediate dramatic gravity. The reveal happens quickly and sustains strong friction, though lingering on the dangling watch and Gerald's gloating provides a slightly softer exit than the initial shock discovery.",
+      "duration": 27.75,
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "emotional_salience_score": 5,
+      "rank": 5
+    },
+    {
+      "candidate_id": "CAND_EP011_06",
+      "absolute_score": 8.2,
+      "subscores": {
+        "hook_score": 1.3,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "The opening lacks dialogue and relies on generic physical rummaging, but the mid-clip escalation delivers relentless emotional violation and taunting. The climax cuts on peak rupture as the planted pocket watch emerges from the coat lining to Juliana's horrified gasp.",
+      "duration": 45.2,
+      "start_beat_id": "B012",
+      "end_beat_id": "B020",
+      "emotional_salience_score": 5,
+      "rank": 6
+    },
+    {
+      "candidate_id": "CAND_EP011_01",
+      "absolute_score": 7.5,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 1.7
+      },
+      "rank_justification": "The cryptic opening line lacks an immediate visual shock, but the scene escalates rapidly into intense class humiliation and a tense three-way confrontation. It cuts perfectly on Alexander's lethal suppressed threat before physical violence erupts.",
+      "duration": 24.1,
+      "start_beat_id": "B006",
+      "end_beat_id": "B009",
+      "emotional_salience_score": 4,
+      "rank": 7
+    },
+    {
+      "candidate_id": "CAND_EP011_02",
+      "absolute_score": 7.2,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.8
+      },
+      "rank_justification": "A slower conversational hook gives way to escalating legal peril outside the doorway, though the pacing plateaus slightly mid-clip. The cliffhanger cut on Alexander's calm, defiant invitation to search creates a compelling psychological curiosity gap.",
+      "duration": 42.8,
+      "start_beat_id": "B006",
+      "end_beat_id": "B011",
+      "emotional_salience_score": 4,
+      "rank": 8
+    }
+  ]
+}

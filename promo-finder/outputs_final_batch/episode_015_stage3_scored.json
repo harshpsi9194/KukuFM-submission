@@ -1,0 +1,431 @@
+{
+  "episode_number": 15,
+  "total_scored": 17,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP015_01",
+      "start_beat_id": "B002",
+      "end_beat_id": "B019",
+      "start_time": 3.5,
+      "end_time": 62.0,
+      "duration": 58.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 establishes an immediate physical setting and violent act: a low-angle shot shows a thug raising a heavy wooden club and smashing a planter box in the night. Visually self-evident aggression without needing dialogue or backstory.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is crystal clear: a vulnerable protagonist with bandaged hands rushes out to protect her late mother's medicinal garden, begs on her knees, stands her ground, and gets violently assaulted and mocked by three cruel thugs threatening to smash the rest.",
+        "passes_gate": true,
+        "situational_summary": "A injured young woman tries to protect her family garden from three ruthless thugs who mock her, shove her into the mud, and threaten to smash the remaining plants."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate plea against cruel, wanton vandalism culminating in physical abuse and humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts an early confrontation/intimidation scene establishing Juliana's vulnerability and defiance, with no critical late-series twists revealed."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_02",
+      "start_beat_id": "B004",
+      "end_beat_id": "B014",
+      "start_time": 7.5,
+      "end_time": 46.5,
+      "duration": 39.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 provides a clear visual establishing anchor: framing a stone cottage doorway against the night as Juliana bursts out with bandaged hands yelling 'Stop! What are you doing?!', immediately presenting the crisis and protagonist.",
+        "arc_legibility": true,
+        "arc_rationale": "The dispute is fully self-contained: thugs destroy garden plants while mocking Juliana's noble status, and she bravely refuses to yield until a thug gets right into her face.",
+        "passes_gate": true,
+        "situational_summary": "An injured noblewoman bursts out of her cottage to confront sneering intruders destroying her garden, standing her ground when ordered to back down."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Indignant confrontation and tense verbal standoff against bullying intruders"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Inciting conflict showing thugs vandalizing the garden; safe introductory dramatic friction."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_03",
+      "start_beat_id": "B004",
+      "end_beat_id": "B019",
+      "start_time": 7.5,
+      "end_time": 62.0,
+      "duration": 54.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 establishes setting, character, and crisis instantly: a woman with bandaged hands rushes out from her lit stone cottage doorway into the night shouting at unseen intruders.",
+        "arc_legibility": true,
+        "arc_rationale": "Complete, gripping narrative conflict: Juliana attempts to beg, then confronts the thugs, gets violently shoved until her bandages bleed onto her ruined mother's plants, ending on a thug poised to deliver another devastating blow.",
+        "passes_gate": true,
+        "situational_summary": "After bursting outside to defend her medicinal garden from sneering vandals, a young woman is violently shoved to the ground and threatened with a club as her bandaged hands bleed into the mud."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Heartbreaking agony and visceral vulnerability as a wounded woman is physically shoved and mocked over her mother's destroyed plants"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "High-stakes harassment encounter establishing character adversity without spoiling major downstream plot secrets or resolutions."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_04",
+      "start_beat_id": "B007",
+      "end_beat_id": "B015",
+      "start_time": 18.8,
+      "end_time": 49.5,
+      "duration": 30.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 opens in media res on a close-up of a thug holding an unidentified bouquet and stepping on it ('They look like weeds to me'). For a cold viewer in the first 1-3 seconds, there is no spatial establishing context, no knowledge of where this is taking place, who is speaking, or whose flowers are being crushed without relying on later beats.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict between Juliana defending her garden and the thugs escalating to physical shove is understandable once Juliana enters and speaks.",
+        "passes_gate": false,
+        "situational_summary": "A woman begs a group of mocking thugs to stop stomping on her plants, culminating in her being shoved hard to the ground."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cruel bullying followed by a sudden violent physical shove"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Standard harassment confrontation; safe for ad campaigns."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_05",
+      "start_beat_id": "B007",
+      "end_beat_id": "B016",
+      "start_time": 18.8,
+      "end_time": 53.5,
+      "duration": 34.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 opens with a clear visual establishing shot tracking down from a grinning thug to boots grinding a bouquet into muddy flagstones, immediately establishing ruthless vandalism and hostile intent in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear dynamic of a defenseless injured woman defending her property against mocking bullies, culminating in a violent shove and her bleeding on the ground while trying to protect the flowers. Core conflict is completely self-contained.",
+        "passes_gate": true,
+        "situational_summary": "A defenseless injured woman tries to stand up against cruel thugs destroying her garden, only to be violently shoved into the mud."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging physical and emotional cruelty inflicted on a helpless victim"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Portrays a standalone harassment and confrontation scene without revealing broader family or political conspiracy secrets."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_06",
+      "start_beat_id": "B007",
+      "end_beat_id": "B019",
+      "start_time": 18.8,
+      "end_time": 62.0,
+      "duration": 43.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 clearly grounds the scene with a thug stomping on delicate flowers in the mud while declaring them weeds, immediately signaling sadistic destruction.",
+        "arc_legibility": true,
+        "arc_rationale": "Full dramatic escalation: thugs mock and push Juliana into the mud as her bandages bleed, she grieves her mother's destroyed plants, and a thug raises a club for a final blow. Fully understandable without prior lore.",
+        "passes_gate": true,
+        "situational_summary": "Thugs violently assault and humiliate a weeping woman over her mother's garden, ending with a raised club poised to crush the rest."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak visceral heartbreak and helpless agony under sadistic torment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows an intense confrontation and endangerment scene that functions as setup/inciting harassment, safe for cold prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_07",
+      "start_beat_id": "B008",
+      "end_beat_id": "B019",
+      "start_time": 22.5,
+      "end_time": 62.0,
+      "duration": 39.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B008 immediately opens with a high-angle two-shot of a woman dropping to her knees in cold mud before a thug, frantically scooping crushed plants with bandaged hands while pleading. Instantly establishes extreme vulnerability and power imbalance.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict between a desperate injured noblewoman and sneering intruders, escalating to physical violence and a raised weapon poised over her mother's remaining plants.",
+        "passes_gate": true,
+        "situational_summary": "A desperate woman begs sneering thugs to spare her mother's garden, suffering a violent shove before a club is raised to finish destroying it."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Raw emotional anguish and desperate maternal remembrance crushed by cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Standard high-stakes intimidation beat establishing protagonist suffering without spoiling long-term plot resolutions."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_08",
+      "start_beat_id": "B008",
+      "end_beat_id": "B020",
+      "start_time": 22.5,
+      "end_time": 63.2,
+      "duration": 40.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B008 establishes the setting and dynamic instantly as Juliana falls to her knees in mud with bandaged hands begging before a thug, making the stakes and dynamic unmistakable from frame one.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear victim-versus-bullies narrative arc that builds through verbal cruelty and physical assault to an imminent club strike, interrupted at the final beat by oncoming footsteps.",
+        "passes_gate": true,
+        "situational_summary": "As thugs brutalize a helpless woman over her ruined garden, an execution blow with a club is halted by the sound of approaching footsteps."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public cruelty peaking into imminent danger and last-second suspense"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Features an intense intimidation encounter cut off before the arrival identity is shown, maintaining universal campaign safety."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_09",
+      "start_beat_id": "B014",
+      "end_beat_id": "B026",
+      "start_time": 44.2,
+      "end_time": 86.0,
+      "duration": 41.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 opens with a tight close-up of a hostile man aggressively crowding a woman's personal space and barking a direct physical threat ('Get out of the way!'). The immediate danger, interpersonal hostility, and victim-aggressor dynamic are established within the first two seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is completely self-contained: three armed thugs brutalize a wounded woman defending her mother's herb patch, until a furious protector arrives and steps between them right before an imminent brawl.",
+        "passes_gate": true,
+        "situational_summary": "Armed thugs shove an injured woman to the ground to destroy her garden until an enraged protector steps in to shield her from imminent violence."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal physical bullying and helpless humiliation flipped into protective vengeance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the thugs' attack on Juliana and Alexander's protective intervention, an escalating confrontation inciting broader conflict without giving away the final resolution."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_10",
+      "start_beat_id": "B015",
+      "end_beat_id": "B021",
+      "start_time": 46.5,
+      "end_time": 67.5,
+      "duration": 21.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B015 opens on an extreme close-up of a woman uttering an isolated 'No' and immediately being shoved to the stone path. Without preceding context or an establishing view, it opens mid-motion on a disorienting, unanchored physical reaction with no clear grounding of who she is refusing or why.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict between the bullies and Juliana is clearly demonstrated, ending on Alexander's sudden charge around the cottage.",
+        "passes_gate": false,
+        "situational_summary": "A defiant woman is shoved onto the wet ground by thugs laughing at her ruined plants before a mysterious man rushes out from the dark."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vulnerable victim subjected to cruel mocking followed by an explosive rescue entrance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Captures the disruption of Juliana's safety and Alexander charging into the fight."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_11",
+      "start_beat_id": "B015",
+      "end_beat_id": "B024",
+      "start_time": 46.5,
+      "end_time": 78.5,
+      "duration": 32.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B015 starts abruptly with an extreme close-up of a woman saying 'No' before being shoved, missing the setup of who is threatening her or the initial physical confrontation framing.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict arc clearly establishes Juliana being battered by bullies, relieved by Alexander's arrival, and Alexander positioning his body as an impassable barrier.",
+        "passes_gate": false,
+        "situational_summary": "After being shoved down and mocked by thugs, an injured woman is shielded by a formidable protector stepping between her and her assailants."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate vulnerability turning into righteous physical protection"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts an armed confrontation setup and Alexander's arrival to defend Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_12",
+      "start_beat_id": "B015",
+      "end_beat_id": "B025",
+      "start_time": 46.5,
+      "end_time": 82.8,
+      "duration": 36.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B015 opens mid-struggle on an extreme close-up refusal ('No') and sudden shove without establishing spatial layout or who the woman is defying in the opening seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained arc from physical assault and verbal mockery to a protective confrontation where the aggressor verbally challenges the newcomer.",
+        "passes_gate": false,
+        "situational_summary": "A wounded woman is assaulted and mocked by thugs until a protector steps between them, drawing a tense challenge from the gang leader."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Humiliation of a helpless defender halted by an impending brawl"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Highlights the thugs' attack on the garden and Alexander stepping up to face them."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_13",
+      "start_beat_id": "B015",
+      "end_beat_id": "B026",
+      "start_time": 46.5,
+      "end_time": 86.0,
+      "duration": 39.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 establishes immediate physical conflict and character dynamics: an extreme close-up of Juliana's defiant face followed by a thug violently shoving her to the ground. The setting (wet stone path) and immediate victim-aggressor dynamic are clear within 3 seconds without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly depicts a vulnerable injured woman being bullied by three armed thugs who destroy her mother's herbs, until an imposing male protector arrives to stand between her and the assailants, setting up an imminent clash.",
+        "passes_gate": true,
+        "situational_summary": "After three thugs violently shove an injured young woman and threaten to destroy her mother's plants, a furious protector emerges from the mist to defend her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal physical bullying and agonizing helplessness reversed by thunderous protective vengeance."
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows an isolated confrontation/skirmish with local thugs and the hero stepping in to protect Juliana; does not reveal core masterplot secrets."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_14",
+      "start_beat_id": "B016",
+      "end_beat_id": "B026",
+      "start_time": 49.5,
+      "end_time": 86.0,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B016 opens mid-action with a tight tracking shot of a bloody hand hitting mud next to crushed chamomile. In isolation without sound or setup, a cold viewer cannot tell who this is, where they are, or who caused the injury.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the thugs mock her and Alexander arrives, the conflict between the bullies and the arriving protector is easy to grasp across the full clip.",
+        "passes_gate": false,
+        "situational_summary": "A bleeding woman crawling in the mud to protect ruined flowers is harassed by armed thugs until a towering defender arrives to face them."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Desperate physical vulnerability followed by high-tension standoff and heroic rescue."
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts a tactical assault/harassment beat by cottage intruders and hero confrontation."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_15",
+      "start_beat_id": "B017",
+      "end_beat_id": "B026",
+      "start_time": 53.5,
+      "end_time": 86.0,
+      "duration": 32.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 opens on a tight close-up of a crying, mud-streaked woman whispering 'My mother's plants...'. It lacks an establishing anchor or physical context to explain who is threatening her or why she is on the ground.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc clarifies that she is being mocked and threatened by three thugs until a menacing protector steps in to defend her.",
+        "passes_gate": false,
+        "situational_summary": "A woman weeping over her destroyed family plants is cornered by mocking thugs before an intimidating ally steps in to fight them off."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Heartbreaking grief over ruined sentimental memories pivoting into an impending brawl."
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows a local physical confrontation and the male lead confronting the thugs."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_16",
+      "start_beat_id": "B019",
+      "end_beat_id": "B026",
+      "start_time": 60.0,
+      "end_time": 86.0,
+      "duration": 26.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 begins on a sudden panicked shout ('Stop!') and a man raising a club over herbs. Without seeing how Juliana ended up on the ground or the earlier physical shove, it begins abruptly mid-reaction without grounding the situation.",
+        "arc_legibility": true,
+        "arc_rationale": "The situation is self-contained: thugs bullying a fallen woman until a furious man intervenes to face them.",
+        "passes_gate": false,
+        "situational_summary": "A thug poised to crush a fallen woman's herbs is interrupted by an imposing protector stepping between them for a violent standoff."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Immediate threat of destruction halted by an imposing standoff."
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts a brief skirmish and hero confrontation with local thugs."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP015_17",
+      "start_beat_id": "B021",
+      "end_beat_id": "B026",
+      "start_time": 63.2,
+      "end_time": 86.0,
+      "duration": 22.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B021 begins mid-charge with Alexander sprinting past a cottage in the mist radiating untamed rage, but gives zero grounding of what he is running toward, who is in peril, or what the confrontation is until later beats. Evaluating Beat 0 in isolation without retrospective justification fails the cold-open visual legibility standard.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full clip, the dynamic becomes immediately clear: a fallen woman (Juliana) is cornered by three armed thugs, and a lethal protector (Alexander) steps between them to shield her before facing off against the gang.",
+        "passes_gate": false,
+        "situational_summary": "A lethal man storms in to shield a fallen, terrified woman cornered in the night by three armed thugs."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective fury colliding with imminent physical peril and suspense"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals an impending physical skirmish/rescue sequence without disclosing high-level narrative secrets or major plot resolutions."
+      }
+    }
+  ]
+}

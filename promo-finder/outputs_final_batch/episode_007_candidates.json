@@ -1,0 +1,1056 @@
+{
+  "episode_number": 7,
+  "total_candidates": 17,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP007_01",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 24.5,
+      "duration": 24.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Kneeling on damp ground and digging weeds with bare hands creates an immediate visual contrast of fallen nobility or servitude.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 3,
+        "specific_question": "How will Juliana defend her humble living conditions against the aristocrat's mocking inquiry?",
+        "stakes_importance": "Medium \u2014 initiates direct confrontation over class fall and pride.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B001",
+          "end_beat_id": "B006",
+          "start_time": 0.0,
+          "end_time": 24.5,
+          "duration": 24.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_02",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 29.8,
+      "duration": 29.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Kneeling on damp ground and digging weeds with bare hands creates an immediate visual contrast of fallen nobility or servitude.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will Juliana retaliate against Gerald's public insult regarding her marriage to a penniless soldier?",
+        "stakes_importance": "Medium \u2014 highlights Gerald's lingering bitterness and disdain for her choices.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B001",
+          "end_beat_id": "B007",
+          "start_time": 0.0,
+          "end_time": 29.8,
+          "duration": 29.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_03",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 32.8,
+      "duration": 32.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Kneeling on damp ground and digging weeds with bare hands creates an immediate visual contrast of fallen nobility or servitude.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 3,
+        "specific_question": "What true, humiliating reason brought Gerald and the noblewoman to Juliana's door?",
+        "stakes_importance": "Medium \u2014 Juliana directly challenges their motive for invading her space.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B001",
+          "end_beat_id": "B008",
+          "start_time": 0.0,
+          "end_time": 32.8,
+          "duration": 32.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_04",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B001",
+      "end_beat_id": "B009",
+      "start_time": 0.0,
+      "end_time": 37.8,
+      "duration": 37.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Kneeling on damp ground and digging weeds with bare hands creates an immediate visual contrast of fallen nobility or servitude.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B009",
+        "curiosity_gap_score": 3,
+        "specific_question": "How will the woman use Juliana's labor-worn hands to disgrace her noble lineage?",
+        "stakes_importance": "Medium \u2014 escalates targeted social shaming and class humiliation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B001",
+          "end_beat_id": "B009",
+          "start_time": 0.0,
+          "end_time": 37.8,
+          "duration": 37.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_05",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "start_time": 0.0,
+      "end_time": 39.8,
+      "duration": 39.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Kneeling on damp ground and digging weeds with bare hands creates an immediate visual contrast of fallen nobility or servitude.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will Juliana accept the insult of being called a servant or defend her status?",
+        "stakes_importance": "Medium \u2014 directly attacks Juliana's aristocratic identity and dignity.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B001",
+          "end_beat_id": "B010",
+          "start_time": 0.0,
+          "end_time": 39.8,
+          "duration": 39.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_06",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B006",
+      "end_beat_id": "B018",
+      "start_time": 21.0,
+      "end_time": 69.5,
+      "duration": 48.5,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "The mocking question 'This is where you live now?' sets up condescension without an urgent explosive reveal.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Rinsing muddy hands in a puddle and rising proudly provides noticeable physical friction against the mocking visitor.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?",
+        "stakes_importance": "High \u2014 direct, dangerous ultimatum threatening life and security.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B006",
+          "end_beat_id": "B018",
+          "start_time": 21.0,
+          "end_time": 69.5,
+          "duration": 48.5,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_07",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B007",
+      "end_beat_id": "B012",
+      "start_time": 24.5,
+      "end_time": 45.0,
+      "duration": 20.5,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Gerald's stinging insult that she 'threw away everything for a penniless soldier' delivers high-stakes backstory and immediate betrayal dynamics.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium shot of Gerald sneering beside the woman presents standard confrontational posture.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B012",
+        "curiosity_gap_score": 3,
+        "specific_question": "Can Gerald shatter Juliana's unyielding moral pride?",
+        "stakes_importance": "Medium \u2014 shows Juliana refusing to bow to their class-based disdain.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B007",
+          "end_beat_id": "B012",
+          "start_time": 24.5,
+          "end_time": 45.0,
+          "duration": 20.5,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_08",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B007",
+      "end_beat_id": "B014",
+      "start_time": 24.5,
+      "end_time": 50.8,
+      "duration": 26.3,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Gerald's stinging insult that she 'threw away everything for a penniless soldier' delivers high-stakes backstory and immediate betrayal dynamics.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium shot of Gerald sneering beside the woman presents standard confrontational posture.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B014",
+        "curiosity_gap_score": 3,
+        "specific_question": "How will Gerald counter Juliana's refusal to be humbled?",
+        "stakes_importance": "Medium \u2014 powerful declaration of unbroken dignity in the face of snobbery.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B007",
+          "end_beat_id": "B014",
+          "start_time": 24.5,
+          "end_time": 50.8,
+          "duration": 26.3,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_09",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B007",
+      "end_beat_id": "B015",
+      "start_time": 24.5,
+      "end_time": 54.8,
+      "duration": 30.3,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Gerald's stinging insult that she 'threw away everything for a penniless soldier' delivers high-stakes backstory and immediate betrayal dynamics.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium shot of Gerald sneering beside the woman presents standard confrontational posture.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 3,
+        "specific_question": "Why did Juliana choose an alleged 'scarred beggar' over wealth and comfort?",
+        "stakes_importance": "Medium \u2014 brings Juliana's mysterious husband directly into the center of the conflict.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B007",
+          "end_beat_id": "B015",
+          "start_time": 24.5,
+          "end_time": 54.8,
+          "duration": 30.3,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_10",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B007",
+      "end_beat_id": "B016",
+      "start_time": 24.5,
+      "end_time": 61.5,
+      "duration": 37.0,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Gerald's stinging insult that she 'threw away everything for a penniless soldier' delivers high-stakes backstory and immediate betrayal dynamics.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium shot of Gerald sneering beside the woman presents standard confrontational posture.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B016",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Gerald react to being publicly called a coward who abandoned Juliana when she needed him most?",
+        "stakes_importance": "High \u2014 unmasks Gerald's betrayal and validates Juliana's loyalty to her new husband.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B007",
+          "end_beat_id": "B016",
+          "start_time": 24.5,
+          "end_time": 61.5,
+          "duration": 37.0,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_11",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B007",
+      "end_beat_id": "B017",
+      "start_time": 24.5,
+      "end_time": 65.2,
+      "duration": 40.7,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Gerald's stinging insult that she 'threw away everything for a penniless soldier' delivers high-stakes backstory and immediate betrayal dynamics.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium shot of Gerald sneering beside the woman presents standard confrontational posture.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Gerald obey Juliana's demand to leave or resort to physical violence and threats?",
+        "stakes_importance": "High \u2014 high-tension standoff where the heroine demands the invaders depart.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B007",
+          "end_beat_id": "B017",
+          "start_time": 24.5,
+          "end_time": 65.2,
+          "duration": 40.7,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_12",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B007",
+      "end_beat_id": "B018",
+      "start_time": 24.5,
+      "end_time": 69.5,
+      "duration": 45.0,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Gerald's stinging insult that she 'threw away everything for a penniless soldier' delivers high-stakes backstory and immediate betrayal dynamics.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium shot of Gerald sneering beside the woman presents standard confrontational posture.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?",
+        "stakes_importance": "High \u2014 direct, dangerous ultimatum threatening life and security.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B007",
+          "end_beat_id": "B018",
+          "start_time": 24.5,
+          "end_time": 69.5,
+          "duration": 45.0,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_13",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B008",
+      "end_beat_id": "B018",
+      "start_time": 29.8,
+      "end_time": 69.5,
+      "duration": 39.7,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Juliana directly challenges their presence with a sharp, defiant counter-question.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium close-up showing defiance despite soiled clothes, offering subtle emotional friction.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?",
+        "stakes_importance": "High \u2014 direct, dangerous ultimatum threatening life and security.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B008",
+          "end_beat_id": "B018",
+          "start_time": 29.8,
+          "end_time": 69.5,
+          "duration": 39.7,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_14",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B009",
+      "end_beat_id": "B018",
+      "start_time": 32.8,
+      "end_time": 69.5,
+      "duration": 36.7,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Cruel mockery directing focus to her physical labor ('Home? Look at your hands, Juliana') sharpens the confrontation.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of malicious erupting laughter under an umbrella creates expressive, mute-legible antagonism.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?",
+        "stakes_importance": "High \u2014 direct, dangerous ultimatum threatening life and security.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B009",
+          "end_beat_id": "B018",
+          "start_time": 32.8,
+          "end_time": 69.5,
+          "duration": 36.7,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_15",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B010",
+      "end_beat_id": "B018",
+      "start_time": 37.8,
+      "end_time": 69.5,
+      "duration": 31.7,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Blunt degradation ('You look like a servant') strikes directly at her fallen status and identity.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up insert of mud-stained palms against an apron delivers vivid, instantly legible visual drama without sound.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?",
+        "stakes_importance": "High \u2014 direct, dangerous ultimatum threatening life and security.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B010",
+          "end_beat_id": "B018",
+          "start_time": 37.8,
+          "end_time": 69.5,
+          "duration": 31.7,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_16",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B012",
+      "end_beat_id": "B018",
+      "start_time": 41.0,
+      "end_time": 69.5,
+      "duration": 28.5,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Juliana's retort ('There is no shame in that') offers a firm, dignified ideological pushback against elitism.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Lifting chin with dignity is an effective character beat, but visually subtle.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?",
+        "stakes_importance": "High \u2014 direct, dangerous ultimatum threatening life and security.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B012",
+          "end_beat_id": "B018",
+          "start_time": 41.0,
+          "end_time": 69.5,
+          "duration": 28.5,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP007_17",
+      "episode": "Episode 7",
+      "episode_number": 7,
+      "start_beat_id": "B014",
+      "end_beat_id": "B018",
+      "start_time": 47.0,
+      "end_time": 69.5,
+      "duration": 22.5,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "The assertive declaration 'And I remain one' provides a strong, punchy moral stand.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Tight close-up focusing intensely on clear eyes shining with unbroken pride conveys unmistakable defiance on mute.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Gerald carry out his threat to use his influence to make Juliana's husband disappear?",
+        "stakes_importance": "High \u2014 direct, dangerous ultimatum threatening life and security.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 7,
+          "start_beat_id": "B014",
+          "end_beat_id": "B018",
+          "start_time": 47.0,
+          "end_time": 69.5,
+          "duration": 22.5,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

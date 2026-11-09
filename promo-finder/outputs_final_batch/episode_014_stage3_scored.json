@@ -1,0 +1,306 @@
+{
+  "episode_number": 14,
+  "total_scored": 12,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP014_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 23.0,
+      "duration": 23.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens on a vivid, tactile visual anchor: a close-up low angle in dense blackthorn briars where a blood-streaked, mud-caked hand uncurls to reveal an ornate emerald signet ring on frozen soil. Physical setting and visceral stakes are instantly established within seconds without requiring prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict and stakes are self-contained and immediately clear: a battered woman trades a retrieved ring to a constable to release her handcuffed husband, leading to their immediate, emotional reunion where he discovers the horrific toll on her hands.",
+        "passes_gate": true,
+        "situational_summary": "After clawing through briars to retrieve a lost signet ring, a bloody-handed wife hands it to a constable to secure her shackled husband's release."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Devotional self-sacrifice rewarded by tender, heartbroken reunion"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Resolves the immediate physical trial/retrieval condition to free the husband, functioning as a high-stakes dramatic setup clip for cold prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP014_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 25.5,
+      "duration": 25.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 delivers an unmistakable opening visual hook: an extreme close-up of a bloody hand uncurling in thorny briars over frozen earth to display an ornate emerald ring, instantly grounding the cold scroller in the visceral physical reality.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic beat from trade to confrontation: the wife ransoms her imprisoned husband with the ring, and upon release, his relief turns into burning protective fury at the sight of her mutilated hands ('What have they done to you?').",
+        "passes_gate": true,
+        "situational_summary": "A woman exchanges an ornate ring she retrieved from briars to free her imprisoned husband, who turns furious upon discovering her mutilated hands."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Protective outrage and visceral heartbreak following extreme marital sacrifice"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Showcases the husband's release and the discovery of her injuries, triggering the revenge/retribution hook without spoiling long-term plot arcs."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP014_03",
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 29.5,
+      "duration": 29.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 provides an immediate, grounded visual opening: a woman's bloody, lacerated hand emerging from sharp blackthorn brambles holding an ornate emerald signet ring, establishing the high-friction physical stakes without dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely legible interpersonal arc: Juliana frees Alexander from iron shackles by delivering the recovered ring, and when he grieves over her ruined hands, she confirms an oppressive bargain ('Nothing they didn't promise.').",
+        "passes_gate": true,
+        "situational_summary": "A devoted wife secures her husband's release from iron shackles with a recovered ring, stoically admitting her bloody wounds were the cruel price promised for his freedom."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Quiet, devastating stoicism confronting anguished marital devotion"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses the transactional price Juliana paid to release her husband; perfect inciting incident ad hook."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP014_04",
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "start_time": 0.0,
+      "end_time": 38.5,
+      "duration": 38.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens on a clear visual establishing hook: a bloody, mud-caked hand uncurling among blackthorn branches to present an ornate signet ring on frozen ground, requiring no prior exposition.",
+        "arc_legibility": true,
+        "arc_rationale": "Fully self-contained romantic rescue arc: the wife endures physical torture to fulfill a demand and free her husband, who sweeps her into his arms with protective vows ('You should never have had to bleed for me.').",
+        "passes_gate": true,
+        "situational_summary": "After enduring agonizing briars to retrieve a ring and free her shackled husband, an exhausted wife is swept into his arms as he swears she will never bleed for him again."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective masculine redemption following intense female sacrifice"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the full resolution of the arrest/retrieval ordeal and the couple departing together, resolving the immediate micro-crisis."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP014_05",
+      "start_beat_id": "B002",
+      "end_beat_id": "B010",
+      "start_time": 5.6,
+      "end_time": 38.5,
+      "duration": 32.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 opens with Juliana emerging from a briar patch holding an unexplained ring saying 'I found it.' Without seeing who she is presenting it to or why, a cold viewer has no context for the physical setting, who else is present, or the stakes. Retrospectively clarified by the Constable in B003, but B002 fails in isolation.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full arc, Juliana trades the retrieved ring to free her shackled husband, revealing her bloodied sacrifice and his furious, protective devotion. The core conflict and stakes are fully understandable.",
+        "passes_gate": false,
+        "situational_summary": "A bloodied woman presents a retrieved ring to an officer to release her handcuffed husband, who furiously vows she should never have suffered for him."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Tender romantic devotion forged through severe physical sacrifice and protective outrage"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Resolves the immediate trial/task of finding the ring to free the husband, functioning as a high-stakes turning point/rescue rather than a climactic series finale."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP014_06",
+      "start_beat_id": "B003",
+      "end_beat_id": "B010",
+      "start_time": 9.5,
+      "end_time": 38.5,
+      "duration": 29.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B003 opens on a clear wide shot establishing Juliana holding a ring out to a uniformed Police Constable guarding a frozen garden with the direct demand 'Now release my husband' as he takes it from her bloodied fingers. Grounded interpersonal dynamic and high stakes established immediately within 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained narrative showing the ransom exchange, the husband's immediate release, his horror at her lacerated hands, and his vow of protection. Complete, legible dramatic arc.",
+        "passes_gate": true,
+        "situational_summary": "A bloodied wife surrenders a ring to a police officer to secure her shackled husband's release, leading to an emotional reunion where he discovers her severe wounds."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "High-stakes ransom release transitioning into agonized marital devotion and protective wrath"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the payoff of securing the husband's release from handcuffs via the ring, serving as an inciting rescue arc."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP014_07",
+      "start_beat_id": "B004",
+      "end_beat_id": "B010",
+      "start_time": 13.5,
+      "end_time": 38.5,
+      "duration": 25.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B004 opens on an ungrounded tight shot of iron shackles unlocking with no established characters or setting, giving a cold viewer zero situational context on who is being unlocked, who is unlocking them, or why.",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip demonstrates a freed prisoner rushing to embrace a wounded woman who sacrificed herself to free him, making the overarching relationship clear.",
+        "passes_gate": false,
+        "situational_summary": "A man freed from handcuffs rushes to embrace his injured wife, realizing the painful cost of his freedom."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Agonized discovery of a loved one's physical sacrifice"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the release of the husband from custody following a sacrifice."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP014_08",
+      "start_beat_id": "B005",
+      "end_beat_id": "B010",
+      "start_time": 15.6,
+      "end_time": 38.5,
+      "duration": 22.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B005 starts mid-action with a man rushing forward shouting an isolated name ('Juliana') past an unexplained constable. It lacks visual grounding of the setting, who he was held by, or the preceding exchange.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent beats establish the intimate bond, her bleeding hands, and his protective guilt, making the general situation clear across the duration.",
+        "passes_gate": false,
+        "situational_summary": "A newly freed man rushes to his injured wife, overcome with grief and guilt upon seeing her lacerated hands."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective fury mixed with tender grief over a partner's sacrifice"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the emotional reunion after release from custody."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP014_09",
+      "start_beat_id": "B006",
+      "end_beat_id": "B010",
+      "start_time": 18.5,
+      "end_time": 38.5,
+      "duration": 20.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens on a visceral, unambiguous close-up of a man's hands tenderly grasping a woman's severely lacerated, bleeding hands. The physical trauma, caretaking dynamic, and immediate high stakes are instantly legible without sound or prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue and physical action establish a clear protective dynamic: she suffered brutal violence on his behalf ('Nothing they didn't promise', 'You should never have had to bleed for me'), and he rescues/carries her away, grounding a self-contained emotional rescue arc.",
+        "passes_gate": true,
+        "situational_summary": "A devastated man inspects a woman's bloody, lacerated hands in the cold mist before gently lifting her bridal-style and swearing she should never have had to bleed for him."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Agonized tenderness and protective grief over severe physical sacrifice"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the aftermath of an attack and Juliana's physical sacrifice for Alexander; functions as an inciting incident hook without spoiling specific antagonist plots."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP014_10",
+      "start_beat_id": "B013",
+      "end_beat_id": "B022",
+      "start_time": 43.5,
+      "end_time": 87.63,
+      "duration": 44.13,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 provides an immediate warm interior wide establishing shot by a hearth: a woman seated while a man kneels before her wrapping clean linen bandages around her torn wrist over a washbasin, followed by 'You could have lost your hands.' Physical setting, injury, and relationship are established immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip progresses clearly from tender first-aid to tender romantic reconciliation to an explicit, self-contained declaration of protection culminating in a clenched fist beside bloodied wash water, clearly signaling brewing vengeance for her sacrifice.",
+        "passes_gate": true,
+        "situational_summary": "While tenderly tending to a woman's badly injured hands by a fireplace, a man vows that no one will ever hurt her for protecting him again as he clenches his fist in vengeance."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Intimate romantic healing transforming into deadly protective resolve and vengeance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the domestic aftermath and caretaking following an ordeal, setting up the vengeance arc without disclosing mid-arc conspiratorial mechanics."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP014_11",
+      "start_beat_id": "B014",
+      "end_beat_id": "B021",
+      "start_time": 50.5,
+      "end_time": 83.5,
+      "duration": 33.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 begins on an ungrounded extreme close-up of a woman's glistening eyes and trembling lips speaking mid-conversation ('But I didn't lose you.'). Without Beat B013's establishing wide shot, the physical environment, injury, and caretaking context are completely missing at second 0.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full duration, the subsequent shots of bandages and protective embraces make the dynamic legible, ending on his protective vow.",
+        "passes_gate": false,
+        "situational_summary": "A tearful woman comforts a guilt-ridden man as he bandages her injuries, culminating in his promise to protect her from ever being hurt again."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Quiet romantic devotion and solemn reassurance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Portrays the aftermath of an attack and protective resolution."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP014_12",
+      "start_beat_id": "B014",
+      "end_beat_id": "B022",
+      "start_time": 50.5,
+      "end_time": 87.63,
+      "duration": 37.13,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 opens in media res on an unanchored extreme close-up of a woman crying and delivering a reactive dialogue line ('But I didn't lose you.'). It lacks immediate spatial or situational grounding for a cold scroller in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The overall arc builds clearly from intimate care to his deadly vow and clenched fist beside the bloody bucket, creating a coherent emotional progression.",
+        "passes_gate": false,
+        "situational_summary": "A wounded woman reassures her partner while he bandages her, leading to his solemn vow of protection and silent vow of bloody retribution."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Tender emotional reconciliation turning into cold brewing vengeance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses the aftermath of Juliana's sacrifice and Alexander's commitment to retaliate."
+      }
+    }
+  ]
+}

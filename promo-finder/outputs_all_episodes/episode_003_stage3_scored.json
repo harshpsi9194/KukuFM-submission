@@ -1,0 +1,1855 @@
+{
+  "episode_number": 3,
+  "total_shortlist_candidates": 56,
+  "comprehension_gate_pass_rate": "17/56 (30.4%)",
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP003_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 22.8,
+      "duration": 22.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B001 to B007 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_01",
+        "opening_legibility": true,
+        "opening_rationale": "The opening beat visually and verbally grounds the conflict within seconds: a bride in a white gown stands abandoned near an altar while a smug rival in gold stands beside the partner/groom mocking her unworthiness.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate presents a completely self-contained dramatic arc. The dialogue explicitly spells out that the rival and groom stole the bride's wedding, leaving no doubt about the victim, the antagonists, or the stakes.",
+        "passes_gate": true,
+        "situational_summary": "An abandoned bride in her wedding gown confronts her rival and former partner at the altar after they steal her wedding.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_01",
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral usurpation and vulnerability: Juliana clutched in abandoned isolation clinging to her dead mother's medallion while her sister flaunts the stolen wedding and groom with smug cruelty.",
+        "relative_rank_justification": "High emotional resonance: The script text anchors deep psychological and familial violation through specific physical details\u2014Juliana clinging to her mother's locket with trembling lips and tears, contrasted directly against Gerald's impassive dismissal and her sister's overt claim on her stolen identity ('Now it is mine'). While powerful, it falls just short of a Score 5 zenith as it captures the immediate raw grief and denial rather than a full irreversible turning point or hardened transformation."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_01",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major betrayal milestone: the sister (Lady in Gold Gown) standing triumphantly beside Gerald at the front of the nave having stolen Juliana's wedding.",
+        "ideal_ad_placement": "High-intent prospecting / viral shock reel / mid-funnel retargeting"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_06",
+      "start_beat_id": "B008",
+      "end_beat_id": "B018",
+      "start_time": 22.8,
+      "end_time": 58.2,
+      "duration": 35.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B008 to B018 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_06",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B008 begins abruptly with an imperious matriarch stepping forward and stating 'Enough, Juliana.' In strict isolation, this opening fails to establish who is in conflict and why within 5 seconds for a cold TikTok viewer; it drops into an unexplained scolding in media res without establishing what action is being halted, what setting they are in, or what event just occurred.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 35.4-second arc (B008 to B018), the conflict, stakes, and power dynamic become completely clear as the matriarch castigates, exiles, and disowns Juliana as a discarded daughter whose father chose the rest of the family over her in a cathedral setting.",
+        "passes_gate": false,
+        "situational_summary": "An imperious matriarch confronts and publicly disowns a vulnerable young woman, declaring that her father has chosen his family and cast her out.",
+        "missing_context": "Opening beat B008 starts in media res with 'Enough, Juliana' without any situational grounding or visual clarity as to what just happened, what conflict prompted the reprimand, or what setting/event is taking place. It relies on subsequent lines (B009\u2013B018) to retroactively explain the conflict, violating opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_06",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_06",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_07",
+      "start_beat_id": "B008",
+      "end_beat_id": "B019",
+      "start_time": 22.8,
+      "end_time": 60.0,
+      "duration": 37.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B008 to B019 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_07",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B008 begins mid-altercation with an imperious matriarch stepping forward saying only 'Enough, Juliana.' In strict isolation, this establishes no context as to what is being stopped, what event or setting this is, who Juliana is, or what conflict just transpired. It relies entirely on in media res scolding without immediate situational grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 37.2-second excerpt (B008 -> B019), the dramatic arc is completely self-contained and clear: an imperious matriarch banishes a discarded daughter from her family and chapel, dismissing her rights despite her father's silence, culminating in calling the guards to have her forcibly removed.",
+        "passes_gate": false,
+        "situational_summary": "An imperious noble matriarch publicly casts out and banishes a defiant daughter from the family and chapel, calling guards to forcibly eject her.",
+        "missing_context": "Opening beat B008 cuts directly into an ongoing confrontation with 'Enough, Juliana' without showing or establishing what preceded the scolding, what setting they are in, or why Juliana is being silenced. A cold viewer swiping into this opening beat lacks immediate situational grounding.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_07",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_07",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_08",
+      "start_beat_id": "B008",
+      "end_beat_id": "B020",
+      "start_time": 22.8,
+      "end_time": 64.5,
+      "duration": 41.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B008 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_08",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B008 begins in media res with an imperious matriarch stepping forward and stating 'Enough, Juliana.' In strict isolation, this opening lacks situational grounding: a cold viewer cannot tell who Juliana is, what setting or event this is, what conflict or action prompted 'Enough', or what stakes are at play.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full candidate arc (B008 -> B020), the conflict, stakes, victim (the discarded daughter Juliana), and antagonist (the imperious Noble Matriarch) become completely clear as the matriarch disowns her, reveals the father's abandonment, and orders royal guards to forcibly drag her out of her mother's church.",
+        "passes_gate": false,
+        "situational_summary": "An imperious matriarch disowns and exiles a discarded daughter from her mother's church, calling guards to violently drag her out.",
+        "missing_context": "Opening beat B008 drops directly into an in-progress rebuke ('Enough, Juliana.') without visual or situational grounding of what Juliana did, what event occurred prior, or the nature of the confrontation. The candidate relies on subsequent dialogue (B009\u2013B014) to retroactively establish the conflict, failing cold opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_08",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_08",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_12",
+      "start_beat_id": "B009",
+      "end_beat_id": "B018",
+      "start_time": 25.8,
+      "end_time": 58.2,
+      "duration": 32.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B009 to B018 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_12",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 starts in media res with an unnamed matriarch delivering a generic chastisement ('You have humiliated this family enough for one day') without visually or verbally establishing who she is speaking to, what setting they are in, or what 'humiliation' or event took place. Under the strict prohibition against retrospective justification, a cold viewer swiping in has zero situational grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the entire 32.4s sequence (B009 -> B018), the dynamic and stakes become completely clear: a cruel matriarch exiles a rejected daughter ('discarded daughter') from her family and mother's church with the father's complicity, culminating in an explicit, high-stakes banishment cliffhanger.",
+        "passes_gate": false,
+        "situational_summary": "A callous matriarch confronts and exiles a discarded daughter from her family and church, declaring her father has chosen another family over her.",
+        "missing_context": "Opening beat B009 drops into an unexplained scolding ('You have humiliated this family enough for one day') without establishing the target of the scolding, the setting, or the prior confrontation. The clip relies on subsequent beats (B011\u2013B014) to retroactively explain the conflict, failing opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_12",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_12",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_13",
+      "start_beat_id": "B009",
+      "end_beat_id": "B019",
+      "start_time": 25.8,
+      "end_time": 60.0,
+      "duration": 34.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B009 to B019 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_13",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 starts abruptly in media res with an older woman scolding 'You have humiliated this family enough for one day.' In strict isolation, a cold viewer has no visual or narrative grounding on who she is speaking to, what setting they are in, what humiliation occurred, or what the underlying conflict is. Per the rubric, scolding someone for embarrassing or humiliating the family without establishing the event fails opening legibility.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 34.2s arc, the situation becomes completely legible: an aristocratic matriarch disowns and exiles a discarded daughter from her family and mother's church, calling guards to physically drag her out.",
+        "passes_gate": false,
+        "situational_summary": "A cruel matriarch exiles a rejected daughter from her family and deceased mother's church, ordering guards to physically remove her.",
+        "missing_context": "Opening beat B009 drops directly into a scolding line ('You have humiliated this family enough for one day') without establishing who is in conflict, what humiliation occurred, or the physical setting. The clip relies on later dialogue to retroactively clarify the dynamic, failing cold opening legibility in isolation.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_13",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_13",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_14",
+      "start_beat_id": "B009",
+      "end_beat_id": "B020",
+      "start_time": 25.8,
+      "end_time": 64.5,
+      "duration": 38.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B009 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_14",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 drops in media res with an isolated shot of a matriarch glaring down and stating, 'You have humiliated this family enough for one day.' Without seeing who she is speaking to, where they are, or what event or humiliation took place, a cold viewer has no immediate situational grounding on who is in conflict or why.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 38.7s clip (B009 -> B020), the dynamic and stakes become completely clear and self-contained: an unsympathetic noble matriarch coldly casts out a rejected daughter from her mother's church after her father abandons her, culminating in royal guards physically seizing and dragging her away.",
+        "passes_gate": false,
+        "situational_summary": "A cruel noble matriarch banishes and disowns a young woman from her mother's church, ordering guards to violently drag her away as she screams for help.",
+        "missing_context": "Opening beat B009 begins in media res with an unexplained accusation of family humiliation without establishing the setting, the target of the scolding, or what transpired. The candidate relies entirely on downstream dialogue (B010\u2013B014) to explain the situation, violating the strict standalone opening legibility requirement.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_14",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_14",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_23",
+      "start_beat_id": "B011",
+      "end_beat_id": "B018",
+      "start_time": 30.3,
+      "end_time": 58.2,
+      "duration": 27.9,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B011 to B018 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_23",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 immediately grounds the viewer in a clear, high-stakes human conflict within seconds: a vulnerable young woman confronts an unsympathetic matriarch about being humiliated by the family and abandoned by her silent father, while the matriarch coldly confirms her father has made his choice.",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip forms a complete, self-contained dramatic progression: the rejected daughter is told she is being cast out, attempts to claim her ground in her mother's church, and is brutally rebuffed by the matriarch declaring that her father chose his family and it isn't her.",
+        "passes_gate": true,
+        "situational_summary": "An abandoned daughter confronts an unsympathetic matriarch over family betrayal, only to be ruthlessly told to leave because her father chose his family over her.",
+        "missing_context": null,
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_23",
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe parental abandonment and public disenfranchisement: the brutal verdict branding Juliana a 'discarded daughter' while weaponizing her dead mother's memory and church.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues, the dialogue shifts from vulnerable disbelief ('stricken, vulnerable face', desperately clutching her mother's locket) to desperate defiance before the Matriarch delivers the devastating psychological blow that her father has actively chosen family over her in front of the entire congregation. It falls just shy of a 5 as it functions as a targeted family banishment rather than an irreversible protagonist transformation or the central altar rupture itself."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_23",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly exposes a major plot and relationship milestone: Juliana is formally disowned by her family, cast out by the Noble Matriarch as a 'discarded daughter', and abandoned by her father.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent viral drama reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_24",
+      "start_beat_id": "B011",
+      "end_beat_id": "B019",
+      "start_time": 30.3,
+      "end_time": 60.0,
+      "duration": 29.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B011 to B019 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_24",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 immediately establishes the core personal and familial conflict within its visual and dialogue exchanges: a young woman directly confronts an unsympathetic matriarch about being humiliated by the family and abandoned by her silent father, establishing victim, oppressor, and the emotional stakes within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate arc (B011 -> B019) presents a completely coherent, self-contained dramatic progression: the protagonist confronts the matriarch over her abandonment, is declared a discarded daughter, attempts to stand her ground in her mother's church, and is brutally banished as guards are called to remove her.",
+        "passes_gate": true,
+        "situational_summary": "A betrayed daughter confronts an unsympathetic noble matriarch about her father's abandonment, only to be formally disowned and ordered removed by guards from her mother's church.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_24",
+        "emotional_salience_score": 4,
+        "emotional_core": "Brutal public excommunication and parental disownment: Juliana's desperate clinging to her mother's memory and church is met by the Matriarch's venomous confirmation that her father discarded her, culminating in forcible removal.",
+        "relative_rank_justification": "High emotional resonance: features severe vulnerability and raw psychic stakes (Juliana clutching her mother's locket while being labeled a 'discarded daughter') combined with explicit parental rejection ('Your father has chosen his family... and it isn't you'). While it falls just short of the peak visceral altar rupture or full icy transformation (Level 5), it sharply exceeds standard soap-opera friction or generic confrontation."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_24",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot and relationship milestone: Juliana's father has officially disowned and abandoned her ('chosen his family... and it isn't you'), culminating in her formal public ejection from the church by guards.",
+        "ideal_ad_placement": "High-intent prospecting / viral shock reel / mid-funnel retargeting"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_25",
+      "start_beat_id": "B011",
+      "end_beat_id": "B020",
+      "start_time": 30.3,
+      "end_time": 64.5,
+      "duration": 34.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B011 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_25",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 immediately establishes the conflict in isolation: a vulnerable woman confronts an unsympathetic matriarch about being humiliated by the family while her father remained complicitly silent, and the matriarch coldly confirms the father has chosen against her. The victim, antagonist, and dynamic of familial betrayal/abandonment are explicit within the beat.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 34.2s arc is completely self-contained and legible to a cold viewer: a discarded daughter is exiled from her mother's church by an arrogant matriarch, attempts to stand her ground, and is violently dragged away by guards while pleading for help.",
+        "passes_gate": true,
+        "situational_summary": "A rejected woman confronts a disdainful matriarch who decrees her exile from the family and church, culminating in guards forcefully dragging her away.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_25",
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral parental disownment escalating into public physical eviction: moves from Juliana clutching her dead mother's locket and pleading her rights to being formally branded a 'discarded daughter' and violently dragged away while screaming for help.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues (desperate clutching of the locket, white-knuckled grip on the pew torn loose by guards, and the Matriarch's explicit verbal disownment 'Your father has chosen his family... and it isn't you'), this sequence captures raw vulnerability and irreversible family exile, exceeding standard verbal bickering but stopping just short of a peak transformative turnaround or revelation."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_25",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot and relationship milestone: Juliana's father has officially disowned and discarded her, and the Noble Matriarch orders royal guards to physically seize and forcibly eject Juliana from her mother's church before the entire congregation.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral shock reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_26",
+      "start_beat_id": "B012",
+      "end_beat_id": "B020",
+      "start_time": 40.4,
+      "end_time": 64.5,
+      "duration": 24.1,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B012 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_26",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 consists solely of a close-up of a matriarch saying 'You leave.' In strict isolation, a cold viewer has no context for who is speaking, who is being addressed, where they are, or why anyone is being told to leave. It drops completely in media res without establishing the conflict or setting.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 24.1s clip (B012 -> B020), the conflict is completely self-contained and clear: an aristocratic matriarch disowns a 'discarded daughter' from her mother's church, announces that the father has cast her out, and summons royal guards who forcefully drag the desperately pleading protagonist away.",
+        "passes_gate": false,
+        "situational_summary": "An aristocratic matriarch banishes and disowns a young woman from her mother's church on behalf of her father, ordering guards to violently drag her out.",
+        "missing_context": "The opening beat B012 drops directly into the middle of a command ('You leave') without establishing who is being banished, what church/family setting they are in, or why the expulsion is taking place. It requires the subsequent dialogue in B013\u2013B018 to establish the conflict.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_26",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_26",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_27",
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 43.3,
+      "end_time": 64.5,
+      "duration": 21.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B014 to B020 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_27",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 immediately establishes the core conflict within seconds: a haughty noble matriarch disdains a 'discarded daughter', while Juliana desperately clutches her mother's locket asserting her right to be in her mother's church. The dynamic of familial rejection and contested territory/belonging is clear without needing external lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 21.2-second progression forms a complete, escalating dramatic arc: the matriarch publicly disowns the daughter on behalf of the father, rejects her claim to the church, and summons guards who physically drag Juliana away while she clings desperately to a pew.",
+        "passes_gate": true,
+        "situational_summary": "A cruel matriarch informs a disowned young woman that her father has rejected her from the family, before having guards forcefully drag her out of her mother's church.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_27",
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral parental disownment escalating into public physical violation: the Matriarch weaponizes the father's rejection ('your father has chosen his family... and it isn't you') as Juliana is forcefully seized and dragged away while desperately pleading for help.",
+        "relative_rank_justification": "High emotional resonance: based on screenplay indications, the sequence moves from Juliana's desperate clutching of her deceased mother's locket and defiant claim to her mother's church directly into the devastating verbal blow of complete parental abandonment, culminating in the physical and psychological trauma of being publicly discarded by force while grasping at church pews."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_27",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Directly reveals a major narrative milestone and status quo disruption: Juliana's father formally disowning her ('Your father has chosen his family... and it isn't you') and the Noble Matriarch having royal guards physically seize and drag her out of her mother's church.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent hook / viral drama reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_28",
+      "start_beat_id": "B021",
+      "end_beat_id": "B028",
+      "start_time": 64.5,
+      "end_time": 85.5,
+      "duration": 21.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B021 to B028 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_28",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 immediately grounds the viewer in a visually striking, high-stakes human dynamic: a high wide shot of a cathedral congregation watching in stunned silence as guards physically drag a woman. Within the first two seconds, the victim, the oppressors/guards, and the public setting of persecution are instantly established without requiring prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 21.0s clip presents an entirely self-contained, classic hero-rescue arc: armed guards drag a helpless woman in a grand chapel, a mysterious stranger enters demanding her release, defies the noble matriarch and armed guards, and physically takes down a guard in defense of the woman. The stakes, victim, antagonists, and hero are completely clear to a cold viewer.",
+        "passes_gate": true,
+        "situational_summary": "In a crowded cathedral, a woman is forcibly dragged by armed guards until a rugged stranger interrupts the ceremony, defies the matriarch, and takes down a guard to rescue her.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_28",
+        "emotional_salience_score": 4,
+        "emotional_core": "Decisive heroic rescue / power reversal: shifts from helpless public degradation (Juliana being dragged by guards before the silent congregation) to commanding, explosive intervention by the mysterious stranger.",
+        "relative_rank_justification": "High emotional resonance: relative to the baseline of family bickering and helplessness, this marks a major cathartic and tonal inflection point as an outsider shatters the Matriarch's tyrannical control and physically drops the guard with lethal resolve."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_28",
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows an unknown rugged stranger interrupting the wedding chaos to physically defend Juliana against the family guards. It reveals an escalation/action beat without unmasking the stranger's true identity, revealing the underlying conspiracy, or exposing major late-series resolutions.",
+        "ideal_ad_placement": "Cold prospecting / high-curiosity scroll-stop ads on TikTok & Meta"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_29",
+      "start_beat_id": "B021",
+      "end_beat_id": "B029",
+      "start_time": 64.5,
+      "end_time": 88.1,
+      "duration": 23.6,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B021 to B029 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_29",
+        "opening_legibility": true,
+        "opening_rationale": "The opening beat visually and immediately establishes an acute physical and social conflict: a high wide shot of a cathedral congregation watching in stunned silence as guards forcibly drag a woman down the aisle. A cold viewer instantly understands the victim, the captors, and the public gravity of the situation.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 23.6s arc presents a self-contained, classic hero-rescue beat: a woman is dragged by guards in a chapel, an imposing stranger enters and commands them to release her, the family matriarch and guards challenge him, the stranger drops a guard in one strike, and the antagonist panics. The conflict, stakes, and hero/antagonist dynamic are completely legible without needing external lore.",
+        "passes_gate": true,
+        "situational_summary": "In a crowded cathedral chapel, guards drag a woman away in front of a stunned congregation, until a dangerous stranger arrives, defies the family matriarch, knocks out an armed guard with one blow, and throws the oppressors into panic.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_29",
+        "emotional_salience_score": 4,
+        "emotional_core": "Triumphant rescue and sudden power reversal: the helpless victim being dragged away is abruptly shielded by an intimidating protector who effortlessly drops an armed guard, shattering the family's control and reducing the arrogant groom to panic.",
+        "relative_rank_justification": "High emotional resonance: marks the decisive turning point from Juliana's public humiliation and physical subjugation to cathartic intervention. While not an internal psychological revelation or irreversible grief arc (which would hit Score 5), the shift from oppressive dread to shock and panic across the congregation and groom provides immense emotional release and high stakes based on script stage directions."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_29",
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the dramatic entrance and physical intervention of the mysterious Bearded Stranger to save Juliana, but does not disclose his true identity, background, or the wider series conspiracy.",
+        "ideal_ad_placement": "Cold prospecting / high-curiosity hook / TikTok & Meta top-of-funnel action teaser"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_31",
+      "start_beat_id": "B021",
+      "end_beat_id": "B031",
+      "start_time": 64.5,
+      "end_time": 91.7,
+      "duration": 27.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B021 to B031 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_31",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 immediately establishes a high-stakes, visually unmistakable situation within seconds: a high wide shot of a cathedral aisle where an entire congregation watches in stunned silence as guards physically drag away a woman. The victim, the oppressors, and the public setting are instantly grounded.",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip delivers a complete, self-contained dramatic rescue arc: guards are dragging a captive woman in a family chapel when an imposing stranger storms in, defies the family matriarch and royal guards, takes down an attacking guard in one blow, and checks on the woman's safety.",
+        "passes_gate": true,
+        "situational_summary": "As guards drag a woman down a cathedral aisle before a stunned congregation, an imposing stranger enters, defies the aristocratic family, neutralizes an armed guard with ease, and comes to the woman's defense.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_31",
+        "emotional_salience_score": 4,
+        "emotional_core": "Abrupt power reversal and visceral rescue: shifts Juliana's situation from total helplessness and public humiliation into stunned awe and sudden safety via a formidable protector.",
+        "relative_rank_justification": "High emotional resonance: relative to the baseline family betrayal and oppression in the chapel, this sequence delivers the episode's major cathartic turning point. The physical intervention decisively breaks the antagonist's control and ends on quiet, intimate vulnerability ('Are you hurt?') rather than generic brawl posturing."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_31",
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows an unknown rugged stranger dramatically interrupting Juliana's removal and knocking out a guard, establishing him as an unexpected rescuer. However, it does not reveal his true identity, noble status, backstory, or long-term motives, functioning primarily as an action-packed premise hook and hero introduction.",
+        "ideal_ad_placement": "Broad cold-traffic prospecting / high-curiosity hero-introduction hook on TikTok & Meta"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_34",
+      "start_beat_id": "B021",
+      "end_beat_id": "B035",
+      "start_time": 64.5,
+      "end_time": 110.8,
+      "duration": 46.3,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B021 to B035 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_34",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 immediately establishes a vivid, recognizable visual conflict within seconds: in a cathedral aisle, armed guards are dragging away a defenseless woman (Juliana) in front of a stunned congregation. The victim, the physical threat/force, and the setting are clear on sight without needing outside lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 46.3s arc presents a self-contained, emotionally cohesive dramatic narrative: guards forcefully dragging a woman from a church are intercepted by a formidable stranger who takes down an armed guard, rescues her from her hostile family, and affirms her dignity.",
+        "passes_gate": true,
+        "situational_summary": "In a cathedral chapel, armed guards drag a woman away before a rugged stranger intervenes, knocks out a guard, defies her outraged family, and rescues her.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_34",
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic rescue and emotional validation: the protagonist transitions from being physically dragged and publicly humiliated by her family to being fiercely defended and affirmed ('You shouldn't have to beg anybody to remember your worth') by a protective stranger.",
+        "relative_rank_justification": "Highest emotional contrast and relief arc in the sequence: directly counters the father's agonizing silence and the matriarch's cruelty with lethal physical protection and tender emotional vindication, marking the episode's major dramatic turning point."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_34",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot milestone and turning point: an imposing bearded stranger intervenes to physically rescue Juliana from her family's guards at the church, confronting the matriarch and establishing a romantic protector dynamic ('You shouldn't have to beg anybody to remember your worth'). However, his true identity/lineage remains unrevealed, keeping it below Level 3.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral shock & rescue hook"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_39",
+      "start_beat_id": "B022",
+      "end_beat_id": "B029",
+      "start_time": 66.0,
+      "end_time": 88.1,
+      "duration": 22.1,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B022 to B029 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_39",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 in isolation only shows a rugged man in a worn coat stepping into a petal-strewn aisle. There is no dialogue, no opponent shown, no victim visible, and no clear conflict established within the first 2 seconds; a cold viewer has no context on who is in conflict or why.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full clip (B022 -> B029), the situational conflict becomes immediately legible: an intimidating stranger crashes a chapel ceremony, demands the release of a captive/restrained woman ('Take your hands off her'), effortlessly drops an attacking guard, and sends the antagonist into a panic.",
+        "passes_gate": false,
+        "situational_summary": "A rugged stranger interrupts a chapel event to rescue a woman, defying the matriarch and dropping an attacking guard with ease.",
+        "missing_context": "Opening beat B022 merely shows a man walking into a church aisle without framing the confrontation, the bride/victim, or the captors. The clip relies on subsequent beats (B023 onwards) to reveal that a confrontation is occurring, failing opening legibility in isolation.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_39",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_39",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_41",
+      "start_beat_id": "B022",
+      "end_beat_id": "B031",
+      "start_time": 66.0,
+      "end_time": 91.7,
+      "duration": 25.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B022 to B031 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_41",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 in strict isolation shows only a rugged man in a dark trench coat stepping into a petal-strewn nave with heavy boots. While atmospheric, it establishes zero clear conflict, relationships, or stakes\u2014there is no confrontation, no indication of who is in danger or why, and no recognizable human conflict within the first 5 seconds without relying on subsequent beats.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 25.7s clip (B022 -> B031), the dramatic situation is entirely self-contained and clear: an imposing outsider interrupts a chapel ceremony, demands the release of a woman held by guards, effortlessly neutralizes an attacking guard while the groom/host panics, and steps up to protectively check on the captive woman.",
+        "passes_gate": false,
+        "situational_summary": "An imposing stranger interrupts a tense chapel ceremony, defeats an armed guard attempting to bar him, and steps forward to rescue and check on a captured woman.",
+        "missing_context": "Opening beat B022 merely shows a stranger entering a petal-strewn aisle without visual or verbal indication of the impending rescue, confrontation, or captive bride. It relies entirely on subsequent dialogue and action (B023\u2013B028) to retroactively establish the conflict, failing cold opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_41",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_41",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_44",
+      "start_beat_id": "B022",
+      "end_beat_id": "B035",
+      "start_time": 66.0,
+      "end_time": 110.8,
+      "duration": 44.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B022 to B035 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_44",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 in strict isolation merely shows a rugged man in a trench coat stepping into a petal-strewn aisle. There is no dialogue, no other characters visible in frame, and no established conflict or stakes. A cold viewer scrolling past sees only a man walking into a church with zero indication of who is in conflict or why.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full candidate arc (B022 -> B035), the conflict, stakes, and dynamics are completely clear: a mysterious stranger interrupts an oppressive family ceremony, takes down an aggressive guard, rescues a mistreated woman (Juliana), and defends her dignity against the entitled matriarch and complicit family.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious rugged stranger storms a wedding chapel aisle, incapacitates a guard to rescue a mistreated young woman from her abusive family, and reassures her of her worth.",
+        "missing_context": "Opening beat B022 shows only a man walking down an aisle without revealing who he is confronting, who is being threatened, or what setting/conflict he is interrupting. The clip relies on subsequent beats (B023-B025) to retroactively establish the chapel confrontation, failing cold opening legibility in isolation.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_44",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_44",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_49",
+      "start_beat_id": "B022",
+      "end_beat_id": "B041",
+      "start_time": 66.0,
+      "end_time": 125.1,
+      "duration": 59.1,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B022 to B041 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_49",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 in strict isolation merely shows a wide shot of a rugged stranger in a trench coat stepping into a petal-strewn aisle. There is no dialogue, no opposing character shown, and zero indication of who is in conflict or why. It is purely an atmospheric entrance without situational or dramatic grounding on its own.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 59.1s excerpt, the narrative arc is exceptionally clear and self-contained: a mysterious stranger interrupts an oppressive noble family, takes down an armed guard to protect a mistreated woman at the altar, calls out the family's cruelty, and offers her a marriage ring to restore her dignity.",
+        "passes_gate": false,
+        "situational_summary": "A rugged stranger enters a chapel to rescue a mistreated bride from her hostile family and offers her a wedding ring in defiance of them.",
+        "missing_context": "Opening beat B022 consists solely of a man walking into an aisle with no dialogue, visible antagonist, or established conflict. It completely relies on subsequent beats (B023 onwards) to reveal the church confrontation, failing opening legibility in isolation.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_49",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_49",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_50",
+      "start_beat_id": "B023",
+      "end_beat_id": "B029",
+      "start_time": 68.1,
+      "end_time": 88.1,
+      "duration": 20.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B023 to B029 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_50",
+        "opening_legibility": true,
+        "opening_rationale": "Opening beat B023 immediately grounds the viewer in a classic, unmistakable trope: an imposing stranger crashes a wedding/chapel ceremony, marching down a flower-strewn aisle and commanding 'Take your hands off her' as a matriarch reacts in shock. The conflict, setting, and dynamic are instantly legible within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the 20-second arc, the conflict escalates seamlessly: the matriarch challenges the intruder, guards attempt to bar his path while holding the heroine, the stranger repeats his command, effortlessly takes down a guard in combat, and the antagonist panics. The roles of protector, captive/victim, and opposing family/guards are completely self-contained without needing prior lore.",
+        "passes_gate": true,
+        "situational_summary": "A powerful stranger marches down a chapel aisle commanding captors to release a woman, effortlessly strikes down an attacking armed guard, and throws the opposing groom/family into panic.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_50",
+        "emotional_salience_score": 4,
+        "emotional_core": "Decisive shift in power and high-stakes defiance: an outsider shatters the family's undisputed dominance, shifting the emotional dynamic from helpless oppression of Juliana to breathless rescue and impending reckoning.",
+        "relative_rank_justification": "Based on script directions and character actions, this sequence marks a major dramatic power reversal in the episode; the Stranger's lethal, quiet resolve directly counters the Matriarch and Gerald's tyranny, culminating in physical violence and Gerald's sudden panicked desperation."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_50",
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows an unknown scarred stranger violently intervening to protect Juliana and dropping a guard, but keeps his true identity, noble title, motives, and the overarching conspiracy completely unrevealed.",
+        "ideal_ad_placement": "Cold prospecting / high-action scroll-stopper on TikTok & Meta"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_52",
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "start_time": 68.1,
+      "end_time": 91.7,
+      "duration": 23.6,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B023 to B031 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_52",
+        "opening_legibility": true,
+        "opening_rationale": "Opening beat B023 immediately establishes the conflict and stakes in isolation: an outraged matriarch freezes in shock as a resolute stranger marches down a wedding/chapel aisle demanding 'Take your hands off her', making the heroic rescue/interruption instantly legible within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc presents a coherent, self-contained rescue progression: the stranger interrupts the chapel ceremony, defies the matriarch and guards, incapacitates a guard with single-strike dominance, and reaches the captive woman to ask 'Are you hurt?'. Victim, antagonist, rescuer, and stakes are fully understandable without prior lore.",
+        "passes_gate": true,
+        "situational_summary": "A mysterious resolute stranger interrupts a high-society chapel ceremony, demanding the release of a woman, takes down the royal guard barring his path, and reaches her side to ensure she is unharmed.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_52",
+        "emotional_salience_score": 4,
+        "emotional_core": "Abrupt protective rescue and status reversal: shifts from helpless family persecution into powerful protective intervention as an intimidating stranger fells an armed guard and offers tender, breathless concern to Juliana.",
+        "relative_rank_justification": "Very high emotional resonance within the episode's dramatic progression. Script directions indicate a sharp emotional transition from the Matriarch and Gerald's aggressive dominance to stunned breathlessness and vulnerability when the Stranger physically intercedes and gently asks, 'Are you hurt?' Just below a peak climax (5) as it initiates the protective alliance rather than representing the ultimate tragic rupture or final revenge resolution."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_52",
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows an unknown bearded stranger intervening, fighting a royal guard, and confronting the family at the chapel to protect Juliana. It teases an action escalation and protector entrance without revealing who the stranger actually is, his true identity/rank, or deeper series conspiracies.",
+        "ideal_ad_placement": "Cold prospecting / high-curiosity hook / TikTok & Meta top-of-funnel action reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_55",
+      "start_beat_id": "B023",
+      "end_beat_id": "B035",
+      "start_time": 68.1,
+      "end_time": 110.8,
+      "duration": 42.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B023 to B035 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_55",
+        "opening_legibility": true,
+        "opening_rationale": "In strict isolation, Beat B023 immediately grounds the cold viewer in an unmistakable high-stakes confrontation: a shocked matriarch reacts as an imposing bearded stranger marches down a flower-strewn chapel aisle demanding 'Take your hands off her.' The immediate dynamic of a heroic intruder disrupting a forced/oppressive ceremonial situation is instantly legible within the first few seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full arc (B023 -> B035), the conflict is completely self-contained and clear: an outsider intervenes to rescue a mistreated, defenseless woman from an abusive family and guards, defusing the armed threat and affirming her worth against the shocked congregation and matriarch without requiring outside backstory.",
+        "passes_gate": true,
+        "situational_summary": "An imposing stranger interrupts a chapel confrontation to physically defend a mistreated woman from guards and her hostile family, declaring that she shouldn't have to beg to have her worth recognized.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_55",
+        "emotional_salience_score": 5,
+        "emotional_core": "Decisive heroic rescue and validation: shifting from public humiliation and physical intimidation by family guards into profound emotional vindication as the stranger defends Juliana and explicitly reclaims her worth ('You shouldn't have to beg anybody... to remember your worth').",
+        "relative_rank_justification": "Peak dramatic and emotional turning point relative to the chapel confrontation sequence. The arc completely overturns Juliana's isolated abandonment into visceral validation and awe, underscored by the contrast between Gerald's cowardice, the Matriarch's shrieking loss of control, the father's silent guilt, and the stranger's tender reverence framed against the rose window."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_55",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot milestone where an enigmatic male protector intervenes to rescue Juliana from public humiliation, physically floors a royal guard, and establishes their core emotional/romantic connection before the congregation. While it teases his identity rather than fully unmasking a sovereign secret (avoiding Level 3), it fundamentally shifts Juliana's status quo from helpless victim to defended heroine.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel viral hero reel on TikTok & Meta"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_56",
+      "start_beat_id": "B023",
+      "end_beat_id": "B036",
+      "start_time": 68.1,
+      "end_time": 112.5,
+      "duration": 44.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B023 to B036 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_56",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B023 immediately hooks and grounds a cold viewer within seconds: a shocking interruption commands 'Take your hands off her' while an imposing bearded stranger marches down a flower-strewn church aisle, instantly establishing a rescue/confrontation dynamic against an outraged matriarch.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 44.4s arc is completely self-contained and legible without prior lore: an imposing stranger interrupts a hostile family chapel scene, incapacitates a guard trying to restrain a defenseless woman, protects her, and confronts her abusive family, ending on an emotional cliffhanger ('Why are you doing this?').",
+        "passes_gate": true,
+        "situational_summary": "A mysterious bearded stranger interrupts a chapel gathering to physically rescue a defenseless woman from guards and her hostile family, declaring her worth before she asks why he is helping her.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_56",
+        "emotional_salience_score": 5,
+        "emotional_core": "Decisive emotional rescue and validation: the abrupt shift from public humiliation and physical subjugation to heroic intervention, culminating in the stranger affirming Juliana's worth against her family's betrayal.",
+        "relative_rank_justification": "Peak dramatic turning point for Episode 3: directly subverts the crushing isolation of the bridal abandonment by providing an unexpected champion who physically overpowers the oppressors and emotionally validates Juliana ('You shouldn't have to beg anybody... to remember your worth'), completely pivoting the power dynamic and emotional trajectory of the scene."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_56",
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows an unknown bearded stranger intervening in church and neutralizing an armed guard to protect Juliana, establishing the romantic rescuer dynamic. However, his secret identity, true background, and broader narrative motives remain entirely unrevealed.",
+        "ideal_ad_placement": "Cold prospecting / high-curiosity hook / top-of-funnel TikTok & Meta ads"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_58",
+      "start_beat_id": "B023",
+      "end_beat_id": "B039",
+      "start_time": 68.1,
+      "end_time": 117.9,
+      "duration": 49.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B023 to B039 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_58",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B023 immediately sets up high-stakes conflict and dynamic: a shocked noble matriarch, a commanding stranger marching down a flower-strewn aisle, and the forceful command 'Take your hands off her', instantly communicating a dramatic wedding/ceremony interruption and rescue within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate presents an entirely self-contained, powerful dramatic arc: an imposing stranger intervenes during a church altercation, neutralizes an armed guard, defends a vulnerable woman from her hostile family, and articulates clear emotional stakes ('when your family is dragging a defenseless woman from a church... you shouldn't have to beg anybody to remember your worth').",
+        "passes_gate": true,
+        "situational_summary": "During a family chapel event, an imposing bearded stranger intervenes to stop guards and a hostile matriarch from mistreating a defenseless woman, effortlessly dropping an armed guard to protect her.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_58",
+        "emotional_salience_score": 5,
+        "emotional_core": "Decisive emotional reversal and romantic elevation: an abandoned, humiliated protagonist is fiercely defended and publicly validated ('You shouldn't have to beg anybody... to remember your worth') by a protective stranger against her abusive family.",
+        "relative_rank_justification": "Peak dramatic turning point for the episode: shifts the narrative stakes from helpless public degradation to thrilling vindication, contrasting the father's passive guilt with the stranger's tender reverence and lethal intervention."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_58",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot milestone: a mysterious bearded stranger physically crashes the wedding chapel, overpowers the family's armed guard, directly defies the noble family, and publicly steps in to protect and defend the abandoned bride.",
+        "ideal_ad_placement": "High-intent prospecting / viral romance-rescue hook / mid-funnel retargeting"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_60",
+      "start_beat_id": "B023",
+      "end_beat_id": "B041",
+      "start_time": 68.1,
+      "end_time": 125.1,
+      "duration": 57.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B023 to B041 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_60",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B023 begins in media res with an unseen speaker commanding 'Take your hands off her' as a bearded stranger marches down a flower-strewn aisle and an older woman reacts in shock. In strict isolation, a cold viewer cannot see who 'her' is, who is touching her, what the conflict is about, or why this intervention is occurring.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 57.0s clip, the dramatic stakes and character roles become crystal clear: an imposing stranger crashes a wedding chapel, knocks out a guard attempting to mistreat a discarded bride, confronts the cruel family, and shocks everyone by offering her a wedding ring instead.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious bearded stranger interrupts a church confrontation, drops an armed guard to protect a mistreated woman, and offers her a marriage ring after her family disgraced her.",
+        "missing_context": "Opening beat B023 drops directly into an in-progress command ('Take your hands off her') without visually showing who is holding whom, why the matriarch is shocked, or establishing the victim at the center of the altercation. The clip relies on subsequent beats (B025, B031, B035) to retroactively establish who was being grabbed and why.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_60",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_60",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_61",
+      "start_beat_id": "B023",
+      "end_beat_id": "B042",
+      "start_time": 68.1,
+      "end_time": 127.4,
+      "duration": 59.3,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B023 to B042 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_61",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B023 immediately grounds the viewer in a recognizable, high-stakes physical confrontation: a noble matriarch freezes in shock/outrage as a bearded stranger commands 'Take your hands off her' while marching down a flower-strewn chapel aisle to intervene.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 59.3s arc presents a completely self-contained dramatic rescue and romantic proposal: an imposing stranger stops guards from manhandling a bride whose wedding was stolen, defends her honor against the cruel family, and directly offers her a wedding band at the altar.",
+        "passes_gate": true,
+        "situational_summary": "A mysterious stranger interrupts a hostile wedding ceremony to rescue a publicly humiliated bride from her family and guards, culminating in him offering her a wedding band of his own.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_61",
+        "emotional_salience_score": 5,
+        "emotional_core": "Complete emotional inversion from public humiliation and parental abandonment to protective rescue and restorative dignity: the stranger directly validates her worth against her family's cruelty and replaces betrayal with an immediate marriage proposal.",
+        "relative_rank_justification": "Peak dramatic turning point in the episode narrative. Script cues indicate intense vulnerability contrasted with protective authority: Juliana shifts from tear-streaked bewilderment to rapt wonder under the stranger's tender reverence ('You shouldn't have to beg anybody... to remember your worth'), while her complicit father writhes in guilt and Gerald stands humiliated as the silver band is offered."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_61",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot and relationship milestone: the mysterious bearded stranger intervenes, knocks out the royal guard, defends Juliana from her family, and publicly offers her a marriage proposal with a silver ring after her wedding was ruined.",
+        "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral hero rescue reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_94",
+      "start_beat_id": "B027",
+      "end_beat_id": "B035",
+      "start_time": 81.0,
+      "end_time": 110.8,
+      "duration": 29.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B027 to B035 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_94",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B027 shows only a close-up of a scarred face saying '...let her go.' with leading ellipsis. In strict isolation, it drops directly in media res without establishing who 'her' is, who is holding her, where they are, or who the speaker is confronting. A cold viewer within the first 3 seconds has no visual or situational grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 29.8s sequence, the dramatic situation becomes crystal clear: a mysterious protector intervenes against guards to rescue an abandoned, mistreated woman from her abusive family inside a church.",
+        "passes_gate": false,
+        "situational_summary": "A scarred stranger intervenes in a church to rescue a mistreated woman from armed guards and her hostile family, validating her worth.",
+        "missing_context": "The opening beat (B027) lacks situational grounding. Beginning on '...let her go.' in tight close-up does not establish who is being held, by whom, or what setting the conflict takes place in, relying entirely on downstream action beats to explain the premise.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_94",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_94",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_95",
+      "start_beat_id": "B027",
+      "end_beat_id": "B036",
+      "start_time": 81.0,
+      "end_time": 112.5,
+      "duration": 31.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B027 to B036 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_95",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B027 shows only a close-up of a scarred face demanding '...let her go.' with leading ellipsis. In strict isolation, it drops directly in media res without establishing who 'her' is, who he is speaking to, where this is happening, or what physical or dramatic situation is underway.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 31.5s arc, the situation becomes completely legible: an armed guard and hostile family are physically mistreating a vulnerable woman in a church, and an intimidating outsider steps in, defends her by force, and challenges the family's cruelty before asking her if she is hurt.",
+        "passes_gate": false,
+        "situational_summary": "A scarred stranger intervenes in a church to incapacitate a guard, protect a cast-out woman from her hostile family, and remind her of her worth.",
+        "missing_context": "The opening beat (B027) cuts into the middle of a command ('...let her go.') on a tight close-up without showing the woman being restrained, the guards, or the setting. A cold viewer scrolling by has no visual or situational grounding for who is being held or by whom until subsequent beats unfold.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_95",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_95",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_97",
+      "start_beat_id": "B027",
+      "end_beat_id": "B039",
+      "start_time": 81.0,
+      "end_time": 117.9,
+      "duration": 36.9,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B027 to B039 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_97",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B027 in isolation is a tight close-up of a scarred face saying '...let her go.' It starts mid-sentence with an ellipsis, provides no visual context of who 'her' is, who is holding her, or where this is happening. A cold viewer scrolling by has no situational grounding on who is in conflict or why.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 36.9s arc, the situation is completely clear: a powerful stranger intervenes against guards and a hostile family trying to drag a defenseless woman from a church, protecting her and asserting her worth.",
+        "passes_gate": false,
+        "situational_summary": "A scarred stranger intervenes in a church to strike down a guard and protect a defenseless woman being discarded and mistreated by her own family.",
+        "missing_context": "Opening beat B027 starts in media res with '...let her go' on a tight close-up without showing the captive woman, the guards, or the church setting, relying entirely on subsequent action beats (B028\u2013B030) to establish who is holding whom and what is taking place.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_97",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_97",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_99",
+      "start_beat_id": "B027",
+      "end_beat_id": "B041",
+      "start_time": 81.0,
+      "end_time": 125.1,
+      "duration": 44.1,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B027 to B041 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_99",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B027 in isolation is merely a tight close-up of a scarred face saying '...let her go.' Starting with an ellipsis mid-thought and without any visual or contextual grounding, a cold viewer cannot see who is holding whom, who is being threatened, what the setting is, or why the conflict is happening.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 44.1s arc, the situation becomes completely legible: an intimidating stranger intervenes against guards and a hostile family mistreating a rejected bride in a church, defends her honor, and presents her with a marriage ring in front of her humiliated former groom and family.",
+        "passes_gate": false,
+        "situational_summary": "A scarred stranger intervenes in a church to stop armed guards and a cruel family from dragging away a defenseless woman, then offers her a wedding band to restore her dignity.",
+        "missing_context": "Opening beat B027 starts in media res with an isolated close-up and trailing fragment ('...let her go.') without visually establishing the captive woman, the guards, or the confrontation in the opening frame.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_99",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_99",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_100",
+      "start_beat_id": "B027",
+      "end_beat_id": "B042",
+      "start_time": 81.0,
+      "end_time": 127.4,
+      "duration": 46.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B027 to B042 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_100",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B027 drops in media res on a close-up of a scarred face delivering trailing dialogue ('...let her go.'). In isolation, it fails to show or establish who 'her' is, who is holding her, where they are, or what situation is taking place, giving a cold viewer zero visual or situational grounding within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 46.4s arc, the situation is completely clear and compelling: a mysterious, rugged man defends a disgraced bride being mistreated by guards and her family at a wedding, confronts the antagonistic family and petrified ex-groom, and offers her a marriage proposal and ring on the spot.",
+        "passes_gate": false,
+        "situational_summary": "A scarred stranger intervenes against guards to protect an abandoned bride in church, confronts her cruel family, and offers her a wedding ring.",
+        "missing_context": "Opening beat B027 starts mid-sentence ('...let her go.') on an isolated close-up of a man's face without showing the woman in distress, who is holding her, or the church setting. It relies on the subsequent action beat (B028) and dialogue to clarify who is being rescued.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_100",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_100",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_103",
+      "start_beat_id": "B027",
+      "end_beat_id": "B045",
+      "start_time": 81.0,
+      "end_time": 137.3,
+      "duration": 56.3,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B027 to B045 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_103",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B027 is a tight close-up on a scarred stranger delivering a fragmented line mid-sentence ('...let her go.'). It provides no visual or situational context as to who 'her' is, who is holding her, where they are, or what conflict is occurring. It begins entirely in media res without standalone grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 56.3s arc, the situation is completely clear and self-contained: a mysterious stranger intervenes to save an abandoned/humiliated bride from guards, defends her dignity against a hostile family and former groom, and proposes to her at the altar with a silver ring.",
+        "passes_gate": false,
+        "situational_summary": "A scarred stranger takes down a guard to protect an abandoned bride, stands up to her cruel family, and shocks the congregation by proposing to marry her on the spot.",
+        "missing_context": "Opening beat B027 begins mid-sentence ('...let her go.') on a tight close-up without showing the woman being held, the guards, or the church/wedding setting. A cold viewer has zero situational grounding within the first 3-5 seconds and must rely on subsequent beats to retroactively understand who is in conflict and why.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_103",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_103",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_105",
+      "start_beat_id": "B028",
+      "end_beat_id": "B035",
+      "start_time": 84.0,
+      "end_time": 110.8,
+      "duration": 26.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B035 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_105",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B028 drops straight into an action beat of an unnamed armed guard charging and getting struck down by an unknown bearded man on a stone floor. While it delivers physical impact, it provides zero situational context as to who these men are, who is being protected or threatened, where they are, or what the underlying dramatic conflict is about.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 26.8-second arc, the situation becomes completely legible: an abusive family is forcibly dragging out a rejected bride/defenseless woman from a church wedding, when an intimidating stranger physically intervenes, protects her, and confronts her oppressors.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious stranger knocks out a guard and steps in to protect a distressed woman being dragged away from a church by her hostile family.",
+        "missing_context": "Opening beat B028 begins in media res with an isolated physical brawl between a guard and a stranger. Without prior context, a cold viewer cannot tell who is in conflict, why they are fighting, or that a defenseless bride is being expelled from her family wedding until subsequent dialogue reveals it.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_105",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_105",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_106",
+      "start_beat_id": "B028",
+      "end_beat_id": "B036",
+      "start_time": 84.0,
+      "end_time": 112.5,
+      "duration": 28.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B036 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_106",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B028 drops straight into an action beat with an armed guard charging an unidentified bearded stranger, who knocks him out. While visceral, it begins in media res without establishing the social or emotional context, the setting, who is being protected, or what the underlying conflict is about.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 28.5s arc, the entire dramatic situation becomes completely clear: a powerful stranger intervenes to protect an abandoned/mistreated bride from guards dragging her away, rebuking her abusive family and establishing clear victim, protector, and antagonist roles before ending on an emotionally resonant cliffhanger.",
+        "passes_gate": false,
+        "situational_summary": "A rugged stranger violently intercepts guards attempting to drag a defenseless woman from a church, directly confronting her callous family and affirming her worth.",
+        "missing_context": "Opening beat B028 starts in media res with physical combat between a guard and a stranger with no visual or narrative grounding for who they are, where they are, or why violence erupted. It relies on subsequent dialogue (B034\u2013B035) to retroactively explain that guards were dragging a woman from a church during a family dispute.",
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_106",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_106",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_108",
+      "start_beat_id": "B028",
+      "end_beat_id": "B039",
+      "start_time": 84.0,
+      "end_time": 117.9,
+      "duration": 33.9,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B039 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_108",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B028 drops straight into an action beat with a guard charging and getting knocked out by 'The Bearded Stranger'. Without the prior context of who the stranger is, why an armed guard is attacking him, or who is being defended/threatened, a cold viewer is dropped in media res into a generic physical scuffle with zero situational grounding regarding the underlying betrayal, setting, or stakes.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 33.9s arc, the clip clearly establishes a self-contained heroic intervention: a powerful stranger defends a rejected/abused woman ('dragging a defenseless woman from a church') against a corrupt, cowardly family and arrogant groom/guards, reaffirming her self-worth at the altar.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious stranger steps in to physically defend and rescue a disgraced woman being dragged away from a church by armed guards and her cruel family.",
+        "missing_context": "Opening beat B028 begins in media res with an abrupt physical strike between an unnamed guard and a stranger, lacking any visual or verbal grounding as to why the confrontation is happening, who is being protected, or what setting/event is taking place until subsequent beats reveal it.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_108",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_108",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_110",
+      "start_beat_id": "B028",
+      "end_beat_id": "B041",
+      "start_time": 84.0,
+      "end_time": 125.1,
+      "duration": 41.1,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B041 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_110",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 drops directly into physical action in media res: an armed guard charges an unnamed bearded man, who knocks him down on a stone floor. In strict isolation, this opening establishes a physical clash but provides zero situational grounding as to who these individuals are, what setting they are in, who is being protected/opposed, or what the underlying conflict is about.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the entire 41.1s progression, the situational dynamic becomes exceptionally clear: a stranger intervenes to stop a cruel family from dragging away a rejected bride, defends her dignity in front of the congregation and disgraced groom, and proposes marriage to her on the spot with a silver band.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious stranger fells a guard to defend an abandoned bride from her abusive family and offers her a wedding ring at the altar.",
+        "missing_context": "Opening beat B028 begins mid-fight with a guard charging a stranger without establishing the church setting, the wedding context, or why the altercation is taking place. Relying on later beats (B031\u2013B035) to reveal that a defenseless bride was being dragged out violates the requirement for immediate opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_110",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_110",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_111",
+      "start_beat_id": "B028",
+      "end_beat_id": "B042",
+      "start_time": 84.0,
+      "end_time": 127.4,
+      "duration": 43.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B042 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_111",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B028 drops directly into physical combat in media res (an armed guard charging a bearded stranger, who knocks him to the floor). It provides zero context on where this is happening, who these people are, why they are fighting, or what stakes are involved. A cold viewer scrolling on TikTok sees an unexplained physical scuffle without any situational or dramatic grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the entire 43.4s clip, the narrative progression clearly establishes the victim (Juliana, an abandoned bride being dragged out of a church by family/guards), the antagonist faction (Gerald and the matriarch), and the heroic stranger who rescues her and offers her a marriage proposal with a silver band to restore her dignity.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious bearded stranger intervenes against guards dragging an abandoned bride from church, defends her honor against her humiliated former groom and family, and proposes to her on the spot.",
+        "missing_context": "Opening beat B028 begins abruptly in media res with an isolated physical brawl between a guard and a stranger, completely lacking setting, character motivation, or the wedding/altar context necessary to ground a cold viewer within the first 5 seconds.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_111",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_111",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_112",
+      "start_beat_id": "B028",
+      "end_beat_id": "B043",
+      "start_time": 84.0,
+      "end_time": 130.2,
+      "duration": 46.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B043 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_112",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B028 drops straight into an action beat of a guard charging a bearded man who knocks him down. A cold viewer has no context for who these men are, what location they are in, who is being protected or contested, or what the underlying dramatic stakes are. It begins mid-fight without situational grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the complete 46.2s arc, the situation is completely clear: a rejected woman being dragged away in a church is defended by an imposing stranger who confronts the cowardly family and ex-groom, ultimately proposing marriage with a silver band to restore her dignity.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious stranger knocks out an attacking guard and steps in to protect an abandoned, mistreated woman at church, culminating in him offering her a marriage ring.",
+        "missing_context": "Opening beat B028 begins in media res with an isolated physical altercation between a guard and a stranger, lacking any immediate indication of the church setting, the wedding betrayal, or the woman being defended. The viewer must wait for later beats to understand the stakes and conflict.",
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_112",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_112",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_113",
+      "start_beat_id": "B028",
+      "end_beat_id": "B044",
+      "start_time": 84.0,
+      "end_time": 132.7,
+      "duration": 48.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B044 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_113",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 opens purely in media res with an armed guard charging a bearded stranger, who blocks and punches him down. In strict isolation without subsequent context, a cold viewer has no idea who either man is, where this altercation is taking place, who is in conflict, or what stakes are involved.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 48.7s clip, the situational dynamic becomes completely clear: a stranger intervenes to protect a wronged woman being discarded/humiliated by her family and groom in church, defends her honor, and dramatically proposes to her with a silver ring on the spot.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious stranger knocks out a guard, confronts a corrupt family and groom for mistreating a rejected bride, and offers her a marriage proposal on the spot.",
+        "missing_context": "The opening beat B028 drops straight into an unexplained fistfight between an anonymous guard and a stranger without establishing the church setting, the wedding context, or why the conflict is happening, relying on subsequent dialogue to provide situational grounding.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_113",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_113",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_114",
+      "start_beat_id": "B028",
+      "end_beat_id": "B045",
+      "start_time": 84.0,
+      "end_time": 137.3,
+      "duration": 53.3,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B045 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_114",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 opens purely in media res with an action beat: an unidentified guard charges a bearded stranger and gets knocked out. In strict isolation, it does not establish the setting, who is in conflict, who the victim is, or why the fight is happening within 5 seconds for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The full candidate arc clearly establishes that a woman was publicly disgraced and abandoned at the altar by her family and groom, until a protective stranger steps in to defend her and shock the entire congregation by proposing to her with a ring.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious stranger drops an attacking guard, defends a humiliated bride who was cast out by her family at a wedding, and shocks the congregation by proposing to marry her on the spot.",
+        "missing_context": "Beat B028 drops into the middle of a physical altercation without establishing the church setting, the wedding context, or why the guards are attacking the stranger. The clip relies on subsequent beats (B031\u2013B035, B041) to explain who is being defended and what conflict prompted the brawl.",
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_114",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_114",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_115",
+      "start_beat_id": "B028",
+      "end_beat_id": "B046",
+      "start_time": 84.0,
+      "end_time": 140.5,
+      "duration": 56.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B028 to B046 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_115",
+        "opening_legibility": false,
+        "opening_rationale": "In strict isolation, Beat B028 is a generic physical altercation where an unnamed stranger punches a charging guard onto a stone floor. It provides zero situational context regarding who is in conflict or why, what setting this is, who Juliana is, or what stakes are involved. A cold viewer seeing only this 1.5-second physical clash without subsequent context would find it completely ungrounded.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 56.5s arc, the situation becomes completely legible: an abandoned bride humiliated at church by her family and former fianc\u00e9 is defended by a heroic stranger who intervenes, reprimands the family, and proposes to her at the altar.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious stranger knocks out an armed guard and intervenes to protect a publicly humiliated, rejected woman, offering her a ring and proposing to marry her on the spot in front of her shocked family.",
+        "missing_context": "Opening beat B028 starts in media res with an isolated physical clash against a guard without establishing the church setting, the wedding context, or why the stranger is fighting the guards. The clip relies entirely on subsequent dialogue (B034-B041) to reveal that a woman was being dragged out and abandoned at her wedding.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_115",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_115",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_165",
+      "start_beat_id": "B033",
+      "end_beat_id": "B041",
+      "start_time": 94.0,
+      "end_time": 125.1,
+      "duration": 31.1,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B033 to B041 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_165",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B033 begins squarely in media res with the tail end of a confrontation: a close-up profile of a man warning an unseen guard 'Good. Then don't touch her again.' In isolation, a cold viewer cannot tell who 'her' refers to, who the speaker is, what physical altercation just transpired, or where this is happening. It lacks immediate situational grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 31.1-second excerpt (B033 -> B041), the situation becomes completely clear: a noble family was having a defenseless woman dragged from a church altar after stripping away her wedding, an imposing stranger intervenes to protect and validate her, and he presents a ring to marry her while her family and humiliated ex-groom watch in shock.",
+        "passes_gate": false,
+        "situational_summary": "A rugged stranger halts guards from dragging a rejected bride out of a church, defends her honor against her hostile family, and presents a ring to marry her on the spot.",
+        "missing_context": "Opening beat B033 begins mid-altercation with an isolated reaction line ('Good. Then don't touch her again') directed at guards without establishing who 'she' is, why someone was touching her, or the church/wedding setting. The clip relies on subsequent beats (B034\u2013B035) to retroactively clarify the confrontation.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_165",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_165",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_166",
+      "start_beat_id": "B033",
+      "end_beat_id": "B042",
+      "start_time": 94.0,
+      "end_time": 127.4,
+      "duration": 33.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B033 to B042 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_166",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B033 begins sharply in media res with a close-up profile of a stranger glaring at 'the other guard' and saying 'Good. Then don't touch her again.' In isolation, a cold viewer has no visual or narrative context for who 'her' refers to, where this is taking place, who the guards are, or what physical altercation or situation just preceded this line.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 33.4s clip, the dramatic arc is exceptionally clear and powerful: an imposing stranger intervenes against a hostile family dragging a rejected woman from a church, rebukes them, defends her dignity, and proposes marriage to her on the spot with a silver ring to replace what was taken.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious stranger steps in to defend an abandoned woman being forced out of a church by her family, and publicly offers to marry her instead.",
+        "missing_context": "Opening beat B033 drops directly into the middle of a physical standoff ('Good. Then don't touch her again' to an unseen guard) without establishing the church setting, the woman being touched/dragged, or the family conflict. It relies entirely on subsequent dialogue in beats B034-B035 to retroactively clarify who is in conflict and why.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_166",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_166",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_167",
+      "start_beat_id": "B033",
+      "end_beat_id": "B043",
+      "start_time": 94.0,
+      "end_time": 130.2,
+      "duration": 36.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B033 to B043 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_167",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B033 begins directly in media res with the resolution of an already-concluded physical confrontation ('Good. Then don't touch her again.'). In isolation, a cold viewer has no context for who 'her' refers to, who the guard is, what setting they are in, or what physical escalation just occurred. It relies entirely on prior action to make sense.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full candidate arc (B033\u2013B043), the dramatic situation is completely clear: a stranger intervenes against a cruel family dragging a rejected bride out of a church, challenges her abusers, and spontaneously offers her a wedding ring to restore her dignity.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious stranger stops guards from handling a rejected bride, defends her against her indignant family in church, and offers her a marriage ring on the spot.",
+        "missing_context": "Opening beat B033 drops mid-scuffle with 'Good. Then don't touch her again' without establishing who is being touched, what setting this takes place in, or why guards were laying hands on a woman. The conflict is only clarified retroactively in subsequent beats.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_167",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_167",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_168",
+      "start_beat_id": "B033",
+      "end_beat_id": "B044",
+      "start_time": 94.0,
+      "end_time": 132.7,
+      "duration": 38.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B033 to B044 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_168",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B033 begins sharply in media res with a close-up of a man warning 'Good. Then don't touch her again' to an unseen guard. In strict isolation, a cold viewer has no context for who 'her' refers to, who the speaker or guard are, where this confrontation is occurring, or what physical altercation or situation preceded this warning.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 38.7-second progression, the dramatic stakes and character roles become crystal clear: an enigmatic stranger defends a rejected bride being mistreated by her family in a church, and steps in to offer her marriage and redemption with a ring.",
+        "passes_gate": false,
+        "situational_summary": "A rugged stranger halts guards from mistreating a humiliated bride in church and proposes marriage to her on the spot with a silver band.",
+        "missing_context": "Beat B033 drops directly into the aftermath of a physical standoff ('Good. Then don't touch her again') without establishing who is being defended, who the aggressors are, or the church setting. Relying on later beats (B034\u2013B035) to explain that a defenseless woman was being dragged from a church violates opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_168",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_168",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_169",
+      "start_beat_id": "B033",
+      "end_beat_id": "B045",
+      "start_time": 94.0,
+      "end_time": 137.3,
+      "duration": 43.3,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B033 to B045 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_169",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B033 begins sharply in media res with a close-up profile of a stranger warning 'Good. Then don't touch her again' to an unseen guard. In strict isolation, a cold viewer has no visual grounding of the setting, cannot see who 'her' is, and has no context for what physical altercation or threat just took place.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 43.3-second progression, the conflict and stakes become completely clear and self-contained: a rugged stranger steps in to defend an abandoned bride from her abusive family in a church, confronts her humiliators, and drops to one knee to propose marriage with a silver band before a stunned congregation.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious stranger protects a rejected bride from family guards in a cathedral aisle and shocks the congregation by proposing to marry her on the spot.",
+        "missing_context": "Opening beat B033 starts mid-action with 'Good. Then don't touch her again' directed at a guard after an unseen struggle. A cold first-time viewer on TikTok/Reels is dropped into a dialogue continuation without establishing who is being touched, who the woman is, or the church setting.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_169",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_169",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_182",
+      "start_beat_id": "B035",
+      "end_beat_id": "B042",
+      "start_time": 100.8,
+      "end_time": 127.4,
+      "duration": 26.6,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B035 to B042 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_182",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B035 opens mid-sentence with leading ellipses ('...when your family is dragging a defenseless woman from a church') over reaction shots of whispering church guests. While it sets an emotional tone between the stranger and the woman, cutting in mid-utterance without visually or textually grounding who was dragging her or what event was disrupted makes it disorienting in media res for a cold viewer within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 26.6-second excerpt (B035\u2013B042), the dramatic situation becomes clear: a woman who was rejected and humiliated at her wedding is defended by an enigmatic stranger who steps up to offer her marriage and redemption with a ring.",
+        "passes_gate": false,
+        "situational_summary": "A rugged stranger consoles a humiliated bride in a church, calls out her family's mistreatment, and offers her a wedding ring after her fianc\u00e9 abandons her.",
+        "missing_context": "Opening beat B035 begins mid-sentence ('...when your family is dragging a defenseless woman from a church') without showing or establishing the prior confrontation or ejection attempt. Relying on an unfinished opening line and downstream dialogue to clarify the conflict fails opening legibility in isolation.",
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_182",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_182",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_183",
+      "start_beat_id": "B035",
+      "end_beat_id": "B043",
+      "start_time": 100.8,
+      "end_time": 130.2,
+      "duration": 29.4,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B035 to B043 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_183",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B035 opens mid-sentence ('...when your family is dragging a defenseless woman from a church') in media res. In isolation, a cold viewer is dropped directly into the middle of an ongoing confrontation and speech without establishing who is dragging whom, what just occurred at the church, or the initial stakes of the conflict.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 29.4s arc, the situation becomes remarkably clear: an abandoned/mistreated bride in church is rescued by an assertive stranger who offers her a ring to restore what her family and humiliated ex took from her.",
+        "passes_gate": false,
+        "situational_summary": "A rugged stranger steps in to defend an abandoned bride at church, pulling out a silver band to offer her marriage after her family disgraced her.",
+        "missing_context": "Opening beat B035 begins mid-sentence with leading ellipses and mid-conflict dialogue ('...when your family is dragging a defenseless woman from a church'), dropping the viewer in media res without visual or dramatic setup of the prior altercation or who was being dragged.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_183",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_183",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_184",
+      "start_beat_id": "B035",
+      "end_beat_id": "B044",
+      "start_time": 100.8,
+      "end_time": 132.7,
+      "duration": 31.9,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B035 to B044 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_184",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B035 opens mid-sentence with an ellipsis ('...when your family is dragging a defenseless woman from a church'), dropping a cold viewer in media res without establishing who the man speaking is, who Juliana is, or the prior confrontation. In isolation, opening on the tail end of a rebuke references an event ('dragging a defenseless woman') that is neither visually depicted nor established within this opening beat.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the complete 31.9s clip, the narrative progression is clear and emotionally self-contained: a mysterious stranger steps in to defend a humiliated bride at a church, explicitly validates her worth, reveals a wedding ring to restore what was taken from her, and proposes on the spot in front of her shocked family and ex-groom.",
+        "passes_gate": false,
+        "situational_summary": "In a church following a broken wedding, a rugged stranger steps forward to defend an abandoned woman, presenting her with a wedding ring and proposing to marry her on the spot.",
+        "missing_context": "Opening beat B035 starts mid-sentence ('...when your family is dragging...') and relies on dialogue referencing unseen prior physical confrontation/ejection. Without the preceding confrontation or visual establishment of the altar abandonment, the first 5 seconds lack cold situational grounding.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_184",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_184",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_185",
+      "start_beat_id": "B035",
+      "end_beat_id": "B045",
+      "start_time": 100.8,
+      "end_time": 137.3,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B035 to B045 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_185",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B035 opens mid-sentence with an ellipsis ('...when your family is dragging a defenseless woman from a church'), dropping directly in media res into an ongoing dialogue exchange. In strict isolation, a cold viewer cannot tell who 'your family' refers to, who was dragging whom, or what preceding incident prompted this intervention, violating standalone opening legibility.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 36.5s arc, the situation becomes completely legible: a rejected bride who was publicly humiliated and stripped of her wedding has a mysterious stranger step in to defend her worth and propose to her with a silver ring before the stunned congregation and her regretful family/ex-groom.",
+        "passes_gate": false,
+        "situational_summary": "A rugged stranger steps in to defend a humiliated bride at church, restoring her dignity by offering her a wedding band and proposing before the stunned congregation.",
+        "missing_context": "Opening beat B035 cuts into the middle of a spoken sentence ('...when your family is dragging a defenseless woman from a church') without showing or establishing the physical expulsion or conflict referenced, relying on previous beats for syntactic and situational coherence.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_185",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_185",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_186",
+      "start_beat_id": "B035",
+      "end_beat_id": "B046",
+      "start_time": 100.8,
+      "end_time": 140.5,
+      "duration": 39.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B035 to B046 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_186",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B035 opens mid-sentence ('...when your family is dragging a defenseless woman from a church. You shouldn't have to beg anybody... to remember your worth') with guests whispering in shock. Starting with an ellipsis mid-clause and addressing an intervention that already took place begins entirely in media res without establishing who the stranger is, who the family is, or what just transpired.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 39.7s arc, the dramatic situation becomes clear and self-contained: Juliana was publicly abandoned at the altar by her fianc\u00e9 and family, and an unexpected stranger steps in before the shocked congregation to restore her dignity and propose marriage with a silver band.",
+        "passes_gate": false,
+        "situational_summary": "In a church congregation, a rugged stranger intervenes to defend a rejected woman whose family cast her aside, culminating in him dropping to one knee to propose marriage to her before her stunned family.",
+        "missing_context": "Beat B035 starts mid-dialogue with an ellipsis ('...when your family is dragging...') and relies on earlier beats where the physical dragging/eviction and initial confrontation occurred. Without prior visual setup of the eviction or conflict, the opening beat is disorienting for a cold first-time viewer.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_186",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_186",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_187",
+      "start_beat_id": "B035",
+      "end_beat_id": "B047",
+      "start_time": 100.8,
+      "end_time": 145.75,
+      "duration": 44.95,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B035 to B047 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_187",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B035 opens mid-sentence with ellipsis dialogue ('...when your family is dragging a defenseless woman from a church. You shouldn't have to beg anybody... to remember your worth'). In strict isolation, it drops a cold viewer in media res into the tail end of an ungrounded speech, referencing an unseen action ('dragging a defenseless woman') that is not visually occurring or established in the beat. Without knowing who these two people are or what just transpired, the conflict is not immediately legible within 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 45-second arc (B035 -> B047), the dramatic situation becomes completely clear: a rejected woman whose wedding was stolen/humiliated by her family and ex-fianc\u00e9 is publicly redeemed when a mysterious bearded stranger offers her a silver ring and proposes to her on one knee before the stunned congregation.",
+        "passes_gate": false,
+        "situational_summary": "A rugged stranger defends a humiliated woman in front of her shocked family and church congregation, ultimately dropping to one knee to offer her a ring and marriage.",
+        "missing_context": "The opening beat B035 starts in media res on a trailing sentence fragment ('...when your family is dragging a defenseless woman from a church') without establishing who the characters are, what betrayal preceded this moment, or why Juliana was begging. Relying on later dialogue and actions in the clip to retroactively explain the opening fails cold opening legibility.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_187",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_187",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_188",
+      "start_beat_id": "B041",
+      "end_beat_id": "B046",
+      "start_time": 119.2,
+      "end_time": 140.5,
+      "duration": 21.3,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B041 to B046 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_188",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B041 immediately grounds a cold viewer within the first seconds: a rugged man holds up a wedding band and explicitly states 'You came here to become a wife. They took that from you,' while the camera cuts to a petrified and humiliated groom/rival in the aisle. The setup of an interrupted wedding, a wronged bride, and an unexpected intervener is instantly legible.",
+        "arc_legibility": true,
+        "arc_rationale": "Across beats B041\u2013B046, the dramatic arc is completely self-contained and clear without prior lore: the stranger steps in to restore the bride's dignity, addresses her doubts ('You don't even know me' / 'I know enough'), and drops to one knee to propose before a stunned congregation and humiliated family.",
+        "passes_gate": true,
+        "situational_summary": "A rugged stranger steps up to a wronged bride with a ring, tells her he is returning the marriage taken from her, and drops to one knee to propose in front of a shocked congregation.",
+        "missing_context": null,
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_188",
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant narrative vindication and rescue: the dramatic reversal from public humiliation to a solemn, respectful public proposal in front of the frozen oppressors.",
+        "relative_rank_justification": "Peak dramatic turning point for the episode: script cues (Bearded Stranger dropping to one knee, offering the silver band, the stunned collective gasp of the congregation, and the jaw-dropped bewilderment of Gerald and the Matriarch) mark the definitive transition of Juliana from an abandoned victim to the center of an unexpected, high-status dramatic rescue."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_188",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes a major relationship turning point and status-quo shattering milestone: following Juliana's abandonment, a mysterious stranger steps forward in front of the stunned congregation and proposes marriage to her on one knee, completely flipping the power dynamic.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent viral hook / shock reel"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_189",
+      "start_beat_id": "B041",
+      "end_beat_id": "B047",
+      "start_time": 119.2,
+      "end_time": 145.75,
+      "duration": 26.55,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B041 to B047 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_189",
+        "opening_legibility": true,
+        "opening_rationale": "In strict isolation, Beat B041 immediately establishes the situation and conflict visually and verbally within seconds: a rugged stranger holds up a silver wedding band to a jilted woman, declares 'You came here to become a wife. They took that from you,' and the camera cuts to a humiliated man (the groom/antagonist) frozen in the aisle. A cold TikTok viewer instantly grasps that an abandoned bride is being offered a sudden alternative by a mysterious defender in front of the man who wronged her.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 26.6s arc is completely self-contained and dramatic. The stranger counters the humiliation by kneeling to propose to Juliana with the ring, stunning the entire congregation and the betrayers (Matriarch, Gerald, and sister), ending on an emotionally resonant cliffhanger as Juliana tearfully considers accepting.",
+        "passes_gate": true,
+        "situational_summary": "After being publicly jilted at her wedding, a humiliated woman is unexpectedly proposed to in the cathedral aisle by a rugged stranger offering to restore her dignity right in front of her stunned betrayers.",
+        "missing_context": null,
+        "confidence": 1.0
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_189",
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic vindication and transformative hope: the sudden transition from total public humiliation and abandonment to unexpected reverence as a formidable stranger drops to one knee to propose before her stunned tormentors.",
+        "relative_rank_justification": "Functions as a top-tier emotional turning point (Score 5) relative to the baseline drama. Script directions highlight severe emotional contrast: Gerald standing petrified, the congregation gasping in bewilderment, and Juliana moving from overwhelmed disbelief ('You don't even know me') to fresh tears giving way to a trembling smile of restored dignity."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_189",
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes a major narrative milestone and status-quo shift: following Juliana's public abandonment by Gerald, a mysterious stranger steps forward to propose to her on the cathedral aisle before the stunned congregation.",
+        "ideal_ad_placement": "Mid-funnel retargeting / high-intent viral shock reel / episode-unlock ad"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_190",
+      "start_beat_id": "B042",
+      "end_beat_id": "B047",
+      "start_time": 125.1,
+      "end_time": 145.75,
+      "duration": 20.65,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B042 to B047 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP003_190",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B042 begins in media res with a bearded stranger presenting a ring to a woman and stating 'I am offering it back.' In strict isolation, a cold viewer has no context for why he has the ring, whose ring it is, what prior event caused it to be lost or given away, or what conflict/situation led to this offer. It lacks immediate situational grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full clip (B042 to B047), the emotional arc is clearly legible: an unknown man steps forward in a cathedral aisle to propose to a rejected/vulnerable woman ('accept my hand'), shocking the watching antagonist family and giving her hope.",
+        "passes_gate": false,
+        "situational_summary": "A bearded stranger presents a ring to an overwhelmed woman in a cathedral, kneels before her to propose, and stuns the onlookers as she looks down in tears of hope.",
+        "missing_context": "Opening beat B042 drops in media res with 'I am offering it back' without establishing who the ring belonged to, why it was cast aside or surrendered, or the preceding public rejection. The opening relies on subsequent beats and previous cathedral context to explain the significance of the ring.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP003_190",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP003_190",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    }
+  ]
+}

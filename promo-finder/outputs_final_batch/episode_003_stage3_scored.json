@@ -1,0 +1,731 @@
+{
+  "episode_number": 3,
+  "total_scored": 29,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP003_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 22.8,
+      "duration": 22.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 immediately establishes the scene: an abandoned bride in a white gown standing at the altar clutching a locket, juxtaposed against a smug rival in gold standing beside the groom. The visual anchor and core dynamic are clear within the first 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: the abandoned bride confronts her sister and former fianc\u00e9 at the altar, culminating in the sister's brutal declaration that the wedding is now hers.",
+        "passes_gate": true,
+        "situational_summary": "Standing abandoned at the altar in her wedding gown, a woman confronts her smug sister and former fianc\u00e9 who have brazenly stolen her wedding."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Humiliating public romantic theft and wounded pride meeting cold mockery"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the core inciting incident of the wedding usurpation; high-impact hook for cold prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_02",
+      "start_beat_id": "B009",
+      "end_beat_id": "B018",
+      "start_time": 25.8,
+      "end_time": 58.2,
+      "duration": 32.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 opens abruptly with a tight medium close-up of a matriarch stating 'You have humiliated this family enough for one day.' Without seeing where they are, who 'this family' is, or what prior event caused the humiliation, a cold scroller lacks immediate physical or situational grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, dialogue clarifies the betrayal: Juliana's father and family have chosen to discard and banish her from the church.",
+        "passes_gate": false,
+        "situational_summary": "A cruel noble matriarch publicly banishes and disowns a discarded daughter from her family's church."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging familial rejection and absolute disownment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses the aftermath of the family choosing the other daughter and casting Juliana out."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_03",
+      "start_beat_id": "B009",
+      "end_beat_id": "B019",
+      "start_time": 25.8,
+      "end_time": 60.0,
+      "duration": 34.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 begins mid-reprimand ('You have humiliated this family enough for one day') on a tight camera angle with zero visual context establishing the cathedral setting, the preceding wedding scandal, or the relationship between the two women.",
+        "arc_legibility": true,
+        "arc_rationale": "The full dialogue establishes that Juliana's father has abandoned her and the matriarch is summoning guards to forcefully remove her from the cathedral.",
+        "passes_gate": false,
+        "situational_summary": "After disowning a discarded daughter, a ruthless matriarch orders guards to forcibly remove her from the cathedral."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Escalating familial cruelty transitioning into an active physical threat"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals Juliana being formally disowned and the order for her expulsion."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_04",
+      "start_beat_id": "B009",
+      "end_beat_id": "B020",
+      "start_time": 25.8,
+      "end_time": 64.5,
+      "duration": 38.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 starts on an ungrounded accusation with no initial environmental establishing shot or contextual visual anchor explaining the scene or identities to a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression clearly demonstrates the family's betrayal, culminating in royal guards physically seizing and dragging a pleading Juliana out of the chapel.",
+        "passes_gate": false,
+        "situational_summary": "A cast-out daughter is disowned by her ruthless family and forcibly dragged away screaming by royal guards."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal familial betrayal escalating into violent, desperate physical expulsion"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Covers the inciting family disownment and Juliana's violent physical removal from the wedding venue."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_05",
+      "start_beat_id": "B011",
+      "end_beat_id": "B020",
+      "start_time": 30.3,
+      "end_time": 64.5,
+      "duration": 34.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 immediately establishes Juliana speaking out against family injustice and facing an unsympathetic Noble Matriarch in a clear confrontation setting, with crisp dialogue identifying the paternal abandonment dynamic right away.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Juliana challenges her father's abandonment, the Matriarch banishes her and summons royal guards to violently drag her out of the church as she screams for help.",
+        "passes_gate": true,
+        "situational_summary": "In a cathedral confrontation, a haughty matriarch banishes a discarded daughter and orders armed royal guards to drag her out of the chapel."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe public betrayal and familial expulsion culminating in physical removal"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the formal disownment and expulsion inciting incident from the chapel; excellent cold-open hook."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_06",
+      "start_beat_id": "B012",
+      "end_beat_id": "B020",
+      "start_time": 40.4,
+      "end_time": 64.5,
+      "duration": 24.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 opens abruptly on a close-up delivering an ungrounded two-word verdict ('You leave.') without visually or contextually establishing who is speaking, where they are, or who is being addressed in isolation.",
+        "arc_legibility": true,
+        "arc_rationale": "The overall clip clearly develops into the matriarch banishing Juliana and having royal guards physically drag her away from her mother's church.",
+        "passes_gate": false,
+        "situational_summary": "A cruel noble matriarch banishes a young woman from a family chapel and orders royal guards to drag her away."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Brutal banishment and desperate physical struggle against armed guards"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the expulsion inciting incident of Juliana being forcibly removed."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_07",
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 43.3,
+      "end_time": 64.5,
+      "duration": 21.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 starts mid-conversation answering an unspoken question ('Wherever a discarded daughter belongs.') accompanied by a close-up on a locket; it lacks an establishing anchor for cold scrollers.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows the woman claiming her right to the church before being declared persona non grata and seized by royal guards.",
+        "passes_gate": false,
+        "situational_summary": "A woman claiming sanctuary in her mother's church is rejected as a discarded daughter and dragged out by guards."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cruel rejection and physical violation of personal sanctuary"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the moment of family rejection and guard intervention."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_08",
+      "start_beat_id": "B021",
+      "end_beat_id": "B028",
+      "start_time": 64.5,
+      "end_time": 85.5,
+      "duration": 21.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 opens on a high wide establishing shot down a vaulted cathedral aisle with an entire congregation watching guards drag a woman, providing an unmistakable physical setting and dramatic situation in the first second.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is instantly legible: guards drag a helpless woman, an imposing stranger intervenes, defies the outraged matriarch, and levels an armed guard with a single punch.",
+        "passes_gate": true,
+        "situational_summary": "A mysterious rugged stranger halts the public dragging of a young woman in a crowded cathedral, defying the noble matriarch and knocking out an armed guard."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Electrifying hero intervention and explosive physical defiance against aristocratic cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the heroic entrance and initial intervention of the stranger during the chapel incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_09",
+      "start_beat_id": "B021",
+      "end_beat_id": "B029",
+      "start_time": 64.5,
+      "end_time": 88.1,
+      "duration": 23.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 opens with a high wide establishing shot down the cathedral aisle showing the entire congregation watching in stunned silence as guards physically drag Juliana away, immediately establishing physical location, characters, and crisis without prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained rescue arc: guards persecuting a defenseless woman in church, a mysterious stranger intervening and taking down an armed guard, and the panicking cowardly groom shouting for backup.",
+        "passes_gate": true,
+        "situational_summary": "During a church ceremony, a mysterious stranger intervenes when armed guards forcefully drag a woman down the aisle, knocking out a guard with a single punch."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous intervention and sudden violent disruption of public abuse"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the unexpected outside intervention interrupting the wedding expulsion, serving as an inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_10",
+      "start_beat_id": "B021",
+      "end_beat_id": "B031",
+      "start_time": 64.5,
+      "end_time": 91.7,
+      "duration": 27.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 establishes the church setting, the captive woman Juliana being dragged by guards, and the stunned audience in a single high wide establishing shot.",
+        "arc_legibility": true,
+        "arc_rationale": "Fully coherent conflict and tonal transition: stranger halts the guards by force, panicking the groom, and immediately turns to offer tender protection to the wronged woman.",
+        "passes_gate": true,
+        "situational_summary": "A rugged stranger halts the forced expulsion of a woman from a cathedral by dropping a guard and checking if she is hurt."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective chivalry puncturing public humiliation with sudden romance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Introduces the male romantic rescuer disrupting the failed wedding sequence."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_11",
+      "start_beat_id": "B021",
+      "end_beat_id": "B033",
+      "start_time": 64.5,
+      "end_time": 96.5,
+      "duration": 32.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 visually grounds the scene with a high wide shot of cathedral pews and guards dragging Juliana down the nave, fully legible in isolation.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear dynamic of oppression, defense, and protective boundary setting: stranger neutralizes the threat, confirms Juliana is unharmed, and issues a lethal warning to the remaining guard.",
+        "passes_gate": true,
+        "situational_summary": "After knocking out a guard attempting to drag a woman from a church, a mysterious stranger comforts her and sternly warns the other guard not to touch her again."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective dominance and tender validation over cruel public rejection"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Captures the disruption of the wedding expulsion and establishment of the protective alliance."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_12",
+      "start_beat_id": "B021",
+      "end_beat_id": "B039",
+      "start_time": 64.5,
+      "end_time": 117.9,
+      "duration": 53.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 immediately grounds the spatial layout, social setting, and conflict with a high wide shot of the congregation watching guards drag Juliana down the aisle.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained narrative arc: stranger rescues the outcast bride, publicly defies the matriarch and cowardly family, affirms Juliana's worth against stained glass, and prepares to reveal a secret item from his coat.",
+        "passes_gate": true,
+        "situational_summary": "A mysterious stranger stops a bride from being dragged out of a cathedral by her hostile family, proclaims her worth, and reaches into his coat for a hidden reveal."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak cathartic vindication and romantic rescue against public familial cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the full confrontation and rescuer entrance concluding the wedding sequence, pausing right before his identity/intent reveal."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_13",
+      "start_beat_id": "B022",
+      "end_beat_id": "B039",
+      "start_time": 66.0,
+      "end_time": 117.9,
+      "duration": 51.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B022 opens on an eye-level wide establishing shot of a petal-strewn church aisle and nave as a rugged man in a dark trench coat strides into the center of the sanctuary. The visual setting and arrival are instantly clear without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: the stranger intervenes against royal guards to defend a humiliated, discarded bride from being dragged out of a church, establishing a clear antagonist, victim, and protector dynamic.",
+        "passes_gate": true,
+        "situational_summary": "A rugged stranger marches into a wedding chapel, knocks out an armed guard, and intervenes to defend an abandoned bride from her cruel family before reaching into his coat."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant rescue and vindication breaking through public family humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the unexpected chapel intervention inciting incident that disrupts the wedding disaster, safe for top-of-funnel prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_14",
+      "start_beat_id": "B023",
+      "end_beat_id": "B039",
+      "start_time": 68.1,
+      "end_time": 117.9,
+      "duration": 49.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B023 starts on a reactive close-up of a matriarch freezing in shock over an off-screen voice commanding 'Take your hands off her', lacking an immediate visual anchor or establishing context of who is being addressed or held.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the physical action develops, the conflict between the intervening stranger, the guards, and the family mistreating Juliana is completely clear and self-contained.",
+        "passes_gate": false,
+        "situational_summary": "A commanding stranger interrupts a chapel confrontation to physically subdue guards and rescue a bride discarded by her family."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Fierce romantic protection and moral rebuke of an oppressive family"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the mysterious stranger's initial intervention and defense of Juliana in the chapel."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_15",
+      "start_beat_id": "B027",
+      "end_beat_id": "B039",
+      "start_time": 81.0,
+      "end_time": 117.9,
+      "duration": 36.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B027 starts mid-sentence on an ellipsis dialogue line ('...let her go') over an isolated tight close-up of a man's face, disorienting a cold viewer who cannot see who is holding whom or where this takes place.",
+        "arc_legibility": true,
+        "arc_rationale": "Subsequent beats clearly demonstrate the confrontation, the KO of the armed guard, and the stranger stepping up to protect Juliana against her family.",
+        "passes_gate": false,
+        "situational_summary": "A scarred stranger orders guards to release a woman, drops an armed guard in one hit, and defends her dignity before the congregation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Lethal physical defense transforming into tender emotional validation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the stranger's combat intervention at the wedding chapel."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_16",
+      "start_beat_id": "B028",
+      "end_beat_id": "B035",
+      "start_time": 84.0,
+      "end_time": 110.8,
+      "duration": 26.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 opens abruptly in the middle of a physical charge and punch between two unidentified men without establishing the chapel setting or why they are fighting.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue and interaction between Juliana, the matriarch, and the stranger make the emotional stakes and interpersonal dynamic clear by the end of the clip.",
+        "passes_gate": false,
+        "situational_summary": "A stranger knocks out a guard in a chapel and reassures a tearful, abandoned bride of her worth."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral combat payoff yielding to emotional elevation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the physical confrontation and intervention on Juliana's behalf."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_17",
+      "start_beat_id": "B028",
+      "end_beat_id": "B036",
+      "start_time": 84.0,
+      "end_time": 112.5,
+      "duration": 28.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B028 opens on an immediate, unambiguous kinetic action beat: a guard charges and The Bearded Stranger blocks and knocks him to the stone floor, establishing the physical conflict instantly without sound or prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes the dynamic: a stranger protects an abandoned, mistreated woman against a hostile family and an entitled former groom in a church setting, concluding on Juliana questioning his motives.",
+        "passes_gate": true,
+        "situational_summary": "After knocking out an armed guard attempting to drag a woman from a church, a mysterious stranger defends her dignity against her hostile family and panicked former groom."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective chivalry confronting public familial cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the mysterious stranger intervening directly against the family to defend Juliana after the ruined wedding."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_18",
+      "start_beat_id": "B028",
+      "end_beat_id": "B039",
+      "start_time": 84.0,
+      "end_time": 117.9,
+      "duration": 33.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B028 establishes the scene with immediate physical clarity as an armed guard charges The Bearded Stranger, who effortlessly neutralizes him with a single blow.",
+        "arc_legibility": true,
+        "arc_rationale": "The dynamic between the stranger, the vulnerable woman, and her hostile aristocratic family is fully self-contained and clear, building up to the stranger reaching into his coat.",
+        "passes_gate": true,
+        "situational_summary": "A mysterious stranger fends off guards and confronts a cold aristocratic family to protect an abandoned bride, then reaches into his coat as tension mounts."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective chivalry confronting public familial cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Captures the stranger's intervention following the wedding betrayal, stopping right before he reveals what is in his coat."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_19",
+      "start_beat_id": "B028",
+      "end_beat_id": "B040",
+      "start_time": 84.0,
+      "end_time": 119.2,
+      "duration": 35.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B028 starts on an unmissable physical confrontation where The Bearded Stranger effortlessly counters an attacking guard and knocks him flat to the floor.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic confrontation: the stranger steps between an abusive family/former groom and a discarded woman, holding tension as he reaches into his pocket under her breathless gaze.",
+        "passes_gate": true,
+        "situational_summary": "A mysterious stranger defends an abandoned bride from guards and her callous family, leaving everyone suspended in shock as he reaches into his pocket."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Protective chivalry confronting public familial cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the stranger defending Juliana at the church and building suspense toward an impending reveal."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_20",
+      "start_beat_id": "B028",
+      "end_beat_id": "B041",
+      "start_time": 84.0,
+      "end_time": 125.1,
+      "duration": 41.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B028 opens on high-impact visual action: a guard charges The Bearded Stranger, who blocks the strike and knocks him unconscious on the floor.",
+        "arc_legibility": true,
+        "arc_rationale": "The entire situation is completely understandable: a discarded bride is defended against her family and cowardly former groom by a stranger who shocks the room by offering her a wedding band.",
+        "passes_gate": true,
+        "situational_summary": "After physically neutralizing guards trying to drag an abandoned bride from her ruined wedding, a rugged stranger stuns the entire church by offering her a silver wedding band."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant defiance and unexpected redemption breaking through humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the inciting incident resolution of the church sequence where the stranger offers an impromptu marriage proposal to Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_21",
+      "start_beat_id": "B028",
+      "end_beat_id": "B042",
+      "start_time": 84.0,
+      "end_time": 127.4,
+      "duration": 43.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B028 opens on a visceral, high-impact physical action beat: a guard charges and is effortlessly knocked out cold by The Bearded Stranger. The visual physical confrontation and power dynamic are instantly established without requiring prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes the conflict: a humiliated woman was betrayed and being dragged from church by her family and groom, defended by a mysterious protector who steps in and offers to restore her dignity by offering her a wedding ring.",
+        "passes_gate": true,
+        "situational_summary": "After knocking out an attacking guard at a ruined church wedding, a mysterious stranger intervenes to protect a discarded bride and presents her with a marriage band."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Protective chivalry and breathtaking vindication following cruel abandonment"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key mid-arc development of the stranger stepping in to propose and restore the ruined bride's honor."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_22",
+      "start_beat_id": "B028",
+      "end_beat_id": "B045",
+      "start_time": 84.0,
+      "end_time": 137.3,
+      "duration": 53.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B028 establishes an immediate, visually anchored conflict with an attacking guard getting dropped by a devastating strike from The Bearded Stranger in front of the congregation.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc is completely self-contained and legible: the stranger defends Juliana against her abusive former family and takes a knee before the entire shocked congregation with an engagement ring.",
+        "passes_gate": true,
+        "situational_summary": "A mysterious warrior defends an abandoned bride in church, rebukes her callous family, and drops to one knee before the stunned congregation to offer her his ring."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic vindication, public romantic reversal, and defiant devotion"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the stranger's formal public kneel-down proposal in front of the ex-groom and family."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_23",
+      "start_beat_id": "B028",
+      "end_beat_id": "B046",
+      "start_time": 84.0,
+      "end_time": 140.5,
+      "duration": 56.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B028 delivers an immediate physical hook: a guard charges at The Bearded Stranger, who blocks and downs him in one blow on the stone floor, grounding the scene in instant high-stakes action.",
+        "arc_legibility": true,
+        "arc_rationale": "Fully self-contained narrative arc that clearly shows the villainous family, the humiliated former groom, the wronged bride, and culminating in the stranger explicitly verbalizing his proposal on one knee.",
+        "passes_gate": true,
+        "situational_summary": "Following a sudden physical confrontation at the altar, a gallant stranger drops to one knee and asks an abandoned bride to accept his hand in front of her shocked family."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant defiance breaking through public humiliation into a jaw-dropping romantic proposal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the complete verbalized proposal climax where the stranger asks Juliana to accept his hand."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_24",
+      "start_beat_id": "B030",
+      "end_beat_id": "B040",
+      "start_time": 88.1,
+      "end_time": 119.2,
+      "duration": 31.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B030 starts mid-aftermath on a medium shot of a man standing over a fallen body turning toward an unidentified woman with no motion, context, or explanation of the fight that just concluded.",
+        "arc_legibility": false,
+        "arc_rationale": "The clip cuts off abruptly right as the man reaches into his pocket (Beat B040). Without revealing the ring or proposal, the nature of his intervention and the core dramatic transaction remain completely obscure.",
+        "passes_gate": false,
+        "situational_summary": "A stranger stands over an unconscious man in a church and comforts a crying woman before reaching into his coat for an unknown object."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Tense verbal standoff cut short before emotional payoff or resolution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the stranger's confrontation with the family, but cuts off before revealing the ring or proposal."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_25",
+      "start_beat_id": "B033",
+      "end_beat_id": "B045",
+      "start_time": 94.0,
+      "end_time": 137.3,
+      "duration": 43.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B033 opens in media res with a close-up profile warning an unseen guard ('Good. Then don't touch her again.'). Without prior context, a cold mobile viewer cannot ground the setting, identify the woman being defended, or understand who the guard is.",
+        "arc_legibility": true,
+        "arc_rationale": "As the scene unfolds in the cathedral, the core conflict becomes crystal clear: a defenseless bride has been abandoned/betrayed at the altar, and a mysterious stranger steps in to defend her dignity and offer marriage in front of her shocked family.",
+        "passes_gate": false,
+        "situational_summary": "After defending a discarded bride in a crowded church, an enigmatic stranger shocks the congregation by proposing to her on the spot."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak chivalric defiance transforming public humiliation into triumphant vindication"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the immediate aftermath and counter-proposal following the broken wedding ceremony (inciting incident)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_26",
+      "start_beat_id": "B035",
+      "end_beat_id": "B045",
+      "start_time": 100.8,
+      "end_time": 137.3,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B035 begins mid-sentence with an ellipsis ('...when your family is dragging a defenseless woman from a church') over whispering guests. It lacks an immediate visual and narrative anchor in the first 1\u20133 seconds, failing standalone opening legibility.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative trajectory is fully self-contained once the two-shot establishes the stranger offering the rejected bride her worth and a wedding ring before the stunned crowd.",
+        "passes_gate": false,
+        "situational_summary": "In front of an astonished church congregation, an imposing stranger steps up to a betrayed bride and drops to one knee to offer her marriage."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Deep romantic elevation and protective redemption from public shaming"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the unexpected savior proposal immediately following the wedding betrayal."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_27",
+      "start_beat_id": "B041",
+      "end_beat_id": "B046",
+      "start_time": 119.2,
+      "end_time": 140.5,
+      "duration": 21.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B041 opens with an unmistakable visual and narrative hook: an extreme close-up of fingers presenting a silver band paired with 'You came here to become a wife. They took that from you.' Instantly establishes the wedding context, the wrong committed, and the proposition within 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The 21-second arc is razor sharp: the stranger offers restitution for Juliana's stolen wedding, drops to one knee, and asks for her hand while the frozen ex-groom and mother watch helplessly.",
+        "passes_gate": true,
+        "situational_summary": "Holding out a silver wedding band, a stranger offers to marry a publicly jilted bride and drops to one knee asking for her hand before the stunned church."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Audacious romantic rescue and swift public reversal of humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Showcases the stranger's impromptu altar proposal inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_28",
+      "start_beat_id": "B041",
+      "end_beat_id": "B047",
+      "start_time": 119.2,
+      "end_time": 145.75,
+      "duration": 26.55,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B041 opens directly on an extreme close-up of a silver band with the grounded line 'You came here to become a wife. They took that from you.' immediately orienting a cold scroller to the broken wedding premise.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely self-contained dramatic arc showing the stranger's proposal, kneeling gesture, the frozen antagonists, and Juliana's tearful, hopeful reaction.",
+        "passes_gate": true,
+        "situational_summary": "A stranger offers a silver ring and formally proposes on one knee to an abandoned bride in church, leaving her weeping with newfound hope as the former groom looks on in shock."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cathartic emotional turnaround from devastation to tearful hope"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Captures the climactic proposal and emotional reaction closing out the broken wedding sequence."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP003_29",
+      "start_beat_id": "B042",
+      "end_beat_id": "B047",
+      "start_time": 125.1,
+      "end_time": 145.75,
+      "duration": 20.65,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B042 immediately establishes the interpersonal dynamic with a medium close-up of The Bearded Stranger directly presenting a ring to Juliana with the clear line 'I am offering it back,' visually grounding a proposal/betrothal context within the first two seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict and stakes are completely self-contained: Juliana hesitates ('You don't even know me'), the stranger drops to one knee offering marriage before a shocked congregation and stunned rivals, and directly asks for her hand, resolving into an unambiguous, emotionally resonant romantic intervention.",
+        "passes_gate": true,
+        "situational_summary": "In front of a stunned congregation, an enigmatic stranger steps forward to drop to one knee and offer a silver ring in marriage to a tearful noblewoman."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant vindication and sudden romantic redemption against public rejection"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the unexpected intervention and counter-proposal that disrupts the failed wedding setup; excellent inciting incident for cold prospecting."
+      }
+    }
+  ]
+}

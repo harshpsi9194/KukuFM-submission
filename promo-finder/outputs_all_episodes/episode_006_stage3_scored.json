@@ -1,0 +1,304 @@
+{
+  "episode_number": 6,
+  "total_shortlist_candidates": 9,
+  "comprehension_gate_pass_rate": "2/9 (22.2%)",
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP006_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 21.0,
+      "duration": 21.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B001 to B005 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP006_01",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B001 presents a bride in a muddy wedding gown walking through dark woods with a bearded man in the rain. While visually atmospheric, it features no dialogue or explicit confrontation and fails to establish who is in conflict or why within the first 5 seconds for a cold viewer.",
+        "arc_legibility": false,
+        "arc_rationale": "Across beats B001 to B005, the interaction is subdued and melancholic ('I know this is not the life you came from', 'I suppose the day was already ruined'), but the clip never reveals what transpired to ruin the day, who the antagonist is, or why a bride is trudging through the woods with this man, leaving essential prior episode backstory completely absent.",
+        "passes_gate": false,
+        "situational_summary": "A runaway or abandoned bride in a mud-soaked gown walks through a stormy forest with a scarred, remorseful man as they exchange quiet remarks about her ruined day.",
+        "missing_context": "The clip cuts out the inciting betrayal or incident that caused her wedding day to be ruined and forced her to flee into the rainy woods. A cold viewer cannot tell who wronged her, what stakes are at play, or what conflict drove her here.",
+        "confidence": 0.96
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP006_01",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP006_01",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "start_time": 0.0,
+      "end_time": 33.7,
+      "duration": 33.7,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B001 to B010 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP006_02",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B001 opens on a woman in a mud-soaked wedding dress walking through dark woods with a mysterious man. While visually moody, in isolation it provides zero spoken context or dialogue explaining who is in conflict, who the man is, or why she is walking in the woods in a wedding dress. It functions as an atmospheric transition rather than immediately establishing who is in conflict and why within 5 seconds for a cold TikTok viewer.",
+        "arc_legibility": false,
+        "arc_rationale": "The arc shows two people walking through the rain to a rustic cottage while sharing gentle, remorseful remarks about her past life and 'the day was already ruined.' Juliana concludes with 'At least no one there will be waiting to humiliate me,' but the clip never reveals what happened to ruin the day, who humiliated her, or what conflict occurred. A cold viewer is left without understanding the antagonist, the actual event that took place, or the stakes.",
+        "passes_gate": false,
+        "situational_summary": "A bride in a mud-soaked wedding gown trudges through a stormy forest with a scarred man to take refuge at a secluded stone cottage away from unseen humiliation.",
+        "missing_context": "The clip lacks the prior context of the wedding betrayal or public humiliation. A cold viewer cannot tell who humiliated Juliana, why she is in a wedding gown in the woods with a stranger, or what event forced her into exile.",
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP006_02",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP006_02",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_03",
+      "start_beat_id": "B002",
+      "end_beat_id": "B010",
+      "start_time": 7.1,
+      "end_time": 33.7,
+      "duration": 26.6,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B002 to B010 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP006_03",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 opens on a close-up of a scarred, rain-soaked man saying 'I know this is not the life you came from.' In strict isolation, this line provides zero immediate situational grounding for a cold viewer: it does not show or establish who he is speaking to, what life she came from, what conflict just transpired, or what stakes are at play. It drops into an atmospheric conversation mid-aftermath without establishing the dynamic or conflict within 5 seconds.",
+        "arc_legibility": false,
+        "arc_rationale": "Across the full 26.6s clip, the dialogue and action consist entirely of two characters walking in the rain toward a rustic cottage exchanging muted, wistful comments ('the day was already ruined', 'no one there will be waiting to humiliate me'). The clip cuts out all prior narrative context regarding what happened earlier that day, why she was humiliated, who she is fleeing from, or who the man is, leaving a cold first-time viewer without an active, understandable conflict, antagonist, or dramatic resolution.",
+        "passes_gate": false,
+        "situational_summary": "A rain-soaked scarred man guides a woman toward a secluded rustic cottage as they quietly reflect on her ruined day and past humiliation.",
+        "missing_context": "The clip entirely omits the betrayal or conflict that ruined her day and drove her into the woods. A cold viewer cannot identify who humiliated her, why she had to flee, or what the relationship between her and the bearded man signifies.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP006_03",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP006_03",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_04",
+      "start_beat_id": "B015",
+      "end_beat_id": "B021",
+      "start_time": 43.3,
+      "end_time": 69.5,
+      "duration": 26.2,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B015 to B021 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP006_04",
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 immediately establishes the core situational dynamic and contrast: a somber bearded man acknowledging he has only humble means to offer a woman who came from wealth/comfort ('You came from comfort. This is all I can give you now'), paired with the visual reveal of her shedding a dark cloak to expose a damp bridal dress inside a rustic, chilly room.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 26.2s arc presents a self-contained, coherent dramatic progression: a runaway/displaced bride arriving with a humble protector at a rustic cabin, accepting the quiet life ('If this is our home, I want it clean') while confirming her disappointment lies with her past, not with him.",
+        "passes_gate": true,
+        "situational_summary": "A bride in a damp wedding dress arrives at a humble, rustic shelter with an earnest protector who warns he has little to offer, but she embraces the quiet start and begins making it their home.",
+        "missing_context": null,
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP006_04",
+        "emotional_salience_score": 3,
+        "emotional_core": "Vulnerable acceptance and domestic resilience: Juliana strips off the symbol of flight (the cloak over her bridal gown), genuinely embraces the quiet poverty offered by the Mysterious Bearded Man, and channels her lingering grief not into despair, but into determined, humble action.",
+        "relative_rank_justification": "Moderate emotional resonance: while it lacks the explosive melodrama, public humiliation, or venomous betrayal seen in high-decibel turning points (like the altar abandonment in Episode 1), the dialogue ('I am. But not because of you') and physical action (scrubbing the table in her wedding dress) ground the scene in authentic vulnerability and emerging mutual respect rather than flat exposition."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP006_04",
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows Juliana arriving at a humble cabin in her bridal gown with a mysterious bearded man and accepting their modest new reality ('If this is our home'). It reveals that she has left her prior life and married or allied with this man, but conceals earlier betrayal specifics, the man's true identity/background, and wider plot conspiracy twists.",
+        "ideal_ad_placement": "Cold prospecting / character dynamic & atmospheric hook"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_05",
+      "start_beat_id": "B015",
+      "end_beat_id": "B022",
+      "start_time": 43.3,
+      "end_time": 74.3,
+      "duration": 31.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B015 to B022 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP006_05",
+        "opening_legibility": true,
+        "opening_rationale": "The opening beat visually and verbally grounds the viewer immediately: a man soberly confesses his humble living situation ('You came from comfort. This is all I can give you now') while a woman removes a dark cloak to reveal a damp wedding dress. This instantly signals a bride who has fled or fallen into an austere new marriage/arrangement with a stranger.",
+        "arc_legibility": true,
+        "arc_rationale": "The full 31.0s excerpt presents a self-contained, emotionally legible arc: the bride finds solace in the quiet cabin, reassures the man she doesn't blame him, and begins frantically cleaning to suppress the overwhelming grief of everything she just lost on her wedding day.",
+        "passes_gate": true,
+        "situational_summary": "A runaway or newlywed bride arrives at a rustic cabin with a somber man of humble means, finding solace in the quiet before breaking down over the life she lost.",
+        "missing_context": null,
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP006_05",
+        "emotional_salience_score": 4,
+        "emotional_core": "Raw, visceral vulnerability and deferred grief: the psychological defense mechanism of feverishly cleaning a rustic table to keep the devastating weight of total abandonment and loss at bay.",
+        "relative_rank_justification": "High emotional resonance: based on script-derived cues (voice catching with raw emotion, feverish scrubbing, shedding the cloak over the damp bridal gown), this scene breaks through typical melodrama bickering to capture quiet, profound psychological trauma and emerging mutual empathy."
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP006_05",
+        "spoiler_level": 1,
+        "spoiler_rationale": "Teases Juliana's fall from high society into a humble rustic life with a mysterious man and alludes to past loss, but does not expose specific plot twists, betrayals, or identities.",
+        "ideal_ad_placement": "Cold prospecting / high-curiosity hook / top-of-funnel TikTok & Meta ads"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_06",
+      "start_beat_id": "B019",
+      "end_beat_id": "B030",
+      "start_time": 58.2,
+      "end_time": 106.0,
+      "duration": 47.8,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B019 to B030 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP006_06",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 begins abruptly in media res with two people talking: 'You are not disappointed?' / 'I am.' In strict isolation, a cold viewer has no visual or narrative context for who these characters are, what setting they are in, or what event could have caused disappointment. It fails to establish who is in conflict and why within the first 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full 47.8s sequence, the emotional and situational stakes become completely clear: a woman who has just lost her home, family, and former life takes shelter in a humble rustic dwelling with a gentle, supportive stranger/partner, finding unexpected solace and peace by the hearth.",
+        "passes_gate": false,
+        "situational_summary": "A displaced woman grieving the sudden loss of her family and former life finds quiet comfort and domestic solidarity with a rustic stranger in his modest home.",
+        "missing_context": "Opening beat B019 drops directly into mid-conversation ('You are not disappointed?' / 'I am') without any initial grounding on who the characters are, where they have just arrived, or what situation or disappointment they are referencing. It relies on subsequent beats (B021-B030) to explain her loss and the environment.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP006_06",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP006_06",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_07",
+      "start_beat_id": "B021",
+      "end_beat_id": "B030",
+      "start_time": 64.1,
+      "end_time": 106.0,
+      "duration": 41.9,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B021 to B030 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP006_07",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B021 shows a woman vigorously cleaning a rustic table while a man tells her she does not have to do that tonight. In strict isolation, it does not establish who is in conflict or why; there is no immediate dramatic hook, antagonist, betrayal, or clear stakes presented within the first 5 seconds for a cold vertical video viewer.",
+        "arc_legibility": false,
+        "arc_rationale": "While the full clip establishes a gentle, cozy domestic moment and hints at grief ('I lost my home today... My family'), it lacks a self-contained dramatic conflict or cliffhanger. The stakes and specifics of what occurred, why she lost her family, and who the mysterious man is remain unexplained and rely on lore/events from outside the clip.",
+        "passes_gate": false,
+        "situational_summary": "A displaced woman frantically cleans a rustic cabin alongside an empathetic man who helps build a fire, finding temporary comfort despite having lost her home and family earlier that day.",
+        "missing_context": "The clip completely omits the external conflict, the antagonist, and the events leading to the loss of her home and family, leaving a cold viewer without any understanding of the actual betrayal or stakes.",
+        "confidence": 0.95
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP006_07",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP006_07",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_08",
+      "start_beat_id": "B022",
+      "end_beat_id": "B030",
+      "start_time": 69.5,
+      "end_time": 106.0,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B022 to B030 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP006_08",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 begins in media res with a woman scrubbing and stating, 'If I stop now, I will think about everything I lost,' while an unidentified bearded man watches with empathy. In strict isolation, this opening fails to establish who is in conflict, what was lost, where they are, or what dramatic stakes are at play for a cold viewer within 5 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full 36.5s arc, the clip depicts a coherent, self-contained emotional sequence where a woman taking refuge after losing her home and family shares a quiet, grounding moment of mutual care and warmth beside a hearth with a kind stranger.",
+        "passes_gate": false,
+        "situational_summary": "A grief-stricken woman taking refuge in a modest cottage finds quiet comfort and warmth beside the hearth with a compassionate stranger after losing her home and family.",
+        "missing_context": "The opening beat drops in media res on a domestic scrubbing chore with an abstract lamentation ('everything I lost') without grounding who the characters are, what catastrophe occurred, or establishing an active, legible conflict. The clip relies entirely on later dialogue (B030) to retroactively explain what was lost.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP006_08",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP006_08",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    },
+    {
+      "candidate_id": "CAND_EP006_09",
+      "start_beat_id": "B026",
+      "end_beat_id": "B030",
+      "start_time": 81.0,
+      "end_time": 106.0,
+      "duration": 25.0,
+      "timestamp_source": "given",
+      "narrative_thread": "Beat B026 to B030 Conflict Arc",
+      "comprehension": {
+        "candidate_id": "CAND_EP006_09",
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 is strictly an extreme close-up of hands striking flint and steel over kindling to light a fire. In isolation, it establishes zero characters, zero dramatic conflict, and zero stakes within the first 5 seconds for a cold TikTok viewer.",
+        "arc_legibility": false,
+        "arc_rationale": "While the beats show two people sharing quiet intimacy by a fireplace and Juliana reciting past losses ('I lost my home today... My family'), the clip functions as atmospheric aftermath rather than a self-contained dramatic arc. It lacks an active antagonist, immediate visible stakes, or an understandable dramatic conflict without knowledge of prior episodes.",
+        "passes_gate": false,
+        "situational_summary": "A man builds a fire in a modest hearth for a woman who expresses gratitude and reflects somberly on losing her family and home earlier that day.",
+        "missing_context": "The opening lacks any situational setup or character conflict, showing only flint being struck. Furthermore, the clip cuts out the prior betrayal and confrontation that caused Juliana to lose her home and family, leaving a cold viewer watching quiet aftermath without understanding who wronged her or what the immediate stakes are.",
+        "confidence": 0.98
+      },
+      "emotional_salience": {
+        "candidate_id": "CAND_EP006_09",
+        "emotional_salience_score": 0,
+        "emotional_core": "Disqualified at comprehension gate",
+        "relative_rank_justification": ""
+      },
+      "spoiler": {
+        "candidate_id": "CAND_EP006_09",
+        "spoiler_level": 0,
+        "spoiler_rationale": "Disqualified at comprehension gate",
+        "ideal_ad_placement": "None"
+      }
+    }
+  ]
+}

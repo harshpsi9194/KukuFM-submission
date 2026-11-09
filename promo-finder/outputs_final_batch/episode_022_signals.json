@@ -1,0 +1,585 @@
+{
+  "episode_number": 22,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Atmospheric gothic archway and maid disguised on damp stone establishes instant period/disguise intrigue, though lacks explosive physical shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes warning ('If anyone recognizes you, everything is over') immediately hooks with secret-identity peril.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Prudence physically yanks Juliana into a stone archway, showing acute secrecy on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Expositional reassurance about the disguise without immediate verbal rupture.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard close-up whispering against a wall.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Active threat warning detailing who is watching ('Lady Catherine watches everyone, and Lord Rupert...').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Nervous glance toward the courtyard, indicating watchful eyes.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sharp, life-or-death declaration ('The Duchess is dying') cuts right through polite banter.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of resolute expression; standard framing.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Clear high-stakes assertion ('I saved Toby. I can save her') establishes rogue healer stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle shot looking up beneath the stone facade.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly confronts fatal discovery risk ('And if they discover who you are?').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on wide eyes filled with acute dread conveys immediate danger on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Resolute defiance facing life-threatening consequences ('Then I will face that when she is breathing again').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard close-up maintaining eye contact.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sharp identity sacrifice command ('Then forget you were ever a lady') grabs immediate interest.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium two-shot outside an entrance door.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct declaration of identity demotion ('Today, I am only a maid').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of swallowing pride and adopting downcast posture.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Entering a dark corridor as heavy door latches shut; moody but low physical urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Abrupt, suspicious challenge ('Who is this?') catches the characters off-guard.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Formidable housekeeper blocking dim hallway with folded arms and dangling keys establishes instant confrontation on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Covers identity with a mundane cover story ('Julian, ma'am. New help for the winter cleaning').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low curtsy juxtaposed against the disguised noblewoman lugging a heavy bucket creates visual class tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Skeptical insult ('She looks soft') directly challenges Juliana's deception.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up insert of delicate hands gripping the rough iron handle of a wash bucket exposes the disguised noblewoman.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Interrogative servant check ('Can you scrub stone?') with moderate tension.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle stern stare looking down coldly.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "Monosyllabic subservient response ('Yes, ma'am').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Subtle nod with downcast gaze.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Short two-word task inquiry ('Carry coal?').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up of stern face.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "Mundane logistical repetition ('Yes, ma'am').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static cut back to meek posture.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Menacing threat wrapped in an interrogation ('And can you keep your eyes and ears where they belong?').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Aggressive physical intimidation: housekeeper steps directly into Juliana's face, glaring down with zero personal space.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "Single subservient phrase ('Yes, ma'am').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Extreme close-up on Juliana's tense, composed, lowered face.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Hostile dismissal ('The manor has no use for useless girls') provides punchy conflict.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Sharp physical accusation: pointing a bony finger toward the stairs before stalking off.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Direct whispered inquiry seeking forbidden location ('Where is the West Wing?').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up clutching bucket, urgent visual scan.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Expositional boundary warning ('Few servants go there').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Pointing toward grand staircase.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Unfinished murmured phrase ('This house...').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Opulent visual scale contrast: lone maid holding a wash bucket dwarfed by towering gilded ceilings and aristocratic family portrait.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Urgent whisper ('Do not stare. Keep walking').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Prudence suddenly lunges into frame grabbing Juliana's arm to break her gaze.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tracking shot down empty gallery; sets mood without sharp conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Nervous glance outside massive carved door.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up insert of trembling hands slowly twisting an ornate brass latch conveys tense intrusion on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Mild respectful address ('Your Grace?').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High-drama visual: gaunt, ashen duchess motionless in a shadowy four-poster bed creates immediate medical/mortal stakes without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Short protective command ('Do not speak').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Juliana taking the Duchess's pale, cold hands conveys immediate physical bedside crisis.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive mystery reveal ('This isn't ordinary fever') immediately reframes the illness as deliberate foul play or poison.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Urgent medical examination: checking neck pulse and chest followed by an abrupt, horrified widening of the eyes.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopping physical shock: dying duchess violently gasps and convulses in agony on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sharp accusatory question ('Who has been treating you?') implies active betrayal and medical murder.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intense two-shot clutching the gasping patient's shoulder in desperate urgency.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of wide, terrified eyes choking for air delivers severe horror and suspense on mute.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why is Lady Juliana dressed as a maid entering Ashbury Manor?",
+      "stakes_importance": "Low \u2014 establishing shot introducing the disguise, but no imminent danger or active confrontation is present yet.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "Who will recognize Lady Juliana, and what will happen if her identity is exposed?",
+      "stakes_importance": "Medium \u2014 sets up an active threat of discovery and high consequences for slipping up.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Juliana's confidence in her disguise prove false?",
+      "stakes_importance": "Low \u2014 Juliana temporarily downplays the stakes and defuses Prudence's immediate warning.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will Lord Rupert do if he spots Juliana in the manor?",
+      "stakes_importance": "Medium \u2014 namedrops powerful antagonists watching the house, cut off mid-warning.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Juliana reach the Duchess before she succumbs to her illness?",
+      "stakes_importance": "High \u2014 life-or-death revelation that reframes Juliana's dangerous infiltration as an urgent rescue mission.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 3,
+      "specific_question": "Does Juliana truly possess the medical ability to save the dying Duchess?",
+      "stakes_importance": "Medium \u2014 establishes her secret healing capability and stakes her mission on saving a noble life.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 3,
+      "specific_question": "What terrible fate awaits Juliana if the household uncovers her true noble identity?",
+      "stakes_importance": "Medium \u2014 leaves a direct, chilling question hanging on the imminent danger of exposure.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana succeed in reviving the Duchess before she is found out?",
+      "stakes_importance": "Medium \u2014 shows heroic determination, but resolves Prudence's question with self-assurance.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can a highborn lady truly shed her aristocratic upbringing to survive among harsh servants?",
+      "stakes_importance": "Medium \u2014 psychological and social stakes established as she crosses the threshold into servitude.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's masquerade hold up once she steps inside the household?",
+      "stakes_importance": "Medium \u2014 marks the protagonist's active sacrifice and commitment to the perilous disguise.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 2,
+      "specific_question": "What awaits them immediately on the other side of the locked door?",
+      "stakes_importance": "Low \u2014 threshold transition into the manor; ominous sound cue but no immediate face-to-face conflict.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the formidable Housekeeper immediately catch Juliana infiltrating the house?",
+      "stakes_importance": "High \u2014 an immediate ambush by authority demanding identity, creating an instant threat of discovery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the Housekeeper buy Prudence's cover story that Juliana is just a winter cleaner?",
+      "stakes_importance": "Medium \u2014 high-risk deception under scrutiny with Juliana forced into physical labor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the Housekeeper see right through Juliana's noble hands and soft appearance?",
+      "stakes_importance": "Medium \u2014 close scrutiny of physical telltale signs of nobility.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Lady Juliana convince the Housekeeper she is capable of brutal physical chores?",
+      "stakes_importance": "Low \u2014 introductory interrogation on basic servant duties.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 1,
+      "specific_question": "Does the Housekeeper believe Juliana can scrub stone?",
+      "stakes_importance": "Low \u2014 compliant monosyllabic response that defuses the previous question.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana break her submissive composure under further questioning?",
+      "stakes_importance": "Low \u2014 brief continuation of repetitive interrogation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will the Housekeeper push further?",
+      "stakes_importance": "Low \u2014 routine compliant response that defuses the coal question.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "Does the Housekeeper suspect Juliana is an intruder or spy seeking manor secrets?",
+      "stakes_importance": "High \u2014 aggressive face-to-face intimidation probing directly into Juliana's secret motives.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's submissive facade pass the Housekeeper's intense visual inspection?",
+      "stakes_importance": "Medium \u2014 extreme tension in the face-to-face standoff before the Housekeeper's judgment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 0,
+      "specific_question": "What is the next task in the corridor?",
+      "stakes_importance": "Low \u2014 tension fully dissipates as the Housekeeper walks away and Prudence exhales in relief.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana navigate to the forbidden West Wing without getting intercepted by guards or nobles?",
+      "stakes_importance": "Medium \u2014 immediately pivots from surviving the interrogation to initiating the forbidden search.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 2,
+      "specific_question": "What danger lurks beyond the grand staircase where servants are forbidden?",
+      "stakes_importance": "Low \u2014 directional exposition guiding Juliana toward the restricted zone.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 2,
+      "specific_question": "What is Juliana's past connection or reaction to the family portrait of Ashbury Manor?",
+      "stakes_importance": "Low \u2014 contemplative pause amidst grand scale, lacking immediate narrative peril.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's stunned hesitation expose her to roaming nobles in the open marble hall?",
+      "stakes_importance": "Medium \u2014 frantic reminder that lingering in the open gallery invites immediate capture.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana reach the West Wing undetected?",
+      "stakes_importance": "Low \u2014 transitional movement shot down the hallway.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 3,
+      "specific_question": "Is someone waiting behind the mahogany door, or will Juliana be caught breaking in?",
+      "stakes_importance": "Medium \u2014 boundary threshold of breaking into the dying Duchess's private quarters.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 4,
+      "specific_question": "What will Juliana find inside, and will the lock click alert anyone nearby?",
+      "stakes_importance": "High \u2014 suspended physical infiltration moment right as the door lock turns.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 4,
+      "specific_question": "Is the Dowager Duchess still alive, or has Juliana arrived too late?",
+      "stakes_importance": "High \u2014 shocking visual discovery of the Duchess comatose and deathly ill on her canopy bed.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana assess the Duchess's condition before anyone walks into the bedchamber?",
+      "stakes_importance": "Medium \u2014 intimate, fragile contact established to perform medical diagnosis under extreme stealth.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 5,
+      "specific_question": "If not an ordinary fever, what poison or foul play has been inflicted on the Duchess?",
+      "stakes_importance": "High \u2014 massive narrative turning point exposing intentional murder or poisoning within the household.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the Duchess die in convulsions right in Juliana's arms, framing her for murder?",
+      "stakes_importance": "High \u2014 sudden violent medical crisis creating immediate life-or-death panic.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who inside Ashbury Manor is actively poisoning the Duchess?",
+      "stakes_importance": "High \u2014 direct interrogation aimed at uncovering the conspirator/poisoner behind the murder plot.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will the Duchess name her assassin before she chokes to death, or will someone burst in and catch Juliana at her bedside?",
+      "stakes_importance": "High \u2014 peak life-or-death cliffhanger with unexpressed terror, imminent murder, and an abrupt musical cut to black.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "episode_number": 6,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "target_portfolio_size": 2
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP006_05",
+      "tournament_rank": 1,
+      "tournament_wins": 1,
+      "tournament_losses": 0,
+      "latent_strength_theta": 1.4673,
+      "mmr_score": 0.55,
+      "max_sim_to_selected": 0.0,
+      "recommended_variant_id": "CAND_EP006_05_base",
+      "boundary": {
+        "start_beat_id": "B015",
+        "end_beat_id": "B022",
+        "start_time": 43.3,
+        "end_time": 74.3,
+        "duration": 31.0,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "You came from comfort.",
+        "opening_character": "MYSTERIOUS BEARDED MAN",
+        "visual_action": "Medium close-up of the Mysterious Bearded Man looking at her with somber honesty.",
+        "dialogue_score": 3,
+        "visual_score": 4,
+        "rationale": "Highlights stark destitution and reality check ('You came from comfort. This is all I can give you now.')."
+      },
+      "cliffhanger": {
+        "final_quote": "If I stop now, I will think about everything I lost.",
+        "final_character": "JULIANA",
+        "final_action": "Full shot of the Mysterious Bearded Man standing motionless, his gaze filled with empathy and understanding.",
+        "curiosity_gap_score": 4,
+        "cliffhanger_type": "betrayal",
+        "specific_question": "What total devastation did Juliana endure today that threatens to crush her the instant she stops moving?"
+      },
+      "situational_summary": "A runaway or newlywed bride arrives at a rustic cabin with a somber man of humble means, finding solace in the quiet before breaking down over the life she lost.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1,
+      "ideal_ad_placement": "Cold prospecting / high-curiosity hook / top-of-funnel TikTok & Meta ads"
+    }
+  ],
+  "disqualification_audit_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP006_04",
+      "rank": 2,
+      "recommended_boundary": "B015 -> B021",
+      "similarity": 0.9524,
+      "duplicate_of": "CAND_EP006_05",
+      "reason": "Exceeded near-duplicate threshold (0.9524 >= 0.90)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "episode_number": 6,
+  "total_candidates": 2,
+  "total_matchups": 1,
+  "pool_selection_note": "Used all 2 available survivors (k <= 10)",
+  "position_bias": {
+    "a_wins": 1,
+    "b_wins": 0,
+    "a_win_rate": "100.0%"
+  },
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP006_05",
+      "rank": 1,
+      "strength": 1.4673,
+      "wins": 1,
+      "losses": 0,
+      "win_rate": 1.0,
+      "narrative_thread": "Beat B015 to B022 Conflict Arc",
+      "recommended_boundary": "B015 -> B022",
+      "duration": 31.0
+    },
+    {
+      "candidate_id": "CAND_EP006_04",
+      "rank": 2,
+      "strength": 0.5327,
+      "wins": 0,
+      "losses": 1,
+      "win_rate": 0.0,
+      "narrative_thread": "Beat B015 to B021 Conflict Arc",
+      "recommended_boundary": "B015 -> B021",
+      "duration": 26.2
+    }
+  ],
+  "tiebreak_summary": {
+    "total_pairs": 1,
+    "cleanly_separated_by_theta_alone": 1,
+    "cleanly_separated_percentage": 100.0,
+    "tiebreak_tier2_invocations": 0,
+    "tiebreak_tier3_invocations": 0,
+    "tiebreak_tier4_invocations": 0,
+    "tiebreak_events": []
+  }
+}

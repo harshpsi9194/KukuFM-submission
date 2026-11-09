@@ -1,0 +1,45 @@
+{
+  "episode_number": 8,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 1
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP008_05",
+      "absolute_rubric_score": 4.5,
+      "subscores": {
+        "hook_score": 0.7,
+        "tension_score": 1.1,
+        "cliffhanger_score": 1.4,
+        "resonance_score": 1.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B011",
+        "end_beat_id": "B025",
+        "start_time": 28.1,
+        "end_time": 64.3,
+        "duration": 36.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "I could trim them for you.",
+        "opening_character": "JULIANA",
+        "rationale": "Offering to trim his hair/beard signals intimate domestic playfulness rather than urgent drama."
+      },
+      "cliffhanger": {
+        "final_quote": "Some were.",
+        "final_character": "ALEXANDER",
+        "specific_question": "If only some scars were from war, who or what inflicted the rest upon Alexander?"
+      },
+      "situational_summary": "While sharing an intimate moment by the hearth, a woman gently playfully questions a stoic man about trimming his beard before asking about the dark origin of his facial scars.",
+      "emotional_salience_score": 2,
+      "spoiler_level": 0
+    }
+  ],
+  "disqualification_log": []
+}

@@ -1,0 +1,762 @@
+{
+  "episode": "Episode 16",
+  "episode_number": 16,
+  "logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind.",
+  "continuity_notes": "Picks up immediately from Episode 15's cliffhanger where Alexander confronted the three thugs in the moonlit garden while Juliana huddled injured on the ground.",
+  "duration": 83.19,
+  "total_beats": 26,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 2.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot from behind Alexander's trench coat looking toward the three thugs standing across the trampled garden under the full moon.",
+          "start": 0.0,
+          "end": 2.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander stands tall and unyielding, blocking the path to Juliana, while the Thug with Cap steps forward clutching an iron pipe.",
+          "start": 0.0,
+          "end": 2.1,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B002",
+      "start": 2.1,
+      "end": 4.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Move aside, soldier.",
+          "start": 2.1,
+          "end": 4.2,
+          "timestamp_source": "given",
+          "character": "THUG WITH CAP",
+          "emotion": "Menacing, Goading"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of the Thug with Cap, his eyes wide and sneering with false bravado as his bald accomplice watches from behind.",
+          "start": 2.1,
+          "end": 4.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B003",
+      "start": 4.5,
+      "end": 6.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Alexander's scarred, weathered face, his cold blue-grey eyes fixed intently on his opponent.",
+          "start": 4.5,
+          "end": 6.4,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B004",
+      "start": 6.4,
+      "end": 9.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "I said, move!",
+          "start": 6.4,
+          "end": 8.8,
+          "timestamp_source": "given",
+          "character": "THUG WITH CAP",
+          "emotion": "Furious, Shouting"
+        },
+        {
+          "type": "camera",
+          "description": "Low-angle medium shot of the Thug with Cap gripping his weapon with both hands and roaring into the night air.",
+          "start": 6.4,
+          "end": 9.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B005",
+      "start": 9.5,
+      "end": 11.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Alexander remaining completely motionless, his jaw clenched in stoic calm.",
+          "start": 9.5,
+          "end": 11.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B006",
+      "start": 11.2,
+      "end": 13.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Alexander...",
+          "start": 11.2,
+          "end": 12.7,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Frightened, Whispering"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana kneeling in the mud against the ruined planter, clutching her bandaged hands to her chest in trembling fear.",
+          "start": 11.2,
+          "end": 13.1,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B007",
+      "start": 13.1,
+      "end": 14.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Stay behind me.",
+          "start": 13.1,
+          "end": 14.3,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Calm, Protective"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B008",
+      "start": 14.3,
+      "end": 16.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium action shot as the Thug with Cap lunges forward with his weapon raised high.",
+          "start": 14.3,
+          "end": 16.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Aaargh!",
+          "start": 14.4,
+          "end": 15.5,
+          "timestamp_source": "given",
+          "character": "THUG WITH CAP",
+          "emotion": "Roaring"
+        },
+        {
+          "type": "action",
+          "description": "The thug swings the club down with full force, but Alexander catches the weapon mid-air in his bare hand with chilling ease.",
+          "start": 14.4,
+          "end": 16.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Heavy blunt impact of a solid hand gripping wood.",
+          "start": 15.8,
+          "end": 16.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B009",
+      "start": 16.8,
+      "end": 21.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the Thug with Cap staring in wide-eyed terror as Alexander grips the bar and wrenches it away effortlessly.",
+          "start": 16.8,
+          "end": 19.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.",
+          "start": 19.2,
+          "end": 21.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Heavy thud of a body crashing into soil and wood.",
+          "start": 19.8,
+          "end": 21.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B010",
+      "start": 21.8,
+      "end": 23.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana watching in breathless astonishment.",
+          "start": 21.8,
+          "end": 23.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B011",
+      "start": 23.0,
+      "end": 25.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Aaargh!",
+          "start": 23.0,
+          "end": 23.8,
+          "timestamp_source": "given",
+          "character": "BALD THUG",
+          "emotion": "Yelling"
+        },
+        {
+          "type": "camera",
+          "description": "Medium tracking shot as the Bald Thug charges in with a shout, only for Alexander to pivot and seize him by the neck, hurling him across the garden path.",
+          "start": 23.0,
+          "end": 25.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Loud wooden scrape and crunch as the Bald Thug slides across the planks into the fence.",
+          "start": 24.2,
+          "end": 25.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B012",
+      "start": 25.8,
+      "end": 28.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Stay back!",
+          "start": 25.8,
+          "end": 27.1,
+          "timestamp_source": "given",
+          "character": "THIRD THUG",
+          "emotion": "Desperate, Shouting"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of the Third Thug backing away nervously, raising a blunt rod with trembling arms before lunging.",
+          "start": 25.8,
+          "end": 28.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander deflects the strike with his forearm, drives a swift counter-blow into the thug's torso, and spins him violently to the ground.",
+          "start": 26.5,
+          "end": 28.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Solid bone-and-fist impact followed by a groaning thud.",
+          "start": 27.0,
+          "end": 28.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B013",
+      "start": 28.5,
+      "end": 31.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide cinematic shot under the full moon. Alexander towers over the three writhing thugs groaning in the mud as Juliana looks up from her knees.",
+          "start": 28.5,
+          "end": 31.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B014",
+      "start": 31.0,
+      "end": 34.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle close-up of Juliana looking up at Alexander, tears glistening on her mud-splattered cheeks in profound relief.",
+          "start": 31.0,
+          "end": 34.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Alexander...",
+          "start": 32.0,
+          "end": 33.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Breathless, Overwhelmed"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B015",
+      "start": 34.5,
+      "end": 38.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot over Juliana's shoulder as Alexander turns his gaze toward her, his stern demeanor softening with concern.",
+          "start": 34.5,
+          "end": 38.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Are you hurt?",
+          "start": 36.2,
+          "end": 37.8,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Gentle, Concerned"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B016",
+      "start": 38.2,
+      "end": 40.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Only my hands.",
+          "start": 38.2,
+          "end": 40.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Fragile, Pain-filled"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana's trembling, soil-stained hands wrapped in blood-soaked bandages.",
+          "start": 38.2,
+          "end": 40.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B017",
+      "start": 40.8,
+      "end": 44.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as Alexander suddenly wheels around, strides to the groaning Thug with Cap, and yanks him straight off the ground by his coat collar with one arm.",
+          "start": 40.8,
+          "end": 44.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander lifts the thug onto his tiptoes against the cottage wall, glaring with lethal intensity.",
+          "start": 41.2,
+          "end": 44.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Who sent you?",
+          "start": 42.5,
+          "end": 44.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Demanding, Threatening"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B018",
+      "start": 44.2,
+      "end": 46.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "No one!",
+          "start": 44.2,
+          "end": 45.3,
+          "timestamp_source": "given",
+          "character": "THUG WITH CAP",
+          "emotion": "Choking, Defiant"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of the Thug with Cap gagging under Alexander's iron fist.",
+          "start": 44.2,
+          "end": 46.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B019",
+      "start": 46.2,
+      "end": 52.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander, his eyes darkening with lethal fury.",
+          "start": 46.2,
+          "end": 48.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Wrong answer.",
+          "start": 46.3,
+          "end": 47.4,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Cold, Ominous"
+        },
+        {
+          "type": "action",
+          "description": "Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall.",
+          "start": 48.0,
+          "end": 50.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Who?!",
+          "start": 48.8,
+          "end": 49.6,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Roaring"
+        },
+        {
+          "type": "dialogue",
+          "description": "Harrington! Gerald Harrington paid us!",
+          "start": 49.8,
+          "end": 52.2,
+          "timestamp_source": "given",
+          "character": "THUG WITH CAP",
+          "emotion": "Screaming, Panicked"
+        },
+        {
+          "type": "camera",
+          "description": "Extreme close-up of the terrified thug gasping for air, his eyes bulging.",
+          "start": 49.8,
+          "end": 52.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B020",
+      "start": 52.8,
+      "end": 55.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana on the ground, reeling in devastated disbelief as the betrayal hits her.",
+          "start": 52.8,
+          "end": 55.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Gerald...",
+          "start": 53.2,
+          "end": 54.4,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Shaken, Heartbroken"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B021",
+      "start": 55.2,
+      "end": 59.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium wide shot as Alexander releases the thug, sending him tumbling into the ruined flowerbeds.",
+          "start": 55.2,
+          "end": 59.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The Thug with Cap scrambles to his feet and sprints into the dark woods alongside his two limping accomplices.",
+          "start": 55.5,
+          "end": 58.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "We were only paid to destroy the garden, that's all!",
+          "start": 56.0,
+          "end": 58.2,
+          "timestamp_source": "given",
+          "character": "THUG WITH CAP",
+          "emotion": "Shouting, Retreating"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B022",
+      "start": 59.0,
+      "end": 63.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Alexander's hand hanging by his coat. Fresh blood trickles from his split knuckles, and he slowly curls his fingers into a tight fist.",
+          "start": 59.0,
+          "end": 63.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander flexes his bleeding hand, showing no sign of pain.",
+          "start": 60.0,
+          "end": 63.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B023",
+      "start": 63.0,
+      "end": 66.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as Juliana gingerly rises to her feet, stepping toward Alexander with deep awe and wonder in her eyes.",
+          "start": 63.0,
+          "end": 66.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You knew exactly what to do.",
+          "start": 64.2,
+          "end": 66.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Soft, Astounded"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B024",
+      "start": 66.5,
+      "end": 70.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana looking up at him, searching his scarred face.",
+          "start": 66.5,
+          "end": 70.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You fought like you've done this a hundred times.",
+          "start": 67.8,
+          "end": 70.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Wondering, Intrigued"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B025",
+      "start": 70.5,
+      "end": 74.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Alexander turning his profile away, shadowed by haunted memories of his past.",
+          "start": 70.5,
+          "end": 74.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "A soldier learns things he wishes he could forget.",
+          "start": 71.0,
+          "end": 74.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Somber, Heavy-Hearted"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B026",
+      "start": 74.2,
+      "end": 83.19,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana softening with deep empathy as her eyes drop to his bleeding knuckle.",
+          "start": 74.2,
+          "end": 76.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Are you hurt?",
+          "start": 74.8,
+          "end": 75.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Tender, Concerned"
+        },
+        {
+          "type": "action",
+          "description": "Juliana reaches out toward his injured hand with delicate concern.",
+          "start": 76.0,
+          "end": 77.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Alexander and Juliana standing face-to-face in the moonlit garden, framed against the dark night.",
+          "start": 76.8,
+          "end": 83.19,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No.",
+          "start": 77.8,
+          "end": 78.8,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Quiet, Steady"
+        },
+        {
+          "type": "action",
+          "description": "Alexander and Juliana gaze deeply into each other's eyes, an unspoken bond forming between them as the ruined garden lies silent beneath the moon.",
+          "start": 78.8,
+          "end": 83.19,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold.",
+          "start": 80.0,
+          "end": 83.19,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "EXT. JULIANA'S COTTAGE GARDEN \u2013 NIGHT"
+    }
+  ]
+}

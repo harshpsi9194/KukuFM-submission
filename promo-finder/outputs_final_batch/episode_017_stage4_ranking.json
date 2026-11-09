@@ -1,0 +1,38 @@
+{
+  "episode_number": 17,
+  "total_ranked": 2,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP017_03",
+      "absolute_score": 7.9,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "Opens with urgent dialogue and visceral wound tending ('You were bleeding last night') that quickly escalates into Juliana's unguarded emotional admission. Cutting precisely on her climactic confession 'Of losing you' leaves the cliffhanger at maximum romantic suspense before Alexander's reaction can deflate the moment.",
+      "duration": 24.5,
+      "start_beat_id": "B014",
+      "end_beat_id": "B019",
+      "emotional_salience_score": 4,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP017_04",
+      "absolute_score": 7.4,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 2.0
+      },
+      "rank_justification": "Shares the same compelling, tenderly violent hook and emotional build, but extending into B020 to show Alexander's softening reaction slightly bleeds off the sharp curiosity gap established by Juliana's immediate confession. It remains an emotionally resonant candidate, though with marginally softer exit punctuation.",
+      "duration": 27.0,
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "emotional_salience_score": 4,
+      "rank": 2
+    }
+  ]
+}

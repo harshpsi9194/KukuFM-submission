@@ -1,0 +1,500 @@
+{
+  "episode_number": 19,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Juliana's line 'This was our home' states sorrowful loss plainly, but lacks an immediate high-stakes conflict or confrontation.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Strong scroll-stopper: a soot-streaked couple standing before the smoking, charred wreckage of their home communicates visceral ruin on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Juliana reflects softly on her mother's book, functioning as low-stakes exposition rather than an urgent verbal hook.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of linen-bandaged hands turning a blackened page shows detail, but lacks urgent physical tension or drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "A standard medium shot of quiet, stoic concern with minimal dynamic visual action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'You cannot stay here' introduces basic displacement urgency, but delivery remains polite and advisory.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Villagers bringing bread and blankets through smoke creates atmospheric context, but lacks immediate visual confrontation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "The elder offering an empty barn is supportive and logistical rather than a dramatic conflict hook.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "A gentle hand on a weeping, soot-stained face portrays comfort rather than a high-stakes visual disruption.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A modest protest about community burden with low emotional urgency.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual or camera events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'You saved my son's life' explains backstory and gratitude, but creates no immediate threat or shock.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual or camera events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A continuation of heartfelt gratitude without tension.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Weathered hands offering bread against smoking ruins is poignant, but offers mild physical urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A polite 'Thank you' is logistical conversational banter.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of tearful smiling through grief shows clear emotion, though framed as conventional drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Mutual promises of remembering kindness carry sentimental warmth instead of friction.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Routine physical action of receiving blankets and a bucket.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "'Goodbye, Blackwood' serves as a classic closing beat line rather than an arresting opening hook.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Walking away from ruins into a fade-out functions visually as a scene resolution rather than an opening scroll-stopper.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A two-word deferential greeting ('Your Grace') establishes status but reveals no conflict.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "A scarred operative emerging from a fog-shrouded forest to bow before a cloaked figure establishes immediate cloak-and-dagger mystery.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A direct inquiry demanding intelligence setup without delivering a revelation yet.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of a scarred protagonist turning with dark intensity sets a brooding tone.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Reveals an active conspiracy and political coup occurring during Alexander's absence.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual or camera events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Reveals a usurper brazenly stealing the protagonist's estate, title, and father's room.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Slow push-in on a scarred face with a jaw tightening in simmering rage visually communicates explosive restraint.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly exposes the rival woman's presumption of usurping the title of duchess.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium shot of an informant delivering news in the woods.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Urgent reveal that the protagonist's mother is isolated, under surveillance, and cut off.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on an informant whispering urgent concern in a conversational setup.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Heightens danger by exposing that all loyal protectors have been stripped away.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of a trembling fist with veins bulging against a coat seam delivers potent, soundless fury.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Alexander's declaration 'My mother is a prisoner in her own house' is a sharp, high-stakes crisis line.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle shot framing Alexander looking up into the canopy with heavy, anguished breathing conveys trapped grandeur.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'And everyone believes you are dead' delivers an instant, shocking identity premise for cold viewers.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard steady close-up on the informant's face.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'Then let them believe it a little longer' establishes a thrilling secret-identity / revenge scheme immediately.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up focusing on a combat-scarred eye and grimly set mouth visually signals danger and resolve.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A procedural question prompting the payoff without inherent shock value.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual or camera events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'Then Ashburg will remember who it belongs to' is a lethal, commanding proclamation of imminent vengeance.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Dramatic low-angle push-in on a combat-scarred silhouette against dense fog delivers classic alpha-hero power.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Moonlit barn loft with glowing lantern sets an attractive atmosphere but lacks instant conflict or action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of bandaged hands tracing a botanical drawing conveys quiet introspection rather than urgent drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'We have lost everything' and 'I don't know what we will do tomorrow' convey absolute desperation and emotional collapse.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Barn doors creaking open as an imposing figure enters while a soot-smudged heroine sobs uncontrollably over her book creates strong visual intrigue.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'Tomorrow, we begin again' is comforting resolve rather than an arresting shock line.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Blanket tenderly draped over trembling shoulders paired with tear-drenched longing provides clear emotional storytelling.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard romantic comfort posture as she rests her head against his shoulder in the straw.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Cinematic push-in contrasting an exhausted resting heroine against the hero's piercing, vengeful stare into the dark.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who burned down Juliana and Alexander's cottage, and where will they seek shelter?",
+      "stakes_importance": "Low \u2014 establishes devastation and tragic loss, but immediately after an attack with no immediate confrontation unfolding.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 1,
+      "specific_question": "What secrets or medicinal remedies are inside the surviving herbal ledger?",
+      "stakes_importance": "Low \u2014 reflective moment examining a surviving family keepsake.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 0,
+      "specific_question": "How will Alexander comfort Juliana in her grief?",
+      "stakes_importance": "Low \u2014 quiet reaction shot without dynamic narrative tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "Are the approaching villagers hostile or coming to banish Juliana and Alexander?",
+      "stakes_importance": "Medium \u2014 raises momentary uncertainty over whether the protagonists are being cast out from the land.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Juliana accept the villagers' offer of shelter in the empty barn?",
+      "stakes_importance": "Low \u2014 defuses the potential threat from B004 by offering refuge.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will the destitute couple survive without food?",
+      "stakes_importance": "Low \u2014 minor logistical reluctance regarding pride and charity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 1,
+      "specific_question": "How did Juliana save the elder's son?",
+      "stakes_importance": "Low \u2014 warm exposition of past good deeds; resolves pride conflict.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will Juliana accept the bread?",
+      "stakes_importance": "Low \u2014 wholesome gesture of communal gratitude; zero narrative tension.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 0,
+      "specific_question": "What will Juliana do next?",
+      "stakes_importance": "Low \u2014 complete emotional and dramatic resolution of the villager exchange.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 0,
+      "specific_question": "How will Alexander repay the village's kindness?",
+      "stakes_importance": "Low \u2014 cordial mutual respect closing out the interaction.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 2,
+      "specific_question": "Where will Alexander and Juliana go now that they have bid farewell to Blackwood?",
+      "stakes_importance": "Medium \u2014 classic scene-closing transition signifying the end of their old life and departure into the unknown.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who is Alexander really, and why is this covert operative bowing to him as 'Your Grace'?",
+      "stakes_importance": "High \u2014 massive status shock revealing the rugged wanderer is secretly nobility/a Duke operating in deep hiding.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "What catastrophe has occurred in Ashburg during Alexander's absence?",
+      "stakes_importance": "Medium \u2014 sets up pending political intelligence and impending revelation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Alexander take back control when Lord Sterling has infiltrated the courts and staff?",
+      "stakes_importance": "Medium \u2014 exposes the enemy's deep political usurpation across Ashburg.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Alexander punish Rupert for usurping his father's seat and acting as the master of Ashburg?",
+      "stakes_importance": "High \u2014 intense emotional and dynastic violation; Rupert has stolen Alexander's rightful birthright and estate.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Lady Catherine successfully marry Rupert and secure the ducal title?",
+      "stakes_importance": "Medium \u2014 highlights social climbing antagonists consolidating power.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Alexander rescue Lady Catherine before Rupert and Sterling discover she is communicating with him?",
+      "stakes_importance": "High \u2014 vulnerable high-status woman trapped and monitored under hostile captivity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander explode with vengeance and expose his survival when he learns his family's loyalists are gone?",
+      "stakes_importance": "High \u2014 visceral physical cue of barely restrained violence and mounting fury.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Alexander liberate his captive mother from the traitors holding her hostage in her own home?",
+      "stakes_importance": "High \u2014 catastrophic personal stakes elevating the conflict from political dispute to life-and-death filial rescue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Alexander weaponize the fact that his enemies believe he is dead?",
+      "stakes_importance": "High \u2014 strategic pivot turning presumed death into a clandestine weapon.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "What lethal retaliation is Alexander planning while biding his time in the shadows?",
+      "stakes_importance": "High \u2014 grim resolve from a dangerous protagonist preparing an ambush on his usurpers.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "What irrefutable proof are Alexander and his informant hunting to destroy the usurpers?",
+      "stakes_importance": "High \u2014 pending trigger for a seismic counter-offensive.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Alexander wage war to reclaim Ashburg and crush the usurpers once his identity is unleashed?",
+      "stakes_importance": "High \u2014 ultimate declaration of war and sovereign vengeance delivered at peak dramatic intensity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will Juliana cope with isolation in the dark barn?",
+      "stakes_importance": "Low \u2014 quiet mood-setting atmosphere and visual transition.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 1,
+      "specific_question": "Does the herbal hold a secret that could save Juliana's fortunes?",
+      "stakes_importance": "Low \u2014 gentle character moment focusing on sorrow and memory.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Alexander reassure Juliana when she believes they have lost all hope?",
+      "stakes_importance": "Medium \u2014 peak emotional despair of the female lead, demanding immediate comfort and resolution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 2,
+      "specific_question": "How can two penniless exiles actually begin again from nothing?",
+      "stakes_importance": "Medium \u2014 partially soothes Juliana's despair with tender comfort, lowering immediate urgency.",
+      "defuses_tension": true,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Juliana realize Alexander is harboring dangerous aristocratic secrets?",
+      "stakes_importance": "Low \u2014 tender, comforting intimacy that resolves immediate grief.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 4,
+      "specific_question": "When and how will Alexander reveal his secret ducal identity to Juliana as he plots to take back his realm?",
+      "stakes_importance": "High \u2014 striking dramatic juxtaposition of tender domestic romance against a ruthless covert warrior plotting total reconquest.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

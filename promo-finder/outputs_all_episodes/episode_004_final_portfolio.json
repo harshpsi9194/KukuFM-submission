@@ -1,0 +1,299 @@
+{
+  "episode_number": 4,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "target_portfolio_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP004_195",
+      "tournament_rank": 1,
+      "tournament_wins": 9,
+      "tournament_losses": 0,
+      "latent_strength_theta": 4.1144,
+      "mmr_score": 0.55,
+      "max_sim_to_selected": 0.0,
+      "recommended_variant_id": "CAND_EP004_195_base",
+      "boundary": {
+        "start_beat_id": "B039",
+        "end_beat_id": "B045",
+        "start_time": 110.0,
+        "end_time": 134.8,
+        "duration": 24.8,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "By the authority entrusted to me, I now pronounce you...",
+        "opening_character": "THE PRIEST",
+        "visual_action": "Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands.",
+        "dialogue_score": 4,
+        "visual_score": 4,
+        "rationale": "High-stakes marital pronouncement instantly followed by Gerald's enraged outcry: 'You have thrown yourself away!'"
+      },
+      "cliffhanger": {
+        "final_quote": "You are disowned!",
+        "final_character": "LADY ASHCROFT",
+        "final_action": "Tight close-up of Lady Ashcroft, eyes blazing with cold malice.",
+        "curiosity_gap_score": 5,
+        "cliffhanger_type": "betrayal",
+        "specific_question": "Stripped of title, fortune, and family protection, how will Juliana survive the brutal reality of total disownment?"
+      },
+      "situational_summary": "At the conclusion of a cathedral wedding, an enraged man confronts the bride for marrying a 'nobody', she defiantly rejects him, and a high-status matriarch disowns her on the spot.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "Mid-funnel retargeting / high-converting hook / viral shock reel"
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP004_65",
+      "tournament_rank": 3,
+      "tournament_wins": 7,
+      "tournament_losses": 2,
+      "latent_strength_theta": 1.4203,
+      "mmr_score": 0.1152,
+      "max_sim_to_selected": 0.8134,
+      "recommended_variant_id": "CAND_EP004_65_base",
+      "boundary": {
+        "start_beat_id": "B006",
+        "end_beat_id": "B024",
+        "start_time": 10.5,
+        "end_time": 65.8,
+        "duration": 55.3,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "You have finally found a man as worthless as everyone thinks you are.",
+        "opening_character": "CLARISSA",
+        "visual_action": "Two-shot of Clarissa and Gerald standing proudly side-by-side in their pew as Clarissa points mocking fingers.",
+        "dialogue_score": 4,
+        "visual_score": 4,
+        "rationale": "Cutting public denigration explicitly branding Juliana as universally deemed 'worthless'."
+      },
+      "cliffhanger": {
+        "final_quote": "It is a vow.",
+        "final_character": "MYSTERIOUS BEARDED MAN",
+        "final_action": "Intense tight close-up on his piercing blue-green eyes and facial scars.",
+        "curiosity_gap_score": 5,
+        "cliffhanger_type": "unanswered_revelation",
+        "specific_question": "Who is this scarred warrior that bound his sacred honor to Lady Juliana, and what secret history connects them?"
+      },
+      "situational_summary": "After being publicly humiliated and deemed worthless by a gloating couple in a chapel pew, an abandoned woman confronts a mysterious kneeling stranger offering her a ring, culminating in his intense declaration that his proposal is a vow rather than pity.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "Mid-to-late funnel retargeting / high-intent viral shock reel / episode-unlock ad"
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP004_38",
+      "tournament_rank": 4,
+      "tournament_wins": 5,
+      "tournament_losses": 4,
+      "latent_strength_theta": 0.6156,
+      "mmr_score": 0.0617,
+      "max_sim_to_selected": 0.856,
+      "recommended_variant_id": "CAND_EP004_38_base",
+      "boundary": {
+        "start_beat_id": "B004",
+        "end_beat_id": "B016",
+        "start_time": 5.0,
+        "end_time": 38.9,
+        "duration": 33.9,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "A penniless nobody for a discarded bride.",
+        "opening_character": "GERALD",
+        "visual_action": "Tight close-up of Gerald's venomous, self-satisfied face.",
+        "dialogue_score": 4,
+        "visual_score": 4,
+        "rationale": "Sharp verbal insult and public humiliation declaring her a 'discarded bride' and him a 'penniless nobody'."
+      },
+      "cliffhanger": {
+        "final_quote": "Not a woman who deserves to be discarded.",
+        "final_character": "MYSTERIOUS BEARDED MAN",
+        "final_action": "Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew.",
+        "curiosity_gap_score": 4,
+        "cliffhanger_type": "romantic_uncertainty",
+        "specific_question": "Will Juliana accept the validation of this stranger over the mockery of Gerald and Clarissa?"
+      },
+      "situational_summary": "A discarded bride is publicly mocked by an arrogant couple for marrying a 'nobody', but the kneeling stranger defends her dignity, affirming she was betrayed rather than worthless.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "Mid-funnel retargeting / high-intent hook / viral emotional rescue ad"
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP004_127",
+      "tournament_rank": 6,
+      "tournament_wins": 4,
+      "tournament_losses": 5,
+      "latent_strength_theta": 0.4125,
+      "mmr_score": 0.0284,
+      "max_sim_to_selected": 0.7771,
+      "recommended_variant_id": "CAND_EP004_127_base",
+      "boundary": {
+        "start_beat_id": "B020",
+        "end_beat_id": "B025",
+        "start_time": 49.8,
+        "end_time": 74.8,
+        "duration": 25.0,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "You don't have to stand alone now.",
+        "opening_character": "MYSTERIOUS BEARDED MAN",
+        "visual_action": "Extreme close-up of the ring held in his weathered fingers, Juliana's white silk gown blurred in background.",
+        "dialogue_score": 3,
+        "visual_score": 4,
+        "rationale": "High-stakes romantic alliance offer ('You don't have to stand alone now')."
+      },
+      "cliffhanger": {
+        "final_quote": "Then I accept.",
+        "final_character": "JULIANA",
+        "final_action": "Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips.",
+        "curiosity_gap_score": 4,
+        "cliffhanger_type": "revenge",
+        "specific_question": "What catastrophe or scandal will erupt across high society now that Juliana has agreed to wed this rogue stranger?"
+      },
+      "situational_summary": "An abandoned bride confronts an unexpected man offering her a ring, confirms his proposal is a genuine vow rather than pity, and accepts his hand over her cold, rejecting family.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "High-intent prospecting / mid-funnel retargeting / viral romance hook"
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP004_150",
+      "tournament_rank": 8,
+      "tournament_wins": 2,
+      "tournament_losses": 7,
+      "latent_strength_theta": 0.1752,
+      "mmr_score": -0.059,
+      "max_sim_to_selected": 0.8186,
+      "recommended_variant_id": "CAND_EP004_150_base",
+      "boundary": {
+        "start_beat_id": "B025",
+        "end_beat_id": "B042",
+        "start_time": 65.8,
+        "end_time": 125.8,
+        "duration": 60.0,
+        "composite_cleanliness": 4.5,
+        "opening_cleanliness": 5,
+        "cliffhanger_cleanliness": 4
+      },
+      "hook": {
+        "opening_quote": "I don't know this man.",
+        "opening_character": "JULIANA",
+        "visual_action": "Close-up of Juliana, completely disarmed by the gravity of his promise.",
+        "dialogue_score": 4,
+        "visual_score": 3,
+        "rationale": "Climactic resolution accepting a stranger's proposal in defiance of her seated family ('Then I accept')."
+      },
+      "cliffhanger": {
+        "final_quote": "...than spend another moment begging for yours.",
+        "final_character": "JULIANA",
+        "final_action": "Close-up of Juliana, her jaw set with unshakable pride.",
+        "curiosity_gap_score": 5,
+        "cliffhanger_type": "revenge",
+        "specific_question": "How will Gerald and the Ashcroft family punish Juliana for ruthlessly putting them in their place?"
+      },
+      "situational_summary": "An abandoned bride accepts marriage to a protective stranger in front of her cold, disapproving family, marrying him and defying her enraged former groom with fierce independence.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2,
+      "ideal_ad_placement": "Mid-funnel retargeting / high-converting viral hook / high-intent prospecting"
+    }
+  ],
+  "disqualification_audit_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP004_194",
+      "rank": 2,
+      "recommended_boundary": "B039 -> B044",
+      "similarity": 0.9107,
+      "duplicate_of": "CAND_EP004_195",
+      "reason": "Exceeded near-duplicate threshold (0.9107 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP004_194",
+      "rank": 2,
+      "recommended_boundary": "B039 -> B044",
+      "similarity": 0.9107,
+      "duplicate_of": "CAND_EP004_195",
+      "reason": "Exceeded near-duplicate threshold (0.9107 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP004_58",
+      "rank": 5,
+      "recommended_boundary": "B006 -> B016",
+      "similarity": 0.9515,
+      "duplicate_of": "CAND_EP004_65",
+      "reason": "Exceeded near-duplicate threshold (0.9515 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP004_194",
+      "rank": 2,
+      "recommended_boundary": "B039 -> B044",
+      "similarity": 0.9107,
+      "duplicate_of": "CAND_EP004_195",
+      "reason": "Exceeded near-duplicate threshold (0.9107 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP004_58",
+      "rank": 5,
+      "recommended_boundary": "B006 -> B016",
+      "similarity": 0.9515,
+      "duplicate_of": "CAND_EP004_65",
+      "reason": "Exceeded near-duplicate threshold (0.9515 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP004_35",
+      "rank": 7,
+      "recommended_boundary": "B004 -> B011",
+      "similarity": 0.9436,
+      "duplicate_of": "CAND_EP004_38",
+      "reason": "Exceeded near-duplicate threshold (0.9436 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP004_194",
+      "rank": 2,
+      "recommended_boundary": "B039 -> B044",
+      "similarity": 0.9107,
+      "duplicate_of": "CAND_EP004_195",
+      "reason": "Exceeded near-duplicate threshold (0.9107 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP004_58",
+      "rank": 5,
+      "recommended_boundary": "B006 -> B016",
+      "similarity": 0.9515,
+      "duplicate_of": "CAND_EP004_65",
+      "reason": "Exceeded near-duplicate threshold (0.9515 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP004_35",
+      "rank": 7,
+      "recommended_boundary": "B004 -> B011",
+      "similarity": 0.9436,
+      "duplicate_of": "CAND_EP004_38",
+      "reason": "Exceeded near-duplicate threshold (0.9436 >= 0.90)"
+    }
+  ]
+}

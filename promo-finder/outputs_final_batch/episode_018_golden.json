@@ -1,0 +1,1043 @@
+{
+  "episode": "Episode 18",
+  "episode_number": 18,
+  "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+  "continuity_notes": "Picks up directly from Episode 17's intimate hearthside moment; their peaceful sanctuary is shattered when arsonists trap Juliana and Alexander inside their burning home.",
+  "duration": 192.0,
+  "total_beats": 41,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 2.1,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot on the wooden floor as bright orange flames crackle beneath the closed bedroom door, thick smoke billowing through the crevices.",
+          "start": 0.0,
+          "end": 2.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Muffled crackle and roar of an encroaching blaze.",
+          "start": 0.0,
+          "end": 2.1,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE - BEDROOM - NIGHT"
+    },
+    {
+      "beat_id": "B002",
+      "start": 2.1,
+      "end": 6.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up overhead shot of Juliana asleep on her pillow as her eyelids flutter open, gasping and coughing violently from the choking smoke.",
+          "start": 2.1,
+          "end": 5.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana coughs, her eyes widening in immediate alarm as the smell of burning wood fills her lungs.",
+          "start": 3.5,
+          "end": 6.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE - BEDROOM - NIGHT"
+    },
+    {
+      "beat_id": "B003",
+      "start": 6.0,
+      "end": 9.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana bolts upright in bed, tossing off the woolen quilt as she sees the orange glow under the door.",
+          "start": 6.0,
+          "end": 9.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Alexander!",
+          "start": 6.5,
+          "end": 8.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Screaming, Terrified"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE - BEDROOM - NIGHT"
+    },
+    {
+      "beat_id": "B004",
+      "start": 9.5,
+      "end": 12.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as Juliana swings her bare legs out of bed onto the floor, trembling with panic.",
+          "start": 9.5,
+          "end": 12.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Alexander!",
+          "start": 10.5,
+          "end": 12.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Desperate, Shouting"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE - BEDROOM - NIGHT"
+    },
+    {
+      "beat_id": "B005",
+      "start": 12.8,
+      "end": 16.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle close shot of the bedroom door glowing intensely, fire licking the wooden floorboards as smoke pours inward.",
+          "start": 12.8,
+          "end": 16.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE - BEDROOM - NIGHT"
+    },
+    {
+      "beat_id": "B006",
+      "start": 16.2,
+      "end": 22.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana sits huddled at the edge of the bed, pressing her bandaged hands against her mouth, coughing and sobbing in fear.",
+          "start": 16.2,
+          "end": 20.1,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Alexander...",
+          "start": 17.8,
+          "end": 19.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Muffled, Weeping"
+        },
+        {
+          "type": "sfx",
+          "description": "A violent crash as the bedroom door is kicked open.",
+          "start": 19.5,
+          "end": 21.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Framed in the doorway engulfed by blazing orange light, Alexander bursts in, his dark hair flying, looking like an imposing guardian amid the smoke.",
+          "start": 20.1,
+          "end": 22.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Juliana! Get up!",
+          "start": 20.8,
+          "end": 22.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Authoritative, Urgency"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE - BEDROOM - NIGHT"
+    },
+    {
+      "beat_id": "B007",
+      "start": 22.8,
+      "end": 28.9,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide tracking shot as Alexander rushes across the burning, smoke-choked room toward her bed.",
+          "start": 22.8,
+          "end": 26.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander reaches the bed, hoisting Juliana up by her arms into a standing embrace.",
+          "start": 24.5,
+          "end": 28.9,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What happened?",
+          "start": 26.5,
+          "end": 28.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Breathless, Distressed"
+        },
+        {
+          "type": "dialogue",
+          "description": "Fire.",
+          "start": 28.1,
+          "end": 28.9,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Grim, Urgent"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. COTTAGE - BEDROOM - NIGHT"
+    },
+    {
+      "beat_id": "B008",
+      "start": 28.9,
+      "end": 30.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Over-the-shoulder shot past Alexander toward the blazing threshold of the main room, beams collapsing across the doorway.",
+          "start": 28.9,
+          "end": 30.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. COTTAGE - HALLWAY - CONTINUOUS"
+    },
+    {
+      "beat_id": "B009",
+      "start": 30.8,
+      "end": 36.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Alexander wrapping a heavy coat tightly around Juliana's shoulders.",
+          "start": 30.8,
+          "end": 33.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander clutches Juliana against his chest with one strong arm, shielding her face from the sparks.",
+          "start": 32.5,
+          "end": 36.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Stay close to me.",
+          "start": 33.2,
+          "end": 35.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Firm, Protective"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. COTTAGE - HALLWAY - CONTINUOUS"
+    },
+    {
+      "beat_id": "B010",
+      "start": 36.5,
+      "end": 41.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Reverse shot from behind them facing the burning door frame as wall-high flames roar, completely sealing their exit.",
+          "start": 36.5,
+          "end": 39.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana recoils from the heat, clutching Alexander's coat tightly.",
+          "start": 38.0,
+          "end": 41.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "We cannot get through!",
+          "start": 39.5,
+          "end": 41.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Panic-Stricken, Choked"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. COTTAGE - HALLWAY - CONTINUOUS"
+    },
+    {
+      "beat_id": "B011",
+      "start": 42.0,
+      "end": 43.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Then we go another way.",
+          "start": 42.0,
+          "end": 43.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Resolute, Calm Under Pressure"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. COTTAGE - HALLWAY - CONTINUOUS"
+    },
+    {
+      "beat_id": "B012",
+      "start": 43.5,
+      "end": 48.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tracking shot as Alexander turns, grabbing Juliana's hand, and pulls her quickly through the burning corridors.",
+          "start": 43.5,
+          "end": 48.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Loud wooden groaning and thunderous crash of burning rafters falling behind them.",
+          "start": 45.0,
+          "end": 48.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. COTTAGE - HALLWAY - CONTINUOUS"
+    },
+    {
+      "beat_id": "B013",
+      "start": 48.8,
+      "end": 52.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium tracking shot focusing on Juliana's wide, soot-streaked eyes as they navigate through falling embers.",
+          "start": 48.8,
+          "end": 52.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. COTTAGE - HALLWAY - CONTINUOUS"
+    },
+    {
+      "beat_id": "B014",
+      "start": 52.5,
+      "end": 56.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the antique, leather-bound herbal ledger resting on a burning wooden table, the edges of its pages beginning to curl and singe in the heat.",
+          "start": 52.5,
+          "end": 56.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS"
+    },
+    {
+      "beat_id": "B015",
+      "start": 56.2,
+      "end": 62.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana spots the book and halts abruptly, pointing back toward the burning desk.",
+          "start": 56.2,
+          "end": 58.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The ledger!",
+          "start": 56.5,
+          "end": 57.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Frantic, Desperate"
+        },
+        {
+          "type": "action",
+          "description": "Alexander firmly grips her arm, pulling her back toward safety.",
+          "start": 57.8,
+          "end": 60.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Leave it!",
+          "start": 58.0,
+          "end": 59.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Stern, Shouting"
+        },
+        {
+          "type": "dialogue",
+          "description": "No! No!",
+          "start": 59.3,
+          "end": 62.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Hysterical, Screaming"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS"
+    },
+    {
+      "beat_id": "B016",
+      "start": 63.0,
+      "end": 65.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot pointing up at the ceiling beams overhead, engulfed in roaring fire and splitting down the center.",
+          "start": 63.0,
+          "end": 65.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS"
+    },
+    {
+      "beat_id": "B017",
+      "start": 65.5,
+      "end": 68.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Alexander points upward with urgency, pulling her under his arm.",
+          "start": 65.5,
+          "end": 68.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Juliana, the ceiling is coming down!",
+          "start": 65.8,
+          "end": 68.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Loud, Alarmed"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS"
+    },
+    {
+      "beat_id": "B018",
+      "start": 68.0,
+      "end": 70.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana wrests her hand from his grasp and charges straight toward the burning desk.",
+          "start": 68.0,
+          "end": 70.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS"
+    },
+    {
+      "beat_id": "B019",
+      "start": 70.5,
+      "end": 73.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot of the room as a massive burning crossbeam collapses into the floorboards with a fiery explosion.",
+          "start": 70.5,
+          "end": 73.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS"
+    },
+    {
+      "beat_id": "B020",
+      "start": 73.5,
+      "end": 76.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Juliana!",
+          "start": 73.5,
+          "end": 75.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Roaring in Terror"
+        },
+        {
+          "type": "dialogue",
+          "description": "It's my mother's!",
+          "start": 75.0,
+          "end": 76.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Defiant, Weeping"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS"
+    },
+    {
+      "beat_id": "B021",
+      "start": 76.8,
+      "end": 81.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana snatches the scorched leather ledger from the burning table, pulling it tightly against her chest with both bandaged hands.",
+          "start": 76.8,
+          "end": 81.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS"
+    },
+    {
+      "beat_id": "B022",
+      "start": 81.5,
+      "end": 83.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the ceiling rafter splitting violently apart above her.",
+          "start": 81.5,
+          "end": 83.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS"
+    },
+    {
+      "beat_id": "B023",
+      "start": 83.5,
+      "end": 86.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana looking up in sheer terror, firelight dancing across her tearful face.",
+          "start": 83.5,
+          "end": 86.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Alexander!",
+          "start": 84.0,
+          "end": 86.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Screaming, Blood-Curdling"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS"
+    },
+    {
+      "beat_id": "B024",
+      "start": 86.5,
+      "end": 98.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Down!",
+          "start": 86.5,
+          "end": 87.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Screaming Command"
+        },
+        {
+          "type": "action",
+          "description": "Alexander lunges across the room, tackling her to the wooden floor and covering her body entirely with his own.",
+          "start": 86.5,
+          "end": 89.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Massive wooden beam crashes directly where Juliana had been standing, showering them in sparks.",
+          "start": 87.8,
+          "end": 90.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Ground-level shot of Alexander lying on top of Juliana, his chest shielding her, his face smeared with soot.",
+          "start": 89.5,
+          "end": 94.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander lifts his head slightly, checking her face and cradling her cheek tenderly.",
+          "start": 91.5,
+          "end": 98.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I've got you.",
+          "start": 96.5,
+          "end": 98.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Panting, Reassuring"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS"
+    },
+    {
+      "beat_id": "B025",
+      "start": 98.5,
+      "end": 101.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot of the walls collapsing in curtains of flame, cutting off all interior hallways.",
+          "start": 98.5,
+          "end": 101.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. COTTAGE - PARLOR / EXT. COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B026",
+      "start": 101.5,
+      "end": 106.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Alexander scoops Juliana up in his arms, carrying her bridal-style as she clutches the ledger.",
+          "start": 101.5,
+          "end": 104.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana looks toward the side wall and points frantically at the parlor window.",
+          "start": 103.5,
+          "end": 105.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The window!",
+          "start": 103.8,
+          "end": 105.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Urgent, Shouting"
+        },
+        {
+          "type": "dialogue",
+          "description": "Hold on to me.",
+          "start": 105.2,
+          "end": 106.8,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Steely, Determined"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. COTTAGE - PARLOR / EXT. COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B027",
+      "start": 106.8,
+      "end": 109.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Alexander gritting his teeth, holding Juliana securely as she buries her face into his neck.",
+          "start": 106.8,
+          "end": 109.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. COTTAGE - PARLOR / EXT. COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B028",
+      "start": 109.5,
+      "end": 115.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Slow-motion shot as Alexander sprints through the burning room toward the framed glass window.",
+          "start": 109.5,
+          "end": 114.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander leaps forward, using his shoulder and back to shatter through the burning window frame, carrying Juliana safely in his arms out into the night.",
+          "start": 111.5,
+          "end": 115.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Loud explosion of shattering window glass and splintering wood.",
+          "start": 112.0,
+          "end": 115.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. COTTAGE - PARLOR / EXT. COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B029",
+      "start": 115.5,
+      "end": 119.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide interior shot as the entire parlor collapses into an uncontrollable inferno of roaring flames.",
+          "start": 115.5,
+          "end": 119.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. COTTAGE - PARLOR / EXT. COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B030",
+      "start": 119.8,
+      "end": 124.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Night exterior shot in the dark grass outside. Juliana sits over Alexander, brushing ashes from his face as he coughs and catches his breath.",
+          "start": 119.8,
+          "end": 124.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. COTTAGE - PARLOR / EXT. COTTAGE - CONTINUOUS"
+    },
+    {
+      "beat_id": "B031",
+      "start": 124.0,
+      "end": 128.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot of villagers running toward the cottage carrying wooden water buckets through the smoke-filled darkness.",
+          "start": 124.0,
+          "end": 128.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 5,
+      "scene_heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS"
+    },
+    {
+      "beat_id": "B032",
+      "start": 128.5,
+      "end": 134.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana kneeling in the mud, her face blackened with soot and tears streaming down her cheeks as she clutches the charred ledger.",
+          "start": 128.5,
+          "end": 134.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 5,
+      "scene_heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS"
+    },
+    {
+      "beat_id": "B033",
+      "start": 134.5,
+      "end": 144.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot of the cottage completely consumed by towering flames against the dark night sky.",
+          "start": 134.5,
+          "end": 140.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Our home...",
+          "start": 136.2,
+          "end": 138.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Sobbing, Heartbroken"
+        },
+        {
+          "type": "dialogue",
+          "description": "Everything we had is gone.",
+          "start": 139.8,
+          "end": 142.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Crying, Shattered"
+        },
+        {
+          "type": "action",
+          "description": "Alexander kneels beside her in the grass, resting a steady, protective hand on her back.",
+          "start": 140.5,
+          "end": 144.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 5,
+      "scene_heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS"
+    },
+    {
+      "beat_id": "B034",
+      "start": 144.0,
+      "end": 155.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana turns toward Alexander, her hand trembling as she reaches out and touches his chest.",
+          "start": 144.0,
+          "end": 155.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Why would anyone do this?",
+          "start": 145.8,
+          "end": 148.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Voice Breaking, Anguished"
+        },
+        {
+          "type": "dialogue",
+          "description": "Alexander...",
+          "start": 153.2,
+          "end": 154.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Whispering, Tearful"
+        }
+      ],
+      "scene_number": 5,
+      "scene_heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS"
+    },
+    {
+      "beat_id": "B035",
+      "start": 155.0,
+      "end": 161.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Alexander draws her firmly into his arms, wrapping both burly arms around her as she buries her face into his shoulder, weeping uncontrollably.",
+          "start": 155.0,
+          "end": 161.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Someone wanted us out.",
+          "start": 158.0,
+          "end": 160.8,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Cold, Ominous"
+        }
+      ],
+      "scene_number": 5,
+      "scene_heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS"
+    },
+    {
+      "beat_id": "B036",
+      "start": 163.0,
+      "end": 165.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "We have nowhere to go.",
+          "start": 163.0,
+          "end": 165.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Despairing, Weeping"
+        }
+      ],
+      "scene_number": 5,
+      "scene_heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS"
+    },
+    {
+      "beat_id": "B037",
+      "start": 165.5,
+      "end": 171.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Slow push-in on Alexander's face over Juliana's shoulder. His expression hardens into a mask of pure, lethal fury.",
+          "start": 165.5,
+          "end": 171.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 5,
+      "scene_heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS"
+    },
+    {
+      "beat_id": "B038",
+      "start": 171.0,
+      "end": 179.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Alexander's piercing eyes and combat scar bathed in the flickering orange glow of the fire.",
+          "start": 171.0,
+          "end": 179.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "They took our home. I will not let them take anything else now.",
+          "start": 171.8,
+          "end": 177.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Cold Fury, Resolute"
+        }
+      ],
+      "scene_number": 5,
+      "scene_heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS"
+    },
+    {
+      "beat_id": "B039",
+      "start": 179.5,
+      "end": 184.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana slowly pulls back slightly from his embrace, her tear-filled blue eyes looking up into his hardened features.",
+          "start": 179.5,
+          "end": 184.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 5,
+      "scene_heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS"
+    },
+    {
+      "beat_id": "B040",
+      "start": 184.2,
+      "end": 186.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "What are you going to do?",
+          "start": 184.2,
+          "end": 186.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Trembling, Apprehensive"
+        }
+      ],
+      "scene_number": 5,
+      "scene_heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS"
+    },
+    {
+      "beat_id": "B041",
+      "start": 186.5,
+      "end": 192.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black.",
+          "start": 186.5,
+          "end": 192.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 5,
+      "scene_heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS"
+    }
+  ]
+}

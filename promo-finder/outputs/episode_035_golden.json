@@ -1,0 +1,990 @@
+{
+  "episode": "Episode 35",
+  "episode_number": 35,
+  "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+  "continuity_notes": "While Juliana faces trial and sentencing in the courtroom, this episode reveals Alexander's mother escaping confinement and tracking down Alexander in his mountain hideout, uncovering the dark treason that orchestrates both their fates.",
+  "duration": 157.5,
+  "total_beats": 41,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 5.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium tracking shot following an elderly hooded woman clutching an iron lantern as she stumbles anxiously through a damp subterranean stone tunnel.",
+          "start": 0.0,
+          "end": 5.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander's mother, frail with silver hair under a dark hooded cloak, braces her hand against the rough stone wall, panting heavily in fear.",
+          "start": 0.0,
+          "end": 5.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. STONE CORRIDOR - NIGHT"
+    },
+    {
+      "beat_id": "B002",
+      "start": 5.5,
+      "end": 8.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "I will not die in that house.",
+          "start": 5.5,
+          "end": 8.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Determined, Breathless"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. STONE CORRIDOR - NIGHT"
+    },
+    {
+      "beat_id": "B003",
+      "start": 9.0,
+      "end": 13.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on her trembling, weathered hands gripping a mossy stone bolt set into a heavy iron plate on the stone wall.",
+          "start": 9.0,
+          "end": 12.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "She uses all her strength to shove the stone bolt upward, disengaging the hidden lock mechanism.",
+          "start": 9.5,
+          "end": 12.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Heavy stone grating and metallic latch clanging as the lock releases.",
+          "start": 11.2,
+          "end": 13.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. STONE CORRIDOR - NIGHT"
+    },
+    {
+      "beat_id": "B004",
+      "start": 13.0,
+      "end": 15.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "The heavy stone doorway swings inward, and the elderly woman ducks low, crawling through the opening into the cold night outside.",
+          "start": 13.0,
+          "end": 15.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. STONE CORRIDOR - NIGHT"
+    },
+    {
+      "beat_id": "B005",
+      "start": 15.5,
+      "end": 19.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide atmospheric shot of a deep, snow-covered pine forest at night. In the distance stands a small secluded log cabin nestled under towering snowy trees.",
+          "start": 15.5,
+          "end": 19.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander's mother plods through the thick snow, leaning heavily on a wooden walking stick, her dark cloak dusted with snow.",
+          "start": 15.5,
+          "end": 19.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Howling winter wind and crunching of footsteps in deep snow.",
+          "start": 16.0,
+          "end": 19.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. SNOWY FOREST / CABIN - NIGHT"
+    },
+    {
+      "beat_id": "B006",
+      "start": 19.5,
+      "end": 24.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Alexander's mother arriving beside the frosted wooden door frame under sharp hanging icicles, shivering violently from the freezing cold.",
+          "start": 19.5,
+          "end": 24.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "This must be the place.",
+          "start": 21.0,
+          "end": 23.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Whispering, Weary"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. SNOWY FOREST / CABIN - NIGHT"
+    },
+    {
+      "beat_id": "B007",
+      "start": 24.0,
+      "end": 27.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open.",
+          "start": 24.0,
+          "end": 27.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Creak of cold wooden hinges opening.",
+          "start": 24.8,
+          "end": 27.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "EXT. SNOWY FOREST / CABIN - NIGHT"
+    },
+    {
+      "beat_id": "B008",
+      "start": 27.5,
+      "end": 30.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light.",
+          "start": 27.5,
+          "end": 30.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm.",
+          "start": 28.5,
+          "end": 30.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B009",
+      "start": 30.8,
+      "end": 33.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock.",
+          "start": 30.8,
+          "end": 33.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B010",
+      "start": 33.8,
+      "end": 36.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes.",
+          "start": 33.8,
+          "end": 36.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B011",
+      "start": 36.5,
+      "end": 40.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks.",
+          "start": 36.5,
+          "end": 40.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Alexander!",
+          "start": 37.0,
+          "end": 40.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Sobbing, Stunned"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B012",
+      "start": 40.5,
+      "end": 44.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Alexander as his hard expression crumbles into utter astonishment.",
+          "start": 40.5,
+          "end": 44.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Mother?",
+          "start": 42.5,
+          "end": 44.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Breathless, In Disbelief"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B013",
+      "start": 44.2,
+      "end": 48.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest.",
+          "start": 44.2,
+          "end": 47.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You're alive.",
+          "start": 45.5,
+          "end": 48.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Weeping, Overwhelmed"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B014",
+      "start": 48.0,
+      "end": 49.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Mother.",
+          "start": 48.0,
+          "end": 49.8,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Gentle, Choked Up"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B015",
+      "start": 50.0,
+      "end": 55.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief.",
+          "start": 50.0,
+          "end": 55.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I buried you.",
+          "start": 52.5,
+          "end": 55.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Tearful, Heartbroken"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B016",
+      "start": 56.5,
+      "end": 58.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "I know.",
+          "start": 56.5,
+          "end": 58.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Soft, Somber"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B017",
+      "start": 59.5,
+      "end": 66.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "They told me you died. They told me your entire regiment was destroyed.",
+          "start": 59.5,
+          "end": 66.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Anguished, Accusing"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B018",
+      "start": 66.5,
+      "end": 71.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories.",
+          "start": 66.5,
+          "end": 71.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Most of them were.",
+          "start": 68.5,
+          "end": 70.8,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Dark, Resigned"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B019",
+      "start": 71.5,
+      "end": 74.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Then how did you survive?",
+          "start": 71.5,
+          "end": 74.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Searching, Desperate"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B020",
+      "start": 74.2,
+      "end": 78.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Side profile of Alexander as his eyes look into the distance, haunted by the past.",
+          "start": 74.2,
+          "end": 78.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I wasn't supposed to.",
+          "start": 75.0,
+          "end": 77.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Grim, Quiet"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B021",
+      "start": 78.0,
+      "end": 83.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern.",
+          "start": 78.0,
+          "end": 82.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Three years ago, I was sent to the Iberian front.",
+          "start": 79.0,
+          "end": 83.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Solemn"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B022",
+      "start": 83.0,
+      "end": 89.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander's weathered face looking down pensively as he recounts the mission.",
+          "start": 83.0,
+          "end": 87.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies.",
+          "start": 83.0,
+          "end": 89.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Steady, Focused"
+        },
+        {
+          "type": "action",
+          "description": "Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid.",
+          "start": 87.0,
+          "end": 89.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B023",
+      "start": 89.8,
+      "end": 92.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "A traitor?",
+          "start": 89.8,
+          "end": 91.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Shocked"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up on his mother, gasping with wide, horrified eyes.",
+          "start": 89.8,
+          "end": 92.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B024",
+      "start": 92.0,
+      "end": 93.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Yes.",
+          "start": 92.0,
+          "end": 93.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Cold, Firm"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B025",
+      "start": 93.5,
+      "end": 97.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot framing both of them across the wooden table bathed in amber lantern glow.",
+          "start": 93.5,
+          "end": 97.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "We were close to finding him.",
+          "start": 94.5,
+          "end": 97.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Grave"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B026",
+      "start": 98.5,
+      "end": 101.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Then came the ambush.",
+          "start": 98.5,
+          "end": 101.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Hardened"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B027",
+      "start": 101.2,
+      "end": 104.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles.",
+          "start": 101.2,
+          "end": 104.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "My men were slaughtered.",
+          "start": 101.5,
+          "end": 104.2,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Bitter, Painful"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B028",
+      "start": 104.2,
+      "end": 106.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of his mother clutching at her throat, tears glistening in her eyes.",
+          "start": 104.2,
+          "end": 106.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And you?",
+          "start": 104.5,
+          "end": 106.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Trembling, Anxious"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B029",
+      "start": 107.0,
+      "end": 110.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "I was shot. Left for dead.",
+          "start": 107.0,
+          "end": 110.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Hollow"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B030",
+      "start": 110.0,
+      "end": 113.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of his mother placing both hands on the table, leaning forward in disbelief.",
+          "start": 110.0,
+          "end": 113.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "How did you escape?",
+          "start": 111.0,
+          "end": 113.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Pleading, Astonished"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B031",
+      "start": 113.5,
+      "end": 118.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Alexander, his eyes dark with the harrowing memory.",
+          "start": 113.5,
+          "end": 118.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I crawled away from the battlefield, half dead, alone.",
+          "start": 114.0,
+          "end": 118.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Somber, Low"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B032",
+      "start": 118.2,
+      "end": 122.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "I survived because the men who came looking for me believed I was already dead.",
+          "start": 118.2,
+          "end": 122.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Continuing"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B033",
+      "start": 122.0,
+      "end": 125.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on his mother as her expression shifts to profound bewilderment and outrage.",
+          "start": 122.0,
+          "end": 125.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then why did they never tell us?",
+          "start": 122.0,
+          "end": 125.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Aghast, Stunned"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B034",
+      "start": 125.5,
+      "end": 129.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Alexander's intense, piercing gaze.",
+          "start": 125.5,
+          "end": 129.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Because someone wanted you to believe I was dead.",
+          "start": 126.0,
+          "end": 129.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Ominous, Deliberate"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B035",
+      "start": 129.5,
+      "end": 130.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Who?",
+          "start": 129.5,
+          "end": 130.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Breathless"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B036",
+      "start": 130.5,
+      "end": 134.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside.",
+          "start": 130.5,
+          "end": 134.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I spent three years trying to find out.",
+          "start": 131.0,
+          "end": 134.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Brooding"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B037",
+      "start": 134.0,
+      "end": 137.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage.",
+          "start": 134.0,
+          "end": 136.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The ambush was not an accident.",
+          "start": 134.0,
+          "end": 137.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Fierce, Resolute"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B038",
+      "start": 137.0,
+      "end": 144.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Someone ordered my men to die.",
+          "start": 137.0,
+          "end": 140.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Vehement, Enraged"
+        },
+        {
+          "type": "action",
+          "description": "He leans heavily over the wooden table, looming close as his fury boils over.",
+          "start": 137.0,
+          "end": 144.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Someone wanted me erased.",
+          "start": 141.0,
+          "end": 144.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Darkly Intimating"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B039",
+      "start": 144.0,
+      "end": 145.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Who?",
+          "start": 144.0,
+          "end": 145.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER'S MOTHER",
+          "emotion": "Gasping, Terrified"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B040",
+      "start": 145.0,
+      "end": 150.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill.",
+          "start": 145.0,
+          "end": 150.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The men behind it... are the same men ruling Ashwood now.",
+          "start": 145.5,
+          "end": 150.0,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Deadly, Chilling"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    },
+    {
+      "beat_id": "B041",
+      "start": 150.5,
+      "end": 157.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on his mother's face as the horrifying realization hits her, her mouth open in a soundless gasp of sheer dread as the scene holds and slowly fades.",
+          "start": 150.5,
+          "end": 157.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "A sudden, ominous orchestral crescendo swells dramatically into silence.",
+          "start": 150.8,
+          "end": 157.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+    }
+  ]
+}

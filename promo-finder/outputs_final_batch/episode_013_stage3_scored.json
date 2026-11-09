@@ -1,0 +1,606 @@
+{
+  "episode_number": 13,
+  "total_scored": 24,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP013_01",
+      "start_beat_id": "B002",
+      "end_beat_id": "B007",
+      "start_time": 4.2,
+      "end_time": 28.5,
+      "duration": 24.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 establishes the full physical and interpersonal dynamic immediately: a wide terrace shot reveals villains (Gerald and Clarissa) overlooking an execution or trial scene where a handcuffed man (Alexander) desperately warns a woman (Juliana) against a briar garden, grounded with clear visual anchors.",
+        "arc_legibility": true,
+        "arc_rationale": "The stakes and roles are distinct: Alexander is captive facing the gallows, Juliana intends to sacrifice herself to save him, and the cruel observers mock them from above. However, the exact test or quest is cut short before full physical action or stakes are clarified.",
+        "passes_gate": true,
+        "situational_summary": "A man in chains begs his devoted partner not to hurt herself on deadly thorns to save him from execution while their cruel captors watch from above."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate mutual devotion and sacrificial plea under threat of execution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the trial by ordeal setup and life-or-death ultimatum without revealing the outcome."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_02",
+      "start_beat_id": "B002",
+      "end_beat_id": "B009",
+      "start_time": 4.2,
+      "end_time": 39.8,
+      "duration": 35.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B002 clearly opens with a wide shot framing Gerald and Clarissa elevated on the balustrade overlooking Juliana, Alexander in handcuffs, and the Constable in front of a briar patch, establishing the complete power dynamic and setting in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear three-way dynamic: handcuffed captive Alexander, defiant sacrificial wife Juliana, and mocking captors. The arc progresses from emotional plea to Juliana's resolute step into the frozen briars as Clarissa mocks her.",
+        "passes_gate": true,
+        "situational_summary": "A captive man begs his partner not to sacrifice herself, but she bravely enters a frozen briar garden to save him from the gallows as their tormentors mock them."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Fierce romantic loyalty and emotional resolve facing painful physical sacrifice"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the inciting challenge/ordeal as Juliana begins entering the thorn patch."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_03",
+      "start_beat_id": "B013",
+      "end_beat_id": "B016",
+      "start_time": 47.0,
+      "end_time": 67.5,
+      "duration": 20.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 opens on an ungrounded mid-action shout ('Juliana, stop!') with Alexander lunging in chains. Without prior context, a cold viewer cannot tell who Juliana is, where she is, or what she is about to do until later beats clarify it.",
+        "arc_legibility": true,
+        "arc_rationale": "The full progression clarifies that Juliana is crawling through bloody thorns to search for something to earn her husband's freedom while Gerald and Clarissa sneer from the balcony.",
+        "passes_gate": false,
+        "situational_summary": "A restrained man screams in anguish while his wife crawls through lacerating thorns under the mockery of their tormentors to win his freedom."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral physical torment and agonizing marital loyalty under sadistic mockery"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the exact terms of the ordeal\u2014that Juliana is actively mutilating her hands searching for her husband's freedom."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_04",
+      "start_beat_id": "B013",
+      "end_beat_id": "B017",
+      "start_time": 47.0,
+      "end_time": 71.2,
+      "duration": 24.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 begins in media res with an ungrounded shout ('Juliana, stop!') and struggling chains without showing the physical target or establishing the spatial layout to a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The overarching conflict is readily apparent across the clip: Juliana endures vicious physical suffering in a briar patch to win her husband's release as Gerald mocks her from the balcony.",
+        "passes_gate": false,
+        "situational_summary": "A chained husband watches helplessly as his wife crawls through brutal blackthorn needles that pierce her flesh to earn his freedom."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal physical sacrifice, horrifying bodily injury, and sadistic torment"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the active physical consequence and deep injury sustained during the ordeal."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_05",
+      "start_beat_id": "B013",
+      "end_beat_id": "B021",
+      "start_time": 47.0,
+      "end_time": 83.0,
+      "duration": 36.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 opens on Alexander already chained and lunging mid-action with an ungrounded shout ('Juliana, stop!'). Without seeing Juliana or the briars yet, a cold viewer has no physical anchor or context for who or what he is screaming at.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the scene unfolds, Gerald's dialogue clearly defines the stakes: Juliana is brutally crawling through thorns to earn her captive husband's freedom while cruel antagonists mock them.",
+        "passes_gate": false,
+        "situational_summary": "A man in chains watches in horror as his wife mutilates herself crawling through a bed of thorns to earn his freedom under the mockery of cruel aristocrats."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Gut-wrenching physical self-sacrifice and visceral torment of a helpless spouse"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the cruel physical ordeal forced upon Juliana to rescue her imprisoned husband."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_06",
+      "start_beat_id": "B014",
+      "end_beat_id": "B021",
+      "start_time": 50.0,
+      "end_time": 83.0,
+      "duration": 33.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 immediately establishes the physical danger with an eye-level shot looking through a thorny thicket as Juliana crawls into the briars on all fours, paired with Alexander's anguished face in handcuffs.",
+        "arc_legibility": true,
+        "arc_rationale": "The core dynamic is fully self-contained: Gerald explicitly reveals Juliana is crawling through thorns to win her husband's freedom while onlookers gloat and Alexander breaks restraint to save her.",
+        "passes_gate": true,
+        "situational_summary": "A woman crawls through a bed of jagged thorns to win her captive husband's freedom while their tormentors mock them from a terrace."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating physical sacrifice juxtaposed with aristocratic cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Shows the severe trial/punishment sequence where Juliana sacrifices her flesh to free Alexander."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_07",
+      "start_beat_id": "B015",
+      "end_beat_id": "B020",
+      "start_time": 53.5,
+      "end_time": 80.5,
+      "duration": 27.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 establishes instantaneous visceral clarity: ground-level shot of bare hands raked bloody across blackthorn spines, instantly framed by Clarissa gloating from the balcony ('Look at her hands...').",
+        "arc_legibility": true,
+        "arc_rationale": "Gerald's line ('Keep searching, Juliana. Your husband's freedom is somewhere in that garden') instantly provides complete situational legibility for why she endures the torture.",
+        "passes_gate": true,
+        "situational_summary": "A woman braves a flesh-tearing thicket of blackthorns to win her husband's freedom under the cruel taunts of an aristocratic couple."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal physical agony and public humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the garden thorn trial and the antagonist's sadistic conditions for Alexander's release."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_08",
+      "start_beat_id": "B015",
+      "end_beat_id": "B021",
+      "start_time": 53.5,
+      "end_time": 83.0,
+      "duration": 29.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 opens on an unmistakable visual and auditory hook: extreme close-up of bloody hands torn by blackthorn spines, immediately anchored by dialogue from gloating onlookers on the balcony.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and crystal clear: a wife endures brutal physical mutilation in thorns to save her chained husband, driving him to break past his guards to stop her.",
+        "passes_gate": true,
+        "situational_summary": "To win her chained husband's freedom, a desperate woman crawls through vicious thorns while spectators laugh, pushing her husband to break his restraint."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Extreme visceral devotion, bloody self-sacrifice, and explosive emotional rupture"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's bloody ordeal in the thorn garden and Alexander's desperate attempt to break free."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_09",
+      "start_beat_id": "B015",
+      "end_beat_id": "B022",
+      "start_time": 53.5,
+      "end_time": 86.0,
+      "duration": 32.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 visually and aurally establishes the physical torment and setting immediately: ground-level shot of bleeding hands in frozen blackthorn spines, paired with cruel antagonists pointing and mocking her from the balcony ('The lady has finally found something worthy of her').",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict is crystal clear: Gerald and Clarissa are tormenting Juliana by forcing her to search through thorns to save her husband, while Alexander is held back in anguish.",
+        "passes_gate": true,
+        "situational_summary": "A woman crawls through lacerating briars to save her husband while cruel tormentors mock her from a balcony and her restrained husband pleads in agony."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral physical torment and public humiliation endured out of sacrificial marital love"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the severe ordeal/challenge setup of Juliana searching the garden to free her husband; ideal for cold-audience scroll-stop without giving away the outcome or object found."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_10",
+      "start_beat_id": "B015",
+      "end_beat_id": "B023",
+      "start_time": 53.5,
+      "end_time": 89.0,
+      "duration": 35.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 establishes immediate spatial and interpersonal stakes: Juliana's bleeding hands scraping frozen ground in briars while antagonists jeer from an overhead terrace.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative dynamic between the suffering wife, the jeering tormentors, and the restrained, helpless husband breaking into desperate resistance against a constable is completely readable without background lore.",
+        "passes_gate": true,
+        "situational_summary": "As a woman claws through vicious briars to earn her husband's freedom under the mockery of nobles, her distraught husband violently breaks away to stop her torture before being slammed down by a constable."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Heart-wrenching helplessness and desperate physical defiance against sadistic torment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the torment obstacle sequence and Alexander's desperate intervention; reveals the inciting predicament without resolving the search."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_11",
+      "start_beat_id": "B016",
+      "end_beat_id": "B027",
+      "start_time": 62.0,
+      "end_time": 107.0,
+      "duration": 45.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B016 opens with Gerald leaning over the terrace railing, sneering callously and explicitly stating the core objective and stakes: 'Keep searching, Juliana. Your husband's freedom is somewhere in that garden.'",
+        "arc_legibility": true,
+        "arc_rationale": "Clear, self-contained dramatic arc: Gerald establishes the blackmail terms, Juliana endures horrific physical lacerations to find an item, Alexander fights his captor, and Juliana finally discovers the emerald signet ring.",
+        "passes_gate": true,
+        "situational_summary": "Taunted by a sneering aristocrat that her husband's freedom is hidden in the garden, a desperate woman claws through frozen briars until her bloody fingers uncover an antique emerald signet ring."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "High-stakes endurance and triumphant discovery under brutal duress"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the hidden key object (the antique emerald signet ring) that resolves the garden search mechanic."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_12",
+      "start_beat_id": "B017",
+      "end_beat_id": "B026",
+      "start_time": 67.5,
+      "end_time": 103.0,
+      "duration": 35.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 opens in media res with an extreme macro close-up of a needle piercing a bleeding hand with no wide establishing shot, no dialogue, and no visible setting or interpersonal context for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The broader conflict of Juliana searching through thorns while Alexander struggles against a constable becomes clear across the middle beats.",
+        "passes_gate": false,
+        "situational_summary": "A severely bleeding woman endures agonizing briars searching for a ring while a captive man desperately fights his guard to stop her suffering."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Painful physical endurance and desperate pleading"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals Juliana's desperate search for a ring in the thorns without showing whether she successfully finds or retrieves it."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_13",
+      "start_beat_id": "B017",
+      "end_beat_id": "B027",
+      "start_time": 67.5,
+      "end_time": 107.0,
+      "duration": 39.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 opens on a disembodied macro close-up of a blackthorn needle stabbing a bleeding hand without establishing the environment, who the person is, why they are being injured, or who is present.",
+        "arc_legibility": false,
+        "arc_rationale": "While the physical struggle and search for a ring are visually intense, the clip lacks foundational narrative context: a cold viewer does not know why she is crawling through briars for a ring, who the Constable represents, or what the ultimate stakes or threat to Alexander are.",
+        "passes_gate": false,
+        "situational_summary": "A woman crawls through painful thorn briars searching for a buried emerald ring while a restrained man desperately screams for her to stop."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral physical torment and agonizing helplessness"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the discovery and location of the hidden emerald signet ring beneath the frozen briars."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_14",
+      "start_beat_id": "B017",
+      "end_beat_id": "B028",
+      "start_time": 67.5,
+      "end_time": 109.0,
+      "duration": 41.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 opens abruptly on a macro shot of a thorn impaling a bleeding hand in extreme close-up, providing zero establishing context, setting, or interpersonal dynamic.",
+        "arc_legibility": false,
+        "arc_rationale": "Fails standalone comprehension because a cold viewer cannot discern the backstory, who placed the ring there, why Alexander is being restrained by a Constable, or what obtaining the ring resolves.",
+        "passes_gate": false,
+        "situational_summary": "A woman endures severe lacerations clawing through briars to locate an emerald ring as a restrained companion pleads for her to stop."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral physical torment and agonizing helplessness"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Shows the protagonist successfully uncovering the location of the lost emerald ring."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_15",
+      "start_beat_id": "B017",
+      "end_beat_id": "B029",
+      "start_time": 67.5,
+      "end_time": 112.0,
+      "duration": 44.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 starts on a tight macro shot of flesh being pierced by a thorn with no visual grounding of the location, identity of the character, or interpersonal stakes.",
+        "arc_legibility": false,
+        "arc_rationale": "The clip depicts high physical agony and desperation but fails to explain the narrative stakes: why the ring must be retrieved, who the antagonist is, or why Alexander is held back.",
+        "passes_gate": false,
+        "situational_summary": "A woman crawls through a bed of razor thorns to grasp a buried emerald ring while a restrained man watches helplessly."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating self-sacrificial physical agony yielding desperate victory"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Shows the protagonist finding and physically taking possession of the hidden emerald signet ring."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_16",
+      "start_beat_id": "B017",
+      "end_beat_id": "B030",
+      "start_time": 67.5,
+      "end_time": 113.0,
+      "duration": 45.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 begins on an ungrounded macro close-up of a thorn stabbing a hand; a cold scroller cannot determine setting, situation, or characters within the first 3 seconds.",
+        "arc_legibility": false,
+        "arc_rationale": "The conflict remains strictly situational and physical; without prior context, the viewer cannot know the underlying dilemma, who is threatening them, or the significance of the emerald ring.",
+        "passes_gate": false,
+        "situational_summary": "Despite brutal lacerations, a woman crawls through a frozen briar patch to seize an emerald ring as an agonized man is held back by a Constable."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Fierce defiance and painful physical triumph over torment"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Depicts the climactic retrieval of the hidden emerald signet ring through intense physical sacrifice."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_17",
+      "start_beat_id": "B017",
+      "end_beat_id": "B032",
+      "start_time": 67.5,
+      "end_time": 117.2,
+      "duration": 49.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 opens on a tight macro close-up of a blackthorn needle stabbing a bleeding hand. Without prior context or wide visual establishment, a cold scroller cannot tell who this is, where they are, or why someone's hand is being lacerated.",
+        "arc_legibility": false,
+        "arc_rationale": "While the visceral action of searching for a ring in briars while a man is restrained is visually intense, a cold viewer has no context for why finding this ring matters, who the antagonist is, or why Alexander is being held by a constable.",
+        "passes_gate": false,
+        "situational_summary": "A woman crawls through a torturous briar patch searching for a buried ring while a restrained man screams for her to stop."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate physical self-sacrifice and agonizing struggle to recover a vital token"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Shows the climactic resolution to the briar patch ordeal and the successful recovery of the critical emerald ring."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_18",
+      "start_beat_id": "B017",
+      "end_beat_id": "B033",
+      "start_time": 67.5,
+      "end_time": 118.88,
+      "duration": 51.38,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 starts on an extreme macro insert of a thorn stabbing flesh. It lacks establishing geography, character orientation, or interpersonal dynamic in the opening 1\u20133 seconds.",
+        "arc_legibility": false,
+        "arc_rationale": "Fails standalone comprehension because the high-stakes setup (why she is forced into the briars, what the ring proves, who imposed this trial) is completely absent.",
+        "passes_gate": false,
+        "situational_summary": "A bloodied woman endures excruciating pain crawling through frozen brambles to retrieve a lost emerald ring while a helpless man watches in horror."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Excruciating physical endurance yielding to fierce triumph"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the climactic ending beat of the sequence where the lost ring is successfully seized."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_19",
+      "start_beat_id": "B020",
+      "end_beat_id": "B029",
+      "start_time": 78.0,
+      "end_time": 112.0,
+      "duration": 34.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 starts on a close-up of a hand snagging in thorns with an involuntary gasp ('Ah!'). Completely ungrounded mid-action start with no establishing perspective.",
+        "arc_legibility": false,
+        "arc_rationale": "Lacks the foundational narrative setup; a viewer cannot identify the antagonist or understand the core terms of the conflict.",
+        "passes_gate": false,
+        "situational_summary": "A woman screams in pain as she crawls through thorns to grab an antique emerald ring buried in the dirt."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate physical race against pain to secure a buried prize"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Depicts the decisive discovery and retrieval of the hidden emerald signet ring."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_20",
+      "start_beat_id": "B021",
+      "end_beat_id": "B033",
+      "start_time": 80.5,
+      "end_time": 118.88,
+      "duration": 38.38,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B021 begins on a mid-scuffle lunge with an ungrounded shout ('Stop!'). A cold scroller does not know who is charging, who is stopping them, or what the stakes are.",
+        "arc_legibility": false,
+        "arc_rationale": "The clip drops the viewer mid-struggle without explaining the stakes of the Constable's restraint or why the ring's retrieval resolves the conflict.",
+        "passes_gate": false,
+        "situational_summary": "A restrained man desperately fights his captor while a woman endures thorns to unearth a hidden emerald ring."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Helpless rage contrasted with gritty, agonizing physical determination"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Shows the episode climax where the ring is found, concluding the briar trial."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_21",
+      "start_beat_id": "B022",
+      "end_beat_id": "B033",
+      "start_time": 83.0,
+      "end_time": 118.88,
+      "duration": 35.88,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 starts on an in-media-res close-up scream of agony ('Ahhh!') and crawling through branches without establishing who she is, where she is, why she is in the brambles, or the larger interpersonal confrontation.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full arc, the external struggle between Alexander and the Constable combined with Juliana's desperate hunt for the hidden emerald ring establishes high physical and emotional stakes, culminating in her reclaiming the ring.",
+        "passes_gate": false,
+        "situational_summary": "While a distraught ally is physically restrained by an officer at a gate, a bleeding woman claws through a frozen briar patch to desperately recover an emerald ring."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral agony and desperate physical sacrifice culminating in fierce triumph"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the discovery and recovery of the hidden emerald signet ring, a pivotal plot artifact."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_22",
+      "start_beat_id": "B023",
+      "end_beat_id": "B033",
+      "start_time": 86.0,
+      "end_time": 118.88,
+      "duration": 32.88,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B023 opens with a constable grappling a man shouting a character name ('Juliana!') against a gate, which functions as an ungrounded mid-action reaction without establishing who is being restrained or why.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative develops clearly between Alexander being held back and Juliana enduring severe pain to search the frozen earth until she successfully seizes the lost emerald ring.",
+        "passes_gate": false,
+        "situational_summary": "A man held back by authority watches helplessly as an injured woman claws through thorny ground to retrieve a lost heirloom ring."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Desperate struggle against authority paired with painful physical endurance and triumph"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Depicts the climactic discovery and seizure of the emerald ring in the briar patch."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_23",
+      "start_beat_id": "B024",
+      "end_beat_id": "B033",
+      "start_time": 89.0,
+      "end_time": 118.88,
+      "duration": 29.88,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B024 opens on a tight ground-level shot of a woman frantically digging in dirt with bloody hands without establishing setting, identity, or narrative purpose for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full duration, the intercut between a man yelling in anguish against a constable and Juliana's focused search clarifies that she is risking severe injury to recover an invaluable ring.",
+        "passes_gate": false,
+        "situational_summary": "An injured woman frantically digs through frozen briars to find a buried emerald ring while a companion is restrained nearby."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate manual search under physical duress ending in emotional victory"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Shows the retrieval of the emerald signet ring from beneath the brambles."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP013_24",
+      "start_beat_id": "B026",
+      "end_beat_id": "B033",
+      "start_time": 97.0,
+      "end_time": 118.88,
+      "duration": 21.88,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 opens on a tight close-up of a lacerated woman lying in thorns begging an inanimate object ('Please, ring... you have to be here'), lacking establishing orientation or baseline context for who she is or why she is trapped there.",
+        "arc_legibility": true,
+        "arc_rationale": "The short sequence clearly demonstrates her desperate quest to locate a specific ring amidst bodily suffering and ends on her triumphant grasp of the jewel.",
+        "passes_gate": false,
+        "situational_summary": "A bloodied woman trapped in a briar patch searches the frozen earth and clutches a long-sought emerald ring in fierce defiance of the pain."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Painful physical endurance turning into triumphant vindication"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the exact location and recovery of the missing emerald ring."
+      }
+    }
+  ]
+}

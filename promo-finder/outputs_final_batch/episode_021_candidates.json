@@ -1,0 +1,906 @@
+{
+  "episode_number": 21,
+  "total_candidates": 15,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP021_01",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B002",
+      "end_beat_id": "B005",
+      "start_time": 3.5,
+      "end_time": 30.9,
+      "duration": 27.4,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Prudence's frantic cry ('Lady Juliana! Please! You have to help me, Toby is dying!') instantly introduces life-or-death stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Doors violently bursting open to reveal a weeping village girl framed against overcast light creates immediate visual motion and disruption.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B005",
+        "curiosity_gap_score": 4,
+        "specific_question": "How can Lady Juliana save Toby when her cottage is burned to ashes and she has nothing left but coltsfoot?",
+        "stakes_importance": "High \u2014 establishes catastrophic odds where the protagonist has virtually no resources to treat a dying boy.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B002",
+          "end_beat_id": "B005",
+          "start_time": 3.5,
+          "end_time": 30.9,
+          "duration": 27.4,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_02",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B002",
+      "end_beat_id": "B006",
+      "start_time": 3.5,
+      "end_time": 35.8,
+      "duration": 32.3,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Prudence's frantic cry ('Lady Juliana! Please! You have to help me, Toby is dying!') instantly introduces life-or-death stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Doors violently bursting open to reveal a weeping village girl framed against overcast light creates immediate visual motion and disruption.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Lady Juliana take on the desperate plea to save Toby or refuse due to her ruined circumstances?",
+        "stakes_importance": "High \u2014 life-or-death supplication resting entirely on Lady Juliana's decision.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B002",
+          "end_beat_id": "B006",
+          "start_time": 3.5,
+          "end_time": 35.8,
+          "duration": 32.3,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_03",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B002",
+      "end_beat_id": "B007",
+      "start_time": 3.5,
+      "end_time": 40.5,
+      "duration": 37.0,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Prudence's frantic cry ('Lady Juliana! Please! You have to help me, Toby is dying!') instantly introduces life-or-death stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Doors violently bursting open to reveal a weeping village girl framed against overcast light creates immediate visual motion and disruption.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will Lady Juliana reach Toby in time with her ledger before his condition proves fatal?",
+        "stakes_importance": "Medium \u2014 transition into active emergency rescue mission with ticking-clock stakes.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B002",
+          "end_beat_id": "B007",
+          "start_time": 3.5,
+          "end_time": 40.5,
+          "duration": 37.0,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_04",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B003",
+      "end_beat_id": "B006",
+      "start_time": 11.2,
+      "end_time": 35.8,
+      "duration": 24.6,
+      "hook_signal": {
+        "beat_id": "B003",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Presents an active medical emergency ('his chest is burning! He cannot breathe!'), sustaining high emotional urgency.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of Prudence weeping and clutching her chest in agony demonstrates clear emotional distress without sound.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Lady Juliana take on the desperate plea to save Toby or refuse due to her ruined circumstances?",
+        "stakes_importance": "High \u2014 life-or-death supplication resting entirely on Lady Juliana's decision.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B003",
+          "end_beat_id": "B006",
+          "start_time": 11.2,
+          "end_time": 35.8,
+          "duration": 24.6,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_05",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B004",
+      "end_beat_id": "B007",
+      "start_time": 18.2,
+      "end_time": 40.5,
+      "duration": 22.3,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Highlights cruel social conflict and exclusion ('He shut the door in my face because we have no silver!').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "A close-up with a face twisted in bitter anguish and an outward gesture, but relatively standard conversational framing.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will Lady Juliana reach Toby in time with her ledger before his condition proves fatal?",
+        "stakes_importance": "Medium \u2014 transition into active emergency rescue mission with ticking-clock stakes.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B004",
+          "end_beat_id": "B007",
+          "start_time": 18.2,
+          "end_time": 40.5,
+          "duration": 22.3,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_06",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B009",
+      "end_beat_id": "B014",
+      "start_time": 42.8,
+      "end_time": 64.5,
+      "duration": 21.7,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle medium shot of a sick seven-year-old boy lying helpless on a straw pallet by the fire clearly signals a child in jeopardy without audio.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B014",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will Toby inhale the herbal steam and begin to clear his blocked airway?",
+        "stakes_importance": "High \u2014 immediate climactic action of the medical rescue.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B009",
+          "end_beat_id": "B014",
+          "start_time": 42.8,
+          "end_time": 64.5,
+          "duration": 21.7,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_07",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B009",
+      "end_beat_id": "B015",
+      "start_time": 42.8,
+      "end_time": 66.8,
+      "duration": 24.0,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle medium shot of a sick seven-year-old boy lying helpless on a straw pallet by the fire clearly signals a child in jeopardy without audio.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will the weak boy be able to breathe in the medicine, or will his lungs reject it?",
+        "stakes_importance": "High \u2014 suspended moment right before the treatment takes effect.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B009",
+          "end_beat_id": "B015",
+          "start_time": 42.8,
+          "end_time": 66.8,
+          "duration": 24.0,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_08",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B009",
+      "end_beat_id": "B016",
+      "start_time": 42.8,
+      "end_time": 70.5,
+      "duration": 27.7,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle medium shot of a sick seven-year-old boy lying helpless on a straw pallet by the fire clearly signals a child in jeopardy without audio.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B016",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will the medicinal vapor succeed in breaking Toby's life-threatening chest congestion?",
+        "stakes_importance": "High \u2014 the exact final inhalation effort before knowing if the boy lives or dies.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B009",
+          "end_beat_id": "B016",
+          "start_time": 42.8,
+          "end_time": 70.5,
+          "duration": 27.7,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_09",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B009",
+      "end_beat_id": "B021",
+      "start_time": 42.8,
+      "end_time": 99.2,
+      "duration": 56.4,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle medium shot of a sick seven-year-old boy lying helpless on a straw pallet by the fire clearly signals a child in jeopardy without audio.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 4,
+        "specific_question": "Has something catastrophic happened to the Dowager Duchess?",
+        "stakes_importance": "High \u2014 raises the identity of a key high-status noble whose fate carries massive political and narrative weight.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B009",
+          "end_beat_id": "B021",
+          "start_time": 42.8,
+          "end_time": 99.2,
+          "duration": 56.4,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_10",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B010",
+      "end_beat_id": "B021",
+      "start_time": 45.5,
+      "end_time": 99.2,
+      "duration": 53.7,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "States an alarming medical symptom ('His skin is burning hot.'), but functions primarily as clinical observation.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Hurrying into the room and rapidly flipping open an ancient botanical ledger creates focused visual investigative tension.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 4,
+        "specific_question": "Has something catastrophic happened to the Dowager Duchess?",
+        "stakes_importance": "High \u2014 raises the identity of a key high-status noble whose fate carries massive political and narrative weight.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B010",
+          "end_beat_id": "B021",
+          "start_time": 45.5,
+          "end_time": 99.2,
+          "duration": 53.7,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_11",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B011",
+      "end_beat_id": "B020",
+      "start_time": 48.8,
+      "end_time": 96.5,
+      "duration": 47.7,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Standard emergency procedural command ('Prudence, fetch hot water immediately!').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Bandaged hand pressed to a sweating, wheezing child's forehead with an anxious onlooker in the background makes the peril immediately legible.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 3,
+        "specific_question": "What secret health crisis is afflicting the grand manor that their gold cannot fix?",
+        "stakes_importance": "Medium \u2014 seeds a provocative secret and thematic reversal regarding the untouchable aristocracy.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B011",
+          "end_beat_id": "B020",
+          "start_time": 48.8,
+          "end_time": 96.5,
+          "duration": 47.7,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_12",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B011",
+      "end_beat_id": "B021",
+      "start_time": 48.8,
+      "end_time": 99.2,
+      "duration": 50.4,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Standard emergency procedural command ('Prudence, fetch hot water immediately!').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Bandaged hand pressed to a sweating, wheezing child's forehead with an anxious onlooker in the background makes the peril immediately legible.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 4,
+        "specific_question": "Has something catastrophic happened to the Dowager Duchess?",
+        "stakes_importance": "High \u2014 raises the identity of a key high-status noble whose fate carries massive political and narrative weight.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B011",
+          "end_beat_id": "B021",
+          "start_time": 48.8,
+          "end_time": 99.2,
+          "duration": 50.4,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_13",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B011",
+      "end_beat_id": "B022",
+      "start_time": 48.8,
+      "end_time": 101.2,
+      "duration": 52.4,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Standard emergency procedural command ('Prudence, fetch hot water immediately!').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Bandaged hand pressed to a sweating, wheezing child's forehead with an anxious onlooker in the background makes the peril immediately legible.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 4,
+        "specific_question": "What is killing the Dowager Duchess, and can anyone intervene?",
+        "stakes_importance": "High \u2014 confirms a shocking, high-stakes mortality crisis at the highest level of society.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B011",
+          "end_beat_id": "B022",
+          "start_time": 48.8,
+          "end_time": 101.2,
+          "duration": 52.4,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_14",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B011",
+      "end_beat_id": "B023",
+      "start_time": 48.8,
+      "end_time": 108.5,
+      "duration": 59.7,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Standard emergency procedural command ('Prudence, fetch hot water immediately!').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Bandaged hand pressed to a sweating, wheezing child's forehead with an anxious onlooker in the background makes the peril immediately legible.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 5,
+        "specific_question": "What is the strange illness destroying the Dowager Duchess, and why are all manor doctors powerless against it?",
+        "stakes_importance": "High \u2014 unveils a fatal aristocratic mystery juxtaposed against Juliana's proven forbidden/forgotten remedies.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B011",
+          "end_beat_id": "B023",
+          "start_time": 48.8,
+          "end_time": 108.5,
+          "duration": 59.7,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP021_15",
+      "episode": "Episode 21",
+      "episode_number": 21,
+      "start_beat_id": "B020",
+      "end_beat_id": "B024",
+      "start_time": 91.0,
+      "end_time": 114.0,
+      "duration": 23.0,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Delivers a sharp, thematic accusation against the nobility ('At the grand manor, they ignore us... But their gold cannot buy them health.').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Low-angle shot past the sleeping child showing Prudence's face darkening with anger introduces noticeable mood friction.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B024",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Lady Juliana risk stepping into the hostile grand manor using her mother's secret remedies to cure the dying Duchess?",
+        "stakes_importance": "High \u2014 the ultimate narrative threshold: protagonist connects the dots and resolves to challenge the corrupt manor world with her forbidden herbal ledger.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 21,
+          "start_beat_id": "B020",
+          "end_beat_id": "B024",
+          "start_time": 91.0,
+          "end_time": 114.0,
+          "duration": 23.0,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

@@ -1,0 +1,999 @@
+{
+  "episode": "Episode 37",
+  "episode_number": 37,
+  "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+  "continuity_notes": "Following Alexander's vow to return in two days to disrupt the wedding, Rupert and Catherine prepare to cement their coup by inviting high society to celebrate their nuptials and witness Juliana's execution.",
+  "duration": 156.47,
+  "total_beats": 37,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 5.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot tilting down to a polished mahogany table as a white-gloved servant places a tall stack of wax-sealed wedding invitations onto a silver tray.",
+          "start": 0.0,
+          "end": 5.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "The crisp tap of heavy cardstock envelopes being set down onto silver.",
+          "start": 1.5,
+          "end": 3.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B002",
+      "start": 5.5,
+      "end": 9.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot framed symmetrically down the vaulted, sunlit hallway. Blond Nobleman Rupert stands tall in a black embroidered frock coat, facing Catherine in an ornate pink gown.",
+          "start": 5.5,
+          "end": 9.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Every important family in the county should witness it.",
+          "start": 6.0,
+          "end": 9.3,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Rupert, Cold, Calculating"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B003",
+      "start": 9.5,
+      "end": 12.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine looking down at the invitations, her braided blonde hair immaculately pinned, before she raises her eyes with a slight smirk.",
+          "start": 9.5,
+          "end": 12.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The wedding?",
+          "start": 10.8,
+          "end": 12.4,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Inquiring, Smug"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B004",
+      "start": 12.5,
+      "end": 15.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Rupert, his sharp aristocratic features set in cold conviction.",
+          "start": 12.5,
+          "end": 15.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The transfer of Ashbridge.",
+          "start": 12.8,
+          "end": 14.8,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Rupert, Authoritative"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B005",
+      "start": 15.0,
+      "end": 18.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Catherine picking up one of the invitations, turning it over in her gloved hands with predatory delight.",
+          "start": 15.0,
+          "end": 18.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "After the ceremony, no one will question who owns this house.",
+          "start": 15.6,
+          "end": 18.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Gloating"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B006",
+      "start": 18.8,
+      "end": 23.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Intense close-up of Rupert leaning in slightly, his eyes narrowing with venomous malice.",
+          "start": 18.8,
+          "end": 23.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And no one will question what happened to the woman who tried to stop us.",
+          "start": 19.0,
+          "end": 23.0,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Rupert, Sinister, Ruthless"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B007",
+      "start": 23.2,
+      "end": 26.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Catherine as a cruel sneer twists her lips.",
+          "start": 23.2,
+          "end": 26.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Juliana's execution comes after the wedding.",
+          "start": 23.8,
+          "end": 26.4,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Venomous Satisfaction"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B008",
+      "start": 26.5,
+      "end": 30.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot framing the two conspirators beneath the towering archways of the estate.",
+          "start": 26.5,
+          "end": 30.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Perfect timing. It will be a feast for our guests.",
+          "start": 26.6,
+          "end": 29.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Gleeful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B009",
+      "start": 30.0,
+      "end": 32.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Rupert turning his gaze toward the grand entrance.",
+          "start": 30.0,
+          "end": 32.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Send the invitations.",
+          "start": 30.2,
+          "end": 32.2,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Rupert, Decisive"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B010",
+      "start": 32.5,
+      "end": 34.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine looking sideways with narrowed eyes.",
+          "start": 32.5,
+          "end": 34.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Especially to the Ashcrofts.",
+          "start": 32.8,
+          "end": 34.5,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Spiteful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B011",
+      "start": 34.5,
+      "end": 37.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide tracking shot down a palatial marble hall as a butler carries a silver tray toward double doors.",
+          "start": 34.5,
+          "end": 37.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B012",
+      "start": 37.0,
+      "end": 44.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot inside an opulent drawing room with a roaring fireplace. Lady Clarissa sits gracefully in an emerald satin gown as the butler presents the tray.",
+          "start": 37.0,
+          "end": 39.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Lady Clarissa, an invitation from Ashbridge Manor.",
+          "start": 37.0,
+          "end": 39.8,
+          "timestamp_source": "given",
+          "character": "BUTLER",
+          "emotion": "Formal"
+        },
+        {
+          "type": "action",
+          "description": "Clarissa takes the cream envelope, breaks the red wax seal with her gloved thumbs, and slides out the heavy card.",
+          "start": 39.5,
+          "end": 44.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B013",
+      "start": 44.0,
+      "end": 46.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Clarissa's face lighting up with malicious excitement, the warm hearth flickering in the background.",
+          "start": 44.0,
+          "end": 46.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Catherine's wedding.",
+          "start": 44.5,
+          "end": 46.5,
+          "timestamp_source": "given",
+          "character": "LADY CLARISSA",
+          "emotion": "Amused, Thrilled"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B014",
+      "start": 46.8,
+      "end": 49.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot as her dark-haired husband steps up behind her chair, crossing his arms.",
+          "start": 46.8,
+          "end": 49.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "So it is finally official.",
+          "start": 47.0,
+          "end": 49.2,
+          "timestamp_source": "given",
+          "character": "NOBLEMAN",
+          "emotion": "Observant"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B015",
+      "start": 49.5,
+      "end": 53.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Clarissa smiling down at the calligraphy.",
+          "start": 49.5,
+          "end": 53.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Lady Catherine Ashbridge.",
+          "start": 50.0,
+          "end": 52.8,
+          "timestamp_source": "given",
+          "character": "LADY CLARISSA",
+          "emotion": "Mockingly Reverent"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B016",
+      "start": 53.0,
+      "end": 56.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot as Clarissa unfolds the second page attached to the invitation, her expression shifting to intrigue.",
+          "start": 53.0,
+          "end": 56.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And after the ceremony...",
+          "start": 54.0,
+          "end": 56.2,
+          "timestamp_source": "given",
+          "character": "LADY CLARISSA",
+          "emotion": "Intrigued"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B017",
+      "start": 56.2,
+      "end": 58.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "What?",
+          "start": 56.2,
+          "end": 57.2,
+          "timestamp_source": "given",
+          "character": "NOBLEMAN",
+          "emotion": "Curious"
+        },
+        {
+          "type": "action",
+          "description": "Clarissa hands the letter upward to him. He takes it and looks down at the bold heading.",
+          "start": 56.8,
+          "end": 58.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B018",
+      "start": 58.5,
+      "end": 62.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the nobleman reading, his eyes widening in shock before breaking into a grin.",
+          "start": 58.5,
+          "end": 62.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The sentencing of the condemned.",
+          "start": 58.8,
+          "end": 61.8,
+          "timestamp_source": "given",
+          "character": "NOBLEMAN",
+          "emotion": "Reading in Awe"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B019",
+      "start": 62.0,
+      "end": 65.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Clarissa turning back to the fire, laughing softly with dark delight.",
+          "start": 62.0,
+          "end": 65.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "They want the families to witness it.",
+          "start": 62.8,
+          "end": 65.5,
+          "timestamp_source": "given",
+          "character": "LADY CLARISSA",
+          "emotion": "Gloating, Mocking"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B020",
+      "start": 65.5,
+      "end": 69.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of the nobleman holding the invitation, chuckling at the audacity.",
+          "start": 65.5,
+          "end": 69.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "A public execution after a wedding.",
+          "start": 66.5,
+          "end": 68.8,
+          "timestamp_source": "given",
+          "character": "NOBLEMAN",
+          "emotion": "Fascinated"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B021",
+      "start": 69.0,
+      "end": 72.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium profile shot of Clarissa gazing back at him over her shoulder.",
+          "start": 69.0,
+          "end": 72.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Not just an execution. A warning.",
+          "start": 69.5,
+          "end": 72.2,
+          "timestamp_source": "given",
+          "character": "LADY CLARISSA",
+          "emotion": "Chilling, Sharp"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B022",
+      "start": 72.5,
+      "end": 75.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the nobleman's stern face, leaning down.",
+          "start": 72.5,
+          "end": 75.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "To whom?",
+          "start": 73.0,
+          "end": 74.2,
+          "timestamp_source": "given",
+          "character": "NOBLEMAN",
+          "emotion": "Curious"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B023",
+      "start": 75.5,
+      "end": 82.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Clarissa taking the letter back into her gloved fingers, her eyes gleaming with aristocratic cruelty.",
+          "start": 75.5,
+          "end": 82.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "To every woman who thinks she can rise above the place she was given.",
+          "start": 77.0,
+          "end": 81.8,
+          "timestamp_source": "given",
+          "character": "LADY CLARISSA",
+          "emotion": "Contemptuous, Scornful"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B024",
+      "start": 82.5,
+      "end": 88.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot of the parlor as Clarissa tosses the invitation dismissively onto the side table and looks directly toward the viewer.",
+          "start": 82.5,
+          "end": 88.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Juliana's ruin will be a lesson. And we will be there to watch.",
+          "start": 83.0,
+          "end": 87.5,
+          "timestamp_source": "given",
+          "character": "LADY CLARISSA",
+          "emotion": "Smug Triumph"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 DAY"
+    },
+    {
+      "beat_id": "B025",
+      "start": 88.0,
+      "end": 92.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide, dim shot of the subterranean stone dungeon. Juliana sits slumped against a weeping stone wall on the wet floor, dressed in a tattered prison smock, illuminated only by faint overhead moonlight piercing a ceiling grate.",
+          "start": 88.0,
+          "end": 92.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Rhythmic water drips splashing onto stagnant dungeon puddles and a low, mournful ambient drone.",
+          "start": 88.5,
+          "end": 92.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ASHBRIDGE DUNGEON \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B026",
+      "start": 92.0,
+      "end": 95.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.",
+          "start": 92.0,
+          "end": 95.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana curls her fingers back, pulling away from the foul sustenance in defiance.",
+          "start": 93.5,
+          "end": 95.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ASHBRIDGE DUNGEON \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B027",
+      "start": 95.5,
+      "end": 100.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Juliana's dirty, tear-stained face. Her eyes squeeze shut as tears stream down her cheeks from overwhelming physical agony and hunger.",
+          "start": 95.5,
+          "end": 100.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "They think hunger will make me surrender.",
+          "start": 96.0,
+          "end": 99.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Weak, Whispering through Tears"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ASHBRIDGE DUNGEON \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B028",
+      "start": 100.5,
+      "end": 103.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Juliana's blue eyes snapping open, blazing with unyielding defiance.",
+          "start": 100.5,
+          "end": 103.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "They think fear will make me beg.",
+          "start": 100.8,
+          "end": 103.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Fierce Resolve"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ASHBRIDGE DUNGEON \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B029",
+      "start": 103.5,
+      "end": 108.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Full shot of Juliana using her bare hands against the slimy stone floor to drag herself upright to her knees, chains rattling loudly.",
+          "start": 103.5,
+          "end": 108.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "The harsh scrape and clatter of heavy iron chains dragging across wet stone.",
+          "start": 104.0,
+          "end": 107.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I will not!",
+          "start": 105.5,
+          "end": 107.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Straining, Defiant Gasps"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ASHBRIDGE DUNGEON \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B030",
+      "start": 108.5,
+      "end": 113.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot looking up at Juliana as she thrusts her chin high toward the iron ceiling grate, bathed in cold shafts of light.",
+          "start": 108.5,
+          "end": 113.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "They can take my name. They can take my home.",
+          "start": 109.0,
+          "end": 112.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Passionate Defiance"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ASHBRIDGE DUNGEON \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B031",
+      "start": 113.5,
+      "end": 116.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Juliana's iron-shackled hand reaching out and gripping the massive iron ring anchored into the dungeon pillar with crushing determination.",
+          "start": 113.5,
+          "end": 116.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "They cannot take who I am!",
+          "start": 113.6,
+          "end": 116.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Indomitable Spirit"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "INT. ASHBRIDGE DUNGEON \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B032",
+      "start": 116.5,
+      "end": 120.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot in the dimly lit parlor, illuminated by the warm glow of the fireplace. Clarissa now wears a deep blue velvet gown, reclining in an armchair beside the nobleman.",
+          "start": 116.5,
+          "end": 120.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Do you think she'll actually be executed?",
+          "start": 117.2,
+          "end": 119.8,
+          "timestamp_source": "given",
+          "character": "NOBLEMAN",
+          "emotion": "Quietly Skeptical"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B033",
+      "start": 120.0,
+      "end": 124.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Clarissa giving a slight, dismissive scoff before turning to him with cold certainty.",
+          "start": 120.0,
+          "end": 124.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "After what she has been accused of? Of course.",
+          "start": 120.5,
+          "end": 124.2,
+          "timestamp_source": "given",
+          "character": "LADY CLARISSA",
+          "emotion": "Dismissive, Certain"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B034",
+      "start": 124.5,
+      "end": 127.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of the nobleman looking down pensively at the open execution clause on the table.",
+          "start": 124.5,
+          "end": 127.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "She was always stubborn.",
+          "start": 124.8,
+          "end": 126.5,
+          "timestamp_source": "given",
+          "character": "NOBLEMAN",
+          "emotion": "Musing"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B035",
+      "start": 127.0,
+      "end": 132.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Clarissa's face hardening with bitter resentment.",
+          "start": 127.0,
+          "end": 132.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly.",
+          "start": 127.5,
+          "end": 132.0,
+          "timestamp_source": "given",
+          "character": "LADY CLARISSA",
+          "emotion": "Bitter, Cold"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B036",
+      "start": 132.5,
+      "end": 141.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Clarissa rises from her armchair holding a cut crystal glass filled with dark red wine, pacing toward the fireplace.",
+          "start": 132.5,
+          "end": 136.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium tracking shot showing Clarissa standing tall beside her husband, her posture regal and vindictive.",
+          "start": 132.5,
+          "end": 141.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Instead she married a nobody, played healer to peasants, challenged people above her. And now the whole county will watch her pay for it.",
+          "start": 134.0,
+          "end": 141.0,
+          "timestamp_source": "given",
+          "character": "LADY CLARISSA",
+          "emotion": "Venomous Monologue"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B037",
+      "start": 141.5,
+      "end": 156.47,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up on Clarissa's face glowing in the firelight. Her lips curl into a merciless smile as she lifts the crystal glass to her mouth and drinks.",
+          "start": 141.5,
+          "end": 147.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Let them see what happens when a woman forgets her place.",
+          "start": 142.5,
+          "end": 146.5,
+          "timestamp_source": "given",
+          "character": "LADY CLARISSA",
+          "emotion": "Chilling Proclamation"
+        },
+        {
+          "type": "action",
+          "description": "Clarissa takes a slow sip of the red wine, her eyes gleaming with dark relish.",
+          "start": 145.5,
+          "end": 148.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Slow push-in on the dark polished tabletop where the open invitation lies beside the wax seal. The bold Gothic lettering \"EXECUTION CLAUSE\" sits beneath the gold crest, while the fire dances reflected on the mahogany.",
+          "start": 147.5,
+          "end": 156.47,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tension-filled cliffhanger sting before fading out.",
+          "start": 148.0,
+          "end": 156.47,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. NOBLE MANOR - PARLOR \u2013 NIGHT"
+    }
+  ]
+}

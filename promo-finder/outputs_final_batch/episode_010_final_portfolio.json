@@ -1,0 +1,337 @@
+{
+  "episode_number": 10,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP010_08",
+      "absolute_rubric_score": 9.0,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B013",
+        "end_beat_id": "B030",
+        "start_time": 33.2,
+        "end_time": 79.0,
+        "duration": 45.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Perhaps it is your hand.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Will Juliana pull back or surrender to Alexander's kiss as they lean mere inches apart?"
+      },
+      "situational_summary": "While treating a wounded warrior's scars by firelight, a woman's composure crumbles as they draw mere inches apart on the verge of a passionate kiss.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP010_13",
+      "absolute_rubric_score": 8.5,
+      "subscores": {
+        "hook_score": 1.8,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "mmr_score": 0.108,
+      "max_similarity_to_selected": 0.8601,
+      "boundary": {
+        "start_beat_id": "B017",
+        "end_beat_id": "B030",
+        "start_time": 43.0,
+        "end_time": 79.0,
+        "duration": 36.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Perhaps it is your hand.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Will Juliana pull back or surrender to Alexander's kiss as they lean mere inches apart?"
+      },
+      "situational_summary": "While tending to a stoic warrior's wounds, a young woman finds their shared vulnerability transforming into charged, unspoken romantic tension as he leans in close.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 0
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP010_04",
+      "absolute_rubric_score": 6.3,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 1.5,
+        "cliffhanger_score": 1.1,
+        "resonance_score": 1.5
+      },
+      "mmr_score": -0.2339,
+      "max_similarity_to_selected": 0.8864,
+      "boundary": {
+        "start_beat_id": "B013",
+        "end_beat_id": "B025",
+        "start_time": 33.2,
+        "end_time": 63.0,
+        "duration": 29.8,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "What intense feelings is Alexander harboring as he stares so deeply at Juliana?"
+      },
+      "situational_summary": "As a scarred, bleeding man removes his shirt, a compassionate woman tends to his wounds with herbal salve while an intense, unspoken romantic tension builds between them.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP010_02",
+      "absolute_rubric_score": 5.7,
+      "subscores": {
+        "hook_score": 0.5,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 1.6
+      },
+      "mmr_score": -0.263,
+      "max_similarity_to_selected": 0.8288,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B017",
+        "start_time": 0.0,
+        "end_time": 45.0,
+        "duration": 45.0,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Will Juliana actually touch his scarred chest, and how will Alexander react to her intimacy?"
+      },
+      "situational_summary": "After an injured man bursts into a cottage downplaying his bleeding wounds, a woman forces him to remove his shirt, leading to an intimate confrontation with his brutal scars.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP010_09",
+      "rank": 3,
+      "recommended_boundary": "B013 -> B031",
+      "similarity": 0.9212,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9212 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP010_07",
+      "rank": 4,
+      "recommended_boundary": "B013 -> B029",
+      "similarity": 0.9516,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9516 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP010_06",
+      "rank": 5,
+      "recommended_boundary": "B013 -> B027",
+      "similarity": 0.9304,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9304 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP010_10",
+      "rank": 6,
+      "recommended_boundary": "B013 -> B032",
+      "similarity": 0.9313,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9313 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP010_05",
+      "rank": 7,
+      "recommended_boundary": "B013 -> B026",
+      "similarity": 0.9399,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9399 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP010_09",
+      "rank": 3,
+      "recommended_boundary": "B013 -> B031",
+      "similarity": 0.9212,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9212 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP010_07",
+      "rank": 4,
+      "recommended_boundary": "B013 -> B029",
+      "similarity": 0.9516,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9516 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP010_06",
+      "rank": 5,
+      "recommended_boundary": "B013 -> B027",
+      "similarity": 0.9304,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9304 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP010_10",
+      "rank": 6,
+      "recommended_boundary": "B013 -> B032",
+      "similarity": 0.9313,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9313 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP010_05",
+      "rank": 7,
+      "recommended_boundary": "B013 -> B026",
+      "similarity": 0.9399,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9399 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP010_09",
+      "rank": 3,
+      "recommended_boundary": "B013 -> B031",
+      "similarity": 0.9212,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9212 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP010_07",
+      "rank": 4,
+      "recommended_boundary": "B013 -> B029",
+      "similarity": 0.9516,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9516 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP010_06",
+      "rank": 5,
+      "recommended_boundary": "B013 -> B027",
+      "similarity": 0.9304,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9304 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP010_10",
+      "rank": 6,
+      "recommended_boundary": "B013 -> B032",
+      "similarity": 0.9313,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9313 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP010_05",
+      "rank": 7,
+      "recommended_boundary": "B013 -> B026",
+      "similarity": 0.9399,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9399 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP010_09",
+      "rank": 3,
+      "recommended_boundary": "B013 -> B031",
+      "similarity": 0.9212,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9212 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP010_07",
+      "rank": 4,
+      "recommended_boundary": "B013 -> B029",
+      "similarity": 0.9516,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9516 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP010_06",
+      "rank": 5,
+      "recommended_boundary": "B013 -> B027",
+      "similarity": 0.9304,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9304 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP010_10",
+      "rank": 6,
+      "recommended_boundary": "B013 -> B032",
+      "similarity": 0.9313,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9313 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP010_05",
+      "rank": 7,
+      "recommended_boundary": "B013 -> B026",
+      "similarity": 0.9399,
+      "duplicate_of": "CAND_EP010_08",
+      "reason": "Exceeded near-duplicate threshold (0.9399 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP010_01",
+      "rank": 10,
+      "recommended_boundary": "B001 -> B013",
+      "similarity": 0.9286,
+      "duplicate_of": "CAND_EP010_02",
+      "reason": "Exceeded near-duplicate threshold (0.9286 >= 0.90)"
+    }
+  ]
+}

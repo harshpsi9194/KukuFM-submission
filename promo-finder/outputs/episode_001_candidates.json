@@ -1,0 +1,2208 @@
+{
+  "episode_number": 1,
+  "total_candidates": 33,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP001_01",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 20.5,
+      "duration": 20.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High scroll-stop potential: opening cathedral doors reveal a lone bride in white silk framed against bright light, establishing genre and visual drama on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Juliana react to learning her groom is no longer waiting for her?",
+        "stakes_importance": "High \u2014 blunt, devastating declaration stripping away Juliana's entire future in public.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B001",
+          "end_beat_id": "B008",
+          "start_time": 0.0,
+          "end_time": 20.5,
+          "duration": 20.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_02",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "start_time": 0.0,
+      "end_time": 29.8,
+      "duration": 29.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High scroll-stop potential: opening cathedral doors reveal a lone bride in white silk framed against bright light, establishing genre and visual drama on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 4,
+        "specific_question": "What unspeakable scene awaits Juliana as she steps up to the altar?",
+        "stakes_importance": "High \u2014 physical motion toward a guaranteed emotional catastrophe in front of the crowd.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B001",
+          "end_beat_id": "B010",
+          "start_time": 0.0,
+          "end_time": 29.8,
+          "duration": 29.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_03",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B001",
+      "end_beat_id": "B012",
+      "start_time": 0.0,
+      "end_time": 33.7,
+      "duration": 33.7,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High scroll-stop potential: opening cathedral doors reveal a lone bride in white silk framed against bright light, establishing genre and visual drama on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B012",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Gerald dare to acknowledge his bride while standing with another woman?",
+        "stakes_importance": "High \u2014 direct visual confrontation between the bride, the groom, and the usurper.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B001",
+          "end_beat_id": "B012",
+          "start_time": 0.0,
+          "end_time": 33.7,
+          "duration": 33.7,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_04",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B001",
+      "end_beat_id": "B014",
+      "start_time": 0.0,
+      "end_time": 39.0,
+      "duration": 39.0,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High scroll-stop potential: opening cathedral doors reveal a lone bride in white silk framed against bright light, establishing genre and visual drama on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B014",
+        "curiosity_gap_score": 4,
+        "specific_question": "What excuse will Gerald or the woman give for clasping hands at Juliana's wedding?",
+        "stakes_importance": "High \u2014 direct accusation demanding an explanation for blatant public betrayal.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B001",
+          "end_beat_id": "B014",
+          "start_time": 0.0,
+          "end_time": 39.0,
+          "duration": 39.0,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_05",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B001",
+      "end_beat_id": "B015",
+      "start_time": 0.0,
+      "end_time": 41.5,
+      "duration": 41.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High scroll-stop potential: opening cathedral doors reveal a lone bride in white silk framed against bright light, establishing genre and visual drama on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana survive the seismic shock of her rival stealing her groom at the altar?",
+        "stakes_importance": "High \u2014 the ultimate microdrama inciting betrayal: the groom has been stolen.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B001",
+          "end_beat_id": "B015",
+          "start_time": 0.0,
+          "end_time": 41.5,
+          "duration": 41.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_06",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B004",
+      "end_beat_id": "B015",
+      "start_time": 9.8,
+      "end_time": 41.5,
+      "duration": 31.7,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama: profile shot reveals the groom holding another woman's hand at the altar while the bride walks toward them in the background.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana survive the seismic shock of her rival stealing her groom at the altar?",
+        "stakes_importance": "High \u2014 the ultimate microdrama inciting betrayal: the groom has been stolen.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B004",
+          "end_beat_id": "B015",
+          "start_time": 9.8,
+          "end_time": 41.5,
+          "duration": 31.7,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_07",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B004",
+      "end_beat_id": "B018",
+      "start_time": 9.8,
+      "end_time": 50.4,
+      "duration": 40.6,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama: profile shot reveals the groom holding another woman's hand at the altar while the bride walks toward them in the background.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Gerald deny the premeditated plot or admit he lured her into a trap?",
+        "stakes_importance": "High \u2014 emotional rupture as the bride calls out the premeditated cruelty of the family.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B004",
+          "end_beat_id": "B018",
+          "start_time": 9.8,
+          "end_time": 50.4,
+          "duration": 40.6,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_08",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B014",
+      "end_beat_id": "B021",
+      "start_time": 35.4,
+      "end_time": 60.1,
+      "duration": 24.7,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Heartbroken confrontation exposing public infidelity at the altar: 'Why are you holding her hand?'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper insert shot of the groom's fingers interlocked with another woman's gloved hand at the altar.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Gerald justify making Juliana wear her late mother's gown to a fake wedding?",
+        "stakes_importance": "High \u2014 exposes the profound cruelty of weaponizing sacred family memories against her.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B014",
+          "end_beat_id": "B021",
+          "start_time": 35.4,
+          "end_time": 60.1,
+          "duration": 24.7,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_09",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B014",
+      "end_beat_id": "B022",
+      "start_time": 35.4,
+      "end_time": 63.0,
+      "duration": 27.6,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Heartbroken confrontation exposing public infidelity at the altar: 'Why are you holding her hand?'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper insert shot of the groom's fingers interlocked with another woman's gloved hand at the altar.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 4,
+        "specific_question": "How can Gerald justify breaking his betrothal vows at the altar with zero remorse?",
+        "stakes_importance": "High \u2014 establishes the unprovoked cruelty of the groom.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B014",
+          "end_beat_id": "B022",
+          "start_time": 35.4,
+          "end_time": 63.0,
+          "duration": 27.6,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_10",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B014",
+      "end_beat_id": "B023",
+      "start_time": 35.4,
+      "end_time": 66.0,
+      "duration": 30.6,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Heartbroken confrontation exposing public infidelity at the altar: 'Why are you holding her hand?'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper insert shot of the groom's fingers interlocked with another woman's gloved hand at the altar.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Gerald dare to claim he never loved her, or reveal his true motive for discarding her?",
+        "stakes_importance": "High \u2014 direct challenge to the solemn vows of love and loyalty.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B014",
+          "end_beat_id": "B023",
+          "start_time": 35.4,
+          "end_time": 66.0,
+          "duration": 30.6,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_11",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B014",
+      "end_beat_id": "B024",
+      "start_time": 35.4,
+      "end_time": 68.8,
+      "duration": 33.4,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Heartbroken confrontation exposing public infidelity at the altar: 'Why are you holding her hand?'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper insert shot of the groom's fingers interlocked with another woman's gloved hand at the altar.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B024",
+        "curiosity_gap_score": 4,
+        "specific_question": "How could Juliana's own sister conspire to betray her so mercilessly?",
+        "stakes_importance": "High \u2014 reveals the usurper is her own sister, escalating betrayal into a familial conspiracy.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B014",
+          "end_beat_id": "B024",
+          "start_time": 35.4,
+          "end_time": 68.8,
+          "duration": 33.4,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_12",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B014",
+      "end_beat_id": "B027",
+      "start_time": 35.4,
+      "end_time": 79.0,
+      "duration": 43.6,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Heartbroken confrontation exposing public infidelity at the altar: 'Why are you holding her hand?'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper insert shot of the groom's fingers interlocked with another woman's gloved hand at the altar.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 5,
+        "specific_question": "Where does Juliana turn when both her lover and sister reveal her entire life was a lie?",
+        "stakes_importance": "High \u2014 total annihilation of the betrothal; confirms Juliana was targeted from the start.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B014",
+          "end_beat_id": "B027",
+          "start_time": 35.4,
+          "end_time": 79.0,
+          "duration": 43.6,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_13",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B015",
+      "end_beat_id": "B027",
+      "start_time": 39.0,
+      "end_time": 79.0,
+      "duration": 40.0,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Relationship-shattering shocker delivered with cruel gloating: 'Because he is marrying me.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of the rival beaming in malicious, cruel triumph makes the dynamic immediately legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 5,
+        "specific_question": "Where does Juliana turn when both her lover and sister reveal her entire life was a lie?",
+        "stakes_importance": "High \u2014 total annihilation of the betrothal; confirms Juliana was targeted from the start.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B015",
+          "end_beat_id": "B027",
+          "start_time": 39.0,
+          "end_time": 79.0,
+          "duration": 40.0,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_14",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B015",
+      "end_beat_id": "B029",
+      "start_time": 39.0,
+      "end_time": 83.7,
+      "duration": 44.7,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Relationship-shattering shocker delivered with cruel gloating: 'Because he is marrying me.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of the rival beaming in malicious, cruel triumph makes the dynamic immediately legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B029",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the father intervene to stop this atrocity, or has he sanctioned it?",
+        "stakes_importance": "High \u2014 a daughter begging on her knees for parental protection in front of high society.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B015",
+          "end_beat_id": "B029",
+          "start_time": 39.0,
+          "end_time": 83.7,
+          "duration": 44.7,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_15",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B015",
+      "end_beat_id": "B031",
+      "start_time": 39.0,
+      "end_time": 89.5,
+      "duration": 50.5,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Relationship-shattering shocker delivered with cruel gloating: 'Because he is marrying me.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of the rival beaming in malicious, cruel triumph makes the dynamic immediately legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the father crack and acknowledge Juliana, or completely abandon her?",
+        "stakes_importance": "High \u2014 agonizing plea for basic human dignity and family recognition.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B015",
+          "end_beat_id": "B031",
+          "start_time": 39.0,
+          "end_time": 89.5,
+          "duration": 50.5,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_16",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B015",
+      "end_beat_id": "B032",
+      "start_time": 39.0,
+      "end_time": 90.8,
+      "duration": 51.8,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Relationship-shattering shocker delivered with cruel gloating: 'Because he is marrying me.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of the rival beaming in malicious, cruel triumph makes the dynamic immediately legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Juliana endure realizing her own father has completely cast her aside?",
+        "stakes_importance": "High \u2014 silent, definitive parental abandonment leaving Juliana utterly isolated.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B015",
+          "end_beat_id": "B032",
+          "start_time": 39.0,
+          "end_time": 90.8,
+          "duration": 51.8,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_17",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B015",
+      "end_beat_id": "B033",
+      "start_time": 39.0,
+      "end_time": 95.8,
+      "duration": 56.8,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Relationship-shattering shocker delivered with cruel gloating: 'Because he is marrying me.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of the rival beaming in malicious, cruel triumph makes the dynamic immediately legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 4,
+        "specific_question": "What punishment or exile will the matriarch inflict to silence Juliana's protests?",
+        "stakes_importance": "High \u2014 family matriarch weaponizes authority to brand the victim as the disgrace.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B015",
+          "end_beat_id": "B033",
+          "start_time": 39.0,
+          "end_time": 95.8,
+          "duration": 56.8,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_18",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B016",
+      "end_beat_id": "B027",
+      "start_time": 41.5,
+      "end_time": 79.0,
+      "duration": 37.5,
+      "hook_signal": {
+        "beat_id": "B016",
+        "dialogue_hook_score": 1,
+        "dialogue_hook_rationale": "A single word of denial ('No...') provides minimal standalone auditory context.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama close-up of tears visibly spilling over the bride's eyelashes at the altar.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 5,
+        "specific_question": "Where does Juliana turn when both her lover and sister reveal her entire life was a lie?",
+        "stakes_importance": "High \u2014 total annihilation of the betrothal; confirms Juliana was targeted from the start.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B016",
+          "end_beat_id": "B027",
+          "start_time": 41.5,
+          "end_time": 79.0,
+          "duration": 37.5,
+          "beat_ids": [
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_19",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B018",
+      "end_beat_id": "B027",
+      "start_time": 46.8,
+      "end_time": 79.0,
+      "duration": 32.2,
+      "hook_signal": {
+        "beat_id": "B018",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp, accusatory rupture exposing premeditated betrayal: 'You knew this before I walked through those doors!'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of Juliana clutching her chest in burning outrage gives strong visual readability of emotional agony.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 5,
+        "specific_question": "Where does Juliana turn when both her lover and sister reveal her entire life was a lie?",
+        "stakes_importance": "High \u2014 total annihilation of the betrothal; confirms Juliana was targeted from the start.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B018",
+          "end_beat_id": "B027",
+          "start_time": 46.8,
+          "end_time": 79.0,
+          "duration": 32.2,
+          "beat_ids": [
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_20",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B021",
+      "end_beat_id": "B027",
+      "start_time": 54.6,
+      "end_time": 79.0,
+      "duration": 24.4,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Devastating escalation of betrayal: 'You let me dress in my mother's gown... You let me believe I was walking toward my husband!'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up of tear-streaked face shaking with grief contrasted with the cold groom stepping forward.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 5,
+        "specific_question": "Where does Juliana turn when both her lover and sister reveal her entire life was a lie?",
+        "stakes_importance": "High \u2014 total annihilation of the betrothal; confirms Juliana was targeted from the start.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B021",
+          "end_beat_id": "B027",
+          "start_time": 54.6,
+          "end_time": 79.0,
+          "duration": 24.4,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_21",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B022",
+      "end_beat_id": "B037",
+      "start_time": 60.1,
+      "end_time": 113.0,
+      "duration": 52.9,
+      "hook_signal": {
+        "beat_id": "B022",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Brutal, callous dismissal at the altar: 'I changed my mind.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Tight close-up on Gerald's hardened, emotionless profile glancing downward.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana avenge herself after being publicly branded the 'tolerated' daughter?",
+        "stakes_importance": "High \u2014 vicious, soul-crushing emotional brutality declaring Juliana unloved and disposable.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B022",
+          "end_beat_id": "B037",
+          "start_time": 60.1,
+          "end_time": 113.0,
+          "duration": 52.9,
+          "beat_ids": [
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_22",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B023",
+      "end_beat_id": "B037",
+      "start_time": 63.0,
+      "end_time": 113.0,
+      "duration": 50.0,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes broken vow accusation delivered with raw vocal intensity: 'You swore you loved me!'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up on Juliana's furious, weeping face captures intense emotional drama legible instantly on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana avenge herself after being publicly branded the 'tolerated' daughter?",
+        "stakes_importance": "High \u2014 vicious, soul-crushing emotional brutality declaring Juliana unloved and disposable.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B023",
+          "end_beat_id": "B037",
+          "start_time": 63.0,
+          "end_time": 113.0,
+          "duration": 50.0,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_23",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B027",
+      "end_beat_id": "B035",
+      "start_time": 74.6,
+      "end_time": 105.3,
+      "duration": 30.7,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Callous, crushing revelation of prolonged deception: 'Long enough to know he was never going to marry you.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Two-shot of the groom and sister united, looking down condescendingly at the betrayed bride.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana accept being treated as worthless compared to her favored sister?",
+        "stakes_importance": "High \u2014 overt declaration that the family values one daughter over the other for status.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B027",
+          "end_beat_id": "B035",
+          "start_time": 74.6,
+          "end_time": 105.3,
+          "duration": 30.7,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_24",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B027",
+      "end_beat_id": "B037",
+      "start_time": 74.6,
+      "end_time": 113.0,
+      "duration": 38.4,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Callous, crushing revelation of prolonged deception: 'Long enough to know he was never going to marry you.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Two-shot of the groom and sister united, looking down condescendingly at the betrayed bride.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana avenge herself after being publicly branded the 'tolerated' daughter?",
+        "stakes_importance": "High \u2014 vicious, soul-crushing emotional brutality declaring Juliana unloved and disposable.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B027",
+          "end_beat_id": "B037",
+          "start_time": 74.6,
+          "end_time": 113.0,
+          "duration": 38.4,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_25",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B029",
+      "end_beat_id": "B037",
+      "start_time": 81.4,
+      "end_time": 113.0,
+      "duration": 31.6,
+      "hook_signal": {
+        "beat_id": "B029",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Desperate plea to overturn the catastrophe: 'Tell them this is a mistake.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama: a bride in a white wedding gown drops to her knees in the church aisle begging her seated father.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana avenge herself after being publicly branded the 'tolerated' daughter?",
+        "stakes_importance": "High \u2014 vicious, soul-crushing emotional brutality declaring Juliana unloved and disposable.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B029",
+          "end_beat_id": "B037",
+          "start_time": 81.4,
+          "end_time": 113.0,
+          "duration": 31.6,
+          "beat_ids": [
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_26",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B031",
+      "end_beat_id": "B039",
+      "start_time": 86.0,
+      "end_time": 119.5,
+      "duration": 33.5,
+      "hook_signal": {
+        "beat_id": "B031",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Heart-wrenching plea for parental acknowledgment: 'Father... please look at me.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up of the bride looking upward from the floor with tears streaming uncontrollably down her cheeks.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B039",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Gerald show any trace of shame when confronted with his cold transaction?",
+        "stakes_importance": "High \u2014 Juliana demands a direct reckoning for her personal worth from her betrothed.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B031",
+          "end_beat_id": "B039",
+          "start_time": 86.0,
+          "end_time": 119.5,
+          "duration": 33.5,
+          "beat_ids": [
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_27",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B031",
+      "end_beat_id": "B040",
+      "start_time": 86.0,
+      "end_time": 122.5,
+      "duration": 36.5,
+      "hook_signal": {
+        "beat_id": "B031",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Heart-wrenching plea for parental acknowledgment: 'Father... please look at me.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up of the bride looking upward from the floor with tears streaming uncontrollably down her cheeks.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B040",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana retaliate against Gerald after he tells her she has nothing left to offer?",
+        "stakes_importance": "High \u2014 brutal transactional dismissal of Juliana's entire identity, perfectly priming her revenge arc.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B031",
+          "end_beat_id": "B040",
+          "start_time": 86.0,
+          "end_time": 122.5,
+          "duration": 36.5,
+          "beat_ids": [
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_28",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B033",
+      "end_beat_id": "B040",
+      "start_time": 90.8,
+      "end_time": 122.5,
+      "duration": 31.7,
+      "hook_signal": {
+        "beat_id": "B033",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Public shaming and cruel familial rejection: 'Enough! You have embarrassed this family long enough.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle shot looking up at the tiara-wearing matriarch towering over the church with regal severity.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B040",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana retaliate against Gerald after he tells her she has nothing left to offer?",
+        "stakes_importance": "High \u2014 brutal transactional dismissal of Juliana's entire identity, perfectly priming her revenge arc.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B033",
+          "end_beat_id": "B040",
+          "start_time": 90.8,
+          "end_time": 122.5,
+          "duration": 31.7,
+          "beat_ids": [
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_29",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B035",
+      "end_beat_id": "B043",
+      "start_time": 98.6,
+      "end_time": 131.3,
+      "duration": 32.7,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Overt parental favoritism and humiliation: 'Clarissa knows how to carry herself. She has beauty, connections, and a future worth protecting.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Matriarch gesturing favorably toward the sister in gold while confronting Juliana face-to-face.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B043",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana break down or publicly expose Gerald's shallow cruelty before the assembled congregation?",
+        "stakes_importance": "High \u2014 maximum public humiliation with the villainess savoring triumph.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B035",
+          "end_beat_id": "B043",
+          "start_time": 98.6,
+          "end_time": 131.3,
+          "duration": 32.7,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_30",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B037",
+      "end_beat_id": "B042",
+      "start_time": 107.4,
+      "end_time": 128.5,
+      "duration": 21.1,
+      "hook_signal": {
+        "beat_id": "B037",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Soul-crushing familial insult: 'You are the daughter people tolerate because they have to. I am the daughter they choose.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Rival sister arrogantly strides past the bride to center stage as Juliana gasps in pain.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B042",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Gerald complete his humiliation of Juliana and reach Clarissa uninterrupted?",
+        "stakes_importance": "High \u2014 active abandonment in progress mid-sentence as Gerald turns his back on his bride.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B037",
+          "end_beat_id": "B042",
+          "start_time": 107.4,
+          "end_time": 128.5,
+          "duration": 21.1,
+          "beat_ids": [
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_31",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B037",
+      "end_beat_id": "B043",
+      "start_time": 107.4,
+      "end_time": 131.3,
+      "duration": 23.9,
+      "hook_signal": {
+        "beat_id": "B037",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Soul-crushing familial insult: 'You are the daughter people tolerate because they have to. I am the daughter they choose.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Rival sister arrogantly strides past the bride to center stage as Juliana gasps in pain.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B043",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana break down or publicly expose Gerald's shallow cruelty before the assembled congregation?",
+        "stakes_importance": "High \u2014 maximum public humiliation with the villainess savoring triumph.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B037",
+          "end_beat_id": "B043",
+          "start_time": 107.4,
+          "end_time": 131.3,
+          "duration": 23.9,
+          "beat_ids": [
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_32",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B037",
+      "end_beat_id": "B044",
+      "start_time": 107.4,
+      "end_time": 133.8,
+      "duration": 26.4,
+      "hook_signal": {
+        "beat_id": "B037",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Soul-crushing familial insult: 'You are the daughter people tolerate because they have to. I am the daughter they choose.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Rival sister arrogantly strides past the bride to center stage as Juliana gasps in pain.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B044",
+        "curiosity_gap_score": 4,
+        "specific_question": "What violent or desperate action will Juliana take as her suppressed fury boils over?",
+        "stakes_importance": "High \u2014 physical manifestation of inner rage signaling imminent retaliation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B037",
+          "end_beat_id": "B044",
+          "start_time": 107.4,
+          "end_time": 133.8,
+          "duration": 26.4,
+          "beat_ids": [
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP001_33",
+      "episode": "Episode 1",
+      "episode_number": 1,
+      "start_beat_id": "B037",
+      "end_beat_id": "B045",
+      "start_time": 107.4,
+      "end_time": 138.0,
+      "duration": 30.6,
+      "hook_signal": {
+        "beat_id": "B037",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Soul-crushing familial insult: 'You are the daughter people tolerate because they have to. I am the daughter they choose.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Rival sister arrogantly strides past the bride to center stage as Juliana gasps in pain.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B045",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Juliana strike back against Gerald and her family after this public humiliation?",
+        "stakes_importance": "High \u2014 marks the protagonist's emotional turning point from heartbroken victim to defiant fighter.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 1,
+          "start_beat_id": "B037",
+          "end_beat_id": "B045",
+          "start_time": 107.4,
+          "end_time": 138.0,
+          "duration": 30.6,
+          "beat_ids": [
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

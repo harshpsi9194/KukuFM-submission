@@ -1,0 +1,740 @@
+{
+  "episode_number": 12,
+  "total_candidates": 12,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP012_01",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 20.8,
+      "duration": 20.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Direct, authoritative arrest accusation establishing immediate high legal stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual tension with the Constable raising heavy iron handcuffs directly toward the protagonist before a hearth.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B005",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why is Gerald showing up at their cottage to gloat over Alexander's arrest, and how will Juliana retaliate?",
+        "stakes_importance": "High \u2014 surprise arrival of the cruel ex-groom weaponizing the law to crush his rival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B001",
+          "end_beat_id": "B005",
+          "start_time": 0.0,
+          "end_time": 20.8,
+          "duration": 20.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP012_02",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 28.0,
+      "duration": 28.0,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Direct, authoritative arrest accusation establishing immediate high legal stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual tension with the Constable raising heavy iron handcuffs directly toward the protagonist before a hearth.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Gerald strike or arrest Juliana for lunging forward and directly accusing him of planting the watch?",
+        "stakes_importance": "High \u2014 direct, explosive confrontation accusing the powerful antagonist of an orchestrated frame-up.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B001",
+          "end_beat_id": "B007",
+          "start_time": 0.0,
+          "end_time": 28.0,
+          "duration": 28.0,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP012_03",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 32.4,
+      "duration": 32.4,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Direct, authoritative arrest accusation establishing immediate high legal stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual tension with the Constable raising heavy iron handcuffs directly toward the protagonist before a hearth.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Alexander snap and physically attack Clarissa or Gerald over the degrading insult to his dignity?",
+        "stakes_importance": "High \u2014 malicious sister taunting Alexander's war trauma, pushing him to the brink of physical violence.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B001",
+          "end_beat_id": "B008",
+          "start_time": 0.0,
+          "end_time": 32.4,
+          "duration": 32.4,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP012_04",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B002",
+      "end_beat_id": "B013",
+      "start_time": 4.6,
+      "end_time": 46.6,
+      "duration": 42.0,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Defiant denial challenging the theft accusation in defense of her husband.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dynamic physical intervention as Juliana steps directly between the handcuffs and Alexander to shield him with her body.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B013",
+        "curiosity_gap_score": 4,
+        "specific_question": "What cruel humiliation will Clarissa force Juliana to endure to satisfy her hatred?",
+        "stakes_importance": "High \u2014 raw declaration of sadistic sibling vengeance and psychological warfare.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B002",
+          "end_beat_id": "B013",
+          "start_time": 4.6,
+          "end_time": 46.6,
+          "duration": 42.0,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP012_05",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B007",
+      "end_beat_id": "B016",
+      "start_time": 23.7,
+      "end_time": 60.8,
+      "duration": 37.1,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Explosive confrontation with Juliana shouting 'You planted it!' and Gerald goading the couple.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High confrontation drama with Gerald pointing his riding crop and Juliana lunging forward with an accusatory finger.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B016",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana subject her bare hands to the razor thorns, or let Alexander be dragged before the magistrate?",
+        "stakes_importance": "High \u2014 demands physical self-mutilation as the price for her husband's freedom.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B007",
+          "end_beat_id": "B016",
+          "start_time": 23.7,
+          "end_time": 60.8,
+          "duration": 37.1,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP012_06",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B007",
+      "end_beat_id": "B019",
+      "start_time": 23.7,
+      "end_time": 69.5,
+      "duration": 45.8,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Explosive confrontation with Juliana shouting 'You planted it!' and Gerald goading the couple.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High confrontation drama with Gerald pointing his riding crop and Juliana lunging forward with an accusatory finger.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana sacrifice her hands to the razor briars, or watch Alexander hang from the gallows?",
+        "stakes_importance": "High \u2014 life-or-death ultimatum posing an agonizing moral dilemma under whisper-close psychological terror.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B007",
+          "end_beat_id": "B019",
+          "start_time": 23.7,
+          "end_time": 69.5,
+          "duration": 45.8,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP012_07",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B008",
+      "end_beat_id": "B017",
+      "start_time": 28.0,
+      "end_time": 63.2,
+      "duration": 35.2,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Vicious verbal humiliation demeaning Alexander as a 'broken scrap of a man'.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Tight insert of Alexander's trembling clenched fist by the fire contrasted with Clarissa's gliding entrance.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana surrender her dignity and body to Gerald and Clarissa's sadistic amusement?",
+        "stakes_importance": "High \u2014 reinforces the severe bodily mutilation at stake while antagonists mock her.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B008",
+          "end_beat_id": "B017",
+          "start_time": 28.0,
+          "end_time": 63.2,
+          "duration": 35.2,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP012_08",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B008",
+      "end_beat_id": "B019",
+      "start_time": 28.0,
+      "end_time": 69.5,
+      "duration": 41.5,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Vicious verbal humiliation demeaning Alexander as a 'broken scrap of a man'.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Tight insert of Alexander's trembling clenched fist by the fire contrasted with Clarissa's gliding entrance.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana sacrifice her hands to the razor briars, or watch Alexander hang from the gallows?",
+        "stakes_importance": "High \u2014 life-or-death ultimatum posing an agonizing moral dilemma under whisper-close psychological terror.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B008",
+          "end_beat_id": "B019",
+          "start_time": 28.0,
+          "end_time": 69.5,
+          "duration": 41.5,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP012_09",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 43.7,
+      "end_time": 74.0,
+      "duration": 30.3,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Brutal, sadistic declaration of malicious intent: 'I want to see you crawl, sister.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Deliberate two-shot turn confronting the protagonist face-to-face.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana obey Alexander's plea to protect herself, or defy him to save him from execution?",
+        "stakes_importance": "High \u2014 emotional conflict between spouses: sacrificial chivalry versus protective wifely devotion.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B013",
+          "end_beat_id": "B020",
+          "start_time": 43.7,
+          "end_time": 74.0,
+          "duration": 30.3,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP012_10",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B013",
+      "end_beat_id": "B021",
+      "start_time": 43.7,
+      "end_time": 87.21,
+      "duration": 43.51,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Brutal, sadistic declaration of malicious intent: 'I want to see you crawl, sister.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Deliberate two-shot turn confronting the protagonist face-to-face.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Juliana endure the agonizing briars and recover the ring before Alexander is sent to the gallows?",
+        "stakes_importance": "High \u2014 heroic turning point where the heroine embraces torture and sacrifice to protect the man she loves.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B013",
+          "end_beat_id": "B021",
+          "start_time": 43.7,
+          "end_time": 87.21,
+          "duration": 43.51,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP012_11",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B016",
+      "end_beat_id": "B021",
+      "start_time": 56.8,
+      "end_time": 87.21,
+      "duration": 30.41,
+      "hook_signal": {
+        "beat_id": "B016",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Cruel, sadistic ultimatum demanding Juliana dig through steel thorns with bare hands under time pressure.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Predatory two-shot looming close into Juliana's face accompanied by Gerald's mocking laughter.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Juliana endure the agonizing briars and recover the ring before Alexander is sent to the gallows?",
+        "stakes_importance": "High \u2014 heroic turning point where the heroine embraces torture and sacrifice to protect the man she loves.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B016",
+          "end_beat_id": "B021",
+          "start_time": 56.8,
+          "end_time": 87.21,
+          "duration": 30.41,
+          "beat_ids": [
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP012_12",
+      "episode": "Episode 12",
+      "episode_number": 12,
+      "start_beat_id": "B019",
+      "end_beat_id": "B021",
+      "start_time": 65.2,
+      "end_time": 87.21,
+      "duration": 22.01,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Lethal life-or-death ultimatum explicitly threatening the husband with hanging on the gallows.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Intense extreme close-up of Clarissa's mouth whispering directly into Juliana's ear.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Juliana endure the agonizing briars and recover the ring before Alexander is sent to the gallows?",
+        "stakes_importance": "High \u2014 heroic turning point where the heroine embraces torture and sacrifice to protect the man she loves.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 12,
+          "start_beat_id": "B019",
+          "end_beat_id": "B021",
+          "start_time": 65.2,
+          "end_time": 87.21,
+          "duration": 22.01,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

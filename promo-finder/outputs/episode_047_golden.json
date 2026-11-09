@@ -1,0 +1,906 @@
+{
+  "episode": "Episode 47",
+  "episode_number": 47,
+  "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne\u2014only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+  "continuity_notes": "Follows Episode 46's ecclesiastical challenge by the High Priest. While Catherine plots in secret to remain on the estate, the morning brings her disgrace to light as Juliana decides her fate.",
+  "duration": 134.0,
+  "total_beats": 34,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 1.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle focus on a dripping candle burning on a wooden table beside a dark window looking out into the misty night.",
+          "start": 0.0,
+          "end": 1.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ESTATE CHAMBERS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B002",
+      "start": 1.8,
+      "end": 8.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Rupert is rotting in the undercroft cells. Not me. I intend to stay on this estate.",
+          "start": 1.8,
+          "end": 8.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Calculated, Defiant"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of Catherine in a lace nightgown and lilac robe, holding a goblet of red wine with cold determination.",
+          "start": 1.8,
+          "end": 8.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ESTATE CHAMBERS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B003",
+      "start": 8.5,
+      "end": 14.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Two-shot framing Catherine in the background with a muscular, bare-chested conspirator standing in shadow beside her.",
+          "start": 8.5,
+          "end": 14.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Alexander will scour the grounds at first light. The High Council has already blocked the marriage registry.",
+          "start": 8.8,
+          "end": 14.5,
+          "timestamp_source": "given",
+          "character": "CONSPIRATOR",
+          "emotion": "Low, Warning"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ESTATE CHAMBERS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B004",
+      "start": 14.8,
+      "end": 18.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up profile of Catherine leaning close to the man's shoulder, her eyes burning with ambition.",
+          "start": 14.8,
+          "end": 18.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then you will make sure I remain inside these walls.",
+          "start": 15.0,
+          "end": 18.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Commanding, Scheming"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ESTATE CHAMBERS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B005",
+      "start": 18.3,
+      "end": 21.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Silhouette shot against the tall arched window as Catherine turns her back to him.",
+          "start": 18.3,
+          "end": 21.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Keep the council paralyzed. I will do the rest.",
+          "start": 18.5,
+          "end": 21.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Ruthless, Focused"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. ESTATE CHAMBERS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B006",
+      "start": 21.5,
+      "end": 23.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Atmospheric wide pan across the spacious master bedroom, daylight spilling softly through tall Gothic windows onto the hearth fire.",
+          "start": 21.5,
+          "end": 23.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUKE'S BEDCHAMBER \u2013 MORNING"
+    },
+    {
+      "beat_id": "B007",
+      "start": 23.2,
+      "end": 30.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Alexander and Juliana sitting together on the edge of the velvet bed, dressed in morning robes.",
+          "start": 23.2,
+          "end": 26.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What if Father Thomas sways the High Council?",
+          "start": 23.4,
+          "end": 26.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Anxious, Trembling"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana's distressed face, tears shimmering in her eyes as she looks up at Alexander.",
+          "start": 26.5,
+          "end": 30.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What if they strip your title? Because of me?",
+          "start": 27.0,
+          "end": 30.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Vulnerable, Fearful"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUKE'S BEDCHAMBER \u2013 MORNING"
+    },
+    {
+      "beat_id": "B008",
+      "start": 30.5,
+      "end": 35.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana looks down at her hands, turning over her scarred palms shaped by years of herbal work.",
+          "start": 30.5,
+          "end": 35.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I am only a healer. The lords will never accept me.",
+          "start": 31.0,
+          "end": 35.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Despairing"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUKE'S BEDCHAMBER \u2013 MORNING"
+    },
+    {
+      "beat_id": "B009",
+      "start": 35.5,
+      "end": 42.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Profile shot as Alexander reaches out and firmly clasps Juliana's trembling hands in his own.",
+          "start": 35.5,
+          "end": 37.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Look at me, Juliana.",
+          "start": 35.8,
+          "end": 37.8,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Gentle, Resolute"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up of Alexander raising his scarred hand to tenderly cradle Juliana's cheek.",
+          "start": 37.5,
+          "end": 42.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You saved my mother's life. You stood by me when I had nothing.",
+          "start": 38.2,
+          "end": 42.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Fierce, Loving"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUKE'S BEDCHAMBER \u2013 MORNING"
+    },
+    {
+      "beat_id": "B010",
+      "start": 42.5,
+      "end": 54.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up on Alexander's gaze locking onto Juliana's tearful eyes.",
+          "start": 42.5,
+          "end": 45.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You are my wife.",
+          "start": 43.0,
+          "end": 45.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Deep, Unwavering"
+        },
+        {
+          "type": "action",
+          "description": "Alexander gently pulls Juliana closer, his hands resting securely on her shoulders.",
+          "start": 45.5,
+          "end": 48.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You were my wife before that priest ever opened his mouth. And we will stand before the King and God again within ten days. Nothing breaks that.",
+          "start": 45.8,
+          "end": 54.8,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Authoritative, Steadfast"
+        }
+      ],
+      "scene_number": 2,
+      "scene_heading": "INT. DUKE'S BEDCHAMBER \u2013 MORNING"
+    },
+    {
+      "beat_id": "B011",
+      "start": 55.5,
+      "end": 56.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide establishing shot of the rain-drenched cobblestone courtyard surrounded by imposing Gothic arches.",
+          "start": 55.5,
+          "end": 56.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. ASHBOURNE COURTYARD \u2013 DAY"
+    },
+    {
+      "beat_id": "B012",
+      "start": 56.8,
+      "end": 60.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "You dare show your face in Ashbourne courtyard?",
+          "start": 56.8,
+          "end": 59.8,
+          "timestamp_source": "given",
+          "character": "LADY ASHBOURNE",
+          "emotion": "Sharp, Contemptuous"
+        },
+        {
+          "type": "camera",
+          "description": "Medium shot of Lady Ashbourne leaning heavily on her walking cane, glaring down at Catherine who kneels in the mud.",
+          "start": 56.8,
+          "end": 60.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. ASHBOURNE COURTYARD \u2013 DAY"
+    },
+    {
+      "beat_id": "B013",
+      "start": 60.0,
+      "end": 63.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "High-angle shot looking down at Catherine in her disheveled burgundy gown, clutching her skirts and weeping profusely.",
+          "start": 60.0,
+          "end": 63.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I have nowhere to go, Your Grace.",
+          "start": 60.5,
+          "end": 63.4,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Desperate, Weeping"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. ASHBOURNE COURTYARD \u2013 DAY"
+    },
+    {
+      "beat_id": "B014",
+      "start": 63.5,
+      "end": 67.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "London closed its doors! My family disowned me!",
+          "start": 63.5,
+          "end": 66.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Sobbing, Pleading"
+        },
+        {
+          "type": "camera",
+          "description": "Low-angle shot tracking Catherine clutching her chest in agony.",
+          "start": 63.5,
+          "end": 67.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. ASHBOURNE COURTYARD \u2013 DAY"
+    },
+    {
+      "beat_id": "B015",
+      "start": 67.0,
+      "end": 71.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Lady Ashbourne, her gloved hand resting on her cane as she delivers her cold judgment.",
+          "start": 67.0,
+          "end": 71.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "She aided the poison in my veins. Cast her into the road.",
+          "start": 67.2,
+          "end": 71.2,
+          "timestamp_source": "given",
+          "character": "LADY ASHBOURNE",
+          "emotion": "Cold, Unforgiving"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. ASHBOURNE COURTYARD \u2013 DAY"
+    },
+    {
+      "beat_id": "B016",
+      "start": 71.5,
+      "end": 74.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Vaughn drawing his baton, ready to seize Catherine from behind.",
+          "start": 71.5,
+          "end": 74.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "One command, Your Grace, and I drag her past the gates.",
+          "start": 71.8,
+          "end": 74.8,
+          "timestamp_source": "given",
+          "character": "VAUGHN",
+          "emotion": "Gruff, Ready"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. ASHBOURNE COURTYARD \u2013 DAY"
+    },
+    {
+      "beat_id": "B017",
+      "start": 74.8,
+      "end": 78.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot as Alexander strides purposefully into the courtyard alongside Juliana, his coat billowing behind him.",
+          "start": 74.8,
+          "end": 78.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Do it, Vaughn! Throw her past the estate perimeter!",
+          "start": 75.2,
+          "end": 78.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Furious, Decisive"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. ASHBOURNE COURTYARD \u2013 DAY"
+    },
+    {
+      "beat_id": "B018",
+      "start": 78.8,
+      "end": 81.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine collapsed on the wet stones, looking up with tear-streaked panic.",
+          "start": 78.8,
+          "end": 81.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Please, Alexander! Have mercy!",
+          "start": 78.8,
+          "end": 81.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Hysterical, Screaming"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. ASHBOURNE COURTYARD \u2013 DAY"
+    },
+    {
+      "beat_id": "B019",
+      "start": 81.8,
+      "end": 83.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana raising her right hand firmly to halt the guard.",
+          "start": 81.8,
+          "end": 83.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Stop.",
+          "start": 82.2,
+          "end": 83.4,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Clear, Authoritative"
+        }
+      ],
+      "scene_number": 3,
+      "scene_heading": "EXT. ASHBOURNE COURTYARD \u2013 DAY"
+    },
+    {
+      "beat_id": "B020",
+      "start": 83.5,
+      "end": 86.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Alexander turning toward Juliana in sheer disbelief.",
+          "start": 83.5,
+          "end": 86.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Juliana, she tried to destroy you!",
+          "start": 84.0,
+          "end": 86.5,
+          "timestamp_source": "given",
+          "character": "ALEXANDER",
+          "emotion": "Indignant, Protective"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B021",
+      "start": 86.5,
+      "end": 88.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana maintaining serene poise.",
+          "start": 86.5,
+          "end": 88.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "She did.",
+          "start": 86.7,
+          "end": 87.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Calm, Composed"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B022",
+      "start": 88.0,
+      "end": 91.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium tracking shot as Juliana steps gracefully past Alexander toward Catherine.",
+          "start": 88.0,
+          "end": 91.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "But Ashbourne does not throw beggars into the mud.",
+          "start": 88.2,
+          "end": 91.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Dignified, Principled"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B023",
+      "start": 91.0,
+      "end": 95.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana walks to a side bench, picks up a rough servant's apron and a heavy iron ring of keys, and turns back to face Catherine.",
+          "start": 91.0,
+          "end": 95.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "If you seek shelter in this house, Catherine, you earn it.",
+          "start": 91.5,
+          "end": 95.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Steely, Direct"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B024",
+      "start": 95.5,
+      "end": 98.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine's face turning from despair to offended shock.",
+          "start": 95.5,
+          "end": 98.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You want me? As a guest?",
+          "start": 96.0,
+          "end": 98.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Incredulous, Stunned"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B025",
+      "start": 98.8,
+      "end": 101.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana staring straight into Catherine's eyes without blinking.",
+          "start": 98.8,
+          "end": 101.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "As a scullery maid.",
+          "start": 99.2,
+          "end": 101.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Unflinching, Firm"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B026",
+      "start": 101.2,
+      "end": 104.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Catherine recoiling in disgust, looking around at the gathered estate retainers.",
+          "start": 101.2,
+          "end": 104.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You expect me to scrub floors before these commoners?",
+          "start": 101.5,
+          "end": 104.5,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Outraged, Venomous"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B027",
+      "start": 104.8,
+      "end": 108.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Dramatic profile two-shot of Juliana standing inches away from Catherine, dominating the confrontation.",
+          "start": 104.8,
+          "end": 108.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You will scrub the floors you walked on as an impostor.",
+          "start": 105.2,
+          "end": 108.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Measured, Commanding"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B028",
+      "start": 108.5,
+      "end": 111.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Juliana extends the ring of iron keys outward in her fist.",
+          "start": 108.5,
+          "end": 111.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You will scrub the manor hearths at dawn.",
+          "start": 108.8,
+          "end": 111.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Stern, Demanding"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B029",
+      "start": 111.5,
+      "end": 114.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close profile two-shot of the two women locked in an intense psychological battle.",
+          "start": 111.5,
+          "end": 114.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You will scour the kitchen grease until midnight.",
+          "start": 111.8,
+          "end": 114.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Unforgiving"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B030",
+      "start": 114.5,
+      "end": 118.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Juliana presents the rough hemp apron and heavy keys right to Catherine's face.",
+          "start": 114.5,
+          "end": 118.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "One complaint from the housekeeper, and you are cast out with nothing.",
+          "start": 114.8,
+          "end": 118.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Stern, Final"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B031",
+      "start": 118.5,
+      "end": 121.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine's trembling lips, humiliated tears spilling down her heavily made-up cheeks.",
+          "start": 118.5,
+          "end": 121.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You humiliate me.",
+          "start": 119.2,
+          "end": 121.6,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Choked, Humiliated"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B032",
+      "start": 121.8,
+      "end": 127.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of both women standing beneath the cathedral vaulting of the hall.",
+          "start": 121.8,
+          "end": 127.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I offer you bread and honest labor. Take the apron, or leave the county.",
+          "start": 122.2,
+          "end": 127.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Calm, Sovereign"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B033",
+      "start": 127.5,
+      "end": 131.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up on Catherine's trembling hands as she reaches out, taking the coarse apron and clattering iron keys, pressing them desperately against her chest.",
+          "start": 127.5,
+          "end": 131.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I accept, Your Grace.",
+          "start": 128.5,
+          "end": 131.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Broken, Defeated"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B034",
+      "start": 131.5,
+      "end": 134.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot down the vaulted stone hall as Catherine prostrates herself entirely upon the floor before Alexander, Juliana, and Lady Ashbourne, humbled to the stone as the scene cuts to black.",
+          "start": 131.5,
+          "end": 134.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 4,
+      "scene_heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE \u2013 CONTINUOUS"
+    }
+  ]
+}

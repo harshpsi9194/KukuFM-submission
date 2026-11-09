@@ -1,0 +1,960 @@
+{
+  "episode": "Episode 2",
+  "episode_number": 2,
+  "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+  "continuity_notes": "Picks up directly from Episode 1's cliffhanger. Gerald has turned away from Juliana at the altar, leaving her devastated before the entire aristocratic congregation.",
+  "duration": 110.0,
+  "total_beats": 37,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 2.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "I cannot marry you, Juliana.",
+          "start": 0.0,
+          "end": 2.5,
+          "timestamp_source": "given",
+          "character": "THE FORMER GROOM",
+          "emotion": "Cold, Callous"
+        },
+        {
+          "type": "camera",
+          "description": "Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating.",
+          "start": 0.0,
+          "end": 2.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B002",
+      "start": 2.8,
+      "end": 4.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up on Juliana trembling in disbelief, her hands clasped tightly to her chest.",
+          "start": 2.8,
+          "end": 4.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.",
+          "start": 2.8,
+          "end": 4.6,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B003",
+      "start": 4.6,
+      "end": 6.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot returning to Gerald, sneering down at Juliana.",
+          "start": 4.6,
+          "end": 6.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You are far too plain...",
+          "start": 4.7,
+          "end": 6.5,
+          "timestamp_source": "given",
+          "character": "THE FORMER GROOM",
+          "emotion": "Cruel, Derisive"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B004",
+      "start": 6.6,
+      "end": 9.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Juliana's tear-streaked face, crushed under his biting words.",
+          "start": 6.6,
+          "end": 9.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "...far too silent...",
+          "start": 6.8,
+          "end": 9.5,
+          "timestamp_source": "given",
+          "character": "THE FORMER GROOM",
+          "emotion": "Dismissive"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B005",
+      "start": 9.5,
+      "end": 12.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.",
+          "start": 9.5,
+          "end": 12.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "...and completely beneath the future I deserve.",
+          "start": 9.6,
+          "end": 12.0,
+          "timestamp_source": "given",
+          "character": "THE FORMER GROOM",
+          "emotion": "Arrogant, Conceited"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B006",
+      "start": 12.0,
+      "end": 15.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a trembling hand.",
+          "start": 12.0,
+          "end": 15.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Gerald... Look at me.",
+          "start": 12.4,
+          "end": 15.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Desperate, Pleading"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B007",
+      "start": 15.8,
+      "end": 18.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Gerald's cold, merciless face staring ahead unblinkingly.",
+          "start": 15.8,
+          "end": 18.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B008",
+      "start": 18.0,
+      "end": 20.7,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight insert on Juliana's hand clutching the heirloom amethyst pendant resting against her gown.",
+          "start": 18.0,
+          "end": 20.7,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You gave me your word before both our families.",
+          "start": 18.2,
+          "end": 20.6,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Trembling, Betrayed"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B009",
+      "start": 20.7,
+      "end": 23.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot of Gerald and Clarissa standing side by side before the priest.",
+          "start": 20.7,
+          "end": 23.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Promises change when a better choice appears.",
+          "start": 20.9,
+          "end": 23.7,
+          "timestamp_source": "given",
+          "character": "THE FORMER GROOM",
+          "emotion": "Indifferent, Unapologetic"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B010",
+      "start": 23.8,
+      "end": 27.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up on Juliana clutching her chest, her voice quivering with disbelief.",
+          "start": 23.8,
+          "end": 27.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "A better choice? Is that what she is?",
+          "start": 24.0,
+          "end": 27.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Shattered, Disbelieving"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B011",
+      "start": 27.6,
+      "end": 30.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide shot from behind Juliana looking up the altar stairs at Gerald with Clarissa linked to his arm.",
+          "start": 27.6,
+          "end": 30.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "She is what I should have chosen from the beginning.",
+          "start": 27.8,
+          "end": 30.5,
+          "timestamp_source": "given",
+          "character": "THE FORMER GROOM",
+          "emotion": "Resolute, Harsh"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B012",
+      "start": 30.6,
+      "end": 32.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana's father seated prominently in the family pew, clutching his gold-topped cane.",
+          "start": 30.6,
+          "end": 32.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Father...",
+          "start": 30.9,
+          "end": 32.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Vulnerable, Begging"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B013",
+      "start": 32.4,
+      "end": 34.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the father's stern, unyielding face.",
+          "start": 32.4,
+          "end": 34.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B014",
+      "start": 34.2,
+      "end": 37.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana turning toward her father in the pews, imploring him.",
+          "start": 34.2,
+          "end": 37.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Surely you will not let him humiliate me like this?",
+          "start": 34.3,
+          "end": 37.1,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Choked with Tears"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B015",
+      "start": 37.2,
+      "end": 42.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot tracking in on Juliana's father as he leans firmly upon his cane, looking down coldly.",
+          "start": 37.2,
+          "end": 42.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Gerald has made his choice. Accept it, Juliana.",
+          "start": 37.5,
+          "end": 42.3,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Stern, Cold"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B016",
+      "start": 42.5,
+      "end": 44.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Do not disgrace us further.",
+          "start": 42.5,
+          "end": 44.7,
+          "timestamp_source": "given",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Severely, Harsh"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up on the father's hardening eyes, entirely unsympathetic.",
+          "start": 42.5,
+          "end": 44.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B017",
+      "start": 44.8,
+      "end": 47.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up on Juliana's tear-drenched eyes as the sting of her father's rejection lands.",
+          "start": 44.8,
+          "end": 47.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You won't even look at me.",
+          "start": 45.3,
+          "end": 47.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Whispering, Crushed"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B018",
+      "start": 47.6,
+      "end": 51.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot on Clarissa, beaming smugly as she clings to Gerald's arm.",
+          "start": 47.6,
+          "end": 51.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Why are you surprised, sister? Look at you.",
+          "start": 47.8,
+          "end": 51.4,
+          "timestamp_source": "given",
+          "character": "LADY IN GOLD GOWN",
+          "emotion": "Mocking, Spiteful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B019",
+      "start": 51.5,
+      "end": 53.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight insert on Clarissa's gloved fingers contemptuously pinching the satin folds of Juliana's gown.",
+          "start": 51.5,
+          "end": 53.4,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "That plain, old-fashioned gown.",
+          "start": 51.6,
+          "end": 53.2,
+          "timestamp_source": "given",
+          "character": "LADY IN GOLD GOWN",
+          "emotion": "Scornful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B020",
+      "start": 53.4,
+      "end": 56.7,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Clarissa smiling radiantly, condescendingly gesturing at Juliana.",
+          "start": 53.4,
+          "end": 56.7,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You look like a kitchen maid who wandered into the wrong wedding.",
+          "start": 53.5,
+          "end": 56.7,
+          "timestamp_source": "given",
+          "character": "LADY IN GOLD GOWN",
+          "emotion": "Taunting, Giggling"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B021",
+      "start": 56.7,
+      "end": 58.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Juliana, whose tearful expression begins to tighten with quiet indignation.",
+          "start": 56.7,
+          "end": 58.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And that quiet little face.",
+          "start": 56.8,
+          "end": 58.2,
+          "timestamp_source": "given",
+          "character": "LADY IN GOLD GOWN",
+          "emotion": "Snide"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B022",
+      "start": 58.2,
+      "end": 58.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Wide over-the-shoulder shot from behind Clarissa and Gerald, framing Juliana standing solitary down the center aisle.",
+          "start": 58.2,
+          "end": 58.6,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B023",
+      "start": 58.6,
+      "end": 60.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot returning to Clarissa laughing at Juliana's expense.",
+          "start": 58.6,
+          "end": 60.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Gerald needs a real lady...",
+          "start": 58.7,
+          "end": 60.5,
+          "timestamp_source": "given",
+          "character": "LADY IN GOLD GOWN",
+          "emotion": "Conceited, Spiteful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B024",
+      "start": 60.5,
+      "end": 63.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Juliana staring straight ahead as Clarissa insults her mother's memory.",
+          "start": 60.5,
+          "end": 63.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "...not a dull creature who hides in her mother's apothecary herbs.",
+          "start": 60.6,
+          "end": 63.5,
+          "timestamp_source": "given",
+          "character": "LADY IN GOLD GOWN",
+          "emotion": "Vicious"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B025",
+      "start": 63.5,
+      "end": 66.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "High-angle wide shot of the grand cathedral aisle as a matriarch dressed in an ornate black velvet gown glides toward Juliana.",
+          "start": 63.5,
+          "end": 66.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The matriarch steps into the center aisle, glaring down at Juliana with cold superiority.",
+          "start": 63.5,
+          "end": 66.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Oh, don't look so wounded, Juliana.",
+          "start": 63.6,
+          "end": 65.8,
+          "timestamp_source": "given",
+          "character": "OFF-SCREEN VOICE",
+          "emotion": "Cold, Scolding"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B026",
+      "start": 66.0,
+      "end": 69.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium profile two-shot of the matriarch confronting Juliana face-to-face.",
+          "start": 66.0,
+          "end": 69.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You should be grateful you're at least allowed to attend the wedding.",
+          "start": 66.1,
+          "end": 69.3,
+          "timestamp_source": "given",
+          "character": "OFF-SCREEN VOICE",
+          "emotion": "Dismissive, Condescending"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B027",
+      "start": 69.3,
+      "end": 72.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Gerald stepping forward on the altar steps, impatiently gesturing Juliana toward the church exit.",
+          "start": 69.3,
+          "end": 72.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Go home quietly, Juliana. At least leave this chapel with some dignity.",
+          "start": 69.4,
+          "end": 72.7,
+          "timestamp_source": "given",
+          "character": "THE FORMER GROOM",
+          "emotion": "Impatient, Commanding"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B028",
+      "start": 72.8,
+      "end": 74.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Profile close-up of Juliana turning her face back toward the altar, tears still shimmering on her cheeks.",
+          "start": 72.8,
+          "end": 74.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B029",
+      "start": 74.2,
+      "end": 76.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Direct close-up on Juliana's face as a steely, defiant smile emerges through her pain.",
+          "start": 74.2,
+          "end": 76.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Dignity?",
+          "start": 74.4,
+          "end": 76.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Bitter, Defiant"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B030",
+      "start": 76.5,
+      "end": 79.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Full shot of Juliana standing tall, her posture completely transforming into regal composure before the seated guests.",
+          "start": 76.5,
+          "end": 79.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You abandoned a woman who trusted you...",
+          "start": 76.5,
+          "end": 79.0,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Clear, Accusing"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B031",
+      "start": 79.0,
+      "end": 82.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium profile close-up on Gerald's hardening jawline, Clarissa blurred in the background.",
+          "start": 79.0,
+          "end": 81.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "...because another woman promised you greater beauty and wealth.",
+          "start": 79.2,
+          "end": 82.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Sharp, Piercing"
+        },
+        {
+          "type": "camera",
+          "description": "Closer angle on Gerald's uneasy expression as Juliana's voice commands the room.",
+          "start": 81.8,
+          "end": 82.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B032",
+      "start": 82.8,
+      "end": 86.7,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium wide shot framing Juliana confronting Gerald from the foot of the altar stairs.",
+          "start": 82.8,
+          "end": 86.7,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Do not mistake my heartbreak for your victory, Gerald.",
+          "start": 83.0,
+          "end": 86.5,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Steely, Resolute"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B033",
+      "start": 86.7,
+      "end": 93.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up push-in on Juliana, her blue eyes shining with fierce conviction.",
+          "start": 86.7,
+          "end": 90.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You wanted this entire chapel to believe that I was not worthy of you. But you have shown them something far more valuable.",
+          "start": 86.8,
+          "end": 93.0,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Powerful, Unyielding"
+        },
+        {
+          "type": "camera",
+          "description": "Medium profile on Juliana looking up at Gerald, holding the entire hall spellbound.",
+          "start": 90.8,
+          "end": 93.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B034",
+      "start": 93.2,
+      "end": 96.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up on Juliana's face, calm, dignified, and unwavering.",
+          "start": 93.2,
+          "end": 96.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You have shown them exactly what your word is worth.",
+          "start": 93.4,
+          "end": 96.6,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Decisive, Scathing"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B035",
+      "start": 96.8,
+      "end": 98.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot on Gerald standing frozen on the altar steps, stunned and speechless under her public rebuke.",
+          "start": 96.8,
+          "end": 98.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B036",
+      "start": 98.2,
+      "end": 102.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle wide shot of the grand cathedral nave, framing Juliana in pristine white at the center of the vaulted aisle.",
+          "start": 98.2,
+          "end": 102.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana lifts her chin high, commanding the space with unassailable dignity.",
+          "start": 98.2,
+          "end": 102.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I may leave this chapel without a husband...",
+          "start": 98.5,
+          "end": 102.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Resolute, Proud"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    },
+    {
+      "beat_id": "B037",
+      "start": 102.8,
+      "end": 110.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Dramatic medium close-up holding steadily on Juliana's radiant, proud face as she delivers her final proclamation.",
+          "start": 102.8,
+          "end": 110.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "...but I will not leave it believing I was the one who should be ashamed.",
+          "start": 103.0,
+          "end": 107.4,
+          "timestamp_source": "given",
+          "character": "LADY JULIANA",
+          "emotion": "Defiant, Triumphant in Spirit"
+        },
+        {
+          "type": "action",
+          "description": "Juliana breathes with steady resolve, holding her head high as the solemn orchestral score swells into the final beat.",
+          "start": 107.4,
+          "end": 110.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CATHEDRAL \u2013 CONTINUOUS"
+    }
+  ]
+}

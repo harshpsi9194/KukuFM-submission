@@ -1,0 +1,54 @@
+{
+  "episode_number": 6,
+  "total_ranked": 3,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP006_05",
+      "absolute_score": 7.3,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 1.7,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.0
+      },
+      "rank_justification": "While the conversational opening lacks an explosive visual or auditory jolt, the frantic coping mechanism creates a steadily escalating emotional strain. Juliana's vulnerable confession cutting abruptly on peak suppressed heartbreak delivers a strong cliffhanger and high emotional resonance for cold viewers.",
+      "duration": 31.0,
+      "start_beat_id": "B015",
+      "end_beat_id": "B022",
+      "emotional_salience_score": 4,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP006_01",
+      "absolute_score": 6.4,
+      "subscores": {
+        "hook_score": 1.6,
+        "tension_score": 1.4,
+        "cliffhanger_score": 1.8,
+        "resonance_score": 1.6
+      },
+      "rank_justification": "The visual contrast of a ruined wedding dress trudging through mud establishes an immediate curious premise, though the pacing through the woods is contemplative rather than relentless. The exit line brings sharp bitter clarity to her trauma, ending on an engaging curiosity gap about the humiliation she fled.",
+      "duration": 33.7,
+      "start_beat_id": "B001",
+      "end_beat_id": "B010",
+      "emotional_salience_score": 3,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP006_09",
+      "absolute_score": 5.0,
+      "subscores": {
+        "hook_score": 0.5,
+        "tension_score": 1.1,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 1.5
+      },
+      "rank_justification": "The opening is entirely passive with low-stakes domestic fire-tending dialogue that fails to arrest a fast-scrolling thumb. Juliana's somber monologue builds meaningful emotional vulnerability and cuts cleanly on an unresolved sentence ('And yet...'), but the soft mid-arc and static start hold back its performance potential.",
+      "duration": 22.2,
+      "start_beat_id": "B027",
+      "end_beat_id": "B030",
+      "emotional_salience_score": 3,
+      "rank": 3
+    }
+  ]
+}

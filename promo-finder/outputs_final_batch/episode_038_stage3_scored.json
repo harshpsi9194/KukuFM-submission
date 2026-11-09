@@ -1,0 +1,256 @@
+{
+  "episode_number": 38,
+  "total_scored": 10,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP038_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 39.5,
+      "duration": 39.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens on a clear medium profile establishing shot of a woman slumped on a damp dungeon cell floor, bound in heavy iron shackles and chains, instantly communicating physical imprisonment, vulnerability, and setting within the first two seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc shows a starving prisoner receiving unexpected mercy from a sympathetic guard, followed by an emotional breakdown and plea for an absent partner ('Alexander... are you safe?'). The victim status, immediate stakes, and emotional conflict are self-contained.",
+        "passes_gate": true,
+        "situational_summary": "A chained, starving woman in a dark dungeon cell receives an unexpected loaf of bread from a compassionate guard and weeps while wondering if her partner is safe."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Starving desperation relieved by unexpected mercy giving way to isolated romantic anguish"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Establishes Juliana's captive state and peril; acts as an atmospheric premise setup without detailing why she was imprisoned or later plot points."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP038_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 45.5,
+      "duration": 45.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 provides an unambiguous visual establishment of the protagonist slumped on a damp stone floor, chained in iron shackles inside a gloomy dungeon cell.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative clearly establishes her wrongful imprisonment, the secret kindness of a guard, and the escalating revelation that she has been formally condemned while her lover Alexander may be unaware.",
+        "passes_gate": true,
+        "situational_summary": "Imprisoned and starved in chains, a woman is secretly fed by a guard before breaking down in tears, revealing she has been condemned to death without her lover knowing."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate physical relief clashing with the agonizing realization of being condemned to die alone"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the key status-quo disruption that she has been officially condemned to death."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP038_03",
+      "start_beat_id": "B003",
+      "end_beat_id": "B007",
+      "start_time": 11.0,
+      "end_time": 45.5,
+      "duration": 34.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B003 opens on an extreme low-angle floor shot of wet flagstones and a disembodied gloved hand slipping bread through bars. It lacks human framing, subject identification, or clear interpersonal context in the initial 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full duration, the interaction between the guard, the starving prisoner, and her verbalized realization that she has been condemned makes the core situation clear.",
+        "passes_gate": false,
+        "situational_summary": "A mysterious hand pushes bread into a cell to a starving captive woman who fears she has been condemned without her partner's knowledge."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Guarded act of mercy transitioning into tearful terror over impending execution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals she has been condemned to death while in captivity."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP038_04",
+      "start_beat_id": "B004",
+      "end_beat_id": "B008",
+      "start_time": 15.5,
+      "end_time": 51.0,
+      "duration": 35.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B004 begins abruptly on an ungrounded crawling action with a single monosyllabic question ('Why?') without establishing the room, the guard's presence, or the preceding bread delivery.",
+        "arc_legibility": true,
+        "arc_rationale": "The exchange with the guard and her subsequent monologue clarify her captive state, starvation, condemnation, and fatal stakes.",
+        "passes_gate": false,
+        "situational_summary": "A crawling prisoner asks why she is being fed, receiving quiet reassurance before weeping over the prospect of dying alone in her cell."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Dread of dying alone in a dungeon separated forever from a lover"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Explicitly discloses that she has been condemned to death and faces imminent demise."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP038_05",
+      "start_beat_id": "B005",
+      "end_beat_id": "B008",
+      "start_time": 17.5,
+      "end_time": 51.0,
+      "duration": 33.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 opens with a Guard speaking through vertical dungeon bars ('Because no one should die hungry... Eat it before they see') before walking down a dark corridor. The dungeon setting, the prisoner-guard dynamic, and the immediate mortal threat are instantly legible in the first 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows a condemned woman (Juliana) starving in chains, grieving her separation from her husband/partner Alexander, and fearing her imminent execution by unseen captors who condemned her. The conflict is self-contained and emotionally clear without external lore.",
+        "passes_gate": true,
+        "situational_summary": "A chained, starving prisoner receives a secretive crust of bread from a guard and weeps in her cell, wondering if her loved one Alexander is safe or knows she has been condemned to die."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate physical starvation and mortal despair mixed with agonizing romantic longing"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes Juliana's captive predicament and condemned status; safe inciting predicament for top-of-funnel prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP038_06",
+      "start_beat_id": "B006",
+      "end_beat_id": "B008",
+      "start_time": 23.2,
+      "end_time": 51.0,
+      "duration": 27.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens on a tight visual of trembling, shackle-bound hands dragging a loaf of bread to a soot-streaked, tearful prisoner's chest beneath overhead dungeon grates. The physical confinement and desperate starvation are instantly grounded visually without dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "The captive's tears, ravenous eating, and desperate soliloquy ('Alexander... are you safe? Do you know they condemned me? What if I die here?') clearly convey that she is unjustly condemned and facing death, isolated from the man she loves.",
+        "passes_gate": true,
+        "situational_summary": "A shackled prisoner in a damp dungeon devours a piece of bread while tearfully agonizing over whether her beloved Alexander knows she has been condemned to death."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Raw visceral anguish, starvation relief, and existential terror of dying alone"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts Juliana's imprisonment and despair over her death sentence; premise/inciting situation."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP038_07",
+      "start_beat_id": "B006",
+      "end_beat_id": "B010",
+      "start_time": 23.2,
+      "end_time": 60.5,
+      "duration": 37.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Opens directly on Beat B006 with clear visual storytelling: trembling hands in iron shackles pulling bread to her chest in a damp dungeon setting, immediately orienting a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "Follows Juliana from broken tears and starvation into a prayerful shift toward quiet dignity ('Keep him safe... Let him live... And if I have only one thing left to give...'). However, cutting off on an incomplete sentence mid-thought ('And if I have only one thing left to give...') leaves the immediate dramatic action grammatically and narratively broken.",
+        "passes_gate": false,
+        "situational_summary": "A starving prisoner in shackles prays for the survival of her beloved Alexander before her resolved declaration is abruptly truncated mid-sentence."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Mournful prayer transforming into self-sacrificial dignity"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows Juliana's imprisonment and willingness to sacrifice herself for Alexander."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP038_08",
+      "start_beat_id": "B007",
+      "end_beat_id": "B011",
+      "start_time": 39.5,
+      "end_time": 87.91,
+      "duration": 48.41,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 opens cold on an intimate close-up of a crying woman looking upward whispering 'Do you even know what happened to me? Do you know they condemned me?'. Without seeing the cell, the shackles, or the bread from earlier beats, it begins on an ungrounded mid-reaction whisper with no visual anchor of where she is or who she is speaking to.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full clip, the context fills in as she vows never to betray her husband, hears cathedral wedding bells above her dungeon cell, realizes her execution follows the wedding, and smiles defiantly.",
+        "passes_gate": false,
+        "situational_summary": "An imprisoned woman facing execution hears cathedral wedding bells tolling above and defiantly resolves never to betray her husband Alexander, even as her own demise looms."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic defiance and romantic martyrdom juxtaposed against impending execution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the concurrent cathedral wedding above, Juliana's refusal to betray her husband, and her realization that her execution is timed to coincide with the ceremony."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP038_09",
+      "start_beat_id": "B008",
+      "end_beat_id": "B011",
+      "start_time": 45.5,
+      "end_time": 87.91,
+      "duration": 42.41,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B008 opens on a tight macro shot of an ungrounded woman's chin and throat tearfully whispering 'What if I die here?' without establishing the physical setting, who she is, or who she is talking to. Lacks immediate visual grounding in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the context becomes clear: a loyal, imprisoned wife in a stone dungeon realizes cathedral wedding bells overhead signal her own impending execution while she prays for and protects her husband Alexander.",
+        "passes_gate": false,
+        "situational_summary": "Imprisoned in a dark dungeon, a devoted woman hears wedding bells tolling from above and realizes her execution is imminent, resolving to die rather than betray her husband."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Existential dread and martyrdom transformed into defiant, sacrificial love"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Juliana is imprisoned beneath a wedding ceremony and facing imminent execution while refusing to betray Alexander."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP038_10",
+      "start_beat_id": "B011",
+      "end_beat_id": "B011",
+      "start_time": 60.5,
+      "end_time": 87.91,
+      "duration": 27.41,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B011 opens on a tight close-up facing a blank stone cell wall with the isolated line 'I will not give them my husband.' It lacks an establishing anchor for a cold viewer to immediately discern the physical space or context before the wider dungeon/bars reveal later in the beat.",
+        "arc_legibility": true,
+        "arc_rationale": "Within the single beat, she hears church bells from above, rushes to iron dungeon bars in chains, and states that a wedding has begun and her execution is next, making the stakes and predicament fully understandable.",
+        "passes_gate": false,
+        "situational_summary": "A captive woman in a dungeon hears cathedral wedding bells above and recognizes that the ceremony marks the countdown to her own execution."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Chilling realization of imminent execution met with fierce marital defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's dungeon captivity, the ominous concurrent wedding, and her impending death sentence."
+      }
+    }
+  ]
+}

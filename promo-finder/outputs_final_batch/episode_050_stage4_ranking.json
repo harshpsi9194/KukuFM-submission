@@ -1,0 +1,118 @@
+{
+  "episode_number": 50,
+  "total_ranked": 7,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP050_03",
+      "absolute_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Features the top-tier intimate shock hook, relentless escalation from bedroom intimacy to ruthless extortion, and cuts on an elite cliffhanger punchline ('Discretion has a price'). Delivers maximum cold-viewer emotional payoff at an ideal 35.8s duration.",
+      "duration": 35.8,
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "emotional_salience_score": 5,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP050_01",
+      "absolute_score": 8.7,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.0,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "The opening birds-eye bed shot and explicit sacrilegious dialogue provide immediate, visceral scroll-stopping shock. The arc escalates rapidly to Thomas's audacious demand for tax collection, cutting on high unresolved financial threat.",
+      "duration": 26.5,
+      "start_beat_id": "B001",
+      "end_beat_id": "B004",
+      "emotional_salience_score": 4,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP050_02",
+      "absolute_score": 8.4,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.1,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 2.0
+      },
+      "rank_justification": "Delivers an explosive sacrilegious hook and escalates through the brazen extortion demand to Catherine's stunned pushback. However, ending on her observation that it's a fortune slightly softens the exit punctuation compared to a sharp ultimatum.",
+      "duration": 30.5,
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "emotional_salience_score": 4,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP050_04",
+      "absolute_score": 8.2,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.2,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 1.9
+      },
+      "rank_justification": "Maintains the powerful scandalous opening and sharp mid-arc negotiation, but Catherine's concession of unsupervised control begins resolving the extortion conflict. Cutting on her agreement weakens the curiosity gap into a pact rather than an urgent crisis.",
+      "duration": 39.8,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "emotional_salience_score": 4,
+      "rank": 4
+    },
+    {
+      "candidate_id": "CAND_EP050_05",
+      "absolute_score": 7.7,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.0,
+        "cliffhanger_score": 1.5,
+        "resonance_score": 1.8
+      },
+      "rank_justification": "Benefits from the arresting visual and auditory hook, but the tension plateaus across the extended negotiation and deal-making beats. The final line ('For as long as it holds') feels like a closed agreement with only mild lingering threat.",
+      "duration": 43.0,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "emotional_salience_score": 4,
+      "rank": 5
+    },
+    {
+      "candidate_id": "CAND_EP050_06",
+      "absolute_score": 7.1,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.2,
+        "resonance_score": 1.7
+      },
+      "rank_justification": "The sacrilegious bed hook arrests thumb-scrollers instantly, but running to nearly 50 seconds defuses the dramatic stakes as Catherine concedes with a knowing smile. Cutting on 'Done' and romantic banter closes the transactional conflict rather than leaving an open cliffhanger.",
+      "duration": 48.5,
+      "start_beat_id": "B001",
+      "end_beat_id": "B009",
+      "emotional_salience_score": 4,
+      "rank": 6
+    },
+    {
+      "candidate_id": "CAND_EP050_09",
+      "absolute_score": 6.0,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.2,
+        "resonance_score": 1.6
+      },
+      "rank_justification": "Starting on B004 misses the visceral overhead shock of B001, opening instead on a mid-scene fiscal demand that requires cold viewers to catch up. The arc resolves into an accepted deal with a seductive exit that defuses urgent narrative tension.",
+      "duration": 29.7,
+      "start_beat_id": "B004",
+      "end_beat_id": "B009",
+      "emotional_salience_score": 4,
+      "rank": 7
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "episode_number": 45,
+  "total_candidates": 11,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP045_01",
+      "episode": "Episode 45",
+      "episode_number": 45,
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 21.8,
+      "duration": 21.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 1,
+        "dialogue_hook_rationale": "Juliana only utters a single whispered name ('Alexander...'), carrying emotional charge but low standalone verbal stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Striking scroll-stopping contrast: a noble strides down a ruined aisle toward a woman standing shackled in grey rags near the entrance.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B005",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who was Alexander to Juliana when they first met, and how did he end up here?",
+        "stakes_importance": "High \u2014 emotional recognition of a long-lost lover disguised as a nobleman.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 45,
+          "start_beat_id": "B001",
+          "end_beat_id": "B005",
+          "start_time": 0.0,
+          "end_time": 21.8,
+          "duration": 21.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP045_02",
+      "episode": "Episode 45",
+      "episode_number": 45,
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 24.5,
+      "duration": 24.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 1,
+        "dialogue_hook_rationale": "Juliana only utters a single whispered name ('Alexander...'), carrying emotional charge but low standalone verbal stakes.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Striking scroll-stopping contrast: a noble strides down a ruined aisle toward a woman standing shackled in grey rags near the entrance.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 4,
+        "specific_question": "How could a man Juliana believed was a commoner or pauper actually be the Duke?",
+        "stakes_importance": "High \u2014 shock reversal of status with the cloak symbolizing royal protection.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 45,
+          "start_beat_id": "B001",
+          "end_beat_id": "B006",
+          "start_time": 0.0,
+          "end_time": 24.5,
+          "duration": 24.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP045_03",
+      "episode": "Episode 45",
+      "episode_number": 45,
+      "start_beat_id": "B011",
+      "end_beat_id": "B016",
+      "start_time": 51.8,
+      "end_time": 80.5,
+      "duration": 28.7,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, lethal accusation: 'You poisoned my mother. You tortured my wife.' delivers instantaneous maximum shock.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Furious male figure towering threateningly over a cowering bride at the altar conveys intense peril on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B016",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will the horrified nobility and Juliana's abusive family react to Juliana being crowned Duchess?",
+        "stakes_importance": "High \u2014 complete status reversal and supreme social vindication.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 45,
+          "start_beat_id": "B011",
+          "end_beat_id": "B016",
+          "start_time": 51.8,
+          "end_time": 80.5,
+          "duration": 28.7,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP045_04",
+      "episode": "Episode 45",
+      "episode_number": 45,
+      "start_beat_id": "B011",
+      "end_beat_id": "B017",
+      "start_time": 51.8,
+      "end_time": 83.5,
+      "duration": 31.7,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive, lethal accusation: 'You poisoned my mother. You tortured my wife.' delivers instantaneous maximum shock.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Furious male figure towering threateningly over a cowering bride at the altar conveys intense peril on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Rupert and Mary face retribution for abusing the woman who is now their sovereign Duchess?",
+        "stakes_importance": "High \u2014 immediate terror and impending reckoning for the primary oppressors.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 45,
+          "start_beat_id": "B011",
+          "end_beat_id": "B017",
+          "start_time": 51.8,
+          "end_time": 83.5,
+          "duration": 31.7,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP045_05",
+      "episode": "Episode 45",
+      "episode_number": 45,
+      "start_beat_id": "B012",
+      "end_beat_id": "B017",
+      "start_time": 58.2,
+      "end_time": 83.5,
+      "duration": 25.3,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp verbal confrontation with frantic denial met by fierce condemnation ('You knew exactly what you were doing!').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up split profile juxtaposing righteous fury against gasping, panicked terror.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Rupert and Mary face retribution for abusing the woman who is now their sovereign Duchess?",
+        "stakes_importance": "High \u2014 immediate terror and impending reckoning for the primary oppressors.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 45,
+          "start_beat_id": "B012",
+          "end_beat_id": "B017",
+          "start_time": 58.2,
+          "end_time": 83.5,
+          "duration": 25.3,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP045_06",
+      "episode": "Episode 45",
+      "episode_number": 45,
+      "start_beat_id": "B013",
+      "end_beat_id": "B017",
+      "start_time": 62.5,
+      "end_time": 83.5,
+      "duration": 21.0,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Public denunciation of violence against his mother and wife broadcast directly across the cathedral congregation.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Standard medium close-up of a speaker addressing a crowd, relying largely on audio delivery.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Rupert and Mary face retribution for abusing the woman who is now their sovereign Duchess?",
+        "stakes_importance": "High \u2014 immediate terror and impending reckoning for the primary oppressors.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 45,
+          "start_beat_id": "B013",
+          "end_beat_id": "B017",
+          "start_time": 62.5,
+          "end_time": 83.5,
+          "duration": 21.0,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP045_07",
+      "episode": "Episode 45",
+      "episode_number": 45,
+      "start_beat_id": "B019",
+      "end_beat_id": "B022",
+      "start_time": 86.5,
+      "end_time": 108.8,
+      "duration": 22.3,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sudden, commanding interruption: 'No one will bow yet!' instantly halts the celebration and injects crisis.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Cathedral doors slam open with daylight and mist as a dark Bishop and armed officer storm the aisle.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will the Crown officer draw his blade against Alexander to arrest Juliana right in the cathedral?",
+        "stakes_importance": "High \u2014 imminent armed violence combined with total annulment of Juliana's title.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 45,
+          "start_beat_id": "B019",
+          "end_beat_id": "B022",
+          "start_time": 86.5,
+          "end_time": 108.8,
+          "duration": 22.3,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP045_08",
+      "episode": "Episode 45",
+      "episode_number": 45,
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "start_time": 86.5,
+      "end_time": 113.2,
+      "duration": 26.7,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sudden, commanding interruption: 'No one will bow yet!' instantly halts the celebration and injects crisis.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Cathedral doors slam open with daylight and mist as a dark Bishop and armed officer storm the aisle.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Alexander defend Juliana against the ultimate decree that she has no legal claim as his wife?",
+        "stakes_importance": "High \u2014 devastating social destruction of Juliana's status before all her abusers.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 45,
+          "start_beat_id": "B019",
+          "end_beat_id": "B023",
+          "start_time": 86.5,
+          "end_time": 113.2,
+          "duration": 26.7,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP045_09",
+      "episode": "Episode 45",
+      "episode_number": 45,
+      "start_beat_id": "B019",
+      "end_beat_id": "B024",
+      "start_time": 86.5,
+      "end_time": 117.5,
+      "duration": 31.0,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sudden, commanding interruption: 'No one will bow yet!' instantly halts the celebration and injects crisis.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Cathedral doors slam open with daylight and mist as a dark Bishop and armed officer storm the aisle.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B024",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Alexander defy the Crown with violence to protect a terrified Juliana from re-arrest?",
+        "stakes_importance": "High \u2014 emotional desperation and impending clash between ducal power and royal law.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 45,
+          "start_beat_id": "B019",
+          "end_beat_id": "B024",
+          "start_time": 86.5,
+          "end_time": 117.5,
+          "duration": 31.0,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP045_10",
+      "episode": "Episode 45",
+      "episode_number": 45,
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 86.5,
+      "end_time": 121.75,
+      "duration": 35.25,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sudden, commanding interruption: 'No one will bow yet!' instantly halts the celebration and injects crisis.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Cathedral doors slam open with daylight and mist as a dark Bishop and armed officer storm the aisle.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "What sinister revenge will Catherine orchestrate now that Juliana's marriage claim has been destroyed?",
+        "stakes_importance": "High \u2014 maximum cliffhanger: the defeated villainess reclaims predatory power as the rival is stripped of protection.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 45,
+          "start_beat_id": "B019",
+          "end_beat_id": "B025",
+          "start_time": 86.5,
+          "end_time": 121.75,
+          "duration": 35.25,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP045_11",
+      "episode": "Episode 45",
+      "episode_number": 45,
+      "start_beat_id": "B020",
+      "end_beat_id": "B025",
+      "start_time": 93.0,
+      "end_time": 121.75,
+      "duration": 28.75,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Formal legal invalidation of the marriage delivered with institutional authority to invalidate the union.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Priest marching down the aisle brandishing a red wax-sealed royal parchment provides unmistakable conflict.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "What sinister revenge will Catherine orchestrate now that Juliana's marriage claim has been destroyed?",
+        "stakes_importance": "High \u2014 maximum cliffhanger: the defeated villainess reclaims predatory power as the rival is stripped of protection.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 45,
+          "start_beat_id": "B020",
+          "end_beat_id": "B025",
+          "start_time": 93.0,
+          "end_time": 121.75,
+          "duration": 28.75,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

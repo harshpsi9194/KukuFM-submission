@@ -1,0 +1,534 @@
+{
+  "episode_number": 49,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Atmospheric wide tracking shot down a derelict hallway as a dark cloaked figure steps through a creaking door.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Conversational prompt ('You took your time') with very low standalone stakes or narrative hook for a cold scroller.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of a woman in a hooded cloak holding a brass candlestick, providing modest mood lighting but standard framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard over-the-shoulder conversational staging without distinct physical tension or motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Expositional explanation about evading grooms and waiting past stables with mild logistical tension.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up establishing a hooded priest wearing a clerical collar and silver crucifix.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Transactional line indicating paid servants, but too context-dependent to arrest a scroller immediately.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up profile showing a knowing smirk, offering mild emotional friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium two-shot placing a candleholder on a table, with flickering candlelight providing atmospheric but mundane action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Suggestive line confirming an illicit private rendezvous in an empty wing, establishing mild intrigue.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tight close-up of calculating eyes in candlelight, signaling secret intent without overt visual drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Reference to shared previous secrets ('You didn't need them the first time, either'), hinting at past intrigue.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Catherine smiling beneath a velvet hood, establishing character aesthetic without high visual urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes scandal revealed in a single line: 'A priest and a disgraced bride meeting before dawn in her bedchamber.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of Father Thomas delivering a piercing gaze, mostly serving as a conversational reaction.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Urgent conspiratorial warning: 'No one in this house so much as suspects your face belongs to that morning.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Catherine's face hardening into a stern expression, showing emotional focus but standard movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up of a character listening impassively with zero visual kinetic energy or tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Striking public humiliation reveal: 'The whole court watched you humiliate her.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium wide two-shot leaning across a table, standard dramatic posture without high scroll-stop power.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Poetic commentary about a forgotten place for an illicit conversation, setting mood rather than immediate conflict.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Scanning the shadowy recesses of the room, adding minor environmental suspense.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Familiar banter ('You always did have a taste for symbolism') lacking urgency or stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up with an amused smile, standard conversational visual.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Blunt acknowledgment of manipulation and mutual exploitation: 'you always did have a taste for using me.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of Father Thomas breaking his austere demeanor with a subtle smirk.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Commanding political order regarding manipulating the council for ten days.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up capturing a razor-sharp, intense commanding expression that conveys immediate visual tension on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Impatient confrontational challenge: 'What is it you actually need from me, Catherine? Say it plainly, for once.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Side profile close-up with furrowing brow displaying visible impatience and friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct conspiracy terms to sabotage legal proceedings through endless delays and extensions.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up raising one hand to emphasize demands, standard gesture.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Ruthless espionage demand: 'I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Frontal close-up holding up two fingers in the candlelight with intense, burning eyes legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Audacious conspiratorial question exposing the infiltration of the council chamber itself.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up absorbing a shocking demand, expressing quiet disbelief.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Defiant declaration of total control: 'I want eyes and ears everywhere that decides my future.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle close-up tilting her chin up in stark defiant pride, clearly conveying dominance without sound.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Self-aware, high-stakes grievance: 'a woman the church itself just humiliated back into relevance.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Full two-shot face-off across the table with hands clasped behind back, solid staging but static.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Life-or-death conspiracy stakes: 'what happens to me when the Duke finds out a crowned priest conspired against him?'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot turning back around with an expression etched with genuine concern.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Reassurance urging secrecy ('Then make certain he doesn't find out'), lacking standalone shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium two-shot tracking closer as she steps forward, closing distance.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Lethal high-stakes threat and danger: 'Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up of a priest's intense, brooding face warning of capital execution.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Enticing seduction/collusion promise: 'Careful men who help me also get remembered.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up with an alluring, promising smile, conveying seduction but standard framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Lethal aristocratic power proposition: 'A grateful Duchess collects debts differently than a desperate one.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Split focus close-up leaning in close to whisper with lethal conviction, highly cinematic and visually arresting on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Warning about keeping quiet, reliant on context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium two-shot with an open hand extended palm-up to seal a dangerous pact, clearly legible on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Mutual agreement ('Then we understand each other'), conversational resolution.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up physical action of a woman's hand firmly clasping a priest's open palm, sealing a forbidden conspiracy visually.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Intimate conversational agreement ('We always have') lacking punch on its own.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of glistening eyes looking up in candlelight, showing deep emotional intimacy.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Shocking, forbidden scroll-stopper: extreme close-up of a priest cupping a woman's cheek tenderly as her hand rests on his chest before cutting to black.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who is the cloaked figure sneaking through the abandoned corridor, and who are they meeting?",
+      "stakes_importance": "Low \u2014 establishes illicit clandestine atmosphere, but the specific conflict has not yet been introduced.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why is Catherine waiting in the dark with a candle for this man?",
+      "stakes_importance": "Low \u2014 signals a secret meeting, but the stakes of their business remain vague.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will Father Thomas respond to Catherine?",
+      "stakes_importance": "Low \u2014 transitional framing shot with no new dramatic stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why did Agnes and Father Thomas need to evade the stable groom to reach Catherine?",
+      "stakes_importance": "Low \u2014 explains logistics of sneaking in without revealing the greater plot.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "What scheme are Catherine and her servant Agnes concealing in this house?",
+      "stakes_importance": "Low \u2014 confirms complicity, but the core objective remains undisclosed.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 1,
+      "specific_question": "What will Catherine say now that they are settled?",
+      "stakes_importance": "Low \u2014 staging action setting up the dialogue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 3,
+      "specific_question": "What illicit business requires a priest and Catherine to meet in total isolation?",
+      "stakes_importance": "Medium \u2014 heightens the forbidden, conspiratorial nature of their relationship.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "What secret did Catherine and Father Thomas orchestrate the 'first time'?",
+      "stakes_importance": "Medium \u2014 hints at a prior coordinated conspiracy between noblewoman and priest.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 4,
+      "specific_question": "What scandalous act did the priest and the disgraced bride commit before dawn in her bedchamber?",
+      "stakes_importance": "High \u2014 reveals an explosive, illicit history involving a disgraced bride and a man of the cloth.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Father Thomas maintain his cover, or will someone in the household identify him from that fateful morning?",
+      "stakes_importance": "Medium \u2014 establishes constant threat of exposure and ruin for both conspirators.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 1,
+      "specific_question": "What will Father Thomas say to her warning?",
+      "stakes_importance": "Low \u2014 silent reaction beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "Whom did Father Thomas publicly humiliate in front of the entire court on Catherine's behalf?",
+      "stakes_importance": "High \u2014 reveals that a public court humiliation was an orchestrated sabotage concocted by this priest.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 2,
+      "specific_question": "What is the forgotten conversation they must ensure the family never discovers?",
+      "stakes_importance": "Low \u2014 atmospheric observation emphasizing secrecy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will Father Thomas take her teasing?",
+      "stakes_importance": "Low \u2014 witty banter without narrative jeopardy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "To what corrupt lengths will this priest allow Catherine to use him?",
+      "stakes_importance": "Medium \u2014 exposes the cynical, mutually exploitative dynamic binding them together.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will Catherine compel Father Thomas to do to manipulate the council for the next ten days?",
+      "stakes_importance": "Medium \u2014 sets an active ticking clock on a high-stakes council proceeding.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 3,
+      "specific_question": "What extreme favor is Catherine about to demand from Father Thomas?",
+      "stakes_importance": "Medium \u2014 direct ultimatum forcing Catherine to lay down her demands.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Father Thomas successfully stall the legal hearing and manufacture false excuses for the council?",
+      "stakes_importance": "Medium \u2014 outlines procedural subversion, though the full list of demands is still unfolding.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Father Thomas spy on the council and betray its closed-door deliberations against Catherine's rival?",
+      "stakes_importance": "High \u2014 high-stakes espionage targeting the council to preemptively destroy a female rival.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Father Thomas dare to plant an informant inside the sacred council chamber itself?",
+      "stakes_importance": "Medium \u2014 emphasizes the shocking escalation of Catherine's treasonous demand.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Catherine seize absolute control over the council's decision on her fate?",
+      "stakes_importance": "Medium \u2014 arrogant declaration of ruthless ambition.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Father Thomas yield to the manipulation of a woman the church itself disgraced?",
+      "stakes_importance": "Medium \u2014 sharp retort challenging the priest's complicity in her prior downfall.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 4,
+      "specific_question": "What gruesome retribution will the Duke inflict on Father Thomas if he discovers the priest is treasonously conspiring against him?",
+      "stakes_importance": "High \u2014 explicitly names the deadly consequence of crossing the powerful Duke.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Catherine's flattery convince Father Thomas to risk his neck?",
+      "stakes_importance": "Low \u2014 dismissive reassurance that weakens the immediate sense of danger.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Father Thomas face the gallows for committing capital treason against the Duke whom the King personally restored?",
+      "stakes_importance": "High \u2014 escalates the stakes to royal treason and execution by hanging under the King's authority.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 3,
+      "specific_question": "What reward or power is Catherine promising Father Thomas in return for risking his life?",
+      "stakes_importance": "Medium \u2014 seductive promise of future patronage.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Catherine leverage the power of Duchess to repay or punish those entangled in her treason?",
+      "stakes_importance": "High \u2014 reveals her ultimate, audacious coup: seizing the title of Duchess through illicit conspiracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Catherine accept Father Thomas's terms and seal their pact of treason?",
+      "stakes_importance": "Medium \u2014 a physical gesture offering an irrevocable alliance against the Crown.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 4,
+      "specific_question": "Now that the treasonous pact is sealed with clasped hands, will their conspiracy overthrow the Duke or lead them to the gallows?",
+      "stakes_importance": "High \u2014 formal sealing of a lethal conspiracy between a priest and disgraced noblewoman.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 3,
+      "specific_question": "How deep does the secret, long-standing alliance between Catherine and Father Thomas truly run?",
+      "stakes_importance": "Medium \u2014 confirms an intimate past understanding, but tension is partially resolved into mutual agreement.",
+      "defuses_tension": true,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 5,
+      "specific_question": "Is Father Thomas's tender intimacy with Catherine a sacrilegious romance that will destroy them both if uncovered?",
+      "stakes_importance": "High \u2014 shock reveal of forbidden physical and romantic intimacy between a crowned priest and a disgraced noblewoman, cut to black at the peak of scandal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

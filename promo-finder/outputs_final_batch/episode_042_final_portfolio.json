@@ -1,0 +1,209 @@
+{
+  "episode_number": 42,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP042_13",
+      "absolute_rubric_score": 9.8,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.5,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B011",
+        "end_beat_id": "B020",
+        "start_time": 30.4,
+        "end_time": 77.8,
+        "duration": 47.4,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You cannot be him. Alexander died!",
+        "opening_character": "BLOND NOBLEMAN",
+        "rationale": "Explosive reveal: 'You cannot be him. Alexander died!' instantly exposes a resurrection/identity mystery to the cold scroller."
+      },
+      "cliffhanger": {
+        "final_quote": "And now, Rupert... we settle what you stole.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Will Alexander draw his sabre and execute Rupert right on the cathedral altar steps?"
+      },
+      "situational_summary": "A presumed-dead heir marches down a ruined cathedral nave, receives public validation from his weeping mother as the rightful Duke, and turns his sabre on the terrified rival who stole his birthright.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 3
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP042_08",
+      "absolute_rubric_score": 9.0,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.0911,
+      "max_similarity_to_selected": 0.7482,
+      "boundary": {
+        "start_beat_id": "B006",
+        "end_beat_id": "B018",
+        "start_time": 17.9,
+        "end_time": 72.5,
+        "duration": 54.6,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Guards! Arrest this imposter!",
+        "opening_character": "BLOND NOBLEMAN",
+        "rationale": "High-urgency command ('Guards! Arrest this imposter!') instantly establishes an explosive public confrontation."
+      },
+      "cliffhanger": {
+        "final_quote": "Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!",
+        "final_character": "ALEXANDER'S MOTHER",
+        "specific_question": "How will the court, Rupert, and the guards react now that the true Duke of Ashburn is publicly proclaimed?"
+      },
+      "situational_summary": "When a nobleman demands the arrest of an imposter at the altar, the guards refuse, paving the way for the matriarch to publicly declare the newcomer as the rightful Duke.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 3
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP042_12",
+      "absolute_rubric_score": 9.0,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.091,
+      "max_similarity_to_selected": 0.8842,
+      "boundary": {
+        "start_beat_id": "B011",
+        "end_beat_id": "B018",
+        "start_time": 30.4,
+        "end_time": 72.5,
+        "duration": 42.1,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You cannot be him. Alexander died!",
+        "opening_character": "BLOND NOBLEMAN",
+        "rationale": "Explosive reveal: 'You cannot be him. Alexander died!' instantly exposes a resurrection/identity mystery to the cold scroller."
+      },
+      "cliffhanger": {
+        "final_quote": "Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!",
+        "final_character": "ALEXANDER'S MOTHER",
+        "specific_question": "How will the court, Rupert, and the guards react now that the true Duke of Ashburn is publicly proclaimed?"
+      },
+      "situational_summary": "A panicked nobleman in a church accuses a man of being an impossible ghost, only for the presumed-dead heir to be tearfully embraced and proclaimed the rightful Duke by his mother.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 3
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP042_04",
+      "absolute_rubric_score": 8.8,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.0179,
+      "max_similarity_to_selected": 0.7751,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B009",
+        "start_time": 0.0,
+        "end_time": 28.8,
+        "duration": 28.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Because we know who he is.",
+        "final_character": "ROYAL GUARD",
+        "specific_question": "Who do the royal guards recognize him as, and what authority does he carry over them?"
+      },
+      "situational_summary": "A corrupt lord orders the arrest of a man intruding on a captive woman's captivity, only for the royal guard to mutiny and reveal they recognize the intruder's true supreme authority.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP042_05",
+      "absolute_rubric_score": 8.4,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.071,
+      "max_similarity_to_selected": 0.8369,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B011",
+        "start_time": 0.0,
+        "end_time": 33.8,
+        "duration": 33.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "You cannot be him. Alexander died!",
+        "final_character": "BLOND NOBLEMAN",
+        "specific_question": "How did Alexander survive the supposed death Rupert capitalized upon?"
+      },
+      "situational_summary": "A presumed-dead nobleman strides into a ruined cathedral during a wedding ceremony, causing the royal guards to defy the groom's arrest orders as the groom realizes his rival is alive.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP042_02",
+      "rank": 6,
+      "recommended_boundary": "B001 -> B007",
+      "similarity": 0.92,
+      "duplicate_of": "CAND_EP042_04",
+      "reason": "Exceeded near-duplicate threshold (0.9200 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP042_03",
+      "rank": 7,
+      "recommended_boundary": "B001 -> B008",
+      "similarity": 0.9368,
+      "duplicate_of": "CAND_EP042_04",
+      "reason": "Exceeded near-duplicate threshold (0.9368 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP042_01",
+      "rank": 9,
+      "recommended_boundary": "B001 -> B006",
+      "similarity": 0.9258,
+      "duplicate_of": "CAND_EP042_04",
+      "reason": "Exceeded near-duplicate threshold (0.9258 >= 0.90)"
+    }
+  ]
+}

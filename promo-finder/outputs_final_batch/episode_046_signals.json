@@ -1,0 +1,568 @@
+{
+  "episode_number": 46,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Full shot establishing a couple at the altar with hands clasped as an intrusion unfolds, legible tension on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Reaction shot of an elderly noblewoman clutching her chest in anxious apprehension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Noticeable visual friction featuring a rival in a bridal gown tightly clenching her fists in fury.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Dramatic tracking shot of an armed squad with halberds marching down a ruined nave, establishing immediate visual danger.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Formal declaration of Crown seizure and sanctuary breach by the High Priest.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Insert close-up of breaking a royal crimson wax seal flanked by armed guards, instantly legible without audio.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Imposes a direct authoritarian lockdown on all witnesses present.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle medium shot unrolling a document, showing moderate authority but standard framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Shocking public accusation exposing that the groom married as a 'nameless beggar.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Wide shot of a defiant couple at the altar confronting the accuser before a stunned congregation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Accuses the marriage of being an unrecorded hedge ceremony.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of an antagonistic priest displaying disdain while holding a decree.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive identity reveal ('beggar is revealed to be a Duke') met with Alexander's resolute declaration: 'She married the man... not the title.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Priest brandishing a decree cuts to a scarred Duke physically stepping forward to shield his bride.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes invalidation stating the church never married the Duke of Ashburton to anyone.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle shot raising parchment toward the ceiling.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Legalistic exposition explaining the absence of a Crown license.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Priest lowering the document with an admonishing finger.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Incomplete sentence clause about the lack of a licensed clergyman.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Two-shot highlighting Juliana's hurt and defiant expression at the altar.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct denial of authority asserting a village priest cannot bind a peer.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of the glaring High Priest.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Shocking revelation that the Duke was officially presumed dead by the Crown during the marriage.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Push-in medium to close-up as the priest aggressively thrusts the royal War Office proclamation into the lens.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Juliana delivers a stinging, emotional rebuke: 'I didn't ask this church for permission to survive, Father.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of a tearful bride holding her chin up with righteous fury.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Defiant declaration refusing to ask permission to love.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard two-shot of Juliana standing proudly beside Alexander.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Brutal dismissive insult: 'Love doesn't make a Duchess, girl. Paper does.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of the priest delivering a condescending, sinister smirk.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Emotional challenge demanding honesty and recalling church persecution.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Slow push-in medium close-up capturing intense indignation and vocal trembling.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp accusation of past trauma: 'A church chained me.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Quick cut to the smug, impassive priest.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Passionate outburst shouting down the priest: 'God married us, Father! You are just angry no one asked you first!'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of Juliana furiously screaming in the priest's face.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Ominous venomous taunt warning that 'the floor isn't finished with you.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Villainous bride whispering mockery from behind a stone archway.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High Priest's explosive pushback rejecting divine sanction and condemning the marriage as illicit.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle advance up altar steps paired with an insert shot of the smirking rival bride.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Aggressive threat promising to undo three years of marriage in one hearing.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Wide shot of the priest waving the letter overhead before the entire congregation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Catherine observing eagerly.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Alexander challenges clerical jurisdiction with peerage court authority.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Profile medium shot of two men squaring off face-to-face at the altar base.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "High Priest asserts council jurisdiction over the marriage.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle two-shot framing the physical height disparity between the two men.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sharp ultimatum challenging the priest to court within ten days rather than at weapon-point.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up of Alexander glaring with icy authority.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Ominous countdown ultimatum: 'Ten days... this county watches you lose her twice.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Wide profile two-shot capturing the physical standoff between the Duke and priest.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Brevity response accepting the wager over the decree.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual framing or action provided.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Quick reaction shot of an onlooker gripping beads in distress.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "High-stakes command threatening treason: 'Lower them! Or explain to the Crown why its own bailiffs raised iron on the Duke it just confirmed!'",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Halberds and swords pointed inches from the Duke's chest while surrounding the couple; instant life-or-death visual hook.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Priest calls a truce with an ominous warning to pick witnesses well.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Guards lowering weapon tips away from the Duke on the priest's hand signal.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sinister concluding punchline: 'Ten days is plenty of time.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Slow pan to a rival bride smiling predatorily straight into camera as guards retreat.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who or what is intruding into the wedding ceremony?",
+      "stakes_importance": "Medium \u2014 interrupts a sacred moment between the protagonists, signaling imminent disruption.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why is the noblewoman apprehensive?",
+      "stakes_importance": "Low \u2014 secondary spectator reaction without direct narrative revelation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "What is Catherine planning to do about Alexander and Juliana's wedding?",
+      "stakes_importance": "Medium \u2014 establishes rival malice and impending obstruction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why has the High Priest marched armed royal guards into the sanctuary?",
+      "stakes_importance": "High \u2014 official state/religious intervention backed by deadly force.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 3,
+      "specific_question": "What royal decree or war office order is contained inside the broken wax seal?",
+      "stakes_importance": "High \u2014 tangible legal/crown mandate threatening the couple's sanctuary.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will happen to the witnesses and the couple under Crown lockdown?",
+      "stakes_importance": "High \u2014 creates immediate physical entrapment and interrogation stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the High Priest challenge the legitimacy of Alexander's beggar marriage?",
+      "stakes_importance": "High \u2014 opens a direct legal and social attack on their bond.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's marriage be declared void due to the unrecorded hedge ceremony?",
+      "stakes_importance": "High \u2014 attacks Juliana's legal status and protection.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Alexander's defense that 'she married the man... not the title' withstand the High Priest's royal decree?",
+      "stakes_importance": "High \u2014 core emotional conflict between romantic fidelity and rigid peerage law.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana be stripped of her position as Duchess because the Duke was presumed dead or never married?",
+      "stakes_importance": "High \u2014 threatens Juliana with total social ruin and nullification.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can an unlicensed marriage between a peer and commoner hold any legal weight?",
+      "stakes_importance": "Medium \u2014 continues legal exposition challenging their status.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 2,
+      "specific_question": "What further invalidation will the High Priest cite?",
+      "stakes_importance": "Low \u2014 mid-sentence pause in the priest's indictment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Alexander prove any authority validated their union if the village priest had no jurisdiction?",
+      "stakes_importance": "High \u2014 establishes a strict jurisdictional barrier to their legitimacy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Alexander and Juliana overcome the War Office proclamation recording Alexander as legally dead?",
+      "stakes_importance": "High \u2014 devastating bureaucratic barrier thrust into their faces with physical proof.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the High Priest punish Juliana's open defiance of church authority?",
+      "stakes_importance": "High \u2014 protagonist stands up to ecclesiastical power, escalating personal risk.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's refusal to beg for permission invite immediate arrest or retaliation?",
+      "stakes_importance": "High \u2014 direct emotional resistance against overwhelming authority.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana be reduced to nothing by the cold reality that 'paper makes a Duchess'?",
+      "stakes_importance": "High \u2014 brutal verbal takedown highlighting the harsh legal vulnerability of her love.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 2,
+      "specific_question": "What past suffering will Juliana reveal about the church calling her unworthy?",
+      "stakes_importance": "Medium \u2014 setup of a multi-part emotional monologue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 2,
+      "specific_question": "What did the church do when it chained her?",
+      "stakes_importance": "Medium \u2014 mid-speech emotional escalation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will the High Priest retaliate after Juliana publicly accuses him of acting out of wounded pride?",
+      "stakes_importance": "High \u2014 explosive public confrontation where the heroine openly defies holy authority before the congregation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 3,
+      "specific_question": "What malicious trap is Catherine referring to when she warns that the floor isn't finished with Juliana?",
+      "stakes_importance": "High \u2014 ominous foreshadowing from a vindictive rival aiming to destroy her.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "What physical or punitive action will the furious High Priest take as he storms up the altar steps?",
+      "stakes_importance": "High \u2014 impending physical confrontation between church authorities and the altar party.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the High Priest's threatened hearing instantly dissolve Juliana's three-year marriage and title?",
+      "stakes_importance": "High \u2014 existential threat of total annulment and public condemnation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 1,
+      "specific_question": "What is Catherine eagerly anticipating?",
+      "stakes_importance": "Low \u2014 brief reaction shot with no new development.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Alexander force the trial into Crown peerage court rather than the priest's jurisdiction?",
+      "stakes_importance": "High \u2014 legal power struggle between Duke and Church.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the High Religious Council assert jurisdiction over the Duke's matrimony?",
+      "stakes_importance": "High \u2014 establishes the high tribunal deciding their fate.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the armed guards back down or strike Alexander down where he stands in the chapel?",
+      "stakes_importance": "High \u2014 high-stakes standoff with six lethal halberds leveled at the Duke.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Alexander find the witnesses to survive the ten-day deadline before Juliana is taken from him forever?",
+      "stakes_importance": "High \u2014 establishes a strict countdown ultimatum where failure means devastating public loss.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 3,
+      "specific_question": "What gamble is Alexander willing to stake against the decree?",
+      "stakes_importance": "High \u2014 Duke accepts an extreme high-risk wager.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why is the old woman distressed?",
+      "stakes_importance": "Low \u2014 peripheral bystander reaction shot.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will the royal guards impale the Duke on their weapons or stand down under his command?",
+      "stakes_importance": "High \u2014 peak physical tension with weapons drawn inches from the protagonist's chest.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 3,
+      "specific_question": "Who can Alexander possibly summon as credible witnesses within ten days?",
+      "stakes_importance": "High \u2014 tension defuses physically as weapons drop, but shifts to the narrative trial countdown.",
+      "defuses_tension": true,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 5,
+      "specific_question": "What sabotage or scheme does Catherine have planned within the ten days to ensure Juliana's ruin?",
+      "stakes_importance": "High \u2014 perfect episode/clip cliffhanger revealing a lurking villainous conspiracy waiting to strike during the countdown.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

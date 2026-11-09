@@ -1,0 +1,281 @@
+{
+  "episode_number": 46,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP046_06",
+      "absolute_rubric_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B009",
+        "end_beat_id": "B017",
+        "start_time": 26.8,
+        "end_time": 71.0,
+        "duration": 44.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.",
+        "opening_character": "HIGH PRIEST",
+        "rationale": "Explosive identity reveal ('beggar is revealed to be a Duke') met with Alexander's resolute declaration: 'She married the man... not the title.'"
+      },
+      "cliffhanger": {
+        "final_quote": "Love doesn't make a Duchess, girl. Paper does.",
+        "final_character": "HIGH PRIEST",
+        "specific_question": "Will Juliana be reduced to nothing by the cold reality that 'paper makes a Duchess'?"
+      },
+      "situational_summary": "A corrupt church authority attempts to nullify a woman's marriage to a newly revealed Duke, prompting her fierce defiance before he coldly reminds her that only legal paper bestows nobility.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP046_09",
+      "absolute_rubric_score": 9.0,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.066,
+      "max_similarity_to_selected": 0.8533,
+      "boundary": {
+        "start_beat_id": "B014",
+        "end_beat_id": "B020",
+        "start_time": 52.2,
+        "end_time": 85.8,
+        "duration": 33.6,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexander Ashburton was already dead.",
+        "opening_character": "HIGH PRIEST",
+        "rationale": "Shocking revelation that the Duke was officially presumed dead by the Crown during the marriage."
+      },
+      "cliffhanger": {
+        "final_quote": "God married us, Father! You are just angry no one asked you first!",
+        "final_character": "JULIANA",
+        "specific_question": "How will the High Priest retaliate after Juliana publicly accuses him of acting out of wounded pride?"
+      },
+      "situational_summary": "A corrupt High Priest brandishes an official decree declaring the groom dead to invalidate a wedding, prompting the bride to fiercely defend their love as sacred above church authority.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP046_04",
+      "absolute_rubric_score": 8.8,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.2
+      },
+      "mmr_score": -0.0948,
+      "max_similarity_to_selected": 0.8773,
+      "boundary": {
+        "start_beat_id": "B007",
+        "end_beat_id": "B014",
+        "start_time": 20.5,
+        "end_time": 58.2,
+        "duration": 37.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You married this woman as a nameless beggar...",
+        "opening_character": "HIGH PRIEST",
+        "rationale": "Shocking public accusation exposing that the groom married as a 'nameless beggar.'"
+      },
+      "cliffhanger": {
+        "final_quote": "And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexander Ashburton was already dead.",
+        "final_character": "HIGH PRIEST",
+        "specific_question": "How will Alexander and Juliana overcome the War Office proclamation recording Alexander as legally dead?"
+      },
+      "situational_summary": "At the chapel altar, a High Priest systematically dismantles a couple's marriage, revealing the groom is legally presumed dead by the Royal War Office.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP046_21",
+      "absolute_rubric_score": 8.6,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.1005,
+      "max_similarity_to_selected": 0.7789,
+      "boundary": {
+        "start_beat_id": "B028",
+        "end_beat_id": "B033",
+        "start_time": 118.5,
+        "end_time": 143.88,
+        "duration": 25.38,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Ten days. And if the council rules against you, this county watches you lose her twice.",
+        "opening_character": "HIGH PRIEST",
+        "rationale": "Ominous countdown ultimatum: 'Ten days... this county watches you lose her twice.'"
+      },
+      "cliffhanger": {
+        "final_quote": "Ten days is plenty of time.",
+        "final_character": "CATHERINE",
+        "specific_question": "What sabotage or scheme does Catherine have planned within the ten days to ensure Juliana's ruin?"
+      },
+      "situational_summary": "Facing an ultimatum from the High Priest and armed guards at the altar, a defiant Duke secures a ten-day reprieve to defend his woman, unaware a smiling bride is already scheming his downfall.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP046_18",
+      "absolute_rubric_score": 8.3,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 1.9
+      },
+      "mmr_score": -0.1792,
+      "max_similarity_to_selected": 0.8426,
+      "boundary": {
+        "start_beat_id": "B022",
+        "end_beat_id": "B028",
+        "start_time": 89.2,
+        "end_time": 124.0,
+        "duration": 34.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Careful, girl. You mistake my patience for weakness.",
+        "opening_character": "HIGH PRIEST",
+        "rationale": "High Priest's explosive pushback rejecting divine sanction and condemning the marriage as illicit."
+      },
+      "cliffhanger": {
+        "final_quote": "Ten days. And if the council rules against you, this county watches you lose her twice.",
+        "final_character": "HIGH PRIEST",
+        "specific_question": "Can Alexander find the witnesses to survive the ten-day deadline before Juliana is taken from him forever?"
+      },
+      "situational_summary": "At the altar, an incensed High Priest attempts to annul an unauthorized marriage until the Duke confronts him and forces a ten-day public hearing.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP046_05",
+      "rank": 2,
+      "recommended_boundary": "B009 -> B014",
+      "similarity": 0.9364,
+      "duplicate_of": "CAND_EP046_06",
+      "reason": "Exceeded near-duplicate threshold (0.9364 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP046_07",
+      "rank": 5,
+      "recommended_boundary": "B009 -> B020",
+      "similarity": 0.9586,
+      "duplicate_of": "CAND_EP046_06",
+      "reason": "Exceeded near-duplicate threshold (0.9586 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP046_05",
+      "rank": 2,
+      "recommended_boundary": "B009 -> B014",
+      "similarity": 0.9364,
+      "duplicate_of": "CAND_EP046_06",
+      "reason": "Exceeded near-duplicate threshold (0.9364 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP046_10",
+      "rank": 4,
+      "recommended_boundary": "B014 -> B022",
+      "similarity": 0.9028,
+      "duplicate_of": "CAND_EP046_09",
+      "reason": "Exceeded near-duplicate threshold (0.9028 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP046_07",
+      "rank": 5,
+      "recommended_boundary": "B009 -> B020",
+      "similarity": 0.9586,
+      "duplicate_of": "CAND_EP046_06",
+      "reason": "Exceeded near-duplicate threshold (0.9586 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP046_05",
+      "rank": 2,
+      "recommended_boundary": "B009 -> B014",
+      "similarity": 0.9364,
+      "duplicate_of": "CAND_EP046_06",
+      "reason": "Exceeded near-duplicate threshold (0.9364 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP046_10",
+      "rank": 4,
+      "recommended_boundary": "B014 -> B022",
+      "similarity": 0.9028,
+      "duplicate_of": "CAND_EP046_09",
+      "reason": "Exceeded near-duplicate threshold (0.9028 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP046_07",
+      "rank": 5,
+      "recommended_boundary": "B009 -> B020",
+      "similarity": 0.9586,
+      "duplicate_of": "CAND_EP046_06",
+      "reason": "Exceeded near-duplicate threshold (0.9586 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP046_05",
+      "rank": 2,
+      "recommended_boundary": "B009 -> B014",
+      "similarity": 0.9364,
+      "duplicate_of": "CAND_EP046_06",
+      "reason": "Exceeded near-duplicate threshold (0.9364 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP046_10",
+      "rank": 4,
+      "recommended_boundary": "B014 -> B022",
+      "similarity": 0.9028,
+      "duplicate_of": "CAND_EP046_09",
+      "reason": "Exceeded near-duplicate threshold (0.9028 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP046_07",
+      "rank": 5,
+      "recommended_boundary": "B009 -> B020",
+      "similarity": 0.9586,
+      "duplicate_of": "CAND_EP046_06",
+      "reason": "Exceeded near-duplicate threshold (0.9586 >= 0.90)"
+    }
+  ]
+}

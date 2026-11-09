@@ -1,0 +1,956 @@
+{
+  "episode_number": 36,
+  "total_scored": 38,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP036_01",
+      "start_beat_id": "B002",
+      "end_beat_id": "B007",
+      "start_time": 4.2,
+      "end_time": 29.0,
+      "duration": 24.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 opens with Alexander responding mid-conversation ('Because they made certain no one would look') in close-up without establishing the physical setting, who he is speaking to, or what 'they' or 'look' refers to. Retrospective clarity from later beats cannot rescue Beat 0.",
+        "arc_legibility": true,
+        "arc_rationale": "Within the clip, Alexander clearly reveals to his horrified mother that Sterling and Rupert leaked his position to the French to bury his investigation. The betrayal and antagonists are evident.",
+        "passes_gate": false,
+        "situational_summary": "A scarred soldier reveals to his stunned mother in a cabin that trusted comrades conspired to leak his military position to enemy forces."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Chilling revelation of family/comrade military treason and suppressed rage"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses key plot conspiracy mechanics and the specific names behind the betrayal (Sterling and Rupert)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_02",
+      "start_beat_id": "B002",
+      "end_beat_id": "B008",
+      "start_time": 4.2,
+      "end_time": 31.9,
+      "duration": 27.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 starts on an in-media-res pronoun-heavy line ('Because they made certain no one would look') on a close-up without visual grounding of the room, interlocutor, or context, failing standalone opening legibility.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue establishes the mother-son dynamic and confirms that Rupert and Sterling sold Alexander out directly to the enemy to conceal an investigation.",
+        "passes_gate": false,
+        "situational_summary": "A scarred soldier reveals to his mother that his own allies leaked his location to the enemy to prevent him from exposing a conspiracy."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging betrayal and maternal anguish upon discovering treason"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Explicitly names the conspirators and confirms they deliberately handed him over to enemy forces."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_03",
+      "start_beat_id": "B002",
+      "end_beat_id": "B010",
+      "start_time": 4.2,
+      "end_time": 38.9,
+      "duration": 34.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 begins on a tight close-up delivering an explanatory fragment answering an unheard question ('Because they made certain no one would look'). Completely ungrounded to a cold scroller in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc cleanly demonstrates who betrayed him, how they did it (giving his coordinates to the French), and why (to bury his investigation).",
+        "passes_gate": false,
+        "situational_summary": "A soldier details to his horrified mother how Sterling and Rupert sold him out to the French enemy to bury a dangerous investigation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold fury and high-stakes conspiracy reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Lays out the conspirators' motive and the operational mechanics of the ambush conspiracy."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_04",
+      "start_beat_id": "B002",
+      "end_beat_id": "B012",
+      "start_time": 4.2,
+      "end_time": 44.8,
+      "duration": 40.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 opens on an ungrounded close-up with a dependent clause ('Because they made certain no one would look') lacking spatial orientation, relational context, or situational clarity in the opening seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Presents a full, self-contained dramatic progression: betrayal by Rupert/Sterling, leaking his position to the French, and declaring him dead to cover up their actions.",
+        "passes_gate": false,
+        "situational_summary": "A soldier confronts his mother with the truth that his comrades leaked his location to the French and falsely declared him dead to bury his investigation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating double betrayal: sold to the enemy and erased from existence"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the core mystery of his disappearance, the identity of the traitors, and the fact that his death was fabricated."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_05",
+      "start_beat_id": "B005",
+      "end_beat_id": "B014",
+      "start_time": 17.5,
+      "end_time": 52.0,
+      "duration": 34.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B005 opens on a tight close-up of a woman gasping in horror and whispering a single name ('Rupert?'). There is zero visual establishing context, no indication of who she is or where she is, and cold scrollers cannot ground the situation without retrospective context.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes a mother and her presumed-dead son Alexander confronting the reality of his military betrayal by allies so Rupert could usurp his estate (Ashbourne).",
+        "passes_gate": false,
+        "situational_summary": "A presumed-dead heir confronts his grief-stricken mother in secret, revealing he was betrayed to the enemy so a rival named Rupert could steal his inheritance."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Devastating maternal grief meeting cold, hardened military betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the central conspiracy mechanics behind Alexander's disappearance and Rupert's takeover of Ashbourne."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_06",
+      "start_beat_id": "B005",
+      "end_beat_id": "B015",
+      "start_time": 17.5,
+      "end_time": 55.5,
+      "duration": 38.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Opens on Beat B005 with an isolated tight close-up and a single ungrounded question ('Rupert?'), providing no setting, relational anchor, or physical grounding for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "Presents a fully understandable dramatic arc of military treason, false declaration of death, and an usurped legacy culminating in the resolute declaration of the living heir.",
+        "passes_gate": false,
+        "situational_summary": "A scarred heir reveals to his mourning mother that his military death was staged by traitors to steal his estate, vowing retribution as a dead man walking."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Agonizing grief transformed into chilling, resolute vengeance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that Alexander's death was a manufactured conspiracy allowing Rupert to usurp Ashbourne Manor."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_07",
+      "start_beat_id": "B007",
+      "end_beat_id": "B015",
+      "start_time": 23.6,
+      "end_time": 55.5,
+      "duration": 31.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 opens on a man leaning over a table locked on his mother, explicitly stating: 'My position was leaked to the French... before I could expose what I had discovered.' This immediately and unmistakably grounds the interpersonal dynamic, stakes, and military treason premise within 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is completely self-contained: treason to bury an investigation, falsified casualty reports, usurped manor by Rupert, and Alexander standing as the secretly alive heir.",
+        "passes_gate": true,
+        "situational_summary": "A scarred soldier reveals to his mother that his position was leaked to the enemy and his death staged so an usurper could steal his family estate."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Righteous fury and bitter betrayal turning into unwavering vengeful resolve"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Lays out the conspiracy behind Alexander's fake death and Rupert's theft of Ashbourne Manor."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_08",
+      "start_beat_id": "B008",
+      "end_beat_id": "B015",
+      "start_time": 29.0,
+      "end_time": 55.5,
+      "duration": 26.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B008 opens with a close-up of a cloaked woman clutching her collar in sheer anguish asking 'They gave you to the enemy?'. This instantly establishes high-stakes wartime treason and a shocked loved one confronting betrayal without requiring outside exposition.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue builds clearly through the cover-up, the falsified death, the theft of the estate, and the dead heir's vow of retribution.",
+        "passes_gate": true,
+        "situational_summary": "A mother realizes her son was handed over to the enemy and declared dead so that a rival could claim his title and estate."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral maternal horror shifting to steely, cold defiance from a resurrected son"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the core plot revelation that Alexander was deliberately surrendered to enemy forces so his inheritance could be stolen."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_09",
+      "start_beat_id": "B010",
+      "end_beat_id": "B022",
+      "start_time": 35.8,
+      "end_time": 78.2,
+      "duration": 42.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B010 opens mid-dialogue on an extreme close-up of Alexander stating 'They wanted the investigation buried.' Without establishing the physical setting, who 'they' are, or who he is speaking to, a cold scroller lacks immediate situational grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative clarifies that Alexander was falsely declared dead by family usurpers and is reuniting with his grieving mother, culminating in his discovery that Juliana disappeared trying to save her.",
+        "passes_gate": false,
+        "situational_summary": "A presumed-dead heir confronts his grieving mother about their family's betrayal, only to discover that the woman who went to save her never returned."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Bittersweet reunion poisoned by shared grief and sudden dread over a missing loved one"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the mechanics of Alexander being declared dead, Rupert usurping Ashbourne, and Juliana's disappearance."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_10",
+      "start_beat_id": "B012",
+      "end_beat_id": "B022",
+      "start_time": 41.5,
+      "end_time": 78.2,
+      "duration": 36.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 opens on a close-up of Alexander saying 'They declared me dead.' While punchy dialogue, it lacks a visual establishing frame to show where he is or who he is speaking with, relying on subsequent beats for physical grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained emotional progression between an exiled heir and his mother uncovering family betrayal and the realization of Juliana's disappearance.",
+        "passes_gate": false,
+        "situational_summary": "A son reveals to his weeping mother how their family falsified his death to steal their estate, before desperately asking what happened to the woman who tried to save her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging family betrayal and panic over an unresolved rescue"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the false death conspiracy and Rupert taking the estate, along with Juliana's vanished fate."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_11",
+      "start_beat_id": "B014",
+      "end_beat_id": "B028",
+      "start_time": 48.8,
+      "end_time": 96.5,
+      "duration": 47.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 begins with a conjunction in mid-sentence ('And Rupert took Ashbourne') in a tight close-up on a weeping woman. Cold viewers have no visual anchor or context for who Rupert or Ashbourne are or who she is addressing.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue and camera work make clear the dynamic between mother and returning son, the theft of their estate, and the mounting anguish when the mother confirms Juliana is no longer at Ashbourne.",
+        "passes_gate": false,
+        "situational_summary": "While mourning an usurped estate with her returned son, a mother breaks down as she reveals that the woman sent to save her is no longer at the manor."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Mounting anguish and dread as grief over lost inheritance turns into panic over a lost life"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Rupert's takeover of the estate and confirms Juliana is missing from the manor."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_12",
+      "start_beat_id": "B014",
+      "end_beat_id": "B030",
+      "start_time": 48.8,
+      "end_time": 103.5,
+      "duration": 54.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 opens on a tight close-up mid-thought ('And Rupert took Ashbourne'), completely ungrounded for a cold viewer who cannot identify the characters, setting, or conflict without later context.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is fully understandable: a betrayed mother and son piece together the conspiracy against their family, climaxing in the shocking revelation that Juliana was arrested.",
+        "passes_gate": false,
+        "situational_summary": "A son confronting his weeping mother about their family's betrayal presses her on Juliana's whereabouts until she screams that Juliana was arrested."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic tension culminating in a horrified, guilt-ridden revelation of arrest"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals both the usurpation of Ashbourne and the critical plot twist that Juliana was arrested."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_13",
+      "start_beat_id": "B022",
+      "end_beat_id": "B029",
+      "start_time": 74.8,
+      "end_time": 99.0,
+      "duration": 24.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 starts on a medium close-up of a man leaning on a table speaking to an unseen counterparty off-camera. The opening line ('She went into Ashbourne Manor to save you. She never came back.') drops cold viewers into an ungrounded conversation without establishing who 'she' is, who 'you' is, or the physical setting within the first 1-3 seconds.",
+        "arc_legibility": false,
+        "arc_rationale": "The clip cuts off at Beat B029 ('Then where is she?') before any actual revelation or answer is given. The core antagonist, the stakes of what occurred, and what happened to the missing woman remain entirely unexplained.",
+        "passes_gate": false,
+        "situational_summary": "A man frantically interrogates his mother about the whereabouts of a missing woman who went to rescue her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Desperate familial interrogation and rising panic"
+      },
+      "spoiler": {
+        "spoiler_level": 0,
+        "spoiler_rationale": "Merely establishes premise questions and rising concern without disclosing any plot turns or answers."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_14",
+      "start_beat_id": "B022",
+      "end_beat_id": "B030",
+      "start_time": 74.8,
+      "end_time": 103.5,
+      "duration": 28.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 opens in media res with a man leaning on a table speaking to an unidentified person off-camera about an unnamed woman ('She went into Ashbourne Manor...'). There is no establishing context or physical grounding for a cold scroller in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc builds from urgent questioning to the shocking reveal in Beat B030 that the woman was arrested, establishing clear stakes and immediate peril.",
+        "passes_gate": false,
+        "situational_summary": "A man demands answers from his weeping mother about a woman who tried to save her, only to learn she has been arrested."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Mounting dread culminating in a shocking arrest reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the key inciting peril: the savior character has been seized and arrested."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_15",
+      "start_beat_id": "B022",
+      "end_beat_id": "B032",
+      "start_time": 74.8,
+      "end_time": 110.0,
+      "duration": 35.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 fails the opening legibility gate because it opens mid-interrogation on an ungrounded medium close-up without showing the counterparty or establishing the room dynamic within the opening 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The complete clip makes the conflict fully legible: the woman who saved the mother was framed by Rupert and Catherine for poisoning her, clearly naming the antagonists, victim, and false accusation.",
+        "passes_gate": false,
+        "situational_summary": "A man questions his mother about the woman who saved her, discovering she was arrested after being framed for poisoning by Rupert and Catherine."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Monstrous injustice and devastating betrayal by family rivals"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses key plot mechanics: the specific conspiracy and false poisoning frame-up orchestrated by Rupert and Catherine."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_16",
+      "start_beat_id": "B022",
+      "end_beat_id": "B033",
+      "start_time": 74.8,
+      "end_time": 114.0,
+      "duration": 39.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 begins on a single medium close-up with ungrounded dialogue directed at an unseen figure, providing no immediate spatial anchor or relational context in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc clearly articulates the injustice: a rescuer framed for poisoning by Rupert and Catherine, punctuated by the son's righteous outrage that she was the one who actually saved the victim.",
+        "passes_gate": false,
+        "situational_summary": "A man learns his mother's savior was arrested under false poisoning charges by rival relatives, sparking fierce moral outrage."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak righteous fury confronting a monstrous frame-up"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the central frame-up conspiracy (Rupert and Catherine's false poisoning allegation against Juliana)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_17",
+      "start_beat_id": "B030",
+      "end_beat_id": "B036",
+      "start_time": 99.0,
+      "end_time": 123.0,
+      "duration": 24.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B030 starts on a tight close-up of a weeping woman exclaiming 'They arrested her!' without establishing who 'she' or 'they' are, where they are, or who the woman is speaking to. Without prior context, this is an ungrounded exclamation that fails isolated legibility.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full clip, the dialogue quickly clarifies the situation: an innocent savior was framed by Rupert and Catherine for poisoning the matriarch and branded a witch.",
+        "passes_gate": false,
+        "situational_summary": "A distraught mother reveals to her son that the woman who saved her life was framed for poisoning and arrested as a witch."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe moral outrage, wrongful accusation, and maternal guilt"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that antagonists framed the heroine for poisoning and orchestrated her arrest as a witch."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_18",
+      "start_beat_id": "B030",
+      "end_beat_id": "B040",
+      "start_time": 99.0,
+      "end_time": 139.0,
+      "duration": 40.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B030 opens on a tight close-up crying 'They arrested her!' with zero physical establishing context, unclear subjects, and an ungrounded relationship dynamic in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is exceptionally clear and self-contained: the mother explains the frame-up to Alexander, escalating directly to the horrifying death sentence.",
+        "passes_gate": false,
+        "situational_summary": "A devastated mother confesses to her son that his savior wife was framed for poisoning, condemned as a witch, and sentenced to execution."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating existential rupture and imminent execution of an innocent loved one"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the magistrate's kangaroo court verdict and impending execution order against Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_19",
+      "start_beat_id": "B032",
+      "end_beat_id": "B037",
+      "start_time": 105.8,
+      "end_time": 127.5,
+      "duration": 21.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 opens on a two-person medium close-up physically grounding the interaction as a mother clutches Alexander's forearms with desperate hands, paired with an explicit accusation: 'Rupert and Catherine accused her of poisoning me!'. The physical stakes, relationship dynamic, and conflict are grounded immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: the victim herself explains she was saved, the accusers lied, and the savior is now branded a witch in a cell.",
+        "passes_gate": true,
+        "situational_summary": "A poisoned matriarch desperately informs her son that her real savior was framed for the crime, branded a witch, and locked in a cell."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate plea against cruel injustice and wrongful imprisonment"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the villains' plot and framing of Juliana for the poisoning."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_20",
+      "start_beat_id": "B032",
+      "end_beat_id": "B038",
+      "start_time": 105.8,
+      "end_time": 130.8,
+      "duration": 25.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 grounds the scene immediately in a medium close-up of a desperate woman clutching Alexander's arms while delivering the concrete exposition that named villains accused her savior of poisoning her.",
+        "arc_legibility": true,
+        "arc_rationale": "The dynamic of malicious framing, kangaroo court hysteria, and pending legal peril is fully legible from the dialogue and performance.",
+        "passes_gate": true,
+        "situational_summary": "A mother informs her son that Rupert and Catherine framed her savior for poisoning, branding her a witch and hauling her before a magistrate."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate race against corrupt legal persecution and false accusation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the conspiracy to frame Juliana and her transfer to the magistrate."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_21",
+      "start_beat_id": "B032",
+      "end_beat_id": "B039",
+      "start_time": 105.8,
+      "end_time": 132.0,
+      "duration": 26.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 opens on a clear two-person medium close-up of a desperate mother clutching Alexander's forearms while delivering the direct accusation ('Rupert and Catherine accused her of poisoning me!'), immediately establishing physical intimacy, stakes, and the accusation without requiring prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression clearly lays out the injustice: Juliana saved the mother, villains framed her as a witch, and she has been taken before a magistrate to face judgment.",
+        "passes_gate": true,
+        "situational_summary": "A terrified mother reveals to her furious son that his wife has been framed for poisoning and dragged before a magistrate."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate injustice and rising dread over a framed loved one's fate"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses that the antagonists framed Juliana for poisoning and put her in a cell; establishes the primary conflict/inciting crisis."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_22",
+      "start_beat_id": "B032",
+      "end_beat_id": "B040",
+      "start_time": 105.8,
+      "end_time": 139.0,
+      "duration": 33.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 opens with a grounded physical establishing shot: a mother clutching Alexander's forearms with desperate hands while naming the antagonists and the poisoning accusation directly.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc builds seamlessly from the accusation of witchcraft to the devastating climax where the mother reveals Juliana has been condemned to death.",
+        "passes_gate": true,
+        "situational_summary": "A mother informs her furious son that his wife was framed for poisoning her, convicted as a witch, and sentenced to execution."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak visceral shock and devastating death-sentence reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the formal death sentence handed down by the magistrate, escalating past the basic frame-up premise."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_23",
+      "start_beat_id": "B032",
+      "end_beat_id": "B042",
+      "start_time": 105.8,
+      "end_time": 145.8,
+      "duration": 40.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 physically and verbally anchors the scene immediately with the mother grabbing Alexander's arms and stating the poisoning frame-up by Rupert and Catherine.",
+        "arc_legibility": true,
+        "arc_rationale": "The dramatic throughline is fully understandable from the dialogue: a framed savior condemned to die, with a ticking clock tied to an upcoming wedding.",
+        "passes_gate": true,
+        "situational_summary": "A mother breaks the news to her son that his wife has been condemned to be executed immediately following an upcoming wedding."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating condemnation compounded by a cruel, ticking-clock countdown"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses both the execution verdict and the specific timing tied to the antagonists' wedding."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_24",
+      "start_beat_id": "B033",
+      "end_beat_id": "B040",
+      "start_time": 110.0,
+      "end_time": 139.0,
+      "duration": 29.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B033 opens mid-conversation on a reactive rebuttal ('But she saved you!') over a close-up of a furious face; without the mother's preceding line from B032, a cold scroller lacks the situational ground of who 'she' or 'you' refers to.",
+        "arc_legibility": true,
+        "arc_rationale": "The remainder of the clip clarifies that a woman named Juliana was accused of being a witch and sentenced to death despite saving the speaker's mother.",
+        "passes_gate": false,
+        "situational_summary": "A son reacts in fury as his mother recounts how the woman who saved her life was condemned to execution."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Explosive fury and tragic condemnation of an innocent savior"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that Juliana has been formally sentenced to death by the magistrate."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_25",
+      "start_beat_id": "B036",
+      "end_beat_id": "B044",
+      "start_time": 119.5,
+      "end_time": 156.5,
+      "duration": 37.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Opens on Beat B036 with a devastated mother crying out in a close-up: 'They called her a witch!' immediately setting a clear, sensational historical/fantasy kangaroo court persecutory dynamic.",
+        "arc_legibility": true,
+        "arc_rationale": "The full dialogue establishes that Alexander's wife Juliana has been condemned to death following an imminent wedding between Rupert and Catherine in two days, giving an urgent, self-contained ticking clock conflict.",
+        "passes_gate": true,
+        "situational_summary": "A devastated mother reveals to her son that his wife has been branded a witch and condemned to execution immediately following a rival wedding in two days."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate panic turning into cold protective fury upon learning a loved one faces imminent execution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's arrest, witch trial verdict, and the looming wedding/execution plot schedule."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_26",
+      "start_beat_id": "B037",
+      "end_beat_id": "B044",
+      "start_time": 123.0,
+      "end_time": 156.5,
+      "duration": 33.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B037 opens mid-conversation with Alexander frozen asking 'Juliana... is in a cell?' without establishing who Juliana is or why she is imprisoned.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the duration of the clip, the context of the condemnation and the upcoming wedding deadline makes the life-or-death stakes clear.",
+        "passes_gate": false,
+        "situational_summary": "Alexander learns his wife has been imprisoned and sentenced to die right after an enemy wedding set in two days."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sudden horror and dread discovering a spouse is condemned to death"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses Juliana's imprisonment, upcoming execution, and the timing of Rupert and Catherine's wedding."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_27",
+      "start_beat_id": "B039",
+      "end_beat_id": "B046",
+      "start_time": 130.8,
+      "end_time": 163.0,
+      "duration": 32.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B039 starts on a single mid-exchange reaction exclamation ('And?!') with Alexander's eyes wild, completely lacking baseline narrative or situational grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "The full dialogue establishes the death sentence and culminates in Alexander's explicit declaration that they are killing his wife after the wedding.",
+        "passes_gate": false,
+        "situational_summary": "An urgent exchange informs a man that his wife is scheduled for execution immediately following a wedding in two days."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Furious realization of a murder conspiracy against his wife"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the execution sentence, wedding deadline, and Alexander's discovery of the plot."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_28",
+      "start_beat_id": "B040",
+      "end_beat_id": "B046",
+      "start_time": 132.0,
+      "end_time": 163.0,
+      "duration": 31.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B040 opens immediately with an inconsolable mother delivering the direct stakes: 'They condemned her... She is to be executed,' instantly grounding the mortal stakes and situation.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative trajectory flows cleanly from the execution announcement to the wedding timeline, ending on Alexander's explicit vow and lethal realization ('...and killing my wife afterward.').",
+        "passes_gate": true,
+        "situational_summary": "After his mother breaks down with the news that his wife has been condemned to death, a man deduces the conspirators plan to execute her immediately following their wedding in two days."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Lethal shock and heartbreak erupting into murderous, predatory resolve"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the execution verdict and connects it directly to the upcoming wedding timeline."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_29",
+      "start_beat_id": "B040",
+      "end_beat_id": "B050",
+      "start_time": 132.0,
+      "end_time": 177.0,
+      "duration": 45.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B040 opens on a tearful mother breaking down and delivering an immediate, high-stakes declaration: 'They condemned her... She is to be executed.' The interpersonal dynamic and life-or-death crisis are established instantly within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear, self-contained conflict: enemies have usurped Alexander's name, home, and sentenced his wife Juliana to execution following an upcoming wedding. Alexander vows revenge despite his mother's desperate pleas.",
+        "passes_gate": true,
+        "situational_summary": "After learning his enemies plan to execute his wife immediately following a rival wedding, an exiled man resolves to wage war and take back everything stolen from him."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Desperate maternal grief exploding into ferocious, righteous vengeance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals key mid-arc plot mechanics: Juliana's impending execution and the impending wedding between Rupert and Catherine."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_30",
+      "start_beat_id": "B040",
+      "end_beat_id": "B051",
+      "start_time": 132.0,
+      "end_time": 179.5,
+      "duration": 47.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Opens on Beat B040 with an emotionally intense close-up of a weeping mother delivering the shock news of an execution sentence, grounding the scene and stakes immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "The full stakes are articulated clearly: enemies stole his identity, estate, and are executing his wife after an imminent wedding, culminating in an ominous display of restrained physical fury.",
+        "passes_gate": true,
+        "situational_summary": "Informed by his weeping mother that his wife will be executed after a rival wedding, Alexander prepares to retaliate against the people who stole his life."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Desperate maternal grief exploding into ferocious, righteous vengeance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the execution plot against Juliana and the Rupert/Catherine wedding timeline."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_31",
+      "start_beat_id": "B040",
+      "end_beat_id": "B053",
+      "start_time": 132.0,
+      "end_time": 188.0,
+      "duration": 56.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B040 establishes an unambiguous life-or-death scenario right away with the mother sobbing and announcing that 'She is to be executed.'",
+        "arc_legibility": true,
+        "arc_rationale": "The full narrative arc lays out the entire motivation: stolen name, stolen home, captured wife awaiting death, finishing on a chilling promise to disrupt their celebration.",
+        "passes_gate": true,
+        "situational_summary": "Upon discovering his enemies plan to marry and then execute his wife, an outcast vows that their celebration will be cut short."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cold, calculated fury ignited by the impending murder of his wife"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the execution plot and Rupert and Catherine's wedding deadline."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_32",
+      "start_beat_id": "B046",
+      "end_beat_id": "B054",
+      "start_time": 160.0,
+      "end_time": 192.5,
+      "duration": 32.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B046 begins mid-sentence ('...and killing my wife afterward') without establishing where the characters are, who is speaking, or who 'they' refers to. Retrospective justification is forbidden.",
+        "arc_legibility": true,
+        "arc_rationale": "As the clip progresses, Alexander's escalating monologue clarifies that his enemies have stripped him of his name, home, and wife.",
+        "passes_gate": false,
+        "situational_summary": "A furious man declares that his enemies have taken everything from him and warns he will strike before their wedding can take place."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Furious defiance and predatory intent"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that his enemies intend to kill his wife and that an attack is planned before the wedding."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_33",
+      "start_beat_id": "B046",
+      "end_beat_id": "B055",
+      "start_time": 160.0,
+      "end_time": 200.75,
+      "duration": 40.75,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B046 begins mid-sentence with leading ellipses ('...and killing my wife afterward') over an ungrounded close-up of eyes, providing no establishing visual context of the setting or who is present.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full clip, the situation becomes crystal clear: a dispossessed nobleman ('dead Duke') is vowing bloody vengeance to reclaim his name, home, and abducted wife Juliana from usurpers holding a wedding in two days.",
+        "passes_gate": false,
+        "situational_summary": "A presumed-dead Duke resolves to return and crash an impending wedding in two days to reclaim his stolen title, home, and captive wife."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous fury and lethal resolve fueled by dispossession and abduction"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the Duke is alive, his plan to strike in two days, and that Juliana has been taken for an impending wedding."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_34",
+      "start_beat_id": "B048",
+      "end_beat_id": "B055",
+      "start_time": 167.0,
+      "end_time": 200.75,
+      "duration": 33.75,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B048 opens abruptly with 'They already took my name' in a close-up towering over an unestablished companion ('towering over her') without first establishing the environment or relationship.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative throughline is fully legible: a wronged Duke recounts his grievances and declares his impending return to disrupt the usurpers' celebration before the wedding.",
+        "passes_gate": false,
+        "situational_summary": "A wronged Duke recounts his stolen identity and prepares to march into a blizzard to stop a wedding in two days."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant rage and vengeance mounting over stolen identity"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the Duke survived and intends to crash the wedding in two days to reclaim what was stolen."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_35",
+      "start_beat_id": "B049",
+      "end_beat_id": "B055",
+      "start_time": 171.0,
+      "end_time": 200.75,
+      "duration": 29.75,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B049 starts mid-escalation on an ungrounded shout ('They stole my home!') in tight close-up, lacking physical grounding or scene establishment for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc clarifies the core stakes: Juliana has been taken and the 'dead Duke' is marching out to crash the wedding celebration in two days.",
+        "passes_gate": false,
+        "situational_summary": "A vengeful Duke steps out into a blizzard, giving his enemies two days before he crashes their wedding to reclaim his wife and home."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Thunderous indignation erupting into cold, calculated vengeance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Juliana was captured, a wedding is scheduled in two days, and the presumed-dead Duke is actively returning."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_36",
+      "start_beat_id": "B050",
+      "end_beat_id": "B055",
+      "start_time": 174.0,
+      "end_time": 200.75,
+      "duration": 26.75,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B050 starts with a connective conjunction ('And now they have taken Juliana!') on bared teeth and wild eyes, relying on prior unshown dialogue to establish who 'they' or 'Juliana' are.",
+        "arc_legibility": true,
+        "arc_rationale": "The remaining beats clearly demonstrate that Alexander is embarking into a blizzard to reclaim his abducted wife and enact revenge before a wedding takes place.",
+        "passes_gate": false,
+        "situational_summary": "Enraged that Juliana has been taken, a battle-scarred Duke sets out into the snow to confront his usurpers before their wedding."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral fury over a loved one's abduction channeling into an unyielding march toward vengeance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's abduction and sets a two-day timeline for the Duke's return to crash the wedding."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_37",
+      "start_beat_id": "B051",
+      "end_beat_id": "B055",
+      "start_time": 177.0,
+      "end_time": 200.75,
+      "duration": 23.75,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B051 opens on an extreme close-up of a gloved hand clenching into a fist with leather creaking sound. While visually intense, it provides zero grounding of physical setting, who the character is, or any interpersonal context for a cold scroller in isolation.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the dialogue clearly establishes that an antagonist faction is celebrating an upcoming wedding believing the protagonist is dead, while he vows to return and reclaim his position ('their dead Duke is coming home').",
+        "passes_gate": false,
+        "situational_summary": "A presumed-dead Duke vows to march out into a winter storm and crash an upcoming wedding to reclaim his title and confront those usurping him."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Fierce determination and looming vengeance of a returning presumed-dead ruler"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the core inciting incident and dramatic premise of the arc: the presumed-dead Duke is alive and preparing his return to stop the wedding."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP036_38",
+      "start_beat_id": "B052",
+      "end_beat_id": "B055",
+      "start_time": 179.5,
+      "end_time": 200.75,
+      "duration": 21.25,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B052 establishes clear spatial geography and character presence immediately: a tracking shot follows a man walking out of a warm cabin toward open barn doors, framing him against a snow-covered pine forest under moonlight as he speaks.",
+        "arc_legibility": true,
+        "arc_rationale": "The full dialogue arc from 'Two days' through 'before that wedding begins... their dead Duke is coming home' makes the central conflict, timeline, and stakes completely self-contained without needing outside backstory.",
+        "passes_gate": true,
+        "situational_summary": "Looking out into a winter blizzard, a presumed-dead Duke warns that his enemies have two days to celebrate before he returns to reclaim his place at an upcoming wedding."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Chilling vow of vengeance and impending retribution against usurpers"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the inciting premise that the Duke has survived and is plotting an imminent return to crash the wedding."
+      }
+    }
+  ]
+}

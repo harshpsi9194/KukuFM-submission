@@ -1,0 +1,123 @@
+{
+  "episode_number": 38,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 4
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP038_05",
+      "absolute_rubric_score": 9.0,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B005",
+        "end_beat_id": "B008",
+        "start_time": 17.5,
+        "end_time": 51.0,
+        "duration": 33.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Because no one should die hungry.",
+        "opening_character": "GUARD",
+        "rationale": "Direct moral conflict and urgent stakes established by 'Because no one should die hungry' and 'Eat it before they see.'"
+      },
+      "cliffhanger": {
+        "final_quote": "What if I never see you again?",
+        "final_character": "JULIANA",
+        "specific_question": "Will Juliana face execution in this cell before Alexander can find and rescue her?"
+      },
+      "situational_summary": "A chained, starving prisoner receives a secretive crust of bread from a guard and weeps in her cell, wondering if her loved one Alexander is safe or knows she has been condemned to die.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP038_06",
+      "absolute_rubric_score": 8.2,
+      "subscores": {
+        "hook_score": 1.8,
+        "tension_score": 2.0,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.1
+      },
+      "mmr_score": 0.0234,
+      "max_similarity_to_selected": 0.8646,
+      "boundary": {
+        "start_beat_id": "B006",
+        "end_beat_id": "B008",
+        "start_time": 23.2,
+        "end_time": 51.0,
+        "duration": 27.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Thank you.",
+        "opening_character": "JULIANA",
+        "rationale": "Gratitude followed by a mournful question ('Alexander... are you safe?') provides emotional context but lacks urgent confrontation."
+      },
+      "cliffhanger": {
+        "final_quote": "What if I never see you again?",
+        "final_character": "JULIANA",
+        "specific_question": "Will Juliana face execution in this cell before Alexander can find and rescue her?"
+      },
+      "situational_summary": "A shackled prisoner in a damp dungeon devours a piece of bread while tearfully agonizing over whether her beloved Alexander knows she has been condemned to death.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP038_02",
+      "absolute_rubric_score": 6.5,
+      "subscores": {
+        "hook_score": 1.1,
+        "tension_score": 1.7,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 1.8
+      },
+      "mmr_score": -0.0815,
+      "max_similarity_to_selected": 0.7923,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B007",
+        "start_time": 0.0,
+        "end_time": 45.5,
+        "duration": 45.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "Do you know they condemned me?",
+        "final_character": "JULIANA",
+        "specific_question": "Does Alexander know Juliana has been condemned to death, or has he been deceived by her captors?"
+      },
+      "situational_summary": "Imprisoned and starved in chains, a woman is secretly fed by a guard before breaking down in tears, revealing she has been condemned to death without her lover knowing.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP038_01",
+      "rank": 4,
+      "recommended_boundary": "B001 -> B006",
+      "similarity": 0.967,
+      "duplicate_of": "CAND_EP038_02",
+      "reason": "Exceeded near-duplicate threshold (0.9670 >= 0.90)"
+    }
+  ]
+}

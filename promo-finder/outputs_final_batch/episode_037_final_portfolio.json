@@ -1,0 +1,141 @@
+{
+  "episode_number": 37,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 4
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP037_06",
+      "absolute_rubric_score": 8.9,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B025",
+        "end_beat_id": "B031",
+        "start_time": 88.0,
+        "end_time": 116.5,
+        "duration": 28.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "They cannot take who I am!",
+        "final_character": "JULIANA",
+        "specific_question": "What hidden identity or secret retribution will Juliana unleash upon Rupert, Catherine, and Clarissa?"
+      },
+      "situational_summary": "A chained, starving captive in a weeping dungeon drags herself upright to declare that while her captors took her home and name, they cannot take her identity.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP037_03",
+      "absolute_rubric_score": 7.9,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 1.9
+      },
+      "mmr_score": -0.05,
+      "max_similarity_to_selected": 0.7223,
+      "boundary": {
+        "start_beat_id": "B020",
+        "end_beat_id": "B024",
+        "start_time": 65.5,
+        "end_time": 88.0,
+        "duration": 22.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "A public execution after a wedding.",
+        "opening_character": "NOBLEMAN",
+        "rationale": "High narrative shock pairing matrimonial celebration with brutal public capital punishment."
+      },
+      "cliffhanger": {
+        "final_quote": "Juliana's ruin will be a lesson. And we will be there to watch.",
+        "final_character": "LADY CLARISSA",
+        "specific_question": "Will Clarissa and the nobles succeed in witnessing Juliana's total destruction, or will Juliana overturn their spectacle?"
+      },
+      "situational_summary": "Smug aristocrats mockingly discuss their plan to attend the public execution of a woman named Juliana following a wedding to warn any woman who dares defy her social station.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP037_09",
+      "absolute_rubric_score": 6.4,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 1.6,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 1.6
+      },
+      "mmr_score": -0.2493,
+      "max_similarity_to_selected": 0.8594,
+      "boundary": {
+        "start_beat_id": "B036",
+        "end_beat_id": "B037",
+        "start_time": 132.5,
+        "end_time": 156.47,
+        "duration": 23.97,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Instead she married a nobody, played healer to peasants, challenged people above her. And now the whole county will watch her pay for it.",
+        "opening_character": "LADY CLARISSA",
+        "rationale": "Stinging catalogue of transgressions (marrying a nobody, playing healer) and the public price she will pay."
+      },
+      "cliffhanger": {
+        "final_quote": "Let them see what happens when a woman forgets her place.",
+        "final_character": "LADY CLARISSA",
+        "specific_question": "Will Juliana be executed on the wedding grounds, or will she survive to exact vengeance on the aristocracy?"
+      },
+      "situational_summary": "An aristocratic noblewoman vindictively celebrates the imminent public execution of a woman who defied social hierarchy by marrying beneath her station and challenging the upper class.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP037_04",
+      "rank": 2,
+      "recommended_boundary": "B025 -> B029",
+      "similarity": 0.9611,
+      "duplicate_of": "CAND_EP037_06",
+      "reason": "Exceeded near-duplicate threshold (0.9611 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP037_04",
+      "rank": 2,
+      "recommended_boundary": "B025 -> B029",
+      "similarity": 0.9611,
+      "duplicate_of": "CAND_EP037_06",
+      "reason": "Exceeded near-duplicate threshold (0.9611 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP037_04",
+      "rank": 2,
+      "recommended_boundary": "B025 -> B029",
+      "similarity": 0.9611,
+      "duplicate_of": "CAND_EP037_06",
+      "reason": "Exceeded near-duplicate threshold (0.9611 >= 0.90)"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "episode_number": 41,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard wide symmetrical establishing shot of a wedding altar with no immediate conflict or motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A single imperative command ('Wait') that interrupts the ceremony but lacks specific high-stakes context on its own.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Bride abruptly breaking away at the altar and raising a gloved hand to silence the room creates clear physical friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Incomplete sentence providing aristocratic exposition without immediate confrontation or shocking reveal.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tracking shot of a turning bride with floating veil is elegant but represents standard graceful wedding movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sharp public declaration threatening to expose anyone defying the family carries heavy dramatic hostility.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "A close-up of a bride in her veil curling her lips into a sadistic, triumphant sneer provides instant mute character drama.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "The blunt command 'Bring her in' immediately signals an impending captive reveal or public spectacle.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Conversational profile two-shot showing mild caution between bride and groom.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "High-contrast visual shocker: opening cathedral doors reveal a woman in drab prison garb marched down the aisle by armed constables.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up insert of scarred, dirtied wrists locked in heavy iron shackles instantly conveys extreme subjugation on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of a bruised, dirt-streaked heroine glaring with fierce dignity delivers high-intensity emotional drama without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Brief, generic acknowledgement ('There she is') that depends entirely on visual context for impact.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of the villainess standing by the altar with a smug expression.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tracking shot of a prisoner being marched between armed guards down a church aisle shows clear dynamic tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Gossip dialogue ('Look at her', 'She actually came back') establishes public disgrace but lacks direct verbal punch.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Sneering aristocrats whispering behind an ivory lace fan offers minor period-drama background color.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'Not as a bride this time' provides a biting, context-rich verbal insult about her fallen status.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of an onlooker giggling with hand over mouth shows petty spite but standard framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static medium shot of elderly choir stall guests nodding on their canes.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Public call-out and humiliation line ('This is the world you thought you belonged to') directly strikes at the protagonist's identity.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High-angle wide shot contrasting a solitary chained woman against the towering, lavishly decorated cathedral nave.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'And now they can all see what you truly are' delivers an accusatory, theatrical public denunciation.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle framing of Catherine gesturing imperiously from the steps emphasizes stark power dominance.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Captive heroine holding her ground against the courtroom/chapel gaze and locking eyes with pure disdain creates intense visual friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Blistering verbal retort ('You needed an entire chapel to feel powerful over one chained woman?') instantly punctures the villain's authority.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of a battered, unshaken female prisoner directly confronting her captors provides powerful visual defiance.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Observational commentary ('Still arrogant. Still standing.') acknowledging resilience without escalating the conflict.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Dramatic low-angle framing emphasizing the chained heroine's straight, regal posture.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single dismissive word ('Come') with low standalone stakes.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard full shot of a character turning their back to proceed with the ceremony.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up insert of two gloved hands joining over an altar cushion depicts standard wedding imagery.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Overtly states calculated conspiracy and usurpation of the Ashburgh title.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard romantic medium two-shot at an altar without overt visual conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single affirmative word ('Nothing') lacking narrative context on its own.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on an ambitious grin conveys character intent but limited immediate action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Routine ceremonial setup question ('Shall we?') by an officiant.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "Static medium shot of a priest opening a liturgical book.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No spoken dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Catastrophic scroll-stopper: massive cathedral explosion blasting doors into shrapnel, panicking crowd, and debris showering the bridal party.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Armed silhouettes emerging through billowing smoke behind the chained heroine followed by an intense push-in on her shifting expression.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 0,
+      "specific_question": "Will the wedding proceed normally?",
+      "stakes_importance": "Low \u2014 opening establishing shot of a wedding ceremony with zero overt conflict introduced yet.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why did Catherine abruptly halt her own wedding ceremony before taking her vows?",
+      "stakes_importance": "Medium \u2014 interrupts a sacred aristocratic ritual, signaling an unexpected disruption or hidden agenda.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "What decree or announcement does Catherine plan to make before becoming Duchess?",
+      "stakes_importance": "Medium \u2014 escalating tension as the bride addresses the congregation with an unfinished statement.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who dared defy Catherine's family, and what sadistic punishment or spectacle is about to be revealed?",
+      "stakes_importance": "High \u2014 establishes a vindictive villainess preparing a public execution or humiliation before high society.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who is the captive woman being dragged before the congregation?",
+      "stakes_importance": "High \u2014 direct command summoning an unknown transgressor into an aristocratic assembly.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why is Juliana in chains and prison garb at what was supposed to be her social circle's grand wedding?",
+      "stakes_importance": "High \u2014 striking visual contrast of a prisoner dragged into an opulent cathedral, establishing extreme protagonist peril.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 2,
+      "specific_question": "How did Juliana suffer these brutal injuries and imprisonment?",
+      "stakes_importance": "Medium \u2014 detailed insert shot emphasizing physical suffering, but functions primarily as visual texture rather than a narrative cliffhanger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's fierce dignity hold out against whatever Catherine has planned for her?",
+      "stakes_importance": "Medium \u2014 introduces the heroine's inner defiance against catastrophic odds.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will Catherine do to Juliana now that she has her cornered in front of the altar?",
+      "stakes_importance": "Medium \u2014 marks the confrontation setup as predator and prey lock eyes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 2,
+      "specific_question": "What happens when Juliana reaches the foot of the altar?",
+      "stakes_importance": "Low \u2014 transitional marching movement without a new dialogue turn or narrative escalation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 2,
+      "specific_question": "What past scandal connects Juliana's previous presence in this chapel to her current downfall?",
+      "stakes_importance": "Medium \u2014 social gossip providing exposition on Juliana's past status.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "Was Juliana originally Rupert's bride, and how was she stripped of her title and thrown in prison?",
+      "stakes_importance": "Medium \u2014 sharp revelation indicating Juliana was replaced at the altar.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will the senior nobility endorse Juliana's disgrace?",
+      "stakes_importance": "Low \u2014 cutaway of nodding choir stall aristocrats confirming social consensus; no forward tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Catherine strip Lady Juliana of her remaining dignity before the peerage?",
+      "stakes_importance": "High \u2014 explicit naming of Lady Juliana Ashcroft establishes her stolen birthright and towering stakes of public disgrace.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "What devastating accusation or truth does Catherine intend to expose about Juliana?",
+      "stakes_importance": "High \u2014 suspended verbal climax framing Juliana for total social destruction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana submit to Catherine's intimidation or retaliate with words?",
+      "stakes_importance": "Medium \u2014 silent standoff establishing Juliana's refusal to bow.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Catherine and the congregation react to a chained prisoner openly mocking the bride's cowardice?",
+      "stakes_importance": "High \u2014 brilliant power-reversal clapback exposing the usurper's weakness; forces an immediate retaliatory action.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine order the guards to strike Juliana down for refusing to break?",
+      "stakes_importance": "High \u2014 unyielding confrontation between the unbowed captive and the furious usurper.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the wedding proceed now that Catherine has dismissed Juliana?",
+      "stakes_importance": "Low \u2014 Catherine turns away to resume the ceremony, defusing the immediate verbal clash.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will their vows be sealed without further interruption?",
+      "stakes_importance": "Low \u2014 standard wedding ritual close-up of clasping hands.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "What murderous or illegal plot did Rupert and Catherine execute to eliminate Juliana and seize the Ashburgh title?",
+      "stakes_importance": "High \u2014 confession of a conspiracy to usurp the title right in front of the rightful heir.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Rupert and Catherine succeed in finalizing their theft of the dukedom uncontested?",
+      "stakes_importance": "High \u2014 seals Rupert's cold complicity in destroying Juliana's life.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the priest finish solemnizing the stolen wedding before anything can stop it?",
+      "stakes_importance": "Medium \u2014 ticking-clock urgency as the priest prepares to legalize their usurpation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who just bombed the cathedral, and are they here to execute everyone or rescue Juliana?",
+      "stakes_importance": "High \u2014 catastrophic physical disruption, shatters the ceremony in violence, placing every life in immediate jeopardy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who is the powerful ally leading the armed strike force that brings hope back to Juliana's eyes?",
+      "stakes_importance": "High \u2014 peak microdrama hook: mystery savior arrival, sudden reversal of power, and emotional rebirth of the protagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

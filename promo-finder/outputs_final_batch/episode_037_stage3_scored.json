@@ -1,0 +1,231 @@
+{
+  "episode_number": 37,
+  "total_scored": 9,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP037_01",
+      "start_beat_id": "B018",
+      "end_beat_id": "B023",
+      "start_time": 58.5,
+      "end_time": 82.5,
+      "duration": 24.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B018 opens on a tight close-up of an unidentified nobleman reading an unspecified document with no establishing shot of the location, setting, or who else is in the room. Without prior context, a cold scroller on mute sees only a man smiling at paper with no grounding.",
+        "arc_legibility": false,
+        "arc_rationale": "While the cruel aristocratic intent to stage an execution as a warning to ambitious women is articulated, the target of the execution is never named or identified in this cut (it ends at B023 before Juliana's name or exact predicament is established).",
+        "passes_gate": false,
+        "situational_summary": "Two smug aristocrats review an invitation detailing a public execution intended to put rebellious women in their place."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Chilling aristocratic cruelty and conspiratorial gloating"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the formal decree and aristocratic plotting of an upcoming public execution after a wedding."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP037_02",
+      "start_beat_id": "B018",
+      "end_beat_id": "B024",
+      "start_time": 58.5,
+      "end_time": 88.0,
+      "duration": 29.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B018 begins on a tight close-up of a nobleman reacting to paper without establishing the parlor setting, Clarissa's presence, or the physical dynamic in the opening 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "With the addition of Beat B024, the antagonist explicitly names Juliana as the target of their plot and clarifies that the public execution is meant to destroy her socially and physically.",
+        "passes_gate": false,
+        "situational_summary": "In an ornate parlor, two malicious nobles savor an invitation to a public execution designed to ensure the total ruin of a woman named Juliana."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Smug vindictive malice and class-based humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the antagonists have officially coordinated Juliana's legal ruin and scheduled her public execution."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP037_03",
+      "start_beat_id": "B020",
+      "end_beat_id": "B024",
+      "start_time": 65.5,
+      "end_time": 88.0,
+      "duration": 22.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B020 opens on a medium shot clearly establishing the nobleman holding a formal invitation, laughing in audacity, and stating 'A public execution after a wedding,' immediately anchoring the conflict, tone, and situation within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: the villains relish an invitation to execute Juliana publicly after a wedding to discipline lower-class women, ending on an overt declaration of malice.",
+        "passes_gate": true,
+        "situational_summary": "Smug aristocrats mockingly discuss their plan to attend the public execution of a woman named Juliana following a wedding to warn any woman who dares defy her social station."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Aristocratic arrogance and calculated public cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the antagonists' plot mechanics and the scheduled public execution of the protagonist."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP037_04",
+      "start_beat_id": "B025",
+      "end_beat_id": "B029",
+      "start_time": 88.0,
+      "end_time": 108.5,
+      "duration": 20.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B025 provides an immediate, visually arresting wide establishing shot: a chained prisoner in a tattered smock slumped against a weeping subterranean stone dungeon floor under moonlight, immediately legible on mute in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The stakes and situation are instantly crystal-clear: an imprisoned heroine is being starved and broken in captivity, but pulls away from tainted food and physically forces herself to her knees in fierce, unyielding defiance.",
+        "passes_gate": true,
+        "situational_summary": "Chained in a grim subterranean dungeon and facing starvation, a bruised prisoner rejects foul sustenance and drags herself to her knees, swearing never to surrender."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral torment transformed into raw defiance and unbreakable will"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes Juliana's dire dungeon imprisonment and imminent execution threat without spoiling whether or how she escapes."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP037_05",
+      "start_beat_id": "B025",
+      "end_beat_id": "B030",
+      "start_time": 88.0,
+      "end_time": 113.5,
+      "duration": 25.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B025 opens with an immediate wide establishing shot of a woman in a tattered prison smock slumped in a dim stone dungeon, instantly grounding setting, solitary captivity, and physical vulnerability.",
+        "arc_legibility": false,
+        "arc_rationale": "Cuts off prematurely at B030 ('They can take my name. They can take my home.') without completing the climactic resolution/antithesis of her monologue, leaving the dramatic arc hanging abruptly mid-thought.",
+        "passes_gate": false,
+        "situational_summary": "Imprisoned in a subterranean dungeon, a chained woman defies her captors' attempts to starve and break her spirit."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiance and inner resilience under cruel physical imprisonment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts Juliana's imprisonment and resistance; establishes the bleak predicament without revealing outside conspiracy specifics or escape mechanics."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP037_06",
+      "start_beat_id": "B025",
+      "end_beat_id": "B031",
+      "start_time": 88.0,
+      "end_time": 116.5,
+      "duration": 28.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B025 clearly establishes the physical setting and predicament in the first 1-3 seconds: a wide shot of a woman in a tattered smock chained in a subterranean stone dungeon.",
+        "arc_legibility": true,
+        "arc_rationale": "Complete emotional and dramatic arc: establishes captive torment, progresses through physical struggle against chains, and delivers a fully formed, self-contained declaration of identity and resistance against unnamed persecutors ('They').",
+        "passes_gate": true,
+        "situational_summary": "A chained, starving captive in a weeping dungeon drags herself upright to declare that while her captors took her home and name, they cannot take her identity."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant defiance breaking through severe physical humiliation and torment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the protagonist's low-point captivity and unyielding resolve, functioning as a high-heat inciting predicament without spoiling plot resolutions."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP037_07",
+      "start_beat_id": "B026",
+      "end_beat_id": "B031",
+      "start_time": 92.0,
+      "end_time": 116.5,
+      "duration": 24.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 opens directly on an ungrounded close-up of a bruised hand pulling away from a dirty bowl; without the dungeon establishing shot of B025, a cold scroller lacks immediate physical orientation.",
+        "arc_legibility": true,
+        "arc_rationale": "The full monologue and action progression across B026\u2013B031 make the conflict and defiance clearly understandable across the clip's duration.",
+        "passes_gate": false,
+        "situational_summary": "A chained captive refuses foul food and pulls herself up in chains to proclaim that her persecutors cannot destroy who she is."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Stubborn visceral resistance against starvation and subjugation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes captive abuse and resistance without giving away later plot twists or escape payoffs."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP037_08",
+      "start_beat_id": "B027",
+      "end_beat_id": "B031",
+      "start_time": 95.5,
+      "end_time": 116.5,
+      "duration": 21.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B027 starts on a tight close-up of a weeping face speaking mid-situation ('They think hunger will make me surrender') without prior visual grounding of the dungeon or chains.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue and subsequent physical struggle with chains make the situational stakes and emotional conflict clear across the overall clip.",
+        "passes_gate": false,
+        "situational_summary": "A weeping captive overcomes agony and pulls against her dungeon chains to declare her unbreakable spirit."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Indomitable defiance rising out of despair and physical pain"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Highlights the captive predicament and emotional stakes without revealing mid-arc or endgame plot secrets."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP037_09",
+      "start_beat_id": "B036",
+      "end_beat_id": "B037",
+      "start_time": 132.5,
+      "end_time": 156.47,
+      "duration": 23.97,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B036 establishes physical presence and hierarchy immediately via regal pacing with a crystal wine glass by the fireplace, standing beside her husband, paired with direct vindictive dialogue detailing the transgressions and impending public punishment.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained within the two beats: an aristocratic antagonist relishing the imminent public downfall and execution of a woman who defied class boundaries, reinforced visually by the 'EXECUTION CLAUSE' insert on the invitation.",
+        "passes_gate": true,
+        "situational_summary": "An aristocratic noblewoman vindictively celebrates the imminent public execution of a woman who defied social hierarchy by marrying beneath her station and challenging the upper class."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Chilling aristocratic malice and ruthless vindictive superiority"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the conspiratorial execution plot against the protagonist and the formal execution clause document."
+      }
+    }
+  ]
+}

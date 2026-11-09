@@ -1,0 +1,70 @@
+{
+  "episode_number": 37,
+  "total_ranked": 4,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP037_06",
+      "absolute_score": 8.9,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "rank_justification": "Builds upon the dungeon misery hook with an extended, relentless crescendo from physical torment to defiant reclamation of identity. Concludes on a top-tier visual and vocal peak rupture as her iron-shackled hand grips the dungeon bars declaring 'They cannot take who I am!', maximizing cold viewer investment.",
+      "duration": 28.5,
+      "start_beat_id": "B025",
+      "end_beat_id": "B031",
+      "emotional_salience_score": 5,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP037_04",
+      "absolute_score": 8.3,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Opens on grim visual atmospheric misery in the weeping dungeon before escalating through rapid-fire rhythmic defiance against starvation and fear. Cuts cleanly on a visceral physical rally ('I will not!'), delivering intense underdog emotional resonance for cold scrollers.",
+      "duration": 20.5,
+      "start_beat_id": "B025",
+      "end_beat_id": "B029",
+      "emotional_salience_score": 5,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP037_03",
+      "absolute_score": 7.9,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 1.9
+      },
+      "rank_justification": "Opens with an intriguing, dialogue-driven shock contrasting wedding celebrations with public execution, escalating cleanly through Clarissa's chilling social ultimatum. The final line and dismissive toss deliver a strong threat cliffhanger with solid aristocratic cruelty resonance, held back slightly from elite tier by a verbal rather than visceral opening.",
+      "duration": 22.5,
+      "start_beat_id": "B020",
+      "end_beat_id": "B024",
+      "emotional_salience_score": 4,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP037_09",
+      "absolute_score": 6.4,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 1.6,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 1.6
+      },
+      "rank_justification": "Begins with a monologue-heavy catalogue of grievances and pacing in firelight rather than immediate narrative shock. While Clarissa's merciless declaration provides clear aristocratic malice, the two-beat span feels more like a contained villainous monologue than an escalating, urgent promo arc.",
+      "duration": 23.97,
+      "start_beat_id": "B036",
+      "end_beat_id": "B037",
+      "emotional_salience_score": 4,
+      "rank": 4
+    }
+  ]
+}

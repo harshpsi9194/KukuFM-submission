@@ -1,0 +1,292 @@
+{
+  "episode_number": 44,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP044_14",
+      "absolute_rubric_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B015",
+        "end_beat_id": "B025",
+        "start_time": 49.0,
+        "end_time": 70.5,
+        "duration": 21.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You were never my Duchess.",
+        "opening_character": "ALEXANDER",
+        "rationale": "Brutal, relationship-shattering denial delivered with cold finality ('You were never my Duchess.')."
+      },
+      "cliffhanger": {
+        "final_quote": "Her?!",
+        "final_character": "CATHERINE",
+        "specific_question": "Why has Duke Alexander chosen a chained peasant woman over his aristocratic bride, and what will Catherine do in retaliation?"
+      },
+      "situational_summary": "After renouncing his tearful bride at the altar, a nobleman walks away to choose a shackled prisoner over her, leaving the bride in horrified disbelief.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP044_12",
+      "absolute_rubric_score": 9.3,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0977,
+      "max_similarity_to_selected": 0.8941,
+      "boundary": {
+        "start_beat_id": "B014",
+        "end_beat_id": "B025",
+        "start_time": 46.4,
+        "end_time": 70.5,
+        "duration": 24.1,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "I was supposed to be your Duchess!",
+        "opening_character": "CATHERINE",
+        "rationale": "High-stakes confrontation claiming stolen status and broken entitlement ('I was supposed to be your Duchess!')."
+      },
+      "cliffhanger": {
+        "final_quote": "Her?!",
+        "final_character": "CATHERINE",
+        "specific_question": "Why has Duke Alexander chosen a chained peasant woman over his aristocratic bride, and what will Catherine do in retaliation?"
+      },
+      "situational_summary": "An outraged noblewoman demanding her title as Duchess is repudiated by a Duke, who turns his back on her to choose a woman in chains.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 3
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP044_04",
+      "absolute_rubric_score": 8.6,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.0
+      },
+      "mmr_score": 0.0273,
+      "max_similarity_to_selected": 0.8281,
+      "boundary": {
+        "start_beat_id": "B005",
+        "end_beat_id": "B015",
+        "start_time": 13.8,
+        "end_time": 51.0,
+        "duration": 37.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Get your hands off me! Catherine!",
+        "opening_character": "BLOND NOBLEMAN",
+        "rationale": "Desperate, panicking cries for help during physical apprehension ('Get your hands off me! Catherine! Do something!')."
+      },
+      "cliffhanger": {
+        "final_quote": "You were never my Duchess.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Why does Alexander claim Catherine was never his Duchess, and who does he recognize instead?"
+      },
+      "situational_summary": "In an interrupted wedding in a ruined nave, a bride pleads her love to a returned soldier, but when she claims her right to be his Duchess, he coldly denounces her claim.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP044_10",
+      "absolute_rubric_score": 8.1,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.0,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.0
+      },
+      "mmr_score": -0.0932,
+      "max_similarity_to_selected": 0.8738,
+      "boundary": {
+        "start_beat_id": "B007",
+        "end_beat_id": "B015",
+        "start_time": 24.4,
+        "end_time": 51.0,
+        "duration": 26.6,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Alexander... I thought you had died.",
+        "opening_character": "CATHERINE",
+        "rationale": "Massive narrative revelation and emotional rupture ('I thought you had died. Do you know what this did to me?')."
+      },
+      "cliffhanger": {
+        "final_quote": "You were never my Duchess.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Why does Alexander claim Catherine was never his Duchess, and who does he recognize instead?"
+      },
+      "situational_summary": "A bride steps away from the altar toward the man she mourned for three years as dead, only for him to pull away and deny she was ever his Duchess.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP044_13",
+      "rank": 3,
+      "recommended_boundary": "B015 -> B023",
+      "similarity": 0.9675,
+      "duplicate_of": "CAND_EP044_14",
+      "reason": "Exceeded near-duplicate threshold (0.9675 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP044_13",
+      "rank": 3,
+      "recommended_boundary": "B015 -> B023",
+      "similarity": 0.9675,
+      "duplicate_of": "CAND_EP044_14",
+      "reason": "Exceeded near-duplicate threshold (0.9675 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP044_13",
+      "rank": 3,
+      "recommended_boundary": "B015 -> B023",
+      "similarity": 0.9675,
+      "duplicate_of": "CAND_EP044_14",
+      "reason": "Exceeded near-duplicate threshold (0.9675 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP044_05",
+      "rank": 5,
+      "recommended_boundary": "B005 -> B017",
+      "similarity": 0.9415,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9415 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP044_03",
+      "rank": 7,
+      "recommended_boundary": "B005 -> B014",
+      "similarity": 0.9529,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9529 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP044_02",
+      "rank": 8,
+      "recommended_boundary": "B005 -> B012",
+      "similarity": 0.9398,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9398 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP044_06",
+      "rank": 9,
+      "recommended_boundary": "B005 -> B020",
+      "similarity": 0.9339,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9339 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP044_07",
+      "rank": 10,
+      "recommended_boundary": "B005 -> B021",
+      "similarity": 0.9442,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9442 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP044_01",
+      "rank": 11,
+      "recommended_boundary": "B005 -> B011",
+      "similarity": 0.9454,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9454 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP044_13",
+      "rank": 3,
+      "recommended_boundary": "B015 -> B023",
+      "similarity": 0.9675,
+      "duplicate_of": "CAND_EP044_14",
+      "reason": "Exceeded near-duplicate threshold (0.9675 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP044_05",
+      "rank": 5,
+      "recommended_boundary": "B005 -> B017",
+      "similarity": 0.9415,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9415 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP044_03",
+      "rank": 7,
+      "recommended_boundary": "B005 -> B014",
+      "similarity": 0.9529,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9529 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP044_02",
+      "rank": 8,
+      "recommended_boundary": "B005 -> B012",
+      "similarity": 0.9398,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9398 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP044_06",
+      "rank": 9,
+      "recommended_boundary": "B005 -> B020",
+      "similarity": 0.9339,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9339 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP044_07",
+      "rank": 10,
+      "recommended_boundary": "B005 -> B021",
+      "similarity": 0.9442,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9442 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP044_01",
+      "rank": 11,
+      "recommended_boundary": "B005 -> B011",
+      "similarity": 0.9454,
+      "duplicate_of": "CAND_EP044_04",
+      "reason": "Exceeded near-duplicate threshold (0.9454 >= 0.90)"
+    }
+  ]
+}

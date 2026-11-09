@@ -1,0 +1,54 @@
+{
+  "episode_number": 48,
+  "total_ranked": 3,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP048_04",
+      "absolute_score": 8.8,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "Shares the powerful physical opening hook while achieving peak escalation with the physical transfer of the heavy gold purse into Agnes's hands. The final order to summon the priest under darkness delivers maximum irresolution and stakes before the impending hearing.",
+      "duration": 39.5,
+      "start_beat_id": "B007",
+      "end_beat_id": "B013",
+      "emotional_salience_score": 5,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP048_03",
+      "absolute_score": 8.0,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.9
+      },
+      "rank_justification": "Strong opening hook transitions into rapid escalation as Catherine confronts the risk of detection and commands her fearful subordinate. The close-up cut on Catherine's chilling ultimatum 'That is precisely your job tonight' provides an arresting, unresolved threat boundary.",
+      "duration": 32.9,
+      "start_beat_id": "B007",
+      "end_beat_id": "B012",
+      "emotional_salience_score": 4,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP048_02",
+      "absolute_score": 7.2,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 1.8
+      },
+      "rank_justification": "Opens strongly with Catherine's intense candlelight physical confrontation acknowledging public disgrace, maintaining crisp momentum through the Duke's blockade reveal. However, cutting on beat B010 stops on a narrative conspiratorial intention rather than a high-stakes actionable order, dampening the urgency of the cliffhanger.",
+      "duration": 24.2,
+      "start_beat_id": "B007",
+      "end_beat_id": "B010",
+      "emotional_salience_score": 4,
+      "rank": 3
+    }
+  ]
+}

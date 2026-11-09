@@ -1,0 +1,306 @@
+{
+  "episode_number": 30,
+  "total_scored": 12,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP030_01",
+      "start_beat_id": "B004",
+      "end_beat_id": "B009",
+      "start_time": 26.0,
+      "end_time": 47.6,
+      "duration": 21.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B004 opens on a medium shot of Rupert nervously tugging gloves with no physical environmental anchor or clear conversational context established in the first 1-3 seconds without sound.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative makes it clear that an elite elder is aggressively threatening an anxious subordinate to silence a prisoner who knows about a poisoning.",
+        "passes_gate": false,
+        "situational_summary": "A terrified nobleman warns his ruthless superior that an imprisoned woman knows a Duchess was poisoned, prompting the patriarch to pin him with a cane and order her exposed."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate panic clashing with ruthless aristocratic intimidation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses a central conspiracy detail regarding the poisoning of the Duchess and the existence of a hidden prisoner."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP030_02",
+      "start_beat_id": "B013",
+      "end_beat_id": "B017",
+      "start_time": 58.8,
+      "end_time": 82.8,
+      "duration": 24.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 begins on an ungrounded side profile close-up delivering an abstract proclamation ('We use the law to destroy her') without establishing setting, presence, or relationships visually.",
+        "arc_legibility": true,
+        "arc_rationale": "The scene clearly delineates ruthless nobles framing an innocent maid/healer for murder by manipulating circumstantial evidence for a magistrate.",
+        "passes_gate": false,
+        "situational_summary": "A ruthless nobleman details a cold scheme to frame a maid with medicinal herbs as the Duchess's poisoner."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Cold, calculated aristocratic malice and procedural conspiracy"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the precise legal frame-up strategy designed to pin the murder on the maid."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP030_03",
+      "start_beat_id": "B013",
+      "end_beat_id": "B019",
+      "start_time": 58.8,
+      "end_time": 88.5,
+      "duration": 29.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 opens on a tight side profile close-up with an ungrounded line of dialogue and zero visual environmental grounding for a cold scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue clearly outlines an innocent healer being deliberately targeted by aristocrats who plan to escalate from murder charges to witchcraft.",
+        "passes_gate": false,
+        "situational_summary": "Aristocrats conspire to frame an innocent healer for murder, escalating to an accusation of witchcraft if she attempts to defend herself."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Chilling calculated malice escalating into lethal persecution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the conspirators' backup contingency plan to level a capital charge of witchcraft."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP030_04",
+      "start_beat_id": "B013",
+      "end_beat_id": "B021",
+      "start_time": 58.8,
+      "end_time": 94.5,
+      "duration": 35.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 opens in media res on a side profile close-up without grounding the physical space or interpersonal staging for a cold viewer within the opening 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "A complete, self-contained dramatic arc showing the full extent of the conspiracy, culminating in the explicit confirmation of intent to execute an innocent girl on capital charges.",
+        "passes_gate": false,
+        "situational_summary": "A ruthless aristocrat outlines a plot to frame a maid, coldly confirming his intent to have her executed for witchcraft under the guise of the law."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Ruthless institutional evil and remorseless intent to execute an innocent scapegoat"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the full mechanics of the conspiracy, the charge of witchcraft, and the intent to execute the prisoner."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP030_05",
+      "start_beat_id": "B017",
+      "end_beat_id": "B022",
+      "start_time": 74.8,
+      "end_time": 101.9,
+      "duration": 27.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 establishes the physical setting and interpersonal dynamic with a medium shot framing the Elder Nobleman seated at a desk beside Catherine in firelight while stating a direct conspiracy plan: 'Give those facts to a magistrate in the right order, and she becomes a poisoner.' The visual arrangement and line clearly ground who is scheming and the nature of the plot.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly portrays a ruthless cabal (Elder Nobleman, Catherine) pressuring a horrified accomplice (Rupert) to falsely accuse an innocent female healer of witchcraft and buy the jury to execute her.",
+        "passes_gate": true,
+        "situational_summary": "A ruthless nobleman and his cohort scheme to frame an innocent healer for witchcraft and bribe the jury to have her executed by the state."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Chilling judicial malice and cold conspiracy to execute an innocent"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the conspirators' specific legal trap (framing as witchcraft/poisoning) and the compromised state of the upcoming trial."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP030_06",
+      "start_beat_id": "B019",
+      "end_beat_id": "B029",
+      "start_time": 85.6,
+      "end_time": 133.5,
+      "duration": 47.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 opens on a tight close-up mid-conversation with the responsive line 'Then call it witchcraft.' Without prior beats, a cold scroller has no visual establishing anchor for the setting, who 'she' is, or what previous accusation is being shifted, making the immediate opening ungrounded.",
+        "arc_legibility": true,
+        "arc_rationale": "The broader dialogue builds out the full conspiracy to frame Juliana, suppress the dying Dowager's testimony, and celebrate her public hanging.",
+        "passes_gate": false,
+        "situational_summary": "Conspirators plot to fabricate evidence and condemn an innocent woman to the gallows for witchcraft to protect their household."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vindictive aristocratic conspiracy and lethal escalation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Details the precise framing tactic using the botanical ledger and dismisses the incapacitated Dowager's potential testimony."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP030_07",
+      "start_beat_id": "B020",
+      "end_beat_id": "B029",
+      "start_time": 88.5,
+      "end_time": 133.5,
+      "duration": 45.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 starts abruptly on a reactive close-up of Rupert stating 'Witchcraft is a capital charge.' Without the preceding context or establishing wide shot, the opening is a mid-sentence reaction with no initial grounding of physical setting or who is being accused.",
+        "arc_legibility": true,
+        "arc_rationale": "The sequence follows the conspirators systematically walking through planting false evidence, neutralizing the Dowager, and orchestrating Juliana's execution.",
+        "passes_gate": false,
+        "situational_summary": "A corrupt noble cabal outlines a scheme to plant evidence, frame an innocent woman as a witch, and ensure her execution."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Moral horror confronting unrepentant aristocratic villainy"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the conspiracy's execution mechanism and mentions the Dowager's vulnerable condition."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP030_08",
+      "start_beat_id": "B022",
+      "end_beat_id": "B026",
+      "start_time": 94.5,
+      "end_time": 116.8,
+      "duration": 22.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B022 opens on a clear medium three-shot framing all three conspirators while the Elder Nobleman delivers a completely self-contained command establishing the scenario: 'Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.'",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is immediately evident: a corrupt household is actively manufacturing false evidence to convict a scapegoat while ensuring a sick Dowager cannot intervene.",
+        "passes_gate": true,
+        "situational_summary": "A corrupt noble instructs his co-conspirators to manufacture evidence, bribe the jury, and silence a sick Dowager to hang an innocent victim."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Ruthless, calculated conspiracy and judicial corruption"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the explicit strategy to fabricate the botanical ledger and disregard the dying Dowager's accusations."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP030_09",
+      "start_beat_id": "B022",
+      "end_beat_id": "B028",
+      "start_time": 94.5,
+      "end_time": 125.1,
+      "duration": 30.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B022 opens on a grounded medium three-shot establishing Rupert, Catherine, and the Elder Nobleman, accompanied by an explicit, self-contained statement outlining a lethal frame-up conspiracy ('Do not hide the evidence, manufacture it... buy the jury, and let the State hang her').",
+        "arc_legibility": true,
+        "arc_rationale": "The antagonistic conspiracy is unambiguous: three nobles collude to fabricate evidence against an innocent woman ('Juliana') and use state authority to execute her while dismissing the frail Dowager's potential defense.",
+        "passes_gate": true,
+        "situational_summary": "A cabal of corrupt nobles schemes to frame an innocent woman named Juliana by manufacturing false evidence to guarantee her hanging before a bought magistrate."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Chilling aristocratic conspiracy and ruthless judicial murder plot"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the conspirators' tactical mechanics to frame Juliana using a botanical ledger and manipulate the legal system."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP030_10",
+      "start_beat_id": "B022",
+      "end_beat_id": "B029",
+      "start_time": 94.5,
+      "end_time": 133.5,
+      "duration": 39.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B022 clearly frames the three conspirators in a medium three-shot with an immediately legible premise of manufacturing evidence to execute a victim.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict where the conspirators identify their target (Juliana, 'the witch's disgraced daughter'), the corrupt apparatus, and Catherine's sadistic anticipation of a public execution.",
+        "passes_gate": true,
+        "situational_summary": "Corrupt aristocrats plot to frame an innocent young woman as a witch and ensure she hangs publicly before a bought court."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Venomous malice and sadistic anticipation of an innocent scapegoat's execution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Details the precise frame-up conspiracy and reveals Juliana's targeted identity as the supposed witch's daughter."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP030_11",
+      "start_beat_id": "B022",
+      "end_beat_id": "B030",
+      "start_time": 94.5,
+      "end_time": 136.8,
+      "duration": 42.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B022 opens with a clean three-shot visually grounding all three key conspirators and immediately establishes high-stakes judicial collusion.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly develops from discussing the conspiracy to Rupert actively committing betrayal by sitting down to draft the official arrest warrant himself.",
+        "passes_gate": true,
+        "situational_summary": "A corrupt noble trio orchestrates a lethal frame job against an innocent woman, concluding with one of them writing her arrest warrant."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold moral capitulation and active complicity in judicial murder"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the conspiracy plan and Rupert's definitive escalation to authoring the fraudulent arrest warrant."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP030_12",
+      "start_beat_id": "B022",
+      "end_beat_id": "B031",
+      "start_time": 94.5,
+      "end_time": 144.5,
+      "duration": 50.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B022 establishes physical setting and character dynamic via a medium three-shot paired with direct, context-independent conspiratorial dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear complete arc: from plotting to manufacture evidence, to committing to the arrest warrant, culminating in a chilling final mandate to brand her a witch and ensure her execution.",
+        "passes_gate": true,
+        "situational_summary": "A ruthless noble family schemes to frame an innocent woman with fabricated evidence, ending on a chilling vow to brand her a witch and hang her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak predatory malice and calculated destruction of an innocent life"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Unveils the complete conspiracy apparatus, the manufactured botanical evidence, and the specific witch-branding strategy."
+      }
+    }
+  ]
+}

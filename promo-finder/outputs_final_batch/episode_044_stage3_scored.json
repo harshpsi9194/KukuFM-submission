@@ -1,0 +1,356 @@
+{
+  "episode_number": 44,
+  "total_scored": 14,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP044_01",
+      "start_beat_id": "B005",
+      "end_beat_id": "B011",
+      "start_time": 13.8,
+      "end_time": 41.2,
+      "duration": 27.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 opens with a clear visual wide shot of a ruined nave where royal redcoat guards physically force a struggling nobleman to his knees as he desperately cries out to Catherine. The physical setting, power imbalance, and immediate crisis are instantly legible in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows Catherine abandoning her captured companion to plead with Alexander, a presumed-dead lover who has returned. The central interpersonal conflict and dramatic stakes are self-contained and clear from the dialogue and action.",
+        "passes_gate": true,
+        "situational_summary": "As royal guards pin a nobleman to the ground in a ruined church, a bride walks away from him to plead her enduring love to Alexander, a man she believed was dead for three years."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate reunion plea and grief-stricken romantic confession against martial tension"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the inciting return of the presumed-dead lover interrupting a wedding ceremony."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_02",
+      "start_beat_id": "B005",
+      "end_beat_id": "B012",
+      "start_time": 13.8,
+      "end_time": 42.8,
+      "duration": 29.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 opens with a clear visual wide shot of a ruined nave where royal redcoat guards physically force a struggling nobleman to his knees as he desperately cries out to Catherine. The physical setting, power imbalance, and immediate crisis are instantly legible in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear dynamic of a bride reaching out to her returned lover only to be met with total physical recoiling and detachment, making the emotional rejection self-contained and immediately understandable.",
+        "passes_gate": true,
+        "situational_summary": "After abandoning a captured nobleman to profess three years of mourning to her returned lover Alexander, a bride's tender touch is harshly recoiled from in front of the congregation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vulnerable romantic plea shattered by an icy physical rejection"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the inciting return of Alexander and his immediate physical rejection of Catherine."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_03",
+      "start_beat_id": "B005",
+      "end_beat_id": "B014",
+      "start_time": 13.8,
+      "end_time": 49.0,
+      "duration": 35.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 opens with a clear visual wide shot of a ruined nave where royal redcoat guards physically force a struggling nobleman to his knees as he desperately cries out to Catherine. The physical setting, power imbalance, and immediate crisis are instantly legible in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression shifts clearly from grief-stricken pleading to wounded pride and entitlement as Catherine confronts Alexander after he pulls away from her touch.",
+        "passes_gate": true,
+        "situational_summary": "Following Alexander's rejection of her touch during an interrupted church ceremony, Catherine shifts from grief to stunned outrage, demanding recognition of her promised title as his Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Romantic grief curdling into public humiliation and entitled outrage"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Demonstrates the wedding disruption and reveals Catherine's expectation of ducal status."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_04",
+      "start_beat_id": "B005",
+      "end_beat_id": "B015",
+      "start_time": 13.8,
+      "end_time": 51.0,
+      "duration": 37.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 opens with a clear visual wide shot of a ruined nave where royal redcoat guards physically force a struggling nobleman to his knees as he desperately cries out to Catherine. The physical setting, power imbalance, and immediate crisis are instantly legible in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "A complete, self-contained dramatic clash where Catherine's claim of entitlement ('I was supposed to be your Duchess!') is met with Alexander's devastating repudiation ('You were never my Duchess').",
+        "passes_gate": true,
+        "situational_summary": "In an interrupted wedding in a ruined nave, a bride pleads her love to a returned soldier, but when she claims her right to be his Duchess, he coldly denounces her claim."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public repudiation and shattering of marital legitimacy"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Features the climactic repudiation line that caps the wedding disruption inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_05",
+      "start_beat_id": "B005",
+      "end_beat_id": "B017",
+      "start_time": 13.8,
+      "end_time": 55.6,
+      "duration": 41.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 opens with a clear establishing wide shot in a ruined nave where royal redcoat guards physically force a nobleman (Rupert) to his knees while he screams for Catherine, immediately grounding the high-stakes confrontation in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes the dynamic: Rupert is detained, the bride Catherine abandons him to plead with a resurrected lover (Alexander), and Alexander coldly rejects her claim of love as mere social climbing ('You loved the Duke you thought you would marry.'). The emotional conflict is entirely self-contained.",
+        "passes_gate": true,
+        "situational_summary": "During a disrupted wedding, a bride turns from her arrested groom to plead with her supposedly deceased former lover Alexander, only for him to coldly reject her as a title-chaser."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public rejection and romantic reckoning at the altar"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the dramatic disruption of the wedding ceremony and the revelation that Alexander is alive, serving as a classic inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_06",
+      "start_beat_id": "B005",
+      "end_beat_id": "B020",
+      "start_time": 13.8,
+      "end_time": 63.8,
+      "duration": 50.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 establishes the physical setting and conflict instantly via royal guards tackling a struggling nobleman in a ruined nave as he shouts for Catherine.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained arc where Catherine's emotional appeals of enduring love and mourning are dismantled by Alexander, culminating in his piercing interrogation 'Did you?'. No external lore required to grasp the confrontation.",
+        "passes_gate": true,
+        "situational_summary": "A bride attempts to convince her returning, long-lost lover of her devotion after her wedding is broken up, but he directly challenges whether she ever truly loved him."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating confrontation exposing past romantic betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Features the disrupted wedding confrontation and Alexander's return, functioning as an inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_07",
+      "start_beat_id": "B005",
+      "end_beat_id": "B021",
+      "start_time": 13.8,
+      "end_time": 65.0,
+      "duration": 51.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 provides immediate physical grounding and urgency with armed redcoat guards subduing Rupert on his knees in the church aisle as he desperately calls to Catherine.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is clear and self-contained: Catherine pleads her loyalty to Alexander across escalating beats, but Alexander's pointed doubt leaves her visibly stunned and silenced at the close.",
+        "passes_gate": true,
+        "situational_summary": "At her ruined wedding, a bride pleads with her presumed-dead true love, but is left completely speechless when he coldly questions whether her love was ever genuine."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Emotional devastation and speechlessness following public denial of love"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Disrupts the status quo with the wedding intervention and Alexander's re-emergence."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_08",
+      "start_beat_id": "B005",
+      "end_beat_id": "B022",
+      "start_time": 13.8,
+      "end_time": 67.8,
+      "duration": 54.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 opens with high clarity: a wide shot of a ruined nave with royal redcoat guards pinning a struggling nobleman to the ground while he cries for help.",
+        "arc_legibility": false,
+        "arc_rationale": "The sudden introduction of an unexplained woman in rustic rags and heavy iron chains in the final beat (B022) introduces an ungrounded third-party mystery that breaks the self-contained clarity of Catherine and Alexander's confrontation for a cold viewer.",
+        "passes_gate": false,
+        "situational_summary": "A bride's desperate confrontation with her returned former lover is cut short by a mysterious reveal of a chained woman in rags."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Tense romantic confrontation disrupted by an abrupt conspiratorial reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the secret prisoner Juliana in chains, introducing mid-arc conspiracy elements beyond the initial wedding interruption."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_09",
+      "start_beat_id": "B006",
+      "end_beat_id": "B015",
+      "start_time": 19.4,
+      "end_time": 51.0,
+      "duration": 31.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B006 opens on a medium close-up of Catherine under a bridal veil looking down in silence and clenching her fist. Without sound, dialogue, or wider spatial context, a cold viewer cannot establish who is present, where this is taking place, or what the confrontation is about.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the dialogue and actions clearly establish Catherine confronting her thought-to-be-dead love Alexander at an altar/confrontation, only for him to brutally reject her touch and status.",
+        "passes_gate": false,
+        "situational_summary": "A tearful bride approaches the lover she thought died three years ago, only to be coldly told she was never his Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging personal rejection and unrequited mourning transformed into cold dismissal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the thought-dead Duke is alive, rejecting his betrothed bride, and holding another rival under guard."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_10",
+      "start_beat_id": "B007",
+      "end_beat_id": "B015",
+      "start_time": 24.4,
+      "end_time": 51.0,
+      "duration": 26.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 opens on a wide establishing shot of Catherine gathering her bridal train, stepping away from Rupert, and approaching a stoic Alexander while delivering a crystal-clear hook ('Alexander... I thought you had died. Do you know what this did to me?'). The setting, figures, and dramatic stakes are instantly legible.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely self-contained dramatic arc: a bride confronts the returned lover she mourned for three years, tries to touch him, and gets denied with the crushing punchline 'You were never my Duchess.'",
+        "passes_gate": true,
+        "situational_summary": "A bride steps away from the altar toward the man she mourned for three years as dead, only for him to pull away and deny she was ever his Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating romantic rupture and public repudiation after years of grief"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Duke Alexander has returned from the dead to interrupt the ceremony and reject Catherine."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_11",
+      "start_beat_id": "B012",
+      "end_beat_id": "B025",
+      "start_time": 41.2,
+      "end_time": 70.5,
+      "duration": 29.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 opens mid-action on a man pulling his face back from a floating gloved hand in an extreme close-up. It lacks physical orientation, character identification, and narrative grounding for a cold scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "The progression from rejection to Alexander abandoning the aristocrat to walk toward a chained woman in the back makes the core betrayal and conflict fully intelligible.",
+        "passes_gate": false,
+        "situational_summary": "An aristocratic woman is publicly rejected by a Duke, who bypasses her to choose a chained peasant woman waiting at the entrance."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Humiliating public usurpation and dramatic identity reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the episode's climactic twist: Duke Alexander disowning Catherine and publicly walking to the chained Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_12",
+      "start_beat_id": "B014",
+      "end_beat_id": "B025",
+      "start_time": 46.4,
+      "end_time": 70.5,
+      "duration": 24.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 opens on a high-angle composition showing Catherine foregrounded in conflict, an armed guard holding a man in the background, and her clear, grounded proclamation: 'I was supposed to be your Duchess!'. The social standing, captivity, and core grievance are instantly understandable.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip has an immediate, clear conflict of broken entitlement, escalating as the man repudiates her love and walks away to choose a woman chained in the aisle.",
+        "passes_gate": true,
+        "situational_summary": "An outraged noblewoman demanding her title as Duchess is repudiated by a Duke, who turns his back on her to choose a woman in chains."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "High-stakes humiliation, broken entitlement, and shocking romantic replacement"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the Duke's rejection of Catherine and the climactic reveal of Juliana in chains as his chosen partner."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_13",
+      "start_beat_id": "B015",
+      "end_beat_id": "B023",
+      "start_time": 49.0,
+      "end_time": 69.6,
+      "duration": 20.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 establishes the two main characters directly in a medium two-shot confrontation paired with Alexander's blunt, definitive statement 'You were never my Duchess,' immediately anchoring the marital/aristocratic dispute and interpersonal dynamic in under two seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: Catherine pleads her love to Duke Alexander, who rejects her superficial loyalty and abandons her to walk toward an imprisoned woman in chains at the aisle's entrance. The cold viewer clearly grasps the betrayal, rejection, and dramatic stakes without needing outside lore.",
+        "passes_gate": true,
+        "situational_summary": "A nobleman harshly rejects his tearful aristocratic bride, questioning her past loyalty before turning his back on her to approach a shackled woman in the cathedral aisle."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating public rejection and cold romantic repudiation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the core inciting disruption of the relationship/wedding dynamic without spoiling the full resolution or deep backstory conspiracy."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP044_14",
+      "start_beat_id": "B015",
+      "end_beat_id": "B025",
+      "start_time": 49.0,
+      "end_time": 70.5,
+      "duration": 21.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 opens on a clear medium two-shot confrontation between Catherine and Alexander grounded by his opening line 'You were never my Duchess,' instantly establishing their identities, relational tension, and aristocratic context.",
+        "arc_legibility": true,
+        "arc_rationale": "The dramatic arc is entirely self-contained, escalating from Alexander's denial and Catherine's desperate pleas to Alexander turning to a chained woman, culminating in Catherine's shocked 'Her?!' as the rival dynamic crystallizes unmistakably.",
+        "passes_gate": true,
+        "situational_summary": "After renouncing his tearful bride at the altar, a nobleman walks away to choose a shackled prisoner over her, leaving the bride in horrified disbelief."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak heartbreak compounded by stinging humiliation and disbelief"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes the inciting romantic betrayal and the sudden replacement of the bride, ideal for high-impact top-of-funnel prospecting."
+      }
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "episode_number": 50,
+  "total_candidates": 10,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP050_01",
+      "episode": "Episode 50",
+      "episode_number": 50,
+      "start_beat_id": "B001",
+      "end_beat_id": "B004",
+      "start_time": 0.0,
+      "end_time": 26.5,
+      "duration": 26.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explicitly exposes a scandalous, sacrilegious intimacy with the sharp confession: 'A man in my collar isn't supposed to be in this bed at all.'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate overhead birds-eye visual scroll-stopper: a woman in silk curled against the bare chest of an illicit lover by candlelight.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B004",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine surrender the entire west territory's tax revenue to buy Father Thomas's discretion?",
+        "stakes_importance": "High \u2014 an exorbitant financial and territorial extortion that changes their dynamic of power.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 50,
+          "start_beat_id": "B001",
+          "end_beat_id": "B004",
+          "start_time": 0.0,
+          "end_time": 26.5,
+          "duration": 26.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP050_02",
+      "episode": "Episode 50",
+      "episode_number": 50,
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 30.5,
+      "duration": 30.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explicitly exposes a scandalous, sacrilegious intimacy with the sharp confession: 'A man in my collar isn't supposed to be in this bed at all.'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate overhead birds-eye visual scroll-stopper: a woman in silk curled against the bare chest of an illicit lover by candlelight.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B005",
+        "curiosity_gap_score": 3,
+        "specific_question": "How will Father Thomas justify demanding an entire fortune under the guise of holy office?",
+        "stakes_importance": "Medium \u2014 tests whether Catherine will push back or yield to the priest's extortion.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 50,
+          "start_beat_id": "B001",
+          "end_beat_id": "B005",
+          "start_time": 0.0,
+          "end_time": 30.5,
+          "duration": 30.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP050_03",
+      "episode": "Episode 50",
+      "episode_number": 50,
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 35.8,
+      "duration": 35.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explicitly exposes a scandalous, sacrilegious intimacy with the sharp confession: 'A man in my collar isn't supposed to be in this bed at all.'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate overhead birds-eye visual scroll-stopper: a woman in silk curled against the bare chest of an illicit lover by candlelight.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine accept Father Thomas's cold blackmail terms to guarantee his silence?",
+        "stakes_importance": "High \u2014 defines the corrupt terms of their alliance under the threat of exposure.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 50,
+          "start_beat_id": "B001",
+          "end_beat_id": "B006",
+          "start_time": 0.0,
+          "end_time": 35.8,
+          "duration": 35.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP050_04",
+      "episode": "Episode 50",
+      "episode_number": 50,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 39.8,
+      "duration": 39.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explicitly exposes a scandalous, sacrilegious intimacy with the sharp confession: 'A man in my collar isn't supposed to be in this bed at all.'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate overhead birds-eye visual scroll-stopper: a woman in silk curled against the bare chest of an illicit lover by candlelight.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 3,
+        "specific_question": "Will Father Thomas accept unilateral control without third-party oversight?",
+        "stakes_importance": "Medium \u2014 negotiating the dangerous limits of Father Thomas's newfound financial power.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 50,
+          "start_beat_id": "B001",
+          "end_beat_id": "B007",
+          "start_time": 0.0,
+          "end_time": 39.8,
+          "duration": 39.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP050_05",
+      "episode": "Episode 50",
+      "episode_number": 50,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 43.0,
+      "duration": 43.0,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explicitly exposes a scandalous, sacrilegious intimacy with the sharp confession: 'A man in my collar isn't supposed to be in this bed at all.'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate overhead birds-eye visual scroll-stopper: a woman in silk curled against the bare chest of an illicit lover by candlelight.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 3,
+        "specific_question": "How long will this fragile, blackmail-laden truce survive before one betrays the other?",
+        "stakes_importance": "Medium \u2014 hints at an impending breakdown once the hearing concludes.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 50,
+          "start_beat_id": "B001",
+          "end_beat_id": "B008",
+          "start_time": 0.0,
+          "end_time": 43.0,
+          "duration": 43.0,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP050_06",
+      "episode": "Episode 50",
+      "episode_number": 50,
+      "start_beat_id": "B001",
+      "end_beat_id": "B009",
+      "start_time": 0.0,
+      "end_time": 48.5,
+      "duration": 48.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explicitly exposes a scandalous, sacrilegious intimacy with the sharp confession: 'A man in my collar isn't supposed to be in this bed at all.'",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Immediate overhead birds-eye visual scroll-stopper: a woman in silk curled against the bare chest of an illicit lover by candlelight.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B009",
+        "curiosity_gap_score": 3,
+        "specific_question": "Can Father Thomas truly walk away from Catherine once the hearing is over?",
+        "stakes_importance": "Medium \u2014 challenges the priest's resolve against his growing obsession with Catherine.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 50,
+          "start_beat_id": "B001",
+          "end_beat_id": "B009",
+          "start_time": 0.0,
+          "end_time": 48.5,
+          "duration": 48.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP050_07",
+      "episode": "Episode 50",
+      "episode_number": 50,
+      "start_beat_id": "B002",
+      "end_beat_id": "B006",
+      "start_time": 11.8,
+      "end_time": 35.8,
+      "duration": 24.0,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Directly confronts the underlying transactional or romantic motive with 'let's stop pretending this was only appetite.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Push-in close-up leaning into his face establishes intimate tension but lacks sudden physical disruption.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine accept Father Thomas's cold blackmail terms to guarantee his silence?",
+        "stakes_importance": "High \u2014 defines the corrupt terms of their alliance under the threat of exposure.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 50,
+          "start_beat_id": "B002",
+          "end_beat_id": "B006",
+          "start_time": 11.8,
+          "end_time": 35.8,
+          "duration": 24.0,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP050_08",
+      "episode": "Episode 50",
+      "episode_number": 50,
+      "start_beat_id": "B003",
+      "end_beat_id": "B009",
+      "start_time": 15.8,
+      "end_time": 48.5,
+      "duration": 32.7,
+      "hook_signal": {
+        "beat_id": "B003",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Sharp, punchy transaction trigger ('Name your price') that introduces an instant transactional curiosity gap.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Standard side two-shot of both characters sitting up in bed under sheets.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B009",
+        "curiosity_gap_score": 3,
+        "specific_question": "Can Father Thomas truly walk away from Catherine once the hearing is over?",
+        "stakes_importance": "Medium \u2014 challenges the priest's resolve against his growing obsession with Catherine.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 50,
+          "start_beat_id": "B003",
+          "end_beat_id": "B009",
+          "start_time": 15.8,
+          "end_time": 48.5,
+          "duration": 32.7,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP050_09",
+      "episode": "Episode 50",
+      "episode_number": 50,
+      "start_beat_id": "B004",
+      "end_beat_id": "B009",
+      "start_time": 18.8,
+      "end_time": 48.5,
+      "duration": 29.7,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes extortion revealing corruption as the priest demands 'The west territory. Tax collection, all of it.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Profile close-up of bare-chested priest with a hand resting over his heart; low physical motion.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B009",
+        "curiosity_gap_score": 3,
+        "specific_question": "Can Father Thomas truly walk away from Catherine once the hearing is over?",
+        "stakes_importance": "Medium \u2014 challenges the priest's resolve against his growing obsession with Catherine.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 50,
+          "start_beat_id": "B004",
+          "end_beat_id": "B009",
+          "start_time": 18.8,
+          "end_time": 48.5,
+          "duration": 29.7,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP050_10",
+      "episode": "Episode 50",
+      "episode_number": 50,
+      "start_beat_id": "B005",
+      "end_beat_id": "B009",
+      "start_time": 26.5,
+      "end_time": 48.5,
+      "duration": 22.0,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Expresses overt pushback and stakes clarification: 'That's not absolution, Thomas. That's a fortune.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Subtle pull back and hand retraction showing disbelief without dynamic physical action.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B009",
+        "curiosity_gap_score": 3,
+        "specific_question": "Can Father Thomas truly walk away from Catherine once the hearing is over?",
+        "stakes_importance": "Medium \u2014 challenges the priest's resolve against his growing obsession with Catherine.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 50,
+          "start_beat_id": "B005",
+          "end_beat_id": "B009",
+          "start_time": 26.5,
+          "end_time": 48.5,
+          "duration": 22.0,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "episode_number": 41,
+  "total_scored": 12,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP041_01",
+      "start_beat_id": "B004",
+      "end_beat_id": "B017",
+      "start_time": 8.5,
+      "end_time": 60.8,
+      "duration": 52.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B004 opens mid-dialogue with an ellipsis ('...I want everyone to see what happens to a woman who dares defy this family') on a close-up of Catherine's face. Without prior lore or immediate physical context, a cold viewer has no visual anchor for the setting, who is being referred to, or what family is being defied in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the dynamic becomes crystal clear: a haughty aristocrat parades a disgraced, shackled former peer into a crowded chapel to humiliate her, only for the prisoner to verbally defy her.",
+        "passes_gate": false,
+        "situational_summary": "An aristocratic woman parades a shackled former noblewoman into a packed cathedral to publicly humiliate her, but the prisoner unflinchingly mocks her captor's need for an audience."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public ritual humiliation met with razor-sharp defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the public disgrace and parade of Juliana into the chapel, establishing the central rivalry and status inversion inciting incident."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP041_02",
+      "start_beat_id": "B006",
+      "end_beat_id": "B014",
+      "start_time": 15.5,
+      "end_time": 48.5,
+      "duration": 33.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens on an unmistakable visual establishing shot: the creak of cathedral double doors opening wide down the aisle, silhouetting a bruised woman in a drab numbered prison dress marched in by two armed constables.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict and status differential are instantly established by the pews of sneering nobles and Catherine addressing the captive Lady Juliana at the altar steps.",
+        "passes_gate": true,
+        "situational_summary": "A bruised prisoner in chains is marched down a cathedral aisle before a mocking congregation to be confronted at the altar by an aristocratic rival."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging public ostracization and gloating aristocratic cruelty"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the spectacle of the disgraced noblewoman being paraded before high society."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP041_03",
+      "start_beat_id": "B006",
+      "end_beat_id": "B015",
+      "start_time": 15.5,
+      "end_time": 52.8,
+      "duration": 37.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 establishes the physical environment, prisoner status, and armed escort immediately via a wide shot from the altar down the aisle as cathedral doors open.",
+        "arc_legibility": true,
+        "arc_rationale": "The entire trajectory from entrance to the altar steps clearly pits the imperious Catherine against the captive Juliana before an audience of gloating peers.",
+        "passes_gate": true,
+        "situational_summary": "A chained noblewoman in prison clothes is marched down a church aisle before jeering peers to face a gloating rival declaring her true fallen nature."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Public shaming ceremony and escalating psychological domination"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts Juliana's parade of shame and Catherine's public pronouncement to the church congregation."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP041_04",
+      "start_beat_id": "B006",
+      "end_beat_id": "B017",
+      "start_time": 15.5,
+      "end_time": 60.8,
+      "duration": 45.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 immediately grounds a cold viewer: cathedral double doors creak open to reveal a prisoner in a coarse numbered dress flanked by armed constables.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely self-contained dramatic arc: captive woman is marched before mocking high society to be humiliated by a rival, but shatters the humiliation with a crushing defiant comeback.",
+        "passes_gate": true,
+        "situational_summary": "A chained woman marched into a packed cathedral for public humiliation turns the tables by mocking her aristocratic rival for needing an entire congregation to feel powerful."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak public humiliation punctured by electrifying defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the confrontation at the chapel altar and Juliana's refusal to break under public shaming."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP041_05",
+      "start_beat_id": "B006",
+      "end_beat_id": "B018",
+      "start_time": 15.5,
+      "end_time": 64.0,
+      "duration": 48.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens on a clear visual establishing shot: church double doors swing open down the nave, revealing a woman in prison garb and number badge being marched into a grand cathedral flanked by armed constables.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is immediately self-contained and legible: an aristocratic rival at the altar gloats over Juliana's public humiliation and fall from grace, culminating in Juliana delivering a cutting, defiant verbal punchline despite her chains.",
+        "passes_gate": true,
+        "situational_summary": "A disgraced noblewoman in chains and prison rags is paraded before a mocking high-society church congregation, but defiantly shames the rival woman gloating at the altar."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Severe public humiliation transformed into cold, unyielding defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows Juliana's public disgrace and captive arrival at the chapel, establishing the central inciting conflict without resolving the broader plot."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP041_06",
+      "start_beat_id": "B006",
+      "end_beat_id": "B021",
+      "start_time": 15.5,
+      "end_time": 75.0,
+      "duration": 59.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 provides an immediate visual grounding: cathedral doors opening to reveal a woman in prison garb escorted down the aisle by armed guards.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear dynamic between the captive heroine and the corrupt couple at the altar; ends on Catherine and Rupert clasping hands and gloating about seizing the Ashburgh title.",
+        "passes_gate": true,
+        "situational_summary": "A captive woman is paraded through a sneering church congregation before her triumphant rival and former fianc\u00e9 flaunt their conspiracy to steal her family's noble title."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Public humiliation and predatory usurpation of power"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Catherine and Rupert's explicit conspiracy mechanics to usurp the Ashburgh title once Juliana is removed."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP041_07",
+      "start_beat_id": "B007",
+      "end_beat_id": "B017",
+      "start_time": 20.0,
+      "end_time": 60.8,
+      "duration": 40.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 starts on an extreme close-up of scarred, shackled wrists with zero spatial context, setting, or indication of who is present or where they are.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent confrontation clearly establishes Juliana being mocked by high society and confronting Catherine from her chains.",
+        "passes_gate": false,
+        "situational_summary": "A chained prisoner endures the mockery of a cathedral congregation before verbally striking back at her gloating tormentor on the altar steps."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral public humiliation met with unflinching moral defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts Juliana's captive public humiliation and defiant confrontation at the altar."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP041_08",
+      "start_beat_id": "B008",
+      "end_beat_id": "B017",
+      "start_time": 22.8,
+      "end_time": 60.8,
+      "duration": 38.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B008 starts on an intense tight close-up of a bruised face without any establishing environment, location, or interpersonal context visible to a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The unfolding scene shows the captive woman facing down a sneering aristocracy and an arrogant rival at the altar.",
+        "passes_gate": false,
+        "situational_summary": "A captive woman in chains refuses to be broken by a mocking cathedral congregation and delivers a sharp rebuff to the woman gloating at the altar."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Public shaming overpowered by fierce personal dignity"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows Juliana being publicly humiliated in chains and turning the tables with a verbal strike."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP041_09",
+      "start_beat_id": "B014",
+      "end_beat_id": "B022",
+      "start_time": 39.8,
+      "end_time": 77.5,
+      "duration": 37.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 immediately establishes the setting and power dynamic: Juliana is shown in chains flanked by guards in the center of a cathedral nave while Catherine addresses her publicly before sneering aristocratic onlookers.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: Juliana is a defiant captive whose title is being usurped at the altar by Catherine and Rupert. However, ending on Rupert's smirk leaves the conflict unresolved without a disruptive hook payoff.",
+        "passes_gate": true,
+        "situational_summary": "A chained noblewoman defies her captors in a cathedral as a rival couple prepares to finalize a stolen title at the altar."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Public humiliation resisted through unyielding defiance against arrogant usurpers"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the captive dynamic and the usurpers' impending ceremony to seize the Ashburgh title."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP041_10",
+      "start_beat_id": "B014",
+      "end_beat_id": "B024",
+      "start_time": 39.8,
+      "end_time": 88.5,
+      "duration": 48.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 grounds the physical space and status instantly: a high-angle wide shot shows Juliana flanked by guards in a grand cathedral nave while Catherine mocks her in front of a sneering audience.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear and self-contained arc from public mockery and wedding vows to an explosive, shocking intervention at the cathedral doors.",
+        "passes_gate": true,
+        "situational_summary": "As a captive noblewoman is forced to watch her rivals wed at the altar, a catastrophic explosion demolishes the cathedral doors just as the vows begin."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Stifling public humiliation and looming defeat shattered by violent explosive disruption"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the climactic rescue/attack on the cathedral that interrupts the villain wedding."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP041_11",
+      "start_beat_id": "B017",
+      "end_beat_id": "B024",
+      "start_time": 57.8,
+      "end_time": 88.5,
+      "duration": 30.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 opens on a tight close-up of a bruised face speaking mid-confrontation ('You needed an entire chapel...'). Without Beat B014's establishing wide shot, a cold viewer lacks immediate visual grounding of who she is, where she is, or who she is speaking to within the first 1-3 seconds without retrospective context.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent beats reveal the altar wedding, the chains, and the explosive interruption, making the broad conflict understandable across the full duration.",
+        "passes_gate": false,
+        "situational_summary": "A chained, bruised woman taunts her captors at a wedding before a sudden bomb blasts open the cathedral doors."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Sharp verbal defiance culminating in an explosive shock interrupt"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Shows the high-stakes wedding ceremony and the catastrophic door-breaching explosion."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP041_12",
+      "start_beat_id": "B017",
+      "end_beat_id": "B025",
+      "start_time": 57.8,
+      "end_time": 96.09,
+      "duration": 38.29,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 starts on a tight close-up of Juliana's bruised face delivering dialogue. Lacks physical orientation, the wider cathedral context, or the identity of the antagonist until subsequent beats, failing the strict opening isolation rule.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic escalation moving from defiance to imminent wedding, followed by an explosion and the visible arrival of an armed strike force offering hope.",
+        "passes_gate": false,
+        "situational_summary": "A captive woman defies her captors at an altar ceremony right before an explosion breaches the cathedral, revealing mysterious armed allies in the smoke."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Defiance and despair transformed into awe and sudden salvation"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Discloses the climactic rescue operation, the explosion, and the reveal of armed rescuers."
+      }
+    }
+  ]
+}

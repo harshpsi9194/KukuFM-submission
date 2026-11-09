@@ -5,8 +5,8 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Tests](https://img.shields.io/badge/unit%20tests-22%2F22%20passing-brightgreen.svg)]()
 [![Model-Agnostic](https://img.shields.io/badge/LLM-OpenAI%20%7C%20Gemini%20%7C%20vLLM-purple.svg)]()
-[![Speed](https://img.shields.io/badge/batch%20runtime-%3C%201%20hour%20for%2050%20episodes-orange.svg)]()
-[![Cost](https://img.shields.io/badge/cost-%240.007%20%2F%20episode-success.svg)]()
+[![Calls](https://img.shields.io/badge/calls-7.5%20%2F%20episode-brightgreen.svg)]()
+[![Cost](https://img.shields.io/badge/50--ep%20batch%20cost-%240.188%20USD-success.svg)]()
 
 ---
 
@@ -57,15 +57,16 @@ Most generative AI solutions fail on microdrama screenplays because they try to 
 
 ## 🚀 Architecture & Rebuild V2 Highlights
 
-The pipeline was completely overhauled from Legacy V1 to Rebuilt V2, achieving dramatic performance and efficiency gains:
+The pipeline was completely overhauled from Legacy V1 to Rebuilt V2, achieving dramatic performance and efficiency gains (empirically measured across the full 50-episode batch run):
 
-| Metric | Legacy V1 | Rebuilt V2 (Current) | Improvement |
+| Metric | Legacy V1 | Rebuilt V2 (Empirical 50-Ep Batch) | Improvement |
 |---|---|---|---|
-| **LLM Calls / Episode** | ~280 calls | **11–13 calls** | **95.5% reduction** |
-| **Wall-Clock Latency / Ep** | 10.5 minutes | **~2.2 minutes** | **78.6% faster** |
-| **50-Episode Batch Runtime** | ~8.8 hours | **< 1 hour (55–65 min)** | **100% on schedule** |
-| **Cost per Episode** | ~$0.21 USD | **~$0.007 USD** | **96.8% cheaper** |
-| **Full 50-Episode Series Cost** | ~$10.50 USD | **~$0.35 USD total** | Entire series costs 35¢ |
+| **Average Calls / Episode** | ~280 calls | **7.5 calls** | **37.3× fewer calls** |
+| **Total Calls (50 Episodes)** | ~14,000 calls | **375 calls** | **97.3% call reduction** |
+| **Average Wall-Clock / Ep** | 10.5 minutes (630s)| **89.8 seconds (1.50m)** | **7.0× faster** |
+| **Full 50-Episode Batch** | ~8.8 hours | **74.8 minutes (1.25h)** | **~7 hours saved** |
+| **Average Cost / Episode** | ~$0.215 USD | **$0.00376 USD** | **57.2× cheaper** |
+| **Full 50-Episode Batch Cost** | ~$10.75 USD | **$0.188 USD total (< 19¢)** | **98.3% cost reduction** |
 | **Stage 4 Ranking** | 120-call pairwise tournament | **1 batched absolute rubric call** | **0 round-robin matches** |
 | **Portfolio Selection** | Heuristic ranking | **FastEmbed ONNX + MMR** | $\lambda=0.55$, $\text{Sim} < 0.90$ |
 

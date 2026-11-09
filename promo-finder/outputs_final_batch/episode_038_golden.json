@@ -1,0 +1,561 @@
+{
+  "episode": "Episode 38",
+  "episode_number": 38,
+  "logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution.",
+  "continuity_notes": "Following Rupert and Catherine's cruel announcement pairing their wedding with Juliana's public execution, Juliana remains starved in the subterranean dungeon awaiting her fate.",
+  "duration": 87.91,
+  "total_beats": 11,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 7.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "action",
+          "description": "Juliana sits motionless against the cold masonry, weak and visibly drained from starvation, her eyes cast downward.",
+          "start": 0.0,
+          "end": 3.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium profile shot of Juliana slumped on the damp stone floor of her dark dungeon cell, her wrists bound in heavy iron shackles and chains draped over her lap.",
+          "start": 0.0,
+          "end": 4.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Echoing, heavy bootsteps approach down the corridor outside the cell.",
+          "start": 3.2,
+          "end": 6.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Tight close-up on Juliana's profile as her head turns toward the corridor, her blue eyes widening with cautious alarm.",
+          "start": 4.0,
+          "end": 7.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana blinks, lifting her gaze toward the heavy iron bars.",
+          "start": 5.0,
+          "end": 7.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUNGEON CELL \u2013 DAY"
+    },
+    {
+      "beat_id": "B002",
+      "start": 7.5,
+      "end": 11.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot through the cell bars as a Guard in a black collared uniform with silver buttons halts outside.",
+          "start": 7.5,
+          "end": 11.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The Guard pauses, glancing over his shoulder into the gloomy corridor to ensure he is unobserved.",
+          "start": 8.5,
+          "end": 11.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUNGEON CELL \u2013 DAY"
+    },
+    {
+      "beat_id": "B003",
+      "start": 11.0,
+      "end": 15.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot focusing on the wet flagstones at the base of the cell door.",
+          "start": 11.0,
+          "end": 15.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside before withdrawing his gloved hand.",
+          "start": 11.0,
+          "end": 15.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUNGEON CELL \u2013 DAY"
+    },
+    {
+      "beat_id": "B004",
+      "start": 15.5,
+      "end": 17.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle close-up of Juliana crawling forward across the stone floor toward the bread, her gaze fixed on the offering in disbelief.",
+          "start": 15.5,
+          "end": 17.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Why?",
+          "start": 16.0,
+          "end": 17.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Breathless, Bewildered"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUNGEON CELL \u2013 DAY"
+    },
+    {
+      "beat_id": "B005",
+      "start": 17.5,
+      "end": 23.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Because no one should die hungry.",
+          "start": 17.5,
+          "end": 20.3,
+          "timestamp_source": "given",
+          "character": "GUARD",
+          "emotion": "Subdued, Sincere"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of the Guard looking through the vertical bars with quiet compassion.",
+          "start": 17.5,
+          "end": 21.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Eat it before they see.",
+          "start": 20.5,
+          "end": 22.0,
+          "timestamp_source": "given",
+          "character": "GUARD",
+          "emotion": "Urgent, Whispered"
+        },
+        {
+          "type": "camera",
+          "description": "Over-the-shoulder shot through the cell bars as the Guard turns and walks swiftly away into the dark corridor.",
+          "start": 21.5,
+          "end": 23.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "The Guard's silhouette retreats into the shadows.",
+          "start": 21.8,
+          "end": 23.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUNGEON CELL \u2013 DAY"
+    },
+    {
+      "beat_id": "B006",
+      "start": 23.2,
+      "end": 39.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight shot following Juliana's trembling, shackle-bound hands as she reaches out and drags the loaf toward her chest.",
+          "start": 23.2,
+          "end": 30.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana clutches the bread tightly with both hands, tears welling in her eyes.",
+          "start": 23.5,
+          "end": 27.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Thank you.",
+          "start": 26.0,
+          "end": 27.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Choked Up, Tearful"
+        },
+        {
+          "type": "action",
+          "description": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite.",
+          "start": 27.8,
+          "end": 31.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek.",
+          "start": 30.5,
+          "end": 35.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew.",
+          "start": 31.0,
+          "end": 34.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Alexander...",
+          "start": 34.5,
+          "end": 36.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Sorrowful, Whispering"
+        },
+        {
+          "type": "camera",
+          "description": "Low-angle wide shot of Juliana seated against the damp stone wall beneath high overhead iron ceiling grates, clutching the half-eaten bread in her lap.",
+          "start": 35.0,
+          "end": 39.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "...are you safe?",
+          "start": 36.8,
+          "end": 39.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Yearning"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUNGEON CELL \u2013 DAY"
+    },
+    {
+      "beat_id": "B007",
+      "start": 39.5,
+      "end": 45.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish.",
+          "start": 39.5,
+          "end": 45.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Do you even know what happened to me?",
+          "start": 40.0,
+          "end": 43.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Desperate, Trembling"
+        },
+        {
+          "type": "dialogue",
+          "description": "Do you know they condemned me?",
+          "start": 43.2,
+          "end": 45.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Grief-Stricken"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUNGEON CELL \u2013 DAY"
+    },
+    {
+      "beat_id": "B008",
+      "start": 45.5,
+      "end": 51.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "What if I die here?",
+          "start": 45.5,
+          "end": 47.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Fearful, Pleading"
+        },
+        {
+          "type": "camera",
+          "description": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest.",
+          "start": 45.5,
+          "end": 51.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "What if I never see you again?",
+          "start": 47.8,
+          "end": 50.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Heartbroken"
+        },
+        {
+          "type": "action",
+          "description": "A heavy tear drips down from her jaw, falling into the dark dampness below.",
+          "start": 48.5,
+          "end": 51.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUNGEON CELL \u2013 DAY"
+    },
+    {
+      "beat_id": "B009",
+      "start": 51.0,
+      "end": 55.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself.",
+          "start": 51.0,
+          "end": 55.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Keep him safe.",
+          "start": 51.5,
+          "end": 53.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Fervent Prayer"
+        },
+        {
+          "type": "dialogue",
+          "description": "Wherever he is.",
+          "start": 53.8,
+          "end": 55.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Resigned"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUNGEON CELL \u2013 DAY"
+    },
+    {
+      "beat_id": "B010",
+      "start": 55.5,
+      "end": 60.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "dialogue",
+          "description": "Let him live.",
+          "start": 55.5,
+          "end": 57.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Determined"
+        },
+        {
+          "type": "camera",
+          "description": "Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity.",
+          "start": 55.5,
+          "end": 60.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And if I have only one thing left to give...",
+          "start": 57.5,
+          "end": 60.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Steely"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUNGEON CELL \u2013 DAY"
+    },
+    {
+      "beat_id": "B011",
+      "start": 60.5,
+      "end": 87.91,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty.",
+          "start": 60.5,
+          "end": 64.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I will not give them my husband.",
+          "start": 60.8,
+          "end": 62.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Defiant, Unshakable"
+        },
+        {
+          "type": "dialogue",
+          "description": "I will not betray him.",
+          "start": 62.8,
+          "end": 64.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Resolute"
+        },
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath.",
+          "start": 64.0,
+          "end": 67.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above.",
+          "start": 64.5,
+          "end": 66.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon.",
+          "start": 64.8,
+          "end": 87.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell.",
+          "start": 67.0,
+          "end": 70.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Bells.",
+          "start": 69.0,
+          "end": 70.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Startled Whisper"
+        },
+        {
+          "type": "camera",
+          "description": "Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts.",
+          "start": 70.5,
+          "end": 72.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana rushes toward the front of the cell, clutching the iron bars with both hands.",
+          "start": 71.0,
+          "end": 73.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "camera",
+          "description": "Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound.",
+          "start": 72.5,
+          "end": 78.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The wedding.",
+          "start": 72.8,
+          "end": 74.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Realizing"
+        },
+        {
+          "type": "dialogue",
+          "description": "It's beginning.",
+          "start": 74.5,
+          "end": 75.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Grim"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then I suppose I'm next.",
+          "start": 76.0,
+          "end": 78.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Somber, Steely"
+        },
+        {
+          "type": "camera",
+          "description": "Close-up between the vertical iron bars framed directly on Juliana's face. The terror in her eyes softens into an unexpected, brave smile of enduring faith.",
+          "start": 78.5,
+          "end": 84.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana grips the bars tightly, her lips curving into a warm, defiant smile as she whispers her husband's name.",
+          "start": 81.0,
+          "end": 84.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Alexander...",
+          "start": 82.5,
+          "end": 84.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Hopeful, Tender"
+        },
+        {
+          "type": "camera",
+          "description": "Dramatic cut to black.",
+          "start": 84.5,
+          "end": 87.91,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "A sharp, high-tension dramatic swell strikes and echoes out into silence alongside the fading toll of the distant church bells.",
+          "start": 84.5,
+          "end": 87.91,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. DUNGEON CELL \u2013 DAY"
+    }
+  ]
+}

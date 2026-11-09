@@ -1,0 +1,1095 @@
+{
+  "episode": "Episode 31",
+  "episode_number": 31,
+  "logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.",
+  "continuity_notes": "Follows directly from Episode 30 where Rupert and Catherine plotted to frame Juliana as a witch while Juliana huddled chained in the subterranean dungeon.",
+  "duration": 160.0,
+  "total_beats": 40,
+  "beats": [
+    {
+      "beat_id": "B001",
+      "start": 0.0,
+      "end": 2.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Static medium shot of the heavy, iron-studded dungeon door as the massive bolt loudly slides open.",
+          "start": 0.0,
+          "end": 2.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Heavy iron latch sliding back with an ominous, echoing metallic clang, followed by the deep groaning creak of the cell door swinging inward.",
+          "start": 0.0,
+          "end": 2.8,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B002",
+      "start": 2.8,
+      "end": 4.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana huddled against the stone wall, bound in heavy iron chains, shivering in her torn apron and lifting her tear-streaked face in dread.",
+          "start": 2.8,
+          "end": 4.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana recoils against the damp stonework, her eyes wide with terror as light floods into the dark cell.",
+          "start": 2.8,
+          "end": 4.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B003",
+      "start": 4.2,
+      "end": 9.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Full shot framed through the arched doorway. Catherine stands imperiously in an ornate, gold-embroidered violet gown, holding a smoldering hot poker and a charred leather-bound book, flanked by two stone-faced guards with lanterns.",
+          "start": 4.2,
+          "end": 9.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Look at you.",
+          "start": 6.9,
+          "end": 8.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Cruel, Condescending"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B004",
+      "start": 9.5,
+      "end": 10.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle close-up of Juliana looking up from the stone floor, her gaze hardening despite her fear.",
+          "start": 9.5,
+          "end": 10.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B005",
+      "start": 10.5,
+      "end": 13.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Catherine's face, bathed in the orange flickering glow of the red-hot branding iron, smiling with pure malice.",
+          "start": 10.5,
+          "end": 13.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "The great Lady Juliana Ashcroft.",
+          "start": 10.5,
+          "end": 13.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Mocking, Venomous"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B006",
+      "start": 13.8,
+      "end": 17.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Over-the-shoulder wide shot past Catherine looking down at Juliana shackled helplessly on the wet stone floor.",
+          "start": 13.8,
+          "end": 17.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Chained in a dungeon like a common criminal.",
+          "start": 14.0,
+          "end": 17.6,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Taunting"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B007",
+      "start": 17.6,
+      "end": 20.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana, her eyes glistening with unshed tears, speaking with quiet defiance.",
+          "start": 17.6,
+          "end": 20.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You seem very pleased.",
+          "start": 17.8,
+          "end": 20.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Defiant, Steady"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B008",
+      "start": 20.8,
+      "end": 24.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot looking up at Catherine towering over Juliana, holding the glowing poker at her side.",
+          "start": 20.8,
+          "end": 24.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I am.",
+          "start": 21.0,
+          "end": 23.5,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Smug, Chilling"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B009",
+      "start": 24.5,
+      "end": 29.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of the bent, white-hot tip of the poker radiating heat, with Catherine's face blurred in the background as she gazes down with predatory pleasure.",
+          "start": 24.5,
+          "end": 29.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Because this is what you were always meant to be.",
+          "start": 25.0,
+          "end": 28.9,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Whispering, Sinister"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B010",
+      "start": 29.0,
+      "end": 34.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Over-the-shoulder medium shot focusing on Juliana as Catherine presents the charred, singed pages of the botanical book.",
+          "start": 29.0,
+          "end": 34.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Your family dressed you like a lady. They educated you. They gave you a respectable name.",
+          "start": 29.3,
+          "end": 34.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Scornful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B011",
+      "start": 34.8,
+      "end": 39.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine's face breaking into an arrogant, haughty laugh.",
+          "start": 34.8,
+          "end": 39.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "[chuckles] And still you became a disgrace.",
+          "start": 35.0,
+          "end": 38.9,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Amused, Spiteful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B012",
+      "start": 39.0,
+      "end": 43.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Juliana's fierce, unwavering gaze as she retorts without hesitation.",
+          "start": 39.0,
+          "end": 43.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I became a disgrace when I refused to become cruel.",
+          "start": 39.2,
+          "end": 43.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Fierce, Unbroken"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B013",
+      "start": 43.0,
+      "end": 48.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine scowling, cutting back to a shot of Juliana's bare, chained feet locked in iron manacles against the cold stone floor.",
+          "start": 43.0,
+          "end": 48.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No. You became a disgrace when Gerald left you standing at the altar.",
+          "start": 43.2,
+          "end": 48.5,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Cold, Bitter"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B014",
+      "start": 48.5,
+      "end": 54.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot from floor level looking up at Catherine leaning closer, savoring Juliana's humiliation.",
+          "start": 48.5,
+          "end": 54.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Do you remember?",
+          "start": 48.9,
+          "end": 50.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Gloating"
+        },
+        {
+          "type": "action",
+          "description": "Juliana stares up, her breathing steadying as she refuses to break under Catherine's barbs.",
+          "start": 49.0,
+          "end": 52.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Everyone saw you. Everyone watched him chose Clarisse.",
+          "start": 51.0,
+          "end": 54.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Viciously Delighted"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B015",
+      "start": 54.8,
+      "end": 59.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the red-hot iron hovering over the damp stone floor, rising steam and heat waves warping the air, before cutting to Catherine's gloating expression.",
+          "start": 54.8,
+          "end": 59.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Faint sizzling and hissing as ambient moisture touches the scalding iron tip.",
+          "start": 55.2,
+          "end": 57.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "And everyone watched you walk away alone.",
+          "start": 55.5,
+          "end": 58.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Quietly Venomous"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B016",
+      "start": 59.0,
+      "end": 65.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up pushing in on Juliana's illuminated, dignified face.",
+          "start": 59.0,
+          "end": 65.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Gerald chose money.",
+          "start": 59.2,
+          "end": 61.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Proud, Measured"
+        },
+        {
+          "type": "dialogue",
+          "description": "Clarissa chose a coward.",
+          "start": 61.5,
+          "end": 63.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Resolute"
+        },
+        {
+          "type": "dialogue",
+          "description": "I chose myself.",
+          "start": 63.8,
+          "end": 65.3,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Unyielding"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B017",
+      "start": 65.5,
+      "end": 67.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine's face tightening in disgust.",
+          "start": 65.5,
+          "end": 67.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You chose a beggar.",
+          "start": 65.6,
+          "end": 67.4,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Disgusted"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B018",
+      "start": 67.5,
+      "end": 70.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot of Juliana lifting her chin with unwavering pride.",
+          "start": 67.5,
+          "end": 70.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I chose a man.",
+          "start": 67.6,
+          "end": 69.8,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Fierce, Proud"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B019",
+      "start": 70.5,
+      "end": 73.3,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Catherine sneering down at her.",
+          "start": 70.5,
+          "end": 73.3,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "A scarred nobody.",
+          "start": 70.8,
+          "end": 73.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Contemptuous"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B020",
+      "start": 73.3,
+      "end": 77.6,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Juliana sitting erect against the dungeon wall, her hands resting calmly in her lap.",
+          "start": 73.3,
+          "end": 77.6,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "A man with more honor than the people sitting above this dungeon.",
+          "start": 73.5,
+          "end": 77.6,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Resolute, Dignified"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B021",
+      "start": 77.6,
+      "end": 80.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Catherine, holding the smoldering iron between them.",
+          "start": 77.6,
+          "end": 80.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You call that marriage?",
+          "start": 77.8,
+          "end": 80.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Incredulous, Mocking"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B022",
+      "start": 80.5,
+      "end": 83.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Juliana's clear blue eyes, shining with profound conviction.",
+          "start": 80.5,
+          "end": 83.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I call it love.",
+          "start": 80.8,
+          "end": 83.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Pure, Sincere"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B023",
+      "start": 83.2,
+      "end": 91.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "High-angle wide shot looking straight down through the ceiling iron grating into the deep dungeon shaft where Catherine looms over Juliana.",
+          "start": 83.2,
+          "end": 88.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "[laughs] Love? Look where your precious love brought you.",
+          "start": 83.5,
+          "end": 87.4,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Mocking, Hysterical Laugh"
+        },
+        {
+          "type": "camera",
+          "description": "Medium close-up of Juliana looking directly up past the glowing tip of the iron poker into Catherine's eyes.",
+          "start": 87.5,
+          "end": 91.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "To a place where I can still look you in the eyes.",
+          "start": 87.8,
+          "end": 91.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Firm, Piercing"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B024",
+      "start": 91.2,
+      "end": 94.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine, her lips curling in indignant disbelief.",
+          "start": 91.2,
+          "end": 94.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "You think love makes you better than me?",
+          "start": 91.4,
+          "end": 94.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Incredulous, Offended"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B025",
+      "start": 94.2,
+      "end": 98.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana speaking calmly and razor-sharp.",
+          "start": 94.2,
+          "end": 98.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No. But cruelty certainly doesn't make you better than me.",
+          "start": 94.5,
+          "end": 98.2,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Calm, Cutting"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B026",
+      "start": 98.2,
+      "end": 103.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Catherine sweeping her arm out, flaunting her aristocratic privilege and opulence.",
+          "start": 98.2,
+          "end": 103.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "I have beauty, money, family, status! What do you have?",
+          "start": 98.5,
+          "end": 103.3,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Incensed, Boastful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B027",
+      "start": 103.5,
+      "end": 108.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana, her expression serene and grounded in moral superiority.",
+          "start": 103.5,
+          "end": 108.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Knowledge. Love. And people who need me.",
+          "start": 103.7,
+          "end": 108.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Quiet, Powerful"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B028",
+      "start": 108.8,
+      "end": 111.4,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight shot of Catherine's gloved hands holding Juliana's mother's partially burned botanical volume, 'The Virtues of Plants & Herbs'.",
+          "start": 108.8,
+          "end": 110.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "[scoffs] Peasants? People?",
+          "start": 110.2,
+          "end": 111.4,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Sneering, Derisive"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B029",
+      "start": 111.5,
+      "end": 118.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium shot of Catherine casually holding the ancient book while pacing slowly before Juliana.",
+          "start": 111.5,
+          "end": 118.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "That is why you were born in the wrong world. Women like me are meant to be admired. Women like you are meant to serve.",
+          "start": 111.6,
+          "end": 118.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Arrogant, Elitist"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B030",
+      "start": 118.2,
+      "end": 124.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Tight close-up of Juliana's face, tilting her head with an insightful, knowing smirk.",
+          "start": 118.2,
+          "end": 122.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Then why are you so desperate to make me kneel?",
+          "start": 118.4,
+          "end": 122.0,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Piercing, Provocative"
+        },
+        {
+          "type": "action",
+          "description": "Catherine's smug expression freezes, her eyes widening in momentary shock and fury as the blow lands squarely.",
+          "start": 122.0,
+          "end": 124.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B031",
+      "start": 124.0,
+      "end": 130.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle medium shot of Juliana, her voice ringing clearly through the subterranean chamber.",
+          "start": 124.0,
+          "end": 130.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "If you were truly powerful, Catherine, you wouldn't need me to bow.",
+          "start": 124.2,
+          "end": 130.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Accusatory, Commanding"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B032",
+      "start": 130.8,
+      "end": 133.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Catherine completely losing control, her aristocratic facade shattering into sheer rage.",
+          "start": 130.8,
+          "end": 133.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "Enough!",
+          "start": 131.0,
+          "end": 132.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Enraged Scream"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B033",
+      "start": 133.0,
+      "end": 134.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of the red-hot poker pressing directly down into the delicate open pages of the botanical book.",
+          "start": 133.0,
+          "end": 134.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "sfx",
+          "description": "Hiss of scorched parchment and curling white smoke rising as paper blackens under extreme heat.",
+          "start": 133.2,
+          "end": 134.5,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B034",
+      "start": 134.5,
+      "end": 138.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium two-shot. Catherine holds the smoldering book right before Juliana's face.",
+          "start": 134.5,
+          "end": 138.0,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "This pathetic book is the only thing you still have from your mother.",
+          "start": 134.5,
+          "end": 138.0,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Hateful, Malicious"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B035",
+      "start": 138.0,
+      "end": 140.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme close-up of Juliana, her emotional composure breaking into pure grief and panic.",
+          "start": 138.0,
+          "end": 140.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Tears spill rapidly down Juliana's cheeks as she reaches forward in vain, restrained by her heavy iron chains.",
+          "start": 138.0,
+          "end": 140.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "[gasping] Give it back!",
+          "start": 138.4,
+          "end": 140.4,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Desperate, Weeping"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B036",
+      "start": 140.5,
+      "end": 143.8,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle shot of Catherine grinning with sadistic triumph, looking down at Juliana's despair.",
+          "start": 140.5,
+          "end": 143.8,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "There. Finally. Something still hurts you.",
+          "start": 140.7,
+          "end": 143.8,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Gloating, Sadistic"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B037",
+      "start": 143.8,
+      "end": 145.5,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Close-up of Juliana screaming out in absolute anguish.",
+          "start": 143.8,
+          "end": 145.5,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "No!",
+          "start": 144.0,
+          "end": 145.5,
+          "timestamp_source": "given",
+          "character": "JULIANA",
+          "emotion": "Screaming, Agonized"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B038",
+      "start": 145.5,
+      "end": 151.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Medium close-up of Catherine slowly driving the glowing branding tip into the spine of the open book, watching the embers consume the pages.",
+          "start": 145.5,
+          "end": 151.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "dialogue",
+          "description": "One flame, and your mother's life's work becomes ash.",
+          "start": 145.6,
+          "end": 151.2,
+          "timestamp_source": "given",
+          "character": "CATHERINE",
+          "emotion": "Vicious, Final"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B039",
+      "start": 151.2,
+      "end": 155.2,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Low-angle medium shot. Catherine lowers the charred book and suddenly swings the glowing orange iron tip straight up toward Juliana's face.",
+          "start": 151.2,
+          "end": 155.2,
+          "timestamp_source": "given"
+        },
+        {
+          "type": "action",
+          "description": "Juliana recoils back against the hard dungeon wall, gasping for breath in raw terror as the searing iron stops inches from her eyes.",
+          "start": 151.5,
+          "end": 155.2,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    },
+    {
+      "beat_id": "B040",
+      "start": 155.2,
+      "end": 160.0,
+      "timestamp_source": "given",
+      "events": [
+        {
+          "type": "camera",
+          "description": "Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+          "start": 155.2,
+          "end": 160.0,
+          "timestamp_source": "given"
+        }
+      ],
+      "scene_number": 1,
+      "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS \u2013 NIGHT"
+    }
+  ]
+}

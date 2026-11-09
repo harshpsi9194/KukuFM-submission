@@ -1280,3 +1280,924 @@ Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Bro
 [Stage 0] Screenplay parsed: 32 beats in 0.002s.
 
 [Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 31.922s (2 calls).
+[Stage 2] Capped search generated 12 candidates in 0.002s.
+
+[Stage 3] Merged scoring on 12 candidates in batches of 4 (4 concurrent workers)...
+Divided 12 candidates into 3 batches of ~4 (concurrency: 4)...
+  Batch 1/3 scored (4 candidates).
+  Batch 2/3 scored (4 candidates).
+  Batch 3/3 scored (4 candidates).
+Stage 3 scoring completed in 21.51s. Passed gate: 6/12 (50.0%)
+[Stage 3] Completed in 21.515s (3 calls).
+  [Comprehension Gate] 6/12 passed binary gate (50.0%).
+
+[Stage 4] Pure absolute rubric ranking across 6 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 6 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP030_12 (score: 9.50/10.0)
+[Stage 4] Completed in 16.543s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.305s (0 calls).
+
+====================================================================
+EPISODE 030 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 6 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 70.3s (1.17m)
+Total Tokens: 16,432 in / 5,632 out
+Total Estimated Cost: $0.00292 USD
+  • Stage 0: Parsing: 0 calls | 0.002s | 32 beats parsed, duration: 151.2s
+  • Stage 1: Detection: 2 calls | 31.922s | 32 hook signals, 32 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.002s | Capped candidate count: 12
+  • Stage 3: Merged Scoring: 3 calls | 21.515s | 12 candidates scored in 3 calls
+  • Stage 4: Absolute Ranking: 1 calls | 16.543s | Ranked 6 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.305s | 2 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 031 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-031-Episode 1681364.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 40 beats in 0.002s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 38.227s (2 calls).
+[Stage 2] Capped search generated 23 candidates in 0.002s.
+
+[Stage 3] Merged scoring on 23 candidates in batches of 4 (4 concurrent workers)...
+Divided 23 candidates into 6 batches of ~4 (concurrency: 4)...
+  Batch 3/6 scored (4 candidates).
+  Batch 1/6 scored (4 candidates).
+  Batch 4/6 scored (4 candidates).
+  Batch 2/6 scored (4 candidates).
+  Batch 6/6 scored (3 candidates).
+  Batch 5/6 scored (4 candidates).
+Stage 3 scoring completed in 40.61s. Passed gate: 11/23 (47.8%)
+[Stage 3] Completed in 40.606s (6 calls).
+  [Comprehension Gate] 11/23 passed binary gate (47.8%).
+
+[Stage 4] Pure absolute rubric ranking across 11 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 11 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP031_22 (score: 9.70/10.0)
+[Stage 4] Completed in 23.58s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.367s (0 calls).
+
+====================================================================
+EPISODE 031 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 9 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 102.8s (1.71m)
+Total Tokens: 28,873 in / 8,590 out
+Total Estimated Cost: $0.00474 USD
+  • Stage 0: Parsing: 0 calls | 0.002s | 40 beats parsed, duration: 160.0s
+  • Stage 1: Detection: 2 calls | 38.227s | 40 hook signals, 40 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.002s | Capped candidate count: 23
+  • Stage 3: Merged Scoring: 6 calls | 40.606s | 23 candidates scored in 6 calls
+  • Stage 4: Absolute Ranking: 1 calls | 23.58s | Ranked 11 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.367s | 5 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 032 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-032-Episode 1681365.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 36 beats in 0.002s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 37.659s (2 calls).
+[Stage 2] Capped search generated 18 candidates in 0.002s.
+
+[Stage 3] Merged scoring on 18 candidates in batches of 4 (4 concurrent workers)...
+Divided 18 candidates into 5 batches of ~4 (concurrency: 4)...
+  Batch 4/5 scored (4 candidates).
+  Batch 2/5 scored (4 candidates).
+  Batch 3/5 scored (4 candidates).
+  Batch 1/5 scored (4 candidates).
+  Batch 5/5 scored (2 candidates).
+Stage 3 scoring completed in 33.25s. Passed gate: 9/18 (50.0%)
+[Stage 3] Completed in 33.252s (5 calls).
+  [Comprehension Gate] 9/18 passed binary gate (50.0%).
+
+[Stage 4] Pure absolute rubric ranking across 9 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 9 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP032_17 (score: 9.60/10.0)
+[Stage 4] Completed in 19.972s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.366s (0 calls).
+
+====================================================================
+EPISODE 032 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 8 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 91.2s (1.52m)
+Total Tokens: 25,957 in / 7,391 out
+Total Estimated Cost: $0.00416 USD
+  • Stage 0: Parsing: 0 calls | 0.002s | 36 beats parsed, duration: 154.4s
+  • Stage 1: Detection: 2 calls | 37.659s | 36 hook signals, 36 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.002s | Capped candidate count: 18
+  • Stage 3: Merged Scoring: 5 calls | 33.252s | 18 candidates scored in 5 calls
+  • Stage 4: Absolute Ranking: 1 calls | 19.972s | Ranked 9 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.366s | 5 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 033 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-033-Episode 1681366.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 41 beats in 0.002s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 58.893s (2 calls).
+[Stage 2] Capped search generated 24 candidates in 0.003s.
+
+[Stage 3] Merged scoring on 24 candidates in batches of 4 (4 concurrent workers)...
+Divided 24 candidates into 6 batches of ~4 (concurrency: 4)...
+  Batch 1/6 scored (4 candidates).
+  Batch 2/6 scored (4 candidates).
+  Batch 4/6 scored (4 candidates).
+  Batch 3/6 scored (4 candidates).
+  Batch 5/6 scored (4 candidates).
+  Batch 6/6 scored (4 candidates).
+Stage 3 scoring completed in 36.91s. Passed gate: 12/24 (50.0%)
+[Stage 3] Completed in 36.907s (6 calls).
+  [Comprehension Gate] 12/24 passed binary gate (50.0%).
+
+[Stage 4] Pure absolute rubric ranking across 12 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 12 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP033_22 (score: 9.50/10.0)
+[Stage 4] Completed in 20.451s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.474s (0 calls).
+
+====================================================================
+EPISODE 033 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 9 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 116.7s (1.95m)
+Total Tokens: 29,578 in / 9,489 out
+Total Estimated Cost: $0.00507 USD
+  • Stage 0: Parsing: 0 calls | 0.002s | 41 beats parsed, duration: 174.0s
+  • Stage 1: Detection: 2 calls | 58.893s | 41 hook signals, 41 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.003s | Capped candidate count: 24
+  • Stage 3: Merged Scoring: 6 calls | 36.907s | 24 candidates scored in 6 calls
+  • Stage 4: Absolute Ranking: 1 calls | 20.451s | Ranked 12 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.474s | 4 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 034 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-034-Episode 1681367.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 51 beats in 0.002s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 63.855s (2 calls).
+[Stage 2] Capped search generated 31 candidates in 0.005s.
+
+[Stage 3] Merged scoring on 31 candidates in batches of 4 (4 concurrent workers)...
+Divided 31 candidates into 8 batches of ~4 (concurrency: 4)...
+  Batch 3/8 scored (4 candidates).
+  Batch 2/8 scored (4 candidates).
+  Batch 1/8 scored (4 candidates).
+  Batch 4/8 scored (4 candidates).
+  Batch 8/8 scored (3 candidates).
+  Batch 6/8 scored (4 candidates).
+  Batch 5/8 scored (4 candidates).
+  Batch 7/8 scored (4 candidates).
+Stage 3 scoring completed in 62.45s. Passed gate: 20/31 (64.5%)
+[Stage 3] Completed in 62.456s (8 calls).
+  [Comprehension Gate] 20/31 passed binary gate (64.5%).
+
+[Stage 4] Pure absolute rubric ranking across 20 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 20 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP034_28 (score: 9.70/10.0)
+[Stage 4] Completed in 34.016s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.631s (0 calls).
+
+====================================================================
+EPISODE 034 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 11 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 161.0s (2.68m)
+Total Tokens: 41,429 in / 12,324 out
+Total Estimated Cost: $0.00680 USD
+  • Stage 0: Parsing: 0 calls | 0.002s | 51 beats parsed, duration: 190.0s
+  • Stage 1: Detection: 2 calls | 63.855s | 51 hook signals, 51 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.005s | Capped candidate count: 31
+  • Stage 3: Merged Scoring: 8 calls | 62.456s | 31 candidates scored in 8 calls
+  • Stage 4: Absolute Ranking: 1 calls | 34.016s | Ranked 20 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.631s | 5 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 035 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-035-Episode 1681368.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 41 beats in 0.002s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 61.523s (2 calls).
+[Stage 2] Capped search generated 24 candidates in 0.003s.
+
+[Stage 3] Merged scoring on 24 candidates in batches of 4 (4 concurrent workers)...
+Divided 24 candidates into 6 batches of ~4 (concurrency: 4)...
+  Batch 3/6 scored (4 candidates).
+  Batch 4/6 scored (4 candidates).
+  Batch 1/6 scored (4 candidates).
+  Batch 2/6 scored (4 candidates).
+  Batch 5/6 scored (4 candidates).
+  Batch 6/6 scored (4 candidates).
+Stage 3 scoring completed in 42.61s. Passed gate: 10/24 (41.7%)
+[Stage 3] Completed in 42.614s (6 calls).
+  [Comprehension Gate] 10/24 passed binary gate (41.7%).
+
+[Stage 4] Pure absolute rubric ranking across 10 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 10 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP035_07 (score: 9.50/10.0)
+[Stage 4] Completed in 20.661s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.265s (0 calls).
+
+====================================================================
+EPISODE 035 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 9 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 125.1s (2.08m)
+Total Tokens: 27,003 in / 9,033 out
+Total Estimated Cost: $0.00474 USD
+  • Stage 0: Parsing: 0 calls | 0.002s | 41 beats parsed, duration: 157.5s
+  • Stage 1: Detection: 2 calls | 61.523s | 41 hook signals, 41 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.003s | Capped candidate count: 24
+  • Stage 3: Merged Scoring: 6 calls | 42.614s | 24 candidates scored in 6 calls
+  • Stage 4: Absolute Ranking: 1 calls | 20.661s | Ranked 10 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.265s | 5 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 036 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-036-Episode 1681369.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 55 beats in 0.002s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 63.798s (2 calls).
+[Stage 2] Capped search generated 38 candidates in 0.004s.
+
+[Stage 3] Merged scoring on 38 candidates in batches of 4 (4 concurrent workers)...
+Divided 38 candidates into 10 batches of ~4 (concurrency: 4)...
+  Batch 4/10 scored (4 candidates).
+  Batch 3/10 scored (4 candidates).
+  Batch 1/10 scored (4 candidates).
+  Batch 2/10 scored (4 candidates).
+  Batch 5/10 scored (4 candidates).
+  Batch 6/10 scored (4 candidates).
+  Batch 8/10 scored (4 candidates).
+  Batch 7/10 scored (4 candidates).
+  Batch 10/10 scored (2 candidates).
+  Batch 9/10 scored (4 candidates).
+Stage 3 scoring completed in 72.57s. Passed gate: 13/38 (34.2%)
+[Stage 3] Completed in 72.581s (10 calls).
+  [Comprehension Gate] 13/38 passed binary gate (34.2%).
+
+[Stage 4] Pure absolute rubric ranking across 13 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 13 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP036_28 (score: 9.50/10.0)
+[Stage 4] Completed in 23.778s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.431s (0 calls).
+
+====================================================================
+EPISODE 036 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 13 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 160.6s (2.68m)
+Total Tokens: 41,733 in / 12,926 out
+Total Estimated Cost: $0.00701 USD
+  • Stage 0: Parsing: 0 calls | 0.002s | 55 beats parsed, duration: 200.8s
+  • Stage 1: Detection: 2 calls | 63.798s | 55 hook signals, 55 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.004s | Capped candidate count: 38
+  • Stage 3: Merged Scoring: 10 calls | 72.581s | 38 candidates scored in 10 calls
+  • Stage 4: Absolute Ranking: 1 calls | 23.778s | Ranked 13 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.431s | 5 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 037 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-037-Episode 1681370.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 37 beats in 0.002s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 39.413s (2 calls).
+[Stage 2] Capped search generated 9 candidates in 0.002s.
+
+[Stage 3] Merged scoring on 9 candidates in batches of 4 (4 concurrent workers)...
+Divided 9 candidates into 3 batches of ~4 (concurrency: 4)...
+  Batch 3/3 scored (1 candidates).
+  Batch 2/3 scored (4 candidates).
+  Batch 1/3 scored (4 candidates).
+Stage 3 scoring completed in 22.16s. Passed gate: 4/9 (44.4%)
+[Stage 3] Completed in 22.159s (3 calls).
+  [Comprehension Gate] 4/9 passed binary gate (44.4%).
+
+[Stage 4] Pure absolute rubric ranking across 4 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 4 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP037_06 (score: 8.90/10.0)
+[Stage 4] Completed in 15.986s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.216s (0 calls).
+
+====================================================================
+EPISODE 037 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 6 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 77.8s (1.30m)
+Total Tokens: 14,907 in / 5,635 out
+Total Estimated Cost: $0.00281 USD
+  • Stage 0: Parsing: 0 calls | 0.002s | 37 beats parsed, duration: 156.5s
+  • Stage 1: Detection: 2 calls | 39.413s | 37 hook signals, 37 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.002s | Capped candidate count: 9
+  • Stage 3: Merged Scoring: 3 calls | 22.159s | 9 candidates scored in 3 calls
+  • Stage 4: Absolute Ranking: 1 calls | 15.986s | Ranked 4 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.216s | 3 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 038 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-038-Episode 1681371.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 11 beats in 0.001s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 19.572s (2 calls).
+  [Floor-Relaxation Triggered] Strict floor yielded 4 pairs; relaxing floor by 1 point...
+[Stage 2] Capped search generated 10 candidates in 0.001s.
+
+[Stage 3] Merged scoring on 10 candidates in batches of 4 (4 concurrent workers)...
+Divided 10 candidates into 3 batches of ~4 (concurrency: 4)...
+  Batch 3/3 scored (2 candidates).
+  Batch 2/3 scored (4 candidates).
+  Batch 1/3 scored (4 candidates).
+Stage 3 scoring completed in 20.45s. Passed gate: 4/10 (40.0%)
+[Stage 3] Completed in 20.452s (3 calls).
+  [Comprehension Gate] 4/10 passed binary gate (40.0%).
+
+[Stage 4] Pure absolute rubric ranking across 4 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 4 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP038_05 (score: 9.00/10.0)
+[Stage 4] Completed in 16.658s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.247s (0 calls).
+
+====================================================================
+EPISODE 038 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 6 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 56.9s (0.95m)
+Total Tokens: 15,433 in / 3,555 out
+Total Estimated Cost: $0.00222 USD
+  • Stage 0: Parsing: 0 calls | 0.001s | 11 beats parsed, duration: 87.9s
+  • Stage 1: Detection: 2 calls | 19.572s | 11 hook signals, 11 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.001s | Capped candidate count: 10
+  • Stage 3: Merged Scoring: 3 calls | 20.452s | 10 candidates scored in 3 calls
+  • Stage 4: Absolute Ranking: 1 calls | 16.658s | Ranked 4 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.247s | 3 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 039 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-039-Episode 1686799.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 25 beats in 0.001s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 31.748s (2 calls).
+  [Floor-Relaxation Triggered] Strict floor yielded 3 pairs; relaxing floor by 1 point...
+[Stage 2] Capped search generated 5 candidates in 0.001s.
+
+[Stage 3] Merged scoring on 5 candidates in batches of 4 (4 concurrent workers)...
+Divided 5 candidates into 2 batches of ~4 (concurrency: 4)...
+  Batch 2/2 scored (1 candidates).
+  Batch 1/2 scored (4 candidates).
+Stage 3 scoring completed in 18.09s. Passed gate: 4/5 (80.0%)
+[Stage 3] Completed in 18.095s (2 calls).
+  [Comprehension Gate] 4/5 passed binary gate (80.0%).
+
+[Stage 4] Pure absolute rubric ranking across 4 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 4 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP039_05 (score: 9.20/10.0)
+[Stage 4] Completed in 14.637s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.302s (0 calls).
+
+====================================================================
+EPISODE 039 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 5 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 64.8s (1.08m)
+Total Tokens: 11,427 in / 3,681 out
+Total Estimated Cost: $0.00196 USD
+  • Stage 0: Parsing: 0 calls | 0.001s | 25 beats parsed, duration: 98.4s
+  • Stage 1: Detection: 2 calls | 31.748s | 25 hook signals, 25 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.001s | Capped candidate count: 5
+  • Stage 3: Merged Scoring: 2 calls | 18.095s | 5 candidates scored in 2 calls
+  • Stage 4: Absolute Ranking: 1 calls | 14.637s | Ranked 4 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.302s | 3 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 040 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-040-Episode 1686800.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 25 beats in 0.001s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 30.994s (2 calls).
+  [Floor-Relaxation Triggered] Strict floor yielded 2 pairs; relaxing floor by 1 point...
+[Stage 2] Capped search generated 4 candidates in 0.001s.
+
+[Stage 3] Merged scoring on 4 candidates in batches of 4 (4 concurrent workers)...
+Divided 4 candidates into 1 batches of ~4 (concurrency: 4)...
+  Batch 1/1 scored (4 candidates).
+Stage 3 scoring completed in 22.75s. Passed gate: 3/4 (75.0%)
+[Stage 3] Completed in 22.749s (1 calls).
+  [Comprehension Gate] 3/4 passed binary gate (75.0%).
+
+[Stage 4] Pure absolute rubric ranking across 3 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 3 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP040_03 (score: 6.60/10.0)
+[Stage 4] Completed in 16.659s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.26s (0 calls).
+
+====================================================================
+EPISODE 040 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 4 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 70.7s (1.18m)
+Total Tokens: 9,496 in / 3,378 out
+Total Estimated Cost: $0.00173 USD
+  • Stage 0: Parsing: 0 calls | 0.001s | 25 beats parsed, duration: 110.1s
+  • Stage 1: Detection: 2 calls | 30.994s | 25 hook signals, 25 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.001s | Capped candidate count: 4
+  • Stage 3: Merged Scoring: 1 calls | 22.749s | 4 candidates scored in 1 calls
+  • Stage 4: Absolute Ranking: 1 calls | 16.659s | Ranked 3 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.26s | 3 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 041 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-041-Episode 1686801.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 25 beats in 0.001s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 32.484s (2 calls).
+[Stage 2] Capped search generated 12 candidates in 0.003s.
+
+[Stage 3] Merged scoring on 12 candidates in batches of 4 (4 concurrent workers)...
+Divided 12 candidates into 3 batches of ~4 (concurrency: 4)...
+  Batch 2/3 scored (4 candidates).
+  Batch 3/3 scored (4 candidates).
+  Batch 1/3 scored (4 candidates).
+Stage 3 scoring completed in 20.70s. Passed gate: 7/12 (58.3%)
+[Stage 3] Completed in 20.705s (3 calls).
+  [Comprehension Gate] 7/12 passed binary gate (58.3%).
+
+[Stage 4] Pure absolute rubric ranking across 7 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 7 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP041_04 (score: 9.40/10.0)
+[Stage 4] Completed in 19.532s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.289s (0 calls).
+
+====================================================================
+EPISODE 041 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 6 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 73.0s (1.22m)
+Total Tokens: 18,647 in / 5,117 out
+Total Estimated Cost: $0.00293 USD
+  • Stage 0: Parsing: 0 calls | 0.001s | 25 beats parsed, duration: 96.1s
+  • Stage 1: Detection: 2 calls | 32.484s | 25 hook signals, 25 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.003s | Capped candidate count: 12
+  • Stage 3: Merged Scoring: 3 calls | 20.705s | 12 candidates scored in 3 calls
+  • Stage 4: Absolute Ranking: 1 calls | 19.532s | Ranked 7 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.289s | 2 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 042 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-042-Episode 1686802.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 20 beats in 0.001s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 29.187s (2 calls).
+[Stage 2] Capped search generated 14 candidates in 0.002s.
+
+[Stage 3] Merged scoring on 14 candidates in batches of 4 (4 concurrent workers)...
+Divided 14 candidates into 4 batches of ~4 (concurrency: 4)...
+  Batch 4/4 scored (2 candidates).
+  Batch 1/4 scored (4 candidates).
+  Batch 3/4 scored (4 candidates).
+  Batch 2/4 scored (4 candidates).
+Stage 3 scoring completed in 21.06s. Passed gate: 9/14 (64.3%)
+[Stage 3] Completed in 21.065s (4 calls).
+  [Comprehension Gate] 9/14 passed binary gate (64.3%).
+
+[Stage 4] Pure absolute rubric ranking across 9 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 9 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP042_13 (score: 9.80/10.0)
+[Stage 4] Completed in 20.686s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.329s (0 calls).
+
+====================================================================
+EPISODE 042 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 7 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 71.3s (1.19m)
+Total Tokens: 18,576 in / 5,262 out
+Total Estimated Cost: $0.00297 USD
+  • Stage 0: Parsing: 0 calls | 0.001s | 20 beats parsed, duration: 77.8s
+  • Stage 1: Detection: 2 calls | 29.187s | 20 hook signals, 20 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.002s | Capped candidate count: 14
+  • Stage 3: Merged Scoring: 4 calls | 21.065s | 14 candidates scored in 4 calls
+  • Stage 4: Absolute Ranking: 1 calls | 20.686s | Ranked 9 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.329s | 5 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 043 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-043-Episode 1686803.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 37 beats in 0.002s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 40.132s (2 calls).
+[Stage 2] Capped search generated 30 candidates in 0.005s.
+
+[Stage 3] Merged scoring on 30 candidates in batches of 4 (4 concurrent workers)...
+Divided 30 candidates into 8 batches of ~4 (concurrency: 4)...
+  Batch 4/8 scored (4 candidates).
+  Batch 3/8 scored (4 candidates).
+  Batch 2/8 scored (4 candidates).
+  Batch 1/8 scored (4 candidates).
+  Batch 5/8 scored (4 candidates).
+  Batch 6/8 scored (4 candidates).
+  Batch 7/8 scored (4 candidates).
+  Batch 8/8 scored (2 candidates).
+Stage 3 scoring completed in 40.81s. Passed gate: 18/30 (60.0%)
+[Stage 3] Completed in 40.811s (8 calls).
+  [Comprehension Gate] 18/30 passed binary gate (60.0%).
+
+[Stage 4] Pure absolute rubric ranking across 18 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 18 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP043_25 (score: 9.70/10.0)
+[Stage 4] Completed in 28.587s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.603s (0 calls).
+
+====================================================================
+EPISODE 043 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 11 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 110.1s (1.84m)
+Total Tokens: 38,108 in / 10,299 out
+Total Estimated Cost: $0.00595 USD
+  • Stage 0: Parsing: 0 calls | 0.002s | 37 beats parsed, duration: 115.0s
+  • Stage 1: Detection: 2 calls | 40.132s | 37 hook signals, 37 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.005s | Capped candidate count: 30
+  • Stage 3: Merged Scoring: 8 calls | 40.811s | 30 candidates scored in 8 calls
+  • Stage 4: Absolute Ranking: 1 calls | 28.587s | Ranked 18 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.603s | 5 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 044 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-044-Episode 1686804.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 25 beats in 0.001s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 32.616s (2 calls).
+[Stage 2] Capped search generated 14 candidates in 0.002s.
+
+[Stage 3] Merged scoring on 14 candidates in batches of 4 (4 concurrent workers)...
+Divided 14 candidates into 4 batches of ~4 (concurrency: 4)...
+  Batch 1/4 scored (4 candidates).
+  Batch 4/4 scored (2 candidates).
+  Batch 2/4 scored (4 candidates).
+  Batch 3/4 scored (4 candidates).
+Stage 3 scoring completed in 20.45s. Passed gate: 11/14 (78.6%)
+[Stage 3] Completed in 20.451s (4 calls).
+  [Comprehension Gate] 11/14 passed binary gate (78.6%).
+
+[Stage 4] Pure absolute rubric ranking across 11 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 11 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP044_14 (score: 9.50/10.0)
+[Stage 4] Completed in 24.154s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.371s (0 calls).
+
+====================================================================
+EPISODE 044 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 7 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 77.6s (1.29m)
+Total Tokens: 21,587 in / 6,071 out
+Total Estimated Cost: $0.00344 USD
+  • Stage 0: Parsing: 0 calls | 0.001s | 25 beats parsed, duration: 70.5s
+  • Stage 1: Detection: 2 calls | 32.616s | 25 hook signals, 25 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.002s | Capped candidate count: 14
+  • Stage 3: Merged Scoring: 4 calls | 20.451s | 14 candidates scored in 4 calls
+  • Stage 4: Absolute Ranking: 1 calls | 24.154s | Ranked 11 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.371s | 4 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 045 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-045-Episode 1686805.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 25 beats in 0.002s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 34.754s (2 calls).
+[Stage 2] Capped search generated 11 candidates in 0.001s.
+
+[Stage 3] Merged scoring on 11 candidates in batches of 4 (4 concurrent workers)...
+Divided 11 candidates into 3 batches of ~4 (concurrency: 4)...
+  Batch 2/3 scored (4 candidates).
+  Batch 3/3 scored (3 candidates).
+  Batch 1/3 scored (4 candidates).
+Stage 3 scoring completed in 19.61s. Passed gate: 8/11 (72.7%)
+[Stage 3] Completed in 19.615s (3 calls).
+  [Comprehension Gate] 8/11 passed binary gate (72.7%).
+
+[Stage 4] Pure absolute rubric ranking across 8 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 8 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP045_10 (score: 9.60/10.0)
+[Stage 4] Completed in 18.981s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.42s (0 calls).
+
+====================================================================
+EPISODE 045 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 6 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 73.8s (1.23m)
+Total Tokens: 16,835 in / 5,364 out
+Total Estimated Cost: $0.00287 USD
+  • Stage 0: Parsing: 0 calls | 0.002s | 25 beats parsed, duration: 121.8s
+  • Stage 1: Detection: 2 calls | 34.754s | 25 hook signals, 25 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.001s | Capped candidate count: 11
+  • Stage 3: Merged Scoring: 3 calls | 19.615s | 11 candidates scored in 3 calls
+  • Stage 4: Absolute Ranking: 1 calls | 18.981s | Ranked 8 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.42s | 3 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 046 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-046-Episode 1688395.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 33 beats in 0.004s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 35.43s (2 calls).
+[Stage 2] Capped search generated 21 candidates in 0.004s.
+
+[Stage 3] Merged scoring on 21 candidates in batches of 4 (4 concurrent workers)...
+Divided 21 candidates into 6 batches of ~4 (concurrency: 4)...
+  Batch 3/6 scored (4 candidates).
+  Batch 1/6 scored (4 candidates).
+  Batch 2/6 scored (4 candidates).
+  Batch 4/6 scored (4 candidates).
+  Batch 6/6 scored (1 candidates).
+  Batch 5/6 scored (4 candidates).
+Stage 3 scoring completed in 38.01s. Passed gate: 11/21 (52.4%)
+[Stage 3] Completed in 38.008s (6 calls).
+  [Comprehension Gate] 11/21 passed binary gate (52.4%).
+
+[Stage 4] Pure absolute rubric ranking across 11 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 11 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP046_06 (score: 9.50/10.0)
+[Stage 4] Completed in 20.869s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.456s (0 calls).
+
+====================================================================
+EPISODE 046 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 9 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 94.8s (1.58m)
+Total Tokens: 27,754 in / 7,729 out
+Total Estimated Cost: $0.00440 USD
+  • Stage 0: Parsing: 0 calls | 0.004s | 33 beats parsed, duration: 143.9s
+  • Stage 1: Detection: 2 calls | 35.43s | 33 hook signals, 33 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.004s | Capped candidate count: 21
+  • Stage 3: Merged Scoring: 6 calls | 38.008s | 21 candidates scored in 6 calls
+  • Stage 4: Absolute Ranking: 1 calls | 20.869s | Ranked 11 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.456s | 5 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 047 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-047-Episode 1688396.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 34 beats in 0.003s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 36.817s (2 calls).
+[Stage 2] Capped search generated 11 candidates in 0.001s.
+
+[Stage 3] Merged scoring on 11 candidates in batches of 4 (4 concurrent workers)...
+Divided 11 candidates into 3 batches of ~4 (concurrency: 4)...
+  Batch 2/3 scored (4 candidates).
+  Batch 3/3 scored (3 candidates).
+  Batch 1/3 scored (4 candidates).
+Stage 3 scoring completed in 21.21s. Passed gate: 4/11 (36.4%)
+[Stage 3] Completed in 21.214s (3 calls).
+  [Comprehension Gate] 4/11 passed binary gate (36.4%).
+
+[Stage 4] Pure absolute rubric ranking across 4 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 4 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP047_11 (score: 9.20/10.0)
+[Stage 4] Completed in 18.452s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.225s (0 calls).
+
+====================================================================
+EPISODE 047 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 6 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 76.7s (1.28m)
+Total Tokens: 15,418 in / 5,824 out
+Total Estimated Cost: $0.00290 USD
+  • Stage 0: Parsing: 0 calls | 0.003s | 34 beats parsed, duration: 134.0s
+  • Stage 1: Detection: 2 calls | 36.817s | 34 hook signals, 34 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.001s | Capped candidate count: 11
+  • Stage 3: Merged Scoring: 3 calls | 21.214s | 11 candidates scored in 3 calls
+  • Stage 4: Absolute Ranking: 1 calls | 18.452s | Ranked 4 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.225s | 3 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 048 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-048-Episode 1688397.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 15 beats in 0.019s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 25.891s (2 calls).
+[Stage 2] Capped search generated 5 candidates in 0.001s.
+
+[Stage 3] Merged scoring on 5 candidates in batches of 4 (4 concurrent workers)...
+Divided 5 candidates into 2 batches of ~4 (concurrency: 4)...
+  Batch 2/2 scored (1 candidates).
+  Batch 1/2 scored (4 candidates).
+Stage 3 scoring completed in 23.17s. Passed gate: 3/5 (60.0%)
+[Stage 3] Completed in 23.168s (2 calls).
+  [Comprehension Gate] 3/5 passed binary gate (60.0%).
+
+[Stage 4] Pure absolute rubric ranking across 3 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 3 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP048_04 (score: 8.80/10.0)
+[Stage 4] Completed in 17.358s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.249s (0 calls).
+
+====================================================================
+EPISODE 048 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 5 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 66.7s (1.11m)
+Total Tokens: 10,600 in / 2,794 out
+Total Estimated Cost: $0.00163 USD
+  • Stage 0: Parsing: 0 calls | 0.019s | 15 beats parsed, duration: 80.0s
+  • Stage 1: Detection: 2 calls | 25.891s | 15 hook signals, 15 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.001s | Capped candidate count: 5
+  • Stage 3: Merged Scoring: 2 calls | 23.168s | 5 candidates scored in 2 calls
+  • Stage 4: Absolute Ranking: 1 calls | 17.358s | Ranked 3 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.249s | 1 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 049 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-049-Episode 1688398.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 31 beats in 0.02s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 39.155s (2 calls).
+[Stage 2] Capped search generated 9 candidates in 0.001s.
+
+[Stage 3] Merged scoring on 9 candidates in batches of 4 (4 concurrent workers)...
+Divided 9 candidates into 3 batches of ~4 (concurrency: 4)...
+  Batch 3/3 scored (1 candidates).
+  Batch 1/3 scored (4 candidates).
+  Batch 2/3 scored (4 candidates).
+Stage 3 scoring completed in 22.93s. Passed gate: 5/9 (55.6%)
+[Stage 3] Completed in 22.932s (3 calls).
+  [Comprehension Gate] 5/9 passed binary gate (55.6%).
+
+[Stage 4] Pure absolute rubric ranking across 5 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 5 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP049_09 (score: 9.10/10.0)
+[Stage 4] Completed in 19.66s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.235s (0 calls).
+
+====================================================================
+EPISODE 049 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 6 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 82.0s (1.37m)
+Total Tokens: 15,695 in / 5,289 out
+Total Estimated Cost: $0.00276 USD
+  • Stage 0: Parsing: 0 calls | 0.02s | 31 beats parsed, duration: 144.8s
+  • Stage 1: Detection: 2 calls | 39.155s | 31 hook signals, 31 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.001s | Capped candidate count: 9
+  • Stage 3: Merged Scoring: 3 calls | 22.932s | 9 candidates scored in 3 calls
+  • Stage 4: Absolute Ranking: 1 calls | 19.66s | Ranked 5 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.235s | 4 promos selected via pure Python MMR
+====================================================================
+====================================================================
+PROMO FINDER PIPELINE — EPISODE 050 
+Source Script: I Married a Broken Soldier. He was a Duke-scripts/I Married a Broken Soldier. He was a Duke/episode-050-Episode 1697563.txt
+====================================================================
+
+[Stage 0] Screenplay parsed: 16 beats in 0.003s.
+
+[Stage 1] Running batched hook and cliffhanger detection (2 concurrent calls)...
+[Stage 1] Completed in 26.795s (2 calls).
+  [Floor-Relaxation Triggered] Strict floor yielded 2 pairs; relaxing floor by 1 point...
+[Stage 2] Capped search generated 10 candidates in 0.002s.
+
+[Stage 3] Merged scoring on 10 candidates in batches of 4 (4 concurrent workers)...
+Divided 10 candidates into 3 batches of ~4 (concurrency: 4)...
+  Batch 3/3 scored (2 candidates).
+  Batch 2/3 scored (4 candidates).
+  Batch 1/3 scored (4 candidates).
+Stage 3 scoring completed in 22.93s. Passed gate: 7/10 (70.0%)
+[Stage 3] Completed in 22.93s (3 calls).
+  [Comprehension Gate] 7/10 passed binary gate (70.0%).
+
+[Stage 4] Pure absolute rubric ranking across 7 gate survivors (1 call)...
+Executing Stage 4 absolute rubric ranking for 7 candidates in 1 call...
+Stage 4 absolute ranking complete! Leader: CAND_EP050_03 (score: 9.50/10.0)
+[Stage 4] Completed in 20.592s (1 call).
+
+[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...
+[Stage 5] Completed in 0.245s (0 calls).
+
+====================================================================
+EPISODE 050 TIMING & COST SUMMARY
+====================================================================
+Total LLM Calls: 6 (Rebuild Target: <15-20 calls)
+Total Wall-Clock Time: 70.6s (1.18m)
+Total Tokens: 15,509 in / 3,926 out
+Total Estimated Cost: $0.00234 USD
+  • Stage 0: Parsing: 0 calls | 0.003s | 16 beats parsed, duration: 80.0s
+  • Stage 1: Detection: 2 calls | 26.795s | 16 hook signals, 16 cliffhanger signals
+  • Stage 2: Window Search: 0 calls | 0.002s | Capped candidate count: 10
+  • Stage 3: Merged Scoring: 3 calls | 22.93s | 10 candidates scored in 3 calls
+  • Stage 4: Absolute Ranking: 1 calls | 20.592s | Ranked 7 candidates in 1 call (pure absolute rubric)
+  • Stage 5: Portfolio Selection: 0 calls | 0.245s | 2 promos selected via pure Python MMR
+====================================================================
+
+Batch processing completed for 50 episodes.
+
+====================================================================
+FULL BATCH EXECUTION SUMMARY
+====================================================================
+Total Episodes Processed: 50
+Total Wall-Clock Time: 4491.8s (74.86m / 1.25h)
+Average Time Per Episode: 89.8s (1.50m)
+Total LLM Calls: 375 (Avg 7.5/ep)
+Total Tokens: 1,150,131 in / 339,230 out
+Total Estimated Cost: $0.18803 USD
+Under 1 Hour Target Met: False
+====================================================================

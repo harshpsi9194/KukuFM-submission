@@ -1,0 +1,672 @@
+{
+  "episode_number": 47,
+  "total_candidates": 11,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP047_01",
+      "episode": "Episode 47",
+      "episode_number": 47,
+      "start_beat_id": "B012",
+      "end_beat_id": "B017",
+      "start_time": 56.8,
+      "end_time": 78.8,
+      "duration": 22.0,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Hostile, sharp confrontation opens immediately with 'You dare show your face in Ashbourne courtyard?'.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama legible on mute: an aristocratic matriarch with a cane glaring down at a woman kneeling in the mud.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine be forcibly exiled past the perimeter as Alexander enforces her banishment?",
+        "stakes_importance": "High \u2014 lord of the manor arrives to personally authorize her immediate physical ejection.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 47,
+          "start_beat_id": "B012",
+          "end_beat_id": "B017",
+          "start_time": 56.8,
+          "end_time": 78.8,
+          "duration": 22.0,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP047_02",
+      "episode": "Episode 47",
+      "episode_number": 47,
+      "start_beat_id": "B012",
+      "end_beat_id": "B019",
+      "start_time": 56.8,
+      "end_time": 83.5,
+      "duration": 26.7,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Hostile, sharp confrontation opens immediately with 'You dare show your face in Ashbourne courtyard?'.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama legible on mute: an aristocratic matriarch with a cane glaring down at a woman kneeling in the mud.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why is Juliana intervening to protect the woman who tried to destroy her?",
+        "stakes_importance": "High \u2014 shocking subversion where the victim unexpectedly halts the punishment of her tormentor.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 47,
+          "start_beat_id": "B012",
+          "end_beat_id": "B019",
+          "start_time": 56.8,
+          "end_time": 83.5,
+          "duration": 26.7,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP047_03",
+      "episode": "Episode 47",
+      "episode_number": 47,
+      "start_beat_id": "B013",
+      "end_beat_id": "B019",
+      "start_time": 60.0,
+      "end_time": 83.5,
+      "duration": 23.5,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Desperate plea of desperation ('I have nowhere to go, Your Grace') without surprising punch.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-angle shot of a woman in disheveled silk weeping profusely on muddy cobblestones creates instant curiosity on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why is Juliana intervening to protect the woman who tried to destroy her?",
+        "stakes_importance": "High \u2014 shocking subversion where the victim unexpectedly halts the punishment of her tormentor.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 47,
+          "start_beat_id": "B013",
+          "end_beat_id": "B019",
+          "start_time": 60.0,
+          "end_time": 83.5,
+          "duration": 23.5,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP047_04",
+      "episode": "Episode 47",
+      "episode_number": 47,
+      "start_beat_id": "B020",
+      "end_beat_id": "B026",
+      "start_time": 83.5,
+      "end_time": 104.8,
+      "duration": 21.3,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp emotional accusation exposing past treachery: 'Juliana, she tried to destroy you!'.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close/medium shot capturing open shock and utter disbelief between the leads.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine swallow her pride and accept menial servitude, or walk out into the cold?",
+        "stakes_importance": "High \u2014 public humiliation confronting an arrogant noble with bottom-tier servitude.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 47,
+          "start_beat_id": "B020",
+          "end_beat_id": "B026",
+          "start_time": 83.5,
+          "end_time": 104.8,
+          "duration": 21.3,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP047_05",
+      "episode": "Episode 47",
+      "episode_number": 47,
+      "start_beat_id": "B020",
+      "end_beat_id": "B027",
+      "start_time": 83.5,
+      "end_time": 108.5,
+      "duration": 25.0,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp emotional accusation exposing past treachery: 'Juliana, she tried to destroy you!'.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close/medium shot capturing open shock and utter disbelief between the leads.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine break under Juliana's merciless confrontation and accept the role of impostor-turned-scrubber?",
+        "stakes_importance": "High \u2014 dominant psychological assertion as Juliana strips Catherine's noble facade.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 47,
+          "start_beat_id": "B020",
+          "end_beat_id": "B027",
+          "start_time": 83.5,
+          "end_time": 108.5,
+          "duration": 25.0,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP047_06",
+      "episode": "Episode 47",
+      "episode_number": 47,
+      "start_beat_id": "B020",
+      "end_beat_id": "B030",
+      "start_time": 83.5,
+      "end_time": 118.5,
+      "duration": 35.0,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp emotional accusation exposing past treachery: 'Juliana, she tried to destroy you!'.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close/medium shot capturing open shock and utter disbelief between the leads.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B030",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine accept Juliana's zero-tolerance ultimatum under threat of immediate expulsion?",
+        "stakes_importance": "High \u2014 final conditions of the deal delivered with absolute ruthlessness.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 47,
+          "start_beat_id": "B020",
+          "end_beat_id": "B030",
+          "start_time": 83.5,
+          "end_time": 118.5,
+          "duration": 35.0,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP047_07",
+      "episode": "Episode 47",
+      "episode_number": 47,
+      "start_beat_id": "B020",
+      "end_beat_id": "B032",
+      "start_time": 83.5,
+      "end_time": 127.5,
+      "duration": 44.0,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp emotional accusation exposing past treachery: 'Juliana, she tried to destroy you!'.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close/medium shot capturing open shock and utter disbelief between the leads.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Catherine choose total public submission or exile into starvation?",
+        "stakes_importance": "High \u2014 the ultimate binary ultimatum: take the servant's apron or be cast out into ruin.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 47,
+          "start_beat_id": "B020",
+          "end_beat_id": "B032",
+          "start_time": 83.5,
+          "end_time": 127.5,
+          "duration": 44.0,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP047_08",
+      "episode": "Episode 47",
+      "episode_number": 47,
+      "start_beat_id": "B023",
+      "end_beat_id": "B032",
+      "start_time": 91.0,
+      "end_time": 127.5,
+      "duration": 36.5,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Sets an unexpected conditional ultimatum: 'If you seek shelter in this house, Catherine, you earn it.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Grabbing a rough servant's apron and heavy iron keys presents high-contrast visual props representing servitude.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Catherine choose total public submission or exile into starvation?",
+        "stakes_importance": "High \u2014 the ultimate binary ultimatum: take the servant's apron or be cast out into ruin.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 47,
+          "start_beat_id": "B023",
+          "end_beat_id": "B032",
+          "start_time": 91.0,
+          "end_time": 127.5,
+          "duration": 36.5,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP047_09",
+      "episode": "Episode 47",
+      "episode_number": 47,
+      "start_beat_id": "B025",
+      "end_beat_id": "B031",
+      "start_time": 98.8,
+      "end_time": 121.8,
+      "duration": 23.0,
+      "hook_signal": {
+        "beat_id": "B025",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Devastating one-line status demotion that completely upends power dynamics: 'As a scullery maid.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Intense, unblinking close-up staring down her rival with ruthless authority tells the whole story without audio.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine lash out in fury or submit to the crushing humiliation?",
+        "stakes_importance": "High \u2014 emotional peak of Catherine breaking down in front of the entire household.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 47,
+          "start_beat_id": "B025",
+          "end_beat_id": "B031",
+          "start_time": 98.8,
+          "end_time": 121.8,
+          "duration": 23.0,
+          "beat_ids": [
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP047_10",
+      "episode": "Episode 47",
+      "episode_number": 47,
+      "start_beat_id": "B025",
+      "end_beat_id": "B032",
+      "start_time": 98.8,
+      "end_time": 127.5,
+      "duration": 28.7,
+      "hook_signal": {
+        "beat_id": "B025",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Devastating one-line status demotion that completely upends power dynamics: 'As a scullery maid.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Intense, unblinking close-up staring down her rival with ruthless authority tells the whole story without audio.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Catherine choose total public submission or exile into starvation?",
+        "stakes_importance": "High \u2014 the ultimate binary ultimatum: take the servant's apron or be cast out into ruin.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 47,
+          "start_beat_id": "B025",
+          "end_beat_id": "B032",
+          "start_time": 98.8,
+          "end_time": 127.5,
+          "duration": 28.7,
+          "beat_ids": [
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP047_11",
+      "episode": "Episode 47",
+      "episode_number": 47,
+      "start_beat_id": "B027",
+      "end_beat_id": "B032",
+      "start_time": 104.8,
+      "end_time": 127.5,
+      "duration": 22.7,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Brutal, poetic retaliation: 'You will scrub the floors you walked on as an impostor.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Intense profile face-off inches apart, visually dominating and towering over her former tormentor.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Catherine choose total public submission or exile into starvation?",
+        "stakes_importance": "High \u2014 the ultimate binary ultimatum: take the servant's apron or be cast out into ruin.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 47,
+          "start_beat_id": "B027",
+          "end_beat_id": "B032",
+          "start_time": 104.8,
+          "end_time": 127.5,
+          "duration": 22.7,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "episode_number": 50,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP050_03",
+      "absolute_rubric_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B006",
+        "start_time": 0.0,
+        "end_time": 35.8,
+        "duration": 35.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "A man in your collar isn't supposed to have that much left in him, Thomas.",
+        "opening_character": "CATHERINE",
+        "rationale": "Explicitly exposes a scandalous, sacrilegious intimacy with the sharp confession: 'A man in my collar isn't supposed to be in this bed at all.'"
+      },
+      "cliffhanger": {
+        "final_quote": "Absolution is free. Discretion has a price.",
+        "final_character": "FATHER THOMAS",
+        "specific_question": "Will Catherine accept Father Thomas's cold blackmail terms to guarantee his silence?"
+      },
+      "situational_summary": "After sharing a bed with a priest, a woman balks at his massive financial demands, only for him to coldly assert that discretion costs a fortune.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP050_09",
+      "absolute_rubric_score": 6.0,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.2,
+        "resonance_score": 1.6
+      },
+      "mmr_score": -0.2659,
+      "max_similarity_to_selected": 0.7654,
+      "boundary": {
+        "start_beat_id": "B004",
+        "end_beat_id": "B009",
+        "start_time": 18.8,
+        "end_time": 48.5,
+        "duration": 29.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "The west territory. Tax collection, all of it. Routed through my office.",
+        "opening_character": "FATHER THOMAS",
+        "rationale": "High-stakes extortion revealing corruption as the priest demands 'The west territory. Tax collection, all of it.'"
+      },
+      "cliffhanger": {
+        "final_quote": "Done. You told yourself this ends when the hearing does.",
+        "final_character": "CATHERINE",
+        "specific_question": "Can Father Thomas truly walk away from Catherine once the hearing is over?"
+      },
+      "situational_summary": "In an intimate bedchamber setting, a bare-chested priest extorts territory tax revenues from a woman in exchange for his discretion, culminating in a mutual, corrupt pact.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP050_01",
+      "rank": 2,
+      "recommended_boundary": "B001 -> B004",
+      "similarity": 0.9791,
+      "duplicate_of": "CAND_EP050_03",
+      "reason": "Exceeded near-duplicate threshold (0.9791 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP050_02",
+      "rank": 3,
+      "recommended_boundary": "B001 -> B005",
+      "similarity": 0.9656,
+      "duplicate_of": "CAND_EP050_03",
+      "reason": "Exceeded near-duplicate threshold (0.9656 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP050_04",
+      "rank": 4,
+      "recommended_boundary": "B001 -> B007",
+      "similarity": 0.9737,
+      "duplicate_of": "CAND_EP050_03",
+      "reason": "Exceeded near-duplicate threshold (0.9737 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP050_05",
+      "rank": 5,
+      "recommended_boundary": "B001 -> B008",
+      "similarity": 0.969,
+      "duplicate_of": "CAND_EP050_03",
+      "reason": "Exceeded near-duplicate threshold (0.9690 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP050_06",
+      "rank": 6,
+      "recommended_boundary": "B001 -> B009",
+      "similarity": 0.9788,
+      "duplicate_of": "CAND_EP050_03",
+      "reason": "Exceeded near-duplicate threshold (0.9788 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP050_01",
+      "rank": 2,
+      "recommended_boundary": "B001 -> B004",
+      "similarity": 0.9791,
+      "duplicate_of": "CAND_EP050_03",
+      "reason": "Exceeded near-duplicate threshold (0.9791 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP050_02",
+      "rank": 3,
+      "recommended_boundary": "B001 -> B005",
+      "similarity": 0.9656,
+      "duplicate_of": "CAND_EP050_03",
+      "reason": "Exceeded near-duplicate threshold (0.9656 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP050_04",
+      "rank": 4,
+      "recommended_boundary": "B001 -> B007",
+      "similarity": 0.9737,
+      "duplicate_of": "CAND_EP050_03",
+      "reason": "Exceeded near-duplicate threshold (0.9737 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP050_05",
+      "rank": 5,
+      "recommended_boundary": "B001 -> B008",
+      "similarity": 0.969,
+      "duplicate_of": "CAND_EP050_03",
+      "reason": "Exceeded near-duplicate threshold (0.9690 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP050_06",
+      "rank": 6,
+      "recommended_boundary": "B001 -> B009",
+      "similarity": 0.9788,
+      "duplicate_of": "CAND_EP050_03",
+      "reason": "Exceeded near-duplicate threshold (0.9788 >= 0.90)"
+    }
+  ]
+}

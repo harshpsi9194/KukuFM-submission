@@ -1,0 +1,131 @@
+{
+  "episode_number": 39,
+  "total_scored": 5,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP039_01",
+      "start_beat_id": "B010",
+      "end_beat_id": "B014",
+      "start_time": 29.6,
+      "end_time": 50.0,
+      "duration": 20.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B010 visually establishes the physical setting and dynamic immediately: a royal sentry in white gloves halting a cart driver claiming to deliver firewood at a security checkpoint.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: infiltrators posing as cart drivers ambush the guards to breach the sanctuary and report to their unseen leader ('the Duke').",
+        "passes_gate": true,
+        "situational_summary": "Infiltrators masquerading as cart drivers ambush royal cathedral guards to clear the road for their Duke."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Surprise tactical ambush and calculated insurgent breach"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the infiltration/attack inciting incident that breaches the cathedral perimeter."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP039_02",
+      "start_beat_id": "B019",
+      "end_beat_id": "B024",
+      "start_time": 68.5,
+      "end_time": 95.0,
+      "duration": 26.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 opens with a grand cinematic visual reveal: barn doors parting onto a snow-covered landscape as a regal figure in ducal attire steps into the light.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained motivation and status: an exiled noble commands his loyalists to secure a chapel as he marches to reclaim his stolen house.",
+        "passes_gate": true,
+        "situational_summary": "An exiled duke emerges in full splendor and commands his men to secure a chapel as he marches to reclaim his stolen house."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous aristocratic defiance and resolute reclamation of power"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the protagonist's identity, ducal status, and decision to end his exile."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP039_03",
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 68.5,
+      "end_time": 98.41,
+      "duration": 29.91,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 delivers an unmistakable visual anchor: barn doors opening outward onto snow as Alexander emerges in ducal splendor.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely grounded personal and narrative arc: Alexander reclaims his title and marches to rescue his imperiled wife from the chapel.",
+        "passes_gate": true,
+        "situational_summary": "A returned duke emerges from hiding to secure a chapel, reclaim his house, and rescue his wife."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Fierce vengeance paired with desperate protective romantic urgency"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the core stakes of the protagonist's mission to rescue his wife and reclaim his birthright."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP039_04",
+      "start_beat_id": "B021",
+      "end_beat_id": "B025",
+      "start_time": 74.8,
+      "end_time": 98.41,
+      "duration": 23.61,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B021 opens abruptly mid-interaction with a soldier kneeling in the snow addressing an unseen figure with 'Your Grace' without visual establishment of the leader, setting, or context.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc clarifies Alexander's mission to take back his house and save his wife, but this requires downstream dialogue to contextualize.",
+        "passes_gate": false,
+        "situational_summary": "A soldier kneels before a duke who orders a chapel secured so he can reclaim his house and rescue his wife."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Resolute reclamation and vows of rescue"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses Alexander's return and his personal quest to save his wife."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP039_05",
+      "start_beat_id": "B022",
+      "end_beat_id": "B025",
+      "start_time": 77.8,
+      "end_time": 98.41,
+      "duration": 20.61,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B022 immediately establishes Alexander in close-up profile amidst winter cold delivering an authoritative command ('Secure the chapel'). The physical winter atmosphere and commanding dynamic are grounded in the first 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict and motivation are completely self-contained: a returning nobleman/leader ('Your Grace') orders an assault, vows to reclaim his house, and sets out to rescue his wife from the chapel.",
+        "passes_gate": true,
+        "situational_summary": "A determined commander marches through the winter cold toward a distant chapel, ordering his men to secure it as he vows to reclaim his stolen house and rescue his wife."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Fierce, unyielding vengeance and protective determination"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the turning point/inciting march where the protagonist drops hiding and initiates an armed rescue of his wife and reclamation of his house."
+      }
+    }
+  ]
+}

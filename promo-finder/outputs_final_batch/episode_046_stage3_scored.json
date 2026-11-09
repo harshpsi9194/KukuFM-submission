@@ -1,0 +1,531 @@
+{
+  "episode_number": 46,
+  "total_scored": 21,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP046_01",
+      "start_beat_id": "B004",
+      "end_beat_id": "B009",
+      "start_time": 7.1,
+      "end_time": 37.0,
+      "duration": 29.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 opens with a clear, atmospheric wide tracking shot down a ruined nave aisle as the High Priest marches forward flanked by armed royal guards with halberds, accompanied by heavy crunching boots, establishing the authority, setting, and impending confrontation immediately without dialogue.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: the High Priest intervenes by royal decree to invalidate a marriage because a former beggar turned out to be a Duke, while the couple stands defiant at the altar.",
+        "passes_gate": true,
+        "situational_summary": "Armed royal authorities storm a ruined chapel to declare a couple's marriage void after revealing the groom was secretly a Duke when he wed as a beggar."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant romantic loyalty in the face of tyrannical institutional invalidation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the core inciting status-disruption: Alexander's secret identity as a Duke and the church's decree voiding his hedge marriage."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_02",
+      "start_beat_id": "B004",
+      "end_beat_id": "B010",
+      "start_time": 7.1,
+      "end_time": 42.8,
+      "duration": 35.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 visually establishes the ruined church setting, the High Priest, and armed royal guards marching forward in force, providing an unmistakable and immediate visual anchor for an institutional raid.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear adversarial confrontation between Crown authority and the couple, culminating in the Priest's explicit ruling that marrying a vagrant does not make Juliana the legal Duchess of Ashburton.",
+        "passes_gate": true,
+        "situational_summary": "A High Priest and armed guards halt a sanctuary to proclaim that a hedge wedding to a vagrant has no legal hold over the Duke of Ashburton."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging legal condemnation countered by fierce romantic defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes the premise conflict and inciting decree challenging Juliana's legal standing as Duchess."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_03",
+      "start_beat_id": "B005",
+      "end_beat_id": "B010",
+      "start_time": 11.0,
+      "end_time": 42.8,
+      "duration": 31.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B005 establishes immediate clarity with a medium shot of the High Priest flanked by armed guards brandishing a wax-sealed royal document and breaking the seal while declaring Crown seizure.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic confrontation where the High Priest lays out why the beggar's marriage is null and void now that he is the Duke of Ashburton.",
+        "passes_gate": true,
+        "situational_summary": "A High Priest backed by armed guards serves a royal order stripping a ruined lady of her marriage to a beggar who is secretly a Duke."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Public humiliation through royal annulment met with protective defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the Crown's formal decree and the revelation of the groom's true ducal title."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_04",
+      "start_beat_id": "B007",
+      "end_beat_id": "B014",
+      "start_time": 20.5,
+      "end_time": 58.2,
+      "duration": 37.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 opens on a wide shot of Alexander and Juliana standing defiant at the altar before an attentive congregation while the High Priest directly levels the accusation: 'You married this woman as a nameless beggar...'",
+        "arc_legibility": true,
+        "arc_rationale": "A comprehensive, escalating confrontation that clearly sets up the antagonist (High Priest), the victims (Alexander and Juliana), and the exact legal entrapment concluding with the shock War Office proclamation.",
+        "passes_gate": true,
+        "situational_summary": "At the chapel altar, a High Priest systematically dismantles a couple's marriage, revealing the groom is legally presumed dead by the Royal War Office."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating bureaucratic entrapment and shocking identity revelation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses key institutional mechanics and the War Office record stating Alexander Ashburton was legally dead."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_05",
+      "start_beat_id": "B009",
+      "end_beat_id": "B014",
+      "start_time": 26.8,
+      "end_time": 58.2,
+      "duration": 31.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 immediately establishes the physical arena and power dynamic: full shot of the High Priest brandishing a letter in the chapel nave declaring the marriage invalid, followed by Alexander stepping forward to protect Juliana with 'She married the man... not the title.' Visually and narratively grounded within 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: the ecclesiastical authority attempts to strip Juliana of her status by proving the legal non-existence of their marriage, while Alexander stands firm as her protector. The legal and moral stakes are crystal clear.",
+        "passes_gate": true,
+        "situational_summary": "Inside a grand chapel, a High Priest attempts to annul a marriage between a newly revealed Duke and a disgraced lady by brandishing a royal decree claiming the groom was legally dead."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant chivalric devotion facing bureaucratic religious intimidation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses the foundational conflict/inciting dilemma that their previous marriage is legally contested due to Alexander's hidden noble identity and official death record."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_06",
+      "start_beat_id": "B009",
+      "end_beat_id": "B017",
+      "start_time": 26.8,
+      "end_time": 71.0,
+      "duration": 44.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 clearly frames the scene with the High Priest brandishing a letter in the center of the chapel nave and Alexander shielding Juliana, instantly clarifying the antagonist, the couple, and the contested marriage.",
+        "arc_legibility": true,
+        "arc_rationale": "The dramatic progression is completely legible: the Priest dismantles their marriage's legal standing, Juliana directly pushes back with righteous fury ('I won't ask it for permission to love'), and the Priest delivers a chilling counter-threat ('Love doesn't make a Duchess, girl. Paper does').",
+        "passes_gate": true,
+        "situational_summary": "A corrupt church authority attempts to nullify a woman's marriage to a newly revealed Duke, prompting her fierce defiance before he coldly reminds her that only legal paper bestows nobility."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Fiery female defiance crushed against cold aristocratic reality"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Centers on the status quo challenge regarding the legitimacy of their marriage and Juliana's title as Duchess."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_07",
+      "start_beat_id": "B009",
+      "end_beat_id": "B020",
+      "start_time": 26.8,
+      "end_time": 85.8,
+      "duration": 59.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 establishes the setting, the ecclesiastical adversary, and the couple's bond via full and medium shots of the High Priest brandishing a proclamation in the chapel nave while Alexander shields Juliana.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc escalation is transparent: starting with the High Priest's technical annulment arguments, escalating through Juliana's emotional reckoning, and culminating in her public denunciation that the Church is driven by wounded pride.",
+        "passes_gate": true,
+        "situational_summary": "When a High Priest declares her marriage to a Duke void on legal technicalities, a woman passionately rebukes the church's hypocrisy in front of the entire chapel."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak moral outrage and explosive rebellion against oppressive church authority"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the full emotional confrontation, the Church's past mistreatment of Juliana ('chained me', 'called me unworthy'), and her complete public rupture with the religious establishment."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_08",
+      "start_beat_id": "B010",
+      "end_beat_id": "B020",
+      "start_time": 37.0,
+      "end_time": 85.8,
+      "duration": 48.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B010 opens mid-decree on a low-angle shot of the High Priest raising parchment with no establishing context of who is in the room, where they are, or who the 'ruined lady' or 'Duke of Ashburton' are until several beats later. A cold scroller lacks immediate visual or relational anchors.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full duration, the conflict between Juliana, Alexander, and the High Priest over the legality of their marriage and Juliana's past abuse becomes clear.",
+        "passes_gate": false,
+        "situational_summary": "A priest proclaims that the marriage between a former vagrant and a ruined lady holds no authority for a Duke, sparking a fierce denunciation from the bride."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Spirited public defiance against institutional invalidation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's past subjugation by the church and the institutional attack on the legitimacy of their marriage."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_09",
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 52.2,
+      "end_time": 85.8,
+      "duration": 33.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 opens with the High Priest thrusting an official royal proclamation directly into the camera while declaring that the Duke was presumed dead, immediately establishing authority, official dispute, and the legal challenge.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: the High Priest attempts to invalidate a marriage based on legal paperwork, and the bride fiercely defends the spiritual legitimacy of their union against his wounded pride.",
+        "passes_gate": true,
+        "situational_summary": "A corrupt High Priest brandishes an official decree declaring the groom dead to invalidate a wedding, prompting the bride to fiercely defend their love as sacred above church authority."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Righteous fury and defiant indignation against institutional oppression"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses key institutional conspiracy mechanics: Alexander was officially recorded as dead, preventing legal registration of the marriage in London."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_10",
+      "start_beat_id": "B014",
+      "end_beat_id": "B022",
+      "start_time": 52.2,
+      "end_time": 96.8,
+      "duration": 44.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B014 provides an explicit visual and verbal establishment: the High Priest pushes the War Office proclamation to camera, grounding the setting, the ecclesiastical opposition, and the core legal conflict right away.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is clearly articulated and builds through Juliana's defiance to the High Priest's escalating threats and Catherine's lurking malice.",
+        "passes_gate": true,
+        "situational_summary": "When a High Priest brandishes a proclamation to declare a marriage void, the bride passionately defies him, provoking him to storm the altar in retaliation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Escalating confrontation from defiant public challenge to menacing physical threat"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the core legal impediment to the marriage (presumed dead status) and hints at Juliana's past subjugation ('The floor isn't finished with you')."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_11",
+      "start_beat_id": "B015",
+      "end_beat_id": "B020",
+      "start_time": 58.2,
+      "end_time": 85.8,
+      "duration": 27.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B015 opens abruptly on an isolated close-up of Juliana crying with indignation ('I didn't ask this church for permission to survive, Father') without establishing the physical setting, who she is addressing, or what provoked her reaction.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the interpersonal conflict between the bride and the smug priest becomes clear through the dialogue exchanges.",
+        "passes_gate": false,
+        "situational_summary": "A tearful bride stands up to a condescending priest who questions her right to love and marry."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Passionate defiance and moral outrage against religious authority"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Presents the confrontation over the legitimacy of the marriage without disclosing the deeper War Office/presumed dead legal mechanics from B014."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_12",
+      "start_beat_id": "B017",
+      "end_beat_id": "B020",
+      "start_time": 65.8,
+      "end_time": 85.8,
+      "duration": 20.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 starts mid-argument on a close-up of a smirking priest delivering a quip ('Love doesn't make a Duchess, girl. Paper does') with zero visual establishment of the altar, the setting, or the woman he is talking to.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue makes clear that the priest dismisses the marriage and the woman retaliates by denouncing the church's cruelty.",
+        "passes_gate": false,
+        "situational_summary": "A priest mocks a bride's status, prompting her furious denunciation of the church's past cruelty and present interference."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging class insult sparking fierce verbal retribution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Captures the ideological clash regarding title and marriage legitimacy without detailing the underlying legal backstory."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_13",
+      "start_beat_id": "B020",
+      "end_beat_id": "B023",
+      "start_time": 78.0,
+      "end_time": 100.5,
+      "duration": 22.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 starts on an extreme close-up of a woman's face mid-outburst ('Now a church calls my marriage a lie!'). Without establishing geography, physical setting, or showing who she is addressing in the frame, a cold scroller lacks immediate visual orientation.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is immediately made clear through dialogue as the High Priest claims her marriage was illicit and threatens to annul it within one hearing.",
+        "passes_gate": false,
+        "situational_summary": "In a church, a woman furiously confronts a High Priest who declares her three-year marriage invalid and threatens to dissolve it."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate defiance against ecclesiastical annulment and public condemnation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the core conflict where the legitimacy of Juliana's marriage is challenged and threatened with annulment."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_14",
+      "start_beat_id": "B020",
+      "end_beat_id": "B027",
+      "start_time": 78.0,
+      "end_time": 118.5,
+      "duration": 40.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Opens on Beat B020 with an extreme close-up of Juliana mid-argument with no establishing shot of the church, the altar, or the priest she is shouting at, failing isolated visual orientation.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly develops the stakes: the High Priest challenges the marriage, Catherine relishes the conflict, and Duke Alexander steps in to challenge church jurisdiction before armed guards.",
+        "passes_gate": false,
+        "situational_summary": "When a High Priest declares a woman's marriage invalid under church law, Duke Alexander steps forward to defy the armed clergy and demand a legal trial."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Authoritative patriarchal defense confronting religious tyranny"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Duke Alexander's active legal standoff and confrontation against the High Religious Council."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_15",
+      "start_beat_id": "B020",
+      "end_beat_id": "B028",
+      "start_time": 78.0,
+      "end_time": 124.0,
+      "duration": 46.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Opens in media res on Beat B020 with an extreme close-up of Juliana shouting without establishing the physical environment, congregation, or the person being addressed.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is clear and self-contained: the priest attempts an immediate annulment, the Duke counters, and the priest sets an ominous ten-day deadline.",
+        "passes_gate": false,
+        "situational_summary": "A High Priest attempts to annul a woman's marriage, prompting Duke Alexander to intervene and accept a high-stakes ten-day ultimatum to defend his union."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "High-stakes dramatic standoff culminating in an ominous ultimatum"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Establishes the pivotal plot ticking clock: the ten-day deadline imposed by the High Priest to dissolve the marriage."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_16",
+      "start_beat_id": "B020",
+      "end_beat_id": "B031",
+      "start_time": 78.0,
+      "end_time": 133.5,
+      "duration": 55.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 begins on a disorienting extreme close-up mid-yell with no prior visual grounding or physical spatial context for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The dramatic escalation from theological dispute to Duke intervention to physical armed confrontation with halberds is self-evident and easy to follow.",
+        "passes_gate": false,
+        "situational_summary": "After a High Priest moves to invalidate a marriage, Duke Alexander steps in, escalating the church confrontation into a life-or-death standoff with armed guards."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak visceral tension escalating to lethal armed confrontation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Shows the escalation to armed conflict and the royal bailiffs turning weapons against the Duke in his own chapel."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_17",
+      "start_beat_id": "B021",
+      "end_beat_id": "B028",
+      "start_time": 85.8,
+      "end_time": 124.0,
+      "duration": 38.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B021 opens on a mid-scene taunt with Catherine whispering cryptically ('The floor isn't finished with you') while leaning against an archway. A cold mobile viewer has no visual grounding of the setting, who 'healer' is, or the core church confrontation.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent confrontation between the Duke and High Priest clearly establishes the stakes of an illicit marriage and a ten-day ultimatum, but requires the later beats to decipher who Catherine was taunting.",
+        "passes_gate": false,
+        "situational_summary": "A woman's ominous warning leads into an explosive ecclesiastical confrontation where a High Priest threatens to annul a Duke's illicit marriage within ten days."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Arrogant mockery transitioning into high-stakes religious and aristocratic confrontation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the High Priest's legal challenge against the marriage and the formal ten-day trial ultimatum."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_18",
+      "start_beat_id": "B022",
+      "end_beat_id": "B028",
+      "start_time": 89.2,
+      "end_time": 124.0,
+      "duration": 34.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B022 immediately establishes the physical setting and conflict: close-up of the High Priest clutching a document in anger, shouting condemnation of an unauthorized marriage at the altar steps.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and highly legible conflict: the High Priest challenges the legitimacy of the marriage, and the Duke steps forward to assert Crown jurisdiction, resulting in a strict ten-day deadline.",
+        "passes_gate": true,
+        "situational_summary": "At the altar, an incensed High Priest attempts to annul an unauthorized marriage until the Duke confronts him and forces a ten-day public hearing."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Authoritative clash between church condemnation and defiant aristocratic power"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the marriage was performed without Crown blessing and establishes the ten-day trial deadline."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_19",
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "start_time": 96.8,
+      "end_time": 133.5,
+      "duration": 36.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B023 starts mid-tirade with the High Priest shouting 'And I have the power to undo in one hearing what took you three years to steal!' without establishing who 'you' is or what was stolen before the Duke steps in.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict between the Duke, the High Priest, and the armed bailiffs escalates to weapon-point, making the immediate threat clear, though the opening line relies on missing preamble.",
+        "passes_gate": false,
+        "situational_summary": "A furious priest threatens to revoke a three-year marriage before the Duke defies armed guards pointed directly at his chest."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Escalating defiance under the immediate threat of drawn weapons"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the dispute over the three-year marriage and ends with royal guards drawing weapons on the Duke."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_20",
+      "start_beat_id": "B027",
+      "end_beat_id": "B033",
+      "start_time": 111.8,
+      "end_time": 143.88,
+      "duration": 32.08,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B027 starts mid-negotiation with Alexander declaring 'Then let it prove that in ten days...', referencing a prior argument and armed standoff without visually or narratively introducing the premise.",
+        "arc_legibility": false,
+        "arc_rationale": "A cold viewer cannot tell why the halberds are pointed, what decree Alexander is wagering against, or why Catherine is wearing a bridal gown smiling about the ten days without prior scene context.",
+        "passes_gate": false,
+        "situational_summary": "A Duke stares down armed guards in his chapel until the priest grants a ten-day reprieve, leaving a rival bride plotting in the aisle."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Tense de-escalation of physical violence giving way to calculating malice"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the resolution of the armed standoff and Catherine's intention to sabotage the ten-day window."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP046_21",
+      "start_beat_id": "B028",
+      "end_beat_id": "B033",
+      "start_time": 118.5,
+      "end_time": 143.88,
+      "duration": 25.38,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B028 opens on a wide profile two-shot establishing a tense standoff between the High Priest and Alexander at an altar with an immediate high-stakes verbal ultimatum ('Ten days... lose her twice'), grounding setting and adversarial dynamic instantly.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: the High Priest and armed guards threaten Duke Alexander and Juliana with a 10-day judgment deadline, Alexander defuses the immediate armed threat with royal authority, and Catherine is revealed as the calculating antagonist plotting to exploit the countdown.",
+        "passes_gate": true,
+        "situational_summary": "Facing an ultimatum from the High Priest and armed guards at the altar, a defiant Duke secures a ten-day reprieve to defend his woman, unaware a smiling bride is already scheming his downfall."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stalemate defiance under armed threat capped by predatory villainy"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the core inciting ticking clock/legal ultimatum of the arc without showing the resolution of the council's verdict."
+      }
+    }
+  ]
+}

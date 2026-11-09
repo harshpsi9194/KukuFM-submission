@@ -1,0 +1,256 @@
+{
+  "episode_number": 50,
+  "total_scored": 10,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP050_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B004",
+      "start_time": 0.0,
+      "end_time": 26.5,
+      "duration": 26.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with an overhead birds-eye shot of Catherine in silk chemise curled against Father Thomas's bare chest in an unkempt bed, paired immediately with explicit dialogue establishing a priest in an illicit romantic bed encounter. Instantly visually grounded in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained conflict: post-coital intimacy turns immediately into transactional leverage when the priest demands control of the west territory's tax revenue.",
+        "passes_gate": true,
+        "situational_summary": "After an illicit liaison in bed with a priest, a woman invites him to name his price only for him to demand total control over territory tax collection."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sacrilegious romantic intimacy rapidly flipped into calculated extortion"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the scandalous priest-benefactor affair and the opening transactional power dynamic."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP050_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 30.5,
+      "duration": 30.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with an overhead birds-eye shot of Catherine in silk chemise curled against Father Thomas's bare chest in an unkempt bed, paired immediately with explicit dialogue establishing a priest in an illicit romantic bed encounter. Instantly visually grounded in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full exchange is entirely self-explanatory: the illicit romance shifts to blackmail, culminating in Catherine's vocal pushback that his demand is an exorbitant fortune.",
+        "passes_gate": true,
+        "situational_summary": "Following an illicit encounter, a woman is stunned when her priest lover demands an entire territory's tax revenues as the price of their liaison."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Intimate complicity shattered by audacious greed"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the illicit affair inciting incident and the extortionate scale of Father Thomas's ambition."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP050_03",
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 35.8,
+      "duration": 35.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with an overhead birds-eye shot of Catherine in silk chemise curled against Father Thomas's bare chest in an unkempt bed, paired immediately with explicit dialogue establishing a priest in an illicit romantic bed encounter. Instantly visually grounded in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Exemplary standalone arc: from intimate post-coital tenderness to extortion, capped by an uncompromising punchline where the priest clarifies that discretion must be bought.",
+        "passes_gate": true,
+        "situational_summary": "After sharing a bed with a priest, a woman balks at his massive financial demands, only for him to coldly assert that discretion costs a fortune."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Chilling transition from passionate sacrilege to ruthless extortion and moral hypocrisy"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Unveils the core scandalous premise and Father Thomas's true predatory nature without spoiling downstream plot payoffs."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP050_04",
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 39.8,
+      "duration": 39.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with an overhead birds-eye shot of Catherine in silk chemise curled against Father Thomas's bare chest in an unkempt bed, paired immediately with explicit dialogue establishing a priest in an illicit romantic bed encounter. Instantly visually grounded in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression remains completely clear as Catherine responds to his demand for discretion by specifying terms of unsupervised control.",
+        "passes_gate": true,
+        "situational_summary": "Following an illicit bed encounter, a priest demands control of territory taxes for his discretion, prompting the woman to offer him complete unsupervised power."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Dangerous collusion and high-stakes corrupt pact sealed in bed"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals not only the affair and extortion attempt, but Catherine's formal agreement/counter-terms giving him unchecked fiscal jurisdiction."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP050_05",
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 43.0,
+      "duration": 43.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with a clear high overhead establishing shot of an unkempt bed with Catherine in a silk chemise curled against Father Thomas's bare chest, immediately visually and verbally establishing a scandalous, illicit affair with a priest.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: following their tryst, Father Thomas leverages secrecy to extort tax collection rights from Catherine, negotiating a corrupt, high-stakes pact.",
+        "passes_gate": true,
+        "situational_summary": "After an illicit night in bed together, a corrupt priest blackmails his noble lover for exclusive control of regional tax revenues in exchange for his discretion."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sacrilegious intimacy pivoting into cold, calculating extortion"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the secret conspiratorial affair between Catherine and Father Thomas and the corrupt deal struck behind the scenes."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP050_06",
+      "start_beat_id": "B001",
+      "end_beat_id": "B009",
+      "start_time": 0.0,
+      "end_time": 48.5,
+      "duration": 48.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 establishes the setting, relationship, and sacrilegious dynamic instantly via overhead visual framing and dialogue grounded in post-coital sacrilege.",
+        "arc_legibility": true,
+        "arc_rationale": "The transaction and power dynamic are completely legible on their own, concluding with Catherine agreeing to the exorbitant price while puncturing his illusion that this ends with the hearing.",
+        "passes_gate": true,
+        "situational_summary": "Following an illicit encounter, a priest blackmails his aristocratic lover into handing over territory tax revenues in exchange for discretion, which she accepts with cynical amusement."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Transactional seduction and hardball extortion"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the clandestine pact, the specific financial leverage, and references the upcoming hearing."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP050_07",
+      "start_beat_id": "B002",
+      "end_beat_id": "B006",
+      "start_time": 11.8,
+      "end_time": 35.8,
+      "duration": 24.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 opens abruptly on a close-up pushing in on Catherine saying 'Then let's stop pretending this was only appetite.' Without Beat B001, there is no establishing visual context of the bedroom setting or that the man is an ordained priest ('Thomas' without collar context).",
+        "arc_legibility": true,
+        "arc_rationale": "The extortion over territory tax revenues and discretion is understandable once they sit up and argue terms, but it lacks the opening grounding.",
+        "passes_gate": false,
+        "situational_summary": "A woman confronts a man in bed over their relationship, prompting him to demand complete control over territorial tax collection in exchange for silence."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Intimate extortion and dispute over price of silence"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the conspiratorial extortion and financial payoff between the two lovers."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP050_08",
+      "start_beat_id": "B003",
+      "end_beat_id": "B009",
+      "start_time": 15.8,
+      "end_time": 48.5,
+      "duration": 32.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B003 cuts directly into a mid-scene exchange of two people sitting up in bed with Catherine saying 'Name your price' without prior context as to why money or leverage is owed or who these people are.",
+        "arc_legibility": true,
+        "arc_rationale": "The negotiation over territory tax collection in exchange for discretion is clear, though character stakes feel slightly detached.",
+        "passes_gate": false,
+        "situational_summary": "A woman in bed asks a man to name his price, agreeing to give him territorial tax collection in exchange for his discretion."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Calculating financial blackmail and power play"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the illicit extortion deal and tax revenue diversion scheme."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP050_09",
+      "start_beat_id": "B004",
+      "end_beat_id": "B009",
+      "start_time": 18.8,
+      "end_time": 48.5,
+      "duration": 29.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B004 opens with a clear visual of Father Thomas sitting bare-chested with Catherine resting her hand over his heart while he demands control over territory tax collection. The visual intimacy immediately establishes the illicit priest-lover dynamic alongside the corrupt financial transaction within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The transactional extortion and forbidden romance between a corrupt priest and Catherine is entirely self-contained. The negotiation over 'absolution' vs. 'discretion' and Catherine's final acceptance explicitly define the stakes, power dynamic, and conflict without needing prior lore.",
+        "passes_gate": true,
+        "situational_summary": "In an intimate bedchamber setting, a bare-chested priest extorts territory tax revenues from a woman in exchange for his discretion, culminating in a mutual, corrupt pact."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sensual transactional corruption and high-stakes ecclesiastical extortion"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the illicit intimacy between Catherine and Father Thomas as well as the exact corrupt financial deal routing tax revenues through his office."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP050_10",
+      "start_beat_id": "B005",
+      "end_beat_id": "B009",
+      "start_time": 26.5,
+      "end_time": 48.5,
+      "duration": 22.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B005 opens mid-negotiation with Catherine pulling back her hand in disbelief saying 'That's not absolution, Thomas. That's a fortune.' Without Beat B004's establishing context, a cold mobile viewer does not see what 'that' refers to or understand what was demanded, failing opening legibility in isolation.",
+        "arc_legibility": true,
+        "arc_rationale": "The remainder of the clip establishes the exchange of discretion for unsupervised control and mutual intimacy, making the core tension legible across the full duration.",
+        "passes_gate": false,
+        "situational_summary": "A woman pushes back against a priest's exorbitant price for discretion before ultimately agreeing to grant him unsupervised financial control."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Tense bargaining over the price of silence wrapped in romantic tension"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Father Thomas's corrupt deal for discretion and Catherine's complicity in giving him unsupervised control."
+      }
+    }
+  ]
+}

@@ -1,0 +1,952 @@
+{
+  "episode_number": 44,
+  "total_candidates": 14,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP044_01",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B005",
+      "end_beat_id": "B011",
+      "start_time": 13.8,
+      "end_time": 41.2,
+      "duration": 27.4,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Desperate, panicking cries for help during physical apprehension ('Get your hands off me! Catherine! Do something!').",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: redcoat soldiers violently forcing a nobleman into the stone dust of a ruined church nave.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Alexander accept Catherine's tender caress or publicly reject her touch?",
+        "stakes_importance": "High \u2014 suspended physical intimacy suspended at the brink of acceptance or brutal spurning.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B005",
+          "end_beat_id": "B011",
+          "start_time": 13.8,
+          "end_time": 41.2,
+          "duration": 27.4,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_02",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B005",
+      "end_beat_id": "B012",
+      "start_time": 13.8,
+      "end_time": 42.8,
+      "duration": 29.0,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Desperate, panicking cries for help during physical apprehension ('Get your hands off me! Catherine! Do something!').",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: redcoat soldiers violently forcing a nobleman into the stone dust of a ruined church nave.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B012",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Catherine react after Alexander visibly recoils from her touch in front of the assembled guests?",
+        "stakes_importance": "High \u2014 devastating physical and emotional rejection leaving the bride humiliated in mid-gesture.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B005",
+          "end_beat_id": "B012",
+          "start_time": 13.8,
+          "end_time": 42.8,
+          "duration": 29.0,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_03",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B005",
+      "end_beat_id": "B014",
+      "start_time": 13.8,
+      "end_time": 49.0,
+      "duration": 35.2,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Desperate, panicking cries for help during physical apprehension ('Get your hands off me! Catherine! Do something!').",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: redcoat soldiers violently forcing a nobleman into the stone dust of a ruined church nave.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B014",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Alexander answer Catherine's entitlement and claim to the title of Duchess?",
+        "stakes_importance": "High \u2014 stakes shift from past romantic grief to social status, power, and broken entitlement.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B005",
+          "end_beat_id": "B014",
+          "start_time": 13.8,
+          "end_time": 49.0,
+          "duration": 35.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_04",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B005",
+      "end_beat_id": "B015",
+      "start_time": 13.8,
+      "end_time": 51.0,
+      "duration": 37.2,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Desperate, panicking cries for help during physical apprehension ('Get your hands off me! Catherine! Do something!').",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: redcoat soldiers violently forcing a nobleman into the stone dust of a ruined church nave.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 5,
+        "specific_question": "Why does Alexander claim Catherine was never his Duchess, and who does he recognize instead?",
+        "stakes_importance": "High \u2014 total disavowal of betrothal and legitimacy delivered straight to the bride's face.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B005",
+          "end_beat_id": "B015",
+          "start_time": 13.8,
+          "end_time": 51.0,
+          "duration": 37.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_05",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B005",
+      "end_beat_id": "B017",
+      "start_time": 13.8,
+      "end_time": 55.6,
+      "duration": 41.8,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Desperate, panicking cries for help during physical apprehension ('Get your hands off me! Catherine! Do something!').",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: redcoat soldiers violently forcing a nobleman into the stone dust of a ruined church nave.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine break under Alexander's cutting accusation that she only lusted after his rank and title?",
+        "stakes_importance": "High \u2014 exposes the bride's hollow, mercenary motives in front of the congregation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B005",
+          "end_beat_id": "B017",
+          "start_time": 13.8,
+          "end_time": 55.6,
+          "duration": 41.8,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_06",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B005",
+      "end_beat_id": "B020",
+      "start_time": 13.8,
+      "end_time": 63.8,
+      "duration": 50.0,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Desperate, panicking cries for help during physical apprehension ('Get your hands off me! Catherine! Do something!').",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: redcoat soldiers violently forcing a nobleman into the stone dust of a ruined church nave.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can Catherine answer Alexander's piercing interrogation of her past fidelity?",
+        "stakes_importance": "High \u2014 razor-sharp, two-word cross-examination that exposes her deceit and forces an impossible answer.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B005",
+          "end_beat_id": "B020",
+          "start_time": 13.8,
+          "end_time": 63.8,
+          "duration": 50.0,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_07",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B005",
+      "end_beat_id": "B021",
+      "start_time": 13.8,
+      "end_time": 65.0,
+      "duration": 51.2,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Desperate, panicking cries for help during physical apprehension ('Get your hands off me! Catherine! Do something!').",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: redcoat soldiers violently forcing a nobleman into the stone dust of a ruined church nave.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 4,
+        "specific_question": "What will Alexander do now that Catherine is silenced and exposed by her own guilt?",
+        "stakes_importance": "High \u2014 total conversational defeat leaving the dynamic poised for a decisive narrative action.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B005",
+          "end_beat_id": "B021",
+          "start_time": 13.8,
+          "end_time": 65.0,
+          "duration": 51.2,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_08",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B005",
+      "end_beat_id": "B022",
+      "start_time": 13.8,
+      "end_time": 67.8,
+      "duration": 54.0,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Desperate, panicking cries for help during physical apprehension ('Get your hands off me! Catherine! Do something!').",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum scroll-stopper: redcoat soldiers violently forcing a nobleman into the stone dust of a ruined church nave.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who is the woman in chains and rustic rags, and why is she present at this high-society wedding?",
+        "stakes_importance": "High \u2014 shocking visual contrast introducing a mistreated figure whose connection is yet unexplained.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B005",
+          "end_beat_id": "B022",
+          "start_time": 13.8,
+          "end_time": 67.8,
+          "duration": 54.0,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_09",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B006",
+      "end_beat_id": "B015",
+      "start_time": 19.4,
+      "end_time": 51.0,
+      "duration": 31.6,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tense visual drama with a bride beneath her veil and a tight close-up on her trembling satin-gloved fist.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 5,
+        "specific_question": "Why does Alexander claim Catherine was never his Duchess, and who does he recognize instead?",
+        "stakes_importance": "High \u2014 total disavowal of betrothal and legitimacy delivered straight to the bride's face.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B006",
+          "end_beat_id": "B015",
+          "start_time": 19.4,
+          "end_time": 51.0,
+          "duration": 31.6,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_10",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B007",
+      "end_beat_id": "B015",
+      "start_time": 24.4,
+      "end_time": 51.0,
+      "duration": 26.6,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Massive narrative revelation and emotional rupture ('I thought you had died. Do you know what this did to me?').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Striking wide shot of a bride abandoning her groom to face a stoic figure, followed by glistening tears in close-up.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 5,
+        "specific_question": "Why does Alexander claim Catherine was never his Duchess, and who does he recognize instead?",
+        "stakes_importance": "High \u2014 total disavowal of betrothal and legitimacy delivered straight to the bride's face.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B007",
+          "end_beat_id": "B015",
+          "start_time": 24.4,
+          "end_time": 51.0,
+          "duration": 26.6,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_11",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B012",
+      "end_beat_id": "B025",
+      "start_time": 41.2,
+      "end_time": 70.5,
+      "duration": 29.3,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Visually arresting physical rejection as Alexander pulls back, leaving her trembling gloved hand suspended mid-air.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "Why has Duke Alexander chosen a chained peasant woman over his aristocratic bride, and what will Catherine do in retaliation?",
+        "stakes_importance": "High \u2014 explosive climax of social shock, shattered ego, and total role reversal demanding immediate resolution.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B012",
+          "end_beat_id": "B025",
+          "start_time": 41.2,
+          "end_time": 70.5,
+          "duration": 29.3,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_12",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B014",
+      "end_beat_id": "B025",
+      "start_time": 46.4,
+      "end_time": 70.5,
+      "duration": 24.1,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes confrontation claiming stolen status and broken entitlement ('I was supposed to be your Duchess!').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Expressive high-angle shot framing the distraught bride while her fianc\u00e9 remains pinned under armed guard in the background.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "Why has Duke Alexander chosen a chained peasant woman over his aristocratic bride, and what will Catherine do in retaliation?",
+        "stakes_importance": "High \u2014 explosive climax of social shock, shattered ego, and total role reversal demanding immediate resolution.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B014",
+          "end_beat_id": "B025",
+          "start_time": 46.4,
+          "end_time": 70.5,
+          "duration": 24.1,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_13",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B015",
+      "end_beat_id": "B023",
+      "start_time": 49.0,
+      "end_time": 69.6,
+      "duration": 20.6,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Brutal, relationship-shattering denial delivered with cold finality ('You were never my Duchess.').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Standard medium two-shot confrontation between the two characters.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 5,
+        "specific_question": "Why is the Duke walking away from his noble bride to approach a woman standing in chains?",
+        "stakes_importance": "High \u2014 dramatic subversion of high-society expectations, signaling an unprecedented public realignment.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B015",
+          "end_beat_id": "B023",
+          "start_time": 49.0,
+          "end_time": 69.6,
+          "duration": 20.6,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP044_14",
+      "episode": "Episode 44",
+      "episode_number": 44,
+      "start_beat_id": "B015",
+      "end_beat_id": "B025",
+      "start_time": 49.0,
+      "end_time": 70.5,
+      "duration": 21.5,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Brutal, relationship-shattering denial delivered with cold finality ('You were never my Duchess.').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Standard medium two-shot confrontation between the two characters.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "Why has Duke Alexander chosen a chained peasant woman over his aristocratic bride, and what will Catherine do in retaliation?",
+        "stakes_importance": "High \u2014 explosive climax of social shock, shattered ego, and total role reversal demanding immediate resolution.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 44,
+          "start_beat_id": "B015",
+          "end_beat_id": "B025",
+          "start_time": 49.0,
+          "end_time": 70.5,
+          "duration": 21.5,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

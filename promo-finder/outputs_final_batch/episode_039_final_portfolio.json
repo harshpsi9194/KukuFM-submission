@@ -1,0 +1,132 @@
+{
+  "episode_number": 39,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 4
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP039_05",
+      "absolute_rubric_score": 9.2,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B022",
+        "end_beat_id": "B025",
+        "start_time": 77.8,
+        "end_time": 98.41,
+        "duration": 20.61,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Secure the chapel.",
+        "opening_character": "ALEXANDER",
+        "rationale": "Decisive military directive ('Secure the chapel') signals active assault and immediate narrative stakes."
+      },
+      "cliffhanger": {
+        "final_quote": "And I am bringing my wife home.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Who is Alexander's wife, what is happening to her in that chapel, and will he arrive in time to stop it?"
+      },
+      "situational_summary": "A determined commander marches through the winter cold toward a distant chapel, ordering his men to secure it as he vows to reclaim his stolen house and rescue his wife.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP039_03",
+      "absolute_rubric_score": 8.1,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.056,
+      "max_similarity_to_selected": 0.7922,
+      "boundary": {
+        "start_beat_id": "B019",
+        "end_beat_id": "B025",
+        "start_time": 68.5,
+        "end_time": 98.41,
+        "duration": 29.91,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "And I am bringing my wife home.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Who is Alexander's wife, what is happening to her in that chapel, and will he arrive in time to stop it?"
+      },
+      "situational_summary": "A returned duke emerges from hiding to secure a chapel, reclaim his house, and rescue his wife.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP039_01",
+      "absolute_rubric_score": 5.2,
+      "subscores": {
+        "hook_score": 1.2,
+        "tension_score": 1.4,
+        "cliffhanger_score": 1.5,
+        "resonance_score": 1.1
+      },
+      "mmr_score": -0.1903,
+      "max_similarity_to_selected": 0.7284,
+      "boundary": {
+        "start_beat_id": "B010",
+        "end_beat_id": "B014",
+        "start_time": 29.6,
+        "end_time": 50.0,
+        "duration": 20.4,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Stop!",
+        "opening_character": "ROYAL SENTRY",
+        "rationale": "Sentry's sharp 'Stop!' creates minor auditory tension, but is immediately undercut by mundane cover dialogue ('Firewood for the kitchens, sir')."
+      },
+      "cliffhanger": {
+        "final_quote": "Tell the Duke.",
+        "final_character": "LOYALIST FIGHTER",
+        "specific_question": "Who is the Duke, and what grand operation will he unleash now that the road is cleared?"
+      },
+      "situational_summary": "Infiltrators masquerading as cart drivers ambush royal cathedral guards to clear the road for their Duke.",
+      "emotional_salience_score": 3,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP039_02",
+      "rank": 3,
+      "recommended_boundary": "B019 -> B024",
+      "similarity": 0.9444,
+      "duplicate_of": "CAND_EP039_03",
+      "reason": "Exceeded near-duplicate threshold (0.9444 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP039_02",
+      "rank": 3,
+      "recommended_boundary": "B019 -> B024",
+      "similarity": 0.9444,
+      "duplicate_of": "CAND_EP039_03",
+      "reason": "Exceeded near-duplicate threshold (0.9444 >= 0.90)"
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "episode_number": 36,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP036_28",
+      "absolute_rubric_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B040",
+        "end_beat_id": "B046",
+        "start_time": 132.0,
+        "end_time": 163.0,
+        "duration": 31.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "They condemned her.",
+        "opening_character": "ALEXANDER'S MOTHER",
+        "rationale": "Lethal stakes: 'They condemned her... She is to be executed.' An ultimate life-or-death shocker."
+      },
+      "cliffhanger": {
+        "final_quote": "...and killing my wife afterward.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Will Alexander unleash his wrath in time to disrupt the wedding and prevent his wife's murder?"
+      },
+      "situational_summary": "After his mother breaks down with the news that his wife has been condemned to death, a man deduces the conspirators plan to execute her immediately following their wedding in two days.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP036_22",
+      "absolute_rubric_score": 9.2,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.1466,
+      "max_similarity_to_selected": 0.8025,
+      "boundary": {
+        "start_beat_id": "B032",
+        "end_beat_id": "B040",
+        "start_time": 105.8,
+        "end_time": 139.0,
+        "duration": 33.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Rupert and Catherine accused her of poisoning me!",
+        "opening_character": "ALEXANDER'S MOTHER",
+        "rationale": "Explosive, high-stakes accusation: the villains framed Juliana for poisoning the matriarch."
+      },
+      "cliffhanger": {
+        "final_quote": "She is to be executed.",
+        "final_character": "ALEXANDER'S MOTHER",
+        "specific_question": "Can Alexander storm the gallows and rescue Juliana in time before she is executed by Rupert and Catherine?"
+      },
+      "situational_summary": "A mother informs her furious son that his wife was framed for poisoning her, convicted as a witch, and sentenced to execution.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP036_25",
+      "absolute_rubric_score": 7.3,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 1.7
+      },
+      "mmr_score": -0.1164,
+      "max_similarity_to_selected": 0.8227,
+      "boundary": {
+        "start_beat_id": "B036",
+        "end_beat_id": "B044",
+        "start_time": 119.5,
+        "end_time": 156.5,
+        "duration": 37.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "They called her a witch!",
+        "opening_character": "ALEXANDER'S MOTHER",
+        "rationale": "Sensational, high-voltage accusation: branded a witch in an unjust trial."
+      },
+      "cliffhanger": {
+        "final_quote": "Two days from now.",
+        "final_character": "ALEXANDER'S MOTHER",
+        "specific_question": "Can Alexander stop the wedding of Rupert and Catherine and rescue Juliana within two days?"
+      },
+      "situational_summary": "A devastated mother reveals to her son that his wife has been branded a witch and condemned to execution immediately following a rival wedding in two days.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP036_07",
+      "absolute_rubric_score": 7.2,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 1.8
+      },
+      "mmr_score": -0.1334,
+      "max_similarity_to_selected": 0.7666,
+      "boundary": {
+        "start_beat_id": "B007",
+        "end_beat_id": "B015",
+        "start_time": 23.6,
+        "end_time": 55.5,
+        "duration": 31.9,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "My position was leaked to the French... before I could expose what I had discovered.",
+        "opening_character": "ALEXANDER",
+        "rationale": "Explicitly details military treason and being leaked to an enemy before exposing a conspiracy."
+      },
+      "cliffhanger": {
+        "final_quote": "While the world mourned a dead heir.",
+        "final_character": "ALEXANDER",
+        "specific_question": "When and how will the resurrected heir shock the world and reclaim his stolen legacy?"
+      },
+      "situational_summary": "A scarred soldier reveals to his mother that his position was leaked to the enemy and his death staged so an usurper could steal his family estate.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP036_08",
+      "absolute_rubric_score": 6.9,
+      "subscores": {
+        "hook_score": 1.6,
+        "tension_score": 1.7,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 1.7
+      },
+      "mmr_score": -0.2703,
+      "max_similarity_to_selected": 0.8827,
+      "boundary": {
+        "start_beat_id": "B008",
+        "end_beat_id": "B015",
+        "start_time": 29.0,
+        "end_time": 55.5,
+        "duration": 26.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "They gave you to the enemy?",
+        "opening_character": "ALEXANDER'S MOTHER",
+        "rationale": "A piercing, high-stakes question directly confronting treason by trusted allies."
+      },
+      "cliffhanger": {
+        "final_quote": "While the world mourned a dead heir.",
+        "final_character": "ALEXANDER",
+        "specific_question": "When and how will the resurrected heir shock the world and reclaim his stolen legacy?"
+      },
+      "situational_summary": "A mother realizes her son was handed over to the enemy and declared dead so that a rival could claim his title and estate.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP036_30",
+      "rank": 3,
+      "recommended_boundary": "B040 -> B051",
+      "similarity": 0.9734,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9734 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP036_29",
+      "rank": 4,
+      "recommended_boundary": "B040 -> B050",
+      "similarity": 0.9423,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9423 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP036_31",
+      "rank": 5,
+      "recommended_boundary": "B040 -> B053",
+      "similarity": 0.9755,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9755 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP036_30",
+      "rank": 3,
+      "recommended_boundary": "B040 -> B051",
+      "similarity": 0.9734,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9734 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP036_29",
+      "rank": 4,
+      "recommended_boundary": "B040 -> B050",
+      "similarity": 0.9423,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9423 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP036_31",
+      "rank": 5,
+      "recommended_boundary": "B040 -> B053",
+      "similarity": 0.9755,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9755 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP036_23",
+      "rank": 6,
+      "recommended_boundary": "B032 -> B042",
+      "similarity": 0.9373,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9373 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP036_21",
+      "rank": 7,
+      "recommended_boundary": "B032 -> B039",
+      "similarity": 0.9499,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9499 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP036_20",
+      "rank": 10,
+      "recommended_boundary": "B032 -> B038",
+      "similarity": 0.9599,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9599 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP036_19",
+      "rank": 12,
+      "recommended_boundary": "B032 -> B037",
+      "similarity": 0.958,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9580 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP036_30",
+      "rank": 3,
+      "recommended_boundary": "B040 -> B051",
+      "similarity": 0.9734,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9734 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP036_29",
+      "rank": 4,
+      "recommended_boundary": "B040 -> B050",
+      "similarity": 0.9423,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9423 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP036_31",
+      "rank": 5,
+      "recommended_boundary": "B040 -> B053",
+      "similarity": 0.9755,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9755 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP036_23",
+      "rank": 6,
+      "recommended_boundary": "B032 -> B042",
+      "similarity": 0.9373,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9373 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP036_21",
+      "rank": 7,
+      "recommended_boundary": "B032 -> B039",
+      "similarity": 0.9499,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9499 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP036_20",
+      "rank": 10,
+      "recommended_boundary": "B032 -> B038",
+      "similarity": 0.9599,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9599 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP036_19",
+      "rank": 12,
+      "recommended_boundary": "B032 -> B037",
+      "similarity": 0.958,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9580 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP036_30",
+      "rank": 3,
+      "recommended_boundary": "B040 -> B051",
+      "similarity": 0.9734,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9734 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP036_29",
+      "rank": 4,
+      "recommended_boundary": "B040 -> B050",
+      "similarity": 0.9423,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9423 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP036_31",
+      "rank": 5,
+      "recommended_boundary": "B040 -> B053",
+      "similarity": 0.9755,
+      "duplicate_of": "CAND_EP036_28",
+      "reason": "Exceeded near-duplicate threshold (0.9755 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP036_23",
+      "rank": 6,
+      "recommended_boundary": "B032 -> B042",
+      "similarity": 0.9373,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9373 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP036_21",
+      "rank": 7,
+      "recommended_boundary": "B032 -> B039",
+      "similarity": 0.9499,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9499 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP036_20",
+      "rank": 10,
+      "recommended_boundary": "B032 -> B038",
+      "similarity": 0.9599,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9599 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP036_19",
+      "rank": 12,
+      "recommended_boundary": "B032 -> B037",
+      "similarity": 0.958,
+      "duplicate_of": "CAND_EP036_22",
+      "reason": "Exceeded near-duplicate threshold (0.9580 >= 0.90)"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "episode_number": 32,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP032_17",
+      "absolute_rubric_score": 9.6,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B030",
+        "end_beat_id": "B036",
+        "start_time": 119.5,
+        "end_time": 154.38,
+        "duration": 34.88,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Silence! Silence!",
+        "opening_character": "CATHERINE",
+        "rationale": "Hysterical screaming demand for submission ('Silence! Silence!')."
+      },
+      "cliffhanger": {
+        "final_quote": "Then let's see how brave you are when it touches your skin!",
+        "final_character": "CATHERINE",
+        "specific_question": "Will Catherine plunge the searing red-hot iron into Juliana's eye, blinding or permanently mutilating her?"
+      },
+      "situational_summary": "In a dungeon, a chained captive taunts her furious tormentor for needing to threaten an imprisoned woman to feel powerful, provoking the woman to plunge a red-hot branding iron toward her eye.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP032_15",
+      "absolute_rubric_score": 9.3,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.5,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.1035,
+      "max_similarity_to_selected": 0.8565,
+      "boundary": {
+        "start_beat_id": "B027",
+        "end_beat_id": "B036",
+        "start_time": 109.4,
+        "end_time": 154.38,
+        "duration": 44.98,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Nothing. Until you have nothing left beneath it.",
+        "opening_character": "JULIANA",
+        "rationale": "Stinging moral teardown ('Nothing. Until you have nothing left beneath it... you have spent your whole life collecting things that make people bow')."
+      },
+      "cliffhanger": {
+        "final_quote": "Then let's see how brave you are when it touches your skin!",
+        "final_character": "CATHERINE",
+        "specific_question": "Will Catherine plunge the searing red-hot iron into Juliana's eye, blinding or permanently mutilating her?"
+      },
+      "situational_summary": "A chained captive pushes her crazed captor past the breaking point, provoking her to plunge a glowing branding iron straight toward her eye.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP032_04",
+      "absolute_rubric_score": 8.7,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0317,
+      "max_similarity_to_selected": 0.8802,
+      "boundary": {
+        "start_beat_id": "B004",
+        "end_beat_id": "B006",
+        "start_time": 16.0,
+        "end_time": 45.5,
+        "duration": 29.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Say goodbye to your mother.",
+        "opening_character": "CATHERINE",
+        "rationale": "High-stakes threat ('Say goodbye to your mother') paired with Juliana's shocking defiance ('Burn it')."
+      },
+      "cliffhanger": {
+        "final_quote": "You still think you are better?!",
+        "final_character": "CATHERINE",
+        "specific_question": "Will Catherine strike Juliana after having her vanity and cruelty directly called out to her face?"
+      },
+      "situational_summary": "Threatened with the destruction of her mother's legacy with a red-hot iron, a chained girl shocks her captor by telling her to burn it all because her cruelty will never erase what was taught.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP032_12",
+      "absolute_rubric_score": 8.4,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.2
+      },
+      "mmr_score": -0.0708,
+      "max_similarity_to_selected": 0.8363,
+      "boundary": {
+        "start_beat_id": "B016",
+        "end_beat_id": "B030",
+        "start_time": 73.3,
+        "end_time": 121.8,
+        "duration": 48.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "I was freed. And I found a man who never asked me what I was worth.",
+        "opening_character": "JULIANA",
+        "rationale": "Intriguing romantic reveal ('I found a man who never asked me what I was worth... Your soldier?')."
+      },
+      "cliffhanger": {
+        "final_quote": "Silence! Silence!",
+        "final_character": "CATHERINE",
+        "specific_question": "Will Catherine bludgeon or brand Juliana right now with the raised poker?"
+      },
+      "situational_summary": "A chained prisoner's calm defense of true love pushes an armed noblewoman into an unhinged rage, ending as the tormentor raises a branding poker to strike.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP032_03",
+      "absolute_rubric_score": 7.5,
+      "subscores": {
+        "hook_score": 1.3,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.1802,
+      "max_similarity_to_selected": 0.8078,
+      "boundary": {
+        "start_beat_id": "B002",
+        "end_beat_id": "B006",
+        "start_time": 3.0,
+        "end_time": 45.5,
+        "duration": 42.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "There it is.",
+        "opening_character": "CATHERINE",
+        "rationale": "Catherine's brief line 'There it is' is cryptic setup rather than an immediate verbal shock."
+      },
+      "cliffhanger": {
+        "final_quote": "You still think you are better?!",
+        "final_character": "CATHERINE",
+        "specific_question": "Will Catherine strike Juliana after having her vanity and cruelty directly called out to her face?"
+      },
+      "situational_summary": "Chained in a dungeon while an opulent noblewoman tortures her by branding her mother's book, a captive girl looks directly into her captor's eyes and tells her that her cruelty makes her inferior.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP032_13",
+      "rank": 6,
+      "recommended_boundary": "B027 -> B033",
+      "similarity": 0.9534,
+      "duplicate_of": "CAND_EP032_15",
+      "reason": "Exceeded near-duplicate threshold (0.9534 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP032_14",
+      "rank": 8,
+      "recommended_boundary": "B027 -> B035",
+      "similarity": 0.9593,
+      "duplicate_of": "CAND_EP032_15",
+      "reason": "Exceeded near-duplicate threshold (0.9593 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP032_05",
+      "rank": 4,
+      "recommended_boundary": "B004 -> B010",
+      "similarity": 0.9699,
+      "duplicate_of": "CAND_EP032_04",
+      "reason": "Exceeded near-duplicate threshold (0.9699 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP032_13",
+      "rank": 6,
+      "recommended_boundary": "B027 -> B033",
+      "similarity": 0.9534,
+      "duplicate_of": "CAND_EP032_15",
+      "reason": "Exceeded near-duplicate threshold (0.9534 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP032_14",
+      "rank": 8,
+      "recommended_boundary": "B027 -> B035",
+      "similarity": 0.9593,
+      "duplicate_of": "CAND_EP032_15",
+      "reason": "Exceeded near-duplicate threshold (0.9593 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP032_05",
+      "rank": 4,
+      "recommended_boundary": "B004 -> B010",
+      "similarity": 0.9699,
+      "duplicate_of": "CAND_EP032_04",
+      "reason": "Exceeded near-duplicate threshold (0.9699 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP032_13",
+      "rank": 6,
+      "recommended_boundary": "B027 -> B033",
+      "similarity": 0.9534,
+      "duplicate_of": "CAND_EP032_15",
+      "reason": "Exceeded near-duplicate threshold (0.9534 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP032_14",
+      "rank": 8,
+      "recommended_boundary": "B027 -> B035",
+      "similarity": 0.9593,
+      "duplicate_of": "CAND_EP032_15",
+      "reason": "Exceeded near-duplicate threshold (0.9593 >= 0.90)"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "episode_number": 45,
+  "total_scored": 11,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP045_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B005",
+      "start_time": 0.0,
+      "end_time": 21.8,
+      "duration": 21.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 clearly establishes the visual premise: a noble man strides down a cathedral aisle toward a woman standing shackled in rustic clothes, instantly grounding the power dynamic, physical setting, and captive status without requiring prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows a powerful man defying surrounding nobles to kneel before a chained peasant woman, release her shackles, and affirm their shared history ('It was always me'). The emotional rescue is self-contained and immediately legible.",
+        "passes_gate": true,
+        "situational_summary": "In front of watching nobles in a cathedral, a powerful nobleman strides over to an imprisoned woman in shackles, frees her bruised wrists, and tearfully reveals his true identity to her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Tearful romantic rescue and shocking mutual recognition beneath heavy social oppression"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the reunion and unmasking/recognition between the male lead and the captive female protagonist."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP045_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 24.5,
+      "duration": 24.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens on a clear, striking visual establishing shot of a man walking past assembled nobles toward a shackled woman in rags, immediately grounding who is present, the setting, and the captive stakes.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and completely legible: a captive woman is released by a man she recognizes, who then drapes an ermine ducal mantle over her shoulders, prompting the explicit realization that her companion is the Duke.",
+        "passes_gate": true,
+        "situational_summary": "A nobleman rescues a shackled woman in rags before a cathedral congregation, frees her, and drapes a ducal mantle over her shoulders, revealing he is the Duke."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cathartic romantic redemption elevated to a shocking aristocratic identity reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Alexander's hidden identity as the Duke to Juliana and clothes her in the ducal mantle."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP045_03",
+      "start_beat_id": "B011",
+      "end_beat_id": "B016",
+      "start_time": 51.8,
+      "end_time": 80.5,
+      "duration": 28.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 immediately establishes a high-stakes face-to-face confrontation with a towering man cornering a woman named Catherine, delivering an explicit lethal accusation ('You poisoned my mother. You tortured my wife.').",
+        "arc_legibility": true,
+        "arc_rationale": "Completely legible standalone conflict: the male lead denounces the antagonist (Catherine) for heinous domestic crimes, turns to the assembled aristocracy, and publicly proclaims the abused woman (Juliana) as his lawful Duchess.",
+        "passes_gate": true,
+        "situational_summary": "A nobleman furiously confronts an antagonist for poisoning his mother and torturing his wife, then turns to the stunned cathedral assembly to proclaim the abused woman as his Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Furious moral reckoning culminating in a triumphant public vindication"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the climactic public vindication and official elevation of Juliana as Duchess before the entire nobility."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP045_04",
+      "start_beat_id": "B011",
+      "end_beat_id": "B017",
+      "start_time": 51.8,
+      "end_time": 83.5,
+      "duration": 31.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 opens on a clear medium confrontation shot with Alexander towering over Catherine and delivering a devastatingly clear accusation: 'You poisoned my mother. You tortured my wife.'",
+        "arc_legibility": true,
+        "arc_rationale": "Fully self-contained: the protagonist confronts the scheming villainess, parades his wife down the aisle, proclaims her Duchess, and cuts to the horrified shock of relatives/abusers witnessing her ascension.",
+        "passes_gate": true,
+        "situational_summary": "After denouncing a woman for abusing his family, a nobleman proudly presents his wife before the nobility as the new Duchess, leaving her stunned family horrified in the pews."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Righteous public retribution and triumphant status inversion over stunned abusers"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Depicts the climactic social reversal and reveal of Juliana's new status to both the nobility and her tormentors."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP045_05",
+      "start_beat_id": "B012",
+      "end_beat_id": "B017",
+      "start_time": 58.2,
+      "end_time": 83.5,
+      "duration": 25.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 opens mid-argument with Catherine screaming 'I didn't know!' and Alexander retorting 'You knew exactly what you were doing!'. Without physical grounding or establishing who they are and what happened, a cold mobile scroller is dropped into an unanchored shouting match without context.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows a noble lord defending the woman he loves, walking her down the aisle, and publicly elevating her to Duchess before a stunned congregation and horrified onlookers.",
+        "passes_gate": false,
+        "situational_summary": "Following an intense confrontation, a duke leads a woman down the church aisle to publicly proclaim her his lawful duchess before stunned onlookers."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant vindication and dramatic public elevation"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the climactic status elevation where Juliana is publicly declared Duchess of Ashburton before the entire nobility."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP045_06",
+      "start_beat_id": "B013",
+      "end_beat_id": "B017",
+      "start_time": 62.5,
+      "end_time": 83.5,
+      "duration": 21.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 begins mid-speech with Alexander turning to an unseen crowd declaring 'You hurt the two women who mattered most to me'. It lacks an initial establishing shot of who he is addressing and relies on immediate prior context to understand the accusation.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip demonstrates a clear dramatic arc as Alexander announces his marriage and parades his new Duchess in front of shocked aristocrats.",
+        "passes_gate": false,
+        "situational_summary": "A nobleman publicly denounces a rival before parading his newly revealed wife down the cathedral aisle as the true duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Vengeful public revelation and romantic triumph"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the key episode reversal and public recognition of Juliana as the lawful Duchess."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP045_07",
+      "start_beat_id": "B019",
+      "end_beat_id": "B022",
+      "start_time": 86.5,
+      "end_time": 108.8,
+      "duration": 22.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 opens with a powerful physical and visual hook: cathedral doors violently slamming open with blinding daylight and mist as a dark-vested Bishop and armed Crown officer enter shouting 'No one will bow yet!', immediately establishing setting, intrusion, and authority.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: church and state authorities march in with royal seals to invalidate the marriage, culminating in a drawn blade against the couple.",
+        "passes_gate": true,
+        "situational_summary": "An armed priest and royal officer storm a cathedral wedding with an official royal seal to declare the bride's new title legally invalid."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Authoritarian crisis and impending martial confrontation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Presents the immediate inciting disruption/crisis invalidating the wedding ceremony without resolving it."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP045_08",
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "start_time": 86.5,
+      "end_time": 113.2,
+      "duration": 26.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 opens on a clear visual establishing sequence: heavy cathedral doors crashing open into mist and daylight as a Bishop and armed guard interrupt the congregation, instantly legible to a cold viewer within two seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative stakes and conflict are unmistakable from the dialogue and staging: royal and religious authorities proclaim the wedding illegal and strip the bride of her title and status.",
+        "passes_gate": true,
+        "situational_summary": "A grand cathedral celebration is abruptly halted by an armed bishop who produces royal documents proclaiming that the bride is not a lawful wife or duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Stunning public delegitimization and existential threat"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Presents the inciting crisis and legal denial of marriage that sets off the central conflict of the arc."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP045_09",
+      "start_beat_id": "B019",
+      "end_beat_id": "B024",
+      "start_time": 86.5,
+      "end_time": 117.5,
+      "duration": 31.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 opens on a clear visual establishing shot: massive cathedral doors slam open with an echoing thud, revealing a bishop in dark vestments and an armed Crown officer shouting 'No one will bow yet!' while a bride and groom turn in alarm.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: the High Priest marches down the aisle with an official royal proclamation declaring the wedding uncertified and Juliana's status as lawful wife invalid, while Alexander draws close to shield his terrified bride from armed confrontation.",
+        "passes_gate": true,
+        "situational_summary": "During a lavish wedding, a High Priest and armed Crown officer storm the cathedral with a royal proclamation to declare the marriage invalid and strip the new bride of her ducal title."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Public humiliation and violent institutional nullification of marriage"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the dramatic disruption of the wedding and the invalidation of the marriage title; prime inciting disruption for cold mobile prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP045_10",
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 86.5,
+      "end_time": 121.75,
+      "duration": 35.25,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 provides an immediate high-impact physical establishing beat: cathedral doors violently bursting open to daylight and mist, a dark-vested bishop entering with an armed officer to commandingly halt the ceremony.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear, self-contained multi-party dynamic: the church/crown authority invalidates Juliana's marriage, Alexander steps in front to physically defend her, and a veiled rival (Catherine) relishes the public ruin of her competitor with a cold, triumphant smile.",
+        "passes_gate": true,
+        "situational_summary": "An armed High Priest barges into a cathedral to officially invalidate a royal wedding, terrifying the bride while a veiled rival smiles triumphantly at her downfall."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Catastrophic public betrayal amplified by a rival's vindictive triumph"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes the wedding interruption inciting incident and sets up the central rivalry without spoiling later resolution."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP045_11",
+      "start_beat_id": "B020",
+      "end_beat_id": "B025",
+      "start_time": 93.0,
+      "end_time": 121.75,
+      "duration": 28.75,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 starts mid-motion without establishing the setting or breach: a priest is already walking down an aisle holding a wax-sealed parchment while delivering a dense legal exposition line ('This ceremony was performed without a Crown marriage license...'). It lacks the visual anchor of the physical cathedral door breach seen in B019, making it disorienting in the first 1-2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over its full duration, the dialogue makes clear that the marriage is being legally overturned by the Crown, Alexander tries to protect Juliana, and Catherine smiles triumphantly at the reversal.",
+        "passes_gate": false,
+        "situational_summary": "A High Priest enters with royal paperwork to announce that a ducal marriage ceremony was performed illegally without Crown sanction."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe public humiliation and status invalidation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the legal invalidation of the marriage, serving as the status quo disruption."
+      }
+    }
+  ]
+}

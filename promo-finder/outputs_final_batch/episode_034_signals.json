@@ -1,0 +1,874 @@
+{
+  "episode_number": 34,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "High auditory shock: the judge directly levels severe, life-or-death charges of witchcraft and poisoning against the protagonist.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual scroll-stop potential: grand high-wide courtroom reveal showing an imprisoned lady in the dock facing armed bailiffs and a presiding judge.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct interrogation over possessing incriminating contraband.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up insert of a charred botanical grimoire being firmly tapped on the court bench establishes an occult/forbidden investigation on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A single blunt confession ('No'), but carries low context as an isolated opening hook.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle framing of a defiant noblewoman in a prisoner's dock establishes her predicament cleanly without audio.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Continuation of courtroom inquiry with moderate stakes ('Do you deny using its remedies?').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard medium shot of an elevated judge peering down critically.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A single monosyllabic denial without opening narrative context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up of a bruised cheekbone combined with resolute defiance visually signals recent trauma and peril.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of an aristocratic villain turning with a malicious smirk, establishing an antagonist without physical action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A sharp, accusatory escalation explicitly pinning the capital charge of practicing forbidden arts.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a judge leaning forward with grim conviction.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Poignant moral defiance challenging the court's framing ('I admit to healing the sick').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a protagonist looking upward with luminous, dignified expression.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Loud, commanding shout ('Silence!') paired with an echoing audio burst.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High-urgency physical action: the judge furiously raises and slams his wooden gavel with sudden force.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Courtroom pivot summoning a key inside witness who served beside the accused.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tracking shot from an accusatory outstretched arm down to a trembling maid weeping in shame in open court.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Direct procedural question asking a witness to confirm the charges.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard conversational medium close-up of a seated judge leaning forward.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Urgent, desperate plea across the courtroom ('Tell the truth') demanding loyalty.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Over-the-shoulder framing focusing on Lady Juliana bound in heavy iron cuffs establishes high physical jeopardy.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A single affirmative betrayal ('Yes') that requires preceding context to fully grasp.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme emotional friction: close-up of a key witness breaking down in tears with eyes squeezed shut in overwhelming guilt.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up capturing a fleeting micro-expression of betrayal and hurt across Juliana's face before returning to stoic composure.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Routine judicial questioning ('What did you see?').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Generic profile shot of a magistrate writing with a quill in a court ledger.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Testimonial confession uncovering occult materials ('She used herbs... and her mother's book').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up of the maid clutching both hands to her chest in palpable anguish.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Provocative leading interrogation regarding occult activity ('Did she draw strange markings?').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of an authority figure pointing an accusatory hand.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Chilling witness testimony detailing mysterious bedside herbal rituals.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a tear-streaked face freezing and hesitating under high scrutiny.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp incrimination suggesting forbidden incantations ('did she speak words you could not understand?').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium shot of the judge pointing his index finger with piercing, dramatic intensity.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A single tearful confirmation ('Yes') whose full weight relies on the prior question.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of a witness weeping uncontrollably with face contorted in agony, conveying immense emotional stakes on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive multi-party confrontation: antagonist declares ritual proven, prisoner roars in fury, and judge bellows over gavel strikes.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum visual drama: cuffed prisoner violently slams chains on the railing while the judge repeatedly hammers his gavel amid theatrical posturing.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Procedural declaration signaling more prosecution witnesses.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of the smug lord gesturing with composed theatricality toward the gallery.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Public allegation linking the prisoner's brew to a victim's household.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of a visibly nervous townsman anxiously wringing his hat in the pews.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A single prompt word ('And?') offering zero standalone auditory hook.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard close-up of a glare from the bench.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Stark, damning testimony alleging physical poisoning ('She became violently ill').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a witness's tense, strained facial expression.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Loud, venomous public outcry accusing the defendant of severely sickening a child with herbal concoctions.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Elderly spectator abruptly stands up from the pews and thrusts an accusatory finger across the crowded hall.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Intimate, mocking challenge spoken right to the defendant's face ('She calls it healing').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tense profile two-shot of an arrogant lord looming over an imprisoned noblewoman looking directly into his eyes.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-decibel mob incitement branding her actions as outright poisoning to the entire gallery.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Theatrical turn as the lord aggressively plays to the crowd with sweeping arm gestures.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Direct rebuttal inquiry from the defendant demanding factual specifics.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of the protagonist staring down the gallery with sharp focus.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single dismissive word ('Irrelevant') lacking standalone intrigue.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle close-up capturing an arrogant look down over the shoulder.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp, aggressive verbal pushback against corrupt dismissals ('It is not irrelevant!').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Juliana gritting her teeth in visible anger.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Rousing thematic manifesto shouted to the courtroom: 'Herbs are not magic! They are medicine!'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Striking visual composition: chained heroine stands tall against window backlighting, holding the balustrade to address the hall.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Direct procedural confirmation request from the bench.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium shot of a seated magistrate with steepled fingers.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single word ('Yes') with no standalone narrative drive.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard neutral close-up looking forward.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Legalistic query regarding unlicensed practice.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Ordinary medium shot with an open hand gesture.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Damning systemic accusation against the establishment ('There was no physician willing to help them').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up showing earnest head shake and principled conviction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Quietly powerful moral justification ('So I helped them').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Steady, unwavering gaze in close-up.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B038",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Cynical framing of her principled stance as unrepentant defiance.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of antagonist sneering toward the bench.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B039",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Dire judicial ultimatum warning her to renounce her practices to save her life.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle shot of the judge placing a solemn hand over the law book.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B040",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up insert of a burned grimoire on the green court table creates an immediate, highly legible occult curiosity gap on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B041",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A resolute, defiant monosyllabic refusal ('No.') delivered directly in the face of judgment.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of Lady Juliana unhesitatingly lifting her chin provides sharp emotional friction and defiant posture legible on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B042",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A brief cautionary warning ('Think carefully') that adds tension but lacks explosive auditory hook value.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of the Judge furrowing his brow indicates sternness but remains conventional character framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B043",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A curt, steady response ('I have') that continues the exchange without standalone shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle close-up gazing out arched windows creates atmospheric mood rather than an immediate scroll-stopping hook.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B044",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Explicit, life-or-death accusation of knowingly practicing witchcraft delivered with lethal severity.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Aggressive, pointed finger across the judicial bench visually communicates accusation and legal peril instantly on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B045",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A fatalistic, chilling acceptance of execution or condemnation ('Then let it be').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of unflinching acceptance provides strong emotional resolve and dramatic gravitas without audio.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B046",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "A maid sobbing uncontrollably into a stained apron conveys acute tragedy and impending doom legibly on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B047",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A stirring, high-stakes moral stand accusing the powerful of fearing and villainizing healing.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Camera pushing into Juliana's unwavering face as she addresses the hall creates a commanding visual focal point.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B048",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Smirk instantly curdling into a malevolent scowl visually flags thwarted malice clearly without sound.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B049",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A furious, loud shout of 'Enough!' that snaps courtroom decorum with sudden auditory force.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Violent close-up kinetic impact of the gavel slamming into the sound block provides an explosive, immediate scroll-stopping shock.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B050",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Formal naming of the accused ('Lady Juliana Ashcroft...') that serves as procedural setup rather than a shocking revelation.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle medium shot of the imposing Judge towering over the silent court establishes strong hierarchical authority visually.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B051",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Solemn raised hand pronouncing a death or sentencing verdict over the solitary prisoner's dock communicates terminal climax legibly on mute.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Lady Juliana respond to the catastrophic formal charges of witchcraft and poisoning?",
+      "stakes_importance": "Moderate \u2014 establishes the life-or-death legal predicament and sets the trial into motion.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana deny owning the forbidden scorched grimoire or openly seal her guilt before the bench?",
+      "stakes_importance": "Moderate \u2014 the immediate physical evidence forces an urgent, pivotal plea.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "What punishment or trap will the Judge spring next now that she has admitted ownership?",
+      "stakes_importance": "Low \u2014 her blunt admission resolves the grimoire ownership question immediately.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana claim ignorance of using the book's remedies?",
+      "stakes_importance": "Low \u2014 continuing a direct interrogation pattern with an expected answer.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will the court react to her unyielding confession of using the remedies?",
+      "stakes_importance": "Low \u2014 answers the Judge's line of questioning without creating a sudden narrative shock.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "What malicious maneuver is the aristocratic Lord preparing to orchestrate against Juliana?",
+      "stakes_importance": "Low \u2014 a brief silent reaction shot signaling antagonist involvement.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana cave to the Judge's accusation of practicing forbidden dark arts or defiantly reframe her actions?",
+      "stakes_importance": "Moderate \u2014 a direct ideological clash between legal corruption and Juliana's integrity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the authoritarian Judge punish Juliana's brazen moral defiance before the assembly?",
+      "stakes_importance": "High \u2014 marks a powerful moment of moral resistance, inviting an immediate judicial crackdown.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "What formal decree or reprimand follows the Judge's violent gavel strike?",
+      "stakes_importance": "Low \u2014 standard courtroom reprimand that resets speaking order.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Prudence betray her former mistress under pressure from the court?",
+      "stakes_importance": "Moderate \u2014 introduces a vulnerable key witness whose loyalty is in grave doubt.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Prudence testify against Juliana under direct pressure from the Judge?",
+      "stakes_importance": "Moderate \u2014 suspense hinges on whether the maid will commit outright betrayal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana's desperate plea compel Prudence to tell the truth or push her to break down in false confession?",
+      "stakes_importance": "High \u2014 intense emotional collision between accused benefactor and terrified servant.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "What damaging details of Juliana's private treatments will Prudence disclose to convict her?",
+      "stakes_importance": "Moderate \u2014 confirms witness participation against Juliana.",
+      "defuses_tension": true,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana's composure crack as her former companion turns state's witness against her?",
+      "stakes_importance": "Low \u2014 internal emotional beat without forward narrative momentum.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 2,
+      "specific_question": "What specific acts will the maid claim she witnessed?",
+      "stakes_importance": "Low \u2014 routine courtroom prompt advancing testimony.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the prosecution twist the mention of her mother's book into proof of hereditary witchcraft?",
+      "stakes_importance": "Low \u2014 mild evidentiary progression without sudden peril.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Prudence fabricate occult symbols or defend Juliana's natural remedies?",
+      "stakes_importance": "Moderate \u2014 a leading question designed to manufacture capital witchery charges.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the court accept herbs around a bed as benign healing or occult sorcery?",
+      "stakes_importance": "Low \u2014 mundane domestic action that temporarily hedges the Judge's trap.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Prudence lie and confirm demonic incantations, sealing Juliana's execution?",
+      "stakes_importance": "High \u2014 the definitive threshold question separating healing from condemned witchcraft.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will the court capitalize on Prudence's devastating lie to sentence Juliana to death?",
+      "stakes_importance": "High \u2014 total betrayal from an intimate ally under coercion, shattering Juliana's primary line of defense.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana's explosive outburst in the dock invite immediate physical restraint or instant sentencing?",
+      "stakes_importance": "High \u2014 intense physical and verbal clash with the magistrate actively suppressing the accused.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "What malicious new accusers has the Lord bribed or prepared to destroy Juliana?",
+      "stakes_importance": "Moderate \u2014 promises an escalating parade of hostile perjurers.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 2,
+      "specific_question": "What fatal consequence did the townsman's wife suffer from Juliana's medicine?",
+      "stakes_importance": "Low \u2014 an interrupted sentence that pauses mid-accusation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 2,
+      "specific_question": "What was the outcome of the townsman's wife taking the medicine?",
+      "stakes_importance": "Low \u2014 single-word prompt bridging into the prepared accusation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana defend against the accusation that her medicine caused violent bodily harm?",
+      "stakes_importance": "Moderate \u2014 formalizes bodily injury caused by her treatments in the court record.",
+      "defuses_tension": true,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 4,
+      "specific_question": "How can Juliana combat a coordinated mob of accusers turning the entire public gallery against her?",
+      "stakes_importance": "High \u2014 public condemnation reaches fever pitch as multiple townspeople join the mob lynching.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 3,
+      "specific_question": "What lethal retort does the Lord intend to unleash as he corners Juliana at the dock?",
+      "stakes_importance": "Moderate \u2014 intimate psychological intimidation building up to a dramatic denunciation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Juliana reverse the Lord's damning public branding of her as a mass poisoner before the assembly demands her death?",
+      "stakes_importance": "High \u2014 catastrophic public condemnation orchestrated by the true antagonist, leaving her completely isolated.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana force the accusers to expose the fact that their conditions were preexisting?",
+      "stakes_importance": "Moderate \u2014 Juliana mounts a sharp counter-interrogation to expose the fraud.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana allow the Lord to dismiss her medical cross-examination?",
+      "stakes_importance": "Low \u2014 cold refusal that stifles the inquiry momentarily.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Juliana dismantle the Lord's bad-faith dismissal in open court?",
+      "stakes_importance": "Moderate \u2014 a fierce refusal to be silenced by aristocratic arrogance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana's impassioned defense of science and herbalism persuade any souls in the hostile court?",
+      "stakes_importance": "High \u2014 central thematic declaration where the protagonist challenges systemic medieval dogma.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana walk into the legal trap by admitting she administered the remedies?",
+      "stakes_importance": "Low \u2014 narrow legal maneuvering on an already admitted fact.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 1,
+      "specific_question": "What technical statute will the Judge cite against her admission?",
+      "stakes_importance": "Low \u2014 repeated confirmation of known facts.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 2,
+      "specific_question": "How can Juliana justify practicing medicine outside guild and church sanction?",
+      "stakes_importance": "Low \u2014 legalistic trap closing in on bureaucratic technicalities.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will her indictment of the corrupt, negligent medical establishment shame the magistrate?",
+      "stakes_importance": "Moderate \u2014 exposes the institutional failure and hypocrisy of the nobility.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the corrupt court punish Juliana for choosing moral compassion over legal compliance?",
+      "stakes_importance": "High \u2014 heroic crystallization of her character as an unrepentant savior of the neglected poor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B038",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the Lord's observation that she refuses to repent force the Judge into an immediate death sentence?",
+      "stakes_importance": "Moderate \u2014 antagonist nudging the magistrate toward the executioner's block.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B039",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana renounce her life's healing work to save her neck, or choose execution over submission?",
+      "stakes_importance": "High \u2014 ultimate life-or-death ultimatum placed upon the protagonist's soul and survival.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B040",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana surrender her mother's sacred grimoire to be burned, or face the flames herself?",
+      "stakes_importance": "Moderate \u2014 evocative symbolic lingering shot highlighting the physical object that determines her fate.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B041",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the Judge react to Juliana's immediate and unyielding refusal to renounce her work?",
+      "stakes_importance": "High \u2014 total public defiance in a court of law with fatal consequences.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B042",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana reconsider her refusal when warned with ominous finality by the Judge?",
+      "stakes_importance": "Medium \u2014 a tense standoff beat offering Juliana one last chance to back down.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B043",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the court immediately condemn Juliana for openly reaffirming her refusal?",
+      "stakes_importance": "High \u2014 confirms her premeditated resolve to face martyrdom rather than bend.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B044",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana retract her statement knowing her defiance will be ruled as witchcraft?",
+      "stakes_importance": "High \u2014 an explicit legal trap where refusal equates to a death sentence for witchcraft.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B045",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will the Judge immediately sentence Juliana to death or torture for voluntarily embracing the witchcraft accusation?",
+      "stakes_importance": "High \u2014 protagonist accepts extreme peril with chilling stoicism, daring the court to punish her.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B046",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Prudence or anyone else intervene to prevent Juliana's imminent condemnation?",
+      "stakes_importance": "Medium \u2014 highlights tragic emotional fallout from an observer's perspective, but defuses the central verbal duel.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B047",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the corrupt court retaliate after Juliana openly exposes their fear of her healing power?",
+      "stakes_importance": "High \u2014 moral indictment of the entire ruling authority spoken publicly by the accused.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B048",
+      "curiosity_gap_score": 3,
+      "specific_question": "What vicious retaliation will the scowling Lord unleash in response to Juliana's public condemnation?",
+      "stakes_importance": "Medium \u2014 establishes the antagonist's personal fury, teasing his next malicious move.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B049",
+      "curiosity_gap_score": 4,
+      "specific_question": "What immediate, brutal punishment will the enraged Judge decree after violently silencing the courtroom?",
+      "stakes_importance": "High \u2014 explosive auditory rupture marking the loss of judicial patience and the shift to raw retribution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B050",
+      "curiosity_gap_score": 5,
+      "specific_question": "What terrible judgment and penalty is the Judge about to pronounce upon Lady Juliana Ashcroft?",
+      "stakes_importance": "High \u2014 cutting directly on the Judge speaking her formal name leaves the verdict in pure suspension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B051",
+      "curiosity_gap_score": 5,
+      "specific_question": "What irreversible sentence will fall upon Juliana as the Judge lowers his hand over her unbroken figure?",
+      "stakes_importance": "High \u2014 the ultimate cliffhanger climax with the hand poised mid-judgment before the screen cuts to black.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "episode_number": 47,
+  "total_scored": 11,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP047_01",
+      "start_beat_id": "B012",
+      "end_beat_id": "B017",
+      "start_time": 56.8,
+      "end_time": 78.8,
+      "duration": 22.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B012 establishes the physical setting and core interpersonal dynamic immediately with a medium shot of Lady Ashbourne leaning on her cane and glaring down at Catherine kneeling in the mud while delivering a sharp confrontation.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: Lady Ashbourne and Alexander condemn Catherine for poisoning/treachery and order guard Vaughn to banish her from the estate perimeter.",
+        "passes_gate": true,
+        "situational_summary": "A disgraced woman kneeling in the mud begs for mercy as a noble matriarch and lord condemn her for poisoning and order guards to exile her from the estate."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe public condemnation and merciless banishment"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Catherine was directly responsible for poisoning Lady Ashbourne and has been disowned by London society."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP047_02",
+      "start_beat_id": "B012",
+      "end_beat_id": "B019",
+      "start_time": 56.8,
+      "end_time": 83.5,
+      "duration": 26.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B012 clearly anchors the scene in under 2 seconds: Lady Ashbourne towers with a cane over Catherine kneeling in the courtyard mud with an explicit hostile challenge.",
+        "arc_legibility": true,
+        "arc_rationale": "The dramatic progression is fully legible from the excerpt: an impending violent expulsion of a weeping traitor is abruptly interrupted and frozen by Juliana's authoritative command.",
+        "passes_gate": true,
+        "situational_summary": "Just as a noble family orders their guards to cast out a pleading traitor into the road, a poised woman steps forward and commands them to stop."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "High-stakes confrontation turning into an abrupt, shocking cliffhanger intervention"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Catherine's poisoning of Lady Ashbourne and Juliana's unexpected intervention."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP047_03",
+      "start_beat_id": "B013",
+      "end_beat_id": "B019",
+      "start_time": 60.0,
+      "end_time": 83.5,
+      "duration": 23.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 begins on a high-angle shot of Catherine weeping in the mud crying 'I have nowhere to go, Your Grace' without showing who 'Your Grace' is or visually establishing the spatial/interpersonal confrontation until subsequent beats. Lacks immediate standalone anchor in Beat 0.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the entire clip, the stakes and confrontation between the Ashbournes, Catherine, and Juliana's interruption are clear.",
+        "passes_gate": false,
+        "situational_summary": "A disowned woman weeping in the mud faces exile for poisoning a noble until an unexpected rival halts the guards."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate plea leading to dramatic intervention"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes Catherine's poisoning treason and Juliana's sudden command to halt her expulsion."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP047_04",
+      "start_beat_id": "B020",
+      "end_beat_id": "B026",
+      "start_time": 83.5,
+      "end_time": 104.8,
+      "duration": 21.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 starts mid-argument on Alexander turning in disbelief shouting 'Juliana, she tried to destroy you!'. The cold mobile viewer has no visual or situational anchor for who 'she' is or what the setting is without relying on subsequent beats.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is clear once Juliana presents the servant's apron and keys, demanding that Catherine serve as a scullery maid to earn shelter.",
+        "passes_gate": false,
+        "situational_summary": "A noblewoman refuses to turn away a beggar enemy, offering her shelter on the humiliating condition that she work as a scullery maid."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cold moral dominance and devastating social humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's calculated retribution scheme: forcing her former rival to serve as a scullery maid before the commoners."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP047_05",
+      "start_beat_id": "B020",
+      "end_beat_id": "B027",
+      "start_time": 83.5,
+      "end_time": 108.5,
+      "duration": 25.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 opens mid-reaction on Alexander turning in disbelief shouting 'Juliana, she tried to destroy you!'. A cold scroller without audio or prior lore cannot identify who 'she' is, what the physical environment represents, or who is present before Juliana answers.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full duration, the core dynamic becomes clear: Juliana confronts an exposed impostor (Catherine) and reduces her to a scullery maid before gathered retainers.",
+        "passes_gate": false,
+        "situational_summary": "After an exposed rival tries to seek shelter, the lady of the manor forces her to accept a role as a scullery maid."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Public humiliation and triumphant dominance over an exposed rival"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Shows the climactic reversal where Catherine's deception as an impostor is completely punished and subjugated."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP047_06",
+      "start_beat_id": "B020",
+      "end_beat_id": "B030",
+      "start_time": 83.5,
+      "end_time": 118.5,
+      "duration": 35.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 opens on a reactive dialogue burst from Alexander ('Juliana, she tried to destroy you!') without a visual anchor establishing who 'she' refers to or the physical spatial arrangement of the room.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained master-servant power struggle where Juliana lays down escalating harsh labor terms to a disgraced rival under threat of total expulsion.",
+        "passes_gate": false,
+        "situational_summary": "A noblewoman confronts a disgraced impostor, imposing harsh domestic servitude under threat of immediate expulsion."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold, calculated subjugation and escalating punitive terms"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Depicts the aftermath and punishment of Catherine's impostor plot being dismantled."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP047_07",
+      "start_beat_id": "B020",
+      "end_beat_id": "B032",
+      "start_time": 83.5,
+      "end_time": 127.5,
+      "duration": 44.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 relies on an ungrounded third-person accusation ('she tried to destroy you!') directed at an off-camera target, failing the opening beat legibility rule against mid-sentence reactions.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly builds from confrontation to a stark, high-stakes moral dilemma: submit to public humiliation as a maid or starve in exile.",
+        "passes_gate": false,
+        "situational_summary": "A victorious woman offers her disgraced former rival an ultimatum between humiliating servant labor and total exile into starvation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak dramatic retribution and crushing public humiliation turning into a survival ultimatum"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reaches the peak resolution of Catherine's downfall where she is stripped of rank and forced to choose between servant work or exile."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP047_08",
+      "start_beat_id": "B023",
+      "end_beat_id": "B032",
+      "start_time": 91.0,
+      "end_time": 127.5,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B023 opens on a clear, grounded physical action: Juliana picks up a rough servant's apron and heavy keys from a bench, turning directly to confront Catherine with 'If you seek shelter in this house, Catherine, you earn it.' The visual props and physical staging immediately ground the status dynamic in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative conflict is perfectly self-contained: Juliana presents servant garments, names Catherine as an exposed impostor before estate retainers, and concludes on a clean, visceral ultimatum: 'Take the apron, or leave the county.'",
+        "passes_gate": true,
+        "situational_summary": "Holding out a servant's apron and keys, a lady presents a disgraced rival with an ultimatum: earn shelter by scrubbing floors as a scullery maid or be cast out of the county."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating public humiliation and unyielding moral retribution"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the final downfall and subjugation of Catherine following the exposure of her imposture."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP047_09",
+      "start_beat_id": "B025",
+      "end_beat_id": "B031",
+      "start_time": 98.8,
+      "end_time": 121.8,
+      "duration": 23.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B025 opens on a tight close-up delivering a sentence fragment ('As a scullery maid.') completing a prior dialogue exchange not shown. A cold scroller lacks visual grounding of the setting, the presence of onlookers, or who is being addressed without prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue rapidly establishes an unmasked impostor being demoted to servant status under public scrutiny, culminating in Catherine's direct acknowledgement of her humiliation.",
+        "passes_gate": false,
+        "situational_summary": "A triumphant woman publicly forces an exposed female impostor to accept a scullery maid's role under threat of total expulsion."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Public demotion and bitter humiliation of an unmasked rival"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the reversal/unmasking of Catherine as an impostor and her punitive demotion to servant rank."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP047_10",
+      "start_beat_id": "B025",
+      "end_beat_id": "B032",
+      "start_time": 98.8,
+      "end_time": 127.5,
+      "duration": 28.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B025 opens mid-dialogue on a close-up delivering the tail end of an off-screen sentence ('As a scullery maid.'). Without establishing the setting, the crowd, or the immediate physical context, a cold viewer cannot parse the opening 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly develops from the punishment terms to Catherine's tearful reaction, ending on a crisp binary ultimatum: take the apron or leave the county.",
+        "passes_gate": false,
+        "situational_summary": "A lady of the manor forces a disgraced impostor to choose between degrading labor as a scullery maid or total exile."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Crushing public retribution and high-stakes survival ultimatum"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes Catherine's identity fraud and Juliana's formal terms of subjugation/ultimatum."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP047_11",
+      "start_beat_id": "B027",
+      "end_beat_id": "B032",
+      "start_time": 104.8,
+      "end_time": 127.5,
+      "duration": 22.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B027 opens with a clear dramatic profile two-shot of Juliana standing inches away from Catherine, dominating the confrontation while delivering a fully self-contained accusatory line ('You will scrub the floors you walked on as an impostor.'). Grounds the setting, interpersonal dynamic, and conflict immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict between victor and exposed impostor, escalating through concrete terms of punishment to a lethal dilemma: take the servant's apron or face complete exile.",
+        "passes_gate": true,
+        "situational_summary": "Confronting an unmasked impostor, a dominant woman forces her rival to choose between public subjugation as a maid or exile from the county."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Ruthless moral reckoning transformed into a life-altering ultimatum"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Catherine's exposure as an impostor and the climax of her public humiliation."
+      }
+    }
+  ]
+}

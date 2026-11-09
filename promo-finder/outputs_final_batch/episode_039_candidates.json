@@ -1,0 +1,280 @@
+{
+  "episode_number": 39,
+  "total_candidates": 5,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP039_01",
+      "episode": "Episode 39",
+      "episode_number": 39,
+      "start_beat_id": "B010",
+      "end_beat_id": "B014",
+      "start_time": 29.6,
+      "end_time": 50.0,
+      "duration": 20.4,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Sentry's sharp 'Stop!' creates minor auditory tension, but is immediately undercut by mundane cover dialogue ('Firewood for the kitchens, sir').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Sentry physically stepping forward with an outstretched gloved hand creates clear, legible confrontation at the entrance barrier.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B014",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who is the Duke, and what grand operation will he unleash now that the road is cleared?",
+        "stakes_importance": "High \u2014 signals the arrival of the mastermind behind the assault.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unexpected_arrival",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 39,
+          "start_beat_id": "B010",
+          "end_beat_id": "B014",
+          "start_time": 29.6,
+          "end_time": 50.0,
+          "duration": 20.4,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP039_02",
+      "episode": "Episode 39",
+      "episode_number": 39,
+      "start_beat_id": "B019",
+      "end_beat_id": "B024",
+      "start_time": 68.5,
+      "end_time": 95.0,
+      "duration": 26.5,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Powerful visual emergence: heavy barn doors swing open into a snowy landscape as the duke steps into the light in gold-embroidered finery.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B024",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who stole Alexander's house during his three-year absence, and how will he take it back?",
+        "stakes_importance": "High \u2014 declaration of open war to reclaim his usurped birthright and estate.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 39,
+          "start_beat_id": "B019",
+          "end_beat_id": "B024",
+          "start_time": 68.5,
+          "end_time": 95.0,
+          "duration": 26.5,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP039_03",
+      "episode": "Episode 39",
+      "episode_number": 39,
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 68.5,
+      "end_time": 98.41,
+      "duration": 29.91,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Powerful visual emergence: heavy barn doors swing open into a snowy landscape as the duke steps into the light in gold-embroidered finery.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who is Alexander's wife, what is happening to her in that chapel, and will he arrive in time to stop it?",
+        "stakes_importance": "High \u2014 maximum emotional urgency combining marital betrayal, forced wedding peril, and lethal vengeance right at the cut to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 39,
+          "start_beat_id": "B019",
+          "end_beat_id": "B025",
+          "start_time": 68.5,
+          "end_time": 98.41,
+          "duration": 29.91,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP039_04",
+      "episode": "Episode 39",
+      "episode_number": 39,
+      "start_beat_id": "B021",
+      "end_beat_id": "B025",
+      "start_time": 74.8,
+      "end_time": 98.41,
+      "duration": 23.61,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Single honorific 'Your Grace' establishes rank but offers minimal standalone dramatic hook.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Strong visual status display: armed soldier dropping to his knee in the snow before the protagonist instantly signals sovereign authority.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who is Alexander's wife, what is happening to her in that chapel, and will he arrive in time to stop it?",
+        "stakes_importance": "High \u2014 maximum emotional urgency combining marital betrayal, forced wedding peril, and lethal vengeance right at the cut to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 39,
+          "start_beat_id": "B021",
+          "end_beat_id": "B025",
+          "start_time": 74.8,
+          "end_time": 98.41,
+          "duration": 23.61,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP039_05",
+      "episode": "Episode 39",
+      "episode_number": 39,
+      "start_beat_id": "B022",
+      "end_beat_id": "B025",
+      "start_time": 77.8,
+      "end_time": 98.41,
+      "duration": 20.61,
+      "hook_signal": {
+        "beat_id": "B022",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Decisive military directive ('Secure the chapel') signals active assault and immediate narrative stakes.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up profile with pluming winter breath and steel-hardened eyes conveys palpable cold-weather intensity.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who is Alexander's wife, what is happening to her in that chapel, and will he arrive in time to stop it?",
+        "stakes_importance": "High \u2014 maximum emotional urgency combining marital betrayal, forced wedding peril, and lethal vengeance right at the cut to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 39,
+          "start_beat_id": "B022",
+          "end_beat_id": "B025",
+          "start_time": 77.8,
+          "end_time": 98.41,
+          "duration": 20.61,
+          "beat_ids": [
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

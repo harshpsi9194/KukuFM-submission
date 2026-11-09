@@ -1,0 +1,54 @@
+{
+  "episode_number": 40,
+  "total_ranked": 3,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP040_03",
+      "absolute_score": 6.6,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 1.6,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.5
+      },
+      "rank_justification": "The striking silhouetted doorway visual provides an intriguing atmospheric opening, though it lacks an immediate visceral shock. The narrative steadily builds through admiring spectator lines into an illicit identity reveal at the altar, cutting on peak conspiratorial triumph.",
+      "duration": 27.58,
+      "start_beat_id": "B020",
+      "end_beat_id": "B025",
+      "emotional_salience_score": 3,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP040_04",
+      "absolute_score": 6.4,
+      "subscores": {
+        "hook_score": 1.3,
+        "tension_score": 1.5,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.5
+      },
+      "rank_justification": "The high-angle tracking shot of the cathedral veil establishes opulent visual scale without urgent dramatic stakes in the first 2 seconds. It moves quickly into the couple's exchange and delivers a punchy conspiratorial cliffhanger revealing Rupert's improbable rise.",
+      "duration": 24.28,
+      "start_beat_id": "B021",
+      "end_beat_id": "B025",
+      "emotional_salience_score": 3,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP040_01",
+      "absolute_score": 6.2,
+      "subscores": {
+        "hook_score": 1.2,
+        "tension_score": 1.4,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.5
+      },
+      "rank_justification": "Opening with doors parting down an empty aisle creates slow, conventional bridal pacing that risks thumb-scroller drop-off before dialogue starts. Tension stays relatively flat until the final beat delivers an engaging, unresolved twist on their aristocratic conspiracy.",
+      "duration": 31.58,
+      "start_beat_id": "B018",
+      "end_beat_id": "B025",
+      "emotional_salience_score": 3,
+      "rank": 3
+    }
+  ]
+}

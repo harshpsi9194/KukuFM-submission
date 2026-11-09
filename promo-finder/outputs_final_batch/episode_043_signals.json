@@ -1,0 +1,636 @@
+{
+  "episode_number": 43,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes accusatory shout ('This man is an imposter! Arrest him!') immediately creates an urgent crisis in audio.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Dramatic physical agitation as Rupert lunges forward and furiously points toward armed guards, instantly legible without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Striking symmetrical framing of an unyielding protagonist flanked by armed guards, instantly signaling power and genre.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Urgent repeated command to arrest an opponent injects immediate conflict.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of a furious face with bulging temple veins provides immediate visual tension.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A flat three-word mutiny/refusal ('We will not.') delivers an instant authoritative shock.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Guard Captain bringing his ceremonial sword upright to attention signals defiance and armed standoff.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Desperate claim of nobility ('I am Lord Rupert Ashburn! Your Duke!') conveys high status under active threat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle sword grounding on stone floor followed by chest-thumping disbelief clearly establishes physical barrier and dispute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Direct power reversal line ('No. He is your Duke.') delivers an explosive identity and status revelation.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Snapping a formal military salute toward Alexander clearly conveys allegiance shift on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "A bride in a gown and an elder nobleman frozen in stunned shock clutching a cane visually signals a ruined high-society event.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Desperate appeal to the crowd ('You have all been deceived!') injects active public confrontation.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Flailing hands spinning toward the congregation shows panic, though standard in staging.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Cold authoritative challenge ('Then let the Crown decide.') escalates stakes to an official tribunal.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of a composed protagonist staring icily.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up reveal of a wax-sealed 'WAR OFFICE - TOP SECRET' royal dossier provides an instant visual hook for intrigue.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Command to publicly read royal documents ('Read the first.') sets up an imminent public exposure.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Display of the sealed parcel cut against a guest turning pale with rising dread establishes high tension without sound.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Solemn handover of documents to a gloved official; procedural narrative action with low kinetic punch.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Reading the title of a military intelligence report provides procedural exposition rather than immediate shock.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard framing of an official opening a paper binder.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of a wide-eyed, completely petrified face conveys intense, immediate panic on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Revealing that a Duke's unit was ambushed due to compromised coordinates introduces serious military treachery.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Medium close-up of an official reading from paper.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Declaring that 'the leak was deliberate' confirms intentional treason before a stunned assembly.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Official turning a page before a silent congregation provides mild atmosphere.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Revealing treason through domestic channels ('transmitted through British channels') confirms high-level betrayal.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Rupert physically crumbling, buckling at the knees, and clinging to the stone railing is a dramatic scroll-stopping physical collapse.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A solitary whimpered denial ('No...') lacks standalone context.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of a man desperately clinging to a stone pillar with shallow, terrified breathing vividly communicates total dread.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Thrusting the dossier and demanding 'Read the names' creates an electrifying, high-stakes naming-of-culprits moment.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Aggressively thrusting documents forward in a cathedral confrontation injects immediate visual urgency.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Publicly reading the co-conspirator's name ('Lord Henry Sterling') acts as a dramatic indictment.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Medium close-up of an official reciting text.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Directly naming the antagonist ('Rupert Ashburn') completes the treason indictment.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Whip pan to an elder noble stiffening in dread visually underscores caught-out guilt.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up on wide, darting eyes full of unmasked horror communicates instant terror without audio.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Generic gasped exclamation ('My God...') without specific narrative context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of an aristocratic matriarch covering her mouth in agonizing disbelief delivers solid emotional drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Lethal direct accusation ('You sold my men to the enemy') is a monstrous, explosive betrayal hook.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Low-angle shot towering over a fallen opponent who flails defenseless on the ground conveys overwhelming dominance and defeat.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Building accusation ('And when you believed I was dead...') creates intense suspense.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Raising a red-ribboned war document toward the cathedral arches paired with a gasping villain creates theatrical drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive climactic charge ('You took my title') crystallizes identity theft and usurpation in four words.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of a scarred, furiously intense face delivers intense visual intimidation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Extreme close-up of gloved fingers snapping red sealing wax provides tactile curiosity and tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Formal reading declaring the Duke dead and his title transferred under false authority exposes grand fraud.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Dramatic silhouette framing against cathedral debris and rows of horrified guests visually establishes epic ruin.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Desperate plea of ignorance ('I was told he was dead!') confirms guilt through frantic rationalization.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a man clutching his chest as if physically choking delivers strong physical distress.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Chilling retort ('You were told exactly what you needed to hear') displays ruthless psychological control.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low shot of heavy boots ascending stone steps toward the altar; classic imposing march.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Blatant scapegoating ('Sterling handled the report!') turns conspirators against each other publicly.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Frenzied spin and accusatory finger pointed at a fellow conspirator creates active visual friction.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Sharp head turn toward the side pews shifts focus, but lacks standalone impact.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "A distinguished aristocrat sneaking out of a pew and sprinting for an exit instantly tells a story of fleeing guilt on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A low-stakes questioning murmur ('My Lord?') from an onlooker.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of an abandoned bride peering out from beneath her veil in shock provides high melodrama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Frantic physical action unlatching a heavy church door conveys desperate, high-urgency escape.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Ironic trap-closing line ('Going somewhere, Lord Sterling?') delivered by law enforcement instantly snaps the snare shut.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Reverse-angle reveal of a stern police constable completely blocking the doorway is an unambiguous visual capture.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Extreme close-up of a trapped villain frozen in pure terror with agape jaw provides maximal scroll-stopping facial shock before black.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the royal guards obey Rupert's order to arrest the alleged imposter?",
+      "stakes_importance": "Medium \u2014 sets up the clash of authority and introduces the high-stakes dispute over identity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Alexander break his silence and confront Rupert's accusations?",
+      "stakes_importance": "Medium \u2014 visual stand-off establishing Alexander's calm superiority, but lacks an immediate climactic question.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the guards intervene as Rupert becomes increasingly unhinged?",
+      "stakes_importance": "Medium \u2014 escalation of Rupert's desperate demand for force.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why are the royal guards openly defying Lord Rupert's direct command?",
+      "stakes_importance": "High \u2014 subverts the established chain of command and signals a shocking shift in power.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the guards respond to Rupert asserting his ducal authority?",
+      "stakes_importance": "Medium \u2014 heightens the conflict over who truly holds the title.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Rupert react now that the royal military has publicly declared Alexander the true Duke?",
+      "stakes_importance": "High \u2014 seismic status flip and public dethroning in front of the entire assembly.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 2,
+      "specific_question": "What is Lord Sterling hiding as he freezes in panic?",
+      "stakes_importance": "Medium \u2014 reaction beat foreshadowing Sterling's guilt and Catherine's shock.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Rupert convince the congregation that Alexander is indeed an imposter?",
+      "stakes_importance": "Medium \u2014 desperate public plea to sway the spectators before judgment falls.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 4,
+      "specific_question": "What official decree or proof from the Crown has Alexander brought to settle the dispute?",
+      "stakes_importance": "High \u2014 invokes royal intervention with decisive legal and dynastic consequences.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "What classified secrets are sealed inside the War Office document bundle?",
+      "stakes_importance": "Medium \u2014 introduction of physical evidence that promises imminent ruin.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 4,
+      "specific_question": "What does the first sealed royal document expose that turns Lord Sterling pale with dread?",
+      "stakes_importance": "High \u2014 imminent revelation of high-level conspiracy with immediate character reaction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 2,
+      "specific_question": "What will the Crown Military Magistrate announce once he unseals the dossier?",
+      "stakes_importance": "Low \u2014 transitional procedural beat handing over the documents.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "What took place during the Iberian front ambush three years ago?",
+      "stakes_importance": "Medium \u2014 preamble uncovering the historical crime at the heart of the story.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why is Rupert so utterly petrified by mention of the Iberian front?",
+      "stakes_importance": "Low \u2014 silent reaction shot building suspicion rather than a standalone cliffhanger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "Who compromised Duke Alexander's military unit and led them into an ambush?",
+      "stakes_importance": "Medium \u2014 confirms foul play occurred and demands the identity of the culprit.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who inside the British establishment orchestrated the deliberate leak against the Duke?",
+      "stakes_importance": "High \u2014 elevates the tragedy from wartime misfortune to calculated treason.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Rupert confess to transmitting Duke Alexander's coordinates as he collapses in guilt?",
+      "stakes_importance": "High \u2014 physical collapse indicating near-total breakdown under impending exposure.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Rupert attempt to speak or flee as his guilt becomes apparent?",
+      "stakes_importance": "Low \u2014 brief whimper of denial without a new plot turn.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 5,
+      "specific_question": "Which conspirators will be named on the official treason document?",
+      "stakes_importance": "High \u2014 maximum anticipation right on the threshold of public unmasking.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Lord Sterling answer for being officially named in the treasonous ambush?",
+      "stakes_importance": "High \u2014 shock exposure of a respected elder noble as a traitor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 5,
+      "specific_question": "What punishment awaits Rupert Ashburn now that his treason has been formally announced?",
+      "stakes_importance": "High \u2014 catastrophic betrayal exposed; Rupert is named alongside Sterling as a traitor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will Rupert do now that his treachery has been exposed to the entire nobility?",
+      "stakes_importance": "Medium \u2014 pure terror reaction shot highlighting cornered panic.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will the Ashburn family dynasty reckon with this disgrace?",
+      "stakes_importance": "Low \u2014 matriarchal horror reaction emphasizing family shame.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Alexander execute or imprison Rupert on the spot for selling his soldiers to the enemy?",
+      "stakes_importance": "High \u2014 direct, brutal confrontation confronting a traitor with mass murder of his own men.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 4,
+      "specific_question": "What ultimate crime will Alexander accuse Rupert of committing in his absence?",
+      "stakes_importance": "High \u2014 suspenseful sentence suspension leading directly into the usurpation charge.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Alexander extract retribution from the cousin who stole his title and life?",
+      "stakes_importance": "High \u2014 culmination of the revenge motive as the rightful heir claims vengeance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 3,
+      "specific_question": "What damning legal judgment is sealed under the red wax?",
+      "stakes_importance": "Medium \u2014 sensory pause building tension prior to reading the official death register.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who signed the false authority that legally stole Alexander's estate and title?",
+      "stakes_importance": "High \u2014 officially establishes fraudulent usurpation before the entire congregation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who fed Rupert the lie that Duke Alexander had perished in battle?",
+      "stakes_importance": "High \u2014 Rupert attempts to shift blame onto a mastermind to save his own neck.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 4,
+      "specific_question": "What will Alexander do to Rupert as he corners him at the altar?",
+      "stakes_importance": "High \u2014 imminent physical and verbal confrontation closing in on the pretender.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Lord Sterling turn on Rupert now that he has been publicly accused as the architect of the false report?",
+      "stakes_importance": "High \u2014 open betrayal among conspirators turning on one another in desperation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander catch Sterling before he can react to Rupert's accusation?",
+      "stakes_importance": "Medium \u2014 sudden redirection of threat toward a second escaping conspirator.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Lord Sterling manage to slip out of the cathedral and evade justice?",
+      "stakes_importance": "High \u2014 an active escape attempt under way with the entire hall distracted.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Catherine alert the church and thwart Lord Sterling's quiet escape?",
+      "stakes_importance": "Medium \u2014 innocent bride notices the conspirator fleeing the scene.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 4,
+      "specific_question": "What awaits Lord Sterling on the other side of the cathedral doors as he makes his escape?",
+      "stakes_importance": "High \u2014 suspended point of escape with the door swinging open.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Lord Sterling answer the police constable blocking his flight, and who ordered his apprehension?",
+      "stakes_importance": "High \u2014 immediate trap sprung; an unexpected legal ambush preventing escape.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 5,
+      "specific_question": "What fate awaits Lord Sterling now that he is completely trapped and caught in treason?",
+      "stakes_importance": "High \u2014 ultimate cliffhanger fade-to-black capturing the total despair and ruin of the co-conspirator.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

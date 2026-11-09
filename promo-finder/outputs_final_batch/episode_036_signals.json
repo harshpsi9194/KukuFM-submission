@@ -1,0 +1,942 @@
+{
+  "episode_number": 36,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Raises a question of someone being missing, but lacks immediate visceral shock for cold scrolling.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "A conversational medium two-shot across a wooden table establishing a cabin setting.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Delivers a sharp, ominous reveal of deliberate sabotage and conspiracy in a single sentence.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up on a prominent dark combat scar and eyes burning with cold intensity, legible as a battle-hardened survivor.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A single-word prompt question with no inherent contextual stakes.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up highlighting deepening shock on a pale, hooded face.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Merely names two unfamiliar names without standalone context for a new viewer.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "A slow profile turn back toward his mother in the cabin.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A single echoed name offering no standalone narrative hook.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up capturing a hitching breath and eyes widening in pure horror.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Suggests betrayal or surveillance, but remains somewhat vague without surrounding context.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "A generic static wide shot of a cabin interior across a table.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Explicitly details military treason and being leaked to an enemy before exposing a conspiracy.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intense close-up leaning aggressively over the table with visible suppressed rage.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A piercing, high-stakes question directly confronting treason by trusted allies.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a mother clutching her cloak collar with a heaving chest displaying intense physical agony.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Confirms the deadly betrayal and coordinates being handed over.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up straightening posture with a hard-set jaw.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Reveals the motive behind burying the investigation.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up on scarred cheek and bared teeth in sheer contempt.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "An unfinished trailing question relying heavily on preceding context.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Leaning over a map on the table with vocal strain.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A punchy, shocking revelation that the speaker was falsely declared dead.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on a scarred face delivering a low, cutting proclamation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Details the institutional cover-up and falsified reports.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Mother covering her mouth with trembling hands as tears brim.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Reveals the rival usurping an estate and inheritance.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of open weeping with hand lowering to heart in deep grief.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Evokes a dramatic contrast between the world mourning an heir and his actual survival in exile.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up on hardened blue-grey eyes reflecting years of exile.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "An emotional confirmation of maternal grief, but lacks urgent conflict.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a sorrowful gaze lifting toward her son.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A two-word acknowledgment offering zero narrative drive or conflict.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "A subdued look down as features momentarily soften.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Expresses misplaced trust, but in a generic and low-stakes phrase on its own.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up bowing her head toward the table in utter despair.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Points out family betrayal, but functions mainly as philosophical commentary.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static wide shot standing beside a seated figure.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Further commentary on weaponized trust without an active new revelation.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Profile close-up stepping toward the door looking out at falling snow.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Stammered character names serving only as a conversational transition.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Stepping urgently back toward the table.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Instantly establishes high stakes: a woman walked into an enemy manor to save someone and vanished.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up leaning both hands on the table with desperate urgency.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Speculative exposition regarding whether Juliana sought refuge with his mother.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tight close-up of a strained, furrowed brow.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "Only the speaker's name spoken aloud.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Agony and acute hesitation visibly washing over the mother's face.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A single monosyllabic question with no standalone substance.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "A rapid push-in close-up with eyes snapping open in sudden panic.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Confirms she arrived, providing mild plot progression.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up with tears catching the amber lamplight.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A standard whereabouts inquiry dependent on preceding context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium two-shot bending over the table and crowding the mother with intense desperation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A single negative syllable.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Shutting eyes and weeping while shaking head in anguish.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Urgent demand for someone's location, but basic in structure.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Towering over her as breathing turns ragged with growing menace.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A shocking exclamation revealing sudden imprisonment and peril.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up crying out in wretched guilt and horror, highly legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "An echoed single-word question with no intrinsic hook on its own.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up freezing completely in sudden shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive, high-stakes accusation: the villains framed Juliana for poisoning the matriarch.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Mother clutching son's forearms with desperate, pleading hands in tight framing.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Passionate protest directly exposing the monstrous injustice of the accusation.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up showing absolute fury erupting across his scarred face.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Defensive statement of having testified without the specific surrounding facts.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up clutching her chest in grief.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Heated, furious insistence on the truth being spoken.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Clenching fists at sides, trembling visibly with rage.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Sensational, high-voltage accusation: branded a witch in an unjust trial.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up crying out devastated by the traumatic memory.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes realization that the beloved heroine is locked away in a dungeon cell.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Frontal medium shot standing frozen as devastating realization hits.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B038",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Confirms she was put on trial before a magistrate.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Clutching temple and reeling in remembered trauma.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B039",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A single monosyllabic exclamation lacking standalone meaning.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight shot with eyes wild with terror and desperation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B040",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Lethal stakes: 'They condemned her... She is to be executed.' An ultimate life-or-death shocker.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up breaking down into inconsolable sobs, followed by delivering horrific news through tears.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B041",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A single question word ('When?') is logistical filler without inherent hook power.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Wide shot of a figure standing rigid in a cabin conveys shock but lacks immediate vertical scroll-stopping dynamism.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B042",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'After the wedding' signals an impending event but lacks stand-alone stakes without prior context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a woman clutching her throat tightly displays clear physicalized tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B043",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A brief question of confusion ('What wedding?') offers minimal narrative grip on its own.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of narrowing eyes shifting into lethal suspicion reads clearly as imminent threat on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B044",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Reveals rival nuptials and an urgent countdown ('Rupert... and Catherine's. Two days from now.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard alternating close-ups across lantern light convey seriousness but standard conversational framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B045",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "'They are marrying in two days...' establishes expositional setup rather than an explosive immediate shock.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Profile shot showing realization hardening into a predatory glare presents distinct character intensity.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B046",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes declaration ('...and killing my wife afterward') instantly hooks the viewer with cold-blooded stakes.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Terrifying tight close-up on eyes flashing with murderous wrath provides arresting, hostile scroll-stop intensity.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B047",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct urgent challenge ('Alexander, you cannot go back there alone!') signals severe impending danger.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Physical confrontation where the mother desperately clutches the man's coat establishes visible conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B048",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'They already took my name' delivers a dramatic personal injustice and identity-erasure hook.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of an immovable figure towering over an elder demonstrates dominance but modest kinetic motion.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B049",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "'They stole my home!' carries furious indignation and clear dramatic grievance.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Aggressive physical forward step paired with mounting thunderous fury delivers visible agitation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B050",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Explosive accusation ('And now they have taken Juliana!') combines kidnapping stakes with raw rage.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up on bared teeth and wild, furious eyes offers an arresting, visceral visual shock.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B051",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Macro insert of a gloved hand clenching into an intense, strained fist signals violent resolve purely on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B052",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "'Two days' is an isolated time fragment that lacks standalone context without preceding lines.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Cinematic tracking shot framing a lone silhouette in an open doorway facing an icy moonlit forest commands immediate visual attention.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B053",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "'Then they have two days to celebrate' delivers a chilling, ominous threat of impending retribution.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Silhouette standing at the threshold of a blizzard juxtaposed against a terrified mother creates striking atmospheric contrast.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B054",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "An incomplete dependent clause ('Because before that wedding begins...') functions as suspense buildup rather than a standalone hook.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Side profile of fogging breath in freezing night air with a tightly clenched jaw portrays cold determination.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B055",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Massive genre identity reveal and ultimate threat: '...their dead Duke is coming home.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight focus on a battle-scarred cheek and burning gaze staring into darkness before cutting to black delivers high dramatic punch.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why did no search party ever locate Alexander after he vanished?",
+      "stakes_importance": "Medium \u2014 raises mystery around his presumed death, but opens before any culprits or betrayal are named.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who orchestrated the cover-up to ensure Alexander was never found?",
+      "stakes_importance": "High \u2014 reveals foul play and deliberate suppression behind his disappearance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "Which conspirators orchestrated the plot against Alexander?",
+      "stakes_importance": "Medium \u2014 direct question preceding a major name-drop reveal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 5,
+      "specific_question": "Why did trusted family members Sterling and Rupert betray Alexander to his death?",
+      "stakes_importance": "High \u2014 shock naming of treacherous kin as conspirators, establishing core betrayal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 4,
+      "specific_question": "How could Rupert betray his own blood in such an unforgivable conspiracy?",
+      "stakes_importance": "High \u2014 captures the mother's horror and disbelief at fraternal treachery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 3,
+      "specific_question": "What did Rupert and Sterling do with their knowledge of Alexander's whereabouts?",
+      "stakes_importance": "Medium \u2014 setup line implying complicity in enemy ambushes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 5,
+      "specific_question": "What explosive truth had Alexander discovered that motivated his own family to sell him out to the French enemy?",
+      "stakes_importance": "High \u2014 escalates conspiracy to wartime high treason to silence a dangerous discovery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander confirm that his own kin committed treason and fed him directly to the enemy?",
+      "stakes_importance": "High \u2014 agonizing confrontation of unthinkable treason.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "What specific investigation was dangerous enough to warrant sacrificing Alexander to foreign enemies?",
+      "stakes_importance": "Medium \u2014 establishes tactical betrayal, leaving the conspiratorial motive dangling.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 4,
+      "specific_question": "What dark secret was Alexander investigating that Rupert and Sterling went to murderous lengths to bury?",
+      "stakes_importance": "High \u2014 teases a massive underlying conspiracy that tore the noble family apart.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 2,
+      "specific_question": "What steps did the traitors take once Alexander went missing in combat?",
+      "stakes_importance": "Medium \u2014 narrative bridge prompt leading into the false death declaration.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Alexander expose the fact that he was falsely declared dead to reclaim his stolen birthright?",
+      "stakes_importance": "High \u2014 stark declaration of identity erasure and estate theft.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "How thoroughly did Rupert falsify official records to erase Alexander's survival?",
+      "stakes_importance": "Medium \u2014 emphasizes institutional corruption and documentation forgery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the rightful heir Alexander strip Ashbourne Manor away from usurper Rupert?",
+      "stakes_importance": "High \u2014 establishes usurpation of ancestral home and power.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "When and how will the resurrected heir shock the world and reclaim his stolen legacy?",
+      "stakes_importance": "High \u2014 classic microdrama trope of the 'dead' noble returning to claim retribution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can the emotional rift and years of lost time between mother and son be healed?",
+      "stakes_importance": "Medium \u2014 sorrowful interpersonal grief rather than active propulsion forward.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 1,
+      "specific_question": "What will Alexander say next to comfort his grieving mother?",
+      "stakes_importance": "Low \u2014 emotional lull with dissipated narrative tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 2,
+      "specific_question": "How deeply did Rupert exploit the mother's trust after Alexander's supposed death?",
+      "stakes_importance": "Medium \u2014 sorrowful remorse that sets up familial manipulation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 2,
+      "specific_question": "How did Rupert weaponize family bonds to seize control?",
+      "stakes_importance": "Low \u2014 thematic restatement of prior betrayal reveals.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Alexander avenge the cruel manipulation inflicted on his vulnerable mother?",
+      "stakes_importance": "Medium \u2014 hints at brewing vengeance as Alexander looks out into the snow.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 3,
+      "specific_question": "What happened to Juliana when Alexander brings up her name?",
+      "stakes_importance": "Medium \u2014 shifts focus to female lead, but sentence is cut off mid-thought.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why did Juliana never emerge from Ashbourne Manor after attempting to rescue Alexander's mother?",
+      "stakes_importance": "High \u2014 introduces active mortal danger and mystery surrounding the heroine's disappearance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 3,
+      "specific_question": "Where did Juliana go if she is not with Alexander's mother?",
+      "stakes_importance": "Medium \u2014 speculative question awaiting mother's confirmation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 3,
+      "specific_question": "What terrible news regarding Juliana is the mother dreading to reveal?",
+      "stakes_importance": "Medium \u2014 hesitation and agony create an impending dread cliffhanger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "What disastrous truth did Juliana suffer that makes the mother hesitate?",
+      "stakes_importance": "Medium \u2014 visceral panic reaction right before an unwelcome answer.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 3,
+      "specific_question": "If Juliana came to the cabin, why is she no longer there?",
+      "stakes_importance": "Medium \u2014 partial reveal clarifying she survived the manor, but raising new alarm.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 3,
+      "specific_question": "Did Rupert capture Juliana inside Ashbourne Manor?",
+      "stakes_importance": "Medium \u2014 desperate demand for location.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 4,
+      "specific_question": "If Juliana is not at Ashbourne Manor, what horrific fate befell her?",
+      "stakes_importance": "High \u2014 crushing negative confirmation with visible grief, signaling something worse than captivity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 4,
+      "specific_question": "Where is Juliana being held or suffering right now?",
+      "stakes_importance": "High \u2014 fever-pitch desperation right before a shock revelation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 5,
+      "specific_question": "Under what criminal charge was Juliana arrested, and who ordered her seizure?",
+      "stakes_importance": "High \u2014 seismic escalation from missing person to state/legal captive facing ruin.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why would anyone have legal authority or cause to arrest Juliana?",
+      "stakes_importance": "Medium \u2014 beat mirrors shock of B030 without adding new stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Alexander clear Juliana's name against Rupert and Catherine's monstrous frame-up for poisoning his mother?",
+      "stakes_importance": "High \u2014 framed for poisoning the very woman she saved; lethal villainous conspiracy exposed.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why didn't the mother's own testimony exonerate Juliana from this false poisoning charge?",
+      "stakes_importance": "High \u2014 outrageous moral injustice highlighting the villains' corrupt control.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 2,
+      "specific_question": "How did the corrupt court ignore the mother's defense?",
+      "stakes_importance": "Medium \u2014 transitional dialogue piece.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 3,
+      "specific_question": "How did Rupert overrule the truth and enforce the false charge?",
+      "stakes_importance": "Medium \u2014 Alexander's rage builds toward uncovering court corruption.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Alexander save Juliana from the fatal, superstitious hysteria of being branded and tried as a witch?",
+      "stakes_importance": "High \u2014 elevates the threat to an irredeemable, lethal charge designed to guarantee execution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander reach the dungeon and break Juliana out before she is sentenced?",
+      "stakes_importance": "High \u2014 urgency crystallizes around physical imprisonment and immediate rescue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B038",
+      "curiosity_gap_score": 4,
+      "specific_question": "What verdict did the corrupt magistrate hand down against Juliana?",
+      "stakes_importance": "High \u2014 judicial fate hanging in the balance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B039",
+      "curiosity_gap_score": 4,
+      "specific_question": "What did the magistrate rule Juliana's punishment to be?",
+      "stakes_importance": "High \u2014 intense suspended anticipation before the death sentence drop.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B040",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Alexander storm the gallows and rescue Juliana in time before she is executed by Rupert and Catherine?",
+      "stakes_importance": "High \u2014 pinnacle lethal stakes cliffhanger: impending execution creates maximal urgency for Episode 2 / app install.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B041",
+      "curiosity_gap_score": 3,
+      "specific_question": "How little time does Alexander have before his wife is executed?",
+      "stakes_importance": "Medium \u2014 establishes the urgency of the impending death timeline.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B042",
+      "curiosity_gap_score": 4,
+      "specific_question": "Whose wedding dictates the deadline for Juliana's execution?",
+      "stakes_importance": "High \u2014 directly ties the execution to an unexpected celebration/conspiracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B043",
+      "curiosity_gap_score": 3,
+      "specific_question": "Who is getting married, and why does it connect to Juliana's death sentence?",
+      "stakes_importance": "Medium \u2014 cues the revelation of the traitors' conspiracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B044",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Alexander stop the wedding of Rupert and Catherine and rescue Juliana within two days?",
+      "stakes_importance": "High \u2014 double betrayal revealed with an unforgiving 48-hour ticking clock.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B045",
+      "curiosity_gap_score": 3,
+      "specific_question": "What lethal realization is dawning on Alexander about their true plot?",
+      "stakes_importance": "Medium \u2014 incomplete realization before Alexander articulates his counter-move.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B046",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Alexander unleash his wrath in time to disrupt the wedding and prevent his wife's murder?",
+      "stakes_importance": "High \u2014 explicitly connects the usurpation to the cold-blooded elimination of his wife.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B047",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander heed his mother's warning or march into certain death alone?",
+      "stakes_importance": "Medium \u2014 interpersonal conflict and warning against suicidal odds.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B048",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Alexander reclaim the identity and title that were stolen from him?",
+      "stakes_importance": "Medium \u2014 first beat in an escalating monologue of grievances.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B049",
+      "curiosity_gap_score": 2,
+      "specific_question": "What retribution will Alexander inflict for the theft of his ancestral home?",
+      "stakes_importance": "Medium \u2014 continuation of the crescendo of grievances.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B050",
+      "curiosity_gap_score": 4,
+      "specific_question": "What will Alexander do now that they have crossed the ultimate line by taking Juliana?",
+      "stakes_importance": "High \u2014 peak emotional trigger where the protagonist declares his personal tipping point.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B051",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander unleash his suppressed physical might and embark on a solitary war?",
+      "stakes_importance": "High \u2014 visceral physical signifier of absolute commitment to violence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B052",
+      "curiosity_gap_score": 3,
+      "specific_question": "How does Alexander intend to cross the frozen wilderness and prepare his assault in just two days?",
+      "stakes_importance": "Medium \u2014 visual transition setting up the countdown.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B053",
+      "curiosity_gap_score": 4,
+      "specific_question": "What devastation does Alexander plan to bring upon their wedding celebration?",
+      "stakes_importance": "High \u2014 chilling irony and ominous forewarning of a bloodbath.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B054",
+      "curiosity_gap_score": 4,
+      "specific_question": "What catastrophic reckoning is Alexander about to spring before the ceremony even begins?",
+      "stakes_importance": "High \u2014 mid-sentence suspension directly before the ultimate identity reveal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B055",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will the usurpation unravel when the presumed-dead Duke crashes the wedding to reclaim his wife and title?",
+      "stakes_importance": "High \u2014 definitive hero-reveal and vengeance proclamation paired with an orchestral sting and cut to black.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

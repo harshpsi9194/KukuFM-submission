@@ -1,0 +1,347 @@
+{
+  "episode_number": 42,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Massive scroll-stopper: low-angle tilt through drifting smoke and rubble as an imposing, scarred nobleman steps through a pulverized doorway.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Standard generic question ('Who are you?') lacking standalone stakes or specific shock.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual or camera events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Tense, ominous reply ('You already know'), but lacks explicit context or immediate confrontation on its own.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual or camera events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Only an emotional utterance of a character's name with minimal standalone exposition.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual drama: close-up of a weeping woman in manacles clutching her smock immediately signals captive distress on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Single name greeting ('Juliana') with low standalone auditory punch.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Subtle expression shift in close-up as Alexander's gaze softens, offering mild emotional tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-urgency command ('Guards! Arrest this imposter!') instantly establishes an explosive public confrontation.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Active visual friction with Rupert descending the altar steps while furiously pointing toward the intruder.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Shocking act of open insubordination ('We will not') from an armed guard.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Striking standoff visual with a royal guardsman rigidly resting a gloved hand on his sabre.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct panicked confrontation and repeated orders ('I said arrest him! Why?!') conveying immediate unraveling authority.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual drama: tight close-up of neck veins bulging as Rupert's composure visibly shatters.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Clear defiance and dramatic reveal setup ('Because we know who he is').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High-tension visual of the royal guard holding an upright drawn blade with rigid conviction.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single panicked name ('Rupert...') with low informational hook strength.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Noticeable visual distress: bride clutching her father with a drooping bouquet and panicking face.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive reveal: 'You cannot be him. Alexander died!' instantly exposes a resurrection/identity mystery to the cold scroller.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual drama: close-up of a trembling nobleman clutching a pew with wild, terrified eyes.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sharp, commanding accusation ('And yet, here I stand. That is the lie you built your life upon.').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Cinematic tracking shot behind an imposing figure advancing down the nave of a ruined cathedral.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Whispered name ('Alexander...') with low context on its own.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Elderly woman stepping into the aisle with outstretched trembling hands conveys mild emotional motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "March halts as frail hands rest on his chest, showing mild physical reunion action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Single word utterance ('Mother') with no independent conflict.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No visual or camera events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Tender emotional line ('Look at you... my beautiful boy') with low urgency.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Clear emotional friction: tears streaming as she cradles his scarred cheek before stunned onlookers.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Sentimental reunion dialogue ('I have come home, Mother') lacking urgent conflict.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium two-shot framed down the nave.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Grand public proclamation: 'This is my son... Alexander Ashburn. The rightful Duke of Ashburn!' instantly reveals identity, lineage, and usurpation.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Dramatic physical declaration: mother turns to gathered nobility with chin raised, pointing proudly toward the true heir.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Clear visual power shift: formerly arrogant villain visibly cowering on the altar steps in defeat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Lethal confrontation and revenge declaration: 'And now, Rupert... we settle what you stole.'",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: tight close-up of a burning, vengeful face as his hand grips the sabre hilt.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 3,
+      "specific_question": "Who is this scarred nobleman crashing the cathedral doorway, and what is his business here?",
+      "stakes_importance": "Medium \u2014 creates an intriguing arrival hook, though identity and allegiances are not yet fully stated.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the intruder reveal his name and claim in front of the congregation?",
+      "stakes_importance": "Medium \u2014 direct verbal challenge demanding the newcomer's true identity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 4,
+      "specific_question": "What shared dark history links Rupert and this mysterious man?",
+      "stakes_importance": "High \u2014 psychological confrontation confirming Rupert knows exactly who this is and fears him.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why is Juliana manacled, and will Alexander intervene to save her?",
+      "stakes_importance": "High \u2014 establishes high emotional stakes and an endangered romantic connection.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Alexander acknowledge Juliana before dealing with the enemies present?",
+      "stakes_importance": "Low \u2014 tender momentary beat, but tension slightly pauses between major conflicts.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the guards obey Rupert's command to seize and execute the intruder?",
+      "stakes_importance": "High \u2014 immediate threat of physical arrest and escalation of violence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 5,
+      "specific_question": "Why are the royal guards committing outright mutiny against Rupert?",
+      "stakes_importance": "High \u2014 massive power shift and public insubordination, upending Rupert's authority.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the guards justify defying Rupert's explicit orders?",
+      "stakes_importance": "High \u2014 Rupert's public breakdown under loss of institutional control.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who do the royal guards recognize him as, and what authority does he carry over them?",
+      "stakes_importance": "High \u2014 electric suspense teasing an elite, legitimate status that supersedes Rupert.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the bride and her family react as Rupert's standing collapses?",
+      "stakes_importance": "Medium \u2014 reveals growing panic and unraveling alliances among the antagonists.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 5,
+      "specific_question": "How did Alexander survive the supposed death Rupert capitalized upon?",
+      "stakes_importance": "High \u2014 shock revelation that Rupert built his entire life and title on a fatal deception.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "What evidence or retribution will Alexander deliver to dismantle Rupert's lie?",
+      "stakes_importance": "High \u2014 protagonist confronts the villain with irrefutable proof of his survival.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will his mother validate his identity or be rejected as part of the confrontation?",
+      "stakes_importance": "Medium \u2014 high emotional stakes, introducing maternal recognition into the aisle.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 2,
+      "specific_question": "What will Alexander say to his grieving mother?",
+      "stakes_importance": "Medium \u2014 emotional reunion pause that temporarily suspends hostile tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will the mother respond to hearing her son's voice again?",
+      "stakes_importance": "Low \u2014 single-word greeting; emotional, but low narrative tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the mother formally claim him in front of the stunned guests?",
+      "stakes_importance": "Medium \u2014 tender familial embrace, largely defusing immediate suspense.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 1,
+      "specific_question": "What will Alexander do now that he has come home?",
+      "stakes_importance": "Low \u2014 emotional reunion dialogue providing closure to his absence rather than escalating conflict.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will the court, Rupert, and the guards react now that the true Duke of Ashburn is publicly proclaimed?",
+      "stakes_importance": "High \u2014 public, undeniable legitimacy proclamation stripping Rupert of his usurpation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Rupert attempt to fight back or plead for mercy?",
+      "stakes_importance": "Medium \u2014 reactive visual of Rupert cowering, setting up imminent retribution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Alexander draw his sabre and execute Rupert right on the cathedral altar steps?",
+      "stakes_importance": "High \u2014 ultimate promo cliffhanger ending on an explicit promise of retribution with weapon in hand.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

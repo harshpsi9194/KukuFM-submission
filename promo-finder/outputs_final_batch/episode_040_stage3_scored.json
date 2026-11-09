@@ -1,0 +1,106 @@
+{
+  "episode_number": 40,
+  "total_scored": 4,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP040_01",
+      "start_beat_id": "B018",
+      "end_beat_id": "B025",
+      "start_time": 78.5,
+      "end_time": 110.08,
+      "duration": 31.58,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 provides an unambiguous, majestic establishing shot: grand cathedral doors swinging open down a candlelit aisle flooded with golden daylight as bridal organ music swells, immediately establishing the physical setting and ritual context.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly follows a glamorous bride walking down the aisle to a proud groom at the altar, culminating in a sharp, conspiratorial dialogue twist revealing he was merely an 'ignored cousin' who usurped or married above his station.",
+        "passes_gate": true,
+        "situational_summary": "A radiant bride walks down the cathedral aisle to join her groom at the altar, where their romantic facade turns conspiratorial as she reveals he was once just an ignored cousin."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Opulent wedding spectacle masking smug aristocratic conspiracy and social climbing"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows Catherine and Rupert's grand wedding entrance and teases Rupert's illicit rise from overlooked cousin to groom at the altar."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP040_02",
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 81.0,
+      "end_time": 110.08,
+      "duration": 29.08,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 opens on a mid-action close-up of a man turning his head in awe with no establishing environment, spatial grounding, or clear interpersonal dynamic for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent beats clarify that this is a grand wedding where the bride meets an ambitious groom, ending on a conspiratorial revelation about his former status.",
+        "passes_gate": false,
+        "situational_summary": "A man watches in awe as an opulent bride walks down the aisle, meeting him at the altar with a barbed reminder of his humble past as an ignored cousin."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Opulent wedding spectacle masking smug aristocratic conspiracy and social climbing"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts Rupert and Catherine's wedding and hints at Rupert's usurpation of high status."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP040_03",
+      "start_beat_id": "B020",
+      "end_beat_id": "B025",
+      "start_time": 82.5,
+      "end_time": 110.08,
+      "duration": 27.58,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B020 opens on a clear, striking framed wide shot of Catherine silhouetted in a bright doorway in a breathtaking imperial bridal gown and veil, instantly conveying the bridal entrance to a cold viewer without sound.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression from dramatic bridal entrance to altar confrontation delivers a self-contained conflict where the lavish couple celebrate an illicit usurpation.",
+        "passes_gate": true,
+        "situational_summary": "A silhouetted bride in a grand imperial gown walks down the aisle to the altar, exchanging conspiratorial smiles with a groom who rose from being an ignored cousin."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Opulent wedding spectacle masking smug aristocratic conspiracy and social climbing"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the wedding arrival and reveals the groom's surprising ascension from an ignored cousin."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP040_04",
+      "start_beat_id": "B021",
+      "end_beat_id": "B025",
+      "start_time": 85.8,
+      "end_time": 110.08,
+      "duration": 24.28,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 opens on a high-angle tracking shot from behind a bride in a magnificent cathedral-length veil trailing down the aisle between seated guests, clearly establishing the wedding procession.",
+        "arc_legibility": true,
+        "arc_rationale": "The progression smoothly moves up the aisle to the altar where Rupert takes Catherine's hands and she delivers the biting reveal about his past status as an ignored cousin.",
+        "passes_gate": true,
+        "situational_summary": "A bride with a cathedral-length veil processes down the aisle to join a proud nobleman at the altar, teasing him about his meteoric rise from ignored cousin."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Opulent wedding spectacle masking smug aristocratic conspiracy and social climbing"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the lavish wedding and Catherine and Rupert's complicity in his rise from ignored cousin."
+      }
+    }
+  ]
+}

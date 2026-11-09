@@ -1,0 +1,581 @@
+{
+  "episode_number": 31,
+  "total_scored": 23,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP031_01",
+      "start_beat_id": "B002",
+      "end_beat_id": "B015",
+      "start_time": 2.8,
+      "end_time": 59.0,
+      "duration": 56.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 shows a captive huddled against a damp stone wall reacting to sudden light in dread, but does not establish who she is, who entered, or the interpersonal dynamic until later beats. Without subsequent context, it is an ambiguous cold reaction shot.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes Catherine tormenting and mocking the chained noblewoman Juliana over her fall from grace and being jilted at the altar, with a clear dynamic of cruel oppressor versus defiant captive.",
+        "passes_gate": false,
+        "situational_summary": "In a damp dungeon, an aristocratic woman torments and threatens a chained captive, taunting her for being publicly abandoned at the altar."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sadistic public humiliation confronted with quiet, steely defiance under threat of torture"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses Juliana's backstory of being jilted at the altar by Gerald for Clarisse and her current imprisonment."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_02",
+      "start_beat_id": "B003",
+      "end_beat_id": "B015",
+      "start_time": 4.2,
+      "end_time": 59.0,
+      "duration": 54.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B003 immediately establishes the antagonist through an arched dungeon doorway in a gold-embroidered gown holding a hot poker and flanked by armed guards, commanding 'Look at you'\u2014instantly clarifying power hierarchy, gothic setting, and imminent threat in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: Catherine mocks Juliana's noble descent and romantic humiliation at the altar while threatening her with a branding iron, met with Juliana's moral defiance.",
+        "passes_gate": true,
+        "situational_summary": "An imperious noblewoman enters a dungeon with a hot branding iron to sadistically mock a chained rival for being abandoned at the altar."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Vicious aristocratic cruelty and torture juxtaposed against unbreakable moral defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the key backstory inciting incident of Gerald leaving Juliana at the altar for Clarisse."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_03",
+      "start_beat_id": "B005",
+      "end_beat_id": "B015",
+      "start_time": 10.5,
+      "end_time": 59.0,
+      "duration": 48.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B005 opens on an extreme tight close-up of a smiling face bathed in orange light saying 'The great Lady Juliana Ashcroft'. Because it lacks a wide/establishing shot of the dungeon or the chained prisoner, a cold scroller cannot discern the physical setting or interpersonal positioning in isolation.",
+        "arc_legibility": true,
+        "arc_rationale": "Full confrontation between Catherine and Juliana clearly reveals Catherine's vengeful gloating over Juliana's downfall and public wedding jilting.",
+        "passes_gate": false,
+        "situational_summary": "A cruel woman taunts a shackled noblewoman in a dungeon with a hot branding iron, bringing up how she was humiliated at the altar."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sadistic torment and bitter memories of public romantic abandonment"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Mentions Juliana being jilted at the altar for Clarisse as the root of her disgrace."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_04",
+      "start_beat_id": "B006",
+      "end_beat_id": "B015",
+      "start_time": 13.8,
+      "end_time": 59.0,
+      "duration": 45.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens on an over-the-shoulder wide shot past Catherine looking down at Juliana shackled on the wet stone floor paired with 'Chained in a dungeon like a common criminal.' Instantly clarifies the physical location, captive-captor power dynamic, and status reversal in the first second.",
+        "arc_legibility": true,
+        "arc_rationale": "The confrontation escalates cleanly from dungeon imprisonment to moral dispute and the stinging revelation of Juliana's public abandonment at the altar.",
+        "passes_gate": true,
+        "situational_summary": "Standing over a chained captive in a dungeon, an aristocratic captor wields a glowing branding iron while rubbing in the humiliation of her failed wedding."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral status-inversion taunting and threat of branding met with unyielding dignity"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the backstory inciting incident where Gerald chose Clarisse over Juliana at the altar."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_05",
+      "start_beat_id": "B009",
+      "end_beat_id": "B015",
+      "start_time": 24.5,
+      "end_time": 59.0,
+      "duration": 34.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 establishes immediate physical and visual stakes in under 2 seconds: extreme close-up of a white-hot poker tip radiating heat with an antagonist (Catherine) gazing down with predatory pleasure, instantly grounding the dungeon/torture dynamic.",
+        "arc_legibility": false,
+        "arc_rationale": "The clip cuts off at Beat B015 mid-confrontation while Catherine is still listing past grievances, leaving Juliana's reaction unresolved and ending without a complete dramatic exchange or clear punchline to ground the core conflict.",
+        "passes_gate": false,
+        "situational_summary": "A cruel captor with a red-hot iron taunts a chained woman over being abandoned at the altar and walking away alone."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sadistic taunting and public humiliation under physical torture threat"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses Juliana's backstory of being jilted at the altar for Clarisse, serving as character premise/inciting history."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_06",
+      "start_beat_id": "B013",
+      "end_beat_id": "B016",
+      "start_time": 43.0,
+      "end_time": 65.5,
+      "duration": 22.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 immediately visually and narratively grounds the dynamic: a scowling woman cuts to bare chained feet in iron manacles on cold stone, paired with the direct hook 'Gerald left you standing at the altar.'",
+        "arc_legibility": true,
+        "arc_rationale": "Completely self-contained emotional micro-arc: the tormentor rubs in the shame of being jilted, and the captive delivers a definitive, triumphant triple-rebuttal ('Gerald chose money. Clarissa chose a coward. I chose myself.').",
+        "passes_gate": true,
+        "situational_summary": "In a stone dungeon, a captive woman chained in iron manacles confronts her tormentor's wedding mockery with fierce, triumphant self-respect."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public humiliation transformed into transcendent personal defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals Juliana's past romantic rejection by Gerald, functioning as an inciting-incident emotional hook for cold audiences."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_07",
+      "start_beat_id": "B013",
+      "end_beat_id": "B023",
+      "start_time": 43.0,
+      "end_time": 91.2,
+      "duration": 48.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 immediately establishes the physical setting and high stakes with chained feet in iron manacles on cold stone and a clear verbal reveal of being left at the altar.",
+        "arc_legibility": true,
+        "arc_rationale": "Exceptional full dramatic arc: escalates from wedding mockery through accusations of marrying a scarred beggar, concluding with the captive staring directly past a glowing poker to declare unyielding moral victory.",
+        "passes_gate": true,
+        "situational_summary": "Chained in a dungeon beneath a red-hot iron, a defiant woman withstands vicious taunts about her ruined wedding and beggar husband to proclaim true honor and love."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak moral conviction and unflinching bravery confronting sadistic intimidation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals backstory details regarding Juliana marrying a scarred, penniless man over high society to preserve her honor."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_08",
+      "start_beat_id": "B014",
+      "end_beat_id": "B023",
+      "start_time": 48.5,
+      "end_time": 91.2,
+      "duration": 42.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 opens mid-conversation with Catherine leaning closer asking 'Do you remember?' and referencing an off-screen 'Clarisse' without visually establishing Juliana's chained predicament or the physical environment first.",
+        "arc_legibility": true,
+        "arc_rationale": "The full clip clearly portrays the clash between a cruel captor with a hot poker and a morally superior captive defending her choice of love over cowardice.",
+        "passes_gate": false,
+        "situational_summary": "A woman held captive with a glowing poker defends her scandalous marriage to a scarred outcast against her sneering interrogator."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Moral superiority and indomitable courage against cruel mockery"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's romantic choice to marry an outcast beggar rather than compromise her values."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_09",
+      "start_beat_id": "B015",
+      "end_beat_id": "B023",
+      "start_time": 54.8,
+      "end_time": 91.2,
+      "duration": 36.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 opens on a visceral, clear physical visual: a close-up of a red-hot iron hovering over damp stone with rising steam, immediately revealing Catherine gloating with the weapon. The threat, physical dungeon setting, and power dynamic are established instantly.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained confrontation: Catherine holds a red-hot iron threatening Juliana in a dungeon, mocking her choice of a lower-status partner, while Juliana delivers an unyielding moral defence of genuine love over status and cowardice.",
+        "passes_gate": true,
+        "situational_summary": "In a damp dungeon, an aristocratic woman holding a glowing hot iron threatens and taunts an imprisoned rival for marrying an honorable outcast rather than choosing wealth."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant moral superiority in the face of imminent physical torture and public humiliation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals Juliana's marriage to an outcast/beggar and her dungeon confrontation; functions as an inciting conflict setup suitable for prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_10",
+      "start_beat_id": "B016",
+      "end_beat_id": "B023",
+      "start_time": 59.0,
+      "end_time": 91.2,
+      "duration": 32.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B016 opens tight on Juliana's face reciting names ('Gerald chose money. Clarissa chose a coward.') with no visible antagonist, no weapon, and no established physical environment for a cold mobile viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The ensuing dialogue clearly establishes the antagonist (Catherine holding the iron), Juliana's imprisonment, and the dispute over status versus genuine honor.",
+        "passes_gate": false,
+        "situational_summary": "An imprisoned woman delivers a proud defense of marrying a scarred man for love while facing a haughty tormentor wielding a hot poker."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Rhythmic, unyielding defiance against cruel aristocratic posturing"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Outlines backstory betrayals (Gerald, Clarissa) and Juliana's imprisonment without revealing climactic episode payoff."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_11",
+      "start_beat_id": "B023",
+      "end_beat_id": "B030",
+      "start_time": 83.2,
+      "end_time": 124.0,
+      "duration": 40.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B023 establishes the scene via a clear high-angle wide shot looking through ceiling iron grating down into a deep dungeon shaft where Catherine looms menacingly over Juliana with a glowing poker.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-evident: a privileged aristocrat flaunting wealth and status while burning a book is psychologically disarmed by a calm prisoner exposing her desperate need for validation.",
+        "passes_gate": true,
+        "situational_summary": "A haughty noblewoman terrorizing an imprisoned rival with a hot poker is stunned into silence when the prisoner exposes her desperate insecurity to force submission."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Psychological turning of tables; cutting moral exposure of aristocratic insecurity"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes the philosophical clash and dungeon confrontation between Catherine and Juliana; safe thematic teaser."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_12",
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "start_time": 83.2,
+      "end_time": 130.8,
+      "duration": 47.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B023 opens with an aerial high-angle establishing shot looking down through dungeon grating as Catherine looms over Juliana with a glowing iron tip, immediately orienting physical space and lethal stakes.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely coherent dramatic arc: Catherine tries to assert class supremacy, and Juliana systematically dismantles her authority with devastating philosophical truths.",
+        "passes_gate": true,
+        "situational_summary": "In a subterranean dungeon, an imprisoned woman directly shatters the confidence of her aristocratic tormentor by pointing out that true power never needs anyone to bow."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak triumphant defiance dismantling oppressive power dynamics"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Captures a major dialogue confrontation and dynamic shift in the dungeon without revealing outside rescue or overarching plot conclusion."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_13",
+      "start_beat_id": "B023",
+      "end_beat_id": "B032",
+      "start_time": 83.2,
+      "end_time": 133.0,
+      "duration": 49.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Opens on an atmospheric high-angle wide establishing shot looking down through iron grates into a dungeon shaft where Catherine looms menacingly over Juliana with a glowing iron poker. Instantly establishes physical environment, prisoner/captor dynamic, and immediate physical peril.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear moral and social confrontation between an arrogant aristocrat and a morally grounded captive. The dialogue clearly frames the conflict: Catherine demands submission based on wealth and status, while Juliana disarms her by questioning her true power.",
+        "passes_gate": true,
+        "situational_summary": "In a subterranean dungeon, an aristocratic woman tries to humiliate an imprisoned woman with a glowing poker, only to have her authority shattered when the captive refuses to kneel."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Arrogant psychological domination shattered by tranquil moral defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows Juliana's dungeon captivity and confrontation with Catherine; establishes the core antagonistic dynamic without revealing endgame plot twists or escapes."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_14",
+      "start_beat_id": "B023",
+      "end_beat_id": "B033",
+      "start_time": 83.2,
+      "end_time": 134.5,
+      "duration": 51.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Opens on an atmospheric high-angle wide establishing shot looking down through iron grates into a dungeon shaft where Catherine looms menacingly over Juliana with a glowing iron poker. Instantly establishes physical environment, prisoner/captor dynamic, and immediate physical peril.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained dramatic arc: aristocratic captor taunts a chained prisoner, loses the verbal duel when Juliana calls out her insecurity, and retaliates with physical cruelty by burning Juliana's botanical book.",
+        "passes_gate": true,
+        "situational_summary": "Enraged when her imprisoned rival refuses to bow, an aristocratic noblewoman presses a red-hot iron poker into the open pages of the captive's cherished book."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Defiant psychological victory met with vindictive physical destruction"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the dungeon confrontation and the active scorching of Juliana's mother's herbal book; high-stakes setup."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_15",
+      "start_beat_id": "B023",
+      "end_beat_id": "B034",
+      "start_time": 83.2,
+      "end_time": 138.0,
+      "duration": 54.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Opens on an atmospheric high-angle wide establishing shot looking down through iron grates into a dungeon shaft where Catherine looms menacingly over Juliana with a glowing iron poker. Instantly establishes physical environment, prisoner/captor dynamic, and immediate physical peril.",
+        "arc_legibility": true,
+        "arc_rationale": "The captive/captor dynamic and class conflict are fully transparent, culminating in Catherine targeting the captive's personal emotional vulnerability (her mother's keepsake book) after losing the psychological confrontation.",
+        "passes_gate": true,
+        "situational_summary": "After failing to force a chained prisoner to submit, an aristocratic captor burns the captive's late mother's botanical book before her eyes."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cold moral resistance provoking cruel personal desecration"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the burned volume is Juliana's only remaining keepsake from her mother, raising narrative stakes beyond general dungeon torture."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_16",
+      "start_beat_id": "B030",
+      "end_beat_id": "B035",
+      "start_time": 118.2,
+      "end_time": 140.5,
+      "duration": 22.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B030 opens abruptly on a tight close-up of Juliana delivering a mid-conversation rhetorical retort ('Then why are you so desperate to make me kneel?'). There is zero visual establishing context, no wide shot of the dungeon, and no immediate visual explanation of who she is speaking to or where she is.",
+        "arc_legibility": true,
+        "arc_rationale": "Within the clip, Catherine's enraged response and the burning of Juliana's mother's book establish a clear villain-victim conflict with Juliana straining against chains.",
+        "passes_gate": false,
+        "situational_summary": "A defiant woman taunts her captor about her desperation for power, leading the captor to retaliate by burning her mother's keepsake book as she weeps in chains."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Smug defiance shattering into gut-wrenching grief and helplessness"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the destruction of Juliana's mother's botanical keepsake and her emotional breaking point in chains."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_17",
+      "start_beat_id": "B030",
+      "end_beat_id": "B036",
+      "start_time": 118.2,
+      "end_time": 143.8,
+      "duration": 25.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B030 starts on a tight close-up of Juliana delivering a mid-confrontation rhetorical line ('Then why are you so desperate to make me kneel?'). Cold scrollers lack physical orientation\u2014they cannot see the dungeon setting, the chains, or Catherine's physical leverage in the opening 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict quickly establishes a captive vs. torturer dynamic where Catherine burns Juliana's mother's botanical book to break her psychological resistance.",
+        "passes_gate": false,
+        "situational_summary": "A chained captive mocks her captor's insecurity, provoking the villainess to retaliate by burning the only heirloom left from her mother."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant psychological resistance shattered into raw anguish"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key psychological vulnerability of Juliana (her mother's botanical research book) and Catherine's sadistic torture method."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_18",
+      "start_beat_id": "B030",
+      "end_beat_id": "B037",
+      "start_time": 118.2,
+      "end_time": 145.5,
+      "duration": 27.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B030 opens on a tight close-up without physical orientation or environmental grounding, launching directly into a mid-scene retort with no visual indicator of Juliana's captivity or subterranean surroundings.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained emotional arc where a defiant prisoner is brought to screaming despair when her tormentor attacks an irreplaceable personal keepsake.",
+        "passes_gate": false,
+        "situational_summary": "A captive taunts her tormentor's need for dominance, prompting the captor to burn an irreplaceable book from the prisoner's mother."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cruel psychological breakdown from defiance to helpless screaming grief"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes Catherine discovering and exploiting Juliana's sole emotional weak point (her mother's book)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_19",
+      "start_beat_id": "B030",
+      "end_beat_id": "B038",
+      "start_time": 118.2,
+      "end_time": 151.2,
+      "duration": 33.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B030 is an ungrounded tight close-up on a conversational riposte without visual cues of the dungeon, chains, or power imbalance in the initial 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The progression is crystal clear: captive defiance triggers sadistic retribution as the tormentor destroys a mother's life's work before her eyes.",
+        "passes_gate": false,
+        "situational_summary": "After being challenged on her insecurity, a sadistic noblewoman uses a hot iron to slowly burn a captive's mother's life work."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cold sadism overpowering desperate defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's emotional tether to her mother's life work and Catherine using it as leverage."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_20",
+      "start_beat_id": "B030",
+      "end_beat_id": "B039",
+      "start_time": 118.2,
+      "end_time": 155.2,
+      "duration": 37.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B030 begins mid-dispute on a tight close-up of Juliana's smirk, lacking any visual establishment of the dungeon cell, the iron chains, or the mortal danger within the first 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Extremely clear narrative arc escalating from verbal defiance to destruction of personal property to imminent physical mutilation with a branding iron.",
+        "passes_gate": false,
+        "situational_summary": "A captive's defiance leads her tormentor to torch her mother's heirloom book before suddenly thrusting a glowing brand straight at her face."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Escalation from psychological heartbreak to imminent visceral terror"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Shows a high-stakes dungeon interrogation climax where Catherine threatens to brand/blind Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_21",
+      "start_beat_id": "B033",
+      "end_beat_id": "B040",
+      "start_time": 133.0,
+      "end_time": 160.0,
+      "duration": 27.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B033 opens on an isolated close-up of a hot poker burning paper without establishing who is present, the physical location, or interpersonal stakes. Retrospective justification from B034 is forbidden.",
+        "arc_legibility": true,
+        "arc_rationale": "The full sequence clearly conveys a dungeon torture setting where a captive woman is tormented by an antagonist burning her mother's keepsake before being threatened with physical branding.",
+        "passes_gate": false,
+        "situational_summary": "A chained captive watches helplessly as a cruel woman burns her mother's botanical book with a hot branding iron before turning the glowing poker directly toward her eyes."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Sadistic torment of a helpless captive escalating to imminent physical mutilation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Depicts a major torture/interrogation set-piece, destroying the protagonist's maternal keepsake and putting her in lethal physical peril."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_22",
+      "start_beat_id": "B034",
+      "end_beat_id": "B040",
+      "start_time": 134.5,
+      "end_time": 160.0,
+      "duration": 25.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B034 opens with a medium two-shot establishing Catherine holding a smoldering book directly before Juliana, paired immediately with clear dialogue identifying it as Juliana's sole keepsake from her mother.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict between a sadistic tormentor and a restrained captive; clear moral alignment, personal stakes (mother's heirloom destroyed), and escalating physical danger.",
+        "passes_gate": true,
+        "situational_summary": "A tormentor taunts a chained captive by burning the last surviving keepsake from her mother, then swings the glowing branding iron inches from her face."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral cruelty and maternal grief shifting into sheer survival terror"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Showcases a severe mid-arc dungeon torment sequence and the destruction of the mother's book."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP031_23",
+      "start_beat_id": "B035",
+      "end_beat_id": "B040",
+      "start_time": 138.0,
+      "end_time": 160.0,
+      "duration": 22.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B035 opens on an extreme close-up of Juliana crying out 'Give it back!' without showing what is being taken or who she is confronting. The ungrounded desperate plea lacks immediate physical context.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent beats clarify that Juliana is in chains facing Catherine, who burns her mother's book and threatens her with a branding iron.",
+        "passes_gate": false,
+        "situational_summary": "A chained woman weeps as her antagonist burns her mother's heirloom book and threatens to brand her eyes with a red-hot iron."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Helpless anguish over lost heirloom turning into immediate terror of blinding"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals intense dungeon confrontation and destruction of the protagonist's key sentimental possession."
+      }
+    }
+  ]
+}

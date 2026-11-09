@@ -1,0 +1,70 @@
+{
+  "episode_number": 39,
+  "total_ranked": 4,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP039_05",
+      "absolute_score": 9.2,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Arrests swiping immediately with an intense close-up profile and the sharp military directive 'Secure the chapel' under pluming winter breath. The rapid 20-second escalation builds without wasted frames into an unyielding cliffhanger vow to rescue his wife, maximizing emotional resonance for cold audiences.",
+      "duration": 20.61,
+      "start_beat_id": "B022",
+      "end_beat_id": "B025",
+      "emotional_salience_score": 4,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP039_03",
+      "absolute_score": 8.1,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "A majestic visual reveal of the exiled duke transitions into rapid martial escalation across the snowy landscape. Cutting sharply on Alexander's scarred face declaring 'And I am bringing my wife home' delivers high romantic stakes and strong curiosity about the imperiled wife.",
+      "duration": 29.91,
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "emotional_salience_score": 5,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP039_02",
+      "absolute_score": 6.5,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 1.6
+      },
+      "rank_justification": "The visual barn reveal of Alexander in ducal regalia provides cinematic presence, though lacking an instant dialogue hook in the opening seconds. The march escalates authority cleanly, but cutting on reclaiming his house misses the visceral personal stakes of his wife.",
+      "duration": 26.5,
+      "start_beat_id": "B019",
+      "end_beat_id": "B024",
+      "emotional_salience_score": 4,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP039_01",
+      "absolute_score": 5.2,
+      "subscores": {
+        "hook_score": 1.2,
+        "tension_score": 1.4,
+        "cliffhanger_score": 1.5,
+        "resonance_score": 1.1
+      },
+      "rank_justification": "The opening starts on a standard conversational sentry check with mundane firewood cover dialogue rather than an immediate visceral shock. While the mid-clip ambush provides steady tactical action, the cliffhanger tease of 'Tell the Duke' offers modest curiosity without strong emotional resonance for cold scrollers.",
+      "duration": 20.4,
+      "start_beat_id": "B010",
+      "end_beat_id": "B014",
+      "emotional_salience_score": 3,
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "episode_number": 49,
+  "total_candidates": 9,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP049_01",
+      "episode": "Episode 49",
+      "episode_number": 49,
+      "start_beat_id": "B009",
+      "end_beat_id": "B019",
+      "start_time": 33.2,
+      "end_time": 91.4,
+      "duration": 58.2,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes scandal revealed in a single line: 'A priest and a disgraced bride meeting before dawn in her bedchamber.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium close-up of Father Thomas delivering a piercing gaze, mostly serving as a conversational reaction.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Father Thomas spy on the council and betray its closed-door deliberations against Catherine's rival?",
+        "stakes_importance": "High \u2014 high-stakes espionage targeting the council to preemptively destroy a female rival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 49,
+          "start_beat_id": "B009",
+          "end_beat_id": "B019",
+          "start_time": 33.2,
+          "end_time": 91.4,
+          "duration": 58.2,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP049_02",
+      "episode": "Episode 49",
+      "episode_number": 49,
+      "start_beat_id": "B012",
+      "end_beat_id": "B019",
+      "start_time": 48.5,
+      "end_time": 91.4,
+      "duration": 42.9,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Striking public humiliation reveal: 'The whole court watched you humiliate her.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium wide two-shot leaning across a table, standard dramatic posture without high scroll-stop power.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Father Thomas spy on the council and betray its closed-door deliberations against Catherine's rival?",
+        "stakes_importance": "High \u2014 high-stakes espionage targeting the council to preemptively destroy a female rival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 49,
+          "start_beat_id": "B012",
+          "end_beat_id": "B019",
+          "start_time": 48.5,
+          "end_time": 91.4,
+          "duration": 42.9,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP049_03",
+      "episode": "Episode 49",
+      "episode_number": 49,
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "start_time": 84.0,
+      "end_time": 113.0,
+      "duration": 29.0,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Ruthless espionage demand: 'I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Frontal close-up holding up two fingers in the candlelight with intense, burning eyes legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 4,
+        "specific_question": "What gruesome retribution will the Duke inflict on Father Thomas if he discovers the priest is treasonously conspiring against him?",
+        "stakes_importance": "High \u2014 explicitly names the deadly consequence of crossing the powerful Duke.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 49,
+          "start_beat_id": "B019",
+          "end_beat_id": "B023",
+          "start_time": 84.0,
+          "end_time": 113.0,
+          "duration": 29.0,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP049_04",
+      "episode": "Episode 49",
+      "episode_number": 49,
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 84.0,
+      "end_time": 124.8,
+      "duration": 40.8,
+      "hook_signal": {
+        "beat_id": "B019",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Ruthless espionage demand: 'I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Frontal close-up holding up two fingers in the candlelight with intense, burning eyes legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Father Thomas face the gallows for committing capital treason against the Duke whom the King personally restored?",
+        "stakes_importance": "High \u2014 escalates the stakes to royal treason and execution by hanging under the King's authority.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 49,
+          "start_beat_id": "B019",
+          "end_beat_id": "B025",
+          "start_time": 84.0,
+          "end_time": 124.8,
+          "duration": 40.8,
+          "beat_ids": [
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP049_05",
+      "episode": "Episode 49",
+      "episode_number": 49,
+      "start_beat_id": "B022",
+      "end_beat_id": "B025",
+      "start_time": 98.0,
+      "end_time": 124.8,
+      "duration": 26.8,
+      "hook_signal": {
+        "beat_id": "B022",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Self-aware, high-stakes grievance: 'a woman the church itself just humiliated back into relevance.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Full two-shot face-off across the table with hands clasped behind back, solid staging but static.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B025",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Father Thomas face the gallows for committing capital treason against the Duke whom the King personally restored?",
+        "stakes_importance": "High \u2014 escalates the stakes to royal treason and execution by hanging under the King's authority.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 49,
+          "start_beat_id": "B022",
+          "end_beat_id": "B025",
+          "start_time": 98.0,
+          "end_time": 124.8,
+          "duration": 26.8,
+          "beat_ids": [
+            "B022",
+            "B023",
+            "B024",
+            "B025"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B022",
+        "B023",
+        "B024",
+        "B025"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP049_06",
+      "episode": "Episode 49",
+      "episode_number": 49,
+      "start_beat_id": "B022",
+      "end_beat_id": "B027",
+      "start_time": 98.0,
+      "end_time": 134.5,
+      "duration": 36.5,
+      "hook_signal": {
+        "beat_id": "B022",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Self-aware, high-stakes grievance: 'a woman the church itself just humiliated back into relevance.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Full two-shot face-off across the table with hands clasped behind back, solid staging but static.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Catherine leverage the power of Duchess to repay or punish those entangled in her treason?",
+        "stakes_importance": "High \u2014 reveals her ultimate, audacious coup: seizing the title of Duchess through illicit conspiracy.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 49,
+          "start_beat_id": "B022",
+          "end_beat_id": "B027",
+          "start_time": 98.0,
+          "end_time": 134.5,
+          "duration": 36.5,
+          "beat_ids": [
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP049_07",
+      "episode": "Episode 49",
+      "episode_number": 49,
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "start_time": 103.8,
+      "end_time": 144.75,
+      "duration": 40.95,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Life-or-death conspiracy stakes: 'what happens to me when the Duke finds out a crowned priest conspired against him?'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Medium shot turning back around with an expression etched with genuine concern.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 5,
+        "specific_question": "Is Father Thomas's tender intimacy with Catherine a sacrilegious romance that will destroy them both if uncovered?",
+        "stakes_importance": "High \u2014 shock reveal of forbidden physical and romantic intimacy between a crowned priest and a disgraced noblewoman, cut to black at the peak of scandal.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 49,
+          "start_beat_id": "B023",
+          "end_beat_id": "B031",
+          "start_time": 103.8,
+          "end_time": 144.75,
+          "duration": 40.95,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP049_08",
+      "episode": "Episode 49",
+      "episode_number": 49,
+      "start_beat_id": "B025",
+      "end_beat_id": "B029",
+      "start_time": 118.0,
+      "end_time": 142.8,
+      "duration": 24.8,
+      "hook_signal": {
+        "beat_id": "B025",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Lethal high-stakes threat and danger: 'Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Tight close-up of a priest's intense, brooding face warning of capital execution.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B029",
+        "curiosity_gap_score": 4,
+        "specific_question": "Now that the treasonous pact is sealed with clasped hands, will their conspiracy overthrow the Duke or lead them to the gallows?",
+        "stakes_importance": "High \u2014 formal sealing of a lethal conspiracy between a priest and disgraced noblewoman.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 49,
+          "start_beat_id": "B025",
+          "end_beat_id": "B029",
+          "start_time": 118.0,
+          "end_time": 142.8,
+          "duration": 24.8,
+          "beat_ids": [
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP049_09",
+      "episode": "Episode 49",
+      "episode_number": 49,
+      "start_beat_id": "B025",
+      "end_beat_id": "B031",
+      "start_time": 118.0,
+      "end_time": 144.75,
+      "duration": 26.75,
+      "hook_signal": {
+        "beat_id": "B025",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Lethal high-stakes threat and danger: 'Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Tight close-up of a priest's intense, brooding face warning of capital execution.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 5,
+        "specific_question": "Is Father Thomas's tender intimacy with Catherine a sacrilegious romance that will destroy them both if uncovered?",
+        "stakes_importance": "High \u2014 shock reveal of forbidden physical and romantic intimacy between a crowned priest and a disgraced noblewoman, cut to black at the peak of scandal.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 49,
+          "start_beat_id": "B025",
+          "end_beat_id": "B031",
+          "start_time": 118.0,
+          "end_time": 144.75,
+          "duration": 26.75,
+          "beat_ids": [
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

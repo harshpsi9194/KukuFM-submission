@@ -1,0 +1,290 @@
+{
+  "episode_number": 34,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP034_28",
+      "absolute_rubric_score": 9.7,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B044",
+        "end_beat_id": "B051",
+        "start_time": 156.8,
+        "end_time": 190.0,
+        "duration": 33.2,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "You understand that refusal may be treated as proof that you knowingly practiced witchcraft?",
+        "opening_character": "JUDGE",
+        "rationale": "Explicit, life-or-death accusation of knowingly practicing witchcraft delivered with lethal severity."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "What irreversible sentence will fall upon Juliana as the Judge lowers his hand over her unbroken figure?"
+      },
+      "situational_summary": "Accused of witchcraft by a stern judge, an unbroken woman proudly defends her healing before the court as the judge raises his hand to pronounce her final sentence.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 3
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP034_23",
+      "absolute_rubric_score": 9.5,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.1619,
+      "max_similarity_to_selected": 0.8013,
+      "boundary": {
+        "start_beat_id": "B032",
+        "end_beat_id": "B045",
+        "start_time": 119.8,
+        "end_time": 163.6,
+        "duration": 43.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Herbs are not magic! They are medicine!",
+        "opening_character": "LADY JULIANA",
+        "rationale": "Rousing thematic manifesto shouted to the courtroom: 'Herbs are not magic! They are medicine!'"
+      },
+      "cliffhanger": {
+        "final_quote": "Then let it be.",
+        "final_character": "LADY JULIANA",
+        "specific_question": "Will the Judge immediately sentence Juliana to death or torture for voluntarily embracing the witchcraft accusation?"
+      },
+      "situational_summary": "When a judge warns a chained healer that refusing to renounce herbal medicine will be ruled as witchcraft, she unflinchingly embraces the accusation.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP034_05",
+      "absolute_rubric_score": 9.4,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.118,
+      "max_similarity_to_selected": 0.8377,
+      "boundary": {
+        "start_beat_id": "B009",
+        "end_beat_id": "B020",
+        "start_time": 35.3,
+        "end_time": 81.0,
+        "duration": 45.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Silence!",
+        "opening_character": "JUDGE",
+        "rationale": "Loud, commanding shout ('Silence!') paired with an echoing audio burst."
+      },
+      "cliffhanger": {
+        "final_quote": "Yes.",
+        "final_character": "PRUDENCE",
+        "specific_question": "How will the court capitalize on Prudence's devastating lie to sentence Juliana to death?"
+      },
+      "situational_summary": "In a tense courtroom trial, a judge interrogates a trembling maid who tearfully betrays her accused mistress by testifying she performed strange occult rituals.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP034_26",
+      "absolute_rubric_score": 9.0,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.036,
+      "max_similarity_to_selected": 0.8367,
+      "boundary": {
+        "start_beat_id": "B039",
+        "end_beat_id": "B050",
+        "start_time": 142.2,
+        "end_time": 184.5,
+        "duration": 42.3,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Lady Juliana, if you wish to save yourself, renounce these practices.",
+        "opening_character": "JUDGE",
+        "rationale": "Dire judicial ultimatum warning her to renounce her practices to save her life."
+      },
+      "cliffhanger": {
+        "final_quote": "Lady Juliana Ashcroft...",
+        "final_character": "JUDGE",
+        "specific_question": "What terrible judgment and penalty is the Judge about to pronounce upon Lady Juliana Ashcroft?"
+      },
+      "situational_summary": "During a witch trial, a courageous noblewoman rejects a judge's demand to renounce her healing arts, prompting the judge to silence the courtroom and rise to deliver her formal sentence.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP034_25",
+      "absolute_rubric_score": 8.8,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.0194,
+      "max_similarity_to_selected": 0.8986,
+      "boundary": {
+        "start_beat_id": "B039",
+        "end_beat_id": "B049",
+        "start_time": 142.2,
+        "end_time": 179.4,
+        "duration": 37.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Lady Juliana, if you wish to save yourself, renounce these practices.",
+        "opening_character": "JUDGE",
+        "rationale": "Dire judicial ultimatum warning her to renounce her practices to save her life."
+      },
+      "cliffhanger": {
+        "final_quote": "Enough!",
+        "final_character": "JUDGE",
+        "specific_question": "What immediate, brutal punishment will the enraged Judge decree after violently silencing the courtroom?"
+      },
+      "situational_summary": "In a courtroom trial, a defiant noblewoman refuses a judge's ultimatum to renounce her healing practices under threat of witchcraft charges, provoking the judge to violently gavel the court to order.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP034_20",
+      "rank": 4,
+      "recommended_boundary": "B032 -> B041",
+      "similarity": 0.9564,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9564 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP034_22",
+      "rank": 5,
+      "recommended_boundary": "B032 -> B044",
+      "similarity": 0.9493,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9493 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP034_19",
+      "rank": 10,
+      "recommended_boundary": "B032 -> B039",
+      "similarity": 0.9521,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9521 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP034_21",
+      "rank": 15,
+      "recommended_boundary": "B032 -> B043",
+      "similarity": 0.9516,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9516 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP034_20",
+      "rank": 4,
+      "recommended_boundary": "B032 -> B041",
+      "similarity": 0.9564,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9564 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP034_22",
+      "rank": 5,
+      "recommended_boundary": "B032 -> B044",
+      "similarity": 0.9493,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9493 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP034_19",
+      "rank": 10,
+      "recommended_boundary": "B032 -> B039",
+      "similarity": 0.9521,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9521 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP034_21",
+      "rank": 15,
+      "recommended_boundary": "B032 -> B043",
+      "similarity": 0.9516,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9516 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP034_20",
+      "rank": 4,
+      "recommended_boundary": "B032 -> B041",
+      "similarity": 0.9564,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9564 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP034_22",
+      "rank": 5,
+      "recommended_boundary": "B032 -> B044",
+      "similarity": 0.9493,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9493 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP034_19",
+      "rank": 10,
+      "recommended_boundary": "B032 -> B039",
+      "similarity": 0.9521,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9521 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP034_21",
+      "rank": 15,
+      "recommended_boundary": "B032 -> B043",
+      "similarity": 0.9516,
+      "duplicate_of": "CAND_EP034_23",
+      "reason": "Exceeded near-duplicate threshold (0.9516 >= 0.90)"
+    }
+  ]
+}

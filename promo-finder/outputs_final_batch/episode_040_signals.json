@@ -1,0 +1,432 @@
+{
+  "episode_number": 40,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard wide establishing shot of an exterior cathedral with guests arriving, lacking immediate visual friction or urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "Logistical announcement ('The Harrington family') with no narrative stakes or dramatic conflict.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Generic carriage arrival and opening of carriage door without discernible physical drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Routine descent from carriage with polite physical assistance; standard period setting setup.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Polite observational banter noting county nobility presence with low intrinsic urgency.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard tracking two-shot of a couple walking arm-in-arm through an arrival crowd.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Expositional dialogue establishing social ambition and family connection to the Duchess of Ashburgh.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Low-angle shot from behind ascending exterior steps; routine physical motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Suggests rivalry or schadenfreude regarding Juliana, but serves primarily as setup rather than a direct verbal shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tight close-up with cruel satisfaction in the eyes, conveying subtle villainous intent but limited dynamic motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes ominous threat ('She won't be seeing anything for long') followed by a chilling endorsement ('Good').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up capturing a cold, ruthless gaze that creates palpable interpersonal friction.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Sinister exposition framing the cathedral as unlucky for Juliana with low immediate auditory punch.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Amused laugh as characters reach the wooden doors; mild character interaction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct, spiteful claim that Juliana will receive harsh retribution even beneath God's watch.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Dramatic tracking shot following characters down a candlelit church aisle, creating moody atmospheric depth.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Mundane logistical remarks regarding seating view and whether it looks onto the wedding.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Medium profile shot of characters sitting down in a wooden pew.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Implication of an impending sinister plot or ambush unfolding directly after the ceremony.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up two-shot featuring a dark, knowing smirk that signals conspiracy clearly on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Generic anxiety about event execution ('Everything must go perfectly') without high stakes revealed.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Nervous groom adjusting gloves and lapels at a floral altar, demonstrating mild physical tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Ominous balcony framing with an elder conspirator gripping a cane overlooking the nave.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Expansive high-angle shot showing guards at attention and guests seated in the nave.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Explicit military confirmation that all cathedral exits are locked down, establishing an ambush trap.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Formal bow from a uniformed royal guard reporting to an elder conspirator.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Expositional proclamation setting a sunset deadline for coronation/ascension of the new rulers.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Over-the-shoulder balcony framing looking down over the altar and assembly below.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Lethal, bloodthirsty assassination declaration: 'And its witch will be dead.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight, menacing close-up on the conspirator's face spreading a sinister smile, instantly communicating villainy on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual drama: cathedral doors part down the central aisle, flooding the dark church with brilliant golden light.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Sharp head turn and wide-eyed shock/awe in tight close-up, providing an immediate reaction cue.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: silhouetted bride revealed in a lavish imperial bridal gown and veil, framed against blinding doorway light.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "High-angle tracking shot following a cathedral-length bridal veil trailing between seated guests.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Admiration of bridal appearance ('She looks like a queen') with no conflict or shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of an onlooker leaning forward attentively from a pew.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of groom displaying a possessive smile at the altar.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Complimentary dialogue praising royal stature ('You look more queen than bride') with low tension.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Clasping gloved hands at the top of the altar steps, clearly establishing the romantic pairing on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Biting verbal insult and status cut: 'you look better in silk than you ever did as an ignored cousin.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight two-shot of clasping hands and shared conspiratorial smirks at the altar before cutting to black.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 0,
+      "specific_question": "Who are the guests arriving at this cathedral?",
+      "stakes_importance": "Low \u2014 standard atmospheric world-building shot with no conflict or characters introduced yet.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 0,
+      "specific_question": "What role does the Harrington family play in the upcoming ceremony?",
+      "stakes_importance": "Low \u2014 formal carriage arrival and character introduction.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 0,
+      "specific_question": "What are Lord and Lady Harrington planning as they enter?",
+      "stakes_importance": "Low \u2014 standard character descent from carriage.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why is this wedding drawing every noble family in the county?",
+      "stakes_importance": "Low \u2014 establishes high-society setting without immediate peril.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will the Harrington family secure their connection to the Duchess of Ashburgh?",
+      "stakes_importance": "Medium \u2014 hints at political ambitions and social climbing maneuvers.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 3,
+      "specific_question": "Where is Juliana, and why would seeing this spectacle torment or humble her?",
+      "stakes_importance": "Medium \u2014 introduces targeted malice toward an absent protagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 4,
+      "specific_question": "What violent or permanent fate has Lord Harrington orchestrated to ensure Juliana 'won't be seeing anything for long'?",
+      "stakes_importance": "High \u2014 direct, ruthless implication of blindness, murder, or immediate physical elimination.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "What past tragedy or cruelty befell Juliana at this cathedral?",
+      "stakes_importance": "Medium \u2014 deepens the ominous history of abuse and foreshadows renewed trauma.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "What sadistic punishment does Lady Harrington believe Juliana 'deserves' to suffer in church?",
+      "stakes_importance": "Medium \u2014 highlights unrepentant family malice and impending retribution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 2,
+      "specific_question": "What event besides the wedding are Lord and Lady Harrington positioned to watch?",
+      "stakes_importance": "Medium \u2014 sets up a brewing conspiracy, but immediately builds to Beat B011.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 4,
+      "specific_question": "What horrifying catastrophe is planned to unfold immediately following the wedding vows?",
+      "stakes_importance": "High \u2014 promises an orchestrated public strike or trap targeting the proceedings.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why is Rupert so on edge about this wedding going flawlessly?",
+      "stakes_importance": "Low \u2014 anxious groom routine with minimal overt danger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who is the sinister elder nobleman surveilling the nave from the high balcony?",
+      "stakes_importance": "Medium \u2014 introduces an ominous hidden conspirator in position of power.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 1,
+      "specific_question": "Is the entire gathering of aristocrats and guards walking into a deadly trap?",
+      "stakes_importance": "Low \u2014 high-angle surveillance establishing geography and scale.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why has the nobleman sealed and guarded every cathedral exit before the ceremony commences?",
+      "stakes_importance": "High \u2014 indicates a coordinated lockdown to trap victims inside or prevent rescue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "By what ruthless scheme will Ashburgh's succession be completely usurped before nightfall?",
+      "stakes_importance": "Medium \u2014 stakes out political overthrow, leading directly into the lethal declaration.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who is the targeted 'witch', and how will the nobleman carry out her assassination in the locked cathedral?",
+      "stakes_importance": "High \u2014 explicit death threat and assassination order confirming a lethal conspiracy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who is entering the cathedral as the grand bridal march strikes up?",
+      "stakes_importance": "Low \u2014 classic bridal entrance cue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 1,
+      "specific_question": "Is Rupert awestruck by love or stunned by who is walking down the aisle?",
+      "stakes_importance": "Low \u2014 momentary reaction shot.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 2,
+      "specific_question": "Is Catherine the intended target of the assassination plot, or a key conspirator?",
+      "stakes_importance": "Medium \u2014 reveals the bride's majestic appearance against the backdrop of danger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Catherine complete her procession to the altar without incident?",
+      "stakes_importance": "Low \u2014 transitional bridal aisle walk.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why does Lady Harrington regard Catherine as a queen rather than a mere bride?",
+      "stakes_importance": "Low \u2014 character commentary admiring the bride's imperial presence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 1,
+      "specific_question": "What does Rupert's possessive expression reveal about his true ambitions?",
+      "stakes_importance": "Low \u2014 brief reaction shot at the altar.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 2,
+      "specific_question": "Are Rupert and Catherine seizing power as rulers rather than a loving couple?",
+      "stakes_importance": "Medium \u2014 hints at treasonous or royal ascension intentions.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 4,
+      "specific_question": "What treachery did this 'ignored cousin' execute to usurp the dukedom and marry Catherine at the altar?",
+      "stakes_importance": "High \u2014 exposes Rupert as an opportunistic usurper whose fraudulent rise to power is sealed at the altar right before the scene cut.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

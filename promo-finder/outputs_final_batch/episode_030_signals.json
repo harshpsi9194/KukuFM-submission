@@ -1,0 +1,551 @@
+{
+  "episode_number": 30,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Elder Nobleman opens with a sharp, accusatory metaphor about a 'rat in your cellar' that servants can smell.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle tracking on black dress shoes and gold cane transitioning to an intimidating hallway confrontation creates clear visual authority and tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Rupert's defensive declaration reveals a captive prisoner ('The Ashcroft girl is locked tight') right out of the gate.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Rupert looking defensive and agitated provides moderate emotional friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Exposition detailing kitchen gossip and guarded grates builds world context without an explosive shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of piercing, contemptuous glare conveys villainous disdain without active physical drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Reveals high-stakes criminal conspiracy with the blunt line: 'She knows the Duchess was poisoned.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Rupert nervously pulling at his leather gloves with visible dread shows internal tension but muted physical action.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tight close-up of narrowing eyes indicates calculation but lacks immediate visual shock on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "An incomplete, trailing sentence ('If she speaks...') offering minimal standalone punch.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tight close-up of a breathless swallow registers fear, but lacks broader conflict context.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Delivers an explosive, brutal ultimatum ordering murder: 'You do not store weeds in your cellar, you burn them!'",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Physical confrontation where the Elder Nobleman aggressively lunges forward and pins Rupert against the wall with his cane knob.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A mild logistical question ('What are you suggesting?') seeking clarification.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle close-up framing the walking stick actively pressed under Rupert's cravat retains palpable physical peril.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A decisive tactical shift declared with: 'We stop hiding the prisoner.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Withdrawal of the cane and turning toward doors is a standard staging transition.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Generic tracking shot pushing open mahogany doors into a library.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct proclamation of malicious intent: 'We give them a reason to condemn her.'",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard doorway pause framing two characters entering a room.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Conversational inquiry ('You have a solution?') with no immediate standalone peril.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Regal reveal of Catherine in ornate burgundy brocade unfurling a red lace fan before a roaring hearth.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Cold, predatory declaration of institutional malice: 'We use the law to destroy her.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Profile close-up of icy confidence provides clear character tone but standard framing.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A two-word echo question ('The law?') carrying zero standalone narrative shock.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Basic close-up of a bewildered facial expression.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Lays out circumstantial evidence for a frame-up involving secret medicine and unauthorized visits.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Slow pacing behind a desk leaning forward indicates conspiratorial intensity without rapid movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Smirking close-up with fan fluttering portrays scheming intrigue, but lacks urgent action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Outlines a chilling judicial setup: 'Give those facts to a magistrate in the right order, and she becomes a poisoner.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Atmospheric firelit framing of two aristocrats scheming beside a desk.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Hypothetical counter-question about the victim claiming to be a healer.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Subtle eyebrow raise and fan movement indicate curiosity without overt visual tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A sudden, sinister escalation invoking lethal religious hysteria: 'Then call it witchcraft.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tight firelit close-up emphasizes ruthless villainy through facial stillness.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Explicitly raises the life-or-death stakes: 'Witchcraft is a capital charge.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Shocked, wide-eyed facial reaction registering the severity of the plot.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Single-word agreement ('Precisely.') relying entirely on preceding context for weight.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Straight-on remorseless gaze delivers cold villainy with minimal movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Blatant, ruthless conspiracy to commit judicial murder: 'Do not hide the evidence, manufacture it... buy the jury, and let the State hang her.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Three-shot of conspirators standing together in an enclosed library space.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "An incomplete conspiratorial nudge pointing toward planted evidence ('Her botanical ledger...').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Malicious smile with fluttering fan conveys petty villainy.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A single conversational agreement ('Exactly.') with no standalone hook substance.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard close-up nod.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Short conversational prompt asking about another character ('And the Dowager?').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Subtle lean forward in close-up.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Dismisses danger with callous arrogance towards a vulnerable target: 'No magistrate will trust a dying woman's accusations...'",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Dismissive hand gesture in a medium shot.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Brief prompt question naming the protagonist without stating any action.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Deep exhale capturing heavy complicity and dread.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly seals the protagonist's fate with an imminent timeline: 'She goes before the magistrate tomorrow.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Stern, direct eye contact across a desk.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Bloodthirsty villainous gloating celebrating execution: 'She will hang... The town will cheer as the witch's disgraced daughter faces the noose.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Dramatic character beat with Catherine spreading a vivid red fan wide while smiling with venomous glee.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Definitive action step locking in the protagonist's capture: 'I will write the arrest warrant myself.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Pulling out a desk chair and sitting down with dark purpose.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Chilling transformation line delivering absolute genre payoff: 'Tomorrow, she stops being a prisoner. She becomes a witch.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Extreme close-up of a weathered, predatory face illuminated in firelight.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: high-angle look down through iron grates into a flooded dungeon reveals Juliana chained by the wrists in shivering rags under moonlight.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 3,
+      "specific_question": "Who is the 'rat' trapped in Rupert's cellar that threatens to expose him?",
+      "stakes_importance": "Medium \u2014 introduces an immediate looming threat and secret containment within the household.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why has Rupert secretly locked up the Ashcroft girl in the cellar?",
+      "stakes_importance": "Medium \u2014 establishes unlawful imprisonment and raises the question of what crime she knows about.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the kitchen maids uncover the prisoner before Rupert can silence them?",
+      "stakes_importance": "Medium \u2014 ticking clock of discovery threatening to unravel Rupert's secrecy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the conspirators silence the Ashcroft girl before she exposes the Duchess's poisoning?",
+      "stakes_importance": "High \u2014 escalates the narrative from simple containment to complicity in a capital murder.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "What ruthless calculation is forming in the Elder Nobleman's mind?",
+      "stakes_importance": "Low \u2014 suspenseful reaction shot, but non-verbal and lacks explicit immediate action.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 4,
+      "specific_question": "What fatal consequences will unfold if the imprisoned girl reveals the truth?",
+      "stakes_importance": "High \u2014 an incomplete sentence suspended at the threshold of total ruin.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Rupert obey the order to execute and 'burn' their prisoner?",
+      "stakes_importance": "High \u2014 direct physical assault and a ruthless command to murder the innocent witness.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "What horrific method of disposal is the Elder Nobleman about to demand?",
+      "stakes_importance": "Medium \u2014 direct question following physical intimidation, demanding a lethal resolution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 4,
+      "specific_question": "What does the Elder Nobleman plan to do by dragging the prisoner out into the open?",
+      "stakes_importance": "High \u2014 unexpected strategic reversal that places the captive at immediate public risk.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 1,
+      "specific_question": "What awaits them inside the library?",
+      "stakes_importance": "Low \u2014 transitional movement through doors with no dialogue or immediate peril.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 4,
+      "specific_question": "What false charge will they fabricate to legally condemn the innocent girl?",
+      "stakes_importance": "High \u2014 sinister shift into malicious state-sanctioned persecution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 2,
+      "specific_question": "How does Catherine fit into the conspiracy to destroy the prisoner?",
+      "stakes_importance": "Low \u2014 introductory inquiry establishing her presence in the scheme.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the corrupt nobles weaponize the legal system to execute the witness?",
+      "stakes_importance": "High \u2014 introduces an impending judicial execution with total cold calculation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 2,
+      "specific_question": "How can the law be used against someone who witnessed their own crime?",
+      "stakes_importance": "Low \u2014 brief one-word query acting as an interlocutory beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will they twist her healing visit into proof of premeditated murder?",
+      "stakes_importance": "Medium \u2014 frames the specific factual trap being engineered around the victim.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 1,
+      "specific_question": "Does Catherine fully endorse the framing?",
+      "stakes_importance": "Low \u2014 silent character reaction with no new narrative progression.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can the magistrate be manipulated into condemning an innocent healer as a murderer?",
+      "stakes_importance": "High \u2014 details the fatal trap being sprung against the protagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the conspirators counter her legitimate defense as a physician and healer?",
+      "stakes_importance": "Medium \u2014 tests the vulnerability of their conspiracy against her defense.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 5,
+      "specific_question": "How can Juliana survive an accusation of witchcraft orchestrated by the aristocracy?",
+      "stakes_importance": "High \u2014 invocation of a lethal, unprovable capital crime that guarantees a death sentence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Rupert balk at taking the conspiracy all the way to a public execution?",
+      "stakes_importance": "Medium \u2014 vocalizes the lethal stakes and highlights Rupert's lingering hesitation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the conspirators genuinely see through the execution of an innocent girl?",
+      "stakes_importance": "High \u2014 chilling, resolute confirmation of premeditated judicial murder.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can anyone stop this bought-and-paid-for trial before the State hangs her tomorrow?",
+      "stakes_importance": "High \u2014 complete declaration of judicial conspiracy, corruption, and a scheduled execution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will they forge or manipulate Juliana's botanical ledger as evidence of witchcraft?",
+      "stakes_importance": "Medium \u2014 targets the specific physical artifact that will seal her fate.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will the ledger serve as the final piece of evidence?",
+      "stakes_importance": "Low \u2014 brief conversational agreement with no independent momentum.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the ailing Dowager recover enough to expose the real poisoners?",
+      "stakes_importance": "Medium \u2014 introduces the true victim as a potential wildcard witness.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the dying Dowager succumb before she can testify against her own household?",
+      "stakes_importance": "High \u2014 demonstrates the conspirators' absolute callousness toward their dying matriarch.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 3,
+      "specific_question": "What immediate, brutal fate awaits Juliana at daybreak?",
+      "stakes_importance": "Medium \u2014 centers the focus directly back on the endangered protagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Juliana defend herself when dragged before the corrupt magistrate tomorrow?",
+      "stakes_importance": "High \u2014 sets an immediate 24-hour deadline for her public trial and execution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will the town revel in hanging an innocent girl, or can Juliana expose the real poisoners before the noose tightens?",
+      "stakes_importance": "High \u2014 venomous celebration of an innocent girl's imminent death sentence and public disgrace.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Rupert finalize the death warrant and seal Juliana's doom?",
+      "stakes_importance": "High \u2014 the point of no return where moral hesitation transforms into formal legal condemnation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Juliana survive when the full weight of the nobility brands her as an executed witch by tomorrow?",
+      "stakes_importance": "High \u2014 chilling, predatory climax of the conspiracy sealing her transformation into a condemned martyr.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will anyone rescue Juliana from the flooded dungeon before she is dragged to the gallows at dawn?",
+      "stakes_importance": "High \u2014 visceral visual contrast revealing the chained, shivering protagonist cut off on the brink of trial and execution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

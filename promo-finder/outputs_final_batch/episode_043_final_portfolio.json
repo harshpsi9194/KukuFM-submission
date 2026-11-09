@@ -1,0 +1,380 @@
+{
+  "episode_number": 43,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP043_25",
+      "absolute_rubric_score": 9.7,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.5,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B024",
+        "end_beat_id": "B031",
+        "start_time": 68.8,
+        "end_time": 102.2,
+        "duration": 33.4,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You sold my men to the enemy.",
+        "opening_character": "ALEXANDER",
+        "rationale": "Lethal direct accusation ('You sold my men to the enemy') is a monstrous, explosive betrayal hook."
+      },
+      "cliffhanger": {
+        "final_quote": "Sterling handled the report!",
+        "final_character": "BLOND NOBLEMAN",
+        "specific_question": "Will Lord Sterling turn on Rupert now that he has been publicly accused as the architect of the false report?"
+      },
+      "situational_summary": "A presumed-dead Duke corners the nobleman who stole his title and sold his men out, as a Crown Official confirms the fraud and the usurper frantically shifts blame to a co-conspirator.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP043_20",
+      "absolute_rubric_score": 9.3,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.1308,
+      "max_similarity_to_selected": 0.7278,
+      "boundary": {
+        "start_beat_id": "B019",
+        "end_beat_id": "B031",
+        "start_time": 57.0,
+        "end_time": 102.2,
+        "duration": 45.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Read the names.",
+        "opening_character": "ALEXANDER",
+        "rationale": "Thrusting the dossier and demanding 'Read the names' creates an electrifying, high-stakes naming-of-culprits moment."
+      },
+      "cliffhanger": {
+        "final_quote": "Sterling handled the report!",
+        "final_character": "BLOND NOBLEMAN",
+        "specific_question": "Will Lord Sterling turn on Rupert now that he has been publicly accused as the architect of the false report?"
+      },
+      "situational_summary": "A scarred Duke corners the conspirators who staged his death, causing the panic-stricken usurper to sell out his co-conspirator at the altar.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 3
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP043_09",
+      "absolute_rubric_score": 9.0,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0914,
+      "max_similarity_to_selected": 0.7474,
+      "boundary": {
+        "start_beat_id": "B006",
+        "end_beat_id": "B019",
+        "start_time": 19.2,
+        "end_time": 60.0,
+        "duration": 40.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "No. He is your Duke.",
+        "opening_character": "ROYAL GUARD",
+        "rationale": "Direct power reversal line ('No. He is your Duke.') delivers an explosive identity and status revelation."
+      },
+      "cliffhanger": {
+        "final_quote": "Read the names.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Which conspirators will be named on the official treason document?"
+      },
+      "situational_summary": "After a royal guard confirms a man's true identity as Duke, the Duke presents a sealed War Office dossier exposing deliberate wartime treason before ordering the names of the traitors read aloud.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 3
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP043_03",
+      "absolute_rubric_score": 8.8,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.1
+      },
+      "mmr_score": 0.0317,
+      "max_similarity_to_selected": 0.8122,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B011",
+        "start_time": 0.0,
+        "end_time": 35.0,
+        "duration": 35.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You're lying!",
+        "opening_character": "BLOND NOBLEMAN",
+        "rationale": "High-stakes accusatory shout ('This man is an imposter! Arrest him!') immediately creates an urgent crisis in audio."
+      },
+      "cliffhanger": {
+        "final_quote": "Read the first.",
+        "final_character": "ALEXANDER",
+        "specific_question": "What does the first sealed royal document expose that turns Lord Sterling pale with dread?"
+      },
+      "situational_summary": "Rejected by his own guards who salute his rival as Duke, a nobleman watches helplessly as the true Duke presents sealed War Office dossiers to expose the conspiracy.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP043_17",
+      "absolute_rubric_score": 8.6,
+      "subscores": {
+        "hook_score": 1.6,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": -0.1019,
+      "max_similarity_to_selected": 0.8375,
+      "boundary": {
+        "start_beat_id": "B017",
+        "end_beat_id": "B026",
+        "start_time": 50.8,
+        "end_time": 77.8,
+        "duration": 27.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Information regarding the Duke's position was transmitted through British channels.",
+        "opening_character": "CROWN OFFICIAL",
+        "rationale": "Revealing treason through domestic channels ('transmitted through British channels') confirms high-level betrayal."
+      },
+      "cliffhanger": {
+        "final_quote": "You took my title.",
+        "final_character": "ALEXANDER",
+        "specific_question": "How will Alexander extract retribution from the cousin who stole his title and life?"
+      },
+      "situational_summary": "Inside a ruined cathedral, a returned Duke confronts his terrified cousin with evidence of military treason and theft of his title.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 3
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP043_26",
+      "rank": 2,
+      "recommended_boundary": "B024 -> B033",
+      "similarity": 0.9819,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9819 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP043_24",
+      "rank": 3,
+      "recommended_boundary": "B024 -> B030",
+      "similarity": 0.9871,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9871 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP043_23",
+      "rank": 7,
+      "recommended_boundary": "B024 -> B029",
+      "similarity": 0.9744,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9744 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP043_26",
+      "rank": 2,
+      "recommended_boundary": "B024 -> B033",
+      "similarity": 0.9819,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9819 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP043_24",
+      "rank": 3,
+      "recommended_boundary": "B024 -> B030",
+      "similarity": 0.9871,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9871 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP043_23",
+      "rank": 7,
+      "recommended_boundary": "B024 -> B029",
+      "similarity": 0.9744,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9744 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP043_26",
+      "rank": 2,
+      "recommended_boundary": "B024 -> B033",
+      "similarity": 0.9819,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9819 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP043_24",
+      "rank": 3,
+      "recommended_boundary": "B024 -> B030",
+      "similarity": 0.9871,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9871 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP043_23",
+      "rank": 7,
+      "recommended_boundary": "B024 -> B029",
+      "similarity": 0.9744,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9744 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP043_08",
+      "rank": 9,
+      "recommended_boundary": "B006 -> B017",
+      "similarity": 0.945,
+      "duplicate_of": "CAND_EP043_09",
+      "reason": "Exceeded near-duplicate threshold (0.9450 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP043_10",
+      "rank": 11,
+      "recommended_boundary": "B006 -> B020",
+      "similarity": 0.9393,
+      "duplicate_of": "CAND_EP043_09",
+      "reason": "Exceeded near-duplicate threshold (0.9393 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP043_11",
+      "rank": 13,
+      "recommended_boundary": "B006 -> B021",
+      "similarity": 0.9096,
+      "duplicate_of": "CAND_EP043_09",
+      "reason": "Exceeded near-duplicate threshold (0.9096 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP043_07",
+      "rank": 17,
+      "recommended_boundary": "B006 -> B016",
+      "similarity": 0.946,
+      "duplicate_of": "CAND_EP043_09",
+      "reason": "Exceeded near-duplicate threshold (0.9460 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP043_26",
+      "rank": 2,
+      "recommended_boundary": "B024 -> B033",
+      "similarity": 0.9819,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9819 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP043_24",
+      "rank": 3,
+      "recommended_boundary": "B024 -> B030",
+      "similarity": 0.9871,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9871 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP043_23",
+      "rank": 7,
+      "recommended_boundary": "B024 -> B029",
+      "similarity": 0.9744,
+      "duplicate_of": "CAND_EP043_25",
+      "reason": "Exceeded near-duplicate threshold (0.9744 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP043_01",
+      "rank": 8,
+      "recommended_boundary": "B001 -> B006",
+      "similarity": 0.9171,
+      "duplicate_of": "CAND_EP043_03",
+      "reason": "Exceeded near-duplicate threshold (0.9171 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP043_08",
+      "rank": 9,
+      "recommended_boundary": "B006 -> B017",
+      "similarity": 0.945,
+      "duplicate_of": "CAND_EP043_09",
+      "reason": "Exceeded near-duplicate threshold (0.9450 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP043_10",
+      "rank": 11,
+      "recommended_boundary": "B006 -> B020",
+      "similarity": 0.9393,
+      "duplicate_of": "CAND_EP043_09",
+      "reason": "Exceeded near-duplicate threshold (0.9393 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP043_11",
+      "rank": 13,
+      "recommended_boundary": "B006 -> B021",
+      "similarity": 0.9096,
+      "duplicate_of": "CAND_EP043_09",
+      "reason": "Exceeded near-duplicate threshold (0.9096 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP043_02",
+      "rank": 16,
+      "recommended_boundary": "B001 -> B009",
+      "similarity": 0.9277,
+      "duplicate_of": "CAND_EP043_03",
+      "reason": "Exceeded near-duplicate threshold (0.9277 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP043_07",
+      "rank": 17,
+      "recommended_boundary": "B006 -> B016",
+      "similarity": 0.946,
+      "duplicate_of": "CAND_EP043_09",
+      "reason": "Exceeded near-duplicate threshold (0.9460 >= 0.90)"
+    }
+  ]
+}

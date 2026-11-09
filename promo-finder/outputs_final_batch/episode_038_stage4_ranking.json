@@ -1,0 +1,70 @@
+{
+  "episode_number": 38,
+  "total_ranked": 4,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP038_05",
+      "absolute_score": 9.0,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "Opens immediately on high-stakes illicit danger with the guard whispering 'Because no one should die hungry... Eat it before they see.' The tension escalates relentlessly from illicit survival to the realization of execution, culminating in an agonizing peak mortal cliffhanger: 'What if I never see you again?'",
+      "duration": 33.5,
+      "start_beat_id": "B005",
+      "end_beat_id": "B008",
+      "emotional_salience_score": 4,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP038_06",
+      "absolute_score": 8.2,
+      "subscores": {
+        "hook_score": 1.8,
+        "tension_score": 2.0,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "A tight, visceral opening on trembling shackle-bound hands ravenously devouring bread hooks the viewer with immediate physical distress. The monologue accelerates quickly toward mortal terror, landing cleanly on the high-stakes cliffhanger of dying alone in captivity before seeing Alexander again.",
+      "duration": 27.8,
+      "start_beat_id": "B006",
+      "end_beat_id": "B008",
+      "emotional_salience_score": 4,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP038_02",
+      "absolute_score": 6.5,
+      "subscores": {
+        "hook_score": 1.1,
+        "tension_score": 1.7,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 1.8
+      },
+      "rank_justification": "The silent dungeon setup starts slow, but the mid-arc builds strongly as secretive mercy gives way to the shocking revelation that she has been condemned to death. Ending on the raw, unanswered plea of whether her lover knows she is doomed to die provides a compelling narrative hook.",
+      "duration": 45.5,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "emotional_salience_score": 4,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP038_01",
+      "absolute_score": 5.4,
+      "subscores": {
+        "hook_score": 1.1,
+        "tension_score": 1.3,
+        "cliffhanger_score": 1.4,
+        "resonance_score": 1.6
+      },
+      "rank_justification": "The opening is purely atmospheric with Juliana slumped in silence, lacking immediate visceral scroll-stopping urgency in the first two seconds. While her starving relief and tearful question create genuine pathos, the pacing is subdued and the final cut poses a soft romantic query rather than an urgent mortal cliffhanger.",
+      "duration": 39.5,
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "emotional_salience_score": 4,
+      "rank": 4
+    }
+  ]
+}

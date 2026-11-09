@@ -1,0 +1,781 @@
+{
+  "episode_number": 34,
+  "total_scored": 31,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP034_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 35.3,
+      "duration": 35.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with a high wide establishing shot of a sunlit courtroom with armed bailiffs and Lady Juliana confined in the prisoner's dock, accompanied by the Judge immediately announcing formal charges of witchcraft and poisoning. Physical space and legal stakes are instantly established within 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: an authoritarian judge interrogates an accused woman over possessing an herbal grimoire, escalating to her proud, defiant defense that she was merely healing the sick.",
+        "passes_gate": true,
+        "situational_summary": "In a formal courtroom trial, an accused woman standing in the prisoner's dock calmly admits to using an ancient herbal book, defiantly declaring that she only healed the sick."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stoic moral defiance against authoritarian persecution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the trial premise and inciting accusation of witchcraft/poisoning without revealing witness betrayal or trial verdict."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B012",
+      "start_time": 0.0,
+      "end_time": 51.5,
+      "duration": 51.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with a clear courtroom establishing shot and explicit verbal accusation of witchcraft and poisoning, visually and narratively grounding a cold viewer immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "The progression is fully understandable: following Juliana's initial confession of healing, the Judge summons her trembling former maid to the stand, culminating in Juliana's tense plea for her to speak the truth.",
+        "passes_gate": true,
+        "situational_summary": "After an accused woman defiantly admits to practicing healing in a witch trial, the judge summons her weeping maid to testify, leaving the accused pleading for the truth."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Persecution escalating into an agonizing loyalty dilemma"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Introduces the central trial dynamic and brings the key witness to the stand without showing her actual testimony or betrayal."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_03",
+      "start_beat_id": "B002",
+      "end_beat_id": "B008",
+      "start_time": 7.8,
+      "end_time": 35.3,
+      "duration": 27.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 opens on an ungrounded close-up of an open botanical book on a bench with a finger tapping it and a disembodied voice asking 'Do you deny possessing this book?'. Without Beat B001's establishing shot, a cold viewer cannot tell who is speaking, where this takes place, or what the legal context is.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the dialogue establishes the interrogation and charges of forbidden arts, the conflict between the judge and Juliana becomes clear.",
+        "passes_gate": false,
+        "situational_summary": "An interrogator questions a woman over a charred botanical book until she defiantly admits she only used it to heal the sick."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stoic moral defiance under harsh interrogation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses the interrogation regarding the botanical book and the admission of healing."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_04",
+      "start_beat_id": "B007",
+      "end_beat_id": "B020",
+      "start_time": 27.4,
+      "end_time": 81.0,
+      "duration": 53.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B007 opens abruptly mid-interrogation with a close-up of an unidentified man stating 'Then you admit to practicing forbidden arts.' Cold viewers have no visual anchor of the courtroom, prisoner's dock, or prior admission, relying on retrospective context to understand what is happening.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent beats clearly depict a witch trial where the judge interrogates a trembling maid who is coerced into testifying against her former mistress.",
+        "passes_gate": false,
+        "situational_summary": "In an escalating trial, a terrified maid is coerced by a stern judge into giving damning false testimony against her former mistress."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Agonizing coerced betrayal under institutional intimidation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals a major plot turn where the maid Prudence breaks down and falsely admits under oath to seeing strange markings and incantations."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_05",
+      "start_beat_id": "B009",
+      "end_beat_id": "B020",
+      "start_time": 35.3,
+      "end_time": 81.0,
+      "duration": 45.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 establishes the setting immediately with the Judge slamming his wooden gavel and commanding 'Silence!', instantly orienting a cold scroller in a formal courtroom trial within the first two seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative progression is clear and self-contained: the accused (Juliana) is on trial for witchcraft/forbidden medicine, and her own maid (Prudence) is pressured by the Judge into providing incriminating testimony, breaking under guilt.",
+        "passes_gate": true,
+        "situational_summary": "In a tense courtroom trial, a judge interrogates a trembling maid who tearfully betrays her accused mistress by testifying she performed strange occult rituals."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Heart-wrenching courtroom betrayal driven by coercive judicial pressure and overwhelming guilt"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses a critical mid-arc trial testimony where the primary insider witness folds and incriminates the protagonist."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_06",
+      "start_beat_id": "B010",
+      "end_beat_id": "B019",
+      "start_time": 37.4,
+      "end_time": 75.8,
+      "duration": 38.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B010 visually establishes the courtroom dynamic clearly: tracking shot from the Judge pointing across to a trembling maid in an apron on the courtroom floor, who responds 'Yes, Your Honor' to serving beside the accused.",
+        "arc_legibility": false,
+        "arc_rationale": "The clip cuts off at Beat B019 on the Judge's open-ended interrogation question ('And did she speak words you could not understand?'), leaving the dramatic turning point unresolved and denying the clip a self-contained narrative arc.",
+        "passes_gate": false,
+        "situational_summary": "A stern judge questions a tearful maid about her mistress's secretive healing rituals, ending mid-interrogation on an unanswered accusation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Escalating judicial interrogation and rising anxiety without climactic release"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals witness testimony regarding herbs and books, though cuts off before the definitive final incrimination."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_07",
+      "start_beat_id": "B010",
+      "end_beat_id": "B020",
+      "start_time": 37.4,
+      "end_time": 81.0,
+      "duration": 43.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B010 cleanly grounds the physical scene and roles: tracking shot from the Judge on the bench pointing toward the trembling maid standing in the courtroom as she confirms her identity as a servant.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict and complete dramatic turn: the Judge presses the maid, the accused urges honesty, and the maid breaks down under pressure to confess to incomprehensible incantations, sealing the accusation.",
+        "passes_gate": true,
+        "situational_summary": "A judge pressures a weeping maid into testifying against her shackled mistress, concluding as she admits to witnessing strange and incomprehensible rituals."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Agonizing conflict of loyalty culminating in a tearful courtroom betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key trial turning point where the servant's testimony breaks the defense."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_08",
+      "start_beat_id": "B012",
+      "end_beat_id": "B020",
+      "start_time": 49.0,
+      "end_time": 81.0,
+      "duration": 32.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B012 immediately grounds the situation with a profile over-the-shoulder shot from behind the witness looking at Lady Juliana bound in iron cuffs at the prisoner's dock demanding 'Tell the truth.'",
+        "arc_legibility": true,
+        "arc_rationale": "The stakes are clear throughout: a prisoner in chains watches her former servant crack under the court's questioning, ending on the damning confession that seals the witch-trial trap.",
+        "passes_gate": true,
+        "situational_summary": "A chained prisoner watches helplessly as her distraught former maid yields to a judge's questioning and confesses to witnessing strange occult rituals."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral courtroom betrayal between a stoic prisoner and her broken servant"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Shows key incriminating witness testimony in a formal criminal hearing."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_09",
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 51.5,
+      "end_time": 81.0,
+      "duration": 29.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 opens on an isolated close-up of a weeping woman uttering a single word ('Yes.'). Without preceding audio or visual grounding, a cold scroller cannot determine who she is, where she is, or what question she is answering.",
+        "arc_legibility": true,
+        "arc_rationale": "The interrogation clearly develops into a courtroom witchcraft/sorcery trial where a remorseful servant is forced to testify that her mistress practiced forbidden rites.",
+        "passes_gate": false,
+        "situational_summary": "In a courtroom trial, a weeping maid is coerced by a stern judge into testifying that her mistress used strange herbs and incantations."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Agonizing coerced betrayal and crushing guilt under judicial interrogation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses key trial evidence and the maid's formal betrayal on the witness stand."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_10",
+      "start_beat_id": "B013",
+      "end_beat_id": "B021",
+      "start_time": 51.5,
+      "end_time": 90.5,
+      "duration": 39.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 begins on an ungrounded close-up of Prudence weeping and saying 'Yes.' without establishing the physical setting, the judge, or the nature of the trial.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc builds from the coerced testimony into a dramatic courtroom explosion as the aristocratic prosecutor claims ritual proof and the shackled defendant roars in defiance.",
+        "passes_gate": false,
+        "situational_summary": "After a tearful maid testifies to forbidden rituals, a prosecuting lord declares the case proven, prompting the shackled defendant to scream in outrage."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Climactic courtroom confrontation combining tearful betrayal with furious righteous defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the crucial witness testimony and the prosecutor's formal declaration of guilt."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_11",
+      "start_beat_id": "B020",
+      "end_beat_id": "B028",
+      "start_time": 75.8,
+      "end_time": 112.8,
+      "duration": 37.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 is an extreme close-up of Prudence crying and answering 'Yes.' to an unseen question, failing the zero-context establishing requirement.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes a rigged public trial where the prosecutor parades coached peasant witnesses against a woman accused of mass poisoning under the guise of healing.",
+        "passes_gate": false,
+        "situational_summary": "In an open trial, a ruthless lord orchestrates public hysteria by presenting coached witnesses who accuse a captive healer of poisoning the town."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Calculated public humiliation and escalating mob hysteria weaponized against an innocent woman"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Showcases the prosecution's full orchestrated witness assault and dramatic public branding punchline."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_12",
+      "start_beat_id": "B021",
+      "end_beat_id": "B026",
+      "start_time": 81.0,
+      "end_time": 107.3,
+      "duration": 26.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 instantly establishes the courtroom setting and stakes within 3 seconds: a nobleman strides down the aisle declaring ritual guilt, a handcuffed woman slams the prisoner's dock in protest, and a judge roars over gavel bangs.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is 100% self-contained: a powerful lord prosecutes a defiant captive woman, quickly bringing forward local townspeople to corroborate accusations of harmful concoctions.",
+        "passes_gate": true,
+        "situational_summary": "A handcuffed woman erupts in protest as a prosecuting nobleman announces her ritual guilt, while the court silences her to parade witnesses claiming her medicines poisoned their families."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Fierce righteous defiance crushed by institutional power and manufactured public hostility"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the dramatic opening confrontation of the trial and public accusation without revealing final judgment or outcome."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_13",
+      "start_beat_id": "B021",
+      "end_beat_id": "B028",
+      "start_time": 81.0,
+      "end_time": 112.8,
+      "duration": 31.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 establishes the setting and stakes immediately: a courtroom tracking shot of a Lord addressing the Judge, a cuffed woman in the dock shouting back in defiance, and a judge violently hammering his gavel. The legal trial setting and roles are crystal clear within 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict where the arrogant Lord presents coached witnesses accusing the accused healer of poisoning, culminating in a powerful rhetorical punchline accusing her of witchcraft/poisoning.",
+        "passes_gate": true,
+        "situational_summary": "In a hostile courtroom, an arrogant Lord presents hostile witnesses to frame a defiant female herbalist as a malicious poisoner."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Public persecution versus indignant innocence in a rigged trial"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the courtroom trial and accusation mechanics (inciting incident for this trial arc); safe for cold prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_14",
+      "start_beat_id": "B021",
+      "end_beat_id": "B032",
+      "start_time": 81.0,
+      "end_time": 123.4,
+      "duration": 42.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 establishes the courtroom arena instantly with the Lord pacing the aisle, Lady Juliana slamming cuffed hands against the dock rail, and the Judge striking his gavel.",
+        "arc_legibility": true,
+        "arc_rationale": "Complete narrative escalation from false poisoning accusations to Juliana directly confronting the Lord and proclaiming her core conviction that herbs are medicine, not magic.",
+        "passes_gate": true,
+        "situational_summary": "Put on trial as a poisoner by a corrupt nobleman and coached witnesses, an imprisoned woman passionately defends her healing remedies before a hostile assembly."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Righteous defiance breaking through coordinated public persecution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the trial and Juliana's philosophical defense; standard inciting/early conflict reveal."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_15",
+      "start_beat_id": "B021",
+      "end_beat_id": "B037",
+      "start_time": 81.0,
+      "end_time": 139.2,
+      "duration": 58.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B021 immediately grounds the trial dynamics via visual cues of the courtroom, dock, handcuffs, prosecutor, and gavel strikes.",
+        "arc_legibility": true,
+        "arc_rationale": "Superb, fully understandable arc: accusations are made, Juliana defends herself rationally, and when pressed by the judge about practicing without a licensed physician, she delivers an unyielding moral confession ('So I helped them').",
+        "passes_gate": true,
+        "situational_summary": "During a witch-hunt trial accusing her of poisoning, an unlicensed female healer unapologetically confesses to treating the sick when no doctor would."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Uncompromising moral courage and sacrificial defiance against authority"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Key trial testimony and confession establishing the moral core of the protagonist; high-impact promotional material."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_16",
+      "start_beat_id": "B025",
+      "end_beat_id": "B039",
+      "start_time": 99.5,
+      "end_time": 147.4,
+      "duration": 47.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B025 opens abruptly on an isolated close-up of an unknown townsman saying 'She became violently ill.' Without the prior context of who 'she' is, where this man is speaking, or who is on trial, a cold viewer is visually and contextually ungrounded.",
+        "arc_legibility": true,
+        "arc_rationale": "The wider conflict becomes apparent as the scene progresses through the Lord's accusations and Juliana's confession, ending on the Judge's ultimatum.",
+        "passes_gate": false,
+        "situational_summary": "Witnesses testify against an unlicensed healer in court until the judge offers an ultimatum to renounce her practice to save her life."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Life-or-death ultimatum following a moral stand"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reaches the judge's life-or-death ultimatum demanding formal renunciation."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_17",
+      "start_beat_id": "B026",
+      "end_beat_id": "B039",
+      "start_time": 102.1,
+      "end_time": 147.4,
+      "duration": 45.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B026 opens with an elderly peasant woman standing up from a wooden bench among spectators and pointing an accusatory finger across a courtroom while shouting an accusation. The courtroom setting, spectator dynamic, and active trial conflict are instantly readable in under 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: Lady Juliana is on trial for illicit healing/herbal medicine, prosecuted by an arrogant Lord and examined by a Judge, culminating in an explicit life-or-death ultimatum to renounce her practice.",
+        "passes_gate": true,
+        "situational_summary": "During a tense courtroom trial, an accused noblewoman fiercely defends using herbal medicine to treat peasants when no physician would, before the judge orders her to renounce her practices to save her life."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous defiance in the face of corrupt authority and lethal persecution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the central trial confrontation and the formal charges of unlicensed medicine/witchcraft leveled against Lady Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_18",
+      "start_beat_id": "B028",
+      "end_beat_id": "B039",
+      "start_time": 110.0,
+      "end_time": 147.4,
+      "duration": 37.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 opens abruptly mid-argument with a man turning to an assembly shouting 'The people call it poisoning!'. Without prior context or an establishing anchor showing who or what 'it' refers to, a cold scroller cannot determine who is accused or what action is being judged without retrospective justification.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the dialogue continues, the roles of prosecutor, defendant, and judge become clear as Juliana justifies treating patients without a physician.",
+        "passes_gate": false,
+        "situational_summary": "In a courtroom assembly, an aristocrat accuses a woman of poisoning before the judge demands she renounce her medical practices to spare her life."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous defiance in the face of corrupt authority and lethal persecution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals key details of the trial and Juliana's formal admission to unlicensed medical practice."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_19",
+      "start_beat_id": "B032",
+      "end_beat_id": "B039",
+      "start_time": 119.8,
+      "end_time": 147.4,
+      "duration": 27.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 opens with a clear low-angle establishing shot of Lady Juliana standing tall in chains against courtroom window light, hands on the balustrade as she proclaims 'Herbs are not magic! They are medicine!'. The prisoner status, courtroom setting, and thematic conflict are immediately unmistakable.",
+        "arc_legibility": true,
+        "arc_rationale": "Crystal clear conflict and stakes: a chained defendant admits to treating the sick when no doctor would, ending on a high-stakes cliffhanger ultimatum from the judge.",
+        "passes_gate": true,
+        "situational_summary": "Standing chained in a courtroom, a woman proudly defends her herbal healing as medicine, leading the judge to issue an ultimatum to renounce her work or face death."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Unshakable moral conviction standing against institutional oppression"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the defendant's open admission of guilt on the charge of unauthorized healing."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_20",
+      "start_beat_id": "B032",
+      "end_beat_id": "B041",
+      "start_time": 119.8,
+      "end_time": 151.2,
+      "duration": 31.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 provides immediate visual grounding with a low-angle shot of Lady Juliana in chains at the courtroom balustrade boldly declaring her herbs to be medicine, establishing setting, character state, and conflict instantly.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely self-contained dynamic showing the accusation, confession of intent, the magistrate's offer of clemency, and Juliana's flat refusal.",
+        "passes_gate": true,
+        "situational_summary": "Chained in a courtroom for practicing unlicensed herbal medicine, a woman defends her care for the sick and flatly rejects the judge's demand to renounce her life's work."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak visceral defiance choosing principle and martyrdom over submission"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals both Juliana's courtroom admission and her outright rejection of clemency."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_21",
+      "start_beat_id": "B032",
+      "end_beat_id": "B043",
+      "start_time": 119.8,
+      "end_time": 156.8,
+      "duration": 37.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 immediately establishes the setting and dynamic: a low-angle shot of Lady Juliana standing in chains at the balustrade in a courtroom shouting 'Herbs are not magic! They are medicine!'. Instantly grounds who she is, where she is, and her captive situation.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly depicts a defiant captive on trial defending her unlicensed medical aid against an unyielding judge who demands she renounce her practice. The stakes and opposition are entirely self-contained.",
+        "passes_gate": true,
+        "situational_summary": "On trial in chains, a defiant healer refuses a judge's ultimatum to renounce administering forbidden herbal medicine."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous defiance in the face of institutional persecution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the courtroom trial confrontation and her refusal to recant; strong hook for prospecting without spoiling the verdict."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_22",
+      "start_beat_id": "B032",
+      "end_beat_id": "B044",
+      "start_time": 119.8,
+      "end_time": 162.0,
+      "duration": 42.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 grounds the physical environment immediately with a chained protagonist at a courtroom balustrade shouting her defiant medical manifesto under the window light.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained conflict escalating from an interrogation about unlicensed medicine to an explicit threat that her refusal to recant will be ruled as witchcraft.",
+        "passes_gate": true,
+        "situational_summary": "A chained healer standing trial defends her medicine and refuses to recant, prompting the judge to warn that her defiance will be condemned as witchcraft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Escalating life-or-death defiance against lethal judicial tyranny"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Escalates the trial stakes to an explicit accusation of witchcraft, providing maximum tension without resolving her fate."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_23",
+      "start_beat_id": "B032",
+      "end_beat_id": "B045",
+      "start_time": 119.8,
+      "end_time": 163.6,
+      "duration": 43.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 delivers an immediate visual and thematic anchor: a woman in chains addressing an entire courtroom hall declaring herbs are medicine, instantly legible in 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Crystal clear conflict where the judge threatens to treat her refusal as witchcraft, and she unflinchingly accepts the consequence with 'Then let it be.' Perfectly self-contained dramatic arc.",
+        "passes_gate": true,
+        "situational_summary": "When a judge warns a chained healer that refusing to renounce herbal medicine will be ruled as witchcraft, she unflinchingly embraces the accusation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Heroic martyrdom and unyielding moral courage under threat of execution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Captures the dramatic peak of the trial interrogation and her bold acceptance of the witchcraft charge."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_24",
+      "start_beat_id": "B039",
+      "end_beat_id": "B047",
+      "start_time": 142.2,
+      "end_time": 174.4,
+      "duration": 32.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B039 opens cleanly on a low-angle shot of a judge holding his hand over an open law book delivering a clear ultimatum: 'Lady Juliana, if you wish to save yourself, renounce these practices.' Setting, authority, and mortal peril are instantly established.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly follows the judge's ultimatum, Juliana's refusal despite witchcraft threats, and ends on her commanding speech comforting a weeping follower while condemning powerful people's fear of healing.",
+        "passes_gate": true,
+        "situational_summary": "Facing condemnation for witchcraft, an accused healer rejects a judge's ultimatum and publicly proclaims she will not call healing evil just because the powerful fear it."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant moral authority and compassionate defiance triumphing over institutional intimidation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key climax of the trial confrontation, including her iconic declaration and the court's explicit fear of her healing power."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_25",
+      "start_beat_id": "B039",
+      "end_beat_id": "B049",
+      "start_time": 142.2,
+      "end_time": 179.4,
+      "duration": 37.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B039 opens with a low-angle shot of a Judge with his hand over a law book delivering a direct judicial ultimatum to Lady Juliana to renounce her practices to save herself. Physical courtroom setting, judicial authority, and life-or-death dynamic are instantly grounded in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative conflict is self-contained: an authority figure demands recantation under threat of witchcraft charges, the protagonist unflinchingly refuses in defense of healing, an onlooker weeps, an opposing lord scowls, and the judge furiously smashes his gavel down.",
+        "passes_gate": true,
+        "situational_summary": "In a courtroom trial, a defiant noblewoman refuses a judge's ultimatum to renounce her healing practices under threat of witchcraft charges, provoking the judge to violently gavel the court to order."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous defiance in the face of lethal judicial persecution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Depicts the public trial confrontation and refusal to recant, setting up the central conflict without revealing the final verdict or punishment."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_26",
+      "start_beat_id": "B039",
+      "end_beat_id": "B050",
+      "start_time": 142.2,
+      "end_time": 184.5,
+      "duration": 42.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B039 immediately establishes the courtroom setting, the Judge behind the bench, and the life-or-death ultimatum addressed to Lady Juliana, requiring zero prior lore to grasp.",
+        "arc_legibility": true,
+        "arc_rationale": "Presents a complete, escalating dramatic confrontation from initial ultimatum to moral defiance, culminating in the Judge rising to his full height behind the bench to pronounce formal judgment.",
+        "passes_gate": true,
+        "situational_summary": "During a witch trial, a courageous noblewoman rejects a judge's demand to renounce her healing arts, prompting the judge to silence the courtroom and rise to deliver her formal sentence."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Heroic martyrdom and rising tension before a looming death sentence"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Shows the climax of the trial scene right up to the formal reading of the verdict/sentence."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_27",
+      "start_beat_id": "B040",
+      "end_beat_id": "B050",
+      "start_time": 147.4,
+      "end_time": 184.5,
+      "duration": 37.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B040 opens in isolation on a tight close-up of a burned grimoire resting on green leather with no dialogue or characters visible. A cold scroller cannot determine who is present, the setting, or the interpersonal conflict in the first 1-3 seconds without retrospective context.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the dialogue begins in subsequent beats, the trial for witchcraft and Juliana's defiance are clearly understandable.",
+        "passes_gate": false,
+        "situational_summary": "A close-up of a burned grimoire leads into a witch trial where a noblewoman refuses to recant her practices before an imposing judge."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous defiance against courtroom persecution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reaches the brink of the formal judgment delivery against the accused healer."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_28",
+      "start_beat_id": "B044",
+      "end_beat_id": "B051",
+      "start_time": 156.8,
+      "end_time": 190.0,
+      "duration": 33.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B044 opens with a medium shot of the Judge pointing an outstretched finger across the bench with lethal severity, explicitly charging that refusal will be treated as proof of practicing witchcraft. Characters, stakes, and setting are immediately unmistakable.",
+        "arc_legibility": true,
+        "arc_rationale": "The core stakes are perfectly self-contained: an accused woman unflinchingly accepts a witchcraft indictment, reaffirms her moral duty to heal, and faces the judge's raised hand of final condemnation.",
+        "passes_gate": true,
+        "situational_summary": "Accused of witchcraft by a stern judge, an unbroken woman proudly defends her healing before the court as the judge raises his hand to pronounce her final sentence."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak visceral rupture: defiant moral integrity facing impending execution"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Captures the ultimate climax of the trial sequence where the judge raises his hand over the prisoner's dock for the final sentence before fading to black."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_29",
+      "start_beat_id": "B045",
+      "end_beat_id": "B051",
+      "start_time": 162.0,
+      "end_time": 190.0,
+      "duration": 28.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B045 opens mid-scene with a close-up of Lady Juliana saying 'Then let it be' in response to an unseen preceding exchange, without establishing the courtroom setting, who she is speaking to, or the physical stakes in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent beats clearly reveal a high-stakes trial where a defiant woman defending her healing is silenced by an angry judge about to pronounce a severe sentence.",
+        "passes_gate": false,
+        "situational_summary": "In a courtroom confrontation, an accused healer stands defiant against corrupt authorities as the presiding judge prepares to hand down her judgment."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous moral defiance in the face of institutional condemnation"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Shows the climax of the trial and the judge delivering the final sentence upon Lady Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_30",
+      "start_beat_id": "B046",
+      "end_beat_id": "B051",
+      "start_time": 163.6,
+      "end_time": 190.0,
+      "duration": 26.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B046 begins on a medium shot of an unknown character (Prudence) weeping into an apron with no establishing visual context, environment cues, or clear explanation of why she is crying.",
+        "arc_legibility": true,
+        "arc_rationale": "The scene unfolds into an overt courtroom trial dynamic with a defiant accused healer and an authoritarian judge issuing a ruling.",
+        "passes_gate": false,
+        "situational_summary": "As a companion weeps, an accused woman proudly defends her actions against a corrupt court right before the judge delivers her sentence."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Grief and defiance under impending institutional judgment"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the culmination of the courtroom trial and the sentencing of Lady Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP034_31",
+      "start_beat_id": "B047",
+      "end_beat_id": "B051",
+      "start_time": 166.8,
+      "end_time": 190.0,
+      "duration": 23.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B047 opens with a clean, powerful push-in on Lady Juliana delivering an explicit thematic thesis ('Do not be afraid. I will not call healing evil just because powerful people have decided to fear it.'), instantly establishing her stance, the persecution theme, and interpersonal conflict without needing prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is fully self-contained: her moral declaration provokes the scowling lord and an enraged judge who pounds his gavel and stands to condemn her.",
+        "passes_gate": true,
+        "situational_summary": "An accused healer openly defies her powerful accusers in court, prompting the furious judge to rise and deliver her sentence."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Unwavering moral authority clashing with authoritarian tyranny"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Depicts the climactic final verdict moment of the trial arc."
+      }
+    }
+  ]
+}

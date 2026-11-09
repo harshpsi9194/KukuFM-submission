@@ -1,0 +1,1434 @@
+{
+  "episode_number": 31,
+  "total_candidates": 23,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP031_01",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B002",
+      "end_beat_id": "B015",
+      "start_time": 2.8,
+      "end_time": 59.0,
+      "duration": 56.2,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Immediate high visual drama: chained heroine in torn clothes recoiling in terror against damp dungeon stones.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana break down in tears or stand strong as Catherine rubs in her solitary humiliation?",
+        "stakes_importance": "High \u2014 psychological pressure point paired with the threatening physical proximity of scalding iron.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B002",
+          "end_beat_id": "B015",
+          "start_time": 2.8,
+          "end_time": 59.0,
+          "duration": 56.2,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_02",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B003",
+      "end_beat_id": "B015",
+      "start_time": 4.2,
+      "end_time": 59.0,
+      "duration": 54.8,
+      "hook_signal": {
+        "beat_id": "B003",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "\"Look at you\" provides brief dismissive taunting but lacks standalone narrative stakes.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Striking scroll-stopper: aristocratic villainess in ornate gown holding a red-hot smoldering poker flanked by dungeon guards.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana break down in tears or stand strong as Catherine rubs in her solitary humiliation?",
+        "stakes_importance": "High \u2014 psychological pressure point paired with the threatening physical proximity of scalding iron.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B003",
+          "end_beat_id": "B015",
+          "start_time": 4.2,
+          "end_time": 59.0,
+          "duration": 54.8,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_03",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B005",
+      "end_beat_id": "B015",
+      "start_time": 10.5,
+      "end_time": 59.0,
+      "duration": 48.5,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Direct sarcastic invocation of title ('The great Lady Juliana Ashcroft') highlights fallen nobility confrontation.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight close-up bathed in orange glow of red-hot branding iron with a malicious smile carries strong visual menace.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana break down in tears or stand strong as Catherine rubs in her solitary humiliation?",
+        "stakes_importance": "High \u2014 psychological pressure point paired with the threatening physical proximity of scalding iron.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B005",
+          "end_beat_id": "B015",
+          "start_time": 10.5,
+          "end_time": 59.0,
+          "duration": 48.5,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_04",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B006",
+      "end_beat_id": "B015",
+      "start_time": 13.8,
+      "end_time": 59.0,
+      "duration": 45.2,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "\"Chained in a dungeon like a common criminal\" delivers an immediate, high-stakes status shock.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Over-the-shoulder wide shot showing nobility looming over a shackled prisoner clearly readable on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana break down in tears or stand strong as Catherine rubs in her solitary humiliation?",
+        "stakes_importance": "High \u2014 psychological pressure point paired with the threatening physical proximity of scalding iron.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B006",
+          "end_beat_id": "B015",
+          "start_time": 13.8,
+          "end_time": 59.0,
+          "duration": 45.2,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_05",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B009",
+      "end_beat_id": "B015",
+      "start_time": 24.5,
+      "end_time": 59.0,
+      "duration": 34.5,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "\"Because this is what you were always meant to be\" is a venomous character insult establishing subjugation.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up of white-hot poker radiating heat against blurred predatory face is an arresting scroll-stopper.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana break down in tears or stand strong as Catherine rubs in her solitary humiliation?",
+        "stakes_importance": "High \u2014 psychological pressure point paired with the threatening physical proximity of scalding iron.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B009",
+          "end_beat_id": "B015",
+          "start_time": 24.5,
+          "end_time": 59.0,
+          "duration": 34.5,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_06",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B013",
+      "end_beat_id": "B016",
+      "start_time": 43.0,
+      "end_time": 65.5,
+      "duration": 22.5,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive relationship reveal: \"Gerald left you standing at the altar\" instantly hooks scrollers on wedding betrayal drama.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Insert cut to bare, chained feet locked in iron manacles reinforces brutal captivity on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B016",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Catherine crush Juliana's proud declaration that she chose herself over a cowardly marriage?",
+        "stakes_importance": "High \u2014 a stirring protagonist assertion of dignity that directly provokes the villain's wrath.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B013",
+          "end_beat_id": "B016",
+          "start_time": 43.0,
+          "end_time": 65.5,
+          "duration": 22.5,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_07",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B013",
+      "end_beat_id": "B023",
+      "start_time": 43.0,
+      "end_time": 91.2,
+      "duration": 48.2,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive relationship reveal: \"Gerald left you standing at the altar\" instantly hooks scrollers on wedding betrayal drama.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Insert cut to bare, chained feet locked in iron manacles reinforces brutal captivity on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's unflinching gaze past the hot poker provoke Catherine into violent retribution?",
+        "stakes_importance": "High \u2014 striking visual standoff where the captive completely refuses to submit to terror.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B013",
+          "end_beat_id": "B023",
+          "start_time": 43.0,
+          "end_time": 91.2,
+          "duration": 48.2,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_08",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B014",
+      "end_beat_id": "B023",
+      "start_time": 48.5,
+      "end_time": 91.2,
+      "duration": 42.7,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "\"Everyone saw you. Everyone watched him chose Clarisse\" hits with public humiliation and specific romantic rivalry.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Floor-level perspective looking up at antagonist leaning in to torment the heroine.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's unflinching gaze past the hot poker provoke Catherine into violent retribution?",
+        "stakes_importance": "High \u2014 striking visual standoff where the captive completely refuses to submit to terror.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B014",
+          "end_beat_id": "B023",
+          "start_time": 48.5,
+          "end_time": 91.2,
+          "duration": 42.7,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_09",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B015",
+      "end_beat_id": "B023",
+      "start_time": 54.8,
+      "end_time": 91.2,
+      "duration": 36.4,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "\"And everyone watched you walk away alone\" underlines public rejection and heartbreak.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up of red-hot iron sizzling over damp stone with rising steam creates visceral tension.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's unflinching gaze past the hot poker provoke Catherine into violent retribution?",
+        "stakes_importance": "High \u2014 striking visual standoff where the captive completely refuses to submit to terror.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B015",
+          "end_beat_id": "B023",
+          "start_time": 54.8,
+          "end_time": 91.2,
+          "duration": 36.4,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_10",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B016",
+      "end_beat_id": "B023",
+      "start_time": 59.0,
+      "end_time": 91.2,
+      "duration": 32.2,
+      "hook_signal": {
+        "beat_id": "B016",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-impact rhythmic three-line clapback: \"Gerald chose money... Clarissa chose a coward... I chose myself.\"",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Slow push-in close-up on heroine's face; dignified but standard framing.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's unflinching gaze past the hot poker provoke Catherine into violent retribution?",
+        "stakes_importance": "High \u2014 striking visual standoff where the captive completely refuses to submit to terror.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B016",
+          "end_beat_id": "B023",
+          "start_time": 59.0,
+          "end_time": 91.2,
+          "duration": 32.2,
+          "beat_ids": [
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_11",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B023",
+      "end_beat_id": "B030",
+      "start_time": 83.2,
+      "end_time": 124.0,
+      "duration": 40.8,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Taunting contrast of romantic ideals against dungeon imprisonment.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dynamic high-angle overhead view down ceiling iron grating into dungeon shaft looking past the glowing poker.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B030",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Catherine lash out now that Juliana exposed her deep insecurity about demanding submission?",
+        "stakes_importance": "High \u2014 Catherine's facade breaks into shocked fury as Juliana turns the psychological power dynamic upside down.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B023",
+          "end_beat_id": "B030",
+          "start_time": 83.2,
+          "end_time": 124.0,
+          "duration": 40.8,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_12",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "start_time": 83.2,
+      "end_time": 130.8,
+      "duration": 47.6,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Taunting contrast of romantic ideals against dungeon imprisonment.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dynamic high-angle overhead view down ceiling iron grating into dungeon shaft looking past the glowing poker.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine resort to immediate physical violence to force Juliana to bow?",
+        "stakes_importance": "High \u2014 decisive psychological triumph by Juliana that invites dangerous violent backlash.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B023",
+          "end_beat_id": "B031",
+          "start_time": 83.2,
+          "end_time": 130.8,
+          "duration": 47.6,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_13",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B023",
+      "end_beat_id": "B032",
+      "start_time": 83.2,
+      "end_time": 133.0,
+      "duration": 49.8,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Taunting contrast of romantic ideals against dungeon imprisonment.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dynamic high-angle overhead view down ceiling iron grating into dungeon shaft looking past the glowing poker.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 4,
+        "specific_question": "What violent act will Catherine commit now that her control has completely shattered?",
+        "stakes_importance": "High \u2014 peak emotional snap from the antagonist signaling imminent retribution.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B023",
+          "end_beat_id": "B032",
+          "start_time": 83.2,
+          "end_time": 133.0,
+          "duration": 49.8,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_14",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B023",
+      "end_beat_id": "B033",
+      "start_time": 83.2,
+      "end_time": 134.5,
+      "duration": 51.3,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Taunting contrast of romantic ideals against dungeon imprisonment.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dynamic high-angle overhead view down ceiling iron grating into dungeon shaft looking past the glowing poker.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can Juliana save her mother's burning book before it is permanently destroyed?",
+        "stakes_importance": "High \u2014 direct destruction of the protagonist's most precious and irreplaceable possession.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B023",
+          "end_beat_id": "B033",
+          "start_time": 83.2,
+          "end_time": 134.5,
+          "duration": 51.3,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_15",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B023",
+      "end_beat_id": "B034",
+      "start_time": 83.2,
+      "end_time": 138.0,
+      "duration": 54.8,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Taunting contrast of romantic ideals against dungeon imprisonment.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dynamic high-angle overhead view down ceiling iron grating into dungeon shaft looking past the glowing poker.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine incinerate Juliana's final keepsake right in front of her eyes?",
+        "stakes_importance": "High \u2014 sadistic psychological cruelty exploiting the protagonist's emotional Achilles' heel.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B023",
+          "end_beat_id": "B034",
+          "start_time": 83.2,
+          "end_time": 138.0,
+          "duration": 54.8,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_16",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B030",
+      "end_beat_id": "B035",
+      "start_time": 118.2,
+      "end_time": 140.5,
+      "duration": 22.3,
+      "hook_signal": {
+        "beat_id": "B030",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "\"Then why are you so desperate to make me kneel?\" delivers a stinging psychological blow.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Antagonist's smug face visibly freezing in shock and fury as the retort lands.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's desperate pleading save her mother's book from being burned?",
+        "stakes_importance": "High \u2014 the protagonist's stoic armor completely shatters into raw, desperate panic.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B030",
+          "end_beat_id": "B035",
+          "start_time": 118.2,
+          "end_time": 140.5,
+          "duration": 22.3,
+          "beat_ids": [
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_17",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B030",
+      "end_beat_id": "B036",
+      "start_time": 118.2,
+      "end_time": 143.8,
+      "duration": 25.6,
+      "hook_signal": {
+        "beat_id": "B030",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "\"Then why are you so desperate to make me kneel?\" delivers a stinging psychological blow.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Antagonist's smug face visibly freezing in shock and fury as the retort lands.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B036",
+        "curiosity_gap_score": 4,
+        "specific_question": "How far will Catherine go now that she has discovered the one thing that breaks Juliana?",
+        "stakes_importance": "High \u2014 antagonist seizes maximum leverage to torment the protagonist.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B030",
+          "end_beat_id": "B036",
+          "start_time": 118.2,
+          "end_time": 143.8,
+          "duration": 25.6,
+          "beat_ids": [
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_18",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B030",
+      "end_beat_id": "B037",
+      "start_time": 118.2,
+      "end_time": 145.5,
+      "duration": 27.3,
+      "hook_signal": {
+        "beat_id": "B030",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "\"Then why are you so desperate to make me kneel?\" delivers a stinging psychological blow.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Antagonist's smug face visibly freezing in shock and fury as the retort lands.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 4,
+        "specific_question": "Is Juliana's mother's life work lost forever, or will someone intervene?",
+        "stakes_importance": "High \u2014 visceral climax of anguish and irrevocable loss.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B030",
+          "end_beat_id": "B037",
+          "start_time": 118.2,
+          "end_time": 145.5,
+          "duration": 27.3,
+          "beat_ids": [
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_19",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B030",
+      "end_beat_id": "B038",
+      "start_time": 118.2,
+      "end_time": 151.2,
+      "duration": 33.0,
+      "hook_signal": {
+        "beat_id": "B030",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "\"Then why are you so desperate to make me kneel?\" delivers a stinging psychological blow.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Antagonist's smug face visibly freezing in shock and fury as the retort lands.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B038",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Catherine ignite the entire book into ashes, or use it to force Juliana to kneel?",
+        "stakes_importance": "High \u2014 imminent total destruction of irreplaceable family heritage.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B030",
+          "end_beat_id": "B038",
+          "start_time": 118.2,
+          "end_time": 151.2,
+          "duration": 33.0,
+          "beat_ids": [
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_20",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B030",
+      "end_beat_id": "B039",
+      "start_time": 118.2,
+      "end_time": 155.2,
+      "duration": 37.0,
+      "hook_signal": {
+        "beat_id": "B030",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "\"Then why are you so desperate to make me kneel?\" delivers a stinging psychological blow.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Antagonist's smug face visibly freezing in shock and fury as the retort lands.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B039",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Catherine burn Juliana's face with the glowing iron poker stopping inches from her eyes?",
+        "stakes_importance": "High \u2014 life-altering physical maiming and excruciating torture suspended mid-motion.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B030",
+          "end_beat_id": "B039",
+          "start_time": 118.2,
+          "end_time": 155.2,
+          "duration": 37.0,
+          "beat_ids": [
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_21",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B033",
+      "end_beat_id": "B040",
+      "start_time": 133.0,
+      "end_time": 160.0,
+      "duration": 27.0,
+      "hook_signal": {
+        "beat_id": "B033",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-impact visual action: red-hot poker scorching into delicate book pages with rising white smoke.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B040",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana be permanently blinded and disfigured by Catherine's branding iron?",
+        "stakes_importance": "High \u2014 supreme vertical microdrama cliffhanger cutting at the razor edge of permanent physical disfigurement.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B033",
+          "end_beat_id": "B040",
+          "start_time": 133.0,
+          "end_time": 160.0,
+          "duration": 27.0,
+          "beat_ids": [
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_22",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B034",
+      "end_beat_id": "B040",
+      "start_time": 134.5,
+      "end_time": 160.0,
+      "duration": 25.5,
+      "hook_signal": {
+        "beat_id": "B034",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Cruel revelation targeted at destroying the victim's only keepsake of her deceased mother.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Smoldering, smoking book thrust directly into heroine's face in a two-shot.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B040",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana be permanently blinded and disfigured by Catherine's branding iron?",
+        "stakes_importance": "High \u2014 supreme vertical microdrama cliffhanger cutting at the razor edge of permanent physical disfigurement.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B034",
+          "end_beat_id": "B040",
+          "start_time": 134.5,
+          "end_time": 160.0,
+          "duration": 25.5,
+          "beat_ids": [
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP031_23",
+      "episode": "Episode 31",
+      "episode_number": 31,
+      "start_beat_id": "B035",
+      "end_beat_id": "B040",
+      "start_time": 138.0,
+      "end_time": 160.0,
+      "duration": 22.0,
+      "hook_signal": {
+        "beat_id": "B035",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Desperate gasping plea (\"Give it back!\") creates immediate emotional distress.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Extreme close-up of weeping heroine straining frantically against iron chains; fully legible emotional agony on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B040",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana be permanently blinded and disfigured by Catherine's branding iron?",
+        "stakes_importance": "High \u2014 supreme vertical microdrama cliffhanger cutting at the razor edge of permanent physical disfigurement.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 31,
+          "start_beat_id": "B035",
+          "end_beat_id": "B040",
+          "start_time": 138.0,
+          "end_time": 160.0,
+          "duration": 22.0,
+          "beat_ids": [
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

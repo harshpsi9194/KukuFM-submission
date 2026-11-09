@@ -1,0 +1,606 @@
+{
+  "episode_number": 35,
+  "total_scored": 24,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP035_01",
+      "start_beat_id": "B008",
+      "end_beat_id": "B015",
+      "start_time": 27.5,
+      "end_time": 55.5,
+      "duration": 28.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B008 establishes physical setting and character: a panning shot reveals a warm, dimly lit cabin interior with Alexander standing over a rustic table with a tactical map before reacting in alarm to the doorway. Clear spatial and situational grounding within the first 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is immediately intelligible: a grieving mother discovers her believed-dead, scarred son alive in hiding, culminating in the visceral shock of her stating 'I buried you.' The core relationship, emotional dynamic, and mystery are fully self-contained.",
+        "passes_gate": true,
+        "situational_summary": "A mother steps into a secluded cabin and breaks down in shock upon discovering her scarred son alive, who she believed she had already buried."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating grief shattered by an impossible reunion and chilling mystery"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Disrupts the baseline status quo by revealing that the son is alive despite being officially dead and buried; an ideal cold-open inciting incident hook."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_02",
+      "start_beat_id": "B010",
+      "end_beat_id": "B017",
+      "start_time": 33.8,
+      "end_time": 66.0,
+      "duration": 32.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B010 opens directly on an extreme close-up of a scarred cheek and disbelieving blue eyes with no dialogue, audio anchor, or physical setting. A cold mobile scroller has zero visual context for where this is or who is being looked at.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the scene develops, the interaction between mother and son is clear, self-contained, and outlines the destruction of his regiment.",
+        "passes_gate": false,
+        "situational_summary": "A mother is reunited with her soldier son whom she thought was killed along with his destroyed regiment."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Tearful reunion and revelation of military catastrophe"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the son survived the annihilation of his military unit."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_03",
+      "start_beat_id": "B010",
+      "end_beat_id": "B020",
+      "start_time": 33.8,
+      "end_time": 78.0,
+      "duration": 44.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B010 opens on an ungrounded extreme close-up of a scarred cheek without establishing the environment, who is present, or what is happening. Retrospective clarification from later beats cannot redeem Beat 0.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc cleanly sets up the mother-son relationship, the military annihilation context, and the sinister implication of an intentional hit ('I wasn't supposed to').",
+        "passes_gate": false,
+        "situational_summary": "A mother finds her presumed-dead soldier son alive, only for him to ominously confess that his survival was never intended."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Overwhelming emotional reunion shifting into cold, conspiratorial dread"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals not only that he survived his regiment's massacre, but that his death was deliberate and staged/targeted."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_04",
+      "start_beat_id": "B011",
+      "end_beat_id": "B020",
+      "start_time": 36.5,
+      "end_time": 78.0,
+      "duration": 41.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B011 opens on a tight close-up of a weeping woman crying out 'Alexander!' with no spatial establishing context, who she is addressing, or where she is situated. It functions as a disorienting in-media-res emotional reaction without an anchor.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue and action clearly establish that she is his mother, believed he died with his regiment, and hears him confess his survival was unintended.",
+        "passes_gate": false,
+        "situational_summary": "A weeping mother reunites with her scarred son whom she buried, learning his survival from his destroyed regiment was not supposed to happen."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Maternal anguish turning into dark conspiracy"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Alexander was targeted for elimination alongside his destroyed regiment."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_05",
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 44.2,
+      "end_time": 78.0,
+      "duration": 33.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B013 opens on an immediate physical and emotional reunion: a woman drops her walking staff and rushes forward to embrace Alexander crying 'You're alive.' The physical dynamic, setting, and core premise (resurrection/unexpected return) are instantly grounded in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes the emotional reunion between mother and presumed-dead son, clarifying that his regiment was wiped out and ending on his chilling confession that he wasn't supposed to survive, cleanly framing a dark military conspiracy without requiring prior episode knowledge.",
+        "passes_gate": true,
+        "situational_summary": "An elderly mother breaks down upon reuniting with her presumed-dead soldier son, who reveals that his survival from a wiped-out regiment was unintended."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating heartbreak turned to disbelief and chilling conspiracy"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the core inciting incident of the episode/show: Alexander has returned alive after being reported dead."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_06",
+      "start_beat_id": "B015",
+      "end_beat_id": "B019",
+      "start_time": 50.0,
+      "end_time": 74.0,
+      "duration": 24.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 opens on a stark, intimate visual and emotional anchor: an elderly woman cupping the bearded, scarred cheek of a man in disbelief saying 'I buried you.', instantly establishing an impossible resurrection dynamic without ambiguity.",
+        "arc_legibility": false,
+        "arc_rationale": "Cutting off at Beat B019 on 'Then how did you survive?' leaves the clip stranded as an ungrounded prompt without giving Alexander's answer or resolving the dramatic momentum of the scene.",
+        "passes_gate": false,
+        "situational_summary": "A mother confronts her scarred son in disbelief after having buried him, asking how he survived his regiment's destruction."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Sharp shock and grief-fueled confrontation over miraculous survival"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses that Alexander survived a regiment massacre despite having an official burial."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_07",
+      "start_beat_id": "B015",
+      "end_beat_id": "B020",
+      "start_time": 50.0,
+      "end_time": 78.0,
+      "duration": 28.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 delivers an immediate, striking visual and verbal hook with a frail woman cupping a scarred soldier's face saying 'I buried you,' immediately conveying the shocking resurrection premise.",
+        "arc_legibility": true,
+        "arc_rationale": "The full exchange succinctly communicates the stakes: his regiment was destroyed, his mother believed him dead, and Alexander closes on the ominous hook 'I wasn't supposed to [survive],' providing a crisp, self-contained dramatic arc with an irresistible cliffhanger.",
+        "passes_gate": true,
+        "situational_summary": "A mother stares at her scarred son whom she believed she buried, only for him to ominously reveal that his survival was never meant to happen."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Gothic emotional shock and ominous survival confession"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the inciting premise of Alexander's survival and hints at an internal betrayal behind his regiment's slaughter."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_08",
+      "start_beat_id": "B015",
+      "end_beat_id": "B022",
+      "start_time": 50.0,
+      "end_time": 89.8,
+      "duration": 39.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 opens cleanly on a mother cupping her son's scarred cheek in disbelief with the line 'I buried you,' providing immediate emotional and situational grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and coherent progression from intimate family reunion shock to tactical espionage exposition regarding a classified Crown mission involving French spies.",
+        "passes_gate": true,
+        "situational_summary": "After reuniting with the mother who thought she buried him, a scarred soldier reveals his survival stems from an Iberian classified mission investigating a traitorous British officer."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Intimate shock diluted by pivot to procedural military exposition"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses deeper plot mechanics, including the classified nature of his Iberian mission and the investigation into a traitorous British officer selling secrets to the French."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_09",
+      "start_beat_id": "B015",
+      "end_beat_id": "B026",
+      "start_time": 50.0,
+      "end_time": 101.0,
+      "duration": 51.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 visually grounds an intimate, shocked encounter: a frail woman gently touching a scarred, bearded man's face and stating 'I buried you.' The physical setting and miraculous reunion dynamic are immediately unmistakable in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc clearly reveals that Alexander survived a supposed fatal military wipeout, detailing his classified hunt for a British military traitor and concluding on the ambush that wiped out his unit.",
+        "passes_gate": true,
+        "situational_summary": "A mother is stunned to find her presumed-dead soldier son alive, who reveals his unit was ambushed during a secret mission hunting a military traitor."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Shocking return from the dead uncovering deadly military conspiracy"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the inciting premise that Alexander survived a covert ambush tied to treason."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_10",
+      "start_beat_id": "B015",
+      "end_beat_id": "B027",
+      "start_time": 50.0,
+      "end_time": 104.2,
+      "duration": 54.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B015 delivers an immediate visual and narrative anchor with a mother touching her scarred son's cheek in disbelief and delivering the line 'I buried you.'",
+        "arc_legibility": true,
+        "arc_rationale": "Fully self-contained narrative progression from the mother's disbelief to Alexander detailing the hunt for a Crown traitor and the devastating slaughter of his men.",
+        "passes_gate": true,
+        "situational_summary": "A mother reunites with her presumed-dead son as he recounts how a traitorous ambush resulted in the slaughter of his entire unit."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Grief transformed into visceral military outrage and betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses the inciting incident behind Alexander's survival and the slaughter of his regiment."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_11",
+      "start_beat_id": "B017",
+      "end_beat_id": "B022",
+      "start_time": 59.5,
+      "end_time": 89.8,
+      "duration": 30.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B017 lacks an establishing visual anchor or clear staging in its opening moments, beginning abruptly on dialogue ('They told me you died...') without framing who is speaking or grounding the physical space.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue explains the backstory of his regiment being destroyed and the mission to uncover a British traitor selling secrets.",
+        "passes_gate": false,
+        "situational_summary": "A presumed-dead soldier explains to his mother that his unit was sent on a classified mission hunting a British spy."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Strained exposition of past military espionage"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Introduces the classified investigation and confirmation that his regiment was wiped out."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_12",
+      "start_beat_id": "B020",
+      "end_beat_id": "B034",
+      "start_time": 74.2,
+      "end_time": 129.5,
+      "duration": 55.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 starts mid-conversation with an ungrounded profile shot and the reactive punchline 'I wasn't supposed to.' A cold viewer has no context for what question is being answered or who is present.",
+        "arc_legibility": true,
+        "arc_rationale": "Once moving, the extended clip clearly outlines his mission, the ambush, his lone survival, and concludes on a deliberate cover-up conspiracy.",
+        "passes_gate": false,
+        "situational_summary": "A lone survivor of a military ambush reveals to his mother that his death was deliberately staged by someone in power."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Haunting survival amidst calculated high-level deception"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the deeper conspiracy mechanism: authorities knowingly lied to the family and faked his death."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_13",
+      "start_beat_id": "B026",
+      "end_beat_id": "B033",
+      "start_time": 98.5,
+      "end_time": 125.5,
+      "duration": 27.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 opens abruptly on a floating line of dialogue ('Then came the ambush.') with zero camera direction, visual establishing shot, or grounding of physical setting or characters present.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full duration, the dialogue between Alexander and his mother clearly establishes that he survived a military ambush and an official cover-up hid his survival from his family.",
+        "passes_gate": false,
+        "situational_summary": "A presumed-dead soldier recounts surviving a battlefield massacre to his astonished mother, questioning why his family was never informed."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Traumatic survival confession meeting maternal shock and grief"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Alexander survived a fatal ambush and that authorities actively concealed his survival from his family."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_14",
+      "start_beat_id": "B026",
+      "end_beat_id": "B034",
+      "start_time": 98.5,
+      "end_time": 129.5,
+      "duration": 31.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 starts on an unanchored mid-conversation line ('Then came the ambush.') without any visual framing, setting context, or indication of who is speaking or listening in the opening 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The full dialogue establishes the core conflict: Alexander's unit was wiped out and an intentional conspiracy orchestrated his reported death to deceive his family.",
+        "passes_gate": false,
+        "situational_summary": "A scarred soldier reveals to his mother how he survived an ambush and uncovers an active conspiracy that faked his death."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Harrowing battlefield survival colliding with deliberate high-stakes conspiracy"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Alexander's death was deliberately faked by an unknown enemy conspiracy."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_15",
+      "start_beat_id": "B026",
+      "end_beat_id": "B035",
+      "start_time": 98.5,
+      "end_time": 130.5,
+      "duration": 32.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 lacks any camera or action visual cues, dropping the scroller into an ungrounded spoken sentence ('Then came the ambush.') with no physical anchor.",
+        "arc_legibility": true,
+        "arc_rationale": "The full dialogue between mother and son makes the traumatic survival and underlying conspiracy behind his faked death entirely self-contained and clear.",
+        "passes_gate": false,
+        "situational_summary": "A soldier details his harrowing survival from an ambush to his mother, concluding with the revelation that an unknown enemy intentionally staged his death."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Raw survival testimony culminating in an urgent question of high-level treason"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the ambush survival and the conspiracy that intentionally misled his family into believing he was dead."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_16",
+      "start_beat_id": "B027",
+      "end_beat_id": "B034",
+      "start_time": 101.2,
+      "end_time": 129.5,
+      "duration": 28.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B027 opens immediately with a strong visual anchor: a close-up on Alexander's scarred hand clenching into a fist and furiously crumbling a parchment map, paired with the direct declaration 'My men were slaughtered.'",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and complete arc establishing Alexander's miraculous survival, his mother's disbelief, and the climax revealing that his death was deliberately orchestrated and covered up.",
+        "passes_gate": true,
+        "situational_summary": "A scarred veteran reveals to his grieving mother that he survived a massacre and that powerful conspirators deliberately faked his death."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral grief and fury over slaughtered comrades shifting into an ominous conspiracy reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the central plot revelation that Alexander survived and someone deliberately concealed his survival from his family."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_17",
+      "start_beat_id": "B027",
+      "end_beat_id": "B037",
+      "start_time": 101.2,
+      "end_time": 137.0,
+      "duration": 35.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B027 provides a clear physical and dramatic anchor: a close-up on Alexander's scarred hand crushing a parchment map paired with the stark, grounded line 'My men were slaughtered.' The visual setting and emotional gravity are instantly legible without sound or prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc cleanly establishes the core conflict: Alexander survived a deliberate military betrayal and slaughter, his mother was lied to regarding his death, and the ambush was an inside conspiracy. The stakes and dynamic are completely self-contained.",
+        "passes_gate": true,
+        "situational_summary": "A scarred military survivor reveals to his grieving mother that his unit's fatal ambush was an intentional conspiracy and he was deliberately left for dead."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Haunting survival trauma giving way to burning righteous fury against treacherous betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses the inciting premise/conspiracy that Alexander survived and his regiment's massacre was orchestrated, perfect for cold hook prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_18",
+      "start_beat_id": "B029",
+      "end_beat_id": "B038",
+      "start_time": 107.0,
+      "end_time": 144.0,
+      "duration": 37.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B029 has zero camera description or visual anchoring and opens abruptly on a disembodied piece of dialogue ('I was shot. Left for dead.'). A cold viewer without audio or establishing visuals has no physical orientation or character context in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full duration, the dialogue and actions between mother and son cleanly convey the military betrayal and cover-up plot.",
+        "passes_gate": false,
+        "situational_summary": "A soldier recounts his miraculous survival after being shot and abandoned, uncovering a calculated conspiracy to wipe out him and his men."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Visceral rage and trauma over a planned military assassination"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals that the battlefield massacre was an intentional plot to erase Alexander."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_19",
+      "start_beat_id": "B029",
+      "end_beat_id": "B039",
+      "start_time": 107.0,
+      "end_time": 145.0,
+      "duration": 38.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B029 lacks any camera angle, character action, or physical setting, launching directly into dialogue mid-stream. It fails opening legibility because a cold mobile viewer lacks any visual anchor or context.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative throughline is clear and self-contained, building from battlefield survival to the realization of an orchestrated assassination plot.",
+        "passes_gate": false,
+        "situational_summary": "A presumed-dead soldier reveals to his mother that his unit was deliberately sacrificed and ends on an unresolved demand for the conspirator's identity."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Simmering anger and suspense over an elite conspiracy to erase a commander"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses that the fatal ambush was a targeted inside assassination."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_20",
+      "start_beat_id": "B031",
+      "end_beat_id": "B040",
+      "start_time": 113.5,
+      "end_time": 150.5,
+      "duration": 37.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B031 opens on a clear, expressive camera close-up of Alexander with dark, haunted eyes recounting his harrowing escape from the battlefield. The visual anchor immediately grounds his physical state and trauma.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and highly legible dynamic: mother questions the cover-up, Alexander details the deliberate ambush, and names the current rulers of Ashwood as the architects.",
+        "passes_gate": true,
+        "situational_summary": "A presumed-dead soldier reveals to his mother that his regiment's massacre was orchestrated by the very lords who now rule the realm."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating personal survival narrative escalating to high-stakes political indictment and revenge"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key political conspiracy mechanics by identifying the ruling lords of Ashwood as the traitors who ordered the slaughter."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_21",
+      "start_beat_id": "B034",
+      "end_beat_id": "B040",
+      "start_time": 125.5,
+      "end_time": 150.5,
+      "duration": 25.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B034 opens mid-conversation with 'Because someone wanted you to believe I was dead' on a tight close-up of Alexander. It lacks physical orientation or established presence of an interlocutor without prior lore or sound.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the clip, the core conflict becomes clear: a returned soldier reveals to his mother that his supposed death was an assassination orchestrated by the current ruling lords.",
+        "passes_gate": false,
+        "situational_summary": "A presumed-dead warrior reveals to his mother that his death was staged by the corrupt rulers now running Ashwood."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Smoldering fury and conspiratorial treason reveal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the central conspiracy and reveals who orchestrated the fatal ambush."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_22",
+      "start_beat_id": "B034",
+      "end_beat_id": "B041",
+      "start_time": 125.5,
+      "end_time": 157.5,
+      "duration": 32.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B034 begins on a close-up answering an unseen question with 'Because someone...', which constitutes an unanchored mid-dialogue start without establishing the physical room or setting.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue clearly outlines the betrayal, the survival across three years, and the shocking revelation that current rulers ordered the ambush, ending on the mother's terrified reaction.",
+        "passes_gate": false,
+        "situational_summary": "A surviving warrior shocks his mother by revealing that the ruling lords of Ashwood ordered the assassination of him and his men."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Simmering vengeful rage shifting into dread and terror"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the ruling lords of Ashwood were behind the deadly ambush."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_23",
+      "start_beat_id": "B037",
+      "end_beat_id": "B041",
+      "start_time": 134.0,
+      "end_time": 157.5,
+      "duration": 23.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B037 opens on a clear physical action: Alexander storms back toward the table with burning rage declaring 'The ambush was not an accident', physically anchoring the space, movement, and interpersonal presence immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic confrontation explaining that an ambush was deliberate murder ordered by the current rulers, culminating in high stakes and dread.",
+        "passes_gate": true,
+        "situational_summary": "A scarred warrior reveals to his mother that his unit's fatal ambush was an inside hit orchestrated by the men now ruling their city."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Violent righteous anger turning into chilling conspiratorial revelation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the conspiracy mechanics behind the massacre and names the ruling lords as the culprits."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP035_24",
+      "start_beat_id": "B038",
+      "end_beat_id": "B041",
+      "start_time": 137.0,
+      "end_time": 157.5,
+      "duration": 20.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B038 begins mid-sentence on dialogue without a camera or room setup ('Someone ordered my men to die') before he leans over an unestablished table, lacking a clean visual orienting entry.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative through-line is clear within the lines: targeted murder plotted by the current regime, ending on the mother's silent terror.",
+        "passes_gate": false,
+        "situational_summary": "A commander confronts the truth of his unit's massacre, revealing the current ruling lords ordered them wiped out."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Raw boiling fury and dangerous political revelation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Unmasks the rulers of Ashwood as traitors who ordered the military massacre."
+      }
+    }
+  ]
+}

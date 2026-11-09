@@ -1,0 +1,308 @@
+{
+  "episode_number": 35,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP035_07",
+      "absolute_rubric_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B015",
+        "end_beat_id": "B020",
+        "start_time": 50.0,
+        "end_time": 78.0,
+        "duration": 28.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "I buried you.",
+        "opening_character": "ALEXANDER'S MOTHER",
+        "rationale": "Unprecedented verbal shocker that instantly hooks a cold viewer into a high-stakes mystery ('I buried you.')."
+      },
+      "cliffhanger": {
+        "final_quote": "I wasn't supposed to.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Who marked Alexander for execution, and why was his survival unintended?"
+      },
+      "situational_summary": "A mother stares at her scarred son whom she believed she buried, only for him to ominously reveal that his survival was never meant to happen.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP035_20",
+      "absolute_rubric_score": 9.1,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.1448,
+      "max_similarity_to_selected": 0.7783,
+      "boundary": {
+        "start_beat_id": "B031",
+        "end_beat_id": "B040",
+        "start_time": 113.5,
+        "end_time": 150.5,
+        "duration": 37.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "I crawled away from the battlefield, half dead, alone.",
+        "opening_character": "ALEXANDER",
+        "rationale": "Grim, vivid recount of traumatic survival ('I crawled away from the battlefield, half dead, alone.')."
+      },
+      "cliffhanger": {
+        "final_quote": "The men behind it... are the same men ruling Ashwood now.",
+        "final_character": "ALEXANDER",
+        "specific_question": "How will Alexander wage war against the corrupt ruling lords of Ashwood who orchestrated his assassination?"
+      },
+      "situational_summary": "A presumed-dead soldier reveals to his mother that his regiment's massacre was orchestrated by the very lords who now rule the realm.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP035_16",
+      "absolute_rubric_score": 9.1,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0756,
+      "max_similarity_to_selected": 0.8097,
+      "boundary": {
+        "start_beat_id": "B027",
+        "end_beat_id": "B034",
+        "start_time": 101.2,
+        "end_time": 129.5,
+        "duration": 28.3,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "My men were slaughtered.",
+        "opening_character": "ALEXANDER",
+        "rationale": "Brutal, high-stakes confession of slaughter ('My men were slaughtered.')."
+      },
+      "cliffhanger": {
+        "final_quote": "Because someone wanted you to believe I was dead.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Who possessed the terrifying power and motive to stage his death and silence his family?"
+      },
+      "situational_summary": "A scarred veteran reveals to his grieving mother that he survived a massacre and that powerful conspirators deliberately faked his death.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP035_05",
+      "absolute_rubric_score": 8.9,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": -0.0025,
+      "max_similarity_to_selected": 0.8612,
+      "boundary": {
+        "start_beat_id": "B013",
+        "end_beat_id": "B020",
+        "start_time": 44.2,
+        "end_time": 78.0,
+        "duration": 33.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You're alive.",
+        "opening_character": "ALEXANDER'S MOTHER",
+        "rationale": "Delivers an immediate emotional shockwave establishing a resurrection/survival twist ('You're alive.')."
+      },
+      "cliffhanger": {
+        "final_quote": "I wasn't supposed to.",
+        "final_character": "ALEXANDER",
+        "specific_question": "Who marked Alexander for execution, and why was his survival unintended?"
+      },
+      "situational_summary": "An elderly mother breaks down upon reuniting with her presumed-dead soldier son, who reveals that his survival from a wiped-out regiment was unintended.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP035_23",
+      "absolute_rubric_score": 8.6,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.0
+      },
+      "mmr_score": -0.081,
+      "max_similarity_to_selected": 0.7911,
+      "boundary": {
+        "start_beat_id": "B037",
+        "end_beat_id": "B041",
+        "start_time": 134.0,
+        "end_time": 157.5,
+        "duration": 23.5,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "The ambush was not an accident.",
+        "opening_character": "ALEXANDER",
+        "rationale": "Clear declaration of deliberate treachery ('The ambush was not an accident.')."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "What catastrophic danger does this treason pose to Alexander and his mother now that the truth is uncovered?"
+      },
+      "situational_summary": "A scarred warrior reveals to his mother that his unit's fatal ambush was an inside hit orchestrated by the men now ruling their city.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP035_10",
+      "rank": 5,
+      "recommended_boundary": "B015 -> B027",
+      "similarity": 0.9601,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9601 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP035_09",
+      "rank": 8,
+      "recommended_boundary": "B015 -> B026",
+      "similarity": 0.9613,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9613 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP035_08",
+      "rank": 10,
+      "recommended_boundary": "B015 -> B022",
+      "similarity": 0.9435,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9435 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP035_10",
+      "rank": 5,
+      "recommended_boundary": "B015 -> B027",
+      "similarity": 0.9601,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9601 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP035_09",
+      "rank": 8,
+      "recommended_boundary": "B015 -> B026",
+      "similarity": 0.9613,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9613 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP035_08",
+      "rank": 10,
+      "recommended_boundary": "B015 -> B022",
+      "similarity": 0.9435,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9435 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP035_10",
+      "rank": 5,
+      "recommended_boundary": "B015 -> B027",
+      "similarity": 0.9601,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9601 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP035_17",
+      "rank": 7,
+      "recommended_boundary": "B027 -> B037",
+      "similarity": 0.9611,
+      "duplicate_of": "CAND_EP035_16",
+      "reason": "Exceeded near-duplicate threshold (0.9611 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP035_09",
+      "rank": 8,
+      "recommended_boundary": "B015 -> B026",
+      "similarity": 0.9613,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9613 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP035_08",
+      "rank": 10,
+      "recommended_boundary": "B015 -> B022",
+      "similarity": 0.9435,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9435 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP035_10",
+      "rank": 5,
+      "recommended_boundary": "B015 -> B027",
+      "similarity": 0.9601,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9601 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP035_17",
+      "rank": 7,
+      "recommended_boundary": "B027 -> B037",
+      "similarity": 0.9611,
+      "duplicate_of": "CAND_EP035_16",
+      "reason": "Exceeded near-duplicate threshold (0.9611 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP035_09",
+      "rank": 8,
+      "recommended_boundary": "B015 -> B026",
+      "similarity": 0.9613,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9613 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP035_08",
+      "rank": 10,
+      "recommended_boundary": "B015 -> B022",
+      "similarity": 0.9435,
+      "duplicate_of": "CAND_EP035_07",
+      "reason": "Exceeded near-duplicate threshold (0.9435 >= 0.90)"
+    }
+  ]
+}

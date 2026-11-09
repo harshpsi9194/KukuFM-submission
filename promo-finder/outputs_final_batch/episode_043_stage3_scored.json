@@ -1,0 +1,756 @@
+{
+  "episode_number": 43,
+  "total_scored": 30,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP043_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 21.8,
+      "duration": 21.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 opens with Rupert trembling in rage before an altar and shouting 'This man is an imposter! Arrest him!' as the camera tracks him pointing furiously toward royal guards down the hall. Establishes the grand formal setting, intense crisis, and opposing parties immediately without needing prior context.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Rupert commands guards to arrest an alleged imposter, insists he is the rightful Duke, but the Royal Guard Captain firmly refuses and salutes Alexander as the true Duke.",
+        "passes_gate": true,
+        "situational_summary": "A panicked nobleman orders royal guards at an altar to arrest an alleged imposter, only for the guard captain to refuse and formally salute the rival as the true Duke."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Public humiliation and swift loss of authority upon formal military insubordination"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the key identity reversal and military allegiance switch establishing Alexander as the rightful Duke."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_02",
+      "start_beat_id": "B001",
+      "end_beat_id": "B009",
+      "start_time": 0.0,
+      "end_time": 28.0,
+      "duration": 28.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 clearly establishes the physical setting before the altar and Rupert's urgent crisis as he lunges and points at guards shouting that a rival is an imposter.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained escalation from Rupert's futile arrest orders to the guard saluting Alexander, Rupert desperately appealing to the stunned congregation, and Alexander cutting through with royal authority.",
+        "passes_gate": true,
+        "situational_summary": "After guards refuse to arrest his rival and instead acknowledge him as Duke, a desperate nobleman pleads with the cathedral congregation before his rival calls on the Crown to judge."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate public defiance giving way to icy, inevitable judicial reckoning"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Shows both the guard's defection to Alexander and Alexander producing Crown authority to settle the succession dispute."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_03",
+      "start_beat_id": "B001",
+      "end_beat_id": "B011",
+      "start_time": 0.0,
+      "end_time": 35.0,
+      "duration": 35.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 grounds the scene immediately in a cathedral confrontation with Rupert accusing an imposter and commanding the aisle guards to make an arrest.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear and self-contained power struggle: Rupert's failed arrest order leads into Alexander taking full command with sealed royal War Office dossiers, causing visible dread in the attending nobles.",
+        "passes_gate": true,
+        "situational_summary": "Rejected by his own guards who salute his rival as Duke, a nobleman watches helplessly as the true Duke presents sealed War Office dossiers to expose the conspiracy."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public exposure and impending doom as royal proof of treason emerges"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Alexander holds official sealed War Office evidence dismantling Rupert and Sterling's claims."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_04",
+      "start_beat_id": "B002",
+      "end_beat_id": "B019",
+      "start_time": 8.0,
+      "end_time": 60.0,
+      "duration": 52.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B002 opens silently on a symmetrical shot of Alexander standing in a cathedral flanked by guards staring at Rupert. Without dialogue or prior context, a cold viewer cannot tell who is who, what the dispute is, or why the guards are assembled.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full duration, the military report clearly explains the ambush of Alexander's unit, the treasonous leak, and Alexander's pursuit of the culprits.",
+        "passes_gate": false,
+        "situational_summary": "A man stands flanked by guards as an official reads a military report revealing an intentional betrayal that crippled the Duke's regiment, culminating in a demand to read the conspirators' names."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Crushing dread and physiological collapse under public reading of treason evidence"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the core backstory conspiracy (the deliberate ambush and Iberian leak) and initiates the formal reading of the conspirators' names."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_05",
+      "start_beat_id": "B003",
+      "end_beat_id": "B019",
+      "start_time": 10.5,
+      "end_time": 60.0,
+      "duration": 49.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B003 opens abruptly on an extreme close-up of Rupert yelling 'I said arrest him!'. Without prior context or an establishing visual, a cold viewer cannot tell who 'him' refers to, where this is occurring, or why the order is being shouted.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full duration, the dynamic becomes crystal clear: Rupert attempts to exert authority, the Royal Guard defies him in favor of Duke Alexander, and official War Office documents expose a deliberate military betrayal.",
+        "passes_gate": false,
+        "situational_summary": "A haughty nobleman attempts to order an arrest, only for the Royal Guard to kneel to the true Duke as wartime treason documents are read aloud."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Public humiliation and aristocratic downfall via royal military exposure"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the historical conspiracy mechanics behind Duke Alexander's military ambush and Iberian betrayal."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_06",
+      "start_beat_id": "B004",
+      "end_beat_id": "B019",
+      "start_time": 13.5,
+      "end_time": 60.0,
+      "duration": 46.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B004 opens in medias res with a Royal Guard Captain refusing an unseen command ('We will not.'). An ungrounded refusal with no prior context or prompt leaves a cold viewer confused about what is being rejected.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip cleanly establishes the power inversion: Rupert claims dukedom, the guard salutes Alexander instead, and an official military inquiry reading reveals deliberate treason.",
+        "passes_gate": false,
+        "situational_summary": "A Royal Guard captain refuses an unlawful order, saluting the rightful Duke while damning military intelligence records are produced."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Authoritative defiance transforming into catastrophic exposure of treason"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that the ambush on Duke Alexander was a deliberate leak orchestrated through British channels."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_07",
+      "start_beat_id": "B006",
+      "end_beat_id": "B016",
+      "start_time": 19.2,
+      "end_time": 50.8,
+      "duration": 31.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens cleanly with the Royal Guard Captain snapping a crisp salute toward Alexander and delivering the unambiguous declaration 'No. He is your Duke.' The profile shot and visual salute immediately ground status, authority, and conflict within 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: the revelation of the true Duke shocks the congregation and bride, Rupert panics, and an official Crown War Office dossier is formally unsealed revealing high treason.",
+        "passes_gate": true,
+        "situational_summary": "A Royal Guard salutes the true Duke before a stunned wedding congregation, prompting the unveiling of top-secret Crown documents proving deliberate military sabotage."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stunning public identity reveal followed by dread-inducing institutional reckoning"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the Crown War Office dossier confirming Duke Alexander's Iberian ambush was a deliberate leak."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_08",
+      "start_beat_id": "B006",
+      "end_beat_id": "B017",
+      "start_time": 19.2,
+      "end_time": 54.8,
+      "duration": 35.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 establishes the interpersonal dynamic instantly through a crisp military salute to Alexander and the stark line 'No. He is your Duke,' instantly establishing who holds true power and who is being displaced.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and coherent: follows the power shift from the guard's salute to the official reading of the betrayal report, culminating in Rupert's visible physical collapse against the railing as his guilt catches up to him.",
+        "passes_gate": true,
+        "situational_summary": "A royal guard salutes the rightful Duke over a false lord, leading to the reading of a treason report that sends the conspirator collapsing in terror."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant status reclaiming coupled with the physical and moral collapse of a traitor"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Details the secret military betrayal of Duke Alexander and shows Rupert visibly buckling under the weight of the leaked intelligence evidence."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_09",
+      "start_beat_id": "B006",
+      "end_beat_id": "B019",
+      "start_time": 19.2,
+      "end_time": 60.0,
+      "duration": 40.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 opens on a Guard Captain snapping a crisp salute to Alexander with the explicit status revelation 'No. He is your Duke.' Visual hierarchy, military submission, and immediate reversal are established instantly without prior lore.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is entirely self-contained: the newly recognized Duke presents an official Crown dossier exposing a deliberate wartime ambush on his unit, leaving the panicked nobles cornered right up to the demand to read the traitors' names.",
+        "passes_gate": true,
+        "situational_summary": "After a royal guard confirms a man's true identity as Duke, the Duke presents a sealed War Office dossier exposing deliberate wartime treason before ordering the names of the traitors read aloud."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant vindication turning into escalating dread and public exposure of high treason"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Discloses the climactic resolution of the Iberian ambush conspiracy, Duke Alexander's restored status, and the immediate unmasking of the conspirators."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_10",
+      "start_beat_id": "B006",
+      "end_beat_id": "B020",
+      "start_time": 19.2,
+      "end_time": 63.0,
+      "duration": 43.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 establishes the dynamic immediately with a Royal Guard saluting Alexander and announcing 'No. He is your Duke,' grounding power dynamic and authority within the first 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative cleanly establishes the Duke's authority, presents royal intelligence proving a deliberate military betrayal, and culminates in naming Lord Henry Sterling as a conspirator.",
+        "passes_gate": true,
+        "situational_summary": "A newly acknowledged Duke presents sealed Crown intelligence proving his military unit was deliberately ambushed, culminating in Lord Henry Sterling being publicly named as a conspirator."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating public unmasking of a high-status conspirator before the congregation"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the climactic payoff naming Lord Henry Sterling as the mastermind behind the Iberian front ambush."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_11",
+      "start_beat_id": "B006",
+      "end_beat_id": "B021",
+      "start_time": 19.2,
+      "end_time": 64.5,
+      "duration": 45.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B006 provides an immediate visual and spoken anchor: a Guard Captain saluting Alexander while declaring 'No. He is your Duke.' The power reversal and setting are legible on second one.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic arc moving from identity confirmation to formal dossier reading, identifying a deliberate military leak, and delivering the two-fold name reveal of Lord Sterling and Rupert Ashburn.",
+        "passes_gate": true,
+        "situational_summary": "Recognized as Duke, a former soldier presents top-secret military intelligence that publicly names both Lord Sterling and Rupert Ashburn for high treason."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak reckoning and explosive double betrayal reveal shattering aristocratic standing"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the full climactic resolution and conspirator identities (both Sterling and Rupert Ashburn) for the overarching Iberian ambush mystery."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_12",
+      "start_beat_id": "B010",
+      "end_beat_id": "B021",
+      "start_time": 28.0,
+      "end_time": 64.5,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B010 opens on a tight close-up of hands holding an official War Office document bundle with no establishing shot, no dialogue, and no clear visual orientation of who is holding it or what room they are in without downstream context.",
+        "arc_legibility": true,
+        "arc_rationale": "Once the document is handed over in Beat B012, the magistrate's reading clarifies the Iberian ambush, the intentional leak, and the direct naming of the traitors Sterling and Rupert.",
+        "passes_gate": false,
+        "situational_summary": "A man hands over sealed Crown War Office documents to a magistrate, leading to a public reading that accuses Lord Sterling and Rupert Ashburn of treason."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Formal bureaucratic exposure of military conspiracy and high treason"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Names both primary villains as conspirators in the Iberian ambush, revealing the climactic plot resolution."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_13",
+      "start_beat_id": "B014",
+      "end_beat_id": "B026",
+      "start_time": 42.8,
+      "end_time": 77.8,
+      "duration": 35.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 opens on a silent close-up of Rupert staring wide-eyed and petrified with no establishing context, dialogue, or visual anchor to ground the setting or situation.",
+        "arc_legibility": true,
+        "arc_rationale": "A formal reading of an official inquiry exposes Rupert's treasonous betrayal of Duke Alexander's unit, culminating in Alexander confronting him directly in front of the congregation.",
+        "passes_gate": false,
+        "situational_summary": "In a cathedral assembly, an official inquiry reveals that a nobleman deliberately leaked military positions, leading to an ambushed duke confronting his traitorous cousin."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Public exposure of military treason and personal usurping"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Explicitly names Rupert Ashburn and Lord Sterling as the traitors behind the ambush and title theft."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_14",
+      "start_beat_id": "B016",
+      "end_beat_id": "B026",
+      "start_time": 47.8,
+      "end_time": 77.8,
+      "duration": 30.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B016 opens on a clear frontal medium shot of a Crown Official reading an official document before a breathless congregation, instantly establishing a formal judicial or state assembly.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: the official reading confirms a deliberate leak, names the conspirators (Sterling, Rupert), and Duke Alexander confronts the crumbling traitor for stealing his men's lives and his ducal title.",
+        "passes_gate": true,
+        "situational_summary": "During a formal assembly, an official confirms deliberate military treason before a scarred Duke exposes and confronts his cousin for betraying his troops and usurping his title."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Righteous public retribution against a petrified traitor"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the conspiracy mechanics and names the exact conspirators who betrayed the Duke."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_15",
+      "start_beat_id": "B017",
+      "end_beat_id": "B024",
+      "start_time": 50.8,
+      "end_time": 72.7,
+      "duration": 21.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 establishes the physical setting via a wide shot of the cathedral floor rubble, a man crumbling in terror, and an official announcement regarding high-level transmission of military positions.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip cleanly shows the revelation of British betrayal, the naming of Rupert Ashburn, and Alexander confronting him for selling soldiers to the enemy, ending on a direct denial.",
+        "passes_gate": true,
+        "situational_summary": "As an official announces high-level military treason, a petrified nobleman is named and confronted by the surviving commander."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "High-stakes public accusation of military betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the Duke's betrayal was orchestrated from within British channels by Rupert."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_16",
+      "start_beat_id": "B017",
+      "end_beat_id": "B025",
+      "start_time": 50.8,
+      "end_time": 76.0,
+      "duration": 25.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 grounds the cathedral setting with a wide shot of Rupert collapsing against the choir railing under the weight of an official proclamation of domestic treason.",
+        "arc_legibility": true,
+        "arc_rationale": "The betrayal is revealed and named clearly, but the clip cuts mid-sentence on Alexander raising a document ('And when you believed I was dead...'), leaving the core accusation grammatically and narratively incomplete.",
+        "passes_gate": false,
+        "situational_summary": "An official reveals military treason implicating a crumbling nobleman, leading a surviving duke to confront him before being cut off mid-accusation."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stinging exposure of treason cut off before final resolution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses Rupert's treasonous involvement in the ambush of Duke Alexander."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_17",
+      "start_beat_id": "B017",
+      "end_beat_id": "B026",
+      "start_time": 50.8,
+      "end_time": 77.8,
+      "duration": 27.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 establishes the physical cathedral setting via wide shot of rubble, showing a man crumbling in terror against railing as a Crown Official announces military treason.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: Alexander publicly exposes Rupert and Lord Sterling for selling out his men and usurping his ducal title after falsely declaring him dead.",
+        "passes_gate": true,
+        "situational_summary": "Inside a ruined cathedral, a returned Duke confronts his terrified cousin with evidence of military treason and theft of his title."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Righteous vengeance and public reckoning over battlefield betrayal and stolen birthright"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the central conspiracy culprits (Rupert and Sterling) and Alexander's direct reclamation of his title."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_18",
+      "start_beat_id": "B017",
+      "end_beat_id": "B028",
+      "start_time": 50.8,
+      "end_time": 93.2,
+      "duration": 42.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B017 opens on a wide shot of cathedral rubble with Rupert visibly buckling in fear while a Crown Official reads out treason intelligence.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear dynamic and exposition across the arc: Alexander confronts the traitor Rupert, and the Crown Official unseals official documents proving false death reports and fraudulent title transfer.",
+        "passes_gate": true,
+        "situational_summary": "In front of assembled nobility, a presumed-dead Duke proves his cousin conspired in his military ambush and illegally usurped his estate."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Stately, crushing legal and moral retribution against treacherous family"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Discloses the legal mechanisms of the false death declaration and the full scope of the treasonous plot."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_19",
+      "start_beat_id": "B018",
+      "end_beat_id": "B026",
+      "start_time": 54.8,
+      "end_time": 77.8,
+      "duration": 23.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B018 begins on an ungrounded close-up of a blond man clinging to a pillar whimpering a solitary 'No...', providing zero context on setting, identity, or what he is reacting to.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent beats clearly frame Alexander confronting Rupert for selling his soldiers to the enemy and usurping his ducal title.",
+        "passes_gate": false,
+        "situational_summary": "A terrified noble is publicly exposed and cornered by a scarred Duke whose death was falsified to steal his title."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Visceral confrontation between betrayed returned soldier and trembling usurper"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the core betrayal and the direct naming of the traitors."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_20",
+      "start_beat_id": "B019",
+      "end_beat_id": "B031",
+      "start_time": 57.0,
+      "end_time": 102.2,
+      "duration": 45.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B019 opens cleanly on Alexander thrusting a dossier forward commanding 'Read the names', instantly establishing an authoritative accusation in motion.",
+        "arc_legibility": true,
+        "arc_rationale": "Full dramatic arc showing the formal naming of conspirators, exposure of the fake death certificate, and conspirators turning on each other in public panic.",
+        "passes_gate": true,
+        "situational_summary": "A scarred Duke corners the conspirators who staged his death, causing the panic-stricken usurper to sell out his co-conspirator at the altar."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating public exposure culminating in panic and co-conspirator betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Exposes the full plot, false death declaration, and Rupert turning on Lord Sterling."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_21",
+      "start_beat_id": "B021",
+      "end_beat_id": "B031",
+      "start_time": 63.0,
+      "end_time": 102.2,
+      "duration": 39.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B021 opens on a quick pan to Lord Sterling stiffening in his pew while a Crown Official simply utters 'Rupert Ashburn.' There is no physical grounding, no clear conflict established, and a cold scroller cannot discern who is confronting whom or why in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The overall arc makes the high-stakes confrontation explicit: Duke Alexander returns from being falsely declared dead and confronts the usurper Rupert for treason and stolen titles before Rupert deflects to Lord Sterling.",
+        "passes_gate": false,
+        "situational_summary": "A presumed-dead Duke interrupts a cathedral gathering to publicly confront a nobleman for treason and title theft with official proof, causing the nobleman to incriminate a conspirator."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Vindication against severe military betrayal and stolen identity"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Shows the climactic revelation that Duke Alexander is alive, exposes Rupert's usurped title, and breaks the conspiracy implicating Lord Sterling."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_22",
+      "start_beat_id": "B022",
+      "end_beat_id": "B031",
+      "start_time": 64.5,
+      "end_time": 102.2,
+      "duration": 37.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 begins on an extreme close-up of a man's terrified eyes with zero dialogue or wider visual orientation. It is completely ungrounded and lacks an interpersonal anchor for a cold scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "The full sequence clearly articulates the core conflict: Duke Alexander confronting Rupert with official death falsification and war treason, culminating in Rupert naming Sterling as the culprit.",
+        "passes_gate": false,
+        "situational_summary": "A terrified noble is confronted at the altar by a returned Duke brandishing proof of treason and false death records, prompting him to expose an accomplice."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal public reckoning and panic of an exposed usurper"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the climactic exposure of Duke Alexander's survival, official confirmation of title fraud, and Rupert's betrayal of Lord Sterling."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_23",
+      "start_beat_id": "B024",
+      "end_beat_id": "B029",
+      "start_time": 68.8,
+      "end_time": 96.5,
+      "duration": 27.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B024 opens with an instantly legible visual dynamic: a low-angle shot of Alexander towering menacingly over a fallen, groveling Rupert, accompanied immediately by the explosive accusation 'You sold my men to the enemy.' Grounded physical setting and dynamic within 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The dramatic conflict is entirely self-contained: the protagonist confronts a cowering traitor who sold out his troops and usurped his title under false claims of his demise.",
+        "passes_gate": true,
+        "situational_summary": "A scarred warrior stands over a cowering rival, accusing him of selling soldiers to the enemy and usurping his dukedom after falsely declaring him dead."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating confrontation of military treason and stolen nobility"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the central mechanics of the conspiracy (sold troops, falsified death certificate, stolen title)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_24",
+      "start_beat_id": "B024",
+      "end_beat_id": "B030",
+      "start_time": 68.8,
+      "end_time": 99.8,
+      "duration": 31.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B024 establishes clear visual hierarchy and immediate stakes: a dominant figure towering over a fallen opponent on church steps with the lethal opening line 'You sold my men to the enemy.'",
+        "arc_legibility": true,
+        "arc_rationale": "Completely self-contained and legible narrative arc: a betrayed leader proves his identity and false death declaration while cornering the terrified usurper on the steps.",
+        "passes_gate": true,
+        "situational_summary": "A vengeful Duke confronts the man who betrayed his regiment and stole his title, advancing on him as the official fraud is confirmed."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Relentless, looming vengeance against an exposed traitor"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the conspiracy mechanics behind the false death certificate and treasonous usurping of the dukedom."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_25",
+      "start_beat_id": "B024",
+      "end_beat_id": "B031",
+      "start_time": 68.8,
+      "end_time": 102.2,
+      "duration": 33.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B024 opens with an immediate, grounded dynamic: a low-angle shot of a towering Alexander over the fallen, hyperventilating Rupert accompanied by the clear lethal accusation 'You sold my men to the enemy.' Physical status, power asymmetry, and confrontation are instantly readable.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip presents a self-contained revelation: Alexander confronts Rupert for treason and usurpation, confirmed by the Crown Official reading the fraudulent death record, culminating in Rupert desperately deflecting guilt onto Lord Sterling.",
+        "passes_gate": true,
+        "situational_summary": "A presumed-dead Duke corners the nobleman who stole his title and sold his men out, as a Crown Official confirms the fraud and the usurper frantically shifts blame to a co-conspirator."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Righteous military fury confronting pathetic, desperate cowardice"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Unveils the core conspiracy mechanics: the fraudulent death declaration, stolen title, and Sterling's involvement in the report."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_26",
+      "start_beat_id": "B024",
+      "end_beat_id": "B033",
+      "start_time": 68.8,
+      "end_time": 104.8,
+      "duration": 36.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B024 establishes clear spatial orientation and dramatic stakes within two seconds: low-angle framing of Alexander looming over a cowering Rupert with the explosive charge 'You sold my men to the enemy.'",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained dramatic confrontation detailing the betrayal and fraudulent death declaration, leading to Rupert exposing Lord Sterling, who is caught attempting to flee.",
+        "passes_gate": true,
+        "situational_summary": "A returned Duke exposes the fraudulent declaration used to steal his title, causing the accused usurper to point out an accomplice who flees toward the exit."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Explosive public exposure turning into panicked escape"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the conspiracy mechanics behind the false death certificate and reveals Sterling as a complicit plotter as he bolts."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_27",
+      "start_beat_id": "B026",
+      "end_beat_id": "B035",
+      "start_time": 76.0,
+      "end_time": 109.8,
+      "duration": 33.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 opens abruptly on a tight close-up of a scarred face stating 'You took my title' without showing who is being addressed, physical setting, or spatial relationship. Lacks an establishing visual anchor for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The ensuing beats clarify the stolen title through official records, Rupert's panic, and Sterling's desperate bolt for the cathedral exit.",
+        "passes_gate": false,
+        "situational_summary": "A scarred man accuses rivals in a cathedral of stealing his noble title, prompting an accomplice in the pews to make a run for the doors."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous confrontation triggering chaos and desperate flight"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals that Alexander's title was stolen via false death confirmation and exposes Sterling's flight."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_28",
+      "start_beat_id": "B026",
+      "end_beat_id": "B036",
+      "start_time": 76.0,
+      "end_time": 112.8,
+      "duration": 36.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 starts mid-confrontation on an unanchored tight close-up of Alexander saying 'You took my title' without establishing the physical setting, who he is confronting, or the room's geography.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is fully understandable across its run, showing the official proof of stolen title, Rupert's accusation of Sterling, and Sterling's escape getting cut off by a waiting police officer.",
+        "passes_gate": false,
+        "situational_summary": "A confrontation over a stolen noble title leads a fleeing conspirator straight into the arms of an awaiting police constable at the church doors."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "High-stakes exposure capped by an immediate trap and law-enforcement ambush"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Exposes the conspiracy and reveals the immediate apprehension/blockade of co-conspirator Lord Sterling by police."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_29",
+      "start_beat_id": "B026",
+      "end_beat_id": "B037",
+      "start_time": 76.0,
+      "end_time": 114.96,
+      "duration": 38.96,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B026 opens directly on a tight close-up of Alexander's scarred face declaring 'You took my title' without establishing the environment, who he is confronting, or the broader church setting.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly establishes Alexander confronting Rupert and a corrupt official apparatus over an identity and title theft, culminating in conspirator Lord Sterling fleeing straight into a waiting police constable.",
+        "passes_gate": false,
+        "situational_summary": "A presumed-dead Duke returns to confront the usurper of his title and estate, trapping the fleeing conspirator at the church doors with the police."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Triumphant vengeance and public exposure of high-stakes fraud and treason"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Exposes the grand conspiracy, official falsification of the Duke's death, and the immediate apprehension of Lord Sterling."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP043_30",
+      "start_beat_id": "B028",
+      "end_beat_id": "B037",
+      "start_time": 81.0,
+      "end_time": 114.96,
+      "duration": 33.96,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B028 opens on a full establishing shot of a Crown Official reading from a death register in a cathedral nave, explicitly stating that Duke Alexander Ashburn was falsely declared dead and his title transferred.",
+        "arc_legibility": true,
+        "arc_rationale": "The full conflict is self-contained: the official proclamation proves legal fraud, the blond nobleman throws his co-conspirator under the bus, and Lord Sterling is intercepted by police while attempting to escape.",
+        "passes_gate": true,
+        "situational_summary": "A Crown Official reveals to a crowded cathedral that the Duke's death was falsified, prompting a panic-stricken conspirator to flee directly into the arms of the law."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Stunning public legal exposure turning into frantic panic and apprehension"
+      },
+      "spoiler": {
+        "spoiler_level": 3,
+        "spoiler_rationale": "Reveals the formal legal unraveling of the death conspiracy and the cut-off escape/capture of Lord Sterling."
+      }
+    }
+  ]
+}

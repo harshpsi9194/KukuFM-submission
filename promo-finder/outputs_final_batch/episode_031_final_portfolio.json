@@ -1,0 +1,245 @@
+{
+  "episode_number": 31,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP031_22",
+      "absolute_rubric_score": 9.7,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.5,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B034",
+        "end_beat_id": "B040",
+        "start_time": 134.5,
+        "end_time": 160.0,
+        "duration": 25.5,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "This pathetic book is the only thing you still have from your mother.",
+        "opening_character": "CATHERINE",
+        "rationale": "Cruel revelation targeted at destroying the victim's only keepsake of her deceased mother."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Will Juliana be permanently blinded and disfigured by Catherine's branding iron?"
+      },
+      "situational_summary": "A tormentor taunts a chained captive by burning the last surviving keepsake from her mother, then swings the glowing branding iron inches from her face.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP031_07",
+      "absolute_rubric_score": 9.3,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.1518,
+      "max_similarity_to_selected": 0.7737,
+      "boundary": {
+        "start_beat_id": "B013",
+        "end_beat_id": "B023",
+        "start_time": 43.0,
+        "end_time": 91.2,
+        "duration": 48.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "No. You became a disgrace when Gerald left you standing at the altar.",
+        "opening_character": "CATHERINE",
+        "rationale": "Explosive relationship reveal: \"Gerald left you standing at the altar\" instantly hooks scrollers on wedding betrayal drama."
+      },
+      "cliffhanger": {
+        "final_quote": "To a place where I can still look you in the eyes.",
+        "final_character": "JULIANA",
+        "specific_question": "Will Juliana's unflinching gaze past the hot poker provoke Catherine into violent retribution?"
+      },
+      "situational_summary": "Chained in a dungeon beneath a red-hot iron, a defiant woman withstands vicious taunts about her ruined wedding and beggar husband to proclaim true honor and love.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP031_09",
+      "absolute_rubric_score": 8.6,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.072,
+      "max_similarity_to_selected": 0.8399,
+      "boundary": {
+        "start_beat_id": "B015",
+        "end_beat_id": "B023",
+        "start_time": 54.8,
+        "end_time": 91.2,
+        "duration": 36.4,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "And everyone watched you walk away alone.",
+        "opening_character": "CATHERINE",
+        "rationale": "\"And everyone watched you walk away alone\" underlines public rejection and heartbreak."
+      },
+      "cliffhanger": {
+        "final_quote": "To a place where I can still look you in the eyes.",
+        "final_character": "JULIANA",
+        "specific_question": "Will Juliana's unflinching gaze past the hot poker provoke Catherine into violent retribution?"
+      },
+      "situational_summary": "In a damp dungeon, an aristocratic woman holding a glowing hot iron threatens and taunts an imprisoned rival for marrying an honorable outcast rather than choosing wealth.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP031_14",
+      "absolute_rubric_score": 8.5,
+      "subscores": {
+        "hook_score": 1.5,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.022,
+      "max_similarity_to_selected": 0.8401,
+      "boundary": {
+        "start_beat_id": "B023",
+        "end_beat_id": "B033",
+        "start_time": 83.2,
+        "end_time": 134.5,
+        "duration": 51.3,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "[laughs] Love? Look where your precious love brought you.",
+        "opening_character": "CATHERINE",
+        "rationale": "Taunting contrast of romantic ideals against dungeon imprisonment."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Can Juliana save her mother's burning book before it is permanently destroyed?"
+      },
+      "situational_summary": "Enraged when her imprisoned rival refuses to bow, an aristocratic noblewoman presses a red-hot iron poker into the open pages of the captive's cherished book.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 5,
+      "candidate_id": "CAND_EP031_04",
+      "absolute_rubric_score": 7.5,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 1.9,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 1.8
+      },
+      "mmr_score": -0.2765,
+      "max_similarity_to_selected": 0.8366,
+      "boundary": {
+        "start_beat_id": "B006",
+        "end_beat_id": "B015",
+        "start_time": 13.8,
+        "end_time": 59.0,
+        "duration": 45.2,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Chained in a dungeon like a common criminal.",
+        "opening_character": "CATHERINE",
+        "rationale": "\"Chained in a dungeon like a common criminal\" delivers an immediate, high-stakes status shock."
+      },
+      "cliffhanger": {
+        "final_quote": "And everyone watched you walk away alone.",
+        "final_character": "CATHERINE",
+        "specific_question": "Will Juliana break down in tears or stand strong as Catherine rubs in her solitary humiliation?"
+      },
+      "situational_summary": "Standing over a chained captive in a dungeon, an aristocratic captor wields a glowing branding iron while rubbing in the humiliation of her failed wedding.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP031_06",
+      "rank": 5,
+      "recommended_boundary": "B013 -> B016",
+      "similarity": 0.9781,
+      "duplicate_of": "CAND_EP031_07",
+      "reason": "Exceeded near-duplicate threshold (0.9781 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP031_06",
+      "rank": 5,
+      "recommended_boundary": "B013 -> B016",
+      "similarity": 0.9781,
+      "duplicate_of": "CAND_EP031_07",
+      "reason": "Exceeded near-duplicate threshold (0.9781 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP031_06",
+      "rank": 5,
+      "recommended_boundary": "B013 -> B016",
+      "similarity": 0.9781,
+      "duplicate_of": "CAND_EP031_07",
+      "reason": "Exceeded near-duplicate threshold (0.9781 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP031_15",
+      "rank": 6,
+      "recommended_boundary": "B023 -> B034",
+      "similarity": 0.9618,
+      "duplicate_of": "CAND_EP031_14",
+      "reason": "Exceeded near-duplicate threshold (0.9618 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP031_13",
+      "rank": 7,
+      "recommended_boundary": "B023 -> B032",
+      "similarity": 0.9375,
+      "duplicate_of": "CAND_EP031_14",
+      "reason": "Exceeded near-duplicate threshold (0.9375 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP031_11",
+      "rank": 8,
+      "recommended_boundary": "B023 -> B030",
+      "similarity": 0.9427,
+      "duplicate_of": "CAND_EP031_14",
+      "reason": "Exceeded near-duplicate threshold (0.9427 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP031_12",
+      "rank": 9,
+      "recommended_boundary": "B023 -> B031",
+      "similarity": 0.9363,
+      "duplicate_of": "CAND_EP031_14",
+      "reason": "Exceeded near-duplicate threshold (0.9363 >= 0.90)"
+    }
+  ]
+}

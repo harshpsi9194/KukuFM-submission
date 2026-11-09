@@ -251,18 +251,20 @@ flowchart TD
 
 ### 7.1 Quantitative Performance Comparison
 
-| Metric | Legacy V1 Pipeline | Rebuilt V2 Pipeline | Factor Improvement |
+| Metric | Legacy V1 Pipeline | Rebuilt V2 Pipeline (Empirical Batch) | Factor Improvement |
 |---|---|---|---|
-| **API Calls / Episode** | 280 calls | 12 calls | **23.3× fewer calls** |
+| **API Calls / Episode** | ~280 calls | **7.5 calls** (average across 50 eps) | **37.3× fewer calls** |
+| **Total Calls (50 Episodes)** | ~14,000 calls | **375 calls** | **97.3% call reduction** |
 | **Stage 1 (Detection) Latency** | 120s | 35s | **3.4× faster** |
-| **Stage 3 (Scoring) Latency** | 180s | 51s | **3.5× faster** |
-| **Stage 4 (Ranking) Latency** | 330s (120 calls) | 26s (1 call) | **12.7× faster** |
-| **Stage 5 (MMR) Latency** | 5s | 1.2s | **4.1× faster** |
-| **Total Episode Wall-Clock** | **630s (10.5m)** | **140s (2.3m)** | **4.5× faster** |
-| **Input Tokens / Episode** | ~450,000 tokens | ~58,000 tokens | **87.1% reduction** |
-| **Output Tokens / Episode** | ~48,000 tokens | ~8,500 tokens | **82.3% reduction** |
-| **Cost per Episode (USD)** | **$0.215** | **$0.0069** | **31.1× cheaper** |
-| **50-Episode Series Cost** | **$10.75** | **$0.345** | **Under $0.35 total** |
+| **Stage 3 (Scoring) Latency** | 180s | ~25–50s | **3.6× faster** |
+| **Stage 4 (Ranking) Latency** | 330s (120 calls) | ~20–26s (1 call) | **13.5× faster** |
+| **Stage 5 (MMR) Latency** | 5s | 0.25–1.2s | **4.5× faster** |
+| **Average Episode Wall-Clock** | **630s (10.5m)** | **89.8s (1.50m)** | **7.0× faster** |
+| **Full 50-Episode Series Time** | **~8.8 hours** | **74.8 minutes (1.25h)** | **~7 hours saved** |
+| **Input Tokens (50 Episodes)** | ~22,500,000 tokens | **1,150,131 tokens** | **94.9% reduction** |
+| **Output Tokens (50 Episodes)**| ~2,400,000 tokens | **339,230 tokens** | **85.9% reduction** |
+| **Average Cost / Episode** | **$0.215** | **$0.00376 USD** | **57.2× cheaper** |
+| **Full 50-Episode Series Cost** | **~$10.75 USD** | **$0.188 USD total (< 19¢)** | **98.3% cost reduction** |
 
 ### 7.2 Measured Production Run Telemetry (Episode 1 Rebuild)
 * **Screenplay:** 45 beats, duration: 112.5s.

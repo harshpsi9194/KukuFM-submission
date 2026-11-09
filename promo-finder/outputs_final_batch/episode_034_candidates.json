@@ -1,0 +1,2008 @@
+{
+  "episode_number": 34,
+  "total_candidates": 31,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP034_01",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 35.3,
+      "duration": 35.3,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "High auditory shock: the judge directly levels severe, life-or-death charges of witchcraft and poisoning against the protagonist.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual scroll-stop potential: grand high-wide courtroom reveal showing an imprisoned lady in the dock facing armed bailiffs and a presiding judge.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will the authoritarian Judge punish Juliana's brazen moral defiance before the assembly?",
+        "stakes_importance": "High \u2014 marks a powerful moment of moral resistance, inviting an immediate judicial crackdown.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B001",
+          "end_beat_id": "B008",
+          "start_time": 0.0,
+          "end_time": 35.3,
+          "duration": 35.3,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_02",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B001",
+      "end_beat_id": "B012",
+      "start_time": 0.0,
+      "end_time": 51.5,
+      "duration": 51.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "High auditory shock: the judge directly levels severe, life-or-death charges of witchcraft and poisoning against the protagonist.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual scroll-stop potential: grand high-wide courtroom reveal showing an imprisoned lady in the dock facing armed bailiffs and a presiding judge.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B012",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's desperate plea compel Prudence to tell the truth or push her to break down in false confession?",
+        "stakes_importance": "High \u2014 intense emotional collision between accused benefactor and terrified servant.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B001",
+          "end_beat_id": "B012",
+          "start_time": 0.0,
+          "end_time": 51.5,
+          "duration": 51.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_03",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B002",
+      "end_beat_id": "B008",
+      "start_time": 7.8,
+      "end_time": 35.3,
+      "duration": 27.5,
+      "hook_signal": {
+        "beat_id": "B002",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Direct interrogation over possessing incriminating contraband.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up insert of a charred botanical grimoire being firmly tapped on the court bench establishes an occult/forbidden investigation on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will the authoritarian Judge punish Juliana's brazen moral defiance before the assembly?",
+        "stakes_importance": "High \u2014 marks a powerful moment of moral resistance, inviting an immediate judicial crackdown.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B002",
+          "end_beat_id": "B008",
+          "start_time": 7.8,
+          "end_time": 35.3,
+          "duration": 27.5,
+          "beat_ids": [
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_04",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B007",
+      "end_beat_id": "B020",
+      "start_time": 27.4,
+      "end_time": 81.0,
+      "duration": 53.6,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "A sharp, accusatory escalation explicitly pinning the capital charge of practicing forbidden arts.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up of a judge leaning forward with grim conviction.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court capitalize on Prudence's devastating lie to sentence Juliana to death?",
+        "stakes_importance": "High \u2014 total betrayal from an intimate ally under coercion, shattering Juliana's primary line of defense.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B007",
+          "end_beat_id": "B020",
+          "start_time": 27.4,
+          "end_time": 81.0,
+          "duration": 53.6,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_05",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B009",
+      "end_beat_id": "B020",
+      "start_time": 35.3,
+      "end_time": 81.0,
+      "duration": 45.7,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Loud, commanding shout ('Silence!') paired with an echoing audio burst.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-urgency physical action: the judge furiously raises and slams his wooden gavel with sudden force.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court capitalize on Prudence's devastating lie to sentence Juliana to death?",
+        "stakes_importance": "High \u2014 total betrayal from an intimate ally under coercion, shattering Juliana's primary line of defense.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B009",
+          "end_beat_id": "B020",
+          "start_time": 35.3,
+          "end_time": 81.0,
+          "duration": 45.7,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_06",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B010",
+      "end_beat_id": "B019",
+      "start_time": 37.4,
+      "end_time": 75.8,
+      "duration": 38.4,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Courtroom pivot summoning a key inside witness who served beside the accused.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tracking shot from an accusatory outstretched arm down to a trembling maid weeping in shame in open court.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Prudence lie and confirm demonic incantations, sealing Juliana's execution?",
+        "stakes_importance": "High \u2014 the definitive threshold question separating healing from condemned witchcraft.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B010",
+          "end_beat_id": "B019",
+          "start_time": 37.4,
+          "end_time": 75.8,
+          "duration": 38.4,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_07",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B010",
+      "end_beat_id": "B020",
+      "start_time": 37.4,
+      "end_time": 81.0,
+      "duration": 43.6,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Courtroom pivot summoning a key inside witness who served beside the accused.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tracking shot from an accusatory outstretched arm down to a trembling maid weeping in shame in open court.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court capitalize on Prudence's devastating lie to sentence Juliana to death?",
+        "stakes_importance": "High \u2014 total betrayal from an intimate ally under coercion, shattering Juliana's primary line of defense.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B010",
+          "end_beat_id": "B020",
+          "start_time": 37.4,
+          "end_time": 81.0,
+          "duration": 43.6,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_08",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B012",
+      "end_beat_id": "B020",
+      "start_time": 49.0,
+      "end_time": 81.0,
+      "duration": 32.0,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Urgent, desperate plea across the courtroom ('Tell the truth') demanding loyalty.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Over-the-shoulder framing focusing on Lady Juliana bound in heavy iron cuffs establishes high physical jeopardy.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court capitalize on Prudence's devastating lie to sentence Juliana to death?",
+        "stakes_importance": "High \u2014 total betrayal from an intimate ally under coercion, shattering Juliana's primary line of defense.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B012",
+          "end_beat_id": "B020",
+          "start_time": 49.0,
+          "end_time": 81.0,
+          "duration": 32.0,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_09",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 51.5,
+      "end_time": 81.0,
+      "duration": 29.5,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A single affirmative betrayal ('Yes') that requires preceding context to fully grasp.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme emotional friction: close-up of a key witness breaking down in tears with eyes squeezed shut in overwhelming guilt.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court capitalize on Prudence's devastating lie to sentence Juliana to death?",
+        "stakes_importance": "High \u2014 total betrayal from an intimate ally under coercion, shattering Juliana's primary line of defense.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B013",
+          "end_beat_id": "B020",
+          "start_time": 51.5,
+          "end_time": 81.0,
+          "duration": 29.5,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_10",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B013",
+      "end_beat_id": "B021",
+      "start_time": 51.5,
+      "end_time": 90.5,
+      "duration": 39.0,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A single affirmative betrayal ('Yes') that requires preceding context to fully grasp.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme emotional friction: close-up of a key witness breaking down in tears with eyes squeezed shut in overwhelming guilt.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B021",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's explosive outburst in the dock invite immediate physical restraint or instant sentencing?",
+        "stakes_importance": "High \u2014 intense physical and verbal clash with the magistrate actively suppressing the accused.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B013",
+          "end_beat_id": "B021",
+          "start_time": 51.5,
+          "end_time": 90.5,
+          "duration": 39.0,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_11",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B020",
+      "end_beat_id": "B028",
+      "start_time": 75.8,
+      "end_time": 112.8,
+      "duration": 37.0,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "A single tearful confirmation ('Yes') whose full weight relies on the prior question.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up of a witness weeping uncontrollably with face contorted in agony, conveying immense emotional stakes on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B028",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Juliana reverse the Lord's damning public branding of her as a mass poisoner before the assembly demands her death?",
+        "stakes_importance": "High \u2014 catastrophic public condemnation orchestrated by the true antagonist, leaving her completely isolated.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B020",
+          "end_beat_id": "B028",
+          "start_time": 75.8,
+          "end_time": 112.8,
+          "duration": 37.0,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_12",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B021",
+      "end_beat_id": "B026",
+      "start_time": 81.0,
+      "end_time": 107.3,
+      "duration": 26.3,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive multi-party confrontation: antagonist declares ritual proven, prisoner roars in fury, and judge bellows over gavel strikes.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum visual drama: cuffed prisoner violently slams chains on the railing while the judge repeatedly hammers his gavel amid theatrical posturing.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 4,
+        "specific_question": "How can Juliana combat a coordinated mob of accusers turning the entire public gallery against her?",
+        "stakes_importance": "High \u2014 public condemnation reaches fever pitch as multiple townspeople join the mob lynching.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B021",
+          "end_beat_id": "B026",
+          "start_time": 81.0,
+          "end_time": 107.3,
+          "duration": 26.3,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_13",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B021",
+      "end_beat_id": "B028",
+      "start_time": 81.0,
+      "end_time": 112.8,
+      "duration": 31.8,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive multi-party confrontation: antagonist declares ritual proven, prisoner roars in fury, and judge bellows over gavel strikes.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum visual drama: cuffed prisoner violently slams chains on the railing while the judge repeatedly hammers his gavel amid theatrical posturing.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B028",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Juliana reverse the Lord's damning public branding of her as a mass poisoner before the assembly demands her death?",
+        "stakes_importance": "High \u2014 catastrophic public condemnation orchestrated by the true antagonist, leaving her completely isolated.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B021",
+          "end_beat_id": "B028",
+          "start_time": 81.0,
+          "end_time": 112.8,
+          "duration": 31.8,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_14",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B021",
+      "end_beat_id": "B032",
+      "start_time": 81.0,
+      "end_time": 123.4,
+      "duration": 42.4,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive multi-party confrontation: antagonist declares ritual proven, prisoner roars in fury, and judge bellows over gavel strikes.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum visual drama: cuffed prisoner violently slams chains on the railing while the judge repeatedly hammers his gavel amid theatrical posturing.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B032",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana's impassioned defense of science and herbalism persuade any souls in the hostile court?",
+        "stakes_importance": "High \u2014 central thematic declaration where the protagonist challenges systemic medieval dogma.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B021",
+          "end_beat_id": "B032",
+          "start_time": 81.0,
+          "end_time": 123.4,
+          "duration": 42.4,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_15",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B021",
+      "end_beat_id": "B037",
+      "start_time": 81.0,
+      "end_time": 139.2,
+      "duration": 58.2,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive multi-party confrontation: antagonist declares ritual proven, prisoner roars in fury, and judge bellows over gavel strikes.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Maximum visual drama: cuffed prisoner violently slams chains on the railing while the judge repeatedly hammers his gavel amid theatrical posturing.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will the corrupt court punish Juliana for choosing moral compassion over legal compliance?",
+        "stakes_importance": "High \u2014 heroic crystallization of her character as an unrepentant savior of the neglected poor.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B021",
+          "end_beat_id": "B037",
+          "start_time": 81.0,
+          "end_time": 139.2,
+          "duration": 58.2,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_16",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B025",
+      "end_beat_id": "B039",
+      "start_time": 99.5,
+      "end_time": 147.4,
+      "duration": 47.9,
+      "hook_signal": {
+        "beat_id": "B025",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Stark, damning testimony alleging physical poisoning ('She became violently ill').",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Close-up of a witness's tense, strained facial expression.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B039",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana renounce her life's healing work to save her neck, or choose execution over submission?",
+        "stakes_importance": "High \u2014 ultimate life-or-death ultimatum placed upon the protagonist's soul and survival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B025",
+          "end_beat_id": "B039",
+          "start_time": 99.5,
+          "end_time": 147.4,
+          "duration": 47.9,
+          "beat_ids": [
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_17",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B026",
+      "end_beat_id": "B039",
+      "start_time": 102.1,
+      "end_time": 147.4,
+      "duration": 45.3,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Loud, venomous public outcry accusing the defendant of severely sickening a child with herbal concoctions.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Elderly spectator abruptly stands up from the pews and thrusts an accusatory finger across the crowded hall.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B039",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana renounce her life's healing work to save her neck, or choose execution over submission?",
+        "stakes_importance": "High \u2014 ultimate life-or-death ultimatum placed upon the protagonist's soul and survival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B026",
+          "end_beat_id": "B039",
+          "start_time": 102.1,
+          "end_time": 147.4,
+          "duration": 45.3,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_18",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B028",
+      "end_beat_id": "B039",
+      "start_time": 110.0,
+      "end_time": 147.4,
+      "duration": 37.4,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-decibel mob incitement branding her actions as outright poisoning to the entire gallery.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Theatrical turn as the lord aggressively plays to the crowd with sweeping arm gestures.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B039",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana renounce her life's healing work to save her neck, or choose execution over submission?",
+        "stakes_importance": "High \u2014 ultimate life-or-death ultimatum placed upon the protagonist's soul and survival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B028",
+          "end_beat_id": "B039",
+          "start_time": 110.0,
+          "end_time": 147.4,
+          "duration": 37.4,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_19",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B032",
+      "end_beat_id": "B039",
+      "start_time": 119.8,
+      "end_time": 147.4,
+      "duration": 27.6,
+      "hook_signal": {
+        "beat_id": "B032",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Rousing thematic manifesto shouted to the courtroom: 'Herbs are not magic! They are medicine!'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Striking visual composition: chained heroine stands tall against window backlighting, holding the balustrade to address the hall.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B039",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Juliana renounce her life's healing work to save her neck, or choose execution over submission?",
+        "stakes_importance": "High \u2014 ultimate life-or-death ultimatum placed upon the protagonist's soul and survival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B032",
+          "end_beat_id": "B039",
+          "start_time": 119.8,
+          "end_time": 147.4,
+          "duration": 27.6,
+          "beat_ids": [
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_20",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B032",
+      "end_beat_id": "B041",
+      "start_time": 119.8,
+      "end_time": 151.2,
+      "duration": 31.4,
+      "hook_signal": {
+        "beat_id": "B032",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Rousing thematic manifesto shouted to the courtroom: 'Herbs are not magic! They are medicine!'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Striking visual composition: chained heroine stands tall against window backlighting, holding the balustrade to address the hall.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will the Judge react to Juliana's immediate and unyielding refusal to renounce her work?",
+        "stakes_importance": "High \u2014 total public defiance in a court of law with fatal consequences.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B032",
+          "end_beat_id": "B041",
+          "start_time": 119.8,
+          "end_time": 151.2,
+          "duration": 31.4,
+          "beat_ids": [
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_21",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B032",
+      "end_beat_id": "B043",
+      "start_time": 119.8,
+      "end_time": 156.8,
+      "duration": 37.0,
+      "hook_signal": {
+        "beat_id": "B032",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Rousing thematic manifesto shouted to the courtroom: 'Herbs are not magic! They are medicine!'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Striking visual composition: chained heroine stands tall against window backlighting, holding the balustrade to address the hall.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B043",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the court immediately condemn Juliana for openly reaffirming her refusal?",
+        "stakes_importance": "High \u2014 confirms her premeditated resolve to face martyrdom rather than bend.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B032",
+          "end_beat_id": "B043",
+          "start_time": 119.8,
+          "end_time": 156.8,
+          "duration": 37.0,
+          "beat_ids": [
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_22",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B032",
+      "end_beat_id": "B044",
+      "start_time": 119.8,
+      "end_time": 162.0,
+      "duration": 42.2,
+      "hook_signal": {
+        "beat_id": "B032",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Rousing thematic manifesto shouted to the courtroom: 'Herbs are not magic! They are medicine!'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Striking visual composition: chained heroine stands tall against window backlighting, holding the balustrade to address the hall.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B044",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana retract her statement knowing her defiance will be ruled as witchcraft?",
+        "stakes_importance": "High \u2014 an explicit legal trap where refusal equates to a death sentence for witchcraft.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B032",
+          "end_beat_id": "B044",
+          "start_time": 119.8,
+          "end_time": 162.0,
+          "duration": 42.2,
+          "beat_ids": [
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_23",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B032",
+      "end_beat_id": "B045",
+      "start_time": 119.8,
+      "end_time": 163.6,
+      "duration": 43.8,
+      "hook_signal": {
+        "beat_id": "B032",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Rousing thematic manifesto shouted to the courtroom: 'Herbs are not magic! They are medicine!'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Striking visual composition: chained heroine stands tall against window backlighting, holding the balustrade to address the hall.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B045",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will the Judge immediately sentence Juliana to death or torture for voluntarily embracing the witchcraft accusation?",
+        "stakes_importance": "High \u2014 protagonist accepts extreme peril with chilling stoicism, daring the court to punish her.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B032",
+          "end_beat_id": "B045",
+          "start_time": 119.8,
+          "end_time": 163.6,
+          "duration": 43.8,
+          "beat_ids": [
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_24",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B039",
+      "end_beat_id": "B047",
+      "start_time": 142.2,
+      "end_time": 174.4,
+      "duration": 32.2,
+      "hook_signal": {
+        "beat_id": "B039",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Dire judicial ultimatum warning her to renounce her practices to save her life.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle shot of the judge placing a solemn hand over the law book.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B047",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will the corrupt court retaliate after Juliana openly exposes their fear of her healing power?",
+        "stakes_importance": "High \u2014 moral indictment of the entire ruling authority spoken publicly by the accused.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B039",
+          "end_beat_id": "B047",
+          "start_time": 142.2,
+          "end_time": 174.4,
+          "duration": 32.2,
+          "beat_ids": [
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045",
+            "B046",
+            "B047"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045",
+        "B046",
+        "B047"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_25",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B039",
+      "end_beat_id": "B049",
+      "start_time": 142.2,
+      "end_time": 179.4,
+      "duration": 37.2,
+      "hook_signal": {
+        "beat_id": "B039",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Dire judicial ultimatum warning her to renounce her practices to save her life.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle shot of the judge placing a solemn hand over the law book.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B049",
+        "curiosity_gap_score": 4,
+        "specific_question": "What immediate, brutal punishment will the enraged Judge decree after violently silencing the courtroom?",
+        "stakes_importance": "High \u2014 explosive auditory rupture marking the loss of judicial patience and the shift to raw retribution.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B039",
+          "end_beat_id": "B049",
+          "start_time": 142.2,
+          "end_time": 179.4,
+          "duration": 37.2,
+          "beat_ids": [
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045",
+            "B046",
+            "B047",
+            "B048",
+            "B049"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045",
+        "B046",
+        "B047",
+        "B048",
+        "B049"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_26",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B039",
+      "end_beat_id": "B050",
+      "start_time": 142.2,
+      "end_time": 184.5,
+      "duration": 42.3,
+      "hook_signal": {
+        "beat_id": "B039",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Dire judicial ultimatum warning her to renounce her practices to save her life.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle shot of the judge placing a solemn hand over the law book.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B050",
+        "curiosity_gap_score": 5,
+        "specific_question": "What terrible judgment and penalty is the Judge about to pronounce upon Lady Juliana Ashcroft?",
+        "stakes_importance": "High \u2014 cutting directly on the Judge speaking her formal name leaves the verdict in pure suspension.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B039",
+          "end_beat_id": "B050",
+          "start_time": 142.2,
+          "end_time": 184.5,
+          "duration": 42.3,
+          "beat_ids": [
+            "B039",
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045",
+            "B046",
+            "B047",
+            "B048",
+            "B049",
+            "B050"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B039",
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045",
+        "B046",
+        "B047",
+        "B048",
+        "B049",
+        "B050"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_27",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B040",
+      "end_beat_id": "B050",
+      "start_time": 147.4,
+      "end_time": 184.5,
+      "duration": 37.1,
+      "hook_signal": {
+        "beat_id": "B040",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Tight close-up insert of a burned grimoire on the green court table creates an immediate, highly legible occult curiosity gap on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B050",
+        "curiosity_gap_score": 5,
+        "specific_question": "What terrible judgment and penalty is the Judge about to pronounce upon Lady Juliana Ashcroft?",
+        "stakes_importance": "High \u2014 cutting directly on the Judge speaking her formal name leaves the verdict in pure suspension.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B040",
+          "end_beat_id": "B050",
+          "start_time": 147.4,
+          "end_time": 184.5,
+          "duration": 37.1,
+          "beat_ids": [
+            "B040",
+            "B041",
+            "B042",
+            "B043",
+            "B044",
+            "B045",
+            "B046",
+            "B047",
+            "B048",
+            "B049",
+            "B050"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B040",
+        "B041",
+        "B042",
+        "B043",
+        "B044",
+        "B045",
+        "B046",
+        "B047",
+        "B048",
+        "B049",
+        "B050"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_28",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B044",
+      "end_beat_id": "B051",
+      "start_time": 156.8,
+      "end_time": 190.0,
+      "duration": 33.2,
+      "hook_signal": {
+        "beat_id": "B044",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Explicit, life-or-death accusation of knowingly practicing witchcraft delivered with lethal severity.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Aggressive, pointed finger across the judicial bench visually communicates accusation and legal peril instantly on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B051",
+        "curiosity_gap_score": 5,
+        "specific_question": "What irreversible sentence will fall upon Juliana as the Judge lowers his hand over her unbroken figure?",
+        "stakes_importance": "High \u2014 the ultimate cliffhanger climax with the hand poised mid-judgment before the screen cuts to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B044",
+          "end_beat_id": "B051",
+          "start_time": 156.8,
+          "end_time": 190.0,
+          "duration": 33.2,
+          "beat_ids": [
+            "B044",
+            "B045",
+            "B046",
+            "B047",
+            "B048",
+            "B049",
+            "B050",
+            "B051"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B044",
+        "B045",
+        "B046",
+        "B047",
+        "B048",
+        "B049",
+        "B050",
+        "B051"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_29",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B045",
+      "end_beat_id": "B051",
+      "start_time": 162.0,
+      "end_time": 190.0,
+      "duration": 28.0,
+      "hook_signal": {
+        "beat_id": "B045",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "A fatalistic, chilling acceptance of execution or condemnation ('Then let it be').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of unflinching acceptance provides strong emotional resolve and dramatic gravitas without audio.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B051",
+        "curiosity_gap_score": 5,
+        "specific_question": "What irreversible sentence will fall upon Juliana as the Judge lowers his hand over her unbroken figure?",
+        "stakes_importance": "High \u2014 the ultimate cliffhanger climax with the hand poised mid-judgment before the screen cuts to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B045",
+          "end_beat_id": "B051",
+          "start_time": 162.0,
+          "end_time": 190.0,
+          "duration": 28.0,
+          "beat_ids": [
+            "B045",
+            "B046",
+            "B047",
+            "B048",
+            "B049",
+            "B050",
+            "B051"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B045",
+        "B046",
+        "B047",
+        "B048",
+        "B049",
+        "B050",
+        "B051"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_30",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B046",
+      "end_beat_id": "B051",
+      "start_time": 163.6,
+      "end_time": 190.0,
+      "duration": 26.4,
+      "hook_signal": {
+        "beat_id": "B046",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "A maid sobbing uncontrollably into a stained apron conveys acute tragedy and impending doom legibly on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B051",
+        "curiosity_gap_score": 5,
+        "specific_question": "What irreversible sentence will fall upon Juliana as the Judge lowers his hand over her unbroken figure?",
+        "stakes_importance": "High \u2014 the ultimate cliffhanger climax with the hand poised mid-judgment before the screen cuts to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B046",
+          "end_beat_id": "B051",
+          "start_time": 163.6,
+          "end_time": 190.0,
+          "duration": 26.4,
+          "beat_ids": [
+            "B046",
+            "B047",
+            "B048",
+            "B049",
+            "B050",
+            "B051"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B046",
+        "B047",
+        "B048",
+        "B049",
+        "B050",
+        "B051"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP034_31",
+      "episode": "Episode 34",
+      "episode_number": 34,
+      "start_beat_id": "B047",
+      "end_beat_id": "B051",
+      "start_time": 166.8,
+      "end_time": 190.0,
+      "duration": 23.2,
+      "hook_signal": {
+        "beat_id": "B047",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "A stirring, high-stakes moral stand accusing the powerful of fearing and villainizing healing.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Camera pushing into Juliana's unwavering face as she addresses the hall creates a commanding visual focal point.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B051",
+        "curiosity_gap_score": 5,
+        "specific_question": "What irreversible sentence will fall upon Juliana as the Judge lowers his hand over her unbroken figure?",
+        "stakes_importance": "High \u2014 the ultimate cliffhanger climax with the hand poised mid-judgment before the screen cuts to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 34,
+          "start_beat_id": "B047",
+          "end_beat_id": "B051",
+          "start_time": 166.8,
+          "end_time": 190.0,
+          "duration": 23.2,
+          "beat_ids": [
+            "B047",
+            "B048",
+            "B049",
+            "B050",
+            "B051"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B047",
+        "B048",
+        "B049",
+        "B050",
+        "B051"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

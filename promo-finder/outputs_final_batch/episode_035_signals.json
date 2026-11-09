@@ -1,0 +1,704 @@
+{
+  "episode_number": 35,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual intrigue: tracking shot of an elderly hooded woman clutching an iron lantern and stumbling fearfully through a damp subterranean tunnel.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes, dramatic declaration of escape from mortal peril ('I will not die in that house.').",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Clear physical tension and tactile action: close-up of trembling hands forcing open a hidden stone locking mechanism.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Urgent physical escape as an elderly woman crawls through a secret stone passageway into the freezing night.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Atmospheric wide shot of a snowy forest and cabin, but lacks immediate physical conflict or urgent narrative shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Generic logistical statement ('This must be the place.') carrying low immediate stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of an old woman shivering under icicles at a door; establishes setting but low scroll-stop urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Routine close-up of a gloved hand unlatching a wooden door.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Strong character reveal: pan to a rugged, scarred man studying a tactical map who snaps his head up in alarm.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium shot of the hooded mother raising a lantern with wide, shocked eyes across the threshold.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up on a scarred face and disbelieving blue eyes, delivering high emotional intensity without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Urgent single-word exclamation ('Alexander!') carrying intense emotional weight.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual drama with a close-up of a trembling, tear-streaked face clearly communicating intense emotional shock.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A single bewildered question ('Mother?'), conveying recognition but limited standalone hook context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on a hardened scarred warrior expression crumbling into sheer astonishment.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Delivers an immediate emotional shockwave establishing a resurrection/survival twist ('You're alive.').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Dramatic physical rush and desperate embrace between a mother and her presumed-dead son.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Single-word repetition ('Mother.') with minimal standalone hook value.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Unprecedented verbal shocker that instantly hooks a cold viewer into a high-stakes mystery ('I buried you.').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High emotional drama: mother tenderly cupping the scarred face of a son she believed was dead, legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Understated confirmation ('I know.') that relies entirely on preceding beats for narrative force.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Directly exposes high-stakes deception and military catastrophe ('They told me you died. They told me your entire regiment was destroyed.').",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Grim confirmation of catastrophic slaughter ('Most of them were.') setting up immediate intrigue.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on a hardened, shadowed profile with a clenched jaw expressing traumatic memory.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly prompts the central survival mystery ('Then how did you survive?').",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Chilling, intriguing opening line that instantly establishes foul play ('I wasn't supposed to.').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Haunted side profile gaze into the distance, conveying unresolved trauma.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Standard expository narrative setup ('Three years ago, I was sent to the Iberian front.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Stepping over to inspect a parchment map on a table; routine physical movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "High-stakes espionage exposition involving treason and secret missions ('classified Crown mission... selling military secrets to French spies').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Scarred finger pointing to a circled map location; clear detail but moderate visual friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp, gasped accusation of treason ('A traitor?').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of horrified reaction with wide eyes and a visible gasp, readable on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Single monosyllabic affirmation ('Yes.') with no standalone context.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Mild conversational exposition ('We were close to finding him.').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard two-shot medium framing across a table in lantern light.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sharp verbal punch signaling sudden catastrophe and betrayal ('Then came the ambush.').",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Brutal, high-stakes confession of slaughter ('My men were slaughtered.').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Vivid visual drama: scarred fist violently crumbling the tactical parchment map in furious tension.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Brief prompt question ('And you?') lacking independent hook context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on a mother clutching her throat with glistening tears, communicating distress visually.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Visceral, high-stakes declaration of violence and betrayal ('I was shot. Left for dead.').",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Inquisitive dialogue ('How did you escape?') that sets up exposition rather than shocking immediately.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of mother leaning forward on the table in disbelief.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Grim, vivid recount of traumatic survival ('I crawled away from the battlefield, half dead, alone.').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on dark, haunted eyes recounting harrowing battlefield trauma.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Intriguing revelation explaining evasion of enemy executioners ('...believed I was already dead.').",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Accusatory question uncovering a conspiracy of silence ('Then why did they never tell us?').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up capturing a sharp emotional transition to profound bewilderment and outrage.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Massive conspiratorial bombshell opening ('Because someone wanted you to believe I was dead.').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up capturing an intense, piercing gaze holding high dramatic gravity.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single monosyllabic question ('Who?') without independent context.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Establishes a three-year quest for revenge and truth ('I spent three years trying to find out.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Character turns toward a frosted window staring into a raging blizzard outside.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Clear declaration of deliberate treachery ('The ambush was not an accident.').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Sudden aggressive physical motion, pushing off the window and storming back with burning rage.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B038",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Devastating double accusation of targeted murder and conspiracy ('Someone ordered my men to die. Someone wanted me erased.').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual tension as he looms heavily over the table, boiling with palpable fury.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B039",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single question ('Who?') with no standalone stakes.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B040",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive climactic reveal naming the ruling conspirators ('The men behind it... are the same men ruling Ashwood now.').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up on a scarred, grim visage radiating chilling intensity and menace.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B041",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No spoken dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme visual drama in a close-up of the mother's face freezing into a soundless gasp of sheer horror and dread, completely legible without sound.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who is pursuing this elderly woman through the subterranean tunnels?",
+      "stakes_importance": "Low \u2014 establishes urgency and flight, but the nature of the threat is unclear.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "What horrors or mortal threats is she escaping from inside that house?",
+      "stakes_importance": "Medium \u2014 raises a mystery about the hostile environment she fled.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will she manage to unlock the hidden mechanism before anyone detects her?",
+      "stakes_importance": "Low \u2014 procedural physical obstacle with minimal immediate narrative consequence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "Where does this subterranean door lead into the freezing wilderness?",
+      "stakes_importance": "Low \u2014 transition beat completing her escape from the tunnel.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who occupies the isolated cabin in the blizzard?",
+      "stakes_importance": "Medium \u2014 setup of destination and potential sanctuary or danger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the occupant welcome her or perceive her as a threat?",
+      "stakes_importance": "Medium \u2014 suspense before entering an unknown sanctuary.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 3,
+      "specific_question": "What or who waits immediately on the other side of the cabin door?",
+      "stakes_importance": "Medium \u2014 threshold threshold tension right before entering.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the scarred, armed soldier react to an intruder bursting into his safehouse?",
+      "stakes_importance": "High \u2014 suspended encounter with potential for immediate lethal violence or shock.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 4,
+      "specific_question": "Does she recognize the scarred soldier standing before her as her own flesh and blood?",
+      "stakes_importance": "High \u2014 suspended moment of potential recognition of a lost family member.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander believe his eyes or assume he is being hunted by an enemy agent?",
+      "stakes_importance": "High \u2014 explosive disbelief and shock held on the protagonist's eyes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 5,
+      "specific_question": "Is this man truly Alexander back from the dead, and what was he hiding?",
+      "stakes_importance": "High \u2014 seismic emotional shock and resurrection revelation suspended mid-gasp.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "How did his mother track him to this remote cabin when he was presumed dead?",
+      "stakes_importance": "High \u2014 reciprocal shock establishing the emotional reunion.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "How can Alexander be alive after being officially reported dead?",
+      "stakes_importance": "Medium \u2014 high emotional catharsis, though physical conflict is briefly paused by the embrace.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 1,
+      "specific_question": "What will Alexander say next to comfort her?",
+      "stakes_importance": "Low \u2014 emotional punctuation with minimal lingering mystery or tension.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 5,
+      "specific_question": "If she buried his body, whose corpse is in his grave, and who staged his death?",
+      "stakes_importance": "High \u2014 profound existential shock exposing a massive conspiracy and cover-up.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why did Alexander knowingly let his own mother mourn and bury an empty grave?",
+      "stakes_importance": "Medium \u2014 moral ambiguity regarding his cold complicity in his faked death.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who fabricated the military report of his regiment's complete annihilation?",
+      "stakes_importance": "High \u2014 highlights systemic deception by high-ranking authorities.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 3,
+      "specific_question": "What horrors took place during the massacre of his regiment?",
+      "stakes_importance": "Medium \u2014 grim confirmation of mass casualties leaving the survivor's guilt unaddressed.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "How did Alexander cheat certain death when his comrades were wiped out?",
+      "stakes_importance": "High \u2014 direct question demanding the untold secret of his impossible survival.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who marked Alexander for execution, and why was his survival unintended?",
+      "stakes_importance": "High \u2014 turns survival into an ominous signal of targeted assassination and treason.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 2,
+      "specific_question": "What happened to his deployment on the Iberian front?",
+      "stakes_importance": "Low \u2014 exposition preamble that sets up past backstory.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "Which prominent British officer was selling Crown secrets to French enemies?",
+      "stakes_importance": "High \u2014 introduces high treason at the core of the military establishment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 3,
+      "specific_question": "How deeply does this web of treason reach into the ranks of the British Crown?",
+      "stakes_importance": "Medium \u2014 horrified verification of treason against his mother's expectations.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 1,
+      "specific_question": "What were the consequences of uncovering the traitor?",
+      "stakes_importance": "Low \u2014 single-word affirmative that answers B023 and halts the momentum.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "What catastrophe struck just as they were closing in on the traitor?",
+      "stakes_importance": "Medium \u2014 brewing climax of an investigative mission abruptly cut off.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who orchestrated the brutal ambush that trapped Alexander's squad?",
+      "stakes_importance": "High \u2014 sudden violent turning point exposing pre-planned slaughter.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Alexander avenge the slaughter of his entire unit against the conspirators?",
+      "stakes_importance": "High \u2014 peak visceral hatred and vow of vengeance encapsulated in a clenched fist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 3,
+      "specific_question": "What horrific injury or fate befell Alexander during the slaughter?",
+      "stakes_importance": "Medium \u2014 an anxious mother demanding the unbearable truth of her son's wounds.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 3,
+      "specific_question": "How did he survive gunshot wounds and abandonment on an enemy battlefield?",
+      "stakes_importance": "Medium \u2014 bleak revelation of near-fatal betrayal, begging for survival details.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 3,
+      "specific_question": "Through what miraculous or gruesome ordeal did he escape death?",
+      "stakes_importance": "Medium \u2014 mother explicitly pressing for the details of his impossible escape.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who found and patched up a dying soldier alone in hostile territory?",
+      "stakes_importance": "Low \u2014 answers the logistical aspect of B030 partially, reducing mystery.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will happen when his executioners realize their target survived?",
+      "stakes_importance": "Medium \u2014 lingering danger that his enemies will resume their hunt.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why did the high command hide the reality of his disappearance from his own family?",
+      "stakes_importance": "High \u2014 righteous maternal fury exposing top-level collusion.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who possessed the terrifying power and motive to stage his death and silence his family?",
+      "stakes_importance": "High \u2014 transforms an ambush into a deliberate, targeted conspiracy from above.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 4,
+      "specific_question": "Which specific figure wanted Alexander dead?",
+      "stakes_importance": "High \u2014 direct interrogation demanding the name of the mastermind.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 3,
+      "specific_question": "Did Alexander's three-year hunt yield the identity of the person who betrayed him?",
+      "stakes_importance": "Medium \u2014 personal quest narrative, but evades naming the target immediately.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who ordered the pre-planned execution of an entire regiment?",
+      "stakes_importance": "High \u2014 definitive accusation of premeditated slaughter and domestic betrayal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B038",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who wanted Alexander erased from existence, and what dangerous truth did he uncover?",
+      "stakes_importance": "High \u2014 fever-pitch fury revealing intentional extermination of the protagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B039",
+      "curiosity_gap_score": 5,
+      "specific_question": "Whose name will Alexander utter as the architect of his destruction?",
+      "stakes_importance": "High \u2014 the ultimate suspended question before the reveal of the primary villain.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B040",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Alexander wage war against the corrupt ruling lords of Ashwood who orchestrated his assassination?",
+      "stakes_importance": "High \u2014 catastrophic climax uncovering that the traitors hold complete political power over his home.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B041",
+      "curiosity_gap_score": 5,
+      "specific_question": "What catastrophic danger does this treason pose to Alexander and his mother now that the truth is uncovered?",
+      "stakes_importance": "High \u2014 the mother's terror confirms the lethal threat facing their family, and the ominous musical crescendo into fade-out punctuates maximum impending peril.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

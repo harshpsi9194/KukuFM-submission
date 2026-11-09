@@ -1,0 +1,585 @@
+{
+  "episode_number": 47,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Atmospheric shot of a dripping candle by a misty window, but lacks immediate visual tension, characters, or conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Opens with an arresting criminal reveal: 'Rupert is rotting in the undercroft cells. Not me.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up of a woman in a nightgown holding red wine with cold determination sets an intriguing noir/villainess tone.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Establishes urgent external pursuit and legal stakes with 'scour the grounds at first light' and blocked marriage registry.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intriguing visual staging with a bare-chested conspirator lurking in the shadows beside her.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Short tactical directive ('you will make sure I remain inside these walls') without immediate explosive impact.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up profile leaning toward the man's shoulder conveys intimacy and ambition, but standard visual framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Conspiratorial command ('Keep the council paralyzed. I will do the rest.') reveals calculating villainy.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Silhouette shot against an arched window adds stylistic mood but low action or kinetic urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "Generic wide establishing pan of an empty bedroom with soft daylight.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "High-stakes emotional stakes introduced immediately with 'What if they strip your title? Because of me?'.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Distressed close-up with shimmering tears creates noticeable emotional friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Class-based self-doubt ('I am only a healer. The lords will never accept me.') provides exposition rather than an immediate shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Action focuses on scarred palms, which is subtle character detail rather than an instant scroll-stopper.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Affirming romantic reassurance ('You saved my mother's life') lacking immediate conflict or urgency.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Gentle, tender touch clasping hands and cradling a cheek represents mild romantic melodrama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Strong, defiant romantic declaration: 'You are my wife... before that priest ever opened his mouth.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard tight close-up on eye contact and hands on shoulders.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard wide establishing shot of a wet courtyard with no characters or action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Hostile, sharp confrontation opens immediately with 'You dare show your face in Ashbourne courtyard?'.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual drama legible on mute: an aristocratic matriarch with a cane glaring down at a woman kneeling in the mud.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Desperate plea of desperation ('I have nowhere to go, Your Grace') without surprising punch.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High-angle shot of a woman in disheveled silk weeping profusely on muddy cobblestones creates instant curiosity on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Heated, high-drama outburst reveals total social ruin: 'London closed its doors! My family disowned me!'.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle shot tracking her clutching her chest in visible agony conveys intense physical distress.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Lethal accusation and cold condemnation: 'She aided the poison in my veins. Cast her into the road.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Matriarch coldly passing judgment with a walking cane emphasizes commanding authority and ruthless rejection.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct physical threat: 'One command, Your Grace, and I drag her past the gates.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Armed guard actively drawing a baton to physically seize a weeping woman provides instant visual danger.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Loud, aggressive expulsion order shouted across the yard: 'Do it, Vaughn! Throw her past the estate perimeter!'.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High-energy entrance with Alexander storming into the courtyard, coat billowing, giving an active ejection order.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Urgent, desperate scream for mercy: 'Please, Alexander! Have mercy!'.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of a terrified, collapsed woman weeping in panic on wet stones presents intense immediate distress.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A single imperative command ('Stop') that halts the action but lacks standalone narrative shock.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Heroine stepping forward and physically raising a hand to halt an armed guard provides a strong, authoritative freeze frame.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Sharp emotional accusation exposing past treachery: 'Juliana, she tried to destroy you!'.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close/medium shot capturing open shock and utter disbelief between the leads.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Concise, cold two-word affirmation ('She did') without context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Extreme poise and unblinking composure in the face of intense public drama creates compelling contrast.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Aristocratic moral proclamation delivered with biting condescension: 'Ashbourne does not throw beggars into the mud.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tracking shot stepping purposefully past her husband to confront the fallen villainess establishes dominance.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sets an unexpected conditional ultimatum: 'If you seek shelter in this house, Catherine, you earn it.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Grabbing a rough servant's apron and heavy iron keys presents high-contrast visual props representing servitude.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A startled question ('You want me? As a guest?') with mild comedic or confused irony.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up reaction shot shifting rapidly from tearful despair to indignant shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Devastating one-line status demotion that completely upends power dynamics: 'As a scullery maid.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Intense, unblinking close-up staring down her rival with ruthless authority tells the whole story without audio.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Offended aristocratic outrage at forced menial labor: 'You expect me to scrub floors before these commoners?'.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Recoiling in disgust under the gaze of gathered servants creates strong social humiliation dynamics.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Brutal, poetic retaliation: 'You will scrub the floors you walked on as an impostor.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Intense profile face-off inches apart, visually dominating and towering over her former tormentor.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Harsh disciplinary command: 'You will scrub the manor hearths at dawn.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Aggressive gesture extending a fistful of clattering iron keys right toward the camera/opponent.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Demanding decree of punitive menial servitude: 'You will scour the kitchen grease until midnight.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight face-to-face psychological showdown framing both women locked in direct conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Strict ultimatum backed by immediate threat of total ruin: 'One complaint... and you are cast out with nothing.'",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum visual confrontation: thrusting coarse hemp apron and heavy keys directly into the rival's face.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct emotional admission of public defeat: 'You humiliate me.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of trembling lips and mascara-streaked humiliated tears spilling down her cheeks.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes binary ultimatum: 'Take the apron, or leave the county.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "High-contrast two-shot framed by cathedral vaulting showing clear mistress vs. beggar power polarity.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Unprecedented total capitulation of the rival: 'I accept, Your Grace.'",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Trembling hands grasping a coarse servant's apron and iron keys to her chest visually epitomizes total subjugation.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper legible on mute: a disgraced lady prostrating herself entirely on the cold stone floor before the master and mistress.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 0,
+      "specific_question": "What is occurring inside this room at night?",
+      "stakes_importance": "Low \u2014 ambient mood-setting shot with no characters or immediate conflict introduced.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "How does Catherine plan to remain on the estate while her ally rots in the cells?",
+      "stakes_importance": "Medium \u2014 reveals Catherine's defiance and survival scheme despite Rupert's downfall.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Catherine survive Alexander's dawn search and the High Council's intervention?",
+      "stakes_importance": "Medium \u2014 introduces imminent danger and a closing time window before discovery.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "What leverage or violent action will Catherine and her conspirator use to keep her inside the estate?",
+      "stakes_importance": "Medium \u2014 confirms a clandestine conspiracy taking shape behind Alexander's back.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 4,
+      "specific_question": "What sinister scheme will Catherine unleash to paralyze the High Council and seize power?",
+      "stakes_importance": "High \u2014 establishes Catherine actively launching a covert plot against Alexander and Juliana.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 0,
+      "specific_question": "Who occupies the bedroom in the morning light?",
+      "stakes_importance": "Low \u2014 scenic transitional shot establishing morning light and setting.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander lose his noble title and standing because of his marriage to Juliana?",
+      "stakes_importance": "Medium \u2014 introduces the looming legal threat to Alexander's position from the High Council.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Juliana overcome her insecurities and gain acceptance among the highborn lords?",
+      "stakes_importance": "Medium \u2014 highlights Juliana's vulnerability and class disparity, but lacks urgent confrontation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Alexander reassure Juliana in the face of her social insecurity?",
+      "stakes_importance": "Low \u2014 intimate emotional reassurance in progress between supportive allies.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will their royal reaffirmation withstand the opposition of the church and High Council?",
+      "stakes_importance": "Medium \u2014 solidifies their marital bond, offering emotional resolution to her immediate fear.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 0,
+      "specific_question": "What is happening in the courtyard?",
+      "stakes_importance": "Low \u2014 atmospheric transitional wide shot.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "What punishment will Lady Ashbourne inflict on Catherine for trespassing on the estate?",
+      "stakes_importance": "Medium \u2014 initiates a direct confrontation between the matriarch and the disgraced villainess.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Lady Ashbourne show any pity to the desperate Catherine?",
+      "stakes_importance": "Low \u2014 opening plea in a standard beggar-at-the-gate trope.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 2,
+      "specific_question": "Is Catherine genuinely destitute or putting on a theatrical act of misery?",
+      "stakes_importance": "Low \u2014 further self-victimization from Catherine without shifting narrative stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the guards violently throw the kneeling Catherine out into the road on Lady Ashbourne's order?",
+      "stakes_importance": "High \u2014 severe punishment declared for attempted murder and poisoning of the dowager.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Vaughn physically drag Catherine out past the estate gates right now?",
+      "stakes_importance": "High \u2014 imminent physical force suspended on the verge of execution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine be forcibly exiled past the perimeter as Alexander enforces her banishment?",
+      "stakes_importance": "High \u2014 lord of the manor arrives to personally authorize her immediate physical ejection.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander yield to Catherine's desperate plea for mercy?",
+      "stakes_importance": "Medium \u2014 intense emotional pleading before impending expulsion.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why is Juliana intervening to protect the woman who tried to destroy her?",
+      "stakes_importance": "High \u2014 shocking subversion where the victim unexpectedly halts the punishment of her tormentor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Juliana justify halting Catherine's punishment to a bewildered Alexander?",
+      "stakes_importance": "High \u2014 creates sharp marital and ideological conflict between the two protagonists.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 3,
+      "specific_question": "What does Juliana plan to do with Catherine if she acknowledges the betrayal yet shields her?",
+      "stakes_importance": "Medium \u2014 quiet suspense building toward Juliana's true intention.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "What fate will Juliana impose on Catherine if she refuses to discard her into the mud?",
+      "stakes_importance": "Medium \u2014 setup for Juliana asserting moral and household authority.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 4,
+      "specific_question": "What brutal labor condition is Juliana about to demand with that servant's apron and keys?",
+      "stakes_importance": "High \u2014 physical props signal a calculated, humiliating reckoning.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Juliana shatter Catherine's delusion of being retained as a guest?",
+      "stakes_importance": "Medium \u2014 dramatic irony setup before the hammer falls on Catherine's ego.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will the haughty aristocrat Catherine react to being reduced to a lowly scullery maid?",
+      "stakes_importance": "High \u2014 supreme status inversion where the former lady is stripped of all rank by her former victim.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine swallow her pride and accept menial servitude, or walk out into the cold?",
+      "stakes_importance": "High \u2014 public humiliation confronting an arrogant noble with bottom-tier servitude.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine break under Juliana's merciless confrontation and accept the role of impostor-turned-scrubber?",
+      "stakes_importance": "High \u2014 dominant psychological assertion as Juliana strips Catherine's noble facade.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Catherine submit to scrubbing the manor hearths at dawn before the servants?",
+      "stakes_importance": "Medium \u2014 continues the escalating catalog of humiliating punishments.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Catherine cave in to Juliana's grueling servitude terms?",
+      "stakes_importance": "Medium \u2014 unrelenting emotional pressure on the antagonist in their battle of wills.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine accept Juliana's zero-tolerance ultimatum under threat of immediate expulsion?",
+      "stakes_importance": "High \u2014 final conditions of the deal delivered with absolute ruthlessness.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine lash out in fury or submit to the crushing humiliation?",
+      "stakes_importance": "High \u2014 emotional peak of Catherine breaking down in front of the entire household.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Catherine choose total public submission or exile into starvation?",
+      "stakes_importance": "High \u2014 the ultimate binary ultimatum: take the servant's apron or be cast out into ruin.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Catherine actually endure life as a maid, or is she biding time for revenge?",
+      "stakes_importance": "Medium \u2014 Catherine gives in and takes the apron, directly answering the dilemma posed in B032.",
+      "defuses_tension": true,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 1,
+      "specific_question": "What will Catherine's first day of servitude look like?",
+      "stakes_importance": "Low \u2014 fully resolved confrontation scene showing total prostration before the fade to black.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    }
+  ]
+}

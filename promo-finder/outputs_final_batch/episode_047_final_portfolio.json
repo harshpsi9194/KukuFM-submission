@@ -1,0 +1,132 @@
+{
+  "episode_number": 47,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 4
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP047_11",
+      "absolute_rubric_score": 9.2,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B027",
+        "end_beat_id": "B032",
+        "start_time": 104.8,
+        "end_time": 127.5,
+        "duration": 22.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You will scrub the floors you walked on as an impostor.",
+        "opening_character": "JULIANA",
+        "rationale": "Brutal, poetic retaliation: 'You will scrub the floors you walked on as an impostor.'"
+      },
+      "cliffhanger": {
+        "final_quote": "I offer you bread and honest labor. Take the apron, or leave the county.",
+        "final_character": "JULIANA",
+        "specific_question": "Will Catherine choose total public submission or exile into starvation?"
+      },
+      "situational_summary": "Confronting an unmasked impostor, a dominant woman forces her rival to choose between public subjugation as a maid or exile from the county.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP047_02",
+      "absolute_rubric_score": 9.1,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0917,
+      "max_similarity_to_selected": 0.7129,
+      "boundary": {
+        "start_beat_id": "B012",
+        "end_beat_id": "B019",
+        "start_time": 56.8,
+        "end_time": 83.5,
+        "duration": 26.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You dare show your face in Ashbourne courtyard?",
+        "opening_character": "LADY ASHBOURNE",
+        "rationale": "Hostile, sharp confrontation opens immediately with 'You dare show your face in Ashbourne courtyard?'."
+      },
+      "cliffhanger": {
+        "final_quote": "Stop.",
+        "final_character": "JULIANA",
+        "specific_question": "Why is Juliana intervening to protect the woman who tried to destroy her?"
+      },
+      "situational_summary": "Just as a noble family orders their guards to cast out a pleading traitor into the road, a poised woman steps forward and commands them to stop.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP047_08",
+      "absolute_rubric_score": 8.7,
+      "subscores": {
+        "hook_score": 1.8,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.3
+      },
+      "mmr_score": -0.0509,
+      "max_similarity_to_selected": 0.7243,
+      "boundary": {
+        "start_beat_id": "B023",
+        "end_beat_id": "B032",
+        "start_time": 91.0,
+        "end_time": 127.5,
+        "duration": 36.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "If you seek shelter in this house, Catherine, you earn it.",
+        "opening_character": "JULIANA",
+        "rationale": "Sets an unexpected conditional ultimatum: 'If you seek shelter in this house, Catherine, you earn it.'"
+      },
+      "cliffhanger": {
+        "final_quote": "I offer you bread and honest labor. Take the apron, or leave the county.",
+        "final_character": "JULIANA",
+        "specific_question": "Will Catherine choose total public submission or exile into starvation?"
+      },
+      "situational_summary": "Holding out a servant's apron and keys, a lady presents a disgraced rival with an ultimatum: earn shelter by scrubbing floors as a scullery maid or be cast out of the county.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 3
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP047_01",
+      "rank": 4,
+      "recommended_boundary": "B012 -> B017",
+      "similarity": 0.9553,
+      "duplicate_of": "CAND_EP047_02",
+      "reason": "Exceeded near-duplicate threshold (0.9553 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP047_01",
+      "rank": 4,
+      "recommended_boundary": "B012 -> B017",
+      "similarity": 0.9553,
+      "duplicate_of": "CAND_EP047_02",
+      "reason": "Exceeded near-duplicate threshold (0.9553 >= 0.90)"
+    }
+  ]
+}

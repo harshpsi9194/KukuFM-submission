@@ -1,0 +1,1484 @@
+{
+  "episode_number": 35,
+  "total_candidates": 24,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP035_01",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B008",
+      "end_beat_id": "B015",
+      "start_time": 27.5,
+      "end_time": 55.5,
+      "duration": 28.0,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Strong character reveal: pan to a rugged, scarred man studying a tactical map who snaps his head up in alarm.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 5,
+        "specific_question": "If she buried his body, whose corpse is in his grave, and who staged his death?",
+        "stakes_importance": "High \u2014 profound existential shock exposing a massive conspiracy and cover-up.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B008",
+          "end_beat_id": "B015",
+          "start_time": 27.5,
+          "end_time": 55.5,
+          "duration": 28.0,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_02",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B010",
+      "end_beat_id": "B017",
+      "start_time": 33.8,
+      "end_time": 66.0,
+      "duration": 32.2,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up on a scarred face and disbelieving blue eyes, delivering high emotional intensity without sound.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who fabricated the military report of his regiment's complete annihilation?",
+        "stakes_importance": "High \u2014 highlights systemic deception by high-ranking authorities.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B010",
+          "end_beat_id": "B017",
+          "start_time": 33.8,
+          "end_time": 66.0,
+          "duration": 32.2,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_03",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B010",
+      "end_beat_id": "B020",
+      "start_time": 33.8,
+      "end_time": 78.0,
+      "duration": 44.2,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up on a scarred face and disbelieving blue eyes, delivering high emotional intensity without sound.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who marked Alexander for execution, and why was his survival unintended?",
+        "stakes_importance": "High \u2014 turns survival into an ominous signal of targeted assassination and treason.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B010",
+          "end_beat_id": "B020",
+          "start_time": 33.8,
+          "end_time": 78.0,
+          "duration": 44.2,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_04",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B011",
+      "end_beat_id": "B020",
+      "start_time": 36.5,
+      "end_time": 78.0,
+      "duration": 41.5,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Urgent single-word exclamation ('Alexander!') carrying intense emotional weight.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama with a close-up of a trembling, tear-streaked face clearly communicating intense emotional shock.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who marked Alexander for execution, and why was his survival unintended?",
+        "stakes_importance": "High \u2014 turns survival into an ominous signal of targeted assassination and treason.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B011",
+          "end_beat_id": "B020",
+          "start_time": 36.5,
+          "end_time": 78.0,
+          "duration": 41.5,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_05",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B013",
+      "end_beat_id": "B020",
+      "start_time": 44.2,
+      "end_time": 78.0,
+      "duration": 33.8,
+      "hook_signal": {
+        "beat_id": "B013",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Delivers an immediate emotional shockwave establishing a resurrection/survival twist ('You're alive.').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dramatic physical rush and desperate embrace between a mother and her presumed-dead son.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who marked Alexander for execution, and why was his survival unintended?",
+        "stakes_importance": "High \u2014 turns survival into an ominous signal of targeted assassination and treason.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B013",
+          "end_beat_id": "B020",
+          "start_time": 44.2,
+          "end_time": 78.0,
+          "duration": 33.8,
+          "beat_ids": [
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_06",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B015",
+      "end_beat_id": "B019",
+      "start_time": 50.0,
+      "end_time": 74.0,
+      "duration": 24.0,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Unprecedented verbal shocker that instantly hooks a cold viewer into a high-stakes mystery ('I buried you.').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High emotional drama: mother tenderly cupping the scarred face of a son she believed was dead, legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B019",
+        "curiosity_gap_score": 4,
+        "specific_question": "How did Alexander cheat certain death when his comrades were wiped out?",
+        "stakes_importance": "High \u2014 direct question demanding the untold secret of his impossible survival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B015",
+          "end_beat_id": "B019",
+          "start_time": 50.0,
+          "end_time": 74.0,
+          "duration": 24.0,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_07",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B015",
+      "end_beat_id": "B020",
+      "start_time": 50.0,
+      "end_time": 78.0,
+      "duration": 28.0,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Unprecedented verbal shocker that instantly hooks a cold viewer into a high-stakes mystery ('I buried you.').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High emotional drama: mother tenderly cupping the scarred face of a son she believed was dead, legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who marked Alexander for execution, and why was his survival unintended?",
+        "stakes_importance": "High \u2014 turns survival into an ominous signal of targeted assassination and treason.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B015",
+          "end_beat_id": "B020",
+          "start_time": 50.0,
+          "end_time": 78.0,
+          "duration": 28.0,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_08",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B015",
+      "end_beat_id": "B022",
+      "start_time": 50.0,
+      "end_time": 89.8,
+      "duration": 39.8,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Unprecedented verbal shocker that instantly hooks a cold viewer into a high-stakes mystery ('I buried you.').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High emotional drama: mother tenderly cupping the scarred face of a son she believed was dead, legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 4,
+        "specific_question": "Which prominent British officer was selling Crown secrets to French enemies?",
+        "stakes_importance": "High \u2014 introduces high treason at the core of the military establishment.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B015",
+          "end_beat_id": "B022",
+          "start_time": 50.0,
+          "end_time": 89.8,
+          "duration": 39.8,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_09",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B015",
+      "end_beat_id": "B026",
+      "start_time": 50.0,
+      "end_time": 101.0,
+      "duration": 51.0,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Unprecedented verbal shocker that instantly hooks a cold viewer into a high-stakes mystery ('I buried you.').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High emotional drama: mother tenderly cupping the scarred face of a son she believed was dead, legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B026",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who orchestrated the brutal ambush that trapped Alexander's squad?",
+        "stakes_importance": "High \u2014 sudden violent turning point exposing pre-planned slaughter.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B015",
+          "end_beat_id": "B026",
+          "start_time": 50.0,
+          "end_time": 101.0,
+          "duration": 51.0,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_10",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B015",
+      "end_beat_id": "B027",
+      "start_time": 50.0,
+      "end_time": 104.2,
+      "duration": 54.2,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Unprecedented verbal shocker that instantly hooks a cold viewer into a high-stakes mystery ('I buried you.').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High emotional drama: mother tenderly cupping the scarred face of a son she believed was dead, legible on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Alexander avenge the slaughter of his entire unit against the conspirators?",
+        "stakes_importance": "High \u2014 peak visceral hatred and vow of vengeance encapsulated in a clenched fist.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B015",
+          "end_beat_id": "B027",
+          "start_time": 50.0,
+          "end_time": 104.2,
+          "duration": 54.2,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_11",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B017",
+      "end_beat_id": "B022",
+      "start_time": 59.5,
+      "end_time": 89.8,
+      "duration": 30.3,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Directly exposes high-stakes deception and military catastrophe ('They told me you died. They told me your entire regiment was destroyed.').",
+        "visual_hook_score": 0,
+        "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 4,
+        "specific_question": "Which prominent British officer was selling Crown secrets to French enemies?",
+        "stakes_importance": "High \u2014 introduces high treason at the core of the military establishment.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B017",
+          "end_beat_id": "B022",
+          "start_time": 59.5,
+          "end_time": 89.8,
+          "duration": 30.3,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_12",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B020",
+      "end_beat_id": "B034",
+      "start_time": 74.2,
+      "end_time": 129.5,
+      "duration": 55.3,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Chilling, intriguing opening line that instantly establishes foul play ('I wasn't supposed to.').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Haunted side profile gaze into the distance, conveying unresolved trauma.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who possessed the terrifying power and motive to stage his death and silence his family?",
+        "stakes_importance": "High \u2014 transforms an ambush into a deliberate, targeted conspiracy from above.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B020",
+          "end_beat_id": "B034",
+          "start_time": 74.2,
+          "end_time": 129.5,
+          "duration": 55.3,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_13",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B026",
+      "end_beat_id": "B033",
+      "start_time": 98.5,
+      "end_time": 125.5,
+      "duration": 27.0,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp verbal punch signaling sudden catastrophe and betrayal ('Then came the ambush.').",
+        "visual_hook_score": 0,
+        "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 4,
+        "specific_question": "Why did the high command hide the reality of his disappearance from his own family?",
+        "stakes_importance": "High \u2014 righteous maternal fury exposing top-level collusion.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B026",
+          "end_beat_id": "B033",
+          "start_time": 98.5,
+          "end_time": 125.5,
+          "duration": 27.0,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_14",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B026",
+      "end_beat_id": "B034",
+      "start_time": 98.5,
+      "end_time": 129.5,
+      "duration": 31.0,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp verbal punch signaling sudden catastrophe and betrayal ('Then came the ambush.').",
+        "visual_hook_score": 0,
+        "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who possessed the terrifying power and motive to stage his death and silence his family?",
+        "stakes_importance": "High \u2014 transforms an ambush into a deliberate, targeted conspiracy from above.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B026",
+          "end_beat_id": "B034",
+          "start_time": 98.5,
+          "end_time": 129.5,
+          "duration": 31.0,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_15",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B026",
+      "end_beat_id": "B035",
+      "start_time": 98.5,
+      "end_time": 130.5,
+      "duration": 32.0,
+      "hook_signal": {
+        "beat_id": "B026",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp verbal punch signaling sudden catastrophe and betrayal ('Then came the ambush.').",
+        "visual_hook_score": 0,
+        "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B035",
+        "curiosity_gap_score": 4,
+        "specific_question": "Which specific figure wanted Alexander dead?",
+        "stakes_importance": "High \u2014 direct interrogation demanding the name of the mastermind.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B026",
+          "end_beat_id": "B035",
+          "start_time": 98.5,
+          "end_time": 130.5,
+          "duration": 32.0,
+          "beat_ids": [
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_16",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B027",
+      "end_beat_id": "B034",
+      "start_time": 101.2,
+      "end_time": 129.5,
+      "duration": 28.3,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Brutal, high-stakes confession of slaughter ('My men were slaughtered.').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Vivid visual drama: scarred fist violently crumbling the tactical parchment map in furious tension.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B034",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who possessed the terrifying power and motive to stage his death and silence his family?",
+        "stakes_importance": "High \u2014 transforms an ambush into a deliberate, targeted conspiracy from above.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B027",
+          "end_beat_id": "B034",
+          "start_time": 101.2,
+          "end_time": 129.5,
+          "duration": 28.3,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_17",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B027",
+      "end_beat_id": "B037",
+      "start_time": 101.2,
+      "end_time": 137.0,
+      "duration": 35.8,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Brutal, high-stakes confession of slaughter ('My men were slaughtered.').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Vivid visual drama: scarred fist violently crumbling the tactical parchment map in furious tension.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B037",
+        "curiosity_gap_score": 4,
+        "specific_question": "Who ordered the pre-planned execution of an entire regiment?",
+        "stakes_importance": "High \u2014 definitive accusation of premeditated slaughter and domestic betrayal.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B027",
+          "end_beat_id": "B037",
+          "start_time": 101.2,
+          "end_time": 137.0,
+          "duration": 35.8,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_18",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B029",
+      "end_beat_id": "B038",
+      "start_time": 107.0,
+      "end_time": 144.0,
+      "duration": 37.0,
+      "hook_signal": {
+        "beat_id": "B029",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Visceral, high-stakes declaration of violence and betrayal ('I was shot. Left for dead.').",
+        "visual_hook_score": 0,
+        "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B038",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who wanted Alexander erased from existence, and what dangerous truth did he uncover?",
+        "stakes_importance": "High \u2014 fever-pitch fury revealing intentional extermination of the protagonist.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B029",
+          "end_beat_id": "B038",
+          "start_time": 107.0,
+          "end_time": 144.0,
+          "duration": 37.0,
+          "beat_ids": [
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_19",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B029",
+      "end_beat_id": "B039",
+      "start_time": 107.0,
+      "end_time": 145.0,
+      "duration": 38.0,
+      "hook_signal": {
+        "beat_id": "B029",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Visceral, high-stakes declaration of violence and betrayal ('I was shot. Left for dead.').",
+        "visual_hook_score": 0,
+        "visual_hook_rationale": "No camera or visual action events attached to this beat.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B039",
+        "curiosity_gap_score": 5,
+        "specific_question": "Whose name will Alexander utter as the architect of his destruction?",
+        "stakes_importance": "High \u2014 the ultimate suspended question before the reveal of the primary villain.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B029",
+          "end_beat_id": "B039",
+          "start_time": 107.0,
+          "end_time": 145.0,
+          "duration": 38.0,
+          "beat_ids": [
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_20",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B031",
+      "end_beat_id": "B040",
+      "start_time": 113.5,
+      "end_time": 150.5,
+      "duration": 37.0,
+      "hook_signal": {
+        "beat_id": "B031",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Grim, vivid recount of traumatic survival ('I crawled away from the battlefield, half dead, alone.').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up on dark, haunted eyes recounting harrowing battlefield trauma.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B040",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Alexander wage war against the corrupt ruling lords of Ashwood who orchestrated his assassination?",
+        "stakes_importance": "High \u2014 catastrophic climax uncovering that the traitors hold complete political power over his home.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B031",
+          "end_beat_id": "B040",
+          "start_time": 113.5,
+          "end_time": 150.5,
+          "duration": 37.0,
+          "beat_ids": [
+            "B031",
+            "B032",
+            "B033",
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B031",
+        "B032",
+        "B033",
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_21",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B034",
+      "end_beat_id": "B040",
+      "start_time": 125.5,
+      "end_time": 150.5,
+      "duration": 25.0,
+      "hook_signal": {
+        "beat_id": "B034",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Massive conspiratorial bombshell opening ('Because someone wanted you to believe I was dead.').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up capturing an intense, piercing gaze holding high dramatic gravity.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B040",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will Alexander wage war against the corrupt ruling lords of Ashwood who orchestrated his assassination?",
+        "stakes_importance": "High \u2014 catastrophic climax uncovering that the traitors hold complete political power over his home.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B034",
+          "end_beat_id": "B040",
+          "start_time": 125.5,
+          "end_time": 150.5,
+          "duration": 25.0,
+          "beat_ids": [
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_22",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B034",
+      "end_beat_id": "B041",
+      "start_time": 125.5,
+      "end_time": 157.5,
+      "duration": 32.0,
+      "hook_signal": {
+        "beat_id": "B034",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Massive conspiratorial bombshell opening ('Because someone wanted you to believe I was dead.').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up capturing an intense, piercing gaze holding high dramatic gravity.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 5,
+        "specific_question": "What catastrophic danger does this treason pose to Alexander and his mother now that the truth is uncovered?",
+        "stakes_importance": "High \u2014 the mother's terror confirms the lethal threat facing their family, and the ominous musical crescendo into fade-out punctuates maximum impending peril.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B034",
+          "end_beat_id": "B041",
+          "start_time": 125.5,
+          "end_time": 157.5,
+          "duration": 32.0,
+          "beat_ids": [
+            "B034",
+            "B035",
+            "B036",
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B034",
+        "B035",
+        "B036",
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_23",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B037",
+      "end_beat_id": "B041",
+      "start_time": 134.0,
+      "end_time": 157.5,
+      "duration": 23.5,
+      "hook_signal": {
+        "beat_id": "B037",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Clear declaration of deliberate treachery ('The ambush was not an accident.').",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Sudden aggressive physical motion, pushing off the window and storming back with burning rage.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 5,
+        "specific_question": "What catastrophic danger does this treason pose to Alexander and his mother now that the truth is uncovered?",
+        "stakes_importance": "High \u2014 the mother's terror confirms the lethal threat facing their family, and the ominous musical crescendo into fade-out punctuates maximum impending peril.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B037",
+          "end_beat_id": "B041",
+          "start_time": 134.0,
+          "end_time": 157.5,
+          "duration": 23.5,
+          "beat_ids": [
+            "B037",
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B037",
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP035_24",
+      "episode": "Episode 35",
+      "episode_number": 35,
+      "start_beat_id": "B038",
+      "end_beat_id": "B041",
+      "start_time": 137.0,
+      "end_time": 157.5,
+      "duration": 20.5,
+      "hook_signal": {
+        "beat_id": "B038",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Devastating double accusation of targeted murder and conspiracy ('Someone ordered my men to die. Someone wanted me erased.').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual tension as he looms heavily over the table, boiling with palpable fury.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B041",
+        "curiosity_gap_score": 5,
+        "specific_question": "What catastrophic danger does this treason pose to Alexander and his mother now that the truth is uncovered?",
+        "stakes_importance": "High \u2014 the mother's terror confirms the lethal threat facing their family, and the ominous musical crescendo into fade-out punctuates maximum impending peril.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 35,
+          "start_beat_id": "B038",
+          "end_beat_id": "B041",
+          "start_time": 137.0,
+          "end_time": 157.5,
+          "duration": 20.5,
+          "beat_ids": [
+            "B038",
+            "B039",
+            "B040",
+            "B041"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B038",
+        "B039",
+        "B040",
+        "B041"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

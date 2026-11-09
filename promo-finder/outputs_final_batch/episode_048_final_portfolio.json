@@ -1,0 +1,64 @@
+{
+  "episode_number": 48,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 3
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP048_04",
+      "absolute_rubric_score": 8.8,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B007",
+        "end_beat_id": "B013",
+        "start_time": 34.0,
+        "end_time": 73.5,
+        "duration": 39.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Everyone in that chapel saw me humiliated today.",
+        "opening_character": "CATHERINE",
+        "rationale": "High-stakes revelation of public humiliation coupled with chilling calculation: 'Grief makes people careless...'"
+      },
+      "cliffhanger": {
+        "final_quote": "And make sure no one sees him arrive.",
+        "final_character": "CATHERINE",
+        "specific_question": "Will the bribe buy the priest's silence, and what illicit action will Father Thomas take tonight?"
+      },
+      "situational_summary": "Refusing to flee following her public disgrace, a scheming noblewoman hands her terrified maid a heavy purse of gold to summon a corrupt priest under cover of darkness.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP048_03",
+      "rank": 2,
+      "recommended_boundary": "B007 -> B012",
+      "similarity": 0.9369,
+      "duplicate_of": "CAND_EP048_04",
+      "reason": "Exceeded near-duplicate threshold (0.9369 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP048_02",
+      "rank": 3,
+      "recommended_boundary": "B007 -> B010",
+      "similarity": 0.951,
+      "duplicate_of": "CAND_EP048_04",
+      "reason": "Exceeded near-duplicate threshold (0.9510 >= 0.90)"
+    }
+  ]
+}

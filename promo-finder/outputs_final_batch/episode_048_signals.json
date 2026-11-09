@@ -1,0 +1,262 @@
+{
+  "episode_number": 48,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Catherine opens with a venomous, high-stakes threat: 'that healer's crown rolls right back into the gutter where it belongs.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Strong atmospheric scroll-stop with an ornate villainess silhouetted in moonlight against castle spires, turning with a cold, venomous smirk.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Rhythmic, incisive countdown lines build an active scheme: 'Ten days for a decree to be undone.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Direct frontal address to the camera with a gloved finger ticking off points signals commanding theatrical villainy.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp metaphorical challenge and threat: 'And doors can be closed from the other side.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Push-in on a clenched fist against the chest with blazing eyes creates noticeable physical tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Generic subordinate greeting ('You sent for me, my lady?') carrying no standalone stakes.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard entrance of a maid stepping into an aristocratic chamber.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A sharp, abrupt two-word command ('Lock it.') that instantly triggers suspense and secrecy.",
+      "visual_hook_score": 0,
+      "visual_hook_rationale": "No camera or action events present in this beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up insert of hands turning an ornate key in a deadbolt clearly signals clandestine danger on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes revelation of public humiliation coupled with chilling calculation: 'Grief makes people careless...'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual friction as Catherine advances uncomfortably close and firmly grabs the maid's hands, towering over her in candlelight.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Immediate urgent conflict and stakes raised: 'the Duke has bailiffs watching every road out of the county.'",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Over-the-shoulder shot showing an anxious brow, conveying mild reaction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Defiant counter-punch reveal: 'I'm not leaving the county, Agnes. I'm going back into that house.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on Catherine's painted lips spreading into a smug, venomous smile clearly establishes villainous intent.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Implicates a corrupt co-conspirator ('Father Thomas did his part beautifully today') to deepen the conspiracy.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Tracking shot of Catherine releasing Agnes and walking toward a window sill.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Tentative warning ('If someone sees him come to you...') outlining risk without immediate punch.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Medium close-up of a nervous glance over the shoulder.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Chilling, ruthless directive: 'Then no one sees him. That is precisely your job tonight.'",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up spin-around with jaw set in terrifying firmness delivers strong visual intensity.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Urgent conspiratorial commands: 'Send for the priest. Tonight. And make sure no one sees him arrive.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Clear mute legibility of clandestine bribery as a heavy velvet purse is pressed into open palms.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard hasty exit with a curtsy and stashed pouch into the darkness.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Exterior wide window shot of a static figure in candlelight, functioning as a scene closing fade rather than a hook.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 3,
+      "specific_question": "What two words can overturn the healer's status, and what is Catherine scheming during Alexander's ten-day window?",
+      "stakes_importance": "Medium \u2014 sets up a brewing political/court conspiracy, though it's opening exposition.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Catherine disrupt the council and the gathering of witnesses before the decree is reversed?",
+      "stakes_importance": "Medium \u2014 lays out the timeline and conditions of her impending challenge.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 4,
+      "specific_question": "How does Catherine plan to slam the door on Alexander and overturn his ten-day decree?",
+      "stakes_importance": "High \u2014 establishes Catherine's ruthless ambition and direct threat to Alexander's position.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "What dangerous errand or covert conspiracy is Catherine about to entrust to Agnes?",
+      "stakes_importance": "Low \u2014 standard arrival and transition into a confidential conversation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 3,
+      "specific_question": "What illicit or treasonous plan requires immediate locking of the chamber doors?",
+      "stakes_importance": "Medium \u2014 sharp escalation in secrecy and clandestine intrigue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 3,
+      "specific_question": "Now that they are locked inside in total secrecy, what scheme will Catherine unveil?",
+      "stakes_importance": "Medium \u2014 suspenseful beat sealing the conspirators together.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Catherine exploit the household's post-humiliation carelessness to stage her revenge?",
+      "stakes_importance": "High \u2014 unveils Catherine's deliberate weaponization of her public disgrace into a counter-strike.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "How can Catherine carry out her plot when the Duke's bailiffs have sealed every road out of the county?",
+      "stakes_importance": "High \u2014 introduces active enemy containment and heightened physical/legal stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Catherine dare infiltrate the very house where she was publicly disgraced under the Duke's nose?",
+      "stakes_importance": "High \u2014 massive narrative shock; instead of fleeing as expected, the villain is walking straight into the lion's den.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 4,
+      "specific_question": "What corrupt deed did Father Thomas already commit, and what more does Catherine demand of him before the hearing?",
+      "stakes_importance": "High \u2014 implicates a holy man in a corrupt conspiracy to derail an official legal hearing.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "What catastrophic penalty or exposure awaits them if Father Thomas is caught visiting Catherine in secret?",
+      "stakes_importance": "Medium \u2014 immediate risk of discovery and ruin.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Agnes successfully smuggle Father Thomas into Catherine's chambers under cover of darkness without detection?",
+      "stakes_importance": "High \u2014 a high-risk stealth assignment under implicit threat if Agnes fails.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the bribe buy the priest's silence, and what illicit action will Father Thomas take tonight?",
+      "stakes_importance": "High \u2014 sealing a criminal pact with gold, launching immediate covert action.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Agnes make it through the bailiffs and reach the priest without being intercepted?",
+      "stakes_importance": "Medium \u2014 active execution of a perilous errand into the night.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "What catastrophic ruin is Catherine preparing to unleash upon the household once her covert plan is set in motion?",
+      "stakes_importance": "High \u2014 lingering unresolved malice and impending vengeance before a cut to black.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

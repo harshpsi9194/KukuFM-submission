@@ -1,0 +1,1252 @@
+{
+  "episode_number": 46,
+  "total_candidates": 21,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP046_01",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B004",
+      "end_beat_id": "B009",
+      "start_time": 7.1,
+      "end_time": 37.0,
+      "duration": 29.9,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dramatic tracking shot of an armed squad with halberds marching down a ruined nave, establishing immediate visual danger.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B009",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can Alexander's defense that 'she married the man... not the title' withstand the High Priest's royal decree?",
+        "stakes_importance": "High \u2014 core emotional conflict between romantic fidelity and rigid peerage law.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B004",
+          "end_beat_id": "B009",
+          "start_time": 7.1,
+          "end_time": 37.0,
+          "duration": 29.9,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_02",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B004",
+      "end_beat_id": "B010",
+      "start_time": 7.1,
+      "end_time": 42.8,
+      "duration": 35.7,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dramatic tracking shot of an armed squad with halberds marching down a ruined nave, establishing immediate visual danger.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana be stripped of her position as Duchess because the Duke was presumed dead or never married?",
+        "stakes_importance": "High \u2014 threatens Juliana with total social ruin and nullification.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B004",
+          "end_beat_id": "B010",
+          "start_time": 7.1,
+          "end_time": 42.8,
+          "duration": 35.7,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_03",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B005",
+      "end_beat_id": "B010",
+      "start_time": 11.0,
+      "end_time": 42.8,
+      "duration": 31.8,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Formal declaration of Crown seizure and sanctuary breach by the High Priest.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Insert close-up of breaking a royal crimson wax seal flanked by armed guards, instantly legible without audio.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana be stripped of her position as Duchess because the Duke was presumed dead or never married?",
+        "stakes_importance": "High \u2014 threatens Juliana with total social ruin and nullification.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B005",
+          "end_beat_id": "B010",
+          "start_time": 11.0,
+          "end_time": 42.8,
+          "duration": 31.8,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_04",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B007",
+      "end_beat_id": "B014",
+      "start_time": 20.5,
+      "end_time": 58.2,
+      "duration": 37.7,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Shocking public accusation exposing that the groom married as a 'nameless beggar.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Wide shot of a defiant couple at the altar confronting the accuser before a stunned congregation.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B014",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Alexander and Juliana overcome the War Office proclamation recording Alexander as legally dead?",
+        "stakes_importance": "High \u2014 devastating bureaucratic barrier thrust into their faces with physical proof.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B007",
+          "end_beat_id": "B014",
+          "start_time": 20.5,
+          "end_time": 58.2,
+          "duration": 37.7,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_05",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B009",
+      "end_beat_id": "B014",
+      "start_time": 26.8,
+      "end_time": 58.2,
+      "duration": 31.4,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive identity reveal ('beggar is revealed to be a Duke') met with Alexander's resolute declaration: 'She married the man... not the title.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Priest brandishing a decree cuts to a scarred Duke physically stepping forward to shield his bride.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B014",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will Alexander and Juliana overcome the War Office proclamation recording Alexander as legally dead?",
+        "stakes_importance": "High \u2014 devastating bureaucratic barrier thrust into their faces with physical proof.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B009",
+          "end_beat_id": "B014",
+          "start_time": 26.8,
+          "end_time": 58.2,
+          "duration": 31.4,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_06",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B009",
+      "end_beat_id": "B017",
+      "start_time": 26.8,
+      "end_time": 71.0,
+      "duration": 44.2,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive identity reveal ('beggar is revealed to be a Duke') met with Alexander's resolute declaration: 'She married the man... not the title.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Priest brandishing a decree cuts to a scarred Duke physically stepping forward to shield his bride.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B017",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana be reduced to nothing by the cold reality that 'paper makes a Duchess'?",
+        "stakes_importance": "High \u2014 brutal verbal takedown highlighting the harsh legal vulnerability of her love.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B009",
+          "end_beat_id": "B017",
+          "start_time": 26.8,
+          "end_time": 71.0,
+          "duration": 44.2,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_07",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B009",
+      "end_beat_id": "B020",
+      "start_time": 26.8,
+      "end_time": 85.8,
+      "duration": 59.0,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive identity reveal ('beggar is revealed to be a Duke') met with Alexander's resolute declaration: 'She married the man... not the title.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Priest brandishing a decree cuts to a scarred Duke physically stepping forward to shield his bride.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the High Priest retaliate after Juliana publicly accuses him of acting out of wounded pride?",
+        "stakes_importance": "High \u2014 explosive public confrontation where the heroine openly defies holy authority before the congregation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B009",
+          "end_beat_id": "B020",
+          "start_time": 26.8,
+          "end_time": 85.8,
+          "duration": 59.0,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_08",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B010",
+      "end_beat_id": "B020",
+      "start_time": 37.0,
+      "end_time": 85.8,
+      "duration": 48.8,
+      "hook_signal": {
+        "beat_id": "B010",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes invalidation stating the church never married the Duke of Ashburton to anyone.",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Low-angle shot raising parchment toward the ceiling.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the High Priest retaliate after Juliana publicly accuses him of acting out of wounded pride?",
+        "stakes_importance": "High \u2014 explosive public confrontation where the heroine openly defies holy authority before the congregation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B010",
+          "end_beat_id": "B020",
+          "start_time": 37.0,
+          "end_time": 85.8,
+          "duration": 48.8,
+          "beat_ids": [
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_09",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B014",
+      "end_beat_id": "B020",
+      "start_time": 52.2,
+      "end_time": 85.8,
+      "duration": 33.6,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Shocking revelation that the Duke was officially presumed dead by the Crown during the marriage.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Push-in medium to close-up as the priest aggressively thrusts the royal War Office proclamation into the lens.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the High Priest retaliate after Juliana publicly accuses him of acting out of wounded pride?",
+        "stakes_importance": "High \u2014 explosive public confrontation where the heroine openly defies holy authority before the congregation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B014",
+          "end_beat_id": "B020",
+          "start_time": 52.2,
+          "end_time": 85.8,
+          "duration": 33.6,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_10",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B014",
+      "end_beat_id": "B022",
+      "start_time": 52.2,
+      "end_time": 96.8,
+      "duration": 44.6,
+      "hook_signal": {
+        "beat_id": "B014",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Shocking revelation that the Duke was officially presumed dead by the Crown during the marriage.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Push-in medium to close-up as the priest aggressively thrusts the royal War Office proclamation into the lens.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B022",
+        "curiosity_gap_score": 4,
+        "specific_question": "What physical or punitive action will the furious High Priest take as he storms up the altar steps?",
+        "stakes_importance": "High \u2014 impending physical confrontation between church authorities and the altar party.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B014",
+          "end_beat_id": "B022",
+          "start_time": 52.2,
+          "end_time": 96.8,
+          "duration": 44.6,
+          "beat_ids": [
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020",
+            "B021",
+            "B022"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020",
+        "B021",
+        "B022"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_11",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B015",
+      "end_beat_id": "B020",
+      "start_time": 58.2,
+      "end_time": 85.8,
+      "duration": 27.6,
+      "hook_signal": {
+        "beat_id": "B015",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Juliana delivers a stinging, emotional rebuke: 'I didn't ask this church for permission to survive, Father.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Close-up of a tearful bride holding her chin up with righteous fury.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the High Priest retaliate after Juliana publicly accuses him of acting out of wounded pride?",
+        "stakes_importance": "High \u2014 explosive public confrontation where the heroine openly defies holy authority before the congregation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B015",
+          "end_beat_id": "B020",
+          "start_time": 58.2,
+          "end_time": 85.8,
+          "duration": 27.6,
+          "beat_ids": [
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_12",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B017",
+      "end_beat_id": "B020",
+      "start_time": 65.8,
+      "end_time": 85.8,
+      "duration": 20.0,
+      "hook_signal": {
+        "beat_id": "B017",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Brutal dismissive insult: 'Love doesn't make a Duchess, girl. Paper does.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up of the priest delivering a condescending, sinister smirk.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the High Priest retaliate after Juliana publicly accuses him of acting out of wounded pride?",
+        "stakes_importance": "High \u2014 explosive public confrontation where the heroine openly defies holy authority before the congregation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B017",
+          "end_beat_id": "B020",
+          "start_time": 65.8,
+          "end_time": 85.8,
+          "duration": 20.0,
+          "beat_ids": [
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_13",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B020",
+      "end_beat_id": "B023",
+      "start_time": 78.0,
+      "end_time": 100.5,
+      "duration": 22.5,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Passionate outburst shouting down the priest: 'God married us, Father! You are just angry no one asked you first!'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up of Juliana furiously screaming in the priest's face.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B023",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the High Priest's threatened hearing instantly dissolve Juliana's three-year marriage and title?",
+        "stakes_importance": "High \u2014 existential threat of total annulment and public condemnation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B020",
+          "end_beat_id": "B023",
+          "start_time": 78.0,
+          "end_time": 100.5,
+          "duration": 22.5,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_14",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B020",
+      "end_beat_id": "B027",
+      "start_time": 78.0,
+      "end_time": 118.5,
+      "duration": 40.5,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Passionate outburst shouting down the priest: 'God married us, Father! You are just angry no one asked you first!'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up of Juliana furiously screaming in the priest's face.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B027",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the armed guards back down or strike Alexander down where he stands in the chapel?",
+        "stakes_importance": "High \u2014 high-stakes standoff with six lethal halberds leveled at the Duke.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B020",
+          "end_beat_id": "B027",
+          "start_time": 78.0,
+          "end_time": 118.5,
+          "duration": 40.5,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_15",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B020",
+      "end_beat_id": "B028",
+      "start_time": 78.0,
+      "end_time": 124.0,
+      "duration": 46.0,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Passionate outburst shouting down the priest: 'God married us, Father! You are just angry no one asked you first!'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up of Juliana furiously screaming in the priest's face.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B028",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander find the witnesses to survive the ten-day deadline before Juliana is taken from him forever?",
+        "stakes_importance": "High \u2014 establishes a strict countdown ultimatum where failure means devastating public loss.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B020",
+          "end_beat_id": "B028",
+          "start_time": 78.0,
+          "end_time": 124.0,
+          "duration": 46.0,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_16",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B020",
+      "end_beat_id": "B031",
+      "start_time": 78.0,
+      "end_time": 133.5,
+      "duration": 55.5,
+      "hook_signal": {
+        "beat_id": "B020",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Passionate outburst shouting down the priest: 'God married us, Father! You are just angry no one asked you first!'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Extreme close-up of Juliana furiously screaming in the priest's face.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will the royal guards impale the Duke on their weapons or stand down under his command?",
+        "stakes_importance": "High \u2014 peak physical tension with weapons drawn inches from the protagonist's chest.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B020",
+          "end_beat_id": "B031",
+          "start_time": 78.0,
+          "end_time": 133.5,
+          "duration": 55.5,
+          "beat_ids": [
+            "B020",
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B020",
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_17",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B021",
+      "end_beat_id": "B028",
+      "start_time": 85.8,
+      "end_time": 124.0,
+      "duration": 38.2,
+      "hook_signal": {
+        "beat_id": "B021",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Ominous venomous taunt warning that 'the floor isn't finished with you.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Villainous bride whispering mockery from behind a stone archway.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B028",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander find the witnesses to survive the ten-day deadline before Juliana is taken from him forever?",
+        "stakes_importance": "High \u2014 establishes a strict countdown ultimatum where failure means devastating public loss.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B021",
+          "end_beat_id": "B028",
+          "start_time": 85.8,
+          "end_time": 124.0,
+          "duration": 38.2,
+          "beat_ids": [
+            "B021",
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B021",
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_18",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B022",
+      "end_beat_id": "B028",
+      "start_time": 89.2,
+      "end_time": 124.0,
+      "duration": 34.8,
+      "hook_signal": {
+        "beat_id": "B022",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High Priest's explosive pushback rejecting divine sanction and condemning the marriage as illicit.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Low-angle advance up altar steps paired with an insert shot of the smirking rival bride.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B028",
+        "curiosity_gap_score": 5,
+        "specific_question": "Can Alexander find the witnesses to survive the ten-day deadline before Juliana is taken from him forever?",
+        "stakes_importance": "High \u2014 establishes a strict countdown ultimatum where failure means devastating public loss.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B022",
+          "end_beat_id": "B028",
+          "start_time": 89.2,
+          "end_time": 124.0,
+          "duration": 34.8,
+          "beat_ids": [
+            "B022",
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B022",
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_19",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "start_time": 96.8,
+      "end_time": 133.5,
+      "duration": 36.7,
+      "hook_signal": {
+        "beat_id": "B023",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Aggressive threat promising to undo three years of marriage in one hearing.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Wide shot of the priest waving the letter overhead before the entire congregation.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B031",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will the royal guards impale the Duke on their weapons or stand down under his command?",
+        "stakes_importance": "High \u2014 peak physical tension with weapons drawn inches from the protagonist's chest.",
+        "defuses_tension": false,
+        "cliffhanger_type": "imminent_action",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B023",
+          "end_beat_id": "B031",
+          "start_time": 96.8,
+          "end_time": 133.5,
+          "duration": 36.7,
+          "beat_ids": [
+            "B023",
+            "B024",
+            "B025",
+            "B026",
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B023",
+        "B024",
+        "B025",
+        "B026",
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_20",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B027",
+      "end_beat_id": "B033",
+      "start_time": 111.8,
+      "end_time": 143.88,
+      "duration": 32.08,
+      "hook_signal": {
+        "beat_id": "B027",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp ultimatum challenging the priest to court within ten days rather than at weapon-point.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Medium close-up of Alexander glaring with icy authority.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 5,
+        "specific_question": "What sabotage or scheme does Catherine have planned within the ten days to ensure Juliana's ruin?",
+        "stakes_importance": "High \u2014 perfect episode/clip cliffhanger revealing a lurking villainous conspiracy waiting to strike during the countdown.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B027",
+          "end_beat_id": "B033",
+          "start_time": 111.8,
+          "end_time": 143.88,
+          "duration": 32.08,
+          "beat_ids": [
+            "B027",
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B027",
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP046_21",
+      "episode": "Episode 46",
+      "episode_number": 46,
+      "start_beat_id": "B028",
+      "end_beat_id": "B033",
+      "start_time": 118.5,
+      "end_time": 143.88,
+      "duration": 25.38,
+      "hook_signal": {
+        "beat_id": "B028",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Ominous countdown ultimatum: 'Ten days... this county watches you lose her twice.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Wide profile two-shot capturing the physical standoff between the Duke and priest.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B033",
+        "curiosity_gap_score": 5,
+        "specific_question": "What sabotage or scheme does Catherine have planned within the ten days to ensure Juliana's ruin?",
+        "stakes_importance": "High \u2014 perfect episode/clip cliffhanger revealing a lurking villainous conspiracy waiting to strike during the countdown.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 46,
+          "start_beat_id": "B028",
+          "end_beat_id": "B033",
+          "start_time": 118.5,
+          "end_time": 143.88,
+          "duration": 25.38,
+          "beat_ids": [
+            "B028",
+            "B029",
+            "B030",
+            "B031",
+            "B032",
+            "B033"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B028",
+        "B029",
+        "B030",
+        "B031",
+        "B032",
+        "B033"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

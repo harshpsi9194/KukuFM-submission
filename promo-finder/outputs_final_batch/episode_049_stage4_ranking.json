@@ -1,0 +1,86 @@
+{
+  "episode_number": 49,
+  "total_ranked": 5,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP049_09",
+      "absolute_score": 9.1,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "rank_justification": "Opens instantly with a tight close-up and visceral line of lethal danger about hanging for treason against the King's restored Duke. The arc escalates rapidly through seductive power dynamics before snapping on an extreme close-up cheek cup that fuses life-or-death conspiracy with sacrilegious romance.",
+      "duration": 26.75,
+      "start_beat_id": "B025",
+      "end_beat_id": "B031",
+      "emotional_salience_score": 4,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP049_07",
+      "absolute_score": 8.6,
+      "subscores": {
+        "hook_score": 2.0,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.3,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "Begins with high-stakes treason dialogue that grips the audience, steadily escalating terror into illicit intimacy across 41 seconds. Cuts cleanly on a forbidden romantic caress under threat of execution, though the opening hook takes slightly longer to land compared to the punchier B025 cut.",
+      "duration": 40.95,
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "emotional_salience_score": 5,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP049_08",
+      "absolute_score": 7.9,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.0,
+        "cliffhanger_score": 1.9,
+        "resonance_score": 1.8
+      },
+      "rank_justification": "Delivers an immediate high-impact hook on hanging for treason and maintains sharp transactional tension throughout its tight 24.8s duration. However, the hand-clasp cut feels somewhat like a closed agreement rather than the intense, lingering romantic rupture seen in the cheek-cup exit.",
+      "duration": 24.8,
+      "start_beat_id": "B025",
+      "end_beat_id": "B029",
+      "emotional_salience_score": 4,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP049_01",
+      "absolute_score": 6.4,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 1.6,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 1.4
+      },
+      "rank_justification": "Features an intriguing scandal hook regarding the priest in a bedchamber, but its lengthy 58s runtime suffers from pacing plateaus and expository banter. The ending demand for council intelligence poses an interesting question but lacks visceral shock or immediate emotional rupture.",
+      "duration": 58.2,
+      "start_beat_id": "B009",
+      "end_beat_id": "B019",
+      "emotional_salience_score": 4,
+      "rank": 4
+    },
+    {
+      "candidate_id": "CAND_EP049_02",
+      "absolute_score": 6.2,
+      "subscores": {
+        "hook_score": 1.6,
+        "tension_score": 1.6,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 1.3
+      },
+      "rank_justification": "Starts with dialogue referencing the humiliation rather than showing it directly, creating narrative interest without immediate visceral scroll-stopping power. While tighter than Candidate 01, the dialogue remains heavily exposition-driven around scheming, ending on an intellectual demand rather than an urgent emotional climax.",
+      "duration": 42.9,
+      "start_beat_id": "B012",
+      "end_beat_id": "B019",
+      "emotional_salience_score": 3,
+      "rank": 5
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "episode_number": 45,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP045_10",
+      "absolute_rubric_score": 9.6,
+      "subscores": {
+        "hook_score": 2.3,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B019",
+        "end_beat_id": "B025",
+        "start_time": 86.5,
+        "end_time": 121.75,
+        "duration": 35.25,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "No one will bow yet!",
+        "opening_character": "HIGH PRIEST",
+        "rationale": "Sudden, commanding interruption: 'No one will bow yet!' instantly halts the celebration and injects crisis."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "What sinister revenge will Catherine orchestrate now that Juliana's marriage claim has been destroyed?"
+      },
+      "situational_summary": "An armed High Priest barges into a cathedral to officially invalidate a royal wedding, terrifying the bride while a veiled rival smiles triumphantly at her downfall.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP045_04",
+      "absolute_rubric_score": 9.4,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.1508,
+      "max_similarity_to_selected": 0.7342,
+      "boundary": {
+        "start_beat_id": "B011",
+        "end_beat_id": "B017",
+        "start_time": 51.8,
+        "end_time": 83.5,
+        "duration": 31.7,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You poisoned my mother. You tortured my wife.",
+        "opening_character": "ALEXANDER",
+        "rationale": "Explosive, lethal accusation: 'You poisoned my mother. You tortured my wife.' delivers instantaneous maximum shock."
+      },
+      "cliffhanger": {
+        "final_quote": "Juliana?!",
+        "final_character": "RUPERT",
+        "specific_question": "How will Rupert and Mary face retribution for abusing the woman who is now their sovereign Duchess?"
+      },
+      "situational_summary": "After denouncing a woman for abusing his family, a nobleman proudly presents his wife before the nobility as the new Duchess, leaving her stunned family horrified in the pews.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 3
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP045_02",
+      "absolute_rubric_score": 7.3,
+      "subscores": {
+        "hook_score": 1.2,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.2
+      },
+      "mmr_score": -0.1852,
+      "max_similarity_to_selected": 0.7172,
+      "boundary": {
+        "start_beat_id": "B001",
+        "end_beat_id": "B006",
+        "start_time": 0.0,
+        "end_time": 24.5,
+        "duration": 24.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Alexander...",
+        "opening_character": "JULIANA",
+        "rationale": "Juliana only utters a single whispered name ('Alexander...'), carrying emotional charge but low standalone verbal stakes."
+      },
+      "cliffhanger": {
+        "final_quote": "You're the Duke?",
+        "final_character": "JULIANA",
+        "specific_question": "How could a man Juliana believed was a commoner or pauper actually be the Duke?"
+      },
+      "situational_summary": "A nobleman rescues a shackled woman in rags before a cathedral congregation, frees her, and drapes a ducal mantle over her shoulders, revealing he is the Duke.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP045_09",
+      "rank": 3,
+      "recommended_boundary": "B019 -> B024",
+      "similarity": 0.9559,
+      "duplicate_of": "CAND_EP045_10",
+      "reason": "Exceeded near-duplicate threshold (0.9559 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP045_08",
+      "rank": 4,
+      "recommended_boundary": "B019 -> B023",
+      "similarity": 0.9327,
+      "duplicate_of": "CAND_EP045_10",
+      "reason": "Exceeded near-duplicate threshold (0.9327 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP045_07",
+      "rank": 6,
+      "recommended_boundary": "B019 -> B022",
+      "similarity": 0.9486,
+      "duplicate_of": "CAND_EP045_10",
+      "reason": "Exceeded near-duplicate threshold (0.9486 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP045_09",
+      "rank": 3,
+      "recommended_boundary": "B019 -> B024",
+      "similarity": 0.9559,
+      "duplicate_of": "CAND_EP045_10",
+      "reason": "Exceeded near-duplicate threshold (0.9559 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP045_08",
+      "rank": 4,
+      "recommended_boundary": "B019 -> B023",
+      "similarity": 0.9327,
+      "duplicate_of": "CAND_EP045_10",
+      "reason": "Exceeded near-duplicate threshold (0.9327 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP045_03",
+      "rank": 5,
+      "recommended_boundary": "B011 -> B016",
+      "similarity": 0.9299,
+      "duplicate_of": "CAND_EP045_04",
+      "reason": "Exceeded near-duplicate threshold (0.9299 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP045_07",
+      "rank": 6,
+      "recommended_boundary": "B019 -> B022",
+      "similarity": 0.9486,
+      "duplicate_of": "CAND_EP045_10",
+      "reason": "Exceeded near-duplicate threshold (0.9486 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP045_09",
+      "rank": 3,
+      "recommended_boundary": "B019 -> B024",
+      "similarity": 0.9559,
+      "duplicate_of": "CAND_EP045_10",
+      "reason": "Exceeded near-duplicate threshold (0.9559 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP045_08",
+      "rank": 4,
+      "recommended_boundary": "B019 -> B023",
+      "similarity": 0.9327,
+      "duplicate_of": "CAND_EP045_10",
+      "reason": "Exceeded near-duplicate threshold (0.9327 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP045_03",
+      "rank": 5,
+      "recommended_boundary": "B011 -> B016",
+      "similarity": 0.9299,
+      "duplicate_of": "CAND_EP045_04",
+      "reason": "Exceeded near-duplicate threshold (0.9299 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP045_07",
+      "rank": 6,
+      "recommended_boundary": "B019 -> B022",
+      "similarity": 0.9486,
+      "duplicate_of": "CAND_EP045_10",
+      "reason": "Exceeded near-duplicate threshold (0.9486 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP045_01",
+      "rank": 8,
+      "recommended_boundary": "B001 -> B005",
+      "similarity": 0.9347,
+      "duplicate_of": "CAND_EP045_02",
+      "reason": "Exceeded near-duplicate threshold (0.9347 >= 0.90)"
+    }
+  ]
+}

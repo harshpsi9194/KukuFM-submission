@@ -1,0 +1,636 @@
+{
+  "episode_number": 37,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tilting shot of gloved hands placing wax-sealed invitations on silver is atmospheric and establishes high society, but lacks immediate visual conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Rupert's line provides intrigue and formal setup about county witnesses, but lacks urgent confrontation.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard symmetrical medium two-shot of nobles conversing in a hallway with low visual urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Catherine delivers a mild two-word prompt question with low stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of a blonde noblewoman inspecting cards and smirking conveys mild villainy without visceral shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Cold proclamation ('The transfer of Ashbridge') directly challenges the assumed wedding context with clear antagonistic stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on Rupert's cold aristocratic expression conveys resolve without dynamic physical action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly asserts ruthless usurpation ('After the ceremony, no one will question who owns this house').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up turning the card over with predatory delight clearly telegraphs villainous scheming without sound.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Overt and sinister death threat against an opposing woman delivers immediate high stakes to a scroller.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intense close-up leaning in with venomous narrowing eyes delivers clear antagonistic pressure.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Blunt, relationship-shattering reveal linking marriage to murder ('Juliana's execution comes after the wedding').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up of Catherine's cruel sneer twisting her lips clearly registers malicious intent on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Ghoulish, callous cruelty framing an execution as entertainment ('It will be a feast for our guests').",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Wide shot framing two standing conspirators under estate arches provides distant, low-friction imagery.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Routine administrative command to dispatch mail with negligible standalone tension.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Medium close-up turning his gaze toward an entrance lacks visual stakes.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Vindictive targeting of a specific rival house, though context is vague for a cold scroller.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up looking sideways with narrowed eyes conveys suspicion or spite but minimal kinetic energy.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Tracking shot of a servant carrying a silver tray down a palatial hallway is purely transitional.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Polite butler announcement delivering mail is standard formal exposition.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Breaking a red wax seal with gloved thumbs in an opulent drawing room creates mild tactile curiosity.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Neutral recognition of an impending wedding without inherent urgency.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of Clarissa's face glowing with malicious excitement by the fireplace hints at intrigue.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Mild conversational remark acknowledging news without immediate conflict.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Husband stepping behind the chair and crossing his arms is a static, routine conversational setup.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Merely reciting a title from calligraphy does not hook a scroller on sound alone.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Close-up smiling down at paper without prominent conflict or dramatic inserts.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Unfinished sentence trailing into an ellipsis sparks curiosity but lacks standalone punch.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Unfolding a second attached page with shifting intrigue conveys a mild discovery beat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A single mundane filler question ('What?').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Handing an ominous letter up to a companion who looks down at the bold heading establishes basic curiosity.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Shocking, high-stakes proclamation announcing the legal execution of a prisoner.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of eyes widening in shock before breaking into a grin shows clear emotional shock legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Exposes a public spectacle of punishment to the county elite.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Clarissa turning back to the fire and laughing with dark delight displays clear villainy but standard framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High narrative shock pairing matrimonial celebration with brutal public capital punishment.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of nobleman holding the invite and chuckling at audacity provides moderate character attitude.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp, ominous reframing of the execution as deliberate psychological terror.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Over-the-shoulder profile gaze provides dramatic posture but standard conversational staging.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Short two-word prompt question seeking clarification.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Stern face leaning down in close-up exhibits interpersonal focus without dynamic tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Vicious, oppressive social threat targeting rebellious women with acute patriarchal malice.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on gloved fingers holding the execution letter while eyes gleam with cruel malice clearly reads on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Directly promises public ruin and destruction of Juliana as an intentional lesson to all.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Dismissively tossing the death notice aside while breaking the fourth wall to look straight at the viewer commands immediate attention.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: subterranean dungeon, weeping wall, and woman slumped in tattered rags under moonlit grate instantly establishes extreme peril without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High visual drama: close-up of bruised, iron-shackled hand recoiling from a bowl of filthy water in vivid physical defiance.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Confronts systemic starvation and torment with stubborn resistance.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of a battered, tear-stained face weeping in agony conveys intense distress completely on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly confronts terror and intimidation tactics with unyielding resolve.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of eyes snapping open blazing with fierce defiance provides an electric visual jolt.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Short, explosive verbal refusal yelled against hopeless captivity.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Full shot of shackled prisoner dragging herself off slimy stone floor to her knees with heavy chains scraping loudly.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Resonant, defiant inventory of aristocratic dispossession and stolen identity.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Low-angle heroic framing looking up at chained heroine lifting chin toward ceiling grate into shafts of cold light.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Powerful climactic declaration of personal sovereignty in the face of death.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of iron-shackled hand clutching an anchored dungeon pillar ring with white-knuckle determination.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Directly questions whether a capital death sentence will actually be carried out.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Cozy medium two-shot by the fireplace in velvet armchairs lacks immediate visual tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Affirms certain execution based on severe, unstated accusations.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Dismissive scoff and close-up turn show disdain but standard conversational framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Retrospective observation about the condemned's stubborn nature.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up gazing down at the execution document on the table provides mild dramatic focus.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Harsh resentment castigating the victim for refusing to disappear quietly.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of face hardening with bitter aristocratic resentment displays clear emotional hostility.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Stinging catalogue of transgressions (marrying a nobody, playing healer) and the public price she will pay.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Pacing toward fireplace clutching dark red wine with regal, vindictive posture conveys strong villainous dominance.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Chilling, merciless proclamation of public punishment ('Let them see what happens when a woman forgets her place').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Firelit close-up drinking red wine with a merciless smile followed by a push-in on Gothic 'EXECUTION CLAUSE' lettering.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 0,
+      "specific_question": "Whose wedding invitations are being prepared?",
+      "stakes_importance": "Low \u2014 purely expository setup showing high-society stationery with no stakes or conflict established.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 1,
+      "specific_question": "What major event do Rupert and Catherine want the county to witness?",
+      "stakes_importance": "Low \u2014 standard aristocratic dialogue without urgent tension or revealed stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "Is the upcoming ceremony really just an ordinary wedding, or something darker?",
+      "stakes_importance": "Low \u2014 hints at hidden intrigue, but remains a mild conversational prompt.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 3,
+      "specific_question": "How are Rupert and Catherine using a wedding to seize legal ownership of Ashbridge?",
+      "stakes_importance": "Medium \u2014 reveals the true predatory motivation behind the betrothal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Catherine successfully cement her stolen title to Ashbridge through this sham ceremony?",
+      "stakes_importance": "Medium \u2014 establishes the villains' confidence and unlawful land grab.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who was the woman who tried to stop Rupert, and what sinister fate did they inflict on her?",
+      "stakes_importance": "High \u2014 introduces an ominous, suspended threat of silencing an innocent dissenter.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Juliana survive or escape her planned public execution following Rupert and Catherine's wedding?",
+      "stakes_importance": "High \u2014 lethal stakes and shocking death sentence explicitly placed upon the protagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the assembled county guests celebrate Juliana's murder as public entertainment?",
+      "stakes_importance": "High \u2014 highlights the grotesque cruelty and total conspiracy against Juliana.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will the invited noble families react to the wedding summons?",
+      "stakes_importance": "Low \u2014 functional transitional command winding down the conspiratorial exchange.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why are the Ashcrofts singled out, and will they endorse or oppose Juliana's execution?",
+      "stakes_importance": "Medium \u2014 teases an explicit target or rival faction within the county.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 0,
+      "specific_question": "Who is receiving the letter being delivered down the hallway?",
+      "stakes_importance": "Low \u2014 purely transitional servant movement between scenes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 2,
+      "specific_question": "What will Lady Clarissa find when she opens the seal from Ashbridge Manor?",
+      "stakes_importance": "Low \u2014 standard discovery beat before the contents of the invitation are revealed.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why does Lady Clarissa take such malicious delight in Catherine's marriage?",
+      "stakes_importance": "Low \u2014 establishes villain alliance and spite, but lacks imminent danger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 1,
+      "specific_question": "Does Clarissa's husband approve of Catherine taking the Ashbridge title?",
+      "stakes_importance": "Low \u2014 conversational confirmation between nobles.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 1,
+      "specific_question": "Will Catherine truly be accepted by society under her new title?",
+      "stakes_importance": "Low \u2014 quiet reflection on social status with no immediate cliffhanger tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 4,
+      "specific_question": "What horrific secondary announcement is concealed in the attached parchment?",
+      "stakes_importance": "High \u2014 creates a sudden cliffhanger mid-sentence, leaving the dark clause unread.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 3,
+      "specific_question": "What bold heading on the letter causes Clarissa to hand it over in stunned silence?",
+      "stakes_importance": "Medium \u2014 physical handover holding back the exact text from the viewer.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who has been condemned to death, and what alleged crime are they being executed for?",
+      "stakes_importance": "High \u2014 shocking revelation of a state execution tagged directly onto a wedding.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why do the conspirators want high-society families to witness this execution in person?",
+      "stakes_importance": "Medium \u2014 underlines the public spectacle and orchestrated political theater.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the gathered nobility be appalled or entertained by an execution after a wedding?",
+      "stakes_importance": "Medium \u2014 highlights the grotesque spectacle being imposed upon the county.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who is this gruesome public execution intended to terrify and intimidate?",
+      "stakes_importance": "High \u2014 cuts on a chilling declaration that the execution is an overt warning.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "Which specific enemies or societal group is Lady Clarissa planning to crush?",
+      "stakes_importance": "Medium \u2014 cuts on a direct question demanding the identity of their targeted victims.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana's downfall permanently crush any woman who dares resist aristocratic tyranny?",
+      "stakes_importance": "High \u2014 frames Juliana's coming execution as an ideological and existential struggle.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Clarissa and the nobles succeed in witnessing Juliana's total destruction, or will Juliana overturn their spectacle?",
+      "stakes_importance": "High \u2014 fourth-wall breaking villain declaration celebrating the protagonist's impending execution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "Is Juliana doomed to die in this subterranean dungeon before anyone can intervene?",
+      "stakes_importance": "Medium \u2014 poignant reveal of the protagonist's desperate, isolated physical condition.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana choose starvation over submission to preserve her honor?",
+      "stakes_importance": "High \u2014 intimate physical choice demonstrating unwavering resistance despite mortal peril.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Juliana withstand the agonizing physical starvation and torture without breaking?",
+      "stakes_importance": "High \u2014 peak vulnerability and endurance of the imprisoned heroine.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Juliana fight back against her captors now that her terror has turned into ferocious defiance?",
+      "stakes_importance": "High \u2014 iconic microdrama emotional reversal from despairing victim to unyielding warrior.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Juliana break her chains and escape the dungeon before the execution date arrives?",
+      "stakes_importance": "High \u2014 physical action cliffhanger showing her rising from the mud in absolute defiance.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 4,
+      "specific_question": "What power does Juliana still hold if her captors have already stolen her home and legal identity?",
+      "stakes_importance": "High \u2014 suspended speech framing her unbreakable inner authority.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 5,
+      "specific_question": "What hidden identity or secret retribution will Juliana unleash upon Rupert, Catherine, and Clarissa?",
+      "stakes_importance": "High \u2014 maximum emotional peak of the protagonist swearing vengeance from the depths of her dungeon.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the authorities actually carry through with Juliana's capital execution?",
+      "stakes_importance": "Medium \u2014 re-opens direct doubt on whether the death penalty will truly be enacted.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 3,
+      "specific_question": "What monstrous false crime was Juliana formally accused of that guarantees her death?",
+      "stakes_importance": "Medium \u2014 points to an unstated legal conspiracy and framed charge.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 2,
+      "specific_question": "What past defiance in Juliana's character sealed her downfall?",
+      "stakes_importance": "Low \u2014 reflective exposition about past history with little immediate forward drive.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 3,
+      "specific_question": "What did Juliana refuse to accept that led the nobility to frame and imprison her?",
+      "stakes_importance": "Medium \u2014 deepens the back-story mystery behind the original betrayal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who was the 'nobody' Juliana married, and will that hidden alliance return to avenge her?",
+      "stakes_importance": "High \u2014 reveals Juliana's secret marriage and ties to common folk that threaten high society.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana be executed on the wedding grounds, or will she survive to exact vengeance on the aristocracy?",
+      "stakes_importance": "High \u2014 ultimate episode cliffhanger sting cutting on the formal EXECUTION CLAUSE and a gloating villain.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

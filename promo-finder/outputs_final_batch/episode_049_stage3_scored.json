@@ -1,0 +1,231 @@
+{
+  "episode_number": 49,
+  "total_scored": 9,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP049_01",
+      "start_beat_id": "B009",
+      "end_beat_id": "B019",
+      "start_time": 33.2,
+      "end_time": 91.4,
+      "duration": 58.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B009 establishes both the illicit dynamic and the key identities in the opening shot and line: Father Thomas in priest garb meeting secretly in a bedchamber with Catherine, immediately framing a scandalous clerical-noble conspiracy.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc clearly explains the stakes: Catherine and Father Thomas colluded to humiliate a rival before the court, and Catherine is now demanding Thomas delay council hearings and leak closed-door deliberations.",
+        "passes_gate": true,
+        "situational_summary": "In an abandoned chamber, a disgraced noblewoman schemes with a conspiratorial priest who helped her publicly humiliate a rival, demanding he spy on the council's closed-door hearings."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Illicit political conspiracy and ruthless manipulation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the secret mechanic behind the court trial: Father Thomas and Catherine engineered the humiliation and are tampering with the council."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP049_02",
+      "start_beat_id": "B012",
+      "end_beat_id": "B019",
+      "start_time": 48.5,
+      "end_time": 91.4,
+      "duration": 42.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B012 opens with a medium wide two-shot over a candlelit table with Catherine stating 'Today went better than either of us planned for. The whole court watched you humiliate her,' instantly establishing the secret setting, complicit partnership, and past action.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue flows smoothly through their mutual manipulation to Catherine's explicit demands to stall council proceedings and spy on witness testimony.",
+        "passes_gate": true,
+        "situational_summary": "Following a court scandal, a woman and an allied priest meet in secret to orchestrate a ten-day council delay and spy on witness testimony."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Calculated political scheming and transactional alliance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that the court humiliation was staged and unmasks their plot to subvert upcoming council deliberations."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP049_03",
+      "start_beat_id": "B019",
+      "end_beat_id": "B023",
+      "start_time": 84.0,
+      "end_time": 113.0,
+      "duration": 29.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 opens mid-list on a tight close-up of Catherine raising two fingers and saying 'Second, I want to know what the council knows...'. Starting on an ordinal continuation ('Second') without establishing who she is speaking to or where they are disorients a cold mobile scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "The escalating clash over high-stakes council espionage and treason against the Duke is clear once both participants engage across the table.",
+        "passes_gate": false,
+        "situational_summary": "A disgraced woman demands that a priest spy inside the council chamber, but he balks at the deadly risk of the Duke discovering his treason."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate coercion meeting fear of mortal consequences"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals treasonous espionage against the Duke's council deliberations."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP049_04",
+      "start_beat_id": "B019",
+      "end_beat_id": "B025",
+      "start_time": 84.0,
+      "end_time": 124.8,
+      "duration": 40.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B019 begins on a tight close-up mid-enumeration ('Second, I want to know...'). Starting on point two of an unseen list without visual grounding fails standalone opening legibility; retrospective understanding from later beats cannot excuse this opening.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and compelling dramatic arc from demand to pushback to a lethal cliffhanger regarding hanging for treason against the Duke.",
+        "passes_gate": false,
+        "situational_summary": "A woman orders a priest to act as her spy inside council chambers, but he warns her that careful men still hang for treason against the Duke."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "High-stakes extortion confronting mortal fear of the gallows"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes an active treason plot against the King's restored Duke and inside council espionage."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP049_05",
+      "start_beat_id": "B022",
+      "end_beat_id": "B025",
+      "start_time": 98.0,
+      "end_time": 124.8,
+      "duration": 26.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B022 opens mid-argument with Catherine posing a defensive rhetorical grievance ('Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?'). There is no prior grounding of what humiliation occurred or what her actual demand is, making it incomprehensible to a cold scroller in the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the dialogue quickly establishes the core stakes: Catherine is enlisting Father Thomas to spy on a hearing against the restored Duke, carrying the penalty of treason/hanging.",
+        "passes_gate": false,
+        "situational_summary": "In a dimly lit hallway, an aggrieved noblewoman attempts to coerce a hesitant priest into committing capital treason by leaking closed-door hearing details against a restored Duke."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Tense political bargaining shadowed by mortal fear"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes Father Thomas's covert conspiracy and treasonous alliance against the restored Duke."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP049_06",
+      "start_beat_id": "B022",
+      "end_beat_id": "B027",
+      "start_time": 98.0,
+      "end_time": 134.5,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Begins on Beat B022 with a mid-conversation rhetorical retort referencing past off-screen church humiliation without establishing the physical setup or immediate stakes within the first 1-3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative throughline is clear: Catherine pressures Father Thomas to spy for her, countering his fear of the gallows with promises of future patronage when she claims her power as Duchess.",
+        "passes_gate": false,
+        "situational_summary": "A desperate noblewoman blackmails and seduces a fearful priest into committing capital treason against a powerful Duke in exchange for future protection and favor."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Lethal seduction and high-stakes political ambition overcoming mortal dread"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Catherine's secret campaign to reclaim power by turning the clergy against the Duke."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP049_07",
+      "start_beat_id": "B023",
+      "end_beat_id": "B031",
+      "start_time": 103.8,
+      "end_time": 144.75,
+      "duration": 40.95,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B023 opens with Father Thomas turning to Catherine with clear, instant exposition of the mortal conflict: 'what happens to me when the Duke finds out a crowned priest conspired against him?'. It immediately establishes who is present, the forbidden conspiracy, and the immediate mortal risk in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip possesses a complete, self-contained dramatic and emotional progression: from terror over treason and hanging, to transactional promises, culminating in a physically intimate and forbidden romantic pact.",
+        "passes_gate": true,
+        "situational_summary": "A terrified priest enters into a treasonous espionage conspiracy with an alluring noblewoman against the Duke, culminating in a forbidden romantic embrace."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Mortal terror melting into dangerous, forbidden romantic intimacy"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the illicit conspiracy and romantic entanglement between Father Thomas and Catherine."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP049_08",
+      "start_beat_id": "B025",
+      "end_beat_id": "B029",
+      "start_time": 118.0,
+      "end_time": 142.8,
+      "duration": 24.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B025 opens on a tight close-up delivering an immediate, high-stakes threat: 'Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.' The mortal danger, hierarchy, and core conflict are instantly clear within the opening seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "A concise, self-contained negotiation: the priest warns of execution, Catherine counter-offers with royal favor and debt collection, and the two cement the conspiracy with a physical handshake.",
+        "passes_gate": true,
+        "situational_summary": "Facing the threat of the gallows for treason against the Duke, a priest agrees to a dangerous secret pact sealed by hand with an ambitious Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Calculated seduction overpowering the terror of execution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Shows the exact moment the conspiracy pact between Father Thomas and Catherine is formalized."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP049_09",
+      "start_beat_id": "B025",
+      "end_beat_id": "B031",
+      "start_time": 118.0,
+      "end_time": 144.75,
+      "duration": 26.75,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B025 opens on an intense tight close-up of a priest/holy man (Father Thomas) immediately establishing high lethal stakes and the core dynamic with direct verbal grounding: 'Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.'",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly develops a high-stakes conspiracy and forbidden pact between Catherine and Father Thomas. The core conflict (treason against the restored Duke) and the mutual transactional/romantic alliance are completely self-contained and legible from the dialogue and physical escalation.",
+        "passes_gate": true,
+        "situational_summary": "A woman seeking to become Duchess secures a dangerous, treasonous conspiracy and forbidden romantic pact with a brooding priest who warns her that careful men still hang."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Seductive political conspiracy intertwined with forbidden, sacrilegious intimacy under lethal stakes"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the secret conspiratorial mechanics and illicit alliance between Catherine and Father Thomas to undermine the King's restored Duke."
+      }
+    }
+  ]
+}

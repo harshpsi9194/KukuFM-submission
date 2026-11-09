@@ -1,0 +1,280 @@
+{
+  "episode_number": 48,
+  "total_candidates": 5,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP048_01",
+      "episode": "Episode 48",
+      "episode_number": 48,
+      "start_beat_id": "B001",
+      "end_beat_id": "B003",
+      "start_time": 0.0,
+      "end_time": 26.7,
+      "duration": 26.7,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Catherine opens with a venomous, high-stakes threat: 'that healer's crown rolls right back into the gutter where it belongs.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Strong atmospheric scroll-stop with an ornate villainess silhouetted in moonlight against castle spires, turning with a cold, venomous smirk.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B003",
+        "curiosity_gap_score": 4,
+        "specific_question": "How does Catherine plan to slam the door on Alexander and overturn his ten-day decree?",
+        "stakes_importance": "High \u2014 establishes Catherine's ruthless ambition and direct threat to Alexander's position.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 48,
+          "start_beat_id": "B001",
+          "end_beat_id": "B003",
+          "start_time": 0.0,
+          "end_time": 26.7,
+          "duration": 26.7,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP048_02",
+      "episode": "Episode 48",
+      "episode_number": 48,
+      "start_beat_id": "B007",
+      "end_beat_id": "B010",
+      "start_time": 34.0,
+      "end_time": 58.2,
+      "duration": 24.2,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes revelation of public humiliation coupled with chilling calculation: 'Grief makes people careless...'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual friction as Catherine advances uncomfortably close and firmly grabs the maid's hands, towering over her in candlelight.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 4,
+        "specific_question": "What corrupt deed did Father Thomas already commit, and what more does Catherine demand of him before the hearing?",
+        "stakes_importance": "High \u2014 implicates a holy man in a corrupt conspiracy to derail an official legal hearing.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 48,
+          "start_beat_id": "B007",
+          "end_beat_id": "B010",
+          "start_time": 34.0,
+          "end_time": 58.2,
+          "duration": 24.2,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP048_03",
+      "episode": "Episode 48",
+      "episode_number": 48,
+      "start_beat_id": "B007",
+      "end_beat_id": "B012",
+      "start_time": 34.0,
+      "end_time": 66.9,
+      "duration": 32.9,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes revelation of public humiliation coupled with chilling calculation: 'Grief makes people careless...'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual friction as Catherine advances uncomfortably close and firmly grabs the maid's hands, towering over her in candlelight.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B012",
+        "curiosity_gap_score": 4,
+        "specific_question": "Can Agnes successfully smuggle Father Thomas into Catherine's chambers under cover of darkness without detection?",
+        "stakes_importance": "High \u2014 a high-risk stealth assignment under implicit threat if Agnes fails.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 48,
+          "start_beat_id": "B007",
+          "end_beat_id": "B012",
+          "start_time": 34.0,
+          "end_time": 66.9,
+          "duration": 32.9,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP048_04",
+      "episode": "Episode 48",
+      "episode_number": 48,
+      "start_beat_id": "B007",
+      "end_beat_id": "B013",
+      "start_time": 34.0,
+      "end_time": 73.5,
+      "duration": 39.5,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes revelation of public humiliation coupled with chilling calculation: 'Grief makes people careless...'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual friction as Catherine advances uncomfortably close and firmly grabs the maid's hands, towering over her in candlelight.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B013",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the bribe buy the priest's silence, and what illicit action will Father Thomas take tonight?",
+        "stakes_importance": "High \u2014 sealing a criminal pact with gold, launching immediate covert action.",
+        "defuses_tension": false,
+        "cliffhanger_type": "hidden_secret",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 48,
+          "start_beat_id": "B007",
+          "end_beat_id": "B013",
+          "start_time": 34.0,
+          "end_time": 73.5,
+          "duration": 39.5,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP048_05",
+      "episode": "Episode 48",
+      "episode_number": 48,
+      "start_beat_id": "B009",
+      "end_beat_id": "B015",
+      "start_time": 46.8,
+      "end_time": 80.0,
+      "duration": 33.2,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Defiant counter-punch reveal: 'I'm not leaving the county, Agnes. I'm going back into that house.'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Close-up on Catherine's painted lips spreading into a smug, venomous smile clearly establishes villainous intent.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B015",
+        "curiosity_gap_score": 4,
+        "specific_question": "What catastrophic ruin is Catherine preparing to unleash upon the household once her covert plan is set in motion?",
+        "stakes_importance": "High \u2014 lingering unresolved malice and impending vengeance before a cut to black.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 48,
+          "start_beat_id": "B009",
+          "end_beat_id": "B015",
+          "start_time": 46.8,
+          "end_time": 80.0,
+          "duration": 33.2,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

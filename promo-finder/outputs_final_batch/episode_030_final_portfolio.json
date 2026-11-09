@@ -1,0 +1,152 @@
+{
+  "episode_number": 30,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP030_12",
+      "absolute_rubric_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B022",
+        "end_beat_id": "B031",
+        "start_time": 94.5,
+        "end_time": 144.5,
+        "duration": 50.0,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.",
+        "opening_character": "ELDER NOBLEMAN",
+        "rationale": "Blatant, ruthless conspiracy to commit judicial murder: 'Do not hide the evidence, manufacture it... buy the jury, and let the State hang her.'"
+      },
+      "cliffhanger": {
+        "final_quote": "Tomorrow, she stops being a prisoner. She becomes a witch.",
+        "final_character": "ELDER NOBLEMAN",
+        "specific_question": "Can Juliana survive when the full weight of the nobility brands her as an executed witch by tomorrow?"
+      },
+      "situational_summary": "A ruthless noble family schemes to frame an innocent woman with fabricated evidence, ending on a chilling vow to brand her a witch and hang her.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP030_05",
+      "absolute_rubric_score": 8.6,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.0943,
+      "max_similarity_to_selected": 0.8208,
+      "boundary": {
+        "start_beat_id": "B017",
+        "end_beat_id": "B022",
+        "start_time": 74.8,
+        "end_time": 101.9,
+        "duration": 27.1,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Give those facts to a magistrate in the right order, and she becomes a poisoner.",
+        "opening_character": "ELDER NOBLEMAN",
+        "rationale": "Outlines a chilling judicial setup: 'Give those facts to a magistrate in the right order, and she becomes a poisoner.'"
+      },
+      "cliffhanger": {
+        "final_quote": "Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.",
+        "final_character": "ELDER NOBLEMAN",
+        "specific_question": "Can anyone stop this bought-and-paid-for trial before the State hangs her tomorrow?"
+      },
+      "situational_summary": "A ruthless nobleman and his cohort scheme to frame an innocent healer for witchcraft and bribe the jury to have her executed by the state.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 2
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP030_10",
+      "rank": 2,
+      "recommended_boundary": "B022 -> B029",
+      "similarity": 0.9358,
+      "duplicate_of": "CAND_EP030_12",
+      "reason": "Exceeded near-duplicate threshold (0.9358 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP030_11",
+      "rank": 3,
+      "recommended_boundary": "B022 -> B030",
+      "similarity": 0.9081,
+      "duplicate_of": "CAND_EP030_12",
+      "reason": "Exceeded near-duplicate threshold (0.9081 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP030_09",
+      "rank": 5,
+      "recommended_boundary": "B022 -> B028",
+      "similarity": 0.9527,
+      "duplicate_of": "CAND_EP030_12",
+      "reason": "Exceeded near-duplicate threshold (0.9527 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP030_08",
+      "rank": 6,
+      "recommended_boundary": "B022 -> B026",
+      "similarity": 0.9007,
+      "duplicate_of": "CAND_EP030_12",
+      "reason": "Exceeded near-duplicate threshold (0.9007 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP030_10",
+      "rank": 2,
+      "recommended_boundary": "B022 -> B029",
+      "similarity": 0.9358,
+      "duplicate_of": "CAND_EP030_12",
+      "reason": "Exceeded near-duplicate threshold (0.9358 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP030_11",
+      "rank": 3,
+      "recommended_boundary": "B022 -> B030",
+      "similarity": 0.9081,
+      "duplicate_of": "CAND_EP030_12",
+      "reason": "Exceeded near-duplicate threshold (0.9081 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP030_09",
+      "rank": 5,
+      "recommended_boundary": "B022 -> B028",
+      "similarity": 0.9527,
+      "duplicate_of": "CAND_EP030_12",
+      "reason": "Exceeded near-duplicate threshold (0.9527 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP030_08",
+      "rank": 6,
+      "recommended_boundary": "B022 -> B026",
+      "similarity": 0.9007,
+      "duplicate_of": "CAND_EP030_12",
+      "reason": "Exceeded near-duplicate threshold (0.9007 >= 0.90)"
+    }
+  ]
+}

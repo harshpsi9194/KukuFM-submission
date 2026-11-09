@@ -1,0 +1,432 @@
+{
+  "episode_number": 44,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Strong low-angle entrance of a stern constable physically barring a nobleman's path at an open stone archway.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Immediate dramatic arrest declaration ('you are under arrest by order of the Crown') establishing urgent legal and high-society stakes.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Imposing medium two-shot showing the constable physically towering over Lord Sterling.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct, indignant verbal challenge to authority ('You have no authority!').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on a nobleman's visibly trembling and indignant expression conveying instant emotional friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Firm, defiant retort asserting legal dominance ('I have more than enough').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High-impact visual insert of black-gloved hands brandishing an official royal wax-sealed dossier.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Desperate, panicking cries for help during physical apprehension ('Get your hands off me! Catherine! Do something!').",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: redcoat soldiers violently forcing a nobleman into the stone dust of a ruined church nave.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tense visual drama with a bride beneath her veil and a tight close-up on her trembling satin-gloved fist.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Massive narrative revelation and emotional rupture ('I thought you had died. Do you know what this did to me?').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Striking wide shot of a bride abandoning her groom to face a stoic figure, followed by glistening tears in close-up.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A brief continuation of grief ('I mourned you') that lacks immediate standalone context without previous lines.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard medium shot of a man standing stoic and detached.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A single plaintive line ('I waited for you') carrying emotional setup rather than an explosive hook.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Profile close-up of a single tear slipping down her cheek provides noticeable emotional friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "High-stakes exposition explaining a three-year presumed death before the entire congregation.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot and over-the-shoulder tracking framing a conversational approach.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Earnest declaration of love ('I never stopped loving you') that functions as romantic melodrama rather than an acute shock.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intimate profile two-shot of a gloved hand tenderly reaching up to touch his face.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Visually arresting physical rejection as Alexander pulls back, leaving her trembling gloved hand suspended mid-air.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Pained question ('You don't remember?') that requires outside context to land.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on stunned hurt and the visible emotional aftermath of rejection.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes confrontation claiming stolen status and broken entitlement ('I was supposed to be your Duchess!').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Expressive high-angle shot framing the distraught bride while her fianc\u00e9 remains pinned under armed guard in the background.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Brutal, relationship-shattering denial delivered with cold finality ('You were never my Duchess.').",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard medium two-shot confrontation between the two characters.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Desperate emotional plea in response to harsh rejection ('But I loved you!').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up capturing raw tearful grief and desperation legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Cutting psychological insult accusing her of opportunism ('You loved the Duke you thought you would marry.').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up on Alexander's stern face with a scarred jaw set in cold judgment.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Single-word protest ('No!') lacking standalone narrative specificity.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a dramatic, gasping physical reaction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Passionate defense of past loyalty ('I loved you before all this!').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Noticeable physical action as she clutches her chest while pouring her heart out.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A chilling two-word challenge ('Did you?') that instantly subverts her entire defense.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intense close-up head-tilt with a piercing, skeptical gaze.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up on her stricken, speechless reaction conveying deep psychological doubt.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximal mute scroll-stopper: tilt-up reveal from heavy iron chains on the floor to the shackled wrists of a woman in rustic attire.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Compelling wide staging: groom turns his back on the ornate bride to march toward a chained woman standing at the doorway.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up focusing on chained hands before the prisoner gently raises her eyes.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Stunned, venomous one-word outcry ('Her?!') conveying utter disbelief and scandal.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up on a bride's horrified, bewildered expression processing an unthinkable romantic replacement.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why is a police constable physically intercepting Lord Sterling at the cathedral entrance?",
+      "stakes_importance": "Low \u2014 establishes an impending confrontation but the nature and gravity of the intervention are not yet revealed.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 4,
+      "specific_question": "What crimes has Lord Sterling committed to warrant an immediate arrest by order of the Crown?",
+      "stakes_importance": "High \u2014 a high-status patriarch faces sudden, ruinous legal disgrace in front of society.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Lord Sterling successfully resist the constable or will the law crush his defiance?",
+      "stakes_importance": "Medium \u2014 active pushback against legal authority escalating the immediate confrontation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 4,
+      "specific_question": "What damning evidence is sealed inside the royal Crown dossier against Lord Sterling?",
+      "stakes_importance": "High \u2014 irrefutable royal backing guarantees catastrophic downfall and unmasking of secrets.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine intervene to save her fianc\u00e9 Rupert, or will she abandon him to the royal guards?",
+      "stakes_importance": "High \u2014 urgent plea for rescue during a violent takedown testing loyalties in public view.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will Catherine decide to do as her groom is pinned to the ground?",
+      "stakes_importance": "Medium \u2014 silent internal conflict signaling an impending rupture or calculated betrayal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the stoic Alexander respond to Catherine turning her back on her fianc\u00e9 to plead with him?",
+      "stakes_importance": "High \u2014 emotional confrontation between a bride and her thought-dead former lover.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Catherine's claims of mourning soften Alexander's cold detachment?",
+      "stakes_importance": "Medium \u2014 emotional pleading versus visible indifference, but part of an ongoing speech.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Catherine convince Alexander that her tears and waiting were sincere?",
+      "stakes_importance": "Medium \u2014 continuation of Catherine's plea seeking vindication.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Alexander react to Catherine publicly declaring three years of enduring love at the aisle?",
+      "stakes_importance": "Medium \u2014 public vulnerability before the entire congregation, building toward a breaking point.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Alexander accept Catherine's tender caress or publicly reject her touch?",
+      "stakes_importance": "High \u2014 suspended physical intimacy suspended at the brink of acceptance or brutal spurning.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Catherine react after Alexander visibly recoils from her touch in front of the assembled guests?",
+      "stakes_importance": "High \u2014 devastating physical and emotional rejection leaving the bride humiliated in mid-gesture.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "Has Alexander genuinely lost his memory of Catherine, or does he despise her?",
+      "stakes_importance": "Medium \u2014 an injured question trying to rationalize a humiliating snub.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Alexander answer Catherine's entitlement and claim to the title of Duchess?",
+      "stakes_importance": "High \u2014 stakes shift from past romantic grief to social status, power, and broken entitlement.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 5,
+      "specific_question": "Why does Alexander claim Catherine was never his Duchess, and who does he recognize instead?",
+      "stakes_importance": "High \u2014 total disavowal of betrothal and legitimacy delivered straight to the bride's face.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Alexander acknowledge Catherine's desperate proclamation of love or dismantle it?",
+      "stakes_importance": "Medium \u2014 raw emotional desperation suspended right before the counter-argument.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine break under Alexander's cutting accusation that she only lusted after his rank and title?",
+      "stakes_importance": "High \u2014 exposes the bride's hollow, mercenary motives in front of the congregation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Catherine defend herself against the accusation of gold-digging?",
+      "stakes_importance": "Low \u2014 reflexive one-word denial mid-exchange, lacking standalone narrative tension.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Catherine convince Alexander that her heart was pure before his wealth and title existed?",
+      "stakes_importance": "Medium \u2014 impassioned emotional plea at the height of confrontation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Catherine answer Alexander's piercing interrogation of her past fidelity?",
+      "stakes_importance": "High \u2014 razor-sharp, two-word cross-examination that exposes her deceit and forces an impossible answer.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "What will Alexander do now that Catherine is silenced and exposed by her own guilt?",
+      "stakes_importance": "High \u2014 total conversational defeat leaving the dynamic poised for a decisive narrative action.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 4,
+      "specific_question": "Who is the woman in chains and rustic rags, and why is she present at this high-society wedding?",
+      "stakes_importance": "High \u2014 shocking visual contrast introducing a mistreated figure whose connection is yet unexplained.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 5,
+      "specific_question": "Why is the Duke walking away from his noble bride to approach a woman standing in chains?",
+      "stakes_importance": "High \u2014 dramatic subversion of high-society expectations, signaling an unprecedented public realignment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the chained Juliana respond as the Duke approaches her?",
+      "stakes_importance": "Medium \u2014 quiet anticipation leading into a major revelation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 5,
+      "specific_question": "Why has Duke Alexander chosen a chained peasant woman over his aristocratic bride, and what will Catherine do in retaliation?",
+      "stakes_importance": "High \u2014 explosive climax of social shock, shattered ego, and total role reversal demanding immediate resolution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

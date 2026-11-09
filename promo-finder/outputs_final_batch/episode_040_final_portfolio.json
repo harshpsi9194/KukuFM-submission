@@ -1,0 +1,113 @@
+{
+  "episode_number": 40,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 3
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP040_03",
+      "absolute_rubric_score": 6.6,
+      "subscores": {
+        "hook_score": 1.4,
+        "tension_score": 1.6,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.5
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B020",
+        "end_beat_id": "B025",
+        "start_time": 82.5,
+        "end_time": 110.08,
+        "duration": 27.58,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "And you look better in silk than you ever did as an ignored cousin.",
+        "final_character": "CATHERINE",
+        "specific_question": "What treachery did this 'ignored cousin' execute to usurp the dukedom and marry Catherine at the altar?"
+      },
+      "situational_summary": "A silhouetted bride in a grand imperial gown walks down the aisle to the altar, exchanging conspiratorial smiles with a groom who rose from being an ignored cousin.",
+      "emotional_salience_score": 3,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP040_04",
+      "absolute_rubric_score": 6.4,
+      "subscores": {
+        "hook_score": 1.3,
+        "tension_score": 1.5,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.5
+      },
+      "mmr_score": -0.0057,
+      "max_similarity_to_selected": 0.8275,
+      "boundary": {
+        "start_beat_id": "B021",
+        "end_beat_id": "B025",
+        "start_time": 85.8,
+        "end_time": 110.08,
+        "duration": 24.28,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "And you look better in silk than you ever did as an ignored cousin.",
+        "final_character": "CATHERINE",
+        "specific_question": "What treachery did this 'ignored cousin' execute to usurp the dukedom and marry Catherine at the altar?"
+      },
+      "situational_summary": "A bride with a cathedral-length veil processes down the aisle to join a proud nobleman at the altar, teasing him about his meteoric rise from ignored cousin.",
+      "emotional_salience_score": 3,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP040_01",
+      "absolute_rubric_score": 6.2,
+      "subscores": {
+        "hook_score": 1.2,
+        "tension_score": 1.4,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.5
+      },
+      "mmr_score": -0.2119,
+      "max_similarity_to_selected": 0.8783,
+      "boundary": {
+        "start_beat_id": "B018",
+        "end_beat_id": "B025",
+        "start_time": 78.5,
+        "end_time": 110.08,
+        "duration": 31.58,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "And you look better in silk than you ever did as an ignored cousin.",
+        "final_character": "CATHERINE",
+        "specific_question": "What treachery did this 'ignored cousin' execute to usurp the dukedom and marry Catherine at the altar?"
+      },
+      "situational_summary": "A radiant bride walks down the cathedral aisle to join her groom at the altar, where their romantic facade turns conspiratorial as she reveals he was once just an ignored cousin.",
+      "emotional_salience_score": 3,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": []
+}

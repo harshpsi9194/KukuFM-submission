@@ -1,0 +1,131 @@
+{
+  "episode_number": 48,
+  "total_scored": 5,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP048_01",
+      "start_beat_id": "B001",
+      "end_beat_id": "B003",
+      "start_time": 0.0,
+      "end_time": 26.7,
+      "duration": 26.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B001 establishes a clear visual tone with an ornate villainess figure in candlelight/moonlight turning with a venomous smirk and immediately declaring her target and intent ('Two words, and that healer's crown rolls right back into the gutter'). The physical atmosphere and interpersonal malice are instantly clear.",
+        "arc_legibility": false,
+        "arc_rationale": "While the monologue establishes Catherine's villainous plotting against 'Alexander', it operates entirely as ungrounded exposition regarding an abstract 'ten-day decree' and an unseen 'healer's crown' without a visible antagonist, victim, or direct scene conflict for a cold scroller.",
+        "passes_gate": false,
+        "situational_summary": "A scheming noblewoman monologues alone by candlelight about overturning a ten-day decree and stripping a healer of their crown."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Sinister aristocratic plotting and calculated vendetta"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Catherine's secret counter-strategy against Alexander's ten-day council timeline."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP048_02",
+      "start_beat_id": "B007",
+      "end_beat_id": "B010",
+      "start_time": 34.0,
+      "end_time": 58.2,
+      "duration": 24.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 opens on a clear, physically grounded confrontation: Catherine towering over Agnes, clutching both of her hands in candlelight while delivering the immediate framing ('Everyone in that chapel saw me humiliated today'). The power dynamic and emotional setting are legible instantly.",
+        "arc_legibility": true,
+        "arc_rationale": "The scene provides a clear two-person dynamic of mistress and anxious servant, establishing that Catherine suffered a public downfall, refuses to flee the Duke's bailiffs, and is using a corrupt priest to secretly strike back before an upcoming hearing.",
+        "passes_gate": true,
+        "situational_summary": "Following a public humiliation in the chapel, an unyielding noblewoman defies the Duke's blockade and orders her servant to help her conspire with a compromised priest."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Defiant thirst for revenge after public disgrace"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes Catherine's refusal to flee the county and reveals Father Thomas is an active conspirator in her plot."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP048_03",
+      "start_beat_id": "B007",
+      "end_beat_id": "B012",
+      "start_time": 34.0,
+      "end_time": 66.9,
+      "duration": 32.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 grounds the viewer immediately with a two-shot of Catherine clutching Agnes's hands in candlelight, clearly setting up the mistress-servant dynamic and the context of recent public humiliation.",
+        "arc_legibility": true,
+        "arc_rationale": "Extends the confrontation through Agnes's explicit fear of detection ('If someone sees him come to you...') and Catherine's ruthless command ('Then no one sees him'), making the stakes, conspiratorial tension, and interpersonal conflict fully self-contained.",
+        "passes_gate": true,
+        "situational_summary": "After suffering public humiliation, a noblewoman refuses to flee and ruthlessly commands her fearful maid to sneak a corrupt priest into her quarters undetected."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Intense conspiratorial defiance and ruthless command over a terrified subordinate"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses that Catherine is defying the Duke's road blockade to conduct covert night meetings with Father Thomas."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP048_04",
+      "start_beat_id": "B007",
+      "end_beat_id": "B013",
+      "start_time": 34.0,
+      "end_time": 73.5,
+      "duration": 39.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 provides an immediate physical anchor with Catherine grasping Agnes's hands in candlelight and stating that she was publicly humiliated in the chapel today.",
+        "arc_legibility": true,
+        "arc_rationale": "Presents a complete, gripping narrative unit: Catherine establishes her refusal to run, plans to manipulate the aftermath of her disgrace, overrides Agnes's terror, and seals the conspiracy by passing a heavy pouch of bribe gold to summon the corrupt priest tonight.",
+        "passes_gate": true,
+        "situational_summary": "Refusing to flee following her public disgrace, a scheming noblewoman hands her terrified maid a heavy purse of gold to summon a corrupt priest under cover of darkness."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cold, indomitable defiance backed by active bribery and covert retaliation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the active bribery and clandestine midnight meeting with Father Thomas to subvert the upcoming hearing."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP048_05",
+      "start_beat_id": "B009",
+      "end_beat_id": "B015",
+      "start_time": 46.8,
+      "end_time": 80.0,
+      "duration": 33.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B009 opens on a tight close-up of Catherine speaking directly to an unseen Agnes about 'leaving the county' and 'going back into that house.' Without establishing the physical space, Agnes's presence, or the stakes of 'that house,' a cold scroller is dropped mid-conversation without immediate visual grounding or context.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the dynamic becomes clear: a determined mistress/schemer pays off a nervous servant to covertly summon a corrupt priest before an upcoming hearing. The power hierarchy and illicit conspiracy are self-contained.",
+        "passes_gate": false,
+        "situational_summary": "A defiant schemer bribes her nervous maid with gold to secretly summon a priest into her quarters before a looming hearing."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 3,
+        "emotional_core": "Calculated conspiracy and tense, defiant posturing"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the covert mechanics of Catherine's conspiracy involving Father Thomas and the bribe ahead of the hearing."
+      }
+    }
+  ]
+}

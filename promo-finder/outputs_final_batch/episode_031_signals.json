@@ -1,0 +1,687 @@
+{
+  "episode_number": 31,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Iron-studded dungeon door unbolting with ominous lighting creates solid curiosity and atmospheric genre setup.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Immediate high visual drama: chained heroine in torn clothes recoiling in terror against damp dungeon stones.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"Look at you\" provides brief dismissive taunting but lacks standalone narrative stakes.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Striking scroll-stopper: aristocratic villainess in ornate gown holding a red-hot smoldering poker flanked by dungeon guards.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle close-up of heroine's gaze hardening; subtle character beat without sudden motion or spectacle.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct sarcastic invocation of title ('The great Lady Juliana Ashcroft') highlights fallen nobility confrontation.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up bathed in orange glow of red-hot branding iron with a malicious smile carries strong visual menace.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "\"Chained in a dungeon like a common criminal\" delivers an immediate, high-stakes status shock.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Over-the-shoulder wide shot showing nobility looming over a shackled prisoner clearly readable on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"You seem very pleased\" is quiet defiance rather than an immediate auditory hook.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard close-up of heroine with unshed tears, lacking explosive physical movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Monosyllabic agreement (\"I am\") offers zero standalone narrative context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle framing of antagonist towering with glowing poker presents clear physical threat.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "\"Because this is what you were always meant to be\" is a venomous character insult establishing subjugation.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of white-hot poker radiating heat against blurred predatory face is an arresting scroll-stopper.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Expositional dialogue recounting family background without immediate urgency.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Over-the-shoulder shot presenting singed, charred pages of a book introduces a physical prop of conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Haughty laughter paired with \"And still you became a disgrace\" delivers sharp verbal hostility.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Standard close-up of antagonist laughing arrogantly.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp moral retort (\"I became a disgrace when I refused to become cruel\") showcases fierce verbal pushback.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Tight close-up on fierce gaze without physical action or dramatic props.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Explosive relationship reveal: \"Gerald left you standing at the altar\" instantly hooks scrollers on wedding betrayal drama.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Insert cut to bare, chained feet locked in iron manacles reinforces brutal captivity on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "\"Everyone saw you. Everyone watched him chose Clarisse\" hits with public humiliation and specific romantic rivalry.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Floor-level perspective looking up at antagonist leaning in to torment the heroine.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "\"And everyone watched you walk away alone\" underlines public rejection and heartbreak.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of red-hot iron sizzling over damp stone with rising steam creates visceral tension.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-impact rhythmic three-line clapback: \"Gerald chose money... Clarissa chose a coward... I chose myself.\"",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Slow push-in close-up on heroine's face; dignified but standard framing.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "\"You chose a beggar\" is a direct, class-based insult that sparks immediate curiosity.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Reaction close-up of face tightening in disgust.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"I chose a man\" is punchy dialogue but lacks high-stakes standalone clarity out of context.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle shot lifting chin with pride.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"A scarred nobody\" delivers a derogatory barb but lacks full narrative stakes on its own.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard medium shot of antagonist sneering down.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Assertive verbal defiance attacking the corrupt nobility above the dungeon.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of prisoner sitting quietly with hands in lap.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"You call that marriage?\" raises doubt about an unconventional union.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium close-up positioning the smoldering iron directly between both characters.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"I call it love\" is a sentimental one-liner without immediate urgency.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Extreme close-up on heroine's eyes; visually pretty but passive.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Taunting contrast of romantic ideals against dungeon imprisonment.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Dynamic high-angle overhead view down ceiling iron grating into dungeon shaft looking past the glowing poker.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Conversational challenge about moral superiority.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard close-up of antagonist's curling lip.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "\"Cruelty certainly doesn't make you better than me\" delivers a sharp moral condemnation.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static close-up of heroine talking calmly.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "\"I have beauty, money, family, status! What do you have?\" outlines sharp trope-driven conflict.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot with theatrical arm gesture flaunting opulent gown.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"Knowledge. Love. And people who need me\" is righteous comeback dialogue with moderate punch.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Static close-up of serene facial expression.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "\"[scoffs] Peasants? People?\" provides class contempt but low standalone context.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight framing on gloved hands holding the mother's partially burned botanical volume.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "\"Women like me are meant to be admired. Women like you are meant to serve\" establishes stark social hierarchy conflict.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Antagonist slowly pacing while holding a charred book.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "\"Then why are you so desperate to make me kneel?\" delivers a stinging psychological blow.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Antagonist's smug face visibly freezing in shock and fury as the retort lands.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "\"If you were truly powerful, Catherine, you wouldn't need me to bow\" offers commanding verbal defiance.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle medium shot of speaking heroine in dungeon chamber.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Furious, loud interruption (\"Enough!\") instantly breaks conversational tempo.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of aristocratic composure completely shattering into unhinged rage.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "High-impact visual action: red-hot poker scorching into delicate book pages with rising white smoke.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Cruel revelation targeted at destroying the victim's only keepsake of her deceased mother.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Smoldering, smoking book thrust directly into heroine's face in a two-shot.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Desperate gasping plea (\"Give it back!\") creates immediate emotional distress.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Extreme close-up of weeping heroine straining frantically against iron chains; fully legible emotional agony on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sadistic confirmation (\"Finally. Something still hurts you\") establishes pure villain cruelty.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle shot of villainess grinning down in sadistic triumph.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Visceral, desperate scream of anguish (\"No!\") captures auditory attention immediately.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Intense emotional close-up capturing raw grief and desperation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B038",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "\"One flame, and your mother's life's work becomes ash\" presents an immediate lethal threat to a cherished relic.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Glowing branding tip driving into the book spine as burning embers visibly eat away the pages.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B039",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Maximum scroll-stopper: red-hot glowing iron suddenly swung directly into the heroine's face, halting inches from her eyes.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B040",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Extreme macro close-up of trembling eye with fiery orange branding iron reflected in the pupil; unforgettable mute visual.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who or what is entering the dungeon cell?",
+      "stakes_importance": "Low \u2014 establishes an ominous entrance and location, but specific character stakes have not yet been introduced.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unexpected_arrival",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 3,
+      "specific_question": "Who has arrived to confront the chained and terrified Juliana?",
+      "stakes_importance": "Medium \u2014 establishes severe physical peril and protagonist victimization, inviting curiosity about her tormentor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "What does Catherine intend to do with the red-hot poker and Juliana's book?",
+      "stakes_importance": "Medium \u2014 establishes the antagonist's sadistic dominance and introduces weapons of torture.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana defy or plead with Catherine?",
+      "stakes_importance": "Low \u2014 brief reaction shot showing growing resolve without an immediate high-stakes provocation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Catherine mock Juliana's fallen noble title?",
+      "stakes_importance": "Low \u2014 standard villain taunt setting up the social contrast.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Juliana respond to Catherine's gloating over her imprisonment?",
+      "stakes_importance": "Low \u2014 verbal taunt reinforcing Juliana's degradation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Catherine escalate her cruelty in response to Juliana's quiet defiance?",
+      "stakes_importance": "Low \u2014 early verbal parry without decisive consequences.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "What punishment will Catherine inflict to prove her sadistic pleasure?",
+      "stakes_importance": "Low \u2014 affirmative confirmation of malice, but tension remains conversational.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Catherine immediately use the white-hot branding iron on Juliana?",
+      "stakes_importance": "Medium \u2014 tight visual focus on the scalding weapon heightens physical danger and impending violence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 2,
+      "specific_question": "What flaw or failure will Catherine accuse Juliana of next?",
+      "stakes_importance": "Low \u2014 background exposition about Juliana's upbringing and family expectations.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Juliana defend her honor against being labeled a disgrace?",
+      "stakes_importance": "Low \u2014 routine aristocratic insult.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Catherine retaliate after Juliana sharply condemns her cruelty?",
+      "stakes_importance": "Medium \u2014 sharp moral reversal showcasing protagonist defiance under duress.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Juliana handle the painful reminder of Gerald abandoning her at the altar?",
+      "stakes_importance": "Medium \u2014 weaponizes Juliana's core public trauma and romantic betrayal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana endure the reopened wound of Gerald choosing Clarisse before the whole society?",
+      "stakes_importance": "Medium \u2014 reinforces public humiliation and high emotional vulnerability.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana break down in tears or stand strong as Catherine rubs in her solitary humiliation?",
+      "stakes_importance": "High \u2014 psychological pressure point paired with the threatening physical proximity of scalding iron.",
+      "defuses_tension": false,
+      "cliffhanger_type": "betrayal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Catherine crush Juliana's proud declaration that she chose herself over a cowardly marriage?",
+      "stakes_importance": "High \u2014 a stirring protagonist assertion of dignity that directly provokes the villain's wrath.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 3,
+      "specific_question": "Who is the 'beggar' Juliana chose, and will she defend him?",
+      "stakes_importance": "Medium \u2014 introduces mystery and social friction regarding Juliana's chosen partner.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 3,
+      "specific_question": "What makes this man worthy of Juliana's fierce loyalty over high society?",
+      "stakes_importance": "Medium \u2014 sharp defense of romantic love over class status.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 3,
+      "specific_question": "Who is the 'scarred nobody' Juliana risked everything to marry?",
+      "stakes_importance": "Medium \u2014 highlights curiosity surrounding the mysterious husband's true identity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Catherine respond to Juliana stating her scarred outcast husband has more honor than nobility?",
+      "stakes_importance": "Medium \u2014 bold attack against the aristocracy while imprisoned.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana defend the legitimacy of her impoverished marriage?",
+      "stakes_importance": "Low \u2014 transitional dialogue question.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Catherine dismantle Juliana's idealistic belief in love?",
+      "stakes_importance": "Medium \u2014 emotional declaration of love contrasting with dungeon shackles.",
+      "defuses_tension": false,
+      "cliffhanger_type": "romantic_uncertainty",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana's unflinching gaze past the hot poker provoke Catherine into violent retribution?",
+      "stakes_importance": "High \u2014 striking visual standoff where the captive completely refuses to submit to terror.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Juliana challenge Catherine's arrogance of superiority?",
+      "stakes_importance": "Low \u2014 indignant verbal volley setting up a rebuttal.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Catherine react to Juliana's lethal remark that cruelty does not equal superiority?",
+      "stakes_importance": "Medium \u2014 cutting verbal blow striking Catherine's ego.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 2,
+      "specific_question": "What intangible strength does Juliana have left while locked in chains?",
+      "stakes_importance": "Low \u2014 listing aristocratic assets before Juliana's counter.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's claim to knowledge and loyalty protect her from physical destruction?",
+      "stakes_importance": "Medium \u2014 ideological standoff between elitism and moral virtue.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Catherine destroy the botanical book to mock Juliana's devotion to peasants?",
+      "stakes_importance": "Low \u2014 introduction of the heirloom book into active contention.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can Juliana silence Catherine's haughty lecture on women destined to serve?",
+      "stakes_importance": "Low \u2014 antagonistic pacing and ideological posturing.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will Catherine lash out now that Juliana exposed her deep insecurity about demanding submission?",
+      "stakes_importance": "High \u2014 Catherine's facade breaks into shocked fury as Juliana turns the psychological power dynamic upside down.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine resort to immediate physical violence to force Juliana to bow?",
+      "stakes_importance": "High \u2014 decisive psychological triumph by Juliana that invites dangerous violent backlash.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 4,
+      "specific_question": "What violent act will Catherine commit now that her control has completely shattered?",
+      "stakes_importance": "High \u2014 peak emotional snap from the antagonist signaling imminent retribution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can Juliana save her mother's burning book before it is permanently destroyed?",
+      "stakes_importance": "High \u2014 direct destruction of the protagonist's most precious and irreplaceable possession.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine incinerate Juliana's final keepsake right in front of her eyes?",
+      "stakes_importance": "High \u2014 sadistic psychological cruelty exploiting the protagonist's emotional Achilles' heel.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana's desperate pleading save her mother's book from being burned?",
+      "stakes_importance": "High \u2014 the protagonist's stoic armor completely shatters into raw, desperate panic.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 4,
+      "specific_question": "How far will Catherine go now that she has discovered the one thing that breaks Juliana?",
+      "stakes_importance": "High \u2014 antagonist seizes maximum leverage to torment the protagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 4,
+      "specific_question": "Is Juliana's mother's life work lost forever, or will someone intervene?",
+      "stakes_importance": "High \u2014 visceral climax of anguish and irrevocable loss.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B038",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine ignite the entire book into ashes, or use it to force Juliana to kneel?",
+      "stakes_importance": "High \u2014 imminent total destruction of irreplaceable family heritage.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B039",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Catherine burn Juliana's face with the glowing iron poker stopping inches from her eyes?",
+      "stakes_importance": "High \u2014 life-altering physical maiming and excruciating torture suspended mid-motion.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B040",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana be permanently blinded and disfigured by Catherine's branding iron?",
+      "stakes_importance": "High \u2014 supreme vertical microdrama cliffhanger cutting at the razor edge of permanent physical disfigurement.",
+      "defuses_tension": false,
+      "cliffhanger_type": "imminent_action",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

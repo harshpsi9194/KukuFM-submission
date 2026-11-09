@@ -1,0 +1,161 @@
+{
+  "episode_number": 41,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP041_04",
+      "absolute_rubric_score": 9.4,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B006",
+        "end_beat_id": "B017",
+        "start_time": 15.5,
+        "end_time": 60.8,
+        "duration": 45.3,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "You needed an entire chapel to feel powerful over one chained woman?",
+        "final_character": "JULIANA",
+        "specific_question": "How will Catherine and the congregation react to a chained prisoner openly mocking the bride's cowardice?"
+      },
+      "situational_summary": "A chained woman marched into a packed cathedral for public humiliation turns the tables by mocking her aristocratic rival for needing an entire congregation to feel powerful.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP041_10",
+      "absolute_rubric_score": 9.1,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.5,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.1135,
+      "max_similarity_to_selected": 0.7955,
+      "boundary": {
+        "start_beat_id": "B014",
+        "end_beat_id": "B024",
+        "start_time": 39.8,
+        "end_time": 88.5,
+        "duration": 48.7,
+        "composite_cleanliness": 4.5
+      },
+      "hook": {
+        "opening_quote": "Lady Juliana Ashcroft. Look around.",
+        "opening_character": "CATHERINE",
+        "rationale": "Public call-out and humiliation line ('This is the world you thought you belonged to') directly strikes at the protagonist's identity."
+      },
+      "cliffhanger": {
+        "final_quote": "None (Visual Cliffhanger)",
+        "final_character": null,
+        "specific_question": "Who just bombed the cathedral, and are they here to execute everyone or rescue Juliana?"
+      },
+      "situational_summary": "As a captive noblewoman is forced to watch her rivals wed at the altar, a catastrophic explosion demolishes the cathedral doors just as the vows begin.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 3
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP041_05",
+      "rank": 3,
+      "recommended_boundary": "B006 -> B018",
+      "similarity": 0.9458,
+      "duplicate_of": "CAND_EP041_04",
+      "reason": "Exceeded near-duplicate threshold (0.9458 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP041_03",
+      "rank": 4,
+      "recommended_boundary": "B006 -> B015",
+      "similarity": 0.949,
+      "duplicate_of": "CAND_EP041_04",
+      "reason": "Exceeded near-duplicate threshold (0.9490 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP041_02",
+      "rank": 5,
+      "recommended_boundary": "B006 -> B014",
+      "similarity": 0.9552,
+      "duplicate_of": "CAND_EP041_04",
+      "reason": "Exceeded near-duplicate threshold (0.9552 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP041_06",
+      "rank": 7,
+      "recommended_boundary": "B006 -> B021",
+      "similarity": 0.9035,
+      "duplicate_of": "CAND_EP041_04",
+      "reason": "Exceeded near-duplicate threshold (0.9035 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP041_05",
+      "rank": 3,
+      "recommended_boundary": "B006 -> B018",
+      "similarity": 0.9458,
+      "duplicate_of": "CAND_EP041_04",
+      "reason": "Exceeded near-duplicate threshold (0.9458 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP041_03",
+      "rank": 4,
+      "recommended_boundary": "B006 -> B015",
+      "similarity": 0.949,
+      "duplicate_of": "CAND_EP041_04",
+      "reason": "Exceeded near-duplicate threshold (0.9490 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP041_02",
+      "rank": 5,
+      "recommended_boundary": "B006 -> B014",
+      "similarity": 0.9552,
+      "duplicate_of": "CAND_EP041_04",
+      "reason": "Exceeded near-duplicate threshold (0.9552 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP041_09",
+      "rank": 6,
+      "recommended_boundary": "B014 -> B022",
+      "similarity": 0.9515,
+      "duplicate_of": "CAND_EP041_10",
+      "reason": "Exceeded near-duplicate threshold (0.9515 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP041_06",
+      "rank": 7,
+      "recommended_boundary": "B006 -> B021",
+      "similarity": 0.9035,
+      "duplicate_of": "CAND_EP041_04",
+      "reason": "Exceeded near-duplicate threshold (0.9035 >= 0.90)"
+    }
+  ]
+}

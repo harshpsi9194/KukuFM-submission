@@ -1,0 +1,900 @@
+{
+  "episode_number": 42,
+  "total_candidates": 14,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP042_01",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 21.5,
+      "duration": 21.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Massive scroll-stopper: low-angle tilt through drifting smoke and rubble as an imposing, scarred nobleman steps through a pulverized doorway.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will the guards obey Rupert's command to seize and execute the intruder?",
+        "stakes_importance": "High \u2014 immediate threat of physical arrest and escalation of violence.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B001",
+          "end_beat_id": "B006",
+          "start_time": 0.0,
+          "end_time": 21.5,
+          "duration": 21.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_02",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 23.4,
+      "duration": 23.4,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Massive scroll-stopper: low-angle tilt through drifting smoke and rubble as an imposing, scarred nobleman steps through a pulverized doorway.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 5,
+        "specific_question": "Why are the royal guards committing outright mutiny against Rupert?",
+        "stakes_importance": "High \u2014 massive power shift and public insubordination, upending Rupert's authority.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B001",
+          "end_beat_id": "B007",
+          "start_time": 0.0,
+          "end_time": 23.4,
+          "duration": 23.4,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_03",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B001",
+      "end_beat_id": "B008",
+      "start_time": 0.0,
+      "end_time": 26.5,
+      "duration": 26.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Massive scroll-stopper: low-angle tilt through drifting smoke and rubble as an imposing, scarred nobleman steps through a pulverized doorway.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 4,
+        "specific_question": "How will the guards justify defying Rupert's explicit orders?",
+        "stakes_importance": "High \u2014 Rupert's public breakdown under loss of institutional control.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B001",
+          "end_beat_id": "B008",
+          "start_time": 0.0,
+          "end_time": 26.5,
+          "duration": 26.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_04",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B001",
+      "end_beat_id": "B009",
+      "start_time": 0.0,
+      "end_time": 28.8,
+      "duration": 28.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Massive scroll-stopper: low-angle tilt through drifting smoke and rubble as an imposing, scarred nobleman steps through a pulverized doorway.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B009",
+        "curiosity_gap_score": 5,
+        "specific_question": "Who do the royal guards recognize him as, and what authority does he carry over them?",
+        "stakes_importance": "High \u2014 electric suspense teasing an elite, legitimate status that supersedes Rupert.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B001",
+          "end_beat_id": "B009",
+          "start_time": 0.0,
+          "end_time": 28.8,
+          "duration": 28.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_05",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B001",
+      "end_beat_id": "B011",
+      "start_time": 0.0,
+      "end_time": 33.8,
+      "duration": 33.8,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Massive scroll-stopper: low-angle tilt through drifting smoke and rubble as an imposing, scarred nobleman steps through a pulverized doorway.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 5,
+        "specific_question": "How did Alexander survive the supposed death Rupert capitalized upon?",
+        "stakes_importance": "High \u2014 shock revelation that Rupert built his entire life and title on a fatal deception.",
+        "defuses_tension": false,
+        "cliffhanger_type": "unanswered_revelation",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B001",
+          "end_beat_id": "B011",
+          "start_time": 0.0,
+          "end_time": 33.8,
+          "duration": 33.8,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_06",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B001",
+      "end_beat_id": "B012",
+      "start_time": 0.0,
+      "end_time": 39.9,
+      "duration": 39.9,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 5,
+        "visual_hook_rationale": "Massive scroll-stopper: low-angle tilt through drifting smoke and rubble as an imposing, scarred nobleman steps through a pulverized doorway.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B012",
+        "curiosity_gap_score": 4,
+        "specific_question": "What evidence or retribution will Alexander deliver to dismantle Rupert's lie?",
+        "stakes_importance": "High \u2014 protagonist confronts the villain with irrefutable proof of his survival.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B001",
+          "end_beat_id": "B012",
+          "start_time": 0.0,
+          "end_time": 39.9,
+          "duration": 39.9,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_07",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B004",
+      "end_beat_id": "B018",
+      "start_time": 14.6,
+      "end_time": 72.5,
+      "duration": 57.9,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 1,
+        "dialogue_hook_rationale": "Only an emotional utterance of a character's name with minimal standalone exposition.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama: close-up of a weeping woman in manacles clutching her smock immediately signals captive distress on mute.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court, Rupert, and the guards react now that the true Duke of Ashburn is publicly proclaimed?",
+        "stakes_importance": "High \u2014 public, undeniable legitimacy proclamation stripping Rupert of his usurpation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B004",
+          "end_beat_id": "B018",
+          "start_time": 14.6,
+          "end_time": 72.5,
+          "duration": 57.9,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_08",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B006",
+      "end_beat_id": "B018",
+      "start_time": 17.9,
+      "end_time": 72.5,
+      "duration": 54.6,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-urgency command ('Guards! Arrest this imposter!') instantly establishes an explosive public confrontation.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Active visual friction with Rupert descending the altar steps while furiously pointing toward the intruder.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court, Rupert, and the guards react now that the true Duke of Ashburn is publicly proclaimed?",
+        "stakes_importance": "High \u2014 public, undeniable legitimacy proclamation stripping Rupert of his usurpation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B006",
+          "end_beat_id": "B018",
+          "start_time": 17.9,
+          "end_time": 72.5,
+          "duration": 54.6,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_09",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B007",
+      "end_beat_id": "B018",
+      "start_time": 21.5,
+      "end_time": 72.5,
+      "duration": 51.0,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Shocking act of open insubordination ('We will not') from an armed guard.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Striking standoff visual with a royal guardsman rigidly resting a gloved hand on his sabre.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court, Rupert, and the guards react now that the true Duke of Ashburn is publicly proclaimed?",
+        "stakes_importance": "High \u2014 public, undeniable legitimacy proclamation stripping Rupert of his usurpation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B007",
+          "end_beat_id": "B018",
+          "start_time": 21.5,
+          "end_time": 72.5,
+          "duration": 51.0,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_10",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B008",
+      "end_beat_id": "B018",
+      "start_time": 23.4,
+      "end_time": 72.5,
+      "duration": 49.1,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Direct panicked confrontation and repeated orders ('I said arrest him! Why?!') conveying immediate unraveling authority.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama: tight close-up of neck veins bulging as Rupert's composure visibly shatters.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court, Rupert, and the guards react now that the true Duke of Ashburn is publicly proclaimed?",
+        "stakes_importance": "High \u2014 public, undeniable legitimacy proclamation stripping Rupert of his usurpation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B008",
+          "end_beat_id": "B018",
+          "start_time": 23.4,
+          "end_time": 72.5,
+          "duration": 49.1,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_11",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B009",
+      "end_beat_id": "B018",
+      "start_time": 26.5,
+      "end_time": 72.5,
+      "duration": 46.0,
+      "hook_signal": {
+        "beat_id": "B009",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Clear defiance and dramatic reveal setup ('Because we know who he is').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High-tension visual of the royal guard holding an upright drawn blade with rigid conviction.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court, Rupert, and the guards react now that the true Duke of Ashburn is publicly proclaimed?",
+        "stakes_importance": "High \u2014 public, undeniable legitimacy proclamation stripping Rupert of his usurpation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B009",
+          "end_beat_id": "B018",
+          "start_time": 26.5,
+          "end_time": 72.5,
+          "duration": 46.0,
+          "beat_ids": [
+            "B009",
+            "B010",
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B009",
+        "B010",
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_12",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B011",
+      "end_beat_id": "B018",
+      "start_time": 30.4,
+      "end_time": 72.5,
+      "duration": 42.1,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive reveal: 'You cannot be him. Alexander died!' instantly exposes a resurrection/identity mystery to the cold scroller.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama: close-up of a trembling nobleman clutching a pew with wild, terrified eyes.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court, Rupert, and the guards react now that the true Duke of Ashburn is publicly proclaimed?",
+        "stakes_importance": "High \u2014 public, undeniable legitimacy proclamation stripping Rupert of his usurpation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B011",
+          "end_beat_id": "B018",
+          "start_time": 30.4,
+          "end_time": 72.5,
+          "duration": 42.1,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_13",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B011",
+      "end_beat_id": "B020",
+      "start_time": 30.4,
+      "end_time": 77.8,
+      "duration": 47.4,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 5,
+        "dialogue_hook_rationale": "Explosive reveal: 'You cannot be him. Alexander died!' instantly exposes a resurrection/identity mystery to the cold scroller.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama: close-up of a trembling nobleman clutching a pew with wild, terrified eyes.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B020",
+        "curiosity_gap_score": 5,
+        "specific_question": "Will Alexander draw his sabre and execute Rupert right on the cathedral altar steps?",
+        "stakes_importance": "High \u2014 ultimate promo cliffhanger ending on an explicit promise of retribution with weapon in hand.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B011",
+          "end_beat_id": "B020",
+          "start_time": 30.4,
+          "end_time": 77.8,
+          "duration": 47.4,
+          "beat_ids": [
+            "B011",
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018",
+            "B019",
+            "B020"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011",
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018",
+        "B019",
+        "B020"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP042_14",
+      "episode": "Episode 42",
+      "episode_number": 42,
+      "start_beat_id": "B012",
+      "end_beat_id": "B018",
+      "start_time": 33.8,
+      "end_time": 72.5,
+      "duration": 38.7,
+      "hook_signal": {
+        "beat_id": "B012",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "Sharp, commanding accusation ('And yet, here I stand. That is the lie you built your life upon.').",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Cinematic tracking shot behind an imposing figure advancing down the nave of a ruined cathedral.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B018",
+        "curiosity_gap_score": 5,
+        "specific_question": "How will the court, Rupert, and the guards react now that the true Duke of Ashburn is publicly proclaimed?",
+        "stakes_importance": "High \u2014 public, undeniable legitimacy proclamation stripping Rupert of his usurpation.",
+        "defuses_tension": false,
+        "cliffhanger_type": "identity_reveal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 42,
+          "start_beat_id": "B012",
+          "end_beat_id": "B018",
+          "start_time": 33.8,
+          "end_time": 72.5,
+          "duration": 38.7,
+          "beat_ids": [
+            "B012",
+            "B013",
+            "B014",
+            "B015",
+            "B016",
+            "B017",
+            "B018"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B012",
+        "B013",
+        "B014",
+        "B015",
+        "B016",
+        "B017",
+        "B018"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

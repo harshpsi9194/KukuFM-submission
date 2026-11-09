@@ -1,0 +1,606 @@
+{
+  "episode_number": 33,
+  "total_scored": 24,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP033_01",
+      "start_beat_id": "B018",
+      "end_beat_id": "B021",
+      "start_time": 64.2,
+      "end_time": 84.8,
+      "duration": 20.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 immediately establishes the power dynamic and stakes in under 3 seconds: an extreme close-up of a ruthless nobleman delivering a life-or-death ultimatum to a weeping maid begging for a seven-year-old child's life.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: a tyrannical lord coerces a powerless servant into providing false testimony about witchcraft/occult actions around a sickbed in exchange for sparing a young boy.",
+        "passes_gate": true,
+        "situational_summary": "A ruthless nobleman blackmails a terrified maid with the imprisonment of a seven-year-old child to coerce her into testifying that a woman cast an occult circle around a sickbed."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Brutal institutional coercion and desperate maternal terror"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the conspiracy mechanics of the Lord framing Juliana for occult practices through coerced false testimony."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_02",
+      "start_beat_id": "B018",
+      "end_beat_id": "B023",
+      "start_time": 64.2,
+      "end_time": 94.8,
+      "duration": 30.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 immediately establishes the power dynamic and stakes in under 3 seconds: an extreme close-up of a ruthless nobleman delivering a life-or-death ultimatum to a weeping maid begging for a seven-year-old child's life.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is clear and self-contained: the Lord pressures the maid to twist an innocent medicinal act (placing dried herbs) into incriminating evidence of an occult circle.",
+        "passes_gate": true,
+        "situational_summary": "Under threat of sending a child to gaol, a weeping servant is forced by a callous lord to admit an arrangement of herbs formed a suspicious circle."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Claustrophobic psychological manipulation and coerced betrayal"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals how the antagonist manufactures a witchcraft accusation by twisting medicinal herb placement into an occult circle."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_03",
+      "start_beat_id": "B018",
+      "end_beat_id": "B026",
+      "start_time": 64.2,
+      "end_time": 104.2,
+      "duration": 40.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 immediately establishes the power dynamic and stakes in under 3 seconds: an extreme close-up of a ruthless nobleman delivering a life-or-death ultimatum to a weeping maid begging for a seven-year-old child's life.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative trajectory is fully self-contained, escalating beat-by-beat as the Lord methodically traps the cornered maid into validating each element of a fabricated dark incantation ritual.",
+        "passes_gate": true,
+        "situational_summary": "A callous lord corners a terrified servant, systematically extracting forced admissions to frame a woman for reciting forbidden incantations."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Relentless psychological entrapment and impending judicial execution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Details the full manufactured evidence scheme (herbs, mother's book, unintelligible words) used to frame Juliana for sorcery."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_04",
+      "start_beat_id": "B018",
+      "end_beat_id": "B027",
+      "start_time": 64.2,
+      "end_time": 107.5,
+      "duration": 43.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 immediately establishes the power dynamic and stakes in under 3 seconds: an extreme close-up of a ruthless nobleman delivering a life-or-death ultimatum to a weeping maid begging for a seven-year-old child's life.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely legible high-stakes interrogation where the antagonist frames benevolent prayer/healing as occult sorcery, ending on the maid's desperate, agonized defense.",
+        "passes_gate": true,
+        "situational_summary": "Blackmailed with a young boy's imprisonment, a maid is coerced into framing a woman for witchcraft until she breaks down crying that the woman was only praying."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Devastating moral anguish clashing against tyrannical extortion"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the core frame-up conspiracy and Juliana's innocent defense (prayer vs. incantation)."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_05",
+      "start_beat_id": "B018",
+      "end_beat_id": "B028",
+      "start_time": 64.2,
+      "end_time": 111.8,
+      "duration": 47.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 immediately establishes the power dynamic with an extreme close-up of a ruthless lord issuing a direct threat to send a boy to gaol, matched by a sobbing maid begging for a seven-year-old.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is self-contained: a lord coercively interrogates a servant to twist an innocent healing prayer into testimony of dark witchcraft.",
+        "passes_gate": true,
+        "situational_summary": "A ruthless lord blackmails a terrified maid with her seven-year-old brother's imprisonment to force her into falsely testifying that a woman's healing prayers were dark witchcraft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate maternal terror coerced under sadistic, predatory interrogation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the villain's tactical conspiracy to manufacture witchcraft charges against the female lead."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_06",
+      "start_beat_id": "B018",
+      "end_beat_id": "B029",
+      "start_time": 64.2,
+      "end_time": 113.8,
+      "duration": 49.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 immediately establishes the power dynamic with an extreme close-up of a ruthless lord issuing a direct threat to send a boy to gaol, matched by a sobbing maid begging for a seven-year-old.",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative trajectory is fully self-contained, progressing from an initial life-or-death threat through forced manipulation until the maid breaks down completely under duress.",
+        "passes_gate": true,
+        "situational_summary": "A ruthless lord leverages the life of a young boy to browbeat a weeping maid into admitting she cannot distinguish a prayer from an unholy chant."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate maternal terror coerced under sadistic, predatory interrogation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the villain's interrogation method and the maid cracking to provide incriminating ambiguity."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_07",
+      "start_beat_id": "B018",
+      "end_beat_id": "B030",
+      "start_time": 64.2,
+      "end_time": 119.5,
+      "duration": 55.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 immediately establishes the power dynamic with an extreme close-up of a ruthless lord issuing a direct threat to send a boy to gaol, matched by a sobbing maid begging for a seven-year-old.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and highly legible: shows the lord systematically extracting concessions and summarizing them into a fabricated legal indictment.",
+        "passes_gate": true,
+        "situational_summary": "A powerful lord blackmails a helpless maid to extract coerced statements, reframing innocent herbs and prayer into evidence of a forbidden ritual."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold systemic entrapment grinding down a helpless servant"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Demonstrates the formal legal framing of witchcraft charges engineered by the lord."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_08",
+      "start_beat_id": "B018",
+      "end_beat_id": "B031",
+      "start_time": 64.2,
+      "end_time": 123.5,
+      "duration": 59.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 immediately establishes the power dynamic with an extreme close-up of a ruthless lord issuing a direct threat to send a boy to gaol, matched by a sobbing maid begging for a seven-year-old.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc demonstrates the complete legal synthesis of coerced testimony, cleanly understandable without prior context.",
+        "passes_gate": true,
+        "situational_summary": "Using the threat of imprisoning a seven-year-old child, a lord forces a sobbing servant to validate a three-part indictment of witchcraft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold systemic entrapment grinding down a helpless servant"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Lays out the explicit points of the fabricated witchcraft accusation framing the protagonist."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_09",
+      "start_beat_id": "B020",
+      "end_beat_id": "B032",
+      "start_time": 75.5,
+      "end_time": 126.8,
+      "duration": 51.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B020 opens on a tight close-up of a weeping maid exclaiming an ungrounded, mid-sentence plea ('What do you want me to say?!'). Without prior context, a cold scroller cannot tell who she is talking to, what the setting is, or what accusation is taking place.",
+        "arc_legibility": true,
+        "arc_rationale": "Over the full clip, the dynamic becomes crystal clear: a calculating lord coerces a terrified maid into twisting an innocent healing act into evidence of witchcraft.",
+        "passes_gate": false,
+        "situational_summary": "A ruthless lord interrogates a weeping servant to coerce a false testimony of witchcraft against a woman who performed a healing ritual."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Chilling psychological coercion and predatory legal entrapment"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the villain's tactical conspiracy to frame the heroine for witchcraft using manipulated witness testimony."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_10",
+      "start_beat_id": "B023",
+      "end_beat_id": "B032",
+      "start_time": 89.0,
+      "end_time": 126.8,
+      "duration": 37.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B023 establishes the physical relationship and power dynamic immediately: a medium close-up shows the Lord looming over the maid's shoulder, whispering an insidious question ('Like a circle?') and extracting a terrified 'Yes.'",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-contained: the Lord systematically leads the witness from dried herbs to forbidden books, culminating in a lethal accusation of witchcraft.",
+        "passes_gate": true,
+        "situational_summary": "A menacing lord corners a weeping servant and twists her testimony to manufacture an accusation of witchcraft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Sinister, escalating interrogation ending in a devastating mortal threat"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the orchestrated framing of the heroine for witchcraft."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_11",
+      "start_beat_id": "B025",
+      "end_beat_id": "B032",
+      "start_time": 98.5,
+      "end_time": 126.8,
+      "duration": 28.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B025 opens on an isolated extreme close-up of quivering lips saying only 'Yes.' It is completely ungrounded, lacks physical establishment, and functions purely as a continuation of an unseen prior question.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent beats clearly lay out the Lord's interrogation trap and the concluding charge of witchcraft.",
+        "passes_gate": false,
+        "situational_summary": "A terrified servant is manipulated by a sinister nobleman into affirming details that he defines as witchcraft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Predatory interrogation and cold legal condemnation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the concocted witchcraft accusation plot point."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_12",
+      "start_beat_id": "B025",
+      "end_beat_id": "B033",
+      "start_time": 98.5,
+      "end_time": 131.8,
+      "duration": 33.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B025 begins mid-conversation with an extreme close-up of quivering lips uttering 'Yes.' Without the preceding question, a cold viewer has no physical anchor or situational clarity.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict between the Lord's framing and the maid's defense ('She saved Toby! She made him breathe again!') makes the stakes and moral injustice immediately apparent across the arc.",
+        "passes_gate": false,
+        "situational_summary": "After a lord twists a servant's words into an accusation of witchcraft, the servant desperately pleads that the forbidden act actually saved a dying boy's life."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cold tyrannical entrapment clashing against desperate moral plea"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals both the witchcraft conspiracy and the fact that the heroine saved Toby's life."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_13",
+      "start_beat_id": "B025",
+      "end_beat_id": "B034",
+      "start_time": 98.5,
+      "end_time": 134.5,
+      "duration": 36.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B025 opens on a mid-interrogation surrender ('Yes.') on an extreme close-up of a maid's crying face without establishing who she is speaking to, where they are, or what accusation she is agreeing to. Requires retrospective context to understand.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly develops into a ruthless lord coercing a weeping maid into falsely testifying that a healer's life-saving act was witchcraft.",
+        "passes_gate": false,
+        "situational_summary": "A sinister lord psychologically coerces a distraught maid into framing a woman who saved a child for witchcraft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cruel institutional coercion versus desperate moral resistance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the Lord's conspiracy mechanics to frame Juliana for witchcraft using coerced testimony."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_14",
+      "start_beat_id": "B027",
+      "end_beat_id": "B035",
+      "start_time": 104.2,
+      "end_time": 137.8,
+      "duration": 33.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B027 begins abruptly on an ungrounded, reactive defense ('She was praying!') in close-up without showing who is being addressed, who 'she' refers to, or the physical room/power dynamic.",
+        "arc_legibility": true,
+        "arc_rationale": "The full dialogue establishes the core conflict: the Lord reframes a healing miracle as dark magic and forces the terrified maid to be the star witness.",
+        "passes_gate": false,
+        "situational_summary": "A corrupt lord twists a maid's defense of a healer into fabricated testimony to secure a witchcraft conviction."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate plea crushed under cold legal manipulation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the Lord's strategy to subvert the healing of Toby into legal grounds for a witch trial."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_15",
+      "start_beat_id": "B027",
+      "end_beat_id": "B036",
+      "start_time": 104.2,
+      "end_time": 140.5,
+      "duration": 36.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B027 starts mid-argument on a close-up cry ('She was praying!') with no established setting, physical grounding, or clear visual introduction of the antagonist.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is cleanly self-contained: the Lord builds a pre-fabricated case of witchcraft out of medicinal herbs and orders the maid to testify before the magistrate.",
+        "passes_gate": false,
+        "situational_summary": "A ruthless lord blackmails a maid into giving sworn testimony before the magistrate that a woman who saved a child is a witch."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Impending legal peril and weaponized false witness"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Details the upcoming magistrate trial and the fabricated evidence being orchestrated."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_16",
+      "start_beat_id": "B027",
+      "end_beat_id": "B038",
+      "start_time": 104.2,
+      "end_time": 149.2,
+      "duration": 45.0,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B027 opens in media res with an emotionally heightened exclamation ('She was praying!') on a close-up, lacking an establishing visual anchor or immediate clarity on the physical situation.",
+        "arc_legibility": true,
+        "arc_rationale": "The scene completely articulates the conspiracy: the Lord explicitly reveals he has already written the false narrative that will condemn the healer at trial.",
+        "passes_gate": false,
+        "situational_summary": "A calculating lord traps a sobbing maid into signing onto an already-written conspiracy to condemn an innocent healer for witchcraft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Chilling premeditated entrapment and utter helplessness against power"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the full premeditated conspiracy to manufacture a witch trial before the magistrate."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_17",
+      "start_beat_id": "B028",
+      "end_beat_id": "B038",
+      "start_time": 107.5,
+      "end_time": 149.2,
+      "duration": 41.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B028 opens on a tight close-up of a man grinning sinisterly asking 'Praying... or chanting?' without establishing the physical environment, the presence of the maid, or the context of the interrogation. A cold scroller lacks visual grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "The overall scene clearly establishes a powerful lord coercing a weeping maid into giving false testimony of witchcraft against a woman who supposedly saved a boy's life.",
+        "passes_gate": false,
+        "situational_summary": "A ruthless lord blackmails a distraught maid into testifying that a healer committed capital witchcraft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe legal intimidation and moral coercion of a powerless servant"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the villain's conspiracy mechanism to frame Juliana for witchcraft using coerced witness testimony."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_18",
+      "start_beat_id": "B030",
+      "end_beat_id": "B038",
+      "start_time": 113.8,
+      "end_time": 149.2,
+      "duration": 35.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B030 starts on a clear medium shot of the Lord pacing deliberately and pointing his finger with legal precision, dictating forbidden acts ('draw a circle of herbs', 'forbidden book'), instantly establishing authority, setting, and an accusatory interrogation.",
+        "arc_legibility": true,
+        "arc_rationale": "Self-contained and complete dramatic progression: the Lord dictates fabricated charges, the maid objects that the accused saved a child, and the Lord forces her to be his witness before the magistrate.",
+        "passes_gate": true,
+        "situational_summary": "A calculating nobleman coerces a terrified maid into serving as the star witness in a fabricated witchcraft trial against a woman who saved a life."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Ruthless institutional framing crushing an innocent defender's conscience"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the conspiracy mechanics behind the upcoming witchcraft trial before the magistrate."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_19",
+      "start_beat_id": "B032",
+      "end_beat_id": "B037",
+      "start_time": 123.5,
+      "end_time": 144.8,
+      "duration": 21.3,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B032 opens abruptly on an extreme close-up of a mouth saying 'That is witchcraft' without showing the room, the listener, or what 'that' refers to, violating opening physical and interpersonal grounding.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict between the scheming Lord and the protesting maid over fabricated charges is understandable across the remainder of the clip, though cut off mid-scene.",
+        "passes_gate": false,
+        "situational_summary": "A lord declares an act to be witchcraft and traps a weeping maid into delivering false testimony to the magistrate."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate plea against tyrannical manipulation"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the Lord's scheme to frame an innocent healer for witchcraft."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_20",
+      "start_beat_id": "B032",
+      "end_beat_id": "B038",
+      "start_time": 123.5,
+      "end_time": 149.2,
+      "duration": 25.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B032 begins on an extreme close-up of a mouth pronouncing 'That is witchcraft' without establishing physical space, interpersonal setting, or referent for a cold viewer.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip articulates a complete micro-conflict where the Lord twists a healing act into witchcraft and forces the maid to testify under a pre-scripted false narrative.",
+        "passes_gate": false,
+        "situational_summary": "A lord brands a life-saving act as witchcraft and informs a horrified maid that she will deliver a pre-fabricated confession before the magistrate."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold, calculated tyranny overpowering desperate loyalty"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the conspiracy blueprint and forced testimony that will drive the witchcraft trial."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_21",
+      "start_beat_id": "B032",
+      "end_beat_id": "B039",
+      "start_time": 123.5,
+      "end_time": 152.2,
+      "duration": 28.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 opens on an extreme close-up of a calculating Lord delivering the definitive capital accusation 'That is witchcraft.', instantly establishing the antagonist, authority dynamic, and lethal stakes within 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained: the Lord forces a weeping maid to falsely testify against someone who saved her brother under threat of legal framing, presenting clear antagonist and victim roles.",
+        "passes_gate": true,
+        "situational_summary": "A ruthless lord blackmails a desperate maid into providing false testimony that a healer committed witchcraft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe coercion and moral anguish of being framed into betraying a savior"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the Lord's conspiracy mechanism to fabricate witchcraft charges using the coerced maid."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_22",
+      "start_beat_id": "B032",
+      "end_beat_id": "B040",
+      "start_time": 123.5,
+      "end_time": 156.2,
+      "duration": 32.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B032 opens with an extreme close-up of the Lord delivering the lethal pronouncement 'That is witchcraft.', providing an immediate, high-stakes visual and verbal hook that grounds the scene.",
+        "arc_legibility": true,
+        "arc_rationale": "The dynamic and stakes are entirely lucid: the Lord manipulates and traps the maid into perjuring herself to save her own brother from harm.",
+        "passes_gate": true,
+        "situational_summary": "A calculating lord blackmails a weeping maid into giving false testimony against a savior in exchange for her brother's life."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Lethal ultimatum forcing a gut-wrenching choice between perjury and a brother's life"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Exposes the orchestrated conspiracy to frame Juliana for witchcraft and the coercive leverage used on the maid."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_23",
+      "start_beat_id": "B033",
+      "end_beat_id": "B040",
+      "start_time": 126.8,
+      "end_time": 156.2,
+      "duration": 29.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B033 begins mid-argument on a reactive plea ('No! She saved Toby! She made him breathe again!') without establishing the preceding accusation or physical setting for a cold scroller.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full duration, the dialogue and action clearly convey that the Lord is forcing the maid to falsely accuse her brother's savior of witchcraft.",
+        "passes_gate": false,
+        "situational_summary": "A panicked maid pleads with a lord before being coerced into framing a healer for witchcraft to protect her brother."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Desperate plea crushed by cold bureaucratic blackmail"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses the Lord's plotted frame-job against Juliana using the maid's coerced testimony."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP033_24",
+      "start_beat_id": "B034",
+      "end_beat_id": "B040",
+      "start_time": 131.8,
+      "end_time": 156.2,
+      "duration": 24.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B034 opens on a close-up mid-exchange with the decontextualized line 'That will be your testimony.', lacking an establishing visual anchor or immediate explanation of what testimony is being referred to.",
+        "arc_legibility": true,
+        "arc_rationale": "Subsequent beats clarify that the Lord is compelling the maid to testify before the magistrate that a healing act was witchcraft.",
+        "passes_gate": false,
+        "situational_summary": "A powerful lord orders a devastated maid to testify falsely against a woman who saved her brother."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold legal intimidation forcing moral compromise"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the Lord's scheme to manipulate magistrate testimony and frame the healer."
+      }
+    }
+  ]
+}

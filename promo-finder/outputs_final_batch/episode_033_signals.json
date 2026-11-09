@@ -1,0 +1,704 @@
+{
+  "episode_number": 33,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "The opening line 'Your brother is breathing again' hints at a life-or-death crisis, but the exchange quickly settles into polite master-servant compliance.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Atmospheric wide framing of an aristocratic library with a trembling maid curtsying establishes period status difference without immediate physical conflict.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A measured investigative question ('And who saved him?') that sets up exposition rather than delivering an instant verbal shock.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of the Lord at his desk offering cold scrutiny, portraying tension but standard conversational staging.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "The maid simply states a character's name ('Lady Juliana') with low standalone narrative stakes for an uninformed viewer.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on an anxious, innocent face displays vulnerability but lacks urgent visual action or shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A brief command to explain ('Tell me how.') providing mild interrogative setup.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up insert of a Lord rotating a heavy gold signet ring conveys aristocratic control and subtle menace.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A hesitant, stammering answer about herbs ('She... she used herbs.') that sets up premise without sudden conflict.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium close-up of the maid nervously wringing her apron demonstrates visible anxiety without high physical drama.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A sharp, probing question ('What herbs?') that accelerates an interrogation but lacks standalone punch.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "The Lord abruptly leans forward with a piercing, predatory gaze, introducing direct physical intimidation legible on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "A generic defensive evasion ('I don't know.') offering no standalone hook value.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a frightened servant shrinking backward in fear clearly communicates unequal power and coercion without sound.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A firm accusatory statement ('You watched her.') that heightens interrogative pressure.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle framing looking up at the imposing Lord physically towering over the girl emphasizes imminent peril.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "An emotional defense of an ally ('I watched her save him.') establishing active moral pushback against authority.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of tears glistening on the maid's cheeks as she stands her ground conveys clear emotional friction.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A dismissive rebuke ('That is not what I asked.') showing conversational dominance.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "A tracking shot of the Lord turning away toward a window provides moody pacing rather than immediate visual hook power.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "The question 'Did she use her mother's book?' introduces illicit, forbidden secrets into the interrogation.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium two-shot framing the maid from behind as the Lord steps back with commanding stillness shows controlled authority.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single-word affirmative admission ('Yes.') carrying minimal dialogue hook value in isolation.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of the trembling maid with tears spilling down her face makes intense distress instantly readable without audio.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct trap questioning ('Did she prepare things no physician had prescribed?') suggests taboo, dangerous occult medicine.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up on the Lord's sinister, unyielding face conveys dark intent within standard talking-head framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A solitary confession ('Yes.') that relies entirely on prior context.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium shot of the maid clutching her hands tightly overwhelmed with guilt displays clear distress but moderate framing.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A suggestive question about illicit rites ('And did she perform anything unusual?') building suspense.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tight close-up of the Lord's mouth curling into a sinister, predatory smile delivers instant villain signaling on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A frantic single-word denial ('No!') conveying desperation but lacking narrative specifics.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of the maid gasping and shaking her head vigorously in acute panic provides strong scroll-stopping body language.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A chilling veiled threat pointing out vulnerability ('Think carefully. Your brother is still a pauper.').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Profile two-shot of the Lord looming inches from the maid's face creates tight physical intimidation legible on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "A ruthless life-or-death ultimatum ('One word from me, and the county gaol will take him before sunrise') met with a desperate maternal/sisterly plea ('he is only seven!').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of a chilling, hawkish interrogator intercut with a maid clutching her chest, weeping and gasping in sheer terror.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A manipulative, predatory command ('Then help him.') that twists her family loyalty into forced compliance.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of the Lord staring down pitilessly reinforces villainy but remains visually static.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A visceral cry of total helplessness ('What do you want me to say?!') signaling complete psychological breakdown.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of a cornered, weeping young maid completely broken under interrogation commands immediate empathy on scroll.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "The leading accusation 'She drew something around the bed, did she not?' explicitly introduces suspicious ritualistic practices.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Wide shot of the study framing the calm Lord standing over the trembling servant establishes contrasting physical power.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A tearful factual description of herbs being laid out ('She... placed dried herbs around him.') lacking an immediate shock line.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of the maid visibly stammering through streams of tears communicates acute emotional stress.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "The Lord sinisterly traps her into admitting ritual imagery with 'Like a circle?' drawing a coerced 'Yes.'",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Medium close-up of the Lord looming over her shoulder whispering insidious words into her ear like an evil phantom.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A sinister leading sentence ('And she opened her mother's book...') coaxing out evidence of witchcraft.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Over-the-shoulder framing leaning directly into her ear emphasizes invasive coercion and predator-prey dynamics.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A single terrified surrender ('Yes.') carrying minimal dialogue hook value by itself.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up on tear-drenched eyes and trembling lips provides an intense, highly emotive scroll-stopping visual.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A dark accusation of incantations ('...and spoke words you could not understand.') framing innocent prayer as sorcery.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of the Lord springing the final trap delivers narrative focus without exaggerated physical movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A desperate cry defending her savior ('She was praying!') against sinister insinuations of dark magic.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of the maid gasping in desperate agony presents strong emotive distress legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A razor-sharp twist of phrasing ('Praying... or chanting?') that weaponizes words into capital heresy.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of the Lord grinning in sinister triumph delivers explicit, recognizable villainy instantly without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "A broken, frantic admission of ignorance ('I don't know!') expressing defeat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of the maid suffering a total emotional breakdown provides compelling human vulnerability on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A chilling legal indictment summarizing fabricated guilt ('You saw a woman draw a circle of herbs... use a forbidden book.').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium shot of the Lord pacing and pointing his finger with clinical, legal precision makes the prosecutorial trap obvious visually.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A stern continuation of the charge ('You heard words you could not understand.') tightening the snare.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Profile close-up of the Lord leaning in directly before the weeping maid accentuates severe intimidation.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "The sudden, lethal pronouncement 'That is witchcraft' introduces an explosive capital crime that completely shifts the stakes.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of calculating eyes and mouth uttering a death sentence creates an arresting, high-tension opening image.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Fervent, panicked rejection of the witch accusation ('No! She saved Toby! She made him breathe again!') delivering raw emotional shock.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Medium two-shot as the maid steps forward and desperately pleads against his chest, breaking status decorum through raw physical contact.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "The chilling administrative command 'That will be your testimony' confirms she is being forced into legal betrayal.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of the Lord calmly dismissing her resistance conveys stoic cruelty in standard portrait framing.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "A shocked echo of comprehension ('My testimony?!') revealing the horror of her entrapment.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of the maid's face frozen in horrified realization clearly signals an unexpected narrative twist on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "The grim declaration 'Before the magistrate' immediately sets public trial and execution stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Close-up of the Lord delivering the ultimatum without blinking projects cold certainty.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "An agonized vocal scream of resistance ('I never said she was a witch!') against forced false testimony.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of the maid clutching both sides of her head and screaming in grief and guilt provides dramatic, unmissable scroll-stopping agony.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B038",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "The brutal, arrogant confession 'You do not need to. I have already written the story for you' reveals a ruthless framing conspiracy.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Medium tracking shot of the Lord turning his back and walking to his desk shows detached confidence without violent visual motion.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B039",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "The desperate plea 'She saved my brother...' signals deep moral conflict and personal debt under duress.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "An emotional close-up of a weeping maid clutching her cheeks communicates intense distress and heartbreak clearly without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B040",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "A sinister, manipulative closing ultimatum ('And now... you will save your brother') sealing her coercion into framing her benefactor.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of the Lord turning back, resting one hand on the desk with cold finality, delivers commanding authority to cap the scene.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B041",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "A devastating apology ('I am sorry, Lady Juliana...') paired with the cold dismissal ('Save your tears for the trial') establishes a high-stakes betrayal and impending legal doom.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "The physical collapse of the maid groveling prostrate on the dark wood floor beneath a high-angle shot provides an immediate, visceral scroll-stopping image of total defeat.",
+      "is_strong_hook": true
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 1,
+      "specific_question": "Why is the Lord questioning the maid about her brother?",
+      "stakes_importance": "Low \u2014 opening scene setting up the premise; stakes have not yet been established.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "Who was responsible for saving the brother's life?",
+      "stakes_importance": "Low \u2014 simple expository setup question.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why does the Lord care that Lady Juliana saved the boy?",
+      "stakes_importance": "Medium \u2014 introduces the protagonist into the inquiry, but tension is still low.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "What method did Juliana use to revive the boy?",
+      "stakes_importance": "Low \u2014 procedural inquiry without imminent danger.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 1,
+      "specific_question": "What kinds of herbs were used?",
+      "stakes_importance": "Low \u2014 mundane detail.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "Why is the Lord so intensely fixated on the specific herbs used?",
+      "stakes_importance": "Medium \u2014 hints at an underlying sinister motive behind the questioning.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 1,
+      "specific_question": "How will the Lord react to the maid's ignorance?",
+      "stakes_importance": "Low \u2014 minor friction in an interrogation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will the Lord intimidate the maid into revealing more?",
+      "stakes_importance": "Medium \u2014 power dynamic is intensifying.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "Can the maid's defense of Juliana persuade the Lord to drop the inquiry?",
+      "stakes_importance": "Medium \u2014 emotional defense of the savior.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 2,
+      "specific_question": "What is the Lord actually searching for if not the boy's recovery?",
+      "stakes_importance": "Medium \u2014 signals that the Lord has a hidden agenda.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 3,
+      "specific_question": "What forbidden secrets are contained in Juliana's mother's book?",
+      "stakes_importance": "Medium \u2014 introduces a specific incriminating artifact.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will the maid's admission about the book be used against Juliana?",
+      "stakes_importance": "Medium \u2014 the maid confirms a damaging piece of evidence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the maid admit Juliana administered unauthorized remedies?",
+      "stakes_importance": "Medium \u2014 tightens the legal and social net around Juliana.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "What further trap will the Lord spring now that unauthorized treatment is admitted?",
+      "stakes_importance": "Medium \u2014 the maid's guilt deepens as she is forced to betray Juliana.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "What dark act did Juliana perform that the Lord is smiling about?",
+      "stakes_importance": "High \u2014 predatory smile signals a sinister breakthrough in his interrogation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the maid's desperate denial protect Juliana from the Lord's trap?",
+      "stakes_importance": "Medium \u2014 maid makes a panicked attempt to halt the interrogation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 4,
+      "specific_question": "What cruel leverage will the Lord exert over the helpless pauper brother?",
+      "stakes_importance": "High \u2014 direct shift from interrogation to predatory blackmail.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will the Lord actually throw a sick seven-year-old child into gaol if the maid refuses to cooperate?",
+      "stakes_importance": "High \u2014 ruthless extortion threatening a child's life to force a false confession.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "What terrible concession will the maid be forced to make to save her little brother?",
+      "stakes_importance": "High \u2014 brutal ultimatum leaving the victim trapped with zero pity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 4,
+      "specific_question": "What fabricated testimony will the Lord demand from the broken maid?",
+      "stakes_importance": "High \u2014 total surrender of the witness under psychological duress.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the maid falsely confirm that Juliana cast an occult circle around the sickbed?",
+      "stakes_importance": "High \u2014 the Lord begins actively feeding her the elements of a witchcraft accusation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will the maid's nuanced clarification prevent the Lord from framing Juliana?",
+      "stakes_importance": "Medium \u2014 maid attempts to soften the accusation without outright defying the Lord.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 4,
+      "specific_question": "How will the Lord twist the innocent circle of dried herbs into proof of the occult?",
+      "stakes_importance": "High \u2014 insidious coercion turning an innocent cure into sinister evidence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 3,
+      "specific_question": "What incriminating detail will the Lord attach to the mother's book next?",
+      "stakes_importance": "Medium \u2014 mid-sentence leading question building the frame-up.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 3,
+      "specific_question": "What is the final piece of the trap that will seal Juliana's fate?",
+      "stakes_importance": "Medium \u2014 suspense builds as the maid yields on each leading prompt.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the maid falsely confirm that Juliana spoke incantations?",
+      "stakes_importance": "High \u2014 the direct invocation of incantations/spellcraft.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can the maid convince the Lord Juliana was merely praying, or will her words be weaponized?",
+      "stakes_importance": "High \u2014 desperate attempt to defend Juliana's innocence against religious prosecution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the maid crack and affirm that Juliana's prayers were dark chants?",
+      "stakes_importance": "High \u2014 binary trap designed to turn an act of mercy into a capital crime.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 4,
+      "specific_question": "What will the Lord do now that the maid has broken down into helpless confusion?",
+      "stakes_importance": "High \u2014 the witness is completely compromised and vulnerable to manipulation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 4,
+      "specific_question": "What lethal charge is the Lord synthesizing from these twisted facts?",
+      "stakes_importance": "High \u2014 clinical, systematic assembly of a criminal case against the protagonist.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 4,
+      "specific_question": "What is the final, fatal conclusion the Lord is about to utter?",
+      "stakes_importance": "High \u2014 moment right before the hammer falls on the criminal charge.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana be executed or burned for witchcraft after saving a dying child?",
+      "stakes_importance": "High \u2014 catastrophic shock accusation carrying a death sentence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can the maid's passionate physical pleading stop the Lord's sinister conspiracy?",
+      "stakes_importance": "High \u2014 visceral struggle of innocence against ruthless power.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the maid really be forced onto the witness stand to condemn Juliana?",
+      "stakes_importance": "High \u2014 cements the maid's coerced role in Juliana's impending downfall.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 4,
+      "specific_question": "How can the maid escape being forced into public perjury against her savior?",
+      "stakes_importance": "High \u2014 horror of realizing she is being used as a lethal pawn.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Juliana survive a trial for witchcraft before the county magistrate?",
+      "stakes_importance": "High \u2014 formalization of judicial persecution with irreversible stakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the maid choose her conscience and protect Juliana, or succumb to the terror?",
+      "stakes_importance": "High \u2014 peak emotional crisis of guilt and horror.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B038",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Juliana defend herself against a pre-fabricated witch trial conspiracy?",
+      "stakes_importance": "High \u2014 reveals the Lord's calculated, premeditated conspiracy to destroy Juliana.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B039",
+      "curiosity_gap_score": 4,
+      "specific_question": "Can the maid find any way to repay Juliana for saving Toby without sacrificing him?",
+      "stakes_importance": "High \u2014 gut-wrenching emotional debt directly colliding with filial survival.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B040",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will the maid commit deadly perjury to save her brother, condemning Lady Juliana to death for witchcraft?",
+      "stakes_importance": "High \u2014 ultimate moral dilemma and ultimatum pitting a brother's life against the savior's execution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B041",
+      "curiosity_gap_score": 2,
+      "specific_question": "What will happen at Lady Juliana's trial when the maid gives false testimony?",
+      "stakes_importance": "Low \u2014 while the coming trial has stakes, the immediate confrontation defuses into weeping, resignation, and a slow fade to black, resolving the acute dramatic peak.",
+      "defuses_tension": true,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    }
+  ]
+}

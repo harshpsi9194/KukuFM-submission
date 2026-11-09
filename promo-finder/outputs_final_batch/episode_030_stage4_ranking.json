@@ -1,0 +1,102 @@
+{
+  "episode_number": 30,
+  "total_ranked": 6,
+  "rankings": [
+    {
+      "candidate_id": "CAND_EP030_12",
+      "absolute_score": 9.5,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.4
+      },
+      "rank_justification": "Exceptional narrative build beginning with brazen judicial bribery and escalating without lull to an extreme close-up predatory decree branding the protagonist a witch. The final beat delivers a chilling, high-stakes curiosity gap guaranteed to stop cold swiping viewers.",
+      "duration": 50.0,
+      "start_beat_id": "B022",
+      "end_beat_id": "B031",
+      "emotional_salience_score": 5,
+      "rank": 1
+    },
+    {
+      "candidate_id": "CAND_EP030_10",
+      "absolute_score": 9.1,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.3
+      },
+      "rank_justification": "Combines a ferocious cold opening on manufactured state execution with escalating sadistic conspiracy, capped by Catherine spreading her red fan in gleeful anticipation of the noose. The stark visual exit punctuation and visceral cruelty deliver top-tier emotional resonance for cold viewers.",
+      "duration": 39.0,
+      "start_beat_id": "B022",
+      "end_beat_id": "B029",
+      "emotional_salience_score": 4,
+      "rank": 2
+    },
+    {
+      "candidate_id": "CAND_EP030_11",
+      "absolute_score": 8.7,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.0
+      },
+      "rank_justification": "Explosive opening statement transitions into a steady moral descent culminating in Rupert physically taking the desk to author the fraudulent death warrant. Cuts precisely on the point of active complicity, driving strong curiosity about whether the trap can be averted.",
+      "duration": 42.3,
+      "start_beat_id": "B022",
+      "end_beat_id": "B030",
+      "emotional_salience_score": 4,
+      "rank": 3
+    },
+    {
+      "candidate_id": "CAND_EP030_05",
+      "absolute_score": 8.6,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 2.2,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.1
+      },
+      "rank_justification": "Opens with an arresting legal conspiracy line that escalates rapidly through capital punishment stakes to an explosive exit decree to buy the jury and hang her. While the opening is dialogue-led rather than visual shock, the closing rupture creates an urgent cold-viewer hook.",
+      "duration": 27.1,
+      "start_beat_id": "B017",
+      "end_beat_id": "B022",
+      "emotional_salience_score": 4,
+      "rank": 4
+    },
+    {
+      "candidate_id": "CAND_EP030_09",
+      "absolute_score": 7.6,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 1.8,
+        "cliffhanger_score": 1.7,
+        "resonance_score": 1.7
+      },
+      "rank_justification": "Leverages an electrifying opening declaration of judicial corruption and maintains steady plot progression toward the trial timeline. However, the final line delivers matter-of-fact logistical scheduling rather than an unresolvable spike of personal peril.",
+      "duration": 30.6,
+      "start_beat_id": "B022",
+      "end_beat_id": "B028",
+      "emotional_salience_score": 4,
+      "rank": 5
+    },
+    {
+      "candidate_id": "CAND_EP030_08",
+      "absolute_score": 6.8,
+      "subscores": {
+        "hook_score": 2.4,
+        "tension_score": 1.7,
+        "cliffhanger_score": 1.2,
+        "resonance_score": 1.5
+      },
+      "rank_justification": "Starts with maximum visceral impact ordering manufactured evidence and jury tampering, but tension plateaus across conversational ledger exposition. The closing beat defuses momentum into a rationalizing dismissal about the Dowager rather than cutting on a sharp cliffhanger.",
+      "duration": 22.3,
+      "start_beat_id": "B022",
+      "end_beat_id": "B026",
+      "emotional_salience_score": 4,
+      "rank": 6
+    }
+  ]
+}

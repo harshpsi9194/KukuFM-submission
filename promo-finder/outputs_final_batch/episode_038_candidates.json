@@ -1,0 +1,536 @@
+{
+  "episode_number": 38,
+  "total_candidates": 10,
+  "candidates": [
+    {
+      "candidate_id": "CAND_EP038_01",
+      "episode": "Episode 38",
+      "episode_number": 38,
+      "start_beat_id": "B001",
+      "end_beat_id": "B006",
+      "start_time": 0.0,
+      "end_time": 39.5,
+      "duration": 39.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama and instant genre legibility: slumped heroine in iron shackles on a dark dungeon floor reacts with alarm to approaching footsteps.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B006",
+        "curiosity_gap_score": 3,
+        "specific_question": "Where is Alexander, and is he still alive or also captured?",
+        "stakes_importance": "Medium \u2014 introduces the core emotional relationship and stakes of the separated protagonists.",
+        "defuses_tension": false,
+        "cliffhanger_type": "romantic_uncertainty",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 38,
+          "start_beat_id": "B001",
+          "end_beat_id": "B006",
+          "start_time": 0.0,
+          "end_time": 39.5,
+          "duration": 39.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP038_02",
+      "episode": "Episode 38",
+      "episode_number": 38,
+      "start_beat_id": "B001",
+      "end_beat_id": "B007",
+      "start_time": 0.0,
+      "end_time": 45.5,
+      "duration": 45.5,
+      "hook_signal": {
+        "beat_id": "B001",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "High visual drama and instant genre legibility: slumped heroine in iron shackles on a dark dungeon floor reacts with alarm to approaching footsteps.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 4,
+        "specific_question": "Does Alexander know Juliana has been condemned to death, or has he been deceived by her captors?",
+        "stakes_importance": "High \u2014 establishes that Juliana has been falsely or unjustly condemned without her husband's knowledge.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 38,
+          "start_beat_id": "B001",
+          "end_beat_id": "B007",
+          "start_time": 0.0,
+          "end_time": 45.5,
+          "duration": 45.5,
+          "beat_ids": [
+            "B001",
+            "B002",
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B001",
+        "B002",
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP038_03",
+      "episode": "Episode 38",
+      "episode_number": 38,
+      "start_beat_id": "B003",
+      "end_beat_id": "B007",
+      "start_time": 11.0,
+      "end_time": 45.5,
+      "duration": 34.5,
+      "hook_signal": {
+        "beat_id": "B003",
+        "dialogue_hook_score": 0,
+        "dialogue_hook_rationale": "No dialogue present in this beat.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Clear visual friction and clandestine action as a guard kneels to slip bread beneath the dungeon bars.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B007",
+        "curiosity_gap_score": 4,
+        "specific_question": "Does Alexander know Juliana has been condemned to death, or has he been deceived by her captors?",
+        "stakes_importance": "High \u2014 establishes that Juliana has been falsely or unjustly condemned without her husband's knowledge.",
+        "defuses_tension": false,
+        "cliffhanger_type": "betrayal",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 38,
+          "start_beat_id": "B003",
+          "end_beat_id": "B007",
+          "start_time": 11.0,
+          "end_time": 45.5,
+          "duration": 34.5,
+          "beat_ids": [
+            "B003",
+            "B004",
+            "B005",
+            "B006",
+            "B007"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B003",
+        "B004",
+        "B005",
+        "B006",
+        "B007"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP038_04",
+      "episode": "Episode 38",
+      "episode_number": 38,
+      "start_beat_id": "B004",
+      "end_beat_id": "B008",
+      "start_time": 15.5,
+      "end_time": 51.0,
+      "duration": 35.5,
+      "hook_signal": {
+        "beat_id": "B004",
+        "dialogue_hook_score": 1,
+        "dialogue_hook_rationale": "A single monosyllabic question ('Why?') that offers minimal standalone context or tension.",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Noticeable visual desperation as a prisoner crawls across wet flagstones toward food in disbelief.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana face execution in this cell before Alexander can find and rescue her?",
+        "stakes_importance": "High \u2014 life-or-death existential stakes and impending separation of lovers.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 38,
+          "start_beat_id": "B004",
+          "end_beat_id": "B008",
+          "start_time": 15.5,
+          "end_time": 51.0,
+          "duration": 35.5,
+          "beat_ids": [
+            "B004",
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B004",
+        "B005",
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP038_05",
+      "episode": "Episode 38",
+      "episode_number": 38,
+      "start_beat_id": "B005",
+      "end_beat_id": "B008",
+      "start_time": 17.5,
+      "end_time": 51.0,
+      "duration": 33.5,
+      "hook_signal": {
+        "beat_id": "B005",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Direct moral conflict and urgent stakes established by 'Because no one should die hungry' and 'Eat it before they see.'",
+        "visual_hook_score": 2,
+        "visual_hook_rationale": "Standard medium close-up through bars transitioning to the guard retreating into shadows.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana face execution in this cell before Alexander can find and rescue her?",
+        "stakes_importance": "High \u2014 life-or-death existential stakes and impending separation of lovers.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 38,
+          "start_beat_id": "B005",
+          "end_beat_id": "B008",
+          "start_time": 17.5,
+          "end_time": 51.0,
+          "duration": 33.5,
+          "beat_ids": [
+            "B005",
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B005",
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP038_06",
+      "episode": "Episode 38",
+      "episode_number": 38,
+      "start_beat_id": "B006",
+      "end_beat_id": "B008",
+      "start_time": 23.2,
+      "end_time": 51.0,
+      "duration": 27.8,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Gratitude followed by a mournful question ('Alexander... are you safe?') provides emotional context but lacks urgent confrontation.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Visually arresting close-ups of trembling, shackle-bound hands ravenously tearing into bread while crying soot-streaked tears.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B008",
+        "curiosity_gap_score": 4,
+        "specific_question": "Will Juliana face execution in this cell before Alexander can find and rescue her?",
+        "stakes_importance": "High \u2014 life-or-death existential stakes and impending separation of lovers.",
+        "defuses_tension": false,
+        "cliffhanger_type": "threat",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 38,
+          "start_beat_id": "B006",
+          "end_beat_id": "B008",
+          "start_time": 23.2,
+          "end_time": 51.0,
+          "duration": 27.8,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP038_07",
+      "episode": "Episode 38",
+      "episode_number": 38,
+      "start_beat_id": "B006",
+      "end_beat_id": "B010",
+      "start_time": 23.2,
+      "end_time": 60.5,
+      "duration": 37.3,
+      "hook_signal": {
+        "beat_id": "B006",
+        "dialogue_hook_score": 2,
+        "dialogue_hook_rationale": "Gratitude followed by a mournful question ('Alexander... are you safe?') provides emotional context but lacks urgent confrontation.",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Visually arresting close-ups of trembling, shackle-bound hands ravenously tearing into bread while crying soot-streaked tears.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B010",
+        "curiosity_gap_score": 3,
+        "specific_question": "What is Juliana about to sacrifice or endure to protect Alexander?",
+        "stakes_importance": "Medium \u2014 an unfinished vow cut off mid-thought, creating narrative anticipation for her resolve.",
+        "defuses_tension": false,
+        "cliffhanger_type": "moral_dilemma",
+        "is_strong_cliffhanger": false
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 38,
+          "start_beat_id": "B006",
+          "end_beat_id": "B010",
+          "start_time": 23.2,
+          "end_time": 60.5,
+          "duration": 37.3,
+          "beat_ids": [
+            "B006",
+            "B007",
+            "B008",
+            "B009",
+            "B010"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B006",
+        "B007",
+        "B008",
+        "B009",
+        "B010"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP038_08",
+      "episode": "Episode 38",
+      "episode_number": 38,
+      "start_beat_id": "B007",
+      "end_beat_id": "B011",
+      "start_time": 39.5,
+      "end_time": 87.91,
+      "duration": 48.41,
+      "hook_signal": {
+        "beat_id": "B007",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes declaration of persecution with sharp existential urgency: 'Do you know they condemned me?'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Intimate close-up of a tear-stained face filled with raw anguish looking upward from captivity.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 5,
+        "specific_question": "Whose wedding is taking place above while Juliana prepares for her own imminent execution, and will Alexander arrive before she is killed?",
+        "stakes_importance": "High \u2014 maximum climax combining dramatic wedding bells, impending execution ('I suppose I'm next'), an unwavering vow of loyalty, and an ominous cut to black with a dramatic musical sting.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 38,
+          "start_beat_id": "B007",
+          "end_beat_id": "B011",
+          "start_time": 39.5,
+          "end_time": 87.91,
+          "duration": 48.41,
+          "beat_ids": [
+            "B007",
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B007",
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP038_09",
+      "episode": "Episode 38",
+      "episode_number": 38,
+      "start_beat_id": "B008",
+      "end_beat_id": "B011",
+      "start_time": 45.5,
+      "end_time": 87.91,
+      "duration": 42.41,
+      "hook_signal": {
+        "beat_id": "B008",
+        "dialogue_hook_score": 3,
+        "dialogue_hook_rationale": "Clear existential peril and emotional stakes raised by 'What if I die here?' and 'What if I never see you again?'",
+        "visual_hook_score": 3,
+        "visual_hook_rationale": "Tight macro shot capturing physical distress as a trembling hand clutches her chest and a heavy tear drips from her jaw.",
+        "is_strong_hook": false
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 5,
+        "specific_question": "Whose wedding is taking place above while Juliana prepares for her own imminent execution, and will Alexander arrive before she is killed?",
+        "stakes_importance": "High \u2014 maximum climax combining dramatic wedding bells, impending execution ('I suppose I'm next'), an unwavering vow of loyalty, and an ominous cut to black with a dramatic musical sting.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 38,
+          "start_beat_id": "B008",
+          "end_beat_id": "B011",
+          "start_time": 45.5,
+          "end_time": 87.91,
+          "duration": 42.41,
+          "beat_ids": [
+            "B008",
+            "B009",
+            "B010",
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B008",
+        "B009",
+        "B010",
+        "B011"
+      ],
+      "timestamp_source": "given"
+    },
+    {
+      "candidate_id": "CAND_EP038_10",
+      "episode": "Episode 38",
+      "episode_number": 38,
+      "start_beat_id": "B011",
+      "end_beat_id": "B011",
+      "start_time": 60.5,
+      "end_time": 87.91,
+      "duration": 27.41,
+      "hook_signal": {
+        "beat_id": "B011",
+        "dialogue_hook_score": 4,
+        "dialogue_hook_rationale": "High-stakes defiance ('I will not betray him') coupled with a chilling realization: 'The wedding. It's beginning. Then I suppose I'm next.'",
+        "visual_hook_score": 4,
+        "visual_hook_rationale": "Dynamic escalation: eyes snapping wide to overhead tolling bells, scrambling upright with clanking chains to grip iron bars, ending in a defiant close-up smile before cut to black.",
+        "is_strong_hook": true
+      },
+      "cliffhanger_signal": {
+        "beat_id": "B011",
+        "curiosity_gap_score": 5,
+        "specific_question": "Whose wedding is taking place above while Juliana prepares for her own imminent execution, and will Alexander arrive before she is killed?",
+        "stakes_importance": "High \u2014 maximum climax combining dramatic wedding bells, impending execution ('I suppose I'm next'), an unwavering vow of loyalty, and an ominous cut to black with a dramatic musical sting.",
+        "defuses_tension": false,
+        "cliffhanger_type": "revenge",
+        "is_strong_cliffhanger": true
+      },
+      "segments": [
+        {
+          "segment_index": 1,
+          "episode_number": 38,
+          "start_beat_id": "B011",
+          "end_beat_id": "B011",
+          "start_time": 60.5,
+          "end_time": 87.91,
+          "duration": 27.41,
+          "beat_ids": [
+            "B011"
+          ],
+          "timestamp_source": "given"
+        }
+      ],
+      "beat_ids": [
+        "B011"
+      ],
+      "timestamp_source": "given"
+    }
+  ]
+}

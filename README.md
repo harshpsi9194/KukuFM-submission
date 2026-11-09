@@ -81,8 +81,8 @@ The pipeline was completely overhauled from Legacy V1 to Rebuilt V2, achieving d
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/kuku-promo-finder.git
-cd kuku-promo-finder
+git clone https://github.com/harshpsi9194/KukuFM-submission.git
+cd KukuFM-submission
 ```
 
 ### 2. Set Up Virtual Environment & Dependencies

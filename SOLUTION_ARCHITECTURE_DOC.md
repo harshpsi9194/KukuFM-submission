@@ -11,7 +11,7 @@
 | **Roll Number** | *(Insert Your Roll Number Here)* |
 | **Branch / Department** | *(Insert Your Branch / Department Here)* |
 | **Problem Chosen** | **Problem 1: Microdrama Promo Clip Selection** |
-| **Prototype Link** | GitHub Repository: [https://github.com/your-username/kuku-promo-finder](https://github.com/your-username/kuku-promo-finder) *(Repository with complete self-contained runnable pipeline, test harness, and dependency lock)* |
+| **Prototype Link** | GitHub Repository: [https://github.com/harshpsi9194/KukuFM-submission](https://github.com/harshpsi9194/KukuFM-submission) *(Repository with complete self-contained runnable pipeline, test harness, and dependency lock)* |
 | **Raw Outputs Directory** | Google Drive / Repo Path: `outputs_final_batch/` *(Contains unedited JSON outputs for all 50 episodes: golden beat structures, hook/cliffhanger signals, scored candidate pools, Stage 4 absolute rankings, final MMR portfolios, telemetry logs, and `batch_summary.json`)* |
 | **Walkthrough Video** | Loom / Unlisted YouTube: *(Insert 3-minute video link here)* *(See Section 11 for the complete second-by-second script)* |
 

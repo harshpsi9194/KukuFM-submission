@@ -3,7 +3,7 @@
 > **High-Velocity, Cost-Calibrated 20–60s Promo Clip Extraction from Screenplays for Vertical Drama Platforms (ReelShort, DramaBox, ShortMax, Kuku FM).**
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Tests](https://img.shields.io/badge/unit%20tests-55%2F55%20passing-brightgreen.svg)]()
+[![Tests](https://img.shields.io/badge/unit%20tests-56%2F56%20passing-brightgreen.svg)]()
 [![Code Style](https://img.shields.io/badge/code%20style-clean%20architecture-success.svg)]()
 [![Model-Agnostic](https://img.shields.io/badge/LLM-OpenAI%20%7C%20Gemini%20%7C%20vLLM-purple.svg)]()
 [![Calls](https://img.shields.io/badge/calls-7.5%20%2F%20episode-brightgreen.svg)]()
@@ -25,7 +25,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
-# 3. Run comprehensive unit test suite (55 tests in < 0.2s)
+# 3. Run comprehensive unit test suite (56 tests in < 0.2s)
 python3 run_tests.py
 
 # 4. Dry-run Stage 0 to Stage 2 pipeline on Episode 1 (0 API calls, $0.00 cost)
@@ -137,7 +137,7 @@ export PROMO_MODEL="gemini-2.5-flash"
 
 ## Running the Unit Tests
 
-The test suite contains **55 comprehensive, deterministic unit tests** covering all stages and pipeline invariants. Every test executes in pure Python with zero network calls and runs in < 0.2 seconds.
+The test suite contains **56 comprehensive, deterministic unit tests** covering all stages and pipeline invariants. Every test executes in pure Python with zero network calls and runs in < 0.2 seconds.
 
 ### Option A: Universal Test Runner (Recommended)
 ```bash
@@ -189,26 +189,37 @@ python3 run_pipeline.py --all --start-ep 1 --end-ep 50 --dry-run
 ```
 
 ### 2. Run a Single Episode
-Execute the full 5-stage pipeline for Episode 1:
+Execute the full 5-stage pipeline for Episode 1 (the runner automatically resolves the production script in the series scripts folder):
 ```bash
 python3 run_pipeline.py --episode 1 --outputs-dir outputs_final_batch --concurrency 4
 ```
-*Generated outputs in `outputs_final_batch/`:*
-* `episode_001_golden.json`: Ground-truth beat map with simultaneous events
-* `episode_001_signals.json`: Batched hook and cliffhanger signals
-* `episode_001_candidates.json`: Capped window search candidates
-* `episode_001_stage3_scored.json`: Comprehension gate, emotional salience, and spoiler scores
-* `episode_001_stage4_ranking.json`: Pure 0–10 absolute rubric rankings
-* `episode_001_final_portfolio.json`: Top-5 diverse promo portfolio
-* `episode_001_rebuild_summary.json`: Timing, call counts, token usage, and cost breakdown
 
-### 3. Run an Episode Range
+### 3. Run on an Explicit Script File (`--script`)
+You can pass any screenplay file directly from anywhere on disk without relying on predefined naming or directories:
+```bash
+# Run on an explicit script file (episode number automatically inferred from filename):
+python3 run_pipeline.py --script "path/to/any_episode_script.txt"
+
+# Or with an explicit episode number:
+python3 run_pipeline.py --script "path/to/script.txt" --episode 1
+
+# Or in dry-run mode:
+python3 run_pipeline.py --script "path/to/script.txt" --dry-run
+```
+
+### 4. Custom Scripts Directory (`--scripts-dir`)
+If your screenplay files live in a custom folder:
+```bash
+python3 run_pipeline.py --scripts-dir "path/to/my_scripts" --episode 5
+```
+
+### 5. Run an Episode Range
 Process a specific slice of episodes (e.g., Episodes 1 to 5):
 ```bash
 python3 run_pipeline.py --all --start-ep 1 --end-ep 5 --outputs-dir outputs_final_batch --concurrency 4
 ```
 
-### 4. Run the Full 50-Episode Series Batch
+### 6. Run the Full 50-Episode Series Batch
 Execute the end-to-end pipeline across the entire series with automatic checkpointing and telemetry logging:
 ```bash
 python3 run_pipeline.py --all --start-ep 1 --end-ep 50 --outputs-dir outputs_final_batch --concurrency 4

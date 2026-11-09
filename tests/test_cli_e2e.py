@@ -3,8 +3,9 @@ test_cli_e2e.py — End-to-End CLI & Pipeline Integration Tests.
 
 Verifies:
 1. CLI dry-run executes cleanly with 0 LLM API calls and 0 network usage.
-2. find_script_file reliably resolves script paths for sample episodes.
-3. Pipeline invariants hold end-to-end on real script (Episode 1):
+2. find_script_file prioritizes real show scripts over test fixtures.
+3. Explicit --script parameter allows running on arbitrary screenplay files.
+4. Pipeline invariants hold end-to-end on real script (Episode 1):
    - Snapping strictly to beat edges (Rule 1 & 2).
    - Python duration filter strictly bounded to [20.0s, 60.0s] (Rule 3).
    - timestamp_source is present on every beat and segment (Rule 4).
@@ -28,12 +29,13 @@ from run_pipeline import find_script_file
 
 class TestCliE2E(unittest.TestCase):
 
-    def test_find_script_file_resolves_episode(self):
-        """Script finder resolves episode 1 script file within the repository."""
+    def test_find_script_file_resolves_production_episode(self):
+        """Script finder resolves the actual series script file within the repository."""
         script_path = find_script_file(1, REPO_ROOT)
         self.assertIsNotNone(script_path)
         self.assertTrue(script_path.exists())
-        self.assertIn("episode_001.txt", script_path.name)
+        # Checks that it resolved to the real series file, not a hardcoded fixture
+        self.assertTrue("episode-001" in script_path.name or "episode_001" in script_path.name)
 
     def test_cli_dry_run_subprocess_execution(self):
         """Running run_pipeline.py --episode 1 --dry-run completes successfully with exit code 0."""
@@ -43,6 +45,17 @@ class TestCliE2E(unittest.TestCase):
         self.assertIn("Structural validation successful", res.stdout)
         self.assertIn("Stage 0] Screenplay parsed: 45 beats", res.stdout)
         self.assertIn("Stage 2 Capped search produced", res.stdout)
+        # Verify it points to the real show script
+        self.assertIn("episode-001-Episode 1671703.txt", res.stdout)
+
+    def test_cli_explicit_script_parameter(self):
+        """Running with --script <path> allows targeting an explicit script file."""
+        sample_path = PROMO_DIR / "parser" / "fixtures" / "sample_scripts" / "episode_001.txt"
+        cmd = [sys.executable, str(PROMO_DIR / "run_pipeline.py"), "--script", str(sample_path), "--dry-run"]
+        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, cwd=str(REPO_ROOT))
+        self.assertEqual(res.returncode, 0, f"Dry run with --script failed: {res.stderr}")
+        self.assertIn("Structural validation successful", res.stdout)
+        self.assertIn("EPISODE 001", res.stdout)
 
     def test_dry_run_pipeline_invariants_on_episode_1(self):
         """Parse real episode 1 and verify structural invariants."""

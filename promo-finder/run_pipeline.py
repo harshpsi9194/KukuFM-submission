@@ -83,27 +83,67 @@ def evaluate_boundary_cleanliness(beats_map: Dict[str, Dict], start_b_id: str, e
     return open_score, cliff_score, comp_clean
 
 
-def find_script_file(ep_num: int, repo_root: Path) -> Optional[Path]:
-    """Finds script file for a given episode number across possible repository locations."""
-    # 1. Check parser fixtures
-    p1 = repo_root / "promo-finder" / "parser" / "fixtures" / "sample_scripts" / f"episode_{ep_num:03d}.txt"
-    if p1.exists():
-        return p1
-    p1_alt = repo_root / "parser" / "fixtures" / "sample_scripts" / f"episode_{ep_num:03d}.txt"
-    if p1_alt.exists():
-        return p1_alt
+def find_script_file(ep_num: int, repo_root: Path, scripts_dir: Optional[str] = None) -> Optional[Path]:
+    """Finds script file for a given episode number across possible repository locations.
+    
+    Search priority:
+    1. Custom scripts_dir if explicitly provided by the user.
+    2. Real production series scripts folders in the repository.
+    3. Parser fixtures sample_scripts (secondary fallback for unit tests).
+    """
+    search_dirs: List[Path] = []
+    
+    if scripts_dir:
+        p = Path(scripts_dir) if Path(scripts_dir).is_absolute() else (repo_root / scripts_dir)
+        if p.exists():
+            search_dirs.append(p)
+            for sub in p.iterdir():
+                if sub.is_dir():
+                    search_dirs.append(sub)
 
-    # 2. Check full series scripts folder
-    patterns = [
+    # 1. Check full series scripts folder first
+    search_dirs.extend([
         repo_root / "I Married a Broken Soldier. He was a Duke-scripts" / "I Married a Broken Soldier. He was a Duke",
+        repo_root / "I Married a Broken Soldier. He was a Duke-scripts",
+        repo_root / "scripts",
         repo_root.parent / "I Married a Broken Soldier. He was a Duke-scripts" / "I Married a Broken Soldier. He was a Duke",
+    ])
+
+    for d in search_dirs:
+        if not d.exists():
+            continue
+        patterns = [
+            f"episode-{ep_num:03d}-*.txt",
+            f"episode_{ep_num:03d}_*.txt",
+            f"episode-{ep_num:03d}.txt",
+            f"episode_{ep_num:03d}.txt",
+            f"episode-{ep_num:02d}-*.txt",
+            f"episode_{ep_num:02d}_*.txt",
+            f"episode-{ep_num:02d}.txt",
+            f"episode_{ep_num:02d}.txt",
+            f"episode-{ep_num}-*.txt",
+            f"episode_{ep_num}_*.txt",
+            f"episode-{ep_num}.txt",
+            f"episode_{ep_num}.txt",
+            f"*{ep_num:03d}*.txt",
+        ]
+        for pat in patterns:
+            matches = sorted(list(d.glob(pat)))
+            if matches:
+                return matches[0]
+
+    # 2. Secondary fallback: parser unit test fixtures
+    fixture_dirs = [
+        repo_root / "promo-finder" / "parser" / "fixtures" / "sample_scripts",
+        repo_root / "parser" / "fixtures" / "sample_scripts",
     ]
-    for d in patterns:
-        if d.exists():
-            for f in d.glob(f"episode-{ep_num:03d}-*.txt"):
-                return f
-            for f in d.glob(f"episode-*{ep_num:02d}-*.txt"):
-                return f
+    for fd in fixture_dirs:
+        if fd.exists():
+            for pat in [f"episode_{ep_num:03d}.txt", f"episode-{ep_num:03d}.txt", f"episode_{ep_num}.txt"]:
+                matches = sorted(list(fd.glob(pat)))
+                if matches:
+                    return matches[0]
+
     return None
 
 
@@ -119,7 +159,14 @@ def run_single_episode(
     """Executes the full 5-stage pipeline for a single episode."""
     print("=" * 68)
     print(f"PROMO FINDER PIPELINE — EPISODE {ep_num:03d} {'[DRY RUN]' if dry_run else ''}")
-    print(f"Source Script: {script_path.relative_to(ROOT_DIR.parent) if ROOT_DIR.parent in script_path.parents else script_path.name}")
+    try:
+        display_path = script_path.relative_to(ROOT_DIR.parent)
+    except ValueError:
+        try:
+            display_path = script_path.relative_to(Path.cwd())
+        except ValueError:
+            display_path = script_path.name
+    print(f"Source Script: {display_path}")
     print("=" * 68)
 
     # Episode-level checkpointing: return existing results if full episode already completed
@@ -485,7 +532,9 @@ def run_single_episode(
 
 def main():
     parser = argparse.ArgumentParser(description="Master Promo Finder Rebuilt Pipeline")
-    parser.add_argument("--episode", type=int, default=1, help="Single episode number to process")
+    parser.add_argument("--script", type=str, default=None, help="Explicit path to a screenplay script file (.txt)")
+    parser.add_argument("--scripts-dir", type=str, default=None, help="Custom directory containing episode screenplay files")
+    parser.add_argument("--episode", type=int, default=None, help="Episode number to process (default: 1, or inferred from --script)")
     parser.add_argument("--all", action="store_true", help="Process all available episodes in batch")
     parser.add_argument("--start-ep", type=int, default=1, help="Start episode for batch")
     parser.add_argument("--end-ep", type=int, default=50, help="End episode for batch")
@@ -503,13 +552,40 @@ def main():
     output_dir.mkdir(parents=True, exist_ok=True)
     set_log_dir(output_dir)
 
-    if not args.all:
-        script = find_script_file(args.episode, repo_root)
+    if args.script:
+        raw_path = Path(args.script)
+        if raw_path.exists():
+            script = raw_path
+        elif (repo_root / args.script).exists():
+            script = repo_root / args.script
+        else:
+            print(f"Error: Script file not found at: {args.script}")
+            sys.exit(1)
+
+        # Invert or infer episode number
+        if args.episode is not None:
+            ep_num = args.episode
+        else:
+            match = re.search(r"episode[-_\s]*0*(\d+)", script.name, re.IGNORECASE)
+            ep_num = int(match.group(1)) if match else 1
+
+        run_single_episode(
+            ep_num=ep_num,
+            script_path=script,
+            output_dir=output_dir,
+            dry_run=args.dry_run,
+            model=args.model,
+            concurrency=args.concurrency,
+            resume=resume,
+        )
+    elif not args.all:
+        ep_num = args.episode if args.episode is not None else 1
+        script = find_script_file(ep_num, repo_root, scripts_dir=args.scripts_dir)
         if not script:
-            print(f"Error: Could not locate screenplay script file for Episode {args.episode}.")
+            print(f"Error: Could not locate screenplay script file for Episode {ep_num}.")
             sys.exit(1)
         run_single_episode(
-            ep_num=args.episode,
+            ep_num=ep_num,
             script_path=script,
             output_dir=output_dir,
             dry_run=args.dry_run,
@@ -521,7 +597,7 @@ def main():
         print(f"Launching batch execution for Episodes {args.start_ep} to {args.end_ep}...")
         batch_summaries = []
         for ep in range(args.start_ep, args.end_ep + 1):
-            script = find_script_file(ep, repo_root)
+            script = find_script_file(ep, repo_root, scripts_dir=args.scripts_dir)
             if not script:
                 print(f"Skipping Episode {ep:03d}: script file not found.")
                 continue

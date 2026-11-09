@@ -1,4 +1,4 @@
-# 🎬 Promo Finder — Microdrama Promo Clip Selection Engine
+# Promo Finder — Microdrama Promo Clip Selection Engine
 
 > **Automated, High-Velocity 20–60s Promo Clip Extraction from Screenplays for Vertical Drama Platforms (ReelShort, DramaBox, ShortMax, Kuku FM).**
 
@@ -10,26 +10,26 @@
 
 ---
 
-## 📌 Table of Contents
-1. [Overview](#-overview)
-2. [Why Naive LLM Approaches Fail](#-why-naive-llm-approaches-fail)
-3. [Architecture & Rebuild V2 Highlights](#-architecture--rebuild-v2-highlights)
-4. [Installation & Setup](#-installation--setup)
-5. [How to Run the Project](#-how-to-run-the-project)
+## Table of Contents
+1. [Overview](#overview)
+2. [Why Naive LLM Approaches Fail](#why-naive-llm-approaches-fail)
+3. [Architecture & Rebuild V2 Highlights](#architecture--rebuild-v2-highlights)
+4. [Installation & Setup](#installation--setup)
+5. [How to Run the Project](#how-to-run-the-project)
    - [Run Unit Tests](#1-run-unit-tests)
    - [Dry-Run Validation](#2-dry-run-validation-0-llm-calls)
    - [Run a Single Episode](#3-run-a-single-episode)
    - [Run an Episode Range](#4-run-an-episode-range)
    - [Run the Full 50-Episode Series Batch](#5-run-the-full-50-episode-series-batch)
-6. [Pipeline Stages Explained](#-pipeline-stages-explained)
-7. [Output Files & Deliverables](#-output-files--deliverables)
-8. [Configuration & Environment Variables](#-configuration--environment-variables)
-9. [Repository Structure](#-repository-structure)
-10. [Troubleshooting & FAQs](#-troubleshooting--faqs)
+6. [Pipeline Stages Explained](#pipeline-stages-explained)
+7. [Output Files & Deliverables](#output-files--deliverables)
+8. [Configuration & Environment Variables](#configuration--environment-variables)
+9. [Repository Structure](#repository-structure)
+10. [Troubleshooting & FAQs](#troubleshooting--faqs)
 
 ---
 
-## 📖 Overview
+## Overview
 
 In the vertical microdrama market, organic and paid user acquisition lives and dies by **20–60 second promotional video ads**. An effective promo must:
 1. **Hook cold viewers within 1.5–3.0 seconds** (on mute or with sound) to stop vertical scrolling.
@@ -41,21 +41,21 @@ In the vertical microdrama market, organic and paid user acquisition lives and d
 
 ---
 
-## ⚠️ Why Naive LLM Approaches Fail
+## Why Naive LLM Approaches Fail
 
 Most generative AI solutions fail on microdrama screenplays because they try to use a **single-shot prompt** asking an LLM to *"read this script and pick the best 5 promo clips with timestamps"*. This fails in 5 ways:
 
-* ❌ **Timestamp Fabrication:** LLMs cannot calculate cumulative floating-point timing from text; they hallucinate timestamps that cut mid-sentence or cross scene transitions.
-* ❌ **Duration Hallucination:** Models trade dramatic tension for approximate length, outputting 10s fragments or 90s monologues.
-* ❌ **Cognitive Overload:** Forcing one model call to perform candidate generation, character legibility verification, spoiler classification, and ranking collapses model reasoning into generic tropes.
-* ❌ **Duplicate Clones:** Without diversity constraints, models output 5 minor variations of the exact same scene.
-* ❌ **Prohibitive Latency:** Pairwise comparisons ($O(N^2)$ round-robin tournaments) take 10+ minutes per episode and hundreds of API calls.
+* **Timestamp Fabrication:** LLMs cannot calculate cumulative floating-point timing from text; they hallucinate timestamps that cut mid-sentence or cross scene transitions.
+* **Duration Hallucination:** Models trade dramatic tension for approximate length, outputting 10s fragments or 90s monologues.
+* **Cognitive Overload:** Forcing one model call to perform candidate generation, character legibility verification, spoiler classification, and ranking collapses model reasoning into generic tropes.
+* **Duplicate Clones:** Without diversity constraints, models output 5 minor variations of the exact same scene.
+* **Prohibitive Latency:** Pairwise comparisons ($O(N^2)$ round-robin tournaments) take 10+ minutes per episode and hundreds of API calls.
 
 **Promo Finder solves this with strict separation of concerns:** LLMs are restricted to qualitative perception and ranking, while boundary snapping, duration filtering, eligibility gates, and portfolio diversity are governed by pure Python mathematics.
 
 ---
 
-## 🚀 Architecture & Rebuild V2 Highlights
+## Architecture & Rebuild V2 Highlights
 
 The pipeline was completely overhauled from Legacy V1 to Rebuilt V2, achieving dramatic performance and efficiency gains (empirically measured across the full 50-episode batch run):
 
@@ -72,7 +72,7 @@ The pipeline was completely overhauled from Legacy V1 to Rebuilt V2, achieving d
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 * **OS:** Linux (Ubuntu/Debian recommended) or macOS
@@ -113,7 +113,7 @@ export PROMO_MODEL="gemini-2.5-flash"
 
 ---
 
-## 🏃 How to Run the Project
+## How to Run the Project
 
 The root runner `run_pipeline.py` (and convenience alias `run_all_episodes.py`) provides an intuitive CLI for all modes of execution.
 
@@ -180,7 +180,7 @@ The pipeline features automatic stage-level and episode-level checkpointing:
 
 ---
 
-## 🧩 Pipeline Stages Explained
+## Pipeline Stages Explained
 
 ```
 Screenplay (.txt)
@@ -223,7 +223,7 @@ Top-5 Diverse Promo Portfolio (.json)
 
 ---
 
-## 📂 Output Files & Deliverables
+## Output Files & Deliverables
 
 All outputs are saved to `outputs_final_batch/` (or your chosen `--outputs-dir`):
 
@@ -278,7 +278,7 @@ All outputs are saved to `outputs_final_batch/` (or your chosen `--outputs-dir`)
 
 ---
 
-## 🔧 Configuration & Environment Variables
+## Configuration & Environment Variables
 
 | Variable | Default | Description |
 |---|---|---|
@@ -290,7 +290,7 @@ All outputs are saved to `outputs_final_batch/` (or your chosen `--outputs-dir`)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── README.md                           # Main project documentation (this file)
@@ -331,7 +331,7 @@ All outputs are saved to `outputs_final_batch/` (or your chosen `--outputs-dir`)
 
 ---
 
-## ❓ Troubleshooting & FAQs
+## Troubleshooting & FAQs
 
 #### Q1: "ModuleNotFoundError: No module named 'fastembed'"
 The project includes automatic `.venv` path injection in `ranking/mmr.py` and `run_pipeline.py`. If running outside the virtual environment, simply activate it or run via:

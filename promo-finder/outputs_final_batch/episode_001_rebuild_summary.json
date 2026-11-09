@@ -1,11 +1,11 @@
 {
   "episode_number": 1,
   "total_llm_calls": 12,
-  "total_wall_clock_seconds": 142.08,
-  "total_wall_clock_minutes": 2.37,
-  "total_input_tokens": 43668,
-  "total_output_tokens": 12261,
-  "total_estimated_cost_usd": 0.006953,
+  "total_wall_clock_seconds": 138.33,
+  "total_wall_clock_minutes": 2.31,
+  "total_input_tokens": 43024,
+  "total_output_tokens": 12094,
+  "total_estimated_cost_usd": 0.006855,
   "stage_breakdown": {
     "Stage 0: Parsing": {
       "calls": 0,
@@ -14,27 +14,27 @@
     },
     "Stage 1: Detection": {
       "calls": 2,
-      "latency_seconds": 62.955,
+      "latency_seconds": 57.211,
       "summary": "45 hook signals, 45 cliffhanger signals"
     },
     "Stage 2: Window Search": {
       "calls": 0,
-      "latency_seconds": 0.008,
-      "summary": "Capped candidate count: 34"
+      "latency_seconds": 0.003,
+      "summary": "Capped candidate count: 33"
     },
     "Stage 3: Merged Scoring": {
       "calls": 9,
-      "latency_seconds": 51.027,
-      "summary": "34 candidates scored in 9 calls"
+      "latency_seconds": 47.582,
+      "summary": "33 candidates scored in 9 calls"
     },
     "Stage 4: Absolute Ranking": {
       "calls": 1,
-      "latency_seconds": 26.831,
+      "latency_seconds": 25.545,
       "summary": "Ranked 17 candidates in 1 call (pure absolute rubric)"
     },
     "Stage 5: Portfolio Selection": {
       "calls": 0,
-      "latency_seconds": 1.251,
+      "latency_seconds": 7.986,
       "summary": "5 promos selected via pure Python MMR"
     }
   }

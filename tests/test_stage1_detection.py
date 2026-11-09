@@ -20,7 +20,15 @@ for p in [REPO_ROOT, PROMO_DIR]:
         sys.path.insert(0, str(p))
 
 from candidates.schema import HookSignal, CliffhangerSignal
-from candidates.llm_client import extract_json_payload, estimate_tokens, calculate_cost
+from candidates.llm_client import (
+    extract_json_payload,
+    estimate_tokens,
+    calculate_cost,
+    MODEL_CATALOG,
+    resolve_cli_model,
+    resolve_rest_model,
+    get_available_cli_models,
+)
 
 
 class TestStage1Detection(unittest.TestCase):
@@ -94,6 +102,47 @@ class TestStage1Detection(unittest.TestCase):
         self.assertIsInstance(result, list)
         self.assertEqual(len(result), 1)
         self.assertEqual(result[0]["beat_id"], "B001")
+
+    def test_model_catalog_multi_provider_coverage(self):
+        """MODEL_CATALOG must contain models for Google, OpenAI, Anthropic, DeepSeek, Meta, Mistral, and Qwen."""
+        providers = {info["provider"] for info in MODEL_CATALOG.values()}
+        expected_providers = {"google", "openai", "anthropic", "deepseek", "meta", "mistral", "qwen"}
+        for p in expected_providers:
+            self.assertIn(p, providers, f"Provider '{p}' missing from MODEL_CATALOG")
+        self.assertGreaterEqual(len(MODEL_CATALOG), 30)
+
+    def test_per_model_cost_calculation(self):
+        """calculate_cost must accurately calculate rates for specific models in the catalog."""
+        # GPT-4o: $2.50 in / $10.00 out per million
+        cost_gpt4o = calculate_cost(1_000_000, 1_000_000, model="gpt-4o")
+        self.assertAlmostEqual(cost_gpt4o, 12.50, places=4)
+
+        # DeepSeek Chat: $0.14 in / $0.28 out per million
+        cost_ds = calculate_cost(1_000_000, 1_000_000, model="deepseek-chat")
+        self.assertAlmostEqual(cost_ds, 0.42, places=4)
+
+        # Fallback to default if unknown model passed
+        cost_unknown = calculate_cost(1_000_000, 1_000_000, model="nonexistent-model-xyz")
+        self.assertAlmostEqual(cost_unknown, 0.375, places=4)
+
+    def test_resolve_cli_model_mapping(self):
+        """resolve_cli_model must map generic / third-party model names to supported CLI bridge models."""
+        available_cli = get_available_cli_models()
+        # Direct CLI model should return itself
+        self.assertIn(resolve_cli_model("gemini-3.8-flash-low"), available_cli)
+        # Deep reasoning / thinking models should map to opus or high
+        opus_res = resolve_cli_model("claude-3-opus")
+        self.assertIn(opus_res, available_cli)
+        # Llama / Deepseek should map to gpt-oss or valid CLI model
+        llama_res = resolve_cli_model("meta-llama/Llama-3.3-70B-Instruct")
+        self.assertIn(llama_res, available_cli)
+
+    def test_resolve_rest_model(self):
+        """resolve_rest_model maps internal bridge names to valid public REST API model strings."""
+        gemini_rest = resolve_rest_model("gemini-3.8-flash-low", "https://generativelanguage.googleapis.com/v1beta")
+        self.assertEqual(gemini_rest, "gemini-2.5-flash")
+        openai_rest = resolve_rest_model("gemini-3.8-flash-low", "https://api.openai.com/v1")
+        self.assertEqual(openai_rest, "gpt-4o-mini")
 
 
 if __name__ == "__main__":

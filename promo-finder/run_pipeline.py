@@ -607,10 +607,34 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="Dry run: validate parsing and geometry without LLM calls")
     parser.add_argument("--outputs-dir", type=str, default="outputs", help="Directory for output files")
     parser.add_argument("--model", type=str, default=None, help="LLM model override")
+    parser.add_argument("--list-models", action="store_true", help="List all supported models across providers with pricing and exit")
     parser.add_argument("--concurrency", type=int, default=4, help="Concurrency for batched scoring")
     parser.add_argument("--resume", action="store_true", default=True, help="Resume execution from existing checkpoints (default: True)")
     parser.add_argument("--force", action="store_true", default=False, help="Force recomputation and ignore checkpoints")
     args = parser.parse_args()
+
+    if args.list_models:
+        from candidates.llm_client import MODEL_CATALOG, get_available_cli_models, AGY_EXE
+        cli_models = get_available_cli_models()
+        print("=" * 92)
+        print("PROMO-FINDER MULTI-PROVIDER MODEL CATALOG & PRICING")
+        print("=" * 92)
+        print(f"{'Model Identifier':<34} {'Provider':<10} {'In $/1M':<10} {'Out $/1M':<10} {'CLI Equiv':<24}")
+        print("-" * 92)
+        for name, info in MODEL_CATALOG.items():
+            in_cost = f"${info.get('input_cost_per_million', 0.0):.4f}"
+            out_cost = f"${info.get('output_cost_per_million', 0.0):.4f}"
+            provider = info.get("provider", "other")
+            cli_eq = info.get("cli_equivalent", "-")
+            print(f"{name:<34} {provider:<10} {in_cost:<10} {out_cost:<10} {cli_eq:<24}")
+        print("-" * 92)
+        print(f"\nActive CLI Bridge Binary: {AGY_EXE}")
+        print(f"Detected Native CLI Models ({len(cli_models)}): {', '.join(sorted(cli_models))}")
+        print("\nUsage Tips:")
+        print("  • REST API Mode: Set OPENAI_API_KEY / GEMINI_API_KEY and pass any catalog model via --model <name>.")
+        print("  • Local CLI Bridge Mode: Any model string is dynamically resolved to its native CLI bridge equivalent.")
+        print("=" * 92)
+        sys.exit(0)
 
     resume = (args.resume and not args.force)
     repo_root = get_repo_root()

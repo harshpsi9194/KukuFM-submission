@@ -119,25 +119,28 @@ pip install -r requirements.txt
 
 *(Note: The codebase includes automatic virtualenv path resolution, so scripts and tests run cleanly whether your virtual environment is active or invoked directly).*
 
-### 3. Configure LLM API Keys (For Live Pipeline Runs)
-The model client supports OpenAI, Google Gemini, and local vLLM/Ollama endpoints:
+### 3. Configure LLM API Keys & Model Selection
+The model client supports **55+ models across 7 major providers** (Google Gemini, OpenAI, Anthropic Claude, DeepSeek, Meta Llama, Mistral, and Qwen), plus local vLLM/Ollama endpoints and native CLI bridge runners:
 ```bash
-# For OpenAI models (e.g. gpt-4o, gpt-4o-mini):
+# View the full multi-provider model catalog with real-time pricing and CLI mappings:
+python3 run_pipeline.py --list-models
+
+# For OpenAI models (e.g. gpt-4o, gpt-4o-mini, o3-mini):
 export OPENAI_API_KEY="your-openai-api-key"
 
-# For Google Gemini models (e.g. gemini-2.5-flash):
+# For Google Gemini models (e.g. gemini-2.5-flash, gemini-2.5-pro):
 export GEMINI_API_KEY="your-gemini-api-key"
 
-# (Optional) Override the default model:
-export PROMO_MODEL="gemini-2.5-flash"
+# (Optional) Pass any model via CLI flag:
+python3 run_pipeline.py --episode 1 --model "deepseek-chat"
 ```
-*(If running within the AGY sandbox environment, the system automatically routes calls via the authenticated local runner without external keys).*
+*(If running within the local sandbox/CLI environment, the system automatically detects available models via `agy models` and resolves third-party model requests to the closest native CLI equivalent without requiring external API keys).*
 
 ---
 
 ## Running the Unit Tests
 
-The test suite contains **56 comprehensive, deterministic unit tests** covering all stages and pipeline invariants. Every test executes in pure Python with zero network calls and runs in < 0.2 seconds.
+The test suite contains **71 comprehensive, deterministic unit tests** covering all stages, multi-provider model catalog, cost accounting, CLI bridging, and pipeline invariants. Every test executes in pure Python with zero network calls and runs in sub-second time.
 
 ### Option A: Universal Test Runner (Recommended)
 ```bash
@@ -165,12 +168,12 @@ python3 -m unittest discover -s tests
 | Test Module | Stage | Covered Requirements & Invariants |
 |---|---|---|
 | `tests/test_stage0_parser.py` | Stage 0 | Strict non-defaulted `timestamp_source`, simultaneous event merging (CAMERA + ACTION + DIALOGUE), genuine overlap vs endpoint touching, ~2.5 words/sec fallback heuristic, scene boundary tracking, golden snapshot test. |
-| `tests/test_stage1_detection.py` | Stage 1 | `HookSignal` dialogue vs visual separation, `CliffhangerSignal` curiosity gap and anti-defusion check, token/cost tracking, robust JSON extraction from markdown. |
+| `tests/test_stage1_detection.py` | Stage 1 | `HookSignal` dialogue vs visual separation, `CliffhangerSignal` curiosity gap and anti-defusion check, token/cost tracking, multi-provider model catalog validation (55+ models across 7 providers), per-model cost computation, dynamic CLI/REST model resolution, robust JSON extraction from markdown. |
 | `tests/test_stage2_window_search.py` | Stage 2 | Python duration filter [20.0s, 60.0s], candidate duration as sum of segment durations, `timestamp_source` inheritance, strict halt at scene boundaries, candidate capping. |
 | `tests/test_stage3_scoring.py` | Stage 3 | Standalone comprehension binary gate (`opening_legibility ∧ arc_legibility`), ban on retrospective justification, Python override of hallucinated passes, emotional salience (1-5), spoiler reporting (0-3), missing candidate fallback. |
 | `tests/test_stage4_ranking.py` | Stage 4 | 4-dimension absolute rubric (0-10), strict score-based ordering, deterministic tie-breaking (duration closeness to 35.0s sweet spot), beat progression formatting with dialogue lines and camera cues. |
 | `tests/test_stage5_portfolio.py` | Stage 5 | Narrative signature synthesis, cosine similarity matrix symmetry, MMR portfolio selection ($\lambda=0.55$), hard deduplication (similarity cutoff $\ge 0.90$), rule-based boundary cleanliness check. |
-| `tests/test_cli_e2e.py` | End-to-End | CLI argument parsing, script file resolution, full dry-run subprocess execution on real Episode 1 script with 0 API calls. |
+| `tests/test_cli_e2e.py` | End-to-End | CLI argument parsing, `--list-models` flag execution, dynamic directory discovery across arbitrary drama folders without hardcoding, script file resolution, full dry-run subprocess execution on real Episode 1 script with 0 API calls. |
 
 ---
 

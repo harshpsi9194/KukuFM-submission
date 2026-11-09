@@ -8,7 +8,7 @@
   "selected_promos": [
     {
       "portfolio_rank": 1,
-      "candidate_id": "CAND_EP001_09",
+      "candidate_id": "CAND_EP001_11",
       "absolute_rubric_score": 9.3,
       "subscores": {
         "hook_score": 2.4,
@@ -24,93 +24,26 @@
         "start_time": 35.4,
         "end_time": 63.0,
         "duration": 27.6,
+        "timestamp_source": "given",
         "composite_cleanliness": 5.0
       },
       "hook": {
         "opening_quote": "Why are you holding her hand?",
         "opening_character": "LADY JULIANA",
-        "rationale": "Directly confronts betrayal ('Why are you holding her hand?') with acute heartbreak and public exposure."
+        "rationale": "Juliana directly confronts the public betrayal with 'Why are you holding her hand?', carrying acute heartbreak."
       },
       "cliffhanger": {
         "final_quote": "I changed my mind.",
         "final_character": "THE FORMER GROOM",
         "specific_question": "How can Gerald justify breaking his betrothal vows at the altar with zero remorse?"
       },
-      "situational_summary": "At the wedding altar, a bride confronts her groom for holding another woman's hand, only to be callously told he changed his mind.",
+      "situational_summary": "At the altar, a bride confronts her groom for holding her sister's hand, culminating in the groom coldly declaring he changed his mind.",
       "emotional_salience_score": 5,
       "spoiler_level": 1
     },
     {
       "portfolio_rank": 2,
-      "candidate_id": "CAND_EP001_17",
-      "absolute_rubric_score": 8.5,
-      "subscores": {
-        "hook_score": 1.9,
-        "tension_score": 2.3,
-        "cliffhanger_score": 2.2,
-        "resonance_score": 2.1
-      },
-      "mmr_score": 0.0339,
-      "max_similarity_to_selected": 0.7874,
-      "boundary": {
-        "start_beat_id": "B021",
-        "end_beat_id": "B027",
-        "start_time": 54.6,
-        "end_time": 79.0,
-        "duration": 24.4,
-        "composite_cleanliness": 5.0
-      },
-      "hook": {
-        "opening_quote": "You let me dress in my mother's gown...",
-        "opening_character": "LADY JULIANA",
-        "rationale": "Deeply emotional confrontation accusing them of cruel deception ('You let me dress in my mother's gown... You let me believe I was walking toward my husband!')."
-      },
-      "cliffhanger": {
-        "final_quote": "Long enough to know he was never going to marry you.",
-        "final_character": "LADY IN GOLD GOWN",
-        "specific_question": "How will Juliana endure the crushing realization that her entire engagement was an orchestrated farce?"
-      },
-      "situational_summary": "At what was supposed to be her wedding, a weeping bride confronts her groom and gloating sister, discovering their betrayal was premeditated.",
-      "emotional_salience_score": 5,
-      "spoiler_level": 1
-    },
-    {
-      "portfolio_rank": 3,
-      "candidate_id": "CAND_EP001_29",
-      "absolute_rubric_score": 8.3,
-      "subscores": {
-        "hook_score": 2.1,
-        "tension_score": 2.1,
-        "cliffhanger_score": 2.2,
-        "resonance_score": 1.9
-      },
-      "mmr_score": -0.0135,
-      "max_similarity_to_selected": 0.8208,
-      "boundary": {
-        "start_beat_id": "B033",
-        "end_beat_id": "B040",
-        "start_time": 90.8,
-        "end_time": 122.5,
-        "duration": 31.7,
-        "composite_cleanliness": 5.0
-      },
-      "hook": {
-        "opening_quote": "Enough!",
-        "opening_character": "MATRIARCH",
-        "rationale": "Authoritative public humiliation ('Enough! You have embarrassed this family long enough') delivers immediate auditory shock."
-      },
-      "cliffhanger": {
-        "final_quote": "You have nothing to offer me anymore.",
-        "final_character": "THE FORMER GROOM",
-        "specific_question": "How will Juliana retaliate against Gerald after he declares she has 'nothing to offer' him anymore?"
-      },
-      "situational_summary": "A matriarch publicly shames her daughter before the groom delivers a cold, final rejection declaring she is worthless to him.",
-      "emotional_salience_score": 4,
-      "spoiler_level": 1
-    },
-    {
-      "portfolio_rank": 4,
-      "candidate_id": "CAND_EP001_33",
+      "candidate_id": "CAND_EP001_32",
       "absolute_rubric_score": 8.2,
       "subscores": {
         "hook_score": 2.0,
@@ -118,61 +51,133 @@
         "cliffhanger_score": 2.4,
         "resonance_score": 1.7
       },
-      "mmr_score": -0.0598,
-      "max_similarity_to_selected": 0.8518,
+      "mmr_score": 0.0533,
+      "max_similarity_to_selected": 0.7444,
       "boundary": {
         "start_beat_id": "B037",
         "end_beat_id": "B045",
         "start_time": 107.4,
         "end_time": 138.0,
         "duration": 30.6,
+        "timestamp_source": "given",
         "composite_cleanliness": 4.5
       },
       "hook": {
         "opening_quote": "You are the daughter people tolerate because they have to.",
         "opening_character": "LADY IN GOLD GOWN",
-        "rationale": "Brutal emotional execution ('You are the daughter people tolerate because they have to. I am the daughter they choose')."
+        "rationale": "Lethal psychological cruelty: 'You are the daughter people tolerate because they have to. I am the daughter they choose.'"
       },
       "cliffhanger": {
         "final_quote": "None (Visual Cliffhanger)",
         "final_character": null,
         "specific_question": "How will Juliana strike back against Gerald and her family after this public humiliation?"
       },
-      "situational_summary": "At a wedding, an unloved daughter is publicly humiliated by her golden-child sister and mother before her groom rejects her for that very sister, sparking cold defiance in the spurned bride.",
+      "situational_summary": "Publicly abandoned and insulted at the altar in favor of her sister, Juliana swallows her heartbreak and hardens into cold defiance.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP001_08",
+      "absolute_rubric_score": 8.3,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.2,
+        "resonance_score": 2.1
+      },
+      "mmr_score": 0.0267,
+      "max_similarity_to_selected": 0.8753,
+      "boundary": {
+        "start_beat_id": "B012",
+        "end_beat_id": "B024",
+        "start_time": 32.8,
+        "end_time": 68.8,
+        "duration": 36.0,
+        "timestamp_source": "given",
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "None (Visual Opening)",
+        "opening_character": null,
+        "rationale": "No dialogue present in this beat."
+      },
+      "cliffhanger": {
+        "final_quote": "People change their minds, sister.",
+        "final_character": "LADY IN GOLD GOWN",
+        "specific_question": "How will Juliana retaliate against her own sister dismissing broken wedding vows so casually?"
+      },
+      "situational_summary": "A devastated bride confronts her groom at the altar for holding hands with another woman, only to be callously dismissed by him and mocked by her own sister.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP001_17",
+      "absolute_rubric_score": 7.9,
+      "subscores": {
+        "hook_score": 1.8,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.0
+      },
+      "mmr_score": -0.0245,
+      "max_similarity_to_selected": 0.8454,
+      "boundary": {
+        "start_beat_id": "B021",
+        "end_beat_id": "B037",
+        "start_time": 54.6,
+        "end_time": 113.0,
+        "duration": 58.4,
+        "timestamp_source": "given",
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You let me dress in my mother's gown...",
+        "opening_character": "LADY JULIANA",
+        "rationale": "Devastating escalation of betrayal: 'You let me dress in my mother's gown... You let me believe I was walking toward my husband!'"
+      },
+      "cliffhanger": {
+        "final_quote": "I am the daughter they choose.",
+        "final_character": "LADY IN GOLD GOWN",
+        "specific_question": "How will Juliana survive being publicly branded as the daughter only tolerated while Clarissa is chosen?"
+      },
+      "situational_summary": "After being jilted at the altar, a distraught bride begs her silent father for intervention, only to be cast aside by her family in favor of her favored sister.",
       "emotional_salience_score": 5,
       "spoiler_level": 1
     },
     {
       "portfolio_rank": 5,
-      "candidate_id": "CAND_EP001_25",
-      "absolute_rubric_score": 8.1,
+      "candidate_id": "CAND_EP001_26",
+      "absolute_rubric_score": 7.7,
       "subscores": {
-        "hook_score": 2.0,
-        "tension_score": 2.0,
-        "cliffhanger_score": 2.1,
-        "resonance_score": 2.0
+        "hook_score": 1.9,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 1.9
       },
-      "mmr_score": -0.1362,
-      "max_similarity_to_selected": 0.8777,
+      "mmr_score": -0.0672,
+      "max_similarity_to_selected": 0.8684,
       "boundary": {
-        "start_beat_id": "B024",
+        "start_beat_id": "B029",
         "end_beat_id": "B037",
-        "start_time": 66.0,
+        "start_time": 81.4,
         "end_time": 113.0,
-        "duration": 47.0,
+        "duration": 31.6,
+        "timestamp_source": "given",
         "composite_cleanliness": 5.0
       },
       "hook": {
-        "opening_quote": "People change their minds, sister.",
-        "opening_character": "LADY IN GOLD GOWN",
-        "rationale": "Stinging familial cruelty and patronizing insult ('People change their minds, sister')."
+        "opening_quote": "Tell them this is a mistake.",
+        "opening_character": "LADY JULIANA",
+        "rationale": "Desperate, high-stakes plea: 'Tell them this is a mistake' instantly communicates an unjust crisis."
       },
       "cliffhanger": {
         "final_quote": "I am the daughter they choose.",
         "final_character": "LADY IN GOLD GOWN",
-        "specific_question": "How will Juliana strike back after Clarissa brands her as the daughter merely 'tolerated' while Clarissa is 'chosen'?"
+        "specific_question": "How will Juliana survive being publicly branded as the daughter only tolerated while Clarissa is chosen?"
       },
-      "situational_summary": "After being replaced at her wedding, a devastated woman is publicly disowned and humiliated by her sister and family, who declare her merely tolerated while her sister is chosen.",
+      "situational_summary": "A desperate daughter drops to her knees begging her silent father to intervene, only to be denounced by the matriarch and told her sister is the chosen daughter.",
       "emotional_salience_score": 5,
       "spoiler_level": 1
     }
@@ -180,165 +185,382 @@
   "disqualification_log": [
     {
       "step": 2,
-      "candidate_id": "CAND_EP001_11",
+      "candidate_id": "CAND_EP001_12",
       "rank": 2,
-      "recommended_boundary": "B014 -> B024",
-      "similarity": 0.9534,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9534 >= 0.90)"
+      "recommended_boundary": "B014 -> B023",
+      "similarity": 0.9791,
+      "duplicate_of": "CAND_EP001_11",
+      "reason": "Exceeded near-duplicate threshold (0.9791 >= 0.90)"
     },
     {
       "step": 2,
-      "candidate_id": "CAND_EP001_12",
+      "candidate_id": "CAND_EP001_13",
       "rank": 3,
-      "recommended_boundary": "B014 -> B027",
-      "similarity": 0.9593,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9593 >= 0.90)"
+      "recommended_boundary": "B014 -> B024",
+      "similarity": 0.9787,
+      "duplicate_of": "CAND_EP001_11",
+      "reason": "Exceeded near-duplicate threshold (0.9787 >= 0.90)"
     },
     {
       "step": 2,
       "candidate_id": "CAND_EP001_10",
       "rank": 4,
-      "recommended_boundary": "B014 -> B023",
-      "similarity": 0.9889,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9889 >= 0.90)"
-    },
-    {
-      "step": 2,
-      "candidate_id": "CAND_EP001_08",
-      "rank": 5,
       "recommended_boundary": "B014 -> B021",
-      "similarity": 0.9815,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9815 >= 0.90)"
+      "similarity": 0.974,
+      "duplicate_of": "CAND_EP001_11",
+      "reason": "Exceeded near-duplicate threshold (0.9740 >= 0.90)"
     },
     {
       "step": 3,
-      "candidate_id": "CAND_EP001_11",
-      "rank": 2,
-      "recommended_boundary": "B014 -> B024",
-      "similarity": 0.9534,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9534 >= 0.90)"
-    },
-    {
-      "step": 3,
-      "candidate_id": "CAND_EP001_12",
-      "rank": 3,
-      "recommended_boundary": "B014 -> B027",
-      "similarity": 0.9593,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9593 >= 0.90)"
-    },
-    {
-      "step": 3,
-      "candidate_id": "CAND_EP001_10",
-      "rank": 4,
-      "recommended_boundary": "B014 -> B023",
-      "similarity": 0.9889,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9889 >= 0.90)"
-    },
-    {
-      "step": 3,
-      "candidate_id": "CAND_EP001_08",
-      "rank": 5,
-      "recommended_boundary": "B014 -> B021",
-      "similarity": 0.9815,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9815 >= 0.90)"
-    },
-    {
-      "step": 4,
-      "candidate_id": "CAND_EP001_11",
-      "rank": 2,
-      "recommended_boundary": "B014 -> B024",
-      "similarity": 0.9534,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9534 >= 0.90)"
-    },
-    {
-      "step": 4,
-      "candidate_id": "CAND_EP001_12",
-      "rank": 3,
-      "recommended_boundary": "B014 -> B027",
-      "similarity": 0.9593,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9593 >= 0.90)"
-    },
-    {
-      "step": 4,
-      "candidate_id": "CAND_EP001_10",
-      "rank": 4,
-      "recommended_boundary": "B014 -> B023",
-      "similarity": 0.9889,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9889 >= 0.90)"
-    },
-    {
-      "step": 4,
-      "candidate_id": "CAND_EP001_08",
-      "rank": 5,
-      "recommended_boundary": "B014 -> B021",
-      "similarity": 0.9815,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9815 >= 0.90)"
-    },
-    {
-      "step": 5,
-      "candidate_id": "CAND_EP001_11",
-      "rank": 2,
-      "recommended_boundary": "B014 -> B024",
-      "similarity": 0.9534,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9534 >= 0.90)"
-    },
-    {
-      "step": 5,
-      "candidate_id": "CAND_EP001_12",
-      "rank": 3,
-      "recommended_boundary": "B014 -> B027",
-      "similarity": 0.9593,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9593 >= 0.90)"
-    },
-    {
-      "step": 5,
-      "candidate_id": "CAND_EP001_10",
-      "rank": 4,
-      "recommended_boundary": "B014 -> B023",
-      "similarity": 0.9889,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9889 >= 0.90)"
-    },
-    {
-      "step": 5,
-      "candidate_id": "CAND_EP001_08",
-      "rank": 5,
-      "recommended_boundary": "B014 -> B021",
-      "similarity": 0.9815,
-      "duplicate_of": "CAND_EP001_09",
-      "reason": "Exceeded near-duplicate threshold (0.9815 >= 0.90)"
-    },
-    {
-      "step": 5,
-      "candidate_id": "CAND_EP001_32",
+      "candidate_id": "CAND_EP001_31",
       "rank": 9,
       "recommended_boundary": "B037 -> B044",
-      "similarity": 0.9765,
-      "duplicate_of": "CAND_EP001_33",
-      "reason": "Exceeded near-duplicate threshold (0.9765 >= 0.90)"
+      "similarity": 0.9662,
+      "duplicate_of": "CAND_EP001_32",
+      "reason": "Exceeded near-duplicate threshold (0.9662 >= 0.90)"
     },
     {
-      "step": 5,
-      "candidate_id": "CAND_EP001_31",
-      "rank": 12,
+      "step": 3,
+      "candidate_id": "CAND_EP001_30",
+      "rank": 11,
       "recommended_boundary": "B037 -> B043",
-      "similarity": 0.9727,
-      "duplicate_of": "CAND_EP001_33",
-      "reason": "Exceeded near-duplicate threshold (0.9727 >= 0.90)"
+      "similarity": 0.9722,
+      "duplicate_of": "CAND_EP001_32",
+      "reason": "Exceeded near-duplicate threshold (0.9722 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP001_05",
+      "rank": 13,
+      "recommended_boundary": "B004 -> B015",
+      "similarity": 0.9001,
+      "duplicate_of": "CAND_EP001_08",
+      "reason": "Exceeded near-duplicate threshold (0.9001 >= 0.90)"
     }
+  ],
+  "similarity_matrix": [
+    [
+      1.0000001192092896,
+      0.9791148900985718,
+      0.9786823987960815,
+      0.9739646911621094,
+      0.875338077545166,
+      0.7443840503692627,
+      0.8054571151733398,
+      0.7865794897079468,
+      0.7340488433837891,
+      0.7929216623306274,
+      0.7672594785690308,
+      0.7381750345230103,
+      0.8827536702156067,
+      0.7593861818313599,
+      0.7868714332580566,
+      0.7225579023361206,
+      0.7065566182136536
+    ],
+    [
+      0.9791148900985718,
+      1.000000238418579,
+      0.9795101881027222,
+      0.9825574159622192,
+      0.8806700110435486,
+      0.7447042465209961,
+      0.8186566233634949,
+      0.7885763645172119,
+      0.7376329302787781,
+      0.8069444894790649,
+      0.7667496204376221,
+      0.7482300996780396,
+      0.8951383829116821,
+      0.7699289321899414,
+      0.7935304641723633,
+      0.7299244403839111,
+      0.7121292352676392
+    ],
+    [
+      0.9786823987960815,
+      0.9795101881027222,
+      1.0,
+      0.9719959497451782,
+      0.8821722269058228,
+      0.7488497495651245,
+      0.8098902702331543,
+      0.7937569618225098,
+      0.7349038124084473,
+      0.7868643999099731,
+      0.7620724439620972,
+      0.7395910024642944,
+      0.874673068523407,
+      0.7547791004180908,
+      0.7822506427764893,
+      0.7177513837814331,
+      0.6998565196990967
+    ],
+    [
+      0.9739646911621094,
+      0.9825574159622192,
+      0.9719959497451782,
+      0.9999997615814209,
+      0.8631042242050171,
+      0.7484776377677917,
+      0.8270803689956665,
+      0.7921783328056335,
+      0.7425836324691772,
+      0.8061681985855103,
+      0.7675198316574097,
+      0.7527828216552734,
+      0.8853827714920044,
+      0.7658366560935974,
+      0.7895109057426453,
+      0.7276755571365356,
+      0.7082438468933105
+    ],
+    [
+      0.875338077545166,
+      0.8806700110435486,
+      0.8821722269058228,
+      0.8631042242050171,
+      0.9999998807907104,
+      0.7639245390892029,
+      0.842601478099823,
+      0.8019760847091675,
+      0.7468150854110718,
+      0.8084759712219238,
+      0.7772191762924194,
+      0.7781397104263306,
+      0.9001264572143555,
+      0.8259444236755371,
+      0.8173366189002991,
+      0.8157100677490234,
+      0.7614021301269531
+    ],
+    [
+      0.7443840503692627,
+      0.7447042465209961,
+      0.7488497495651245,
+      0.7484776377677917,
+      0.7639245390892029,
+      0.9999997019767761,
+      0.845373272895813,
+      0.7877027988433838,
+      0.966172456741333,
+      0.8204803466796875,
+      0.9721664190292358,
+      0.8108175992965698,
+      0.7042165398597717,
+      0.6693222522735596,
+      0.6401312351226807,
+      0.659123420715332,
+      0.65571528673172
+    ],
+    [
+      0.8054571151733398,
+      0.8186566233634949,
+      0.8098902702331543,
+      0.8270803689956665,
+      0.842601478099823,
+      0.845373272895813,
+      1.0000001192092896,
+      0.8683784008026123,
+      0.8345944285392761,
+      0.8239222764968872,
+      0.8556197881698608,
+      0.8046544790267944,
+      0.8297387361526489,
+      0.7785759568214417,
+      0.7497606873512268,
+      0.7517543435096741,
+      0.7493600249290466
+    ],
+    [
+      0.7865794897079468,
+      0.7885763645172119,
+      0.7937569618225098,
+      0.7921783328056335,
+      0.8019760847091675,
+      0.7877027988433838,
+      0.8683784008026123,
+      0.9999997615814209,
+      0.7626966238021851,
+      0.7615604400634766,
+      0.7980082035064697,
+      0.7682298421859741,
+      0.77535080909729,
+      0.7430561780929565,
+      0.7188037633895874,
+      0.7229549884796143,
+      0.7171463966369629
+    ],
+    [
+      0.7340488433837891,
+      0.7376329302787781,
+      0.7349038124084473,
+      0.7425836324691772,
+      0.7468150854110718,
+      0.966172456741333,
+      0.8345944285392761,
+      0.7626966238021851,
+      1.000000238418579,
+      0.8053368926048279,
+      0.9547516703605652,
+      0.800606369972229,
+      0.7004690766334534,
+      0.6712707281112671,
+      0.64186692237854,
+      0.6632784605026245,
+      0.656836986541748
+    ],
+    [
+      0.7929216623306274,
+      0.8069444894790649,
+      0.7868643999099731,
+      0.8061681985855103,
+      0.8084759712219238,
+      0.8204803466796875,
+      0.8239222764968872,
+      0.7615604400634766,
+      0.8053368926048279,
+      1.0000001192092896,
+      0.8143607378005981,
+      0.7925201654434204,
+      0.7910938262939453,
+      0.7229176759719849,
+      0.7035291194915771,
+      0.7070976495742798,
+      0.6963964700698853
+    ],
+    [
+      0.7672594785690308,
+      0.7667496204376221,
+      0.7620724439620972,
+      0.7675198316574097,
+      0.7772191762924194,
+      0.9721664190292358,
+      0.8556197881698608,
+      0.7980082035064697,
+      0.9547516703605652,
+      0.8143607378005981,
+      1.0,
+      0.821777880191803,
+      0.74074786901474,
+      0.6920334696769714,
+      0.6628090143203735,
+      0.6804641485214233,
+      0.6705430150032043
+    ],
+    [
+      0.7381750345230103,
+      0.7482300996780396,
+      0.7395910024642944,
+      0.7527828216552734,
+      0.7781397104263306,
+      0.8108175992965698,
+      0.8046544790267944,
+      0.7682298421859741,
+      0.800606369972229,
+      0.7925201654434204,
+      0.821777880191803,
+      1.0000001192092896,
+      0.7423481941223145,
+      0.6723909378051758,
+      0.6360512971878052,
+      0.6622957587242126,
+      0.6696228384971619
+    ],
+    [
+      0.8827536702156067,
+      0.8951383829116821,
+      0.874673068523407,
+      0.8853827714920044,
+      0.9001264572143555,
+      0.7042165398597717,
+      0.8297387361526489,
+      0.77535080909729,
+      0.7004690766334534,
+      0.7910938262939453,
+      0.74074786901474,
+      0.7423481941223145,
+      1.000000238418579,
+      0.8452966809272766,
+      0.8199907541275024,
+      0.7981880903244019,
+      0.7621638178825378
+    ],
+    [
+      0.7593861818313599,
+      0.7699289321899414,
+      0.7547791004180908,
+      0.7658366560935974,
+      0.8259444236755371,
+      0.6693222522735596,
+      0.7785759568214417,
+      0.7430561780929565,
+      0.6712707281112671,
+      0.7229176759719849,
+      0.6920334696769714,
+      0.6723909378051758,
+      0.8452966809272766,
+      1.0,
+      0.9726862907409668,
+      0.9768965244293213,
+      0.936824381351471
+    ],
+    [
+      0.7868714332580566,
+      0.7935304641723633,
+      0.7822506427764893,
+      0.7895109057426453,
+      0.8173366189002991,
+      0.6401312351226807,
+      0.7497606873512268,
+      0.7188037633895874,
+      0.64186692237854,
+      0.7035291194915771,
+      0.6628090143203735,
+      0.6360512971878052,
+      0.8199907541275024,
+      0.9726862907409668,
+      1.000000238418579,
+      0.9575793147087097,
+      0.9247375726699829
+    ],
+    [
+      0.7225579023361206,
+      0.7299244403839111,
+      0.7177513837814331,
+      0.7276755571365356,
+      0.8157100677490234,
+      0.659123420715332,
+      0.7517543435096741,
+      0.7229549884796143,
+      0.6632784605026245,
+      0.7070976495742798,
+      0.6804641485214233,
+      0.6622957587242126,
+      0.7981880903244019,
+      0.9768965244293213,
+      0.9575793147087097,
+      1.000000238418579,
+      0.9374983310699463
+    ],
+    [
+      0.7065566182136536,
+      0.7121292352676392,
+      0.6998565196990967,
+      0.7082438468933105,
+      0.7614021301269531,
+      0.65571528673172,
+      0.7493600249290466,
+      0.7171463966369629,
+      0.656836986541748,
+      0.6963964700698853,
+      0.6705430150032043,
+      0.6696228384971619,
+      0.7621638178825378,
+      0.936824381351471,
+      0.9247375726699829,
+      0.9374983310699463,
+      1.0000001192092896
+    ]
   ]
 }

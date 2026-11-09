@@ -101,6 +101,18 @@ class TestCliE2E(unittest.TestCase):
             found = find_script_file(1, tmp_root)
             self.assertEqual(found, test_ep)
 
+    def test_cli_list_models_flag(self):
+        """Running with --list-models displays the model catalog and pricing table with exit code 0."""
+        cmd = [sys.executable, str(PROMO_DIR / "run_pipeline.py"), "--list-models"]
+        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, cwd=str(REPO_ROOT))
+        self.assertEqual(res.returncode, 0, f"--list-models failed: {res.stderr}")
+        self.assertIn("PROMO-FINDER MULTI-PROVIDER MODEL CATALOG", res.stdout)
+        self.assertIn("gemini-2.5-flash", res.stdout)
+        self.assertIn("gpt-4o", res.stdout)
+        self.assertIn("claude-3-5-sonnet", res.stdout)
+        self.assertIn("deepseek-chat", res.stdout)
+        self.assertIn("meta-llama", res.stdout)
+
 
 if __name__ == "__main__":
     unittest.main()

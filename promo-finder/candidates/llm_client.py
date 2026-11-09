@@ -42,12 +42,543 @@ def get_default_model() -> str:
         return "gpt-4o-mini"
     if os.environ.get("GEMINI_API_KEY"):
         return "gemini-2.5-flash"
-    return "gemini-2.5-flash"
+    # Local CLI Bridge default
+    return "gemini-3.8-flash-low"
 
 DEFAULT_MODEL = get_default_model()
 AGY_EXE = os.environ.get("AGY_EXE", shutil.which("agy") or str(Path.home() / ".gemini" / "bin" / "agy"))
 API_KEY = os.environ.get("LLM_API_KEY", os.environ.get("OPENAI_API_KEY", os.environ.get("GEMINI_API_KEY", "")))
 API_BASE_URL = os.environ.get("LLM_API_BASE_URL", "")
+
+
+# -----------------------------------------------------------------------------
+# Comprehensive Multi-Provider Model Catalog & Pricing Registry
+# -----------------------------------------------------------------------------
+MODEL_CATALOG: Dict[str, Dict[str, Any]] = {
+    # Google Gemini Models
+    "gemini-2.5-flash": {
+        "provider": "google",
+        "description": "Google Gemini 2.5 Flash (Flagship high-speed multimodal)",
+        "input_cost_per_million": 0.075,
+        "output_cost_per_million": 0.30,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "gemini-2.5-flash",
+    },
+    "gemini-2.5-pro": {
+        "provider": "google",
+        "description": "Google Gemini 2.5 Pro (Deep reasoning and complex synthesis)",
+        "input_cost_per_million": 1.25,
+        "output_cost_per_million": 5.00,
+        "cli_equivalent": "gemini-3.8-flash-high",
+        "rest_equivalent": "gemini-2.5-pro",
+    },
+    "gemini-2.0-flash": {
+        "provider": "google",
+        "description": "Google Gemini 2.0 Flash (Next-gen ultra-low latency)",
+        "input_cost_per_million": 0.10,
+        "output_cost_per_million": 0.40,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "gemini-2.0-flash",
+    },
+    "gemini-2.0-flash-lite": {
+        "provider": "google",
+        "description": "Google Gemini 2.0 Flash Lite (Cost-efficient lightweight)",
+        "input_cost_per_million": 0.075,
+        "output_cost_per_million": 0.30,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "gemini-2.0-flash-lite",
+    },
+    "gemini-2.0-flash-thinking-exp": {
+        "provider": "google",
+        "description": "Google Gemini 2.0 Flash Thinking Experimental",
+        "input_cost_per_million": 0.10,
+        "output_cost_per_million": 0.40,
+        "cli_equivalent": "gemini-3.8-flash-medium",
+        "rest_equivalent": "gemini-2.0-flash-thinking-exp",
+    },
+    "gemini-1.5-flash": {
+        "provider": "google",
+        "description": "Google Gemini 1.5 Flash (Standard production workhorse)",
+        "input_cost_per_million": 0.075,
+        "output_cost_per_million": 0.30,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "gemini-1.5-flash",
+    },
+    "gemini-1.5-flash-8b": {
+        "provider": "google",
+        "description": "Google Gemini 1.5 Flash 8B (Sub-10B lightweight tier)",
+        "input_cost_per_million": 0.0375,
+        "output_cost_per_million": 0.15,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "gemini-1.5-flash-8b",
+    },
+    "gemini-1.5-pro": {
+        "provider": "google",
+        "description": "Google Gemini 1.5 Pro (2M context reasoning)",
+        "input_cost_per_million": 1.25,
+        "output_cost_per_million": 5.00,
+        "cli_equivalent": "gemini-3.8-flash-high",
+        "rest_equivalent": "gemini-1.5-pro",
+    },
+    "gemini-3.8-flash-low": {
+        "provider": "google",
+        "description": "Local CLI Gemini 3.8 Flash (Low Reasoning Effort)",
+        "input_cost_per_million": 0.075,
+        "output_cost_per_million": 0.30,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "gemini-2.5-flash",
+    },
+    "gemini-3.8-flash-medium": {
+        "provider": "google",
+        "description": "Local CLI Gemini 3.8 Flash (Medium Reasoning Effort)",
+        "input_cost_per_million": 0.075,
+        "output_cost_per_million": 0.30,
+        "cli_equivalent": "gemini-3.8-flash-medium",
+        "rest_equivalent": "gemini-2.5-flash",
+    },
+    "gemini-3.8-flash-high": {
+        "provider": "google",
+        "description": "Local CLI Gemini 3.8 Flash (High Reasoning Effort)",
+        "input_cost_per_million": 0.075,
+        "output_cost_per_million": 0.30,
+        "cli_equivalent": "gemini-3.8-flash-high",
+        "rest_equivalent": "gemini-2.5-pro",
+    },
+
+    # OpenAI Models
+    "gpt-4o": {
+        "provider": "openai",
+        "description": "OpenAI GPT-4o (Flagship Omni model)",
+        "input_cost_per_million": 2.50,
+        "output_cost_per_million": 10.00,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "gpt-4o",
+    },
+    "gpt-4o-mini": {
+        "provider": "openai",
+        "description": "OpenAI GPT-4o Mini (Cost-efficient multimodal)",
+        "input_cost_per_million": 0.15,
+        "output_cost_per_million": 0.60,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "gpt-4o-mini",
+    },
+    "gpt-4o-2024-11-20": {
+        "provider": "openai",
+        "description": "OpenAI GPT-4o Checkpoint (2024-11-20)",
+        "input_cost_per_million": 2.50,
+        "output_cost_per_million": 10.00,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "gpt-4o-2024-11-20",
+    },
+    "gpt-4o-2024-08-06": {
+        "provider": "openai",
+        "description": "OpenAI GPT-4o Structured Outputs Checkpoint",
+        "input_cost_per_million": 2.50,
+        "output_cost_per_million": 10.00,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "gpt-4o-2024-08-06",
+    },
+    "chatgpt-4o-latest": {
+        "provider": "openai",
+        "description": "OpenAI ChatGPT-4o Latest Dynamic Endpoint",
+        "input_cost_per_million": 5.00,
+        "output_cost_per_million": 15.00,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "chatgpt-4o-latest",
+    },
+    "gpt-4-turbo": {
+        "provider": "openai",
+        "description": "OpenAI GPT-4 Turbo (128k context)",
+        "input_cost_per_million": 10.00,
+        "output_cost_per_million": 30.00,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "gpt-4-turbo",
+    },
+    "gpt-4": {
+        "provider": "openai",
+        "description": "OpenAI GPT-4 Classic",
+        "input_cost_per_million": 30.00,
+        "output_cost_per_million": 60.00,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "gpt-4",
+    },
+    "gpt-3.5-turbo": {
+        "provider": "openai",
+        "description": "OpenAI GPT-3.5 Turbo",
+        "input_cost_per_million": 0.50,
+        "output_cost_per_million": 1.50,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "gpt-3.5-turbo",
+    },
+    "o1": {
+        "provider": "openai",
+        "description": "OpenAI o1 Reasoning Model",
+        "input_cost_per_million": 15.00,
+        "output_cost_per_million": 60.00,
+        "cli_equivalent": "claude-opus-4-6-thinking",
+        "rest_equivalent": "o1",
+    },
+    "o1-mini": {
+        "provider": "openai",
+        "description": "OpenAI o1 Mini Fast Reasoning Model",
+        "input_cost_per_million": 3.00,
+        "output_cost_per_million": 12.00,
+        "cli_equivalent": "claude-sonnet-4-6",
+        "rest_equivalent": "o1-mini",
+    },
+    "o1-preview": {
+        "provider": "openai",
+        "description": "OpenAI o1 Preview Reasoning Model",
+        "input_cost_per_million": 15.00,
+        "output_cost_per_million": 60.00,
+        "cli_equivalent": "claude-opus-4-6-thinking",
+        "rest_equivalent": "o1-preview",
+    },
+    "o3-mini": {
+        "provider": "openai",
+        "description": "OpenAI o3 Mini Efficient Reasoning Model",
+        "input_cost_per_million": 1.10,
+        "output_cost_per_million": 4.40,
+        "cli_equivalent": "claude-sonnet-4-6",
+        "rest_equivalent": "o3-mini",
+    },
+    "gpt-oss-120b-medium": {
+        "provider": "openai/oss",
+        "description": "Local CLI Open-Source 120B Foundation Model",
+        "input_cost_per_million": 0.15,
+        "output_cost_per_million": 0.60,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "gpt-4o-mini",
+    },
+
+    # Anthropic Claude Models
+    "claude-3-7-sonnet": {
+        "provider": "anthropic",
+        "description": "Anthropic Claude 3.7 Sonnet (Hybrid Reasoning)",
+        "input_cost_per_million": 3.00,
+        "output_cost_per_million": 15.00,
+        "cli_equivalent": "claude-sonnet-4-6",
+        "rest_equivalent": "claude-3-7-sonnet",
+    },
+    "claude-3-5-sonnet": {
+        "provider": "anthropic",
+        "description": "Anthropic Claude 3.5 Sonnet (State of the art intelligence)",
+        "input_cost_per_million": 3.00,
+        "output_cost_per_million": 15.00,
+        "cli_equivalent": "claude-sonnet-4-6",
+        "rest_equivalent": "claude-3-5-sonnet-20241022",
+    },
+    "claude-3-5-sonnet-20241022": {
+        "provider": "anthropic",
+        "description": "Anthropic Claude 3.5 Sonnet (20241022 release)",
+        "input_cost_per_million": 3.00,
+        "output_cost_per_million": 15.00,
+        "cli_equivalent": "claude-sonnet-4-6",
+        "rest_equivalent": "claude-3-5-sonnet-20241022",
+    },
+    "claude-3-5-sonnet-20240620": {
+        "provider": "anthropic",
+        "description": "Anthropic Claude 3.5 Sonnet (Initial release)",
+        "input_cost_per_million": 3.00,
+        "output_cost_per_million": 15.00,
+        "cli_equivalent": "claude-sonnet-4-6",
+        "rest_equivalent": "claude-3-5-sonnet-20240620",
+    },
+    "claude-3-5-haiku": {
+        "provider": "anthropic",
+        "description": "Anthropic Claude 3.5 Haiku (High speed & low cost)",
+        "input_cost_per_million": 0.80,
+        "output_cost_per_million": 4.00,
+        "cli_equivalent": "claude-sonnet-4-6",
+        "rest_equivalent": "claude-3-5-haiku-20241022",
+    },
+    "claude-3-5-haiku-20241022": {
+        "provider": "anthropic",
+        "description": "Anthropic Claude 3.5 Haiku (20241022 release)",
+        "input_cost_per_million": 0.80,
+        "output_cost_per_million": 4.00,
+        "cli_equivalent": "claude-sonnet-4-6",
+        "rest_equivalent": "claude-3-5-haiku-20241022",
+    },
+    "claude-3-opus": {
+        "provider": "anthropic",
+        "description": "Anthropic Claude 3 Opus (Complex reasoning and creativity)",
+        "input_cost_per_million": 15.00,
+        "output_cost_per_million": 75.00,
+        "cli_equivalent": "claude-opus-4-6-thinking",
+        "rest_equivalent": "claude-3-opus-20240229",
+    },
+    "claude-3-opus-20240229": {
+        "provider": "anthropic",
+        "description": "Anthropic Claude 3 Opus (20240229 release)",
+        "input_cost_per_million": 15.00,
+        "output_cost_per_million": 75.00,
+        "cli_equivalent": "claude-opus-4-6-thinking",
+        "rest_equivalent": "claude-3-opus-20240229",
+    },
+    "claude-3-haiku": {
+        "provider": "anthropic",
+        "description": "Anthropic Claude 3 Haiku",
+        "input_cost_per_million": 0.25,
+        "output_cost_per_million": 1.25,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "claude-3-haiku-20240307",
+    },
+    "claude-sonnet-4-6": {
+        "provider": "anthropic",
+        "description": "Local CLI Claude Sonnet 4.6 (Thinking)",
+        "input_cost_per_million": 3.00,
+        "output_cost_per_million": 15.00,
+        "cli_equivalent": "claude-sonnet-4-6",
+        "rest_equivalent": "claude-3-5-sonnet-20241022",
+    },
+    "claude-opus-4-6-thinking": {
+        "provider": "anthropic",
+        "description": "Local CLI Claude Opus 4.6 (Extended Thinking)",
+        "input_cost_per_million": 15.00,
+        "output_cost_per_million": 75.00,
+        "cli_equivalent": "claude-opus-4-6-thinking",
+        "rest_equivalent": "claude-3-opus-20240229",
+    },
+
+    # DeepSeek Models
+    "deepseek-chat": {
+        "provider": "deepseek",
+        "description": "DeepSeek-V3 671B MoE General Model",
+        "input_cost_per_million": 0.14,
+        "output_cost_per_million": 0.28,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "deepseek-chat",
+    },
+    "deepseek-reasoner": {
+        "provider": "deepseek",
+        "description": "DeepSeek-R1 Open-Weights Reasoning Model",
+        "input_cost_per_million": 0.55,
+        "output_cost_per_million": 2.19,
+        "cli_equivalent": "claude-opus-4-6-thinking",
+        "rest_equivalent": "deepseek-reasoner",
+    },
+    "deepseek-v3": {
+        "provider": "deepseek",
+        "description": "DeepSeek-V3 MoE Checkpoint",
+        "input_cost_per_million": 0.14,
+        "output_cost_per_million": 0.28,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "deepseek-v3",
+    },
+    "deepseek-r1": {
+        "provider": "deepseek",
+        "description": "DeepSeek-R1 Checkpoint",
+        "input_cost_per_million": 0.55,
+        "output_cost_per_million": 2.19,
+        "cli_equivalent": "claude-opus-4-6-thinking",
+        "rest_equivalent": "deepseek-r1",
+    },
+
+    # Meta Llama Models
+    "meta-llama/Llama-3.3-70B-Instruct": {
+        "provider": "meta",
+        "description": "Meta Llama 3.3 70B Instruct (High efficiency flagship)",
+        "input_cost_per_million": 0.13,
+        "output_cost_per_million": 0.40,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "meta-llama/Llama-3.3-70B-Instruct",
+    },
+    "meta-llama/Llama-3.1-405B-Instruct": {
+        "provider": "meta",
+        "description": "Meta Llama 3.1 405B Instruct (Ultra-scale open model)",
+        "input_cost_per_million": 1.00,
+        "output_cost_per_million": 3.00,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "meta-llama/Llama-3.1-405B-Instruct",
+    },
+    "meta-llama/Llama-3.1-70B-Instruct": {
+        "provider": "meta",
+        "description": "Meta Llama 3.1 70B Instruct",
+        "input_cost_per_million": 0.13,
+        "output_cost_per_million": 0.40,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "meta-llama/Llama-3.1-70B-Instruct",
+    },
+    "meta-llama/Llama-3.1-8B-Instruct": {
+        "provider": "meta",
+        "description": "Meta Llama 3.1 8B Instruct",
+        "input_cost_per_million": 0.05,
+        "output_cost_per_million": 0.10,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "meta-llama/Llama-3.1-8B-Instruct",
+    },
+    "llama-3.3-70b": {
+        "provider": "meta",
+        "description": "Llama 3.3 70B Short Alias",
+        "input_cost_per_million": 0.13,
+        "output_cost_per_million": 0.40,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "meta-llama/Llama-3.3-70B-Instruct",
+    },
+    "llama-3.1-70b": {
+        "provider": "meta",
+        "description": "Llama 3.1 70B Short Alias",
+        "input_cost_per_million": 0.13,
+        "output_cost_per_million": 0.40,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "meta-llama/Llama-3.1-70B-Instruct",
+    },
+    "llama-3.1-8b": {
+        "provider": "meta",
+        "description": "Llama 3.1 8B Short Alias",
+        "input_cost_per_million": 0.05,
+        "output_cost_per_million": 0.10,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "meta-llama/Llama-3.1-8B-Instruct",
+    },
+
+    # Mistral AI Models
+    "mistral-large-latest": {
+        "provider": "mistral",
+        "description": "Mistral Large 2 (Top tier reasoning & multilingual)",
+        "input_cost_per_million": 2.00,
+        "output_cost_per_million": 6.00,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "mistral-large-latest",
+    },
+    "mistral-small-latest": {
+        "provider": "mistral",
+        "description": "Mistral Small (Cost-effective fast reasoning)",
+        "input_cost_per_million": 0.20,
+        "output_cost_per_million": 0.60,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "mistral-small-latest",
+    },
+    "codestral-latest": {
+        "provider": "mistral",
+        "description": "Mistral Codestral (Code & JSON structured output specialist)",
+        "input_cost_per_million": 0.30,
+        "output_cost_per_million": 0.90,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "codestral-latest",
+    },
+    "open-mixtral-8x22b": {
+        "provider": "mistral",
+        "description": "Mistral Mixtral 8x22B MoE",
+        "input_cost_per_million": 0.90,
+        "output_cost_per_million": 0.90,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "open-mixtral-8x22b",
+    },
+    "open-mixtral-8x7b": {
+        "provider": "mistral",
+        "description": "Mistral Mixtral 8x7B MoE",
+        "input_cost_per_million": 0.45,
+        "output_cost_per_million": 0.45,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "open-mixtral-8x7b",
+    },
+
+    # Qwen (Alibaba) Models
+    "qwen-2.5-72b-instruct": {
+        "provider": "qwen",
+        "description": "Qwen 2.5 72B Instruct (Leading open model)",
+        "input_cost_per_million": 0.35,
+        "output_cost_per_million": 0.70,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "Qwen/Qwen2.5-72B-Instruct",
+    },
+    "qwen-2.5-32b-instruct": {
+        "provider": "qwen",
+        "description": "Qwen 2.5 32B Instruct (High efficiency)",
+        "input_cost_per_million": 0.20,
+        "output_cost_per_million": 0.40,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "Qwen/Qwen2.5-32B-Instruct",
+    },
+    "qwen-2.5-coder-32b-instruct": {
+        "provider": "qwen",
+        "description": "Qwen 2.5 Coder 32B (JSON & code generation specialist)",
+        "input_cost_per_million": 0.20,
+        "output_cost_per_million": 0.40,
+        "cli_equivalent": "gpt-oss-120b-medium",
+        "rest_equivalent": "Qwen/Qwen2.5-Coder-32B-Instruct",
+    },
+    "qwen-2.5-7b-instruct": {
+        "provider": "qwen",
+        "description": "Qwen 2.5 7B Instruct (Compact edge model)",
+        "input_cost_per_million": 0.05,
+        "output_cost_per_million": 0.10,
+        "cli_equivalent": "gemini-3.8-flash-low",
+        "rest_equivalent": "Qwen/Qwen2.5-7b-instruct",
+    },
+}
+
+
+_DETECTED_CLI_MODELS: Optional[set] = None
+
+
+def get_available_cli_models(cli_exe: str = AGY_EXE) -> set:
+    """Discovers available models from local CLI bridge (agy) dynamically."""
+    global _DETECTED_CLI_MODELS
+    if _DETECTED_CLI_MODELS is not None:
+        return _DETECTED_CLI_MODELS
+    resolved = cli_exe if os.path.exists(cli_exe) else shutil.which(cli_exe)
+    if resolved:
+        try:
+            res = subprocess.run([resolved, "models"], capture_output=True, text=True, timeout=5)
+            found = set()
+            for line in res.stdout.splitlines():
+                parts = line.strip().split()
+                if parts and not parts[0].startswith("Fetching") and not parts[0].startswith("⠋"):
+                    found.add(parts[0].lower())
+            if found:
+                _DETECTED_CLI_MODELS = found
+                return _DETECTED_CLI_MODELS
+        except Exception:
+            pass
+    # Fallback to standard known set
+    _DETECTED_CLI_MODELS = {
+        "gemini-3.8-flash-low",
+        "gemini-3.8-flash-medium",
+        "gemini-3.8-flash-high",
+        "claude-sonnet-4-6",
+        "claude-opus-4-6-thinking",
+        "gpt-oss-120b-medium",
+    }
+    return _DETECTED_CLI_MODELS
+
+
+def resolve_cli_model(model: str) -> str:
+    """Maps generic / third-party model names to supported local CLI bridge (agy) models."""
+    m = model.lower().strip()
+    available = get_available_cli_models()
+    if m in available:
+        return m
+    if model in MODEL_CATALOG and "cli_equivalent" in MODEL_CATALOG[model]:
+        return MODEL_CATALOG[model]["cli_equivalent"]
+    # Keyword / family fallbacks
+    if any(k in m for k in ["opus", "reasoner", "r1", "o1", "thinking"]):
+        return "claude-opus-4-6-thinking" if "claude-opus-4-6-thinking" in available else "gemini-3.8-flash-high"
+    if any(k in m for k in ["claude", "sonnet"]):
+        return "claude-sonnet-4-6" if "claude-sonnet-4-6" in available else "gemini-3.8-flash-medium"
+    if any(k in m for k in ["gpt", "llama", "deepseek", "qwen", "mistral", "oss"]):
+        return "gpt-oss-120b-medium" if "gpt-oss-120b-medium" in available else "gemini-3.8-flash-low"
+    if any(k in m for k in ["pro", "high"]):
+        return "gemini-3.8-flash-high"
+    if "medium" in m:
+        return "gemini-3.8-flash-medium"
+    return "gemini-3.8-flash-low"
+
+
+def resolve_rest_model(model: str, base_url: str) -> str:
+    """Maps local/generic model names to supported public REST API model identifiers."""
+    m = model.strip()
+    if model in MODEL_CATALOG and "rest_equivalent" in MODEL_CATALOG[model]:
+        m = MODEL_CATALOG[model]["rest_equivalent"]
+    if "generativelanguage.googleapis.com" in base_url:
+        if "gemini-3.8" in m:
+            return "gemini-2.5-flash"
+    elif "api.openai.com" in base_url:
+        if "gemini" in m.lower():
+            return "gpt-4o-mini"
+    return m
 
 def get_api_credentials() -> Tuple[str, str]:
     """Dynamically resolve API credentials and base URL at call time."""
@@ -94,11 +625,27 @@ def estimate_tokens(text: str) -> int:
     return max(1, int(words * 1.33)) if words > 0 else max(1, chars // 4)
 
 
-def calculate_cost(input_tokens: int, output_tokens: int) -> float:
-    """Calculates estimated USD cost from token counts."""
-    in_cost = (input_tokens / 1_000_000.0) * INPUT_COST_PER_MILLION
-    out_cost = (output_tokens / 1_000_000.0) * OUTPUT_COST_PER_MILLION
+def calculate_cost(input_tokens: int, output_tokens: int, model: Optional[str] = None) -> float:
+    """Calculates estimated USD cost from token counts and model pricing."""
+    in_rate = INPUT_COST_PER_MILLION
+    out_rate = OUTPUT_COST_PER_MILLION
+    if model and model in MODEL_CATALOG:
+        in_rate = MODEL_CATALOG[model].get("input_cost_per_million", in_rate)
+        out_rate = MODEL_CATALOG[model].get("output_cost_per_million", out_rate)
+    in_cost = (input_tokens / 1_000_000.0) * in_rate
+    out_cost = (output_tokens / 1_000_000.0) * out_rate
     return round(in_cost + out_cost, 7)
+
+
+def list_supported_models() -> List[Dict[str, Any]]:
+    """Returns all models registered in the catalog with their provider, description, and pricing."""
+    return [
+        {
+            "model": k,
+            **v
+        }
+        for k, v in MODEL_CATALOG.items()
+    ]
 
 
 def extract_json_payload(raw_text: str) -> Any:
@@ -135,12 +682,13 @@ def log_llm_call(log_path: Path, entry: Dict[str, Any]):
 def _call_http_api(prompt: str, model: str, api_url: str, api_key: str, timeout: int = 120) -> str:
     """Standard OpenAI-compatible HTTPS REST API call using standard library urllib."""
     url = f"{api_url.rstrip('/')}/chat/completions"
+    active_model = resolve_rest_model(model, api_url)
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {api_key}",
     }
     payload = {
-        "model": model,
+        "model": active_model,
         "messages": [
             {"role": "system", "content": "You are an expert microdrama promo analysis model. Always output strict JSON."},
             {"role": "user", "content": prompt},
@@ -162,8 +710,9 @@ def _call_cli_bridge(prompt: str, model: str, cli_exe: str, timeout: int = 120) 
             "Please configure OPENAI_API_KEY / GEMINI_API_KEY for REST API mode, "
             "or set AGY_EXE to the path of your local CLI bridge."
         )
+    cli_model = resolve_cli_model(model)
     res = subprocess.run(
-        [resolved_exe, "--model", model, "--print", prompt],
+        [resolved_exe, "--model", cli_model, "--print", prompt],
         capture_output=True,
         text=True,
         timeout=timeout,
@@ -216,7 +765,7 @@ def call_llm(
             parsed = extract_json_payload(raw_output)
             latency = round(time.time() - t0, 3)
             output_tokens = estimate_tokens(raw_output)
-            cost = calculate_cost(input_tokens, output_tokens)
+            cost = calculate_cost(input_tokens, output_tokens, active_model)
 
             log_entry = {
                 "timestamp": datetime.datetime.now(datetime.timezone.utc).isoformat(),

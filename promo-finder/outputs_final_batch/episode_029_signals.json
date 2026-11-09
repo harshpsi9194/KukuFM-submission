@@ -1,0 +1,636 @@
+{
+  "episode_number": 29,
+  "hook_signals": [
+    {
+      "beat_id": "B001",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "High-urgency physical conflict on mute: two armed guards forcibly hauling a struggling woman down a dark, glistening dungeon corridor.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B002",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Low-angle framing of an antagonist holding a book establishes status, but lacks immediate physical action or urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B003",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Desperate, high-stakes plea ('That book is my mother's only legacy!') establishes acute personal loss and vulnerability immediately.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of a tearful heroine desperately reaching out toward her oppressor carries strong emotional friction legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B004",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Passive reverse shot of Catherine watching Juliana dragged away; clear scenario but low visceral shock.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B005",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Empassioned scream detailing stolen life's work, providing clear emotional stakes though slightly expositional.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of a weeping protagonist screaming over her shoulder conveys sharp distress on mute.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B006",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 1,
+      "visual_hook_rationale": "Standard full shot of Catherine turning gracefully on dungeon steps with minimal narrative tension.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B007",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Cruel, mocking dismissal ('Your mother's little book of weeds?') delivers a biting personal insult and conflict.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Push-in on Catherine presenting the book is deliberate but relatively static in physical action.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B008",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sharp, defiant exclamation ('It is medicine!') directly counters the antagonist's dismissal.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of restrained protagonist glaring with fierce defiance shows clear conflict dynamic.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B009",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "A brief conversational dismissive reply ('Of course') with zero standalone tension or stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Smug condescending smile communicates villainy but lacks dramatic motion.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B010",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Sinister inventory of ingredients ('written in a dead woman's hand') introduces eerie stakes.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Overhead insert of gloved hands flipping through pages provides detail but little scroll-stopping urgency.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B011",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Lethal accusation ('The magistrate will call it witchcraft') introduces instant capital stakes and existential peril.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Medium shot of villain tucking book under her arm with glinting malicious eyes reveals sinister intent.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B012",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Direct, outraged challenge ('You know that is a lie!') confronts the conspiracy head-on.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Physical lunge against guards' grip with bared teeth provides intense, kinetic physical resistance.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B013",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Chilling declaration of corrupt manipulation ('I know exactly what I need him to believe') frames ruthless villainy.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Arrogant chin lift against stone backdrop is standard dramatic posturing.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B014",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Desperate protest against imminent destruction ('You cannot just destroy it!') signals urgent danger.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Frantic thrashing against two guards displays visceral physical struggle legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B015",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Ruthless, definitive threat ('I can burn it') provides instant high-stakes shock value.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Tight close-up of icy, venomous eyes narrowing delivers immediate, intense villainous malice.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B016",
+      "dialogue_hook_score": 5,
+      "dialogue_hook_rationale": "Graphic execution threat ('And when they find your corpse at the end of the rope...') creates immediate lethal stakes.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of stricken face widening in sheer horror registers profound peril without sound.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B017",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Cold continuation of execution threat ('no one will remember what was written inside') emphasizes erasure.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Side close-up leaning forward shows menace but lacks striking physical movement.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B018",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Explosive revelation of motive and injustice ('You are doing this because I saved the Duchess!').",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Close-up of protagonist screaming in raw, unbridled outrage instantly arrests attention.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B019",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Brutal classist subjugation ('I am doing this because women like you forget their place') delivers harsh social violence.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle shot of rigid silk gown and contemptuous expression clearly conveys power imbalance.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B020",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Accusatory reminder of past ostracization ('You were cast out once') stokes curiosity and conflict.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Quick upward pan from apron to aristocratic face contrasts class divide dynamically.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B021",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Cold, merciless dismissal ('You should have stayed forgotten') delivers a cutting personal rejection.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of smiling lips paired with freezing blue eyes creates an unsettling villain portrait.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B022",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Defiant invocation of a protector ('My husband will find me') introduces counter-tension and hope.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Tearful face lifting with proud, unbroken resolve offers compelling emotional contrast.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B023",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Derisive mockery targeting the protector ('Your scarred soldier?') introduces character intrigue and contempt.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Mocking head tilt and scornful laughter are standard conversational villain gestures.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B024",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Scathing put-down emphasizing powerlessness ('What exactly do you think a penniless veteran can do against Ashbrook?').",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Hardening facial close-up into sharp mockery underscores active psychological dominance.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B025",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Generic guard dismissal ('Move along, girl') provides minor functional pressure.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Heavy hand clamping down on shoulder followed by an aggressive physical shove creates instant scroll-stopping action.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B026",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Wide tracking shot marching a prisoner down puddle-strewn dungeon toward an iron cell establishes bleak atmosphere.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B027",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Desperate generic plea ('Please!') lacks standalone context or distinct shock.",
+      "visual_hook_score": 5,
+      "visual_hook_rationale": "Violent shove throwing the protagonist hard onto all fours across wet stone is an immediate visual scroll-stopper.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B028",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Static shot of a locked iron door conveys isolation but lacks human motion or action.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B029",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Protagonist trembling uncontrollably, clutching chest in severe panic attack/hyperventilation reads intensely on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B030",
+      "dialogue_hook_score": 1,
+      "dialogue_hook_rationale": "Single whispered word ('Mother...') conveys grief but lacks narrative context or punch.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Extreme close-up of a tear-drenched face crumpling in sheer despair communicates raw distress.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B031",
+      "dialogue_hook_score": 3,
+      "dialogue_hook_rationale": "Desperate plea of innocence ('I have done nothing!') establishes wrongful imprisonment stakes.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Sudden scramble off the floor and desperate dash toward barred door creates kinetic visual urgency.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B032",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Frantic outcry revealing the grave irony ('I saved her! I healed her!') establishes immediate unjust betrayal.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Gripping rusted iron bars while screaming down an empty corridor provides an iconic wrongful imprisonment visual.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B033",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "High-stakes declaration ('I saved the Duchess!') firmly grounds the political conspiracy.",
+      "visual_hook_score": 4,
+      "visual_hook_rationale": "Frantic pounding of fists against a heavy iron door provides urgent physical distress legible on mute.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B034",
+      "dialogue_hook_score": 2,
+      "dialogue_hook_rationale": "Grief-stricken lament ('They took my mother's ledger...') sounds defeated rather than commanding.",
+      "visual_hook_score": 2,
+      "visual_hook_rationale": "Slumping against stone wall pulling knees to chest while weeping is low-energy sorrow.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B035",
+      "dialogue_hook_score": 4,
+      "dialogue_hook_rationale": "Vow of resistance ('they will not take Alexander from me') delivers romance and defiance.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Rising to feet with crossed arms as weeping transforms into steely resolve shows strong character arc.",
+      "is_strong_hook": true
+    },
+    {
+      "beat_id": "B036",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Close-up of massive iron portcullis bars slamming shut conveys abrupt finality and entrapment.",
+      "is_strong_hook": false
+    },
+    {
+      "beat_id": "B037",
+      "dialogue_hook_score": 0,
+      "dialogue_hook_rationale": "No dialogue present in this beat.",
+      "visual_hook_score": 3,
+      "visual_hook_rationale": "Low-angle shot of dignified figure gazing up into moonlight beams offers striking, atmospheric framing.",
+      "is_strong_hook": false
+    }
+  ],
+  "cliffhanger_signals": [
+    {
+      "beat_id": "B001",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why are armed guards forcibly dragging Juliana into the depths of a dungeon?",
+      "stakes_importance": "Moderate \u2014 establishes immediate physical peril and captivity for the protagonist without revealing the charges or mastermind.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B002",
+      "curiosity_gap_score": 2,
+      "specific_question": "What is Catherine's role in Juliana's arrest and why is she holding that book?",
+      "stakes_importance": "Medium \u2014 visually introduces the antagonist in possession of Juliana's prized possession, but tension is static.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B003",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Catherine show any mercy and return Juliana's mother's legacy?",
+      "stakes_importance": "Medium \u2014 establishes the emotional and sentimental value of the stolen book.",
+      "defuses_tension": false,
+      "cliffhanger_type": "moral_dilemma",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B004",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Catherine let the guards take Juliana without uttering a word?",
+      "stakes_importance": "Low \u2014 silent cutaway shot emphasizing cold indifference.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B005",
+      "curiosity_gap_score": 3,
+      "specific_question": "What invaluable secrets or knowledge are recorded inside the mother's book that Juliana is desperate to protect?",
+      "stakes_importance": "Medium \u2014 elevates the value of the herbarium from sentimental keepsake to dangerous intellectual property.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B006",
+      "curiosity_gap_score": 2,
+      "specific_question": "How will Catherine respond to Juliana's desperate pleas?",
+      "stakes_importance": "Low \u2014 body language transition beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B007",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana defend her mother's life's work against Catherine's sneering contempt?",
+      "stakes_importance": "Medium \u2014 public denigration of the protagonist's family legacy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B008",
+      "curiosity_gap_score": 3,
+      "specific_question": "How will Catherine react to Juliana boldly defying her in front of the guards?",
+      "stakes_importance": "Medium \u2014 protagonist asserts truth and medical legitimacy under captive conditions.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B009",
+      "curiosity_gap_score": 2,
+      "specific_question": "What sinister plan does Catherine have behind her patronizing smile?",
+      "stakes_importance": "Low \u2014 brief pause before dialogue continuation.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B010",
+      "curiosity_gap_score": 3,
+      "specific_question": "What will Catherine do with the formulas in the dead woman's book?",
+      "stakes_importance": "Medium \u2014 inspects the evidence, teasing its weaponization against Juliana.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B011",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will the magistrate sentence Juliana to death for witchcraft based on Catherine's fabricated accusation?",
+      "stakes_importance": "High \u2014 transforms a personal feud into a capital crime carrying a death sentence.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B012",
+      "curiosity_gap_score": 3,
+      "specific_question": "Can Juliana expose Catherine's frame job before she is tried and convicted?",
+      "stakes_importance": "Medium \u2014 desperate protest of innocence against a powerful noblewoman.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B013",
+      "curiosity_gap_score": 4,
+      "specific_question": "How can Juliana fight back when Catherine holds total control over the local justice system?",
+      "stakes_importance": "High \u2014 chilling admission of corruption and intent to manipulate the magistrate.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B014",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Catherine destroy the irreplaceable medical ledger right in front of Juliana?",
+      "stakes_importance": "Medium \u2014 immediate threat of physical destruction to the mother's legacy.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B015",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will Catherine immediately set fire to the herbarium to eliminate all proof of Juliana's legitimate healing?",
+      "stakes_importance": "High \u2014 irreversible destruction of vital evidence and familial heritage.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B016",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Catherine actually execute Juliana by public hanging in the dungeon?",
+      "stakes_importance": "High \u2014 explicit death threat and anticipation of fatal execution.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B017",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Juliana survive Catherine's ruthless plot to execute her and erase her mother's name forever?",
+      "stakes_importance": "High \u2014 ultimate declaration of total annihilation (death plus historical erasure).",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B018",
+      "curiosity_gap_score": 4,
+      "specific_question": "Why does Juliana's lifesaving cure of the Duchess threaten Catherine enough to justify murder?",
+      "stakes_importance": "High \u2014 reveals the true motive behind the conspiracy and frames Juliana as an unacknowledged savior.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B019",
+      "curiosity_gap_score": 4,
+      "specific_question": "What class punishment or cruelty will Catherine inflict on Juliana to keep her 'in her place'?",
+      "stakes_importance": "High \u2014 classic high-society hierarchy oppression driving visceral viewer outrage.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B020",
+      "curiosity_gap_score": 3,
+      "specific_question": "Why was Juliana cast out in the past, and what scandalous secret did she leave behind?",
+      "stakes_importance": "Medium \u2014 teases Juliana's hidden backstory and prior disgrace.",
+      "defuses_tension": false,
+      "cliffhanger_type": "hidden_secret",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B021",
+      "curiosity_gap_score": 4,
+      "specific_question": "What will Catherine do to make sure Juliana is permanently eradicated this time?",
+      "stakes_importance": "High \u2014 malicious condemnation sealing the trap.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B022",
+      "curiosity_gap_score": 5,
+      "specific_question": "Who is Juliana's husband, and will he arrive in time to rescue her before she is executed?",
+      "stakes_importance": "High \u2014 introduces a powerful protector/ally dynamic that re-ignites hope and curiosity about his identity.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B023",
+      "curiosity_gap_score": 4,
+      "specific_question": "Is Juliana's husband really just an ordinary 'scarred soldier', or does he hold secret power?",
+      "stakes_importance": "High \u2014 classic microdrama trope setup of hidden elite status disguised as a common soldier.",
+      "defuses_tension": false,
+      "cliffhanger_type": "identity_reveal",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B024",
+      "curiosity_gap_score": 5,
+      "specific_question": "Can Juliana's husband bring down House Ashbrook to avenge her, or will they crush him too?",
+      "stakes_importance": "High \u2014 sets up a massive class confrontation and retribution arc against House Ashbrook.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B025",
+      "curiosity_gap_score": 2,
+      "specific_question": "Where are the guards taking Juliana deeper into the prison?",
+      "stakes_importance": "Low \u2014 transitional enforcement beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B026",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana escape before reaching the cell door?",
+      "stakes_importance": "Low \u2014 corridor marching transition.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B027",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will anyone hear Juliana's pleas as she is thrown into the dark cell?",
+      "stakes_importance": "Medium \u2014 physical brutality and humiliation of being cast onto the floor.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B028",
+      "curiosity_gap_score": 4,
+      "specific_question": "How can Juliana ever escape a locked, fortified dungeon cell alone?",
+      "stakes_importance": "High \u2014 finality of physical confinement cut on a slammed iron door.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B029",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana succumb to panic and despair in the dark?",
+      "stakes_importance": "Low \u2014 emotional breakdown reaction beat.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B030",
+      "curiosity_gap_score": 2,
+      "specific_question": "Will Juliana give up all hope of survival?",
+      "stakes_importance": "Low \u2014 emotional rock bottom grief moment.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B031",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will anyone outside the cell listen to Juliana's assertion of innocence?",
+      "stakes_importance": "Medium \u2014 futile struggle against the barred wicket.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B032",
+      "curiosity_gap_score": 4,
+      "specific_question": "Will the Duchess discover that the healer who saved her life has been imprisoned for witchcraft?",
+      "stakes_importance": "High \u2014 establishes the core injustice: saving the Duchess is the reason she is being framed.",
+      "defuses_tension": false,
+      "cliffhanger_type": "unanswered_revelation",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B033",
+      "curiosity_gap_score": 3,
+      "specific_question": "Will Juliana's desperate shouting attract an unexpected rescuer in the prison?",
+      "stakes_importance": "Medium \u2014 physical drumming and noise echoing through the facility.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B034",
+      "curiosity_gap_score": 2,
+      "specific_question": "Has Juliana lost all her mother's possessions forever?",
+      "stakes_importance": "Low \u2014 lamentation and sorrow over stolen keepsakes.",
+      "defuses_tension": false,
+      "cliffhanger_type": "none",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B035",
+      "curiosity_gap_score": 5,
+      "specific_question": "How will Juliana and Alexander reunite to execute vengeance against House Ashbrook?",
+      "stakes_importance": "High \u2014 the definitive emotional turning point where Juliana pivots from crying victim to steely, vengeful resolve.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    },
+    {
+      "beat_id": "B036",
+      "curiosity_gap_score": 3,
+      "specific_question": "Does the falling portcullis seal Juliana's doom forever?",
+      "stakes_importance": "Medium \u2014 physical auditory slam signaling absolute lockdown.",
+      "defuses_tension": false,
+      "cliffhanger_type": "threat",
+      "is_strong_cliffhanger": false
+    },
+    {
+      "beat_id": "B037",
+      "curiosity_gap_score": 5,
+      "specific_question": "Will Juliana's unwavering resolve and faith in Alexander hold against the trial to come?",
+      "stakes_importance": "High \u2014 perfect cinematic promo closer: dignified heroine standing tall in moonlight under dark captivity, ready for war.",
+      "defuses_tension": false,
+      "cliffhanger_type": "revenge",
+      "is_strong_cliffhanger": true
+    }
+  ]
+}

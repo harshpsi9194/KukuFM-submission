@@ -1,0 +1,506 @@
+{
+  "episode_number": 29,
+  "total_scored": 20,
+  "scored_candidates": [
+    {
+      "candidate_id": "CAND_EP029_01",
+      "start_beat_id": "B007",
+      "end_beat_id": "B013",
+      "start_time": 20.1,
+      "end_time": 44.3,
+      "duration": 24.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 opens on a medium close-up pushing in on Catherine holding up a worn botanical book with gloved hands while delivering a direct, mocking confrontation ('Your mother's little book of weeds? You still call this a legacy?'). The physical object, antagonist presence, and antagonistic personal dynamic are visually and contextually established immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is completely self-contained and clear: Juliana (held captive by guards) defends her mother's medicinal herbarium, while Catherine maliciously declares she will frame it as witchcraft to the magistrate. The power imbalance, victim, villain, and stakes require zero outside lore.",
+        "passes_gate": true,
+        "situational_summary": "A restrained woman watches helplessly as a ruthless aristocrat brandishes her late mother's medicinal herbarium and vows to frame it as witchcraft to the magistrate."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Malicious persecution and corrupt frame-up met with fierce moral outrage"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the inciting threat and framing conspiracy (using medicinal herbs as proof of witchcraft) without revealing any climactic execution or long-term resolution."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_02",
+      "start_beat_id": "B007",
+      "end_beat_id": "B015",
+      "start_time": 20.1,
+      "end_time": 49.8,
+      "duration": 29.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 opens on a medium close-up pushing in on Catherine holding up a worn botanical book with gloved hands while delivering a direct, mocking confrontation ('Your mother's little book of weeds? You still call this a legacy?'). The physical object, antagonist presence, and antagonistic personal dynamic are visually and contextually established immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear and self-contained: Juliana fights against guard custody to protect her heritage while Catherine escalates from framing her for witchcraft to threatening to burn the herbarium outright ('I can burn it.').",
+        "passes_gate": true,
+        "situational_summary": "While held captive by guards, a defiant woman confronts an aristocrat who threatens to frame her mother's medicinal book as witchcraft and burn it to ashes."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate struggle against tyrannical destruction of family legacy"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the escalation of Catherine's threat to destroy the evidence/legacy, representing core inciting incident stakes."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_03",
+      "start_beat_id": "B007",
+      "end_beat_id": "B016",
+      "start_time": 20.1,
+      "end_time": 53.6,
+      "duration": 33.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 opens on a medium close-up pushing in on Catherine holding up a worn botanical book with gloved hands while delivering a direct, mocking confrontation ('Your mother's little book of weeds? You still call this a legacy?'). The physical object, antagonist presence, and antagonistic personal dynamic are visually and contextually established immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "Fully self-contained dramatic progression: moves from an insult about a book to framing for witchcraft, threat of burning, and an explicit lethal death threat ('when they find your corpse at the end of the rope...'). Both victim and villain roles are unmistakable.",
+        "passes_gate": true,
+        "situational_summary": "A captive healer is terrorized by a cruel aristocrat who reveals plans to destroy her mother's remedies and execute her by hanging for witchcraft."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Cold-blooded lethal menace and visceral dread of wrongful execution"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Catherine's full malicious conspiracy to murder Juliana via staged execution for witchcraft."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_04",
+      "start_beat_id": "B007",
+      "end_beat_id": "B017",
+      "start_time": 20.1,
+      "end_time": 56.6,
+      "duration": 36.5,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B007 opens on a medium close-up pushing in on Catherine holding up a worn botanical book with gloved hands while delivering a direct, mocking confrontation ('Your mother's little book of weeds? You still call this a legacy?'). The physical object, antagonist presence, and antagonistic personal dynamic are visually and contextually established immediately.",
+        "arc_legibility": true,
+        "arc_rationale": "Completely coherent and self-contained narrative unit: escalates seamlessly from book confiscation to fabricated witchcraft charges, culminating in Catherine's chilling vow to execute Juliana and permanently erase her family's memory.",
+        "passes_gate": true,
+        "situational_summary": "A restrained healer is condemned by a ruthless noblewoman plotting to frame her for witchcraft, hang her, and erase her mother's legacy forever."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Peak existential terror and ruthless intent to annihilate an innocent woman's life and legacy"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals the full scope of the villain's lethal conspiracy and intent to completely erase Juliana's lineage."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_05",
+      "start_beat_id": "B011",
+      "end_beat_id": "B018",
+      "start_time": 37.4,
+      "end_time": 59.2,
+      "duration": 21.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 immediately establishes a clear visual and narrative premise: an antagonist tucking away evidence (a book) with malicious intent while delivering a direct, high-stakes accusation of capital crime ('The magistrate will call it witchcraft'). The dynamic of persecution is instantly legible within the first 2 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The clip establishes an unequivocal power dynamic: a helpless protagonist restrained by guards against a calculating noblewoman threatening execution by hanging to destroy evidence of a lifesaving cure. The stakes, victim, and villain are completely self-contained.",
+        "passes_gate": true,
+        "situational_summary": "A noblewoman seizes an innocent healer's book, threatening to frame her for witchcraft and hang her to bury the truth about her saving the Duchess."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Severe injustice and lethal persecution driven by petty malice"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Establishes the inciting threat and conflict between Catherine and Juliana without concluding the confrontation or revealing hidden alliances."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_06",
+      "start_beat_id": "B011",
+      "end_beat_id": "B019",
+      "start_time": 37.4,
+      "end_time": 63.8,
+      "duration": 26.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 immediately grounds the scene with Catherine concealing a book with malicious intent and declaring a mortal witchcraft accusation, making the persecution dynamic unmistakable in under 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Clear self-contained conflict between Juliana (wronged healer restrained by guards) and Catherine (elite antagonist asserting class domination and threatening hanging). The motivation and power imbalance are entirely transparent.",
+        "passes_gate": true,
+        "situational_summary": "A ruthless noblewoman frames a restrained healer for witchcraft, boasting that lower-class women must be put in their place upon the gallows."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Arrogant aristocratic cruelty inflicting lethal oppression"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Inciting conflict setup showing Catherine's framing attempt and ideological hostility toward Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_07",
+      "start_beat_id": "B011",
+      "end_beat_id": "B021",
+      "start_time": 37.4,
+      "end_time": 69.5,
+      "duration": 32.1,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 establishes the setting and dynamic right away through Catherine hiding a book with malicious intent and launching a lethal accusation ('The magistrate will call it witchcraft').",
+        "arc_legibility": true,
+        "arc_rationale": "The narrative arc is entirely self-explanatory: Catherine uses guards and framed witchcraft charges to eliminate Juliana, referencing a past exile while threatening permanent erasure at the gallows.",
+        "passes_gate": true,
+        "situational_summary": "A vindictive noblewoman threatens to burn an innocent healer's book and execute her for witchcraft, reminding her that an outcast should have stayed forgotten."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Chilling sadism and existential malice pushed to ruthless extremes"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals deeper character backstory (Juliana having previously been cast out by the nobility) in addition to the immediate witchcraft frame-up."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_08",
+      "start_beat_id": "B011",
+      "end_beat_id": "B022",
+      "start_time": 37.4,
+      "end_time": 71.8,
+      "duration": 34.4,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 grounds the scene instantly through Catherine's visual concealment of evidence and an explicit capital accusation ('The magistrate will call it witchcraft') establishing the threat within seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "Fully legible dramatic arc: Catherine holds all physical power through guards and threats of execution, but Juliana pivots the entire dynamic at the climax with an unyielding counter-assertion of an incoming protector.",
+        "passes_gate": true,
+        "situational_summary": "Facing execution on trumped-up witchcraft charges by a cruel noblewoman, a restrained woman breaks through her tears with defiant pride to declare that her husband will find her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal humiliation transformed into fierce defiance and desperate hope"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses Juliana's backstory as an outcast as well as the existence of a high-stakes protector/husband key to the ongoing plot."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_09",
+      "start_beat_id": "B011",
+      "end_beat_id": "B023",
+      "start_time": 37.4,
+      "end_time": 74.3,
+      "duration": 36.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B011 establishes Catherine tucking a book under her arm with malicious intent while declaring 'The magistrate will call it witchcraft', instantly setting the high-stakes threat, the antagonist, and the accusation within 3 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The conflict is fully self-contained: Catherine frames Juliana for witchcraft and threatens execution over a destroyed book, while Juliana remains defiant, believing her soldier husband will save her.",
+        "passes_gate": true,
+        "situational_summary": "A noblewoman frames a restrained servant for witchcraft to send her to the gallows, mocking her belief that her scarred soldier husband will save her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Lethal framed betrayal and sadistic class oppression met with defiant marital hope"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Discloses the inciting false accusation of witchcraft and Juliana's capture; optimal for cold-audience prospecting."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_10",
+      "start_beat_id": "B012",
+      "end_beat_id": "B022",
+      "start_time": 40.0,
+      "end_time": 71.8,
+      "duration": 31.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B012 opens mid-argument with Juliana lunging in a guard's grip yelling 'You know that is a lie!', which is an ungrounded reaction to a preceding accusation that the cold viewer never heard.",
+        "arc_legibility": true,
+        "arc_rationale": "Once Catherine clarifies her intent to burn the book and hang Juliana, the core conflict and stakes become evident across the full scene.",
+        "passes_gate": false,
+        "situational_summary": "A captive woman fights back against a corrupt aristocrat plotting her execution, holding onto faith that her husband will rescue her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate struggle against tyrannical execution"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows Juliana framed and held captive facing execution."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_11",
+      "start_beat_id": "B013",
+      "end_beat_id": "B024",
+      "start_time": 41.9,
+      "end_time": 78.5,
+      "duration": 36.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B013 begins mid-conversation with Catherine saying 'I know exactly what I need him to believe', lacking physical grounding, establishing context, or an explanation of who 'him' refers to.",
+        "arc_legibility": true,
+        "arc_rationale": "The dialogue eventually explains the frame-up, the threat of hanging, and Juliana's defiance against the Ashbrook family.",
+        "passes_gate": false,
+        "situational_summary": "A corrupt noblewoman threatens to frame and hang a restrained woman, openly mocking her veteran husband's ability to challenge House Ashbrook."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Cold aristocratic cruelty and contemptuous intimidation"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Reveals the frame-up plot against Juliana and the involvement of House Ashbrook."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_12",
+      "start_beat_id": "B014",
+      "end_beat_id": "B024",
+      "start_time": 44.3,
+      "end_time": 78.5,
+      "duration": 34.2,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B014 begins with Juliana thrashing against guards screaming 'You cannot just destroy it!', referencing an unidentified object ('it') with no visual or narrative establishment.",
+        "arc_legibility": true,
+        "arc_rationale": "Catherine's subsequent threats of burning evidence and hanging Juliana make the life-or-death confrontation clear over the full arc.",
+        "passes_gate": false,
+        "situational_summary": "A helpless woman begs a cruel noblewoman not to destroy critical evidence, but is told she will hang while her veteran husband is mocked as powerless."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Frantic desperation against imminent destruction of evidence and death threat"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the destruction of evidence and the lethal plot against Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_13",
+      "start_beat_id": "B015",
+      "end_beat_id": "B024",
+      "start_time": 46.9,
+      "end_time": 78.5,
+      "duration": 31.6,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B015 opens on a tight close-up of Catherine with the ungrounded line 'I can burn it.' A cold mobile viewer has no visual anchor for what 'it' is, where they are, or who Catherine is addressing without retrospective context.",
+        "arc_legibility": true,
+        "arc_rationale": "The broader conflict quickly becomes clear: a highborn antagonist in silk is ruthlessly persecuting an impoverished woman who saved the Duchess, culminating in a threat against her husband.",
+        "passes_gate": false,
+        "situational_summary": "A ruthless noblewoman threatens to frame and hang an innocent woman for outshining her station, scorning the woman's warning that her veteran husband will seek retribution."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Arrogant aristocratic cruelty met with unwavering spousal defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Catherine's conspiracy to destroy evidence ('burn it'), frame Juliana, and execute her over saving the Duchess."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_14",
+      "start_beat_id": "B016",
+      "end_beat_id": "B024",
+      "start_time": 49.8,
+      "end_time": 78.5,
+      "duration": 28.7,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B016 opens mid-sentence ('And when they find your corpse at the end of the rope...') on an ungrounded reaction shot of Juliana. It lacks an initial establishing visual of the physical space and relationship dynamic.",
+        "arc_legibility": true,
+        "arc_rationale": "The full exchange clearly outlines the tyrannical noble antagonist punishing the heroine for curing the Duchess, ending on an arrogant dismissal of Juliana's veteran husband.",
+        "passes_gate": false,
+        "situational_summary": "A noblewoman sadistically informs an innocent healer that she will be hanged for stepping out of line, mocking her belief that her veteran husband can protect her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Lethal execution threat clashed against desperate righteous defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Discloses Catherine's active plot to murder Juliana via hanging and cover up the ledger contents."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_15",
+      "start_beat_id": "B018",
+      "end_beat_id": "B024",
+      "start_time": 56.6,
+      "end_time": 78.5,
+      "duration": 21.9,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B018 immediately establishes the central conflict and injustice in one clear beat: Juliana screams 'You are doing this because I saved the Duchess!', instantly informing a cold viewer of the grievance, moral contrast, and dynamic.",
+        "arc_legibility": true,
+        "arc_rationale": "The power dynamic (silk gown aristocrat vs. apron-clad peasant) and core conflict (punished for saving a noble, relying on a veteran husband) are completely self-contained and crystal clear.",
+        "passes_gate": true,
+        "situational_summary": "An innocent peasant woman accuses a ruthless noblewoman of punishing her for saving the Duchess, standing defiant despite threats of total aristocratic destruction."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Righteous moral outrage standing tall against aristocratic tyranny"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Exposes the inciting conflict and motive behind Catherine's persecution of Juliana."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_16",
+      "start_beat_id": "B027",
+      "end_beat_id": "B035",
+      "start_time": 83.0,
+      "end_time": 112.8,
+      "duration": 29.8,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B027 delivers an unmistakable visual and situational grounding: a wide shot inside a dark dungeon cell where guards violently shove Juliana to the stone floor as the door slams shut.",
+        "arc_legibility": true,
+        "arc_rationale": "The situation is self-evident: an innocent healer is locked in a dungeon after being robbed, weeping at her wrongful imprisonment before steeling herself with vengeance.",
+        "passes_gate": true,
+        "situational_summary": "Violently thrown into a dark dungeon for healing the Duchess and robbed of her family heirlooms, a weeping prisoner transforms her despair into hardened resolve to protect her love."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Traumatic solitary dungeon breakdown transmuting into fierce defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 1,
+        "spoiler_rationale": "Shows the heroine's imprisonment and the immediate fallout of the noble betrayal."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_17",
+      "start_beat_id": "B027",
+      "end_beat_id": "B037",
+      "start_time": 83.0,
+      "end_time": 116.69,
+      "duration": 33.69,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": true,
+        "opening_rationale": "Beat B027 establishes the clear visual context immediately: guards violently shove Juliana into a pitch-dark dungeon cell and slam her onto wet stone while she cries 'Please!'. The setting, victim/oppressor dynamic, and stakes are instantly intelligible without prior knowledge.",
+        "arc_legibility": true,
+        "arc_rationale": "The arc clearly shows a woman unjustly imprisoned for saving someone ('I saved the Duchess!'), grieving her stolen belongings, and transitioning from despair into steely determination to protect her bond with Alexander.",
+        "passes_gate": true,
+        "situational_summary": "After being violently thrown into a dark dungeon cell for an act of healing, a young woman overcomes despair and vows that her captors will not take the man she loves from her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 5,
+        "emotional_core": "Brutal unjust persecution transforming into resolute, defiant romantic resolve"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals Juliana's arrest/imprisonment following the Duchess's healing, and that her mother's ledger and locket were seized."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_18",
+      "start_beat_id": "B029",
+      "end_beat_id": "B037",
+      "start_time": 88.8,
+      "end_time": 116.69,
+      "duration": 27.89,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B029 opens on a silent medium close-up of Juliana kneeling on the floor hyperventilating and clutching her dress. Without seeing the guards shoving her or the cell door closing, a cold scroller lacks immediate physical or situational orientation.",
+        "arc_legibility": true,
+        "arc_rationale": "The full arc clarifies through her dialogue that she has been wrongly locked in a dungeon after saving the Duchess.",
+        "passes_gate": false,
+        "situational_summary": "Incarcerated in a stone cell, a young woman proclaims her innocence and vows that her captors will never take her love from her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Despairing grief shifting into steely defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals her wrongful imprisonment, the seizure of her mother's items, and her connection to Alexander."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_19",
+      "start_beat_id": "B030",
+      "end_beat_id": "B037",
+      "start_time": 93.7,
+      "end_time": 116.69,
+      "duration": 22.99,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B030 opens on an extreme close-up of a tear-drenched face whispering 'Mother...'. It is completely ungrounded visually and narratively for a cold scroller in the first 1\u20133 seconds.",
+        "arc_legibility": true,
+        "arc_rationale": "The subsequent beats clarify that she is trapped behind bars protesting an unjust accusation after healing the Duchess.",
+        "passes_gate": false,
+        "situational_summary": "A weeping prisoner asserts that she saved the Duchess and refuses to let her captors take Alexander from her."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Vulnerable lamentation giving way to iron resolve"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals her imprisonment and her steadfast dedication to Alexander."
+      }
+    },
+    {
+      "candidate_id": "CAND_EP029_20",
+      "start_beat_id": "B031",
+      "end_beat_id": "B037",
+      "start_time": 96.1,
+      "end_time": 116.69,
+      "duration": 20.59,
+      "timestamp_source": "given",
+      "comprehension": {
+        "opening_legibility": false,
+        "opening_rationale": "Beat B031 begins mid-action with Juliana scrambling off a wet floor toward a wicket door shouting 'I have done nothing!'. While evocative, opening mid-dash without establishing the dungeon setting or the act of confinement produces a disorienting, unanchored start.",
+        "arc_legibility": true,
+        "arc_rationale": "Across the full duration, her shouts through the rusted bars make the wrongful imprisonment and core conflict clear.",
+        "passes_gate": false,
+        "situational_summary": "A wrongly imprisoned woman pounds against the dungeon door, proclaiming her innocence and declaring she will never give up on Alexander."
+      },
+      "emotional_salience": {
+        "emotional_salience_score": 4,
+        "emotional_core": "Desperate defense of innocence hardened into quiet defiance"
+      },
+      "spoiler": {
+        "spoiler_level": 2,
+        "spoiler_rationale": "Reveals her imprisonment for saving the Duchess and her resolve regarding Alexander."
+      }
+    }
+  ]
+}

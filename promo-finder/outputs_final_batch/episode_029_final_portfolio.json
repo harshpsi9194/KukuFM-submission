@@ -1,0 +1,382 @@
+{
+  "episode_number": 29,
+  "mmr_parameters": {
+    "lambda": 0.55,
+    "max_sim_threshold": 0.9,
+    "target_size": 5
+  },
+  "selected_promos": [
+    {
+      "portfolio_rank": 1,
+      "candidate_id": "CAND_EP029_08",
+      "absolute_rubric_score": 9.3,
+      "subscores": {
+        "hook_score": 2.2,
+        "tension_score": 2.4,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.3
+      },
+      "mmr_score": 0.55,
+      "max_similarity_to_selected": 0.0,
+      "boundary": {
+        "start_beat_id": "B011",
+        "end_beat_id": "B022",
+        "start_time": 37.4,
+        "end_time": 71.8,
+        "duration": 34.4,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "The magistrate will call it witchcraft.",
+        "opening_character": "CATHERINE",
+        "rationale": "Lethal accusation ('The magistrate will call it witchcraft') introduces instant capital stakes and existential peril."
+      },
+      "cliffhanger": {
+        "final_quote": "My husband will find me.",
+        "final_character": "JULIANA",
+        "specific_question": "Who is Juliana's husband, and will he arrive in time to rescue her before she is executed?"
+      },
+      "situational_summary": "Facing execution on trumped-up witchcraft charges by a cruel noblewoman, a restrained woman breaks through her tears with defiant pride to declare that her husband will find her.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 2,
+      "candidate_id": "CAND_EP029_03",
+      "absolute_rubric_score": 8.6,
+      "subscores": {
+        "hook_score": 1.7,
+        "tension_score": 2.3,
+        "cliffhanger_score": 2.4,
+        "resonance_score": 2.2
+      },
+      "mmr_score": 0.0867,
+      "max_similarity_to_selected": 0.8258,
+      "boundary": {
+        "start_beat_id": "B007",
+        "end_beat_id": "B016",
+        "start_time": 20.1,
+        "end_time": 53.6,
+        "duration": 33.5,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Your mother's little book of weeds?",
+        "opening_character": "CATHERINE",
+        "rationale": "Cruel, mocking dismissal ('Your mother's little book of weeds?') delivers a biting personal insult and conflict."
+      },
+      "cliffhanger": {
+        "final_quote": "And when they find your corpse at the end of the rope...",
+        "final_character": "CATHERINE",
+        "specific_question": "Will Catherine actually execute Juliana by public hanging in the dungeon?"
+      },
+      "situational_summary": "A captive healer is terrorized by a cruel aristocrat who reveals plans to destroy her mother's remedies and execute her by hanging for witchcraft.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 2
+    },
+    {
+      "portfolio_rank": 3,
+      "candidate_id": "CAND_EP029_15",
+      "absolute_rubric_score": 8.2,
+      "subscores": {
+        "hook_score": 2.1,
+        "tension_score": 2.1,
+        "cliffhanger_score": 2.1,
+        "resonance_score": 1.9
+      },
+      "mmr_score": -0.0839,
+      "max_similarity_to_selected": 0.7976,
+      "boundary": {
+        "start_beat_id": "B018",
+        "end_beat_id": "B024",
+        "start_time": 56.6,
+        "end_time": 78.5,
+        "duration": 21.9,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "You are doing this because I saved the Duchess!",
+        "opening_character": "JULIANA",
+        "rationale": "Explosive revelation of motive and injustice ('You are doing this because I saved the Duchess!')."
+      },
+      "cliffhanger": {
+        "final_quote": "What exactly do you think a penniless veteran can do against Ashbrook?",
+        "final_character": "CATHERINE",
+        "specific_question": "Can Juliana's husband bring down House Ashbrook to avenge her, or will they crush him too?"
+      },
+      "situational_summary": "An innocent peasant woman accuses a ruthless noblewoman of punishing her for saving the Duchess, standing defiant despite threats of total aristocratic destruction.",
+      "emotional_salience_score": 4,
+      "spoiler_level": 1
+    },
+    {
+      "portfolio_rank": 4,
+      "candidate_id": "CAND_EP029_16",
+      "absolute_rubric_score": 7.9,
+      "subscores": {
+        "hook_score": 1.9,
+        "tension_score": 1.9,
+        "cliffhanger_score": 2.0,
+        "resonance_score": 2.1
+      },
+      "mmr_score": -0.1899,
+      "max_similarity_to_selected": 0.8294,
+      "boundary": {
+        "start_beat_id": "B027",
+        "end_beat_id": "B035",
+        "start_time": 83.0,
+        "end_time": 112.8,
+        "duration": 29.8,
+        "composite_cleanliness": 5.0
+      },
+      "hook": {
+        "opening_quote": "Please!",
+        "opening_character": "JULIANA",
+        "rationale": "Desperate generic plea ('Please!') lacks standalone context or distinct shock."
+      },
+      "cliffhanger": {
+        "final_quote": "They took her locket. But they will not take Alexander from me.",
+        "final_character": "JULIANA",
+        "specific_question": "How will Juliana and Alexander reunite to execute vengeance against House Ashbrook?"
+      },
+      "situational_summary": "Violently thrown into a dark dungeon for healing the Duchess and robbed of her family heirlooms, a weeping prisoner transforms her despair into hardened resolve to protect her love.",
+      "emotional_salience_score": 5,
+      "spoiler_level": 1
+    }
+  ],
+  "disqualification_log": [
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP029_09",
+      "rank": 2,
+      "recommended_boundary": "B011 -> B023",
+      "similarity": 0.9659,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9659 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP029_07",
+      "rank": 4,
+      "recommended_boundary": "B011 -> B021",
+      "similarity": 0.9543,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9543 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP029_05",
+      "rank": 5,
+      "recommended_boundary": "B011 -> B018",
+      "similarity": 0.9417,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9417 >= 0.90)"
+    },
+    {
+      "step": 2,
+      "candidate_id": "CAND_EP029_06",
+      "rank": 6,
+      "recommended_boundary": "B011 -> B019",
+      "similarity": 0.9535,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9535 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP029_09",
+      "rank": 2,
+      "recommended_boundary": "B011 -> B023",
+      "similarity": 0.9659,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9659 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP029_07",
+      "rank": 4,
+      "recommended_boundary": "B011 -> B021",
+      "similarity": 0.9543,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9543 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP029_05",
+      "rank": 5,
+      "recommended_boundary": "B011 -> B018",
+      "similarity": 0.9417,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9417 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP029_06",
+      "rank": 6,
+      "recommended_boundary": "B011 -> B019",
+      "similarity": 0.9535,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9535 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP029_04",
+      "rank": 8,
+      "recommended_boundary": "B007 -> B017",
+      "similarity": 0.9776,
+      "duplicate_of": "CAND_EP029_03",
+      "reason": "Exceeded near-duplicate threshold (0.9776 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP029_02",
+      "rank": 10,
+      "recommended_boundary": "B007 -> B015",
+      "similarity": 0.9704,
+      "duplicate_of": "CAND_EP029_03",
+      "reason": "Exceeded near-duplicate threshold (0.9704 >= 0.90)"
+    },
+    {
+      "step": 3,
+      "candidate_id": "CAND_EP029_01",
+      "rank": 12,
+      "recommended_boundary": "B007 -> B013",
+      "similarity": 0.9647,
+      "duplicate_of": "CAND_EP029_03",
+      "reason": "Exceeded near-duplicate threshold (0.9647 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP029_09",
+      "rank": 2,
+      "recommended_boundary": "B011 -> B023",
+      "similarity": 0.9659,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9659 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP029_07",
+      "rank": 4,
+      "recommended_boundary": "B011 -> B021",
+      "similarity": 0.9543,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9543 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP029_05",
+      "rank": 5,
+      "recommended_boundary": "B011 -> B018",
+      "similarity": 0.9417,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9417 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP029_06",
+      "rank": 6,
+      "recommended_boundary": "B011 -> B019",
+      "similarity": 0.9535,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9535 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP029_04",
+      "rank": 8,
+      "recommended_boundary": "B007 -> B017",
+      "similarity": 0.9776,
+      "duplicate_of": "CAND_EP029_03",
+      "reason": "Exceeded near-duplicate threshold (0.9776 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP029_02",
+      "rank": 10,
+      "recommended_boundary": "B007 -> B015",
+      "similarity": 0.9704,
+      "duplicate_of": "CAND_EP029_03",
+      "reason": "Exceeded near-duplicate threshold (0.9704 >= 0.90)"
+    },
+    {
+      "step": 4,
+      "candidate_id": "CAND_EP029_01",
+      "rank": 12,
+      "recommended_boundary": "B007 -> B013",
+      "similarity": 0.9647,
+      "duplicate_of": "CAND_EP029_03",
+      "reason": "Exceeded near-duplicate threshold (0.9647 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP029_09",
+      "rank": 2,
+      "recommended_boundary": "B011 -> B023",
+      "similarity": 0.9659,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9659 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP029_07",
+      "rank": 4,
+      "recommended_boundary": "B011 -> B021",
+      "similarity": 0.9543,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9543 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP029_05",
+      "rank": 5,
+      "recommended_boundary": "B011 -> B018",
+      "similarity": 0.9417,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9417 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP029_06",
+      "rank": 6,
+      "recommended_boundary": "B011 -> B019",
+      "similarity": 0.9535,
+      "duplicate_of": "CAND_EP029_08",
+      "reason": "Exceeded near-duplicate threshold (0.9535 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP029_04",
+      "rank": 8,
+      "recommended_boundary": "B007 -> B017",
+      "similarity": 0.9776,
+      "duplicate_of": "CAND_EP029_03",
+      "reason": "Exceeded near-duplicate threshold (0.9776 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP029_02",
+      "rank": 10,
+      "recommended_boundary": "B007 -> B015",
+      "similarity": 0.9704,
+      "duplicate_of": "CAND_EP029_03",
+      "reason": "Exceeded near-duplicate threshold (0.9704 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP029_17",
+      "rank": 11,
+      "recommended_boundary": "B027 -> B037",
+      "similarity": 0.9779,
+      "duplicate_of": "CAND_EP029_16",
+      "reason": "Exceeded near-duplicate threshold (0.9779 >= 0.90)"
+    },
+    {
+      "step": 5,
+      "candidate_id": "CAND_EP029_01",
+      "rank": 12,
+      "recommended_boundary": "B007 -> B013",
+      "similarity": 0.9647,
+      "duplicate_of": "CAND_EP029_03",
+      "reason": "Exceeded near-duplicate threshold (0.9647 >= 0.90)"
+    }
+  ]
+}

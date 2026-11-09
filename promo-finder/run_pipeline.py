@@ -83,66 +83,122 @@ def evaluate_boundary_cleanliness(beats_map: Dict[str, Dict], start_b_id: str, e
     return open_score, cliff_score, comp_clean
 
 
-def find_script_file(ep_num: int, repo_root: Path, scripts_dir: Optional[str] = None) -> Optional[Path]:
-    """Finds script file for a given episode number across possible repository locations.
+def get_repo_root() -> Path:
+    """Resolves the true repository root path without hardcoding.
     
+    Works whether run_pipeline.py is invoked from repository root,
+    within the promo-finder directory, or via symlink.
+    Strictly stays within repository boundary per AGENTS.md Rule 12.
+    """
+    file_path = Path(__file__).resolve()
+    current = file_path.parent
+    if (current / "promo-finder").exists():
+        return current
+    if current.name == "promo-finder":
+        return current.parent
+    for parent in [current] + list(current.parents):
+        if (parent / ".git").exists() or (parent / "script_directory_for_promo").exists() or (parent / "tests").exists():
+            return parent
+    return current
+
+
+def discover_script_directories(repo_root: Path, scripts_dir: Optional[str] = None) -> List[Path]:
+    """Dynamically discovers script directories within the repository.
+    
+    Zero hardcoded show titles. Works with ANY drama directory structure.
     Search priority:
     1. Custom scripts_dir if explicitly provided by the user.
-    2. Real production series scripts folders in the repository.
-    3. Parser fixtures sample_scripts (secondary fallback for unit tests).
+    2. Any directories inside repo_root containing episode script files (.txt).
+    3. Standard directory names ('scripts', 'script_directory_for_promo', etc.).
+    4. Parser fixtures sample_scripts (secondary fallback for unit tests).
     """
     search_dirs: List[Path] = []
     
+    # 1. Custom scripts_dir if provided
     if scripts_dir:
         p = Path(scripts_dir) if Path(scripts_dir).is_absolute() else (repo_root / scripts_dir)
-        if p.exists():
+        if p.exists() and p.is_dir():
             search_dirs.append(p)
             for sub in p.iterdir():
                 if sub.is_dir():
                     search_dirs.append(sub)
 
-    # 1. Check full series scripts folder first
-    search_dirs.extend([
-        repo_root / "I Married a Broken Soldier. He was a Duke-scripts" / "I Married a Broken Soldier. He was a Duke",
-        repo_root / "I Married a Broken Soldier. He was a Duke-scripts",
-        repo_root / "scripts",
-        repo_root.parent / "I Married a Broken Soldier. He was a Duke-scripts" / "I Married a Broken Soldier. He was a Duke",
-    ])
+    # 2. Dynamic in-repo discovery: find any directories with episode .txt files
+    exclude_parts = {".git", ".venv", "venv", "__pycache__", "outputs", "outputs_final_batch", "outputs_all_episodes", "fixtures"}
+    try:
+        for txt_file in repo_root.glob("**/*.txt"):
+            if any(ex in txt_file.parts for ex in exclude_parts):
+                continue
+            if re.search(r"episode[-_\s]*\d+", txt_file.name, re.IGNORECASE):
+                parent_dir = txt_file.parent
+                if parent_dir not in search_dirs:
+                    search_dirs.append(parent_dir)
+    except Exception:
+        pass
 
-    for d in search_dirs:
-        if not d.exists():
-            continue
-        patterns = [
-            f"episode-{ep_num:03d}-*.txt",
-            f"episode_{ep_num:03d}_*.txt",
-            f"episode-{ep_num:03d}.txt",
-            f"episode_{ep_num:03d}.txt",
-            f"episode-{ep_num:02d}-*.txt",
-            f"episode_{ep_num:02d}_*.txt",
-            f"episode-{ep_num:02d}.txt",
-            f"episode_{ep_num:02d}.txt",
-            f"episode-{ep_num}-*.txt",
-            f"episode_{ep_num}_*.txt",
-            f"episode-{ep_num}.txt",
-            f"episode_{ep_num}.txt",
-            f"*{ep_num:03d}*.txt",
-        ]
-        for pat in patterns:
-            matches = sorted(list(d.glob(pat)))
-            if matches:
-                return matches[0]
+    # 3. Standard fallback script folder names within repo
+    standard_names = ["scripts", "script_directory_for_promo", "episodes", "data"]
+    for s_name in standard_names:
+        cand = repo_root / s_name
+        if cand.exists() and cand.is_dir():
+            if cand not in search_dirs:
+                search_dirs.append(cand)
+            for sub in cand.iterdir():
+                if sub.is_dir() and sub not in search_dirs:
+                    search_dirs.append(sub)
 
-    # 2. Secondary fallback: parser unit test fixtures
+    # 4. Secondary fallback: parser unit test fixtures
     fixture_dirs = [
         repo_root / "promo-finder" / "parser" / "fixtures" / "sample_scripts",
         repo_root / "parser" / "fixtures" / "sample_scripts",
     ]
     for fd in fixture_dirs:
-        if fd.exists():
-            for pat in [f"episode_{ep_num:03d}.txt", f"episode-{ep_num:03d}.txt", f"episode_{ep_num}.txt"]:
-                matches = sorted(list(fd.glob(pat)))
-                if matches:
-                    return matches[0]
+        if fd.exists() and fd not in search_dirs:
+            search_dirs.append(fd)
+
+    return search_dirs
+
+
+def find_script_file(ep_num: int, repo_root: Path, scripts_dir: Optional[str] = None) -> Optional[Path]:
+    """Finds script file for a given episode number across dynamically discovered locations.
+    
+    Strictly adheres to AGENTS.md Rule 12 (never traverses outside repo_root).
+    """
+    search_dirs = discover_script_directories(repo_root, scripts_dir=scripts_dir)
+
+    patterns = [
+        f"episode-{ep_num:03d}-*.txt",
+        f"episode_{ep_num:03d}_*.txt",
+        f"episode-{ep_num:03d}.txt",
+        f"episode_{ep_num:03d}.txt",
+        f"episode-{ep_num:02d}-*.txt",
+        f"episode_{ep_num:02d}_*.txt",
+        f"episode-{ep_num:02d}.txt",
+        f"episode_{ep_num:02d}.txt",
+        f"episode-{ep_num}-*.txt",
+        f"episode_{ep_num}_*.txt",
+        f"episode-{ep_num}.txt",
+        f"episode_{ep_num}.txt",
+        f"*{ep_num:03d}*.txt",
+    ]
+
+    for d in search_dirs:
+        if not d.exists():
+            continue
+        for pat in patterns:
+            matches = sorted(list(d.glob(pat)))
+            if matches:
+                return matches[0]
+
+        # Regex fallback over directory contents
+        try:
+            for child in sorted(d.iterdir()):
+                if child.is_file() and child.suffix.lower() == ".txt":
+                    m = re.search(r"episode[-_\s]*0*(\d+)", child.name, re.IGNORECASE)
+                    if m and int(m.group(1)) == ep_num:
+                        return child
+        except Exception:
+            pass
 
     return None
 
@@ -157,10 +213,11 @@ def run_single_episode(
     resume: bool = True,
 ) -> Dict[str, Any]:
     """Executes the full 5-stage pipeline for a single episode."""
+    set_log_dir(output_dir)
     print("=" * 68)
     print(f"PROMO FINDER PIPELINE — EPISODE {ep_num:03d} {'[DRY RUN]' if dry_run else ''}")
     try:
-        display_path = script_path.relative_to(ROOT_DIR.parent)
+        display_path = script_path.relative_to(get_repo_root())
     except ValueError:
         try:
             display_path = script_path.relative_to(Path.cwd())
@@ -392,83 +449,92 @@ def run_single_episode(
     t0 = time.time()
     print(f"\n[Stage 5] Running rule-based dialogue boundary check and constrained MMR portfolio selection...")
 
-    signatures = []
-    for item in rankings:
-        cid = item["candidate_id"]
-        c_base = cands_map[cid]
-        c_s3 = scored_map[cid]
-        signatures.append(build_narrative_signature(c_base, c_s3))
+    if not rankings:
+        print("[Stage 5] No candidates available for MMR portfolio selection; portfolio is empty.")
+        picks = []
+        disqualifications = []
+        sim_matrix = np.empty((0, 0), dtype=np.float32)
+        enriched_promos = []
+    else:
+        signatures = []
+        for item in rankings:
+            cid = item["candidate_id"]
+            c_base = cands_map.get(cid, {})
+            c_s3 = scored_map.get(cid, {})
+            signatures.append(build_narrative_signature(c_base, c_s3))
 
-    norm_embs = compute_embeddings(signatures, model_name="BAAI/bge-small-en-v1.5")
-    sim_matrix = compute_cosine_similarity_matrix(norm_embs)
+        norm_embs = compute_embeddings(signatures, model_name="BAAI/bge-small-en-v1.5")
+        sim_matrix = compute_cosine_similarity_matrix(norm_embs)
 
-    target_k = min(5, len(rankings))
-    picks, disqualifications = select_mmr_portfolio(
-        rankings=rankings,
-        sim_matrix=sim_matrix,
-        k=target_k,
-        lambda_param=0.55,
-        max_sim_threshold=0.90,
-    )
+        target_k = min(5, len(rankings))
+        picks, disqualifications = select_mmr_portfolio(
+            rankings=rankings,
+            sim_matrix=sim_matrix,
+            k=target_k,
+            lambda_param=0.55,
+            max_sim_threshold=0.90,
+        )
 
-    enriched_promos = []
-    for pick in picks:
-        cid = pick["candidate_id"]
-        c_base = cands_map[cid]
-        c_s3 = scored_map[cid]
-        s_b = c_base["start_beat_id"]
-        e_b = c_base["end_beat_id"]
-        start_beat = beats_map[s_b]
-        end_beat = beats_map[e_b]
+        enriched_promos = []
+        for pick in picks:
+            cid = pick["candidate_id"]
+            c_base = cands_map.get(cid, {})
+            c_s3 = scored_map.get(cid, {})
+            s_b = c_base.get("start_beat_id", "")
+            e_b = c_base.get("end_beat_id", "")
+            start_beat = beats_map.get(s_b, {})
+            end_beat = beats_map.get(e_b, {})
 
-        open_c, cliff_c, comp_c = evaluate_boundary_cleanliness(beats_map, s_b, e_b)
+            open_c, cliff_c, comp_c = evaluate_boundary_cleanliness(beats_map, s_b, e_b)
 
-        hook_dialogues = [ev["description"] for ev in start_beat.get("events", []) if ev.get("type") == "dialogue"]
-        hook_chars = [ev.get("character") for ev in start_beat.get("events", []) if ev.get("type") == "dialogue"]
-        cliff_dialogues = [ev["description"] for ev in end_beat.get("events", []) if ev.get("type") == "dialogue"]
-        cliff_chars = [ev.get("character") for ev in end_beat.get("events", []) if ev.get("type") == "dialogue"]
+            hook_dialogues = [ev["description"] for ev in start_beat.get("events", []) if ev.get("type") == "dialogue"]
+            hook_chars = [ev.get("character") for ev in start_beat.get("events", []) if ev.get("type") == "dialogue"]
+            cliff_dialogues = [ev["description"] for ev in end_beat.get("events", []) if ev.get("type") == "dialogue"]
+            cliff_chars = [ev.get("character") for ev in end_beat.get("events", []) if ev.get("type") == "dialogue"]
 
-        ranking_entry = next((r for r in rankings if r["candidate_id"] == cid), {})
+            ranking_entry = next((r for r in rankings if r["candidate_id"] == cid), {})
 
-        enriched_promos.append({
-            "portfolio_rank": pick["selection_order"],
-            "candidate_id": cid,
-            "absolute_rubric_score": ranking_entry.get("absolute_score", 0.0),
-            "subscores": ranking_entry.get("subscores", {}),
-            "mmr_score": pick["mmr_score"],
-            "max_similarity_to_selected": pick["max_similarity_to_selected"],
-            "boundary": {
-                "start_beat_id": s_b,
-                "end_beat_id": e_b,
-                "start_time": c_base["start_time"],
-                "end_time": c_base["end_time"],
-                "duration": c_base["duration"],
-                "composite_cleanliness": comp_c,
-            },
-            "hook": {
-                "opening_quote": hook_dialogues[0] if hook_dialogues else "None (Visual Opening)",
-                "opening_character": hook_chars[0] if hook_chars else None,
-                "rationale": c_base["hook_signal"].get("dialogue_hook_rationale") or c_base["hook_signal"].get("visual_hook_rationale"),
-            },
-            "cliffhanger": {
-                "final_quote": cliff_dialogues[-1] if cliff_dialogues else "None (Visual Cliffhanger)",
-                "final_character": cliff_chars[-1] if cliff_chars else None,
-                "specific_question": c_base["cliffhanger_signal"].get("specific_question"),
-            },
-            "situational_summary": c_s3["comprehension"]["situational_summary"],
-            "emotional_salience_score": c_s3["emotional_salience"]["emotional_salience_score"],
-            "spoiler_level": c_s3["spoiler"]["spoiler_level"],
-        })
+            enriched_promos.append({
+                "portfolio_rank": pick["selection_order"],
+                "candidate_id": cid,
+                "absolute_rubric_score": ranking_entry.get("absolute_score", 0.0),
+                "subscores": ranking_entry.get("subscores", {}),
+                "mmr_score": pick["mmr_score"],
+                "max_similarity_to_selected": pick["max_similarity_to_selected"],
+                "boundary": {
+                    "start_beat_id": s_b,
+                    "end_beat_id": e_b,
+                    "start_time": c_base.get("start_time", 0.0),
+                    "end_time": c_base.get("end_time", 0.0),
+                    "duration": c_base.get("duration", 0.0),
+                    "timestamp_source": c_base.get("timestamp_source", "given"),
+                    "composite_cleanliness": comp_c,
+                },
+                "hook": {
+                    "opening_quote": hook_dialogues[0] if hook_dialogues else "None (Visual Opening)",
+                    "opening_character": hook_chars[0] if hook_chars else None,
+                    "rationale": c_base.get("hook_signal", {}).get("dialogue_hook_rationale") or c_base.get("hook_signal", {}).get("visual_hook_rationale"),
+                },
+                "cliffhanger": {
+                    "final_quote": cliff_dialogues[-1] if cliff_dialogues else "None (Visual Cliffhanger)",
+                    "final_character": cliff_chars[-1] if cliff_chars else None,
+                    "specific_question": c_base.get("cliffhanger_signal", {}).get("specific_question"),
+                },
+                "situational_summary": c_s3.get("comprehension", {}).get("situational_summary", ""),
+                "emotional_salience_score": c_s3.get("emotional_salience", {}).get("emotional_salience_score", 1),
+                "spoiler_level": c_s3.get("spoiler", {}).get("spoiler_level", 0),
+            })
 
     portfolio_data = {
         "episode_number": ep_num,
         "mmr_parameters": {
             "lambda": 0.55,
             "max_sim_threshold": 0.90,
-            "target_size": target_k,
+            "target_size": target_k if rankings else 0,
         },
         "selected_promos": enriched_promos,
         "disqualification_log": disqualifications,
+        "similarity_matrix": sim_matrix.tolist() if hasattr(sim_matrix, "tolist") else [],
     }
     save_json(portfolio_data, output_dir / f"episode_{ep_num:03d}_final_portfolio.json")
 
@@ -547,7 +613,7 @@ def main():
     args = parser.parse_args()
 
     resume = (args.resume and not args.force)
-    repo_root = ROOT_DIR.parent
+    repo_root = get_repo_root()
     output_dir = Path(args.outputs_dir) if Path(args.outputs_dir).is_absolute() else (ROOT_DIR / args.outputs_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     set_log_dir(output_dir)
@@ -601,16 +667,21 @@ def main():
             if not script:
                 print(f"Skipping Episode {ep:03d}: script file not found.")
                 continue
-            res = run_single_episode(
-                ep_num=ep,
-                script_path=script,
-                output_dir=output_dir,
-                dry_run=args.dry_run,
-                model=args.model,
-                concurrency=args.concurrency,
-                resume=resume,
-            )
-            batch_summaries.append(res)
+            try:
+                res = run_single_episode(
+                    ep_num=ep,
+                    script_path=script,
+                    output_dir=output_dir,
+                    dry_run=args.dry_run,
+                    model=args.model,
+                    concurrency=args.concurrency,
+                    resume=resume,
+                )
+                batch_summaries.append(res)
+            except Exception as ep_err:
+                print(f"\n[ERROR] Episode {ep:03d} failed with error: {ep_err}")
+                import traceback
+                traceback.print_exc()
 
         print(f"\nBatch processing completed for {len(batch_summaries)} episodes.")
         

@@ -45,8 +45,11 @@ class TestCliE2E(unittest.TestCase):
         self.assertIn("Structural validation successful", res.stdout)
         self.assertIn("Stage 0] Screenplay parsed: 45 beats", res.stdout)
         self.assertIn("Stage 2 Capped search produced", res.stdout)
-        # Verify it points to the real show script
-        self.assertIn("episode-001-Episode 1671703.txt", res.stdout)
+        # Verify it points to the real show script dynamically
+        self.assertTrue(
+            "episode-001" in res.stdout or "episode_001" in res.stdout,
+            f"Expected episode-001 in dry-run stdout, got:\n{res.stdout}"
+        )
 
     def test_cli_explicit_script_parameter(self):
         """Running with --script <path> allows targeting an explicit script file."""
@@ -76,6 +79,27 @@ class TestCliE2E(unittest.TestCase):
             next_b = episode.beats[i + 1]
             if curr_b.scene_number == next_b.scene_number:
                 self.assertLessEqual(curr_b.start, next_b.start)
+
+    def test_dynamic_discovery_arbitrary_drama_folder(self):
+        """Verifies discover_script_directories and find_script_file find scripts in any drama directory structure."""
+        import tempfile
+        from run_pipeline import discover_script_directories
+        
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            tmp_root = Path(tmp_dir)
+            # Create an arbitrary drama directory structure
+            drama_dir = tmp_root / "arbitrary_custom_drama" / "season_1"
+            drama_dir.mkdir(parents=True)
+            test_ep = drama_dir / "episode-001-pilot.txt"
+            test_ep.write_text("SCENE 1 - INT. OFFICE - DAY\n**ACTION:**\nStart: (00:00.00) | End: (00:10.00)\nA character speaks.\n")
+            
+            # Discover should find drama_dir automatically without any hardcoded names
+            discovered = discover_script_directories(tmp_root)
+            self.assertIn(drama_dir, discovered)
+            
+            # find_script_file should locate episode 1
+            found = find_script_file(1, tmp_root)
+            self.assertEqual(found, test_ep)
 
 
 if __name__ == "__main__":

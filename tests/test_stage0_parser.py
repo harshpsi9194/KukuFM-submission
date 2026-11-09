@@ -264,6 +264,13 @@ Alexander mounts his warhorse in haste.
             self.assertEqual(cur["end"], gold["end"])
             self.assertEqual(cur["timestamp_source"], gold["timestamp_source"])
 
+    def test_parse_timestamp_str_formatting_variants(self):
+        """Timestamp parser parses parentheses, brackets, and raw strings cleanly."""
+        self.assertEqual(parse_timestamp_str("(00:15.50)"), 15.50)
+        self.assertEqual(parse_timestamp_str("[01:20.00]"), 80.00)
+        self.assertEqual(parse_timestamp_str("02:05.10"), 125.10)
+        self.assertEqual(parse_timestamp_str("(01:00:10.00)"), 3610.00)
+
 
 if __name__ == "__main__":
     unittest.main()

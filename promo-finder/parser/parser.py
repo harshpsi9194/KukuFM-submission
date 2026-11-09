@@ -24,7 +24,7 @@ DEFAULT_WORDS_PER_SECOND = 2.5
 
 def parse_timestamp_str(ts_str: str) -> float:
     """Convert MM:SS.ss (or HH:MM:SS.ss) string into float seconds."""
-    clean = ts_str.strip().strip("()")
+    clean = ts_str.strip().strip("()[]")
     parts = clean.split(":")
     if len(parts) == 2:
         minutes, seconds = parts

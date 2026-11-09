@@ -50,24 +50,39 @@ def build_narrative_signature(
     )
 
 
+_EMBEDDING_MODEL = None
+
+
+def get_embedding_model(model_name: str = "BAAI/bge-small-en-v1.5"):
+    """Cached singleton for FastEmbed ONNX runtime session."""
+    global _EMBEDDING_MODEL
+    if _EMBEDDING_MODEL is None:
+        try:
+            from fastembed import TextEmbedding
+        except ImportError:
+            import sys
+            from pathlib import Path
+            root = Path(__file__).resolve().parent.parent
+            for candidate_root in [root, root.parent]:
+                venv_site = candidate_root / ".venv" / "lib" / f"python{sys.version_info.major}.{sys.version_info.minor}" / "site-packages"
+                if venv_site.exists() and str(venv_site) not in sys.path:
+                    sys.path.insert(0, str(venv_site))
+            from fastembed import TextEmbedding
+        _EMBEDDING_MODEL = TextEmbedding(model_name)
+    return _EMBEDDING_MODEL
+
+
 def compute_embeddings(
     signatures: List[str],
     model_name: str = "BAAI/bge-small-en-v1.5",
 ) -> np.ndarray:
     """Compute normalized dense embeddings using fastembed."""
-    try:
-        from fastembed import TextEmbedding
-    except ImportError:
-        import sys
-        from pathlib import Path
-        root = Path(__file__).resolve().parent.parent
-        venv_site = root / ".venv" / "lib" / f"python{sys.version_info.major}.{sys.version_info.minor}" / "site-packages"
-        if venv_site.exists() and str(venv_site) not in sys.path:
-            sys.path.insert(0, str(venv_site))
-        from fastembed import TextEmbedding
-
-    model = TextEmbedding(model_name)
+    if not signatures:
+        return np.zeros((0, 384), dtype=np.float32)
+    model = get_embedding_model(model_name)
     embs = np.array(list(model.embed(signatures)), dtype=np.float32)
+    if embs.ndim == 1:
+        embs = embs.reshape(1, -1)
     norms = np.linalg.norm(embs, axis=1, keepdims=True)
     norms[norms == 0] = 1e-12
     return embs / norms
@@ -75,6 +90,8 @@ def compute_embeddings(
 
 def compute_cosine_similarity_matrix(norm_embeddings: np.ndarray) -> np.ndarray:
     """Compute pairwise cosine similarity matrix from normalized embeddings."""
+    if norm_embeddings.size == 0 or norm_embeddings.shape[0] == 0:
+        return np.empty((0, 0), dtype=np.float32)
     return np.dot(norm_embeddings, norm_embeddings.T)
 
 
@@ -100,6 +117,9 @@ def select_mmr_portfolio(
         selected_portfolio: List of selected promo dictionaries with audit metadata.
         disqualification_log: List of all disqualified candidate events.
     """
+    if not rankings:
+        return [], []
+
     n_candidates = len(rankings)
     ranks = [r.get("rank", i + 1) for i, r in enumerate(rankings)]
     denom = max(1.0, float(n_candidates))
@@ -134,10 +154,13 @@ def select_mmr_portfolio(
 
     # Iterative MMR selection for picks 2 to k
     for step in range(2, k + 1):
+        if not pool:
+            break
         best_score = -1e9
         best_idx = None
         best_sim = None
         best_sim_source = None
+        to_disqualify = []
 
         for c in pool:
             sims = [(sim_matrix[c, s], cand_ids[s]) for s in selected]
@@ -154,6 +177,7 @@ def select_mmr_portfolio(
                     "duplicate_of": max_src,
                     "reason": f"Exceeded near-duplicate threshold ({max_s:.4f} >= {max_sim_threshold:.2f})"
                 })
+                to_disqualify.append(c)
                 continue
 
             q = quality_scores[c]
@@ -163,6 +187,10 @@ def select_mmr_portfolio(
                 best_idx = c
                 best_sim = max_s
                 best_sim_source = max_src
+
+        for d_c in to_disqualify:
+            if d_c in pool:
+                pool.remove(d_c)
 
         if best_idx is None:
             # Fallback if threshold eliminates all remaining candidates

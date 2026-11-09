@@ -21,7 +21,6 @@ if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
 
 from candidates.llm_client import call_llm, extract_json_payload, DEFAULT_MODEL
-from scoring.prompt_builder import format_candidate_screenplay
 
 PROMPT_FILE = "prompts/merged_scoring_v1.txt"
 
@@ -104,8 +103,22 @@ def score_candidate_batch(
         model=model,
     )
 
-    if isinstance(res, dict) and "raw_response" in res:
-        scored_list = extract_json_payload(res["raw_response"])
+    if isinstance(res, dict):
+        if "raw_response" in res:
+            parsed = extract_json_payload(res["raw_response"])
+        else:
+            parsed = res
+        if isinstance(parsed, list):
+            scored_list = parsed
+        elif isinstance(parsed, dict):
+            for key in ["scored_candidates", "candidates", "results", "scores", "data"]:
+                if key in parsed and isinstance(parsed[key], list):
+                    scored_list = parsed[key]
+                    break
+            else:
+                scored_list = list(parsed.values()) if all(isinstance(v, dict) for v in parsed.values()) else []
+        else:
+            scored_list = []
     elif isinstance(res, list):
         scored_list = res
     else:
@@ -192,6 +205,10 @@ def score_all_candidates_concurrent(
     Total calls for ~30 candidates: 6-8 calls.
     At 4 workers, completes in ~15-20 seconds.
     """
+    if not candidates:
+        print("Stage 3 scoring: 0 candidates to score.")
+        return []
+
     batches = [candidates[i:i + batch_size] for i in range(0, len(candidates), batch_size)]
     print(f"Divided {len(candidates)} candidates into {len(batches)} batches of ~{batch_size} (concurrency: {max_workers})...")
 
@@ -199,21 +216,48 @@ def score_all_candidates_concurrent(
     t0 = time.time()
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_map = {
-            executor.submit(score_candidate_batch, batch, beats_map, episode_number, model): i
+            executor.submit(score_candidate_batch, batch, beats_map, episode_number, model): (i, batch)
             for i, batch in enumerate(batches, 1)
         }
         for future in as_completed(future_map):
-            b_idx = future_map[future]
+            b_idx, batch = future_map[future]
             try:
                 batch_res = future.result()
                 all_scored.extend(batch_res)
                 print(f"  Batch {b_idx}/{len(batches)} scored ({len(batch_res)} candidates).")
             except Exception as e:
-                print(f"  Error scoring batch {b_idx}: {e}")
+                print(f"  Error scoring batch {b_idx}: {e}. Creating fallback unpassed candidate records.")
+                for cand in batch:
+                    all_scored.append({
+                        "candidate_id": cand["candidate_id"],
+                        "start_beat_id": cand["start_beat_id"],
+                        "end_beat_id": cand["end_beat_id"],
+                        "start_time": cand.get("start_time", 0.0),
+                        "end_time": cand.get("end_time", 0.0),
+                        "duration": cand.get("duration", 0.0),
+                        "timestamp_source": cand.get("timestamp_source", "given"),
+                        "comprehension": {
+                            "opening_legibility": False,
+                            "opening_rationale": f"Batch scoring failed: {e}",
+                            "arc_legibility": False,
+                            "arc_rationale": f"Batch scoring failed: {e}",
+                            "passes_gate": False,
+                            "situational_summary": "Scoring failed",
+                        },
+                        "emotional_salience": {
+                            "emotional_salience_score": 1,
+                            "emotional_core": "Unknown",
+                        },
+                        "spoiler": {
+                            "spoiler_level": 0,
+                            "spoiler_rationale": "Unknown",
+                        },
+                    })
 
     all_scored.sort(key=lambda x: (x["start_beat_id"], x["end_beat_id"]))
     elapsed = time.time() - t0
     passes = sum(1 for c in all_scored if c["comprehension"]["passes_gate"])
-    print(f"Stage 3 scoring completed in {elapsed:.2f}s. Passed gate: {passes}/{len(all_scored)} ({passes/len(all_scored)*100.0:.1f}%)")
+    pct = (passes / len(all_scored) * 100.0) if all_scored else 0.0
+    print(f"Stage 3 scoring completed in {elapsed:.2f}s. Passed gate: {passes}/{len(all_scored)} ({pct:.1f}%)")
     return all_scored
 

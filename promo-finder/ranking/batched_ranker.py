@@ -143,8 +143,22 @@ def run_batched_ranking(
         model=model,
     )
 
-    if isinstance(res, dict) and "raw_response" in res:
-        ranked_list = extract_json_payload(res["raw_response"])
+    if isinstance(res, dict):
+        if "raw_response" in res:
+            parsed = extract_json_payload(res["raw_response"])
+        else:
+            parsed = res
+        if isinstance(parsed, list):
+            ranked_list = parsed
+        elif isinstance(parsed, dict):
+            for key in ["rankings", "candidates", "results", "ranked_candidates", "data"]:
+                if key in parsed and isinstance(parsed[key], list):
+                    ranked_list = parsed[key]
+                    break
+            else:
+                ranked_list = list(parsed.values()) if all(isinstance(v, dict) for v in parsed.values()) else []
+        else:
+            ranked_list = []
     elif isinstance(res, list):
         ranked_list = res
     else:
@@ -152,6 +166,8 @@ def run_batched_ranking(
 
     score_dict: Dict[str, Dict[str, Any]] = {}
     for item in ranked_list:
+        if not isinstance(item, dict):
+            continue
         cid = item.get("candidate_id")
         if cid:
             h_score = float(item.get("hook_score", 1.5))

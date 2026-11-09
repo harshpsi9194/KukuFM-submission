@@ -12,6 +12,7 @@ Per AGENTS.md Rule 5: Events within a beat can overlap in time (CAMERA/ACTION/DI
 Logs all successful detection calls to outputs/llm_detector_calls.jsonl and failures to outputs/llm_detector_errors.jsonl.
 """
 
+import concurrent.futures
 import datetime
 import json
 import os
@@ -26,14 +27,7 @@ if str(ROOT_DIR) not in sys.path:
 
 from parser.schema import Episode, Beat
 from candidates.schema import HookSignal, CliffhangerSignal
-from candidates.llm_client import call_llm, extract_json_payload, DEFAULT_MODEL, estimate_tokens
-
-
-def estimate_tokens(text: str) -> int:
-    """Estimates token count from text using standard 1.33 tokens/word heuristic."""
-    words = len(text.split())
-    chars = len(text)
-    return max(1, int(words * 1.33)) if words > 0 else max(1, chars // 4)
+from candidates.llm_client import call_llm, extract_json_payload, DEFAULT_MODEL
 
 
 def format_episode_beats(episode: Episode, beats: Optional[List[Beat]] = None) -> str:
@@ -75,15 +69,6 @@ def chunk_beats(beats: List[Beat], chunk_size: int = 40, overlap: int = 3) -> Li
     return chunks
 
 
-def log_detector_call(
-    log_path: Path,
-    entry: Dict[str, Any]
-):
-    log_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(log_path, "a", encoding="utf-8") as f:
-        f.write(json.dumps(entry) + "\n")
-
-
 def detect_hook_signals(
     episode: Episode,
     model: str = DEFAULT_MODEL,
@@ -117,8 +102,22 @@ def detect_hook_signals(
             model=model,
         )
 
-        if isinstance(res, dict) and "raw_response" in res:
-            chunk_list = extract_json_payload(res["raw_response"])
+        if isinstance(res, dict):
+            if "raw_response" in res:
+                parsed = extract_json_payload(res["raw_response"])
+            else:
+                parsed = res
+            if isinstance(parsed, list):
+                chunk_list = parsed
+            elif isinstance(parsed, dict):
+                for key in ["hooks", "hook_signals", "signals", "beats", "items", "results"]:
+                    if key in parsed and isinstance(parsed[key], list):
+                        chunk_list = parsed[key]
+                        break
+                else:
+                    chunk_list = list(parsed.values()) if all(isinstance(v, dict) for v in parsed.values()) else []
+            else:
+                chunk_list = []
         elif isinstance(res, list):
             chunk_list = res
         else:
@@ -127,6 +126,8 @@ def detect_hook_signals(
 
     hook_dict: Dict[str, HookSignal] = {}
     for item in all_hook_items:
+        if not isinstance(item, dict):
+            continue
         b_id = str(item.get("beat_id", "")).strip()
         if not b_id:
             continue
@@ -206,8 +207,22 @@ def detect_cliffhanger_signals(
             model=model,
         )
 
-        if isinstance(res, dict) and "raw_response" in res:
-            chunk_list = extract_json_payload(res["raw_response"])
+        if isinstance(res, dict):
+            if "raw_response" in res:
+                parsed = extract_json_payload(res["raw_response"])
+            else:
+                parsed = res
+            if isinstance(parsed, list):
+                chunk_list = parsed
+            elif isinstance(parsed, dict):
+                for key in ["cliffhangers", "cliffhanger_signals", "signals", "beats", "items", "results"]:
+                    if key in parsed and isinstance(parsed[key], list):
+                        chunk_list = parsed[key]
+                        break
+                else:
+                    chunk_list = list(parsed.values()) if all(isinstance(v, dict) for v in parsed.values()) else []
+            else:
+                chunk_list = []
         elif isinstance(res, list):
             chunk_list = res
         else:
@@ -216,6 +231,8 @@ def detect_cliffhanger_signals(
 
     cliff_dict: Dict[str, CliffhangerSignal] = {}
     for item in all_cliff_items:
+        if not isinstance(item, dict):
+            continue
         b_id = str(item.get("beat_id", "")).strip()
         if not b_id:
             continue
@@ -264,8 +281,6 @@ def detect_cliffhanger_signals(
 
     return cliff_dict
 
-
-import concurrent.futures
 
 def detect_episode_signals(
     episode: Episode,

@@ -132,6 +132,24 @@ class TestStage5Portfolio(unittest.TestCase):
         self.assertEqual(cliff_score, 5.0)  # Ends with question mark
         self.assertEqual(total, 5.0)
 
+    def test_select_mmr_portfolio_empty_rankings(self):
+        """Empty rankings returns empty portfolio and empty disqualification log without crashing."""
+        sim_matrix = np.empty((0, 0), dtype=np.float32)
+        portfolio, disqualifications = select_mmr_portfolio([], sim_matrix, k=5)
+        self.assertEqual(portfolio, [])
+        self.assertEqual(disqualifications, [])
+
+    def test_compute_embeddings_empty_signatures(self):
+        """Empty signatures list returns empty (0, 384) numpy array without AxisError."""
+        from ranking.mmr import compute_embeddings
+        embs = compute_embeddings([])
+        self.assertEqual(embs.shape, (0, 384))
+
+    def test_compute_cosine_similarity_empty(self):
+        """Empty normalized embeddings returns empty (0, 0) similarity matrix."""
+        sim_matrix = compute_cosine_similarity_matrix(np.empty((0, 384), dtype=np.float32))
+        self.assertEqual(sim_matrix.shape, (0, 0))
+
 
 if __name__ == "__main__":
     unittest.main()

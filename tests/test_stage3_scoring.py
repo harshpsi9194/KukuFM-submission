@@ -161,6 +161,45 @@ class TestStage3Scoring(unittest.TestCase):
         self.assertEqual(res["emotional_salience"]["emotional_salience_score"], 1)
         self.assertEqual(res["spoiler"]["spoiler_level"], 0)
 
+    def test_score_all_candidates_empty_list(self):
+        """Zero candidates returns empty list without ZeroDivisionError."""
+        res = score_all_candidates_concurrent([], self.beats_map, episode_number=1)
+        self.assertEqual(res, [])
+
+    @patch("scoring.merged_scorer.call_llm")
+    def test_score_candidate_batch_dict_wrapped_response(self, mock_llm):
+        """Unwraps dictionary responses containing 'candidates' or 'scored_candidates'."""
+        mock_llm.return_value = {
+            "scored_candidates": [
+                {
+                    "candidate_id": "CAND_EP001_01",
+                    "opening_legibility": True,
+                    "opening_rationale": "Clear start",
+                    "arc_legibility": True,
+                    "arc_rationale": "Clear conflict",
+                    "passes_comprehension_gate": True,
+                    "situational_summary": "Summary",
+                    "emotional_salience_score": 4,
+                    "emotional_core": "Tension",
+                    "spoiler_level": 1,
+                    "spoiler_rationale": "Minor",
+                }
+            ]
+        }
+        results = score_candidate_batch([self.candidate], self.beats_map, episode_number=1)
+        self.assertEqual(len(results), 1)
+        self.assertTrue(results[0]["comprehension"]["passes_gate"])
+
+    @patch("scoring.merged_scorer.score_candidate_batch")
+    def test_score_all_candidates_worker_failure_fallback(self, mock_batch):
+        """Worker thread exceptions do not drop candidate IDs or crash the pipeline."""
+        mock_batch.side_effect = RuntimeError("Worker failure / timeout")
+        results = score_all_candidates_concurrent([self.candidate], self.beats_map, episode_number=1, batch_size=1)
+        self.assertEqual(len(results), 1)
+        self.assertEqual(results[0]["candidate_id"], "CAND_EP001_01")
+        self.assertFalse(results[0]["comprehension"]["passes_gate"])
+        self.assertIn("Batch scoring failed", results[0]["comprehension"]["opening_rationale"])
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -194,6 +194,32 @@ class TestStage4Ranking(unittest.TestCase):
         self.assertEqual(ranked[1]["candidate_id"], "CAND_EP001_01")
         self.assertEqual(ranked[1]["rank"], 2)
 
+    def test_run_batched_ranking_empty_candidates(self):
+        """Zero candidates returns empty lists without LLM calls."""
+        ranked, _ = run_batched_ranking([], self.scored_map, self.beats_map)
+        self.assertEqual(ranked, [])
+
+    @patch("ranking.batched_ranker.call_llm")
+    def test_run_batched_ranking_dict_wrapped_response(self, mock_llm):
+        """Correctly parses LLM response wrapped in a dictionary under 'rankings'."""
+        mock_llm.return_value = {
+            "rankings": [
+                {
+                    "candidate_id": "CAND_EP001_01",
+                    "hook_score": 2.2,
+                    "tension_score": 2.2,
+                    "cliffhanger_score": 2.2,
+                    "resonance_score": 2.2,
+                    "absolute_score": 8.8,
+                    "rank_justification": "Strong across all dimensions.",
+                }
+            ]
+        }
+        ranked, _ = run_batched_ranking([self.cand_a], self.scored_map, self.beats_map)
+        self.assertEqual(len(ranked), 1)
+        self.assertEqual(ranked[0]["candidate_id"], "CAND_EP001_01")
+        self.assertEqual(ranked[0]["absolute_score"], 8.8)
+
 
 if __name__ == "__main__":
     unittest.main()

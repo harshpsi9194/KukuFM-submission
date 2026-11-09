@@ -28,23 +28,44 @@ import time
 import urllib.request
 import urllib.error
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 
 import shutil
 
-# Model configuration
-DEFAULT_MODEL = os.environ.get("PROMO_MODEL", "gemini-3.8-flash-low")
+def get_default_model() -> str:
+    """Dynamically determine default model based on available environment credentials."""
+    if os.environ.get("PROMO_MODEL"):
+        return os.environ["PROMO_MODEL"]
+    if os.environ.get("OPENAI_API_KEY"):
+        return "gpt-4o-mini"
+    if os.environ.get("GEMINI_API_KEY"):
+        return "gemini-2.5-flash"
+    return "gemini-2.5-flash"
+
+DEFAULT_MODEL = get_default_model()
 AGY_EXE = os.environ.get("AGY_EXE", shutil.which("agy") or str(Path.home() / ".gemini" / "bin" / "agy"))
 API_KEY = os.environ.get("LLM_API_KEY", os.environ.get("OPENAI_API_KEY", os.environ.get("GEMINI_API_KEY", "")))
 API_BASE_URL = os.environ.get("LLM_API_BASE_URL", "")
-# Auto-resolve API base URL based on available credentials if not explicitly configured
-if not API_BASE_URL and API_KEY:
-    if os.environ.get("OPENAI_API_KEY"):
-        API_BASE_URL = "https://api.openai.com/v1"
-    elif os.environ.get("GEMINI_API_KEY"):
-        API_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai"
+
+def get_api_credentials() -> Tuple[str, str]:
+    """Dynamically resolve API credentials and base URL at call time."""
+    api_key = (
+        os.environ.get("LLM_API_KEY")
+        or os.environ.get("OPENAI_API_KEY")
+        or os.environ.get("GEMINI_API_KEY")
+        or API_KEY
+    )
+    base_url = os.environ.get("LLM_API_BASE_URL") or API_BASE_URL
+    if not base_url and api_key:
+        if os.environ.get("OPENAI_API_KEY") or api_key.startswith("sk-"):
+            base_url = "https://api.openai.com/v1"
+        elif os.environ.get("GEMINI_API_KEY") or api_key.startswith("AIza"):
+            base_url = "https://generativelanguage.googleapis.com/v1beta/openai"
+        else:
+            base_url = "https://api.openai.com/v1"
+    return api_key, base_url
 
 # Pricing assumptions (Gemini Flash class: $0.075/1M in, $0.30/1M out)
 INPUT_COST_PER_MILLION = 0.075
@@ -149,7 +170,7 @@ def _call_cli_bridge(prompt: str, model: str, cli_exe: str, timeout: int = 120) 
     )
     combined_err = (res.stdout + " " + res.stderr).lower()
     if any(k in combined_err for k in ["resource_exhausted", "quota", "rate limit", "429"]):
-        raise urllib.error.HTTPError(None, 429, "Rate limit / quota exceeded", None, None)
+        raise RuntimeError(f"Rate limit / quota exceeded (HTTP 429): {combined_err[:120]}")
     if res.returncode != 0 and not res.stdout.strip():
         raise RuntimeError(f"CLI command failed with code {res.returncode}: {res.stderr}")
     return res.stdout.strip()
@@ -171,7 +192,8 @@ def call_llm(
     Executes a prompt through the model-agnostic client, parses JSON, and logs telemetry.
     Model is fully parameterized and easily configured.
     """
-    active_model = model or DEFAULT_MODEL
+    active_model = model or get_default_model()
+    active_api_key, active_base_url = get_api_credentials()
     s_log = success_log or SUCCESS_LOG_PATH
     e_log = error_log or ERROR_LOG_PATH
 
@@ -184,9 +206,9 @@ def call_llm(
 
     for attempt in range(max_retries):
         try:
-            # Mode 1: Standard REST API if API_BASE_URL and API_KEY are set
-            if API_BASE_URL and API_KEY:
-                raw_output = _call_http_api(prompt, active_model, API_BASE_URL, API_KEY)
+            # Mode 1: Standard REST API if active_base_url and active_api_key are set
+            if active_base_url and active_api_key:
+                raw_output = _call_http_api(prompt, active_model, active_base_url, active_api_key)
             # Mode 2: Local CLI bridge runner
             else:
                 raw_output = _call_cli_bridge(prompt, active_model, AGY_EXE)
